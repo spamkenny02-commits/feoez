@@ -333,3 +333,18 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - La Grue divine garde un ton solennel et parle au féminin.
 - Le bloc de la grotte partagé par 141/142 reçoit une traduction unique
   pour les deux références. B141-S015 (« !!! ») reste identique.
+
+## Lot 15 — V20
+
+- Sara : Sable et Soie, explication des caractères de son nom conservée.
+- Tone/Steel/Fleet scrolls : parchemins Ton / Acier / Vif, noms provisoires.
+- Libération de Tenjin, Binan et Chitose : solennité de Tenjin, familiarité
+  de Subaru et collection prétentieuse de Sara conservées.
+- Le bloc 143 est partagé avec 144/145/146 : une seule traduction pour
+  les quatre références de la statue de Sara.
+- Trois chansons (B140-S002/S022/S027) gardent leurs octets anglais,
+  leurs commandes 0A/CB encore exclues de l'édition.
+
+- Relecture à l'écran B136-S010 : « par ma puissance ! Gardez-la avec vous »
+  remplace la phrase plus longue pour éviter une page avec « Feu ! » seul.
+  Une traduction antérieure est volontairement corrigée dans V20.

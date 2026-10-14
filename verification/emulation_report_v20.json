@@ -1,0 +1,39 @@
+{
+  "version": "V20",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "bcb8815ef949e334f870ce2af621c8192e637032991507ecf6fd759006143db7",
+  "patch_sha256": "a7252f4325e714cc433f0f5b96ff1512a1aec3f27d597b6e670dbf402850a35f",
+  "fresh_boot": true,
+  "autotests": "A/B ALL OK",
+  "common_captures_identical_to_v19": 85,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": [
+        72,
+        119,
+        80,
+        127
+      ],
+      "identical": false
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true
+    }
+  ],
+  "targeted_dialogues": 12,
+  "targeted_render_report": "scenes_v20/render_report.json",
+  "limits": [
+    "Targeted rendering is staged with a diagnostic core, not natural scene progression.",
+    "Quest choices, rewards and recruitment effects not validated.",
+    "16 deferred messages and block132 remain in English."
+  ]
+}

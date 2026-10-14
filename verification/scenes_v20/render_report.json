@@ -1,0 +1,213 @@
+{
+  "rom_sha256": "bcb8815ef949e334f870ce2af621c8192e637032991507ecf6fd759006143db7",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "bf4fc2572a017a2e43c1c5076723414b187ca4c829122ad904d3d1c370553e4d",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B136-S010",
+      "case": "pierre_grue",
+      "expected_terminator": "0x4686cd",
+      "observed_terminators": [
+        "0x4686cd"
+      ],
+      "native_read_complete": true,
+      "captures": 743,
+      "review_images": [
+        "pierre_grue_00.png",
+        "pierre_grue_01.png",
+        "pierre_grue_02.png",
+        "pierre_grue_03.png",
+        "pierre_grue_04.png",
+        "pierre_grue_05.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B138-S007",
+      "case": "lettre_puits",
+      "expected_terminator": "0x4698e0",
+      "observed_terminators": [
+        "0x4698e0"
+      ],
+      "native_read_complete": true,
+      "captures": 2614,
+      "review_images": [
+        "lettre_puits_00.png",
+        "lettre_puits_01.png",
+        "lettre_puits_02.png",
+        "lettre_puits_03.png",
+        "lettre_puits_04.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B139-S037",
+      "case": "remise_20",
+      "expected_terminator": "0x46a7f3",
+      "observed_terminators": [
+        "0x46a7f3"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "review_images": [
+        "remise_20_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B141-S001",
+      "case": "omine_poche",
+      "expected_terminator": "0x46cf64",
+      "observed_terminators": [
+        "0x46cf64"
+      ],
+      "native_read_complete": true,
+      "captures": 1978,
+      "review_images": [
+        "omine_poche_00.png",
+        "omine_poche_01.png",
+        "omine_poche_02.png",
+        "omine_poche_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B141-S012",
+      "case": "omine_sauvetage",
+      "expected_terminator": "0x46d2cf",
+      "observed_terminators": [
+        "0x46d2cf"
+      ],
+      "native_read_complete": true,
+      "captures": 2173,
+      "review_images": [
+        "omine_sauvetage_00.png",
+        "omine_sauvetage_01.png",
+        "omine_sauvetage_02.png",
+        "omine_sauvetage_03.png",
+        "omine_sauvetage_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B140-S003",
+      "case": "sara_accueil",
+      "expected_terminator": "0x46b820",
+      "observed_terminators": [
+        "0x46b820"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "review_images": [
+        "sara_accueil_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B140-S008",
+      "case": "sara_nom",
+      "expected_terminator": "0x46ba9b",
+      "observed_terminators": [
+        "0x46ba9b"
+      ],
+      "native_read_complete": true,
+      "captures": 545,
+      "review_images": [
+        "sara_nom_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B140-S017",
+      "case": "tenjin_rejoint",
+      "expected_terminator": "0x46bf70",
+      "observed_terminators": [
+        "0x46bf70"
+      ],
+      "native_read_complete": true,
+      "captures": 128,
+      "review_images": [
+        "tenjin_rejoint_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B140-S035",
+      "case": "parchemins",
+      "expected_terminator": "0x46c439",
+      "observed_terminators": [
+        "0x46c439"
+      ],
+      "native_read_complete": true,
+      "captures": 564,
+      "review_images": [
+        "parchemins_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B140-S042",
+      "case": "tenjin_presentation",
+      "expected_terminator": "0x46c807",
+      "observed_terminators": [
+        "0x46c807"
+      ],
+      "native_read_complete": true,
+      "captures": 555,
+      "review_images": [
+        "tenjin_presentation_00.png",
+        "tenjin_presentation_01.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B143-S001",
+      "case": "statue_sara",
+      "expected_terminator": "0x46d6dc",
+      "observed_terminators": [
+        "0x46d6dc"
+      ],
+      "native_read_complete": true,
+      "captures": 527,
+      "review_images": [
+        "statue_sara_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B146-S001",
+      "case": "statue_alias",
+      "expected_terminator": "0x46d6dc",
+      "observed_terminators": [
+        "0x46d6dc"
+      ],
+      "native_read_complete": true,
+      "captures": 527,
+      "review_images": [
+        "statue_alias_00.png"
+      ],
+      "visual_review": "reviewed: readable accents, native pages and expected content",
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 29,
+  "instrumentation": "Only one CPU block/index request redirected; ROM unchanged. Native reader termination verified; no event/reward assertion.",
+  "review_notes": [
+    "B136-S010 shortened: final Feu is no longer isolated.",
+    "Omine 5000 ryo and 1000 ryo confirmed in ending captures.",
+    "Blank lines/brief final page in rescue message retained from source.",
+    "Backgrounds are diagnostic staging; NPC/event/reward progression is untested."
+  ]
+}

@@ -1,92 +1,74 @@
-# Tengai Makyou Zero — Traduction française V19
+# Tengai Makyou Zero — Traduction française V20
 
-**112 entrées ajoutées**, dont **111 textes modifiés** ;
-**1 381 entrées intégrées avec accents** au total.
-Les 1 269 anciennes entrées sont conservées, mise en page et octets source compris.
+61 entrées ajoutées : 60 textes modifiés et une réponse neutre conservée.
+**1 442 entrées intégrées avec accents**. La galerie de Sara, la libération
+de Tenjin et les quatre références de la statue de Sara sont intégrées.
+Trois chansons à commandes 0A/CB restent en anglais.
+
+Une correction de mise en page touche B136-S010 : la phrase de la Grue
+est raccourcie pour éviter une page avec « Feu ! » seul. Les 1 380 autres
+entrées de V19 sont inchangées. Cette correction est séparée dans
+traduction/corrections_v20.json ; les sources historiques de V19 sont conservées.
 Les variantes, répétitions et réponses neutres sont comptées séparément.
-
-## Lot 14
-
-Grue divine et pierre de la Grue, village du Saké avant et après sa
-libération, boutiques et production du saké, grotte du Clapotis et Omine.
-Cinq blocs : 136, 137, 138, 139 et 141, ce dernier partagé avec 142.
-Les deux références de la grotte reçoivent la même traduction.
-B141-S015 (« !!! ») est conservée sans modification.
-
-Les tarifs de 90/1 000/5 000 ryo, les cinq secondes de la poche d'air,
-les 20 pour cent de remise de 17 h à 20 h et le symbole 14 sont conservés.
-L'eau de vie de la fontaine et le Saké de vie sont deux noms distincts.
-Les treize entrées différées et les blocs 132/140 restent en anglais,
-avec leurs octets conservés.
-Premier jet depuis l'anglais fourni, sans comparaison avec le script japonais.
-Noms provisoires et adaptations consignés au glossaire.
+Premier jet depuis l'anglais fourni, sans comparaison au script japonais.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V19.ips** directement à une copie de la ROM
-anglaise originale, sans cumuler les versions. Le patch V18 reste disponible
-pour revenir à la version précédente.
+Appliquer **Tengai_Makyou_Zero_FR_V20.ips** directement à une copie de la ROM
+anglaise originale, sans cumuler les versions.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
-- SHA-256 source : `eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
+- SHA-256 : `eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
 
-Le dépôt ne contient ni ROM ni sauvegarde d'état.
+Le dépôt ne contient ni ROM, ni sauvegarde d'état, ni noyau binaire d'émulateur.
 
-## Construction et relecture
-
-```bash
-python tools/build_v19.py /chemin/rom_anglaise.sfc --rom-out /chemin/v19_fr.sfc
-python tools/verify_font.py /chemin/rom_anglaise.sfc
-```
-
-Python 3 ; Pillow pour les contrôles de police. Le générateur repart toujours
-de l'original. Les quatorze lots JSON sont les sources de traduction. Le générateur crée les fichiers
-`traduction/traduction_v19.json`, `.tsv` et `lecture_v19.txt` localement pour
-la relecture bilingue. Les lots JSON versionnés suffisent à les reconstruire.
-Les résultats des versions précédentes et les anciens générateurs sont historiques.
-
-1 858 lectures dans les routines natives passent. Le placement utilise
-53 blocs sur place et 19 déplacés ; 95 648 octets restent libres. Les
-blocs sur place remplacent les textes anglais dans la ROM de sortie ;
-le fichier anglais d'entrée n'est jamais modifié.
+## Construction
 
 ```bash
-python tools/verify_storage.py /chemin/rom_anglaise.sfc --version V19 --built-rom /chemin/v19_fr.sfc --build-report verification/build_report.json
+python tools/build_v20.py /chemin/original.sfc --rom-out /chemin/v20.sfc
+python tools/verify_font.py /chemin/original.sfc
+python tools/verify_storage.py /chemin/original.sfc --version V20 --built-rom /chemin/v20.sfc --build-report verification/build_report.json
 ```
 
-Police française inchangée depuis V06 : 32 lettres accentuées et quatre
-ligatures ; Ÿ/ÿ remplacent Ā/ā. Les 16 contrôles de police passent. La largeur
-maximale est de 216 pixels, avec une réserve de 96 pixels pour les substitutions
-dynamiques et conservation de la disposition du choix Oui/Non.
+Python 3 et Pillow. Les quinze lots JSON et corrections_v20.json sont les sources.
+Le générateur produit les fichiers bilingues JSON/TSV et lecture_v20.txt localement.
+1 925 lectures dans les routines originales 65816 passent, avec les chaînes
+inchangées et les alias. Balises, largeur maximale de 216 pixels, pointeurs,
+checksum, encodage et aller-retour IPS sont contrôlés. Les 16 contrôles de police
+et 14 contrôles du placement passent. 55 blocs sur place, 19 relocalisés,
+95 648 octets libres ; le fichier anglais d'entrée n'est pas modifié.
 
-## Émulation
+## Essais dans Snes9x
 
-Snes9x 1.63, commit 1bcc369e89f08243e0a462882fb1f3e42e51de3a.
-Source du noyau : https://github.com/snes9xgit/snes9x
-La version 1.60 n'est pas testée ici.
+Noyau standard Snes9x 1.63, commit 1bcc369e89f08243e0a462882fb1f3e42e51de3a.
+Démarrage neuf : A, vérification, reset, B, vérification, reset. Autotests ALL OK.
+Les 85 captures communes avec V19 sont identiques. Menus et carte accessibles.
+La version 1.60, le jeu complet et le matériel réel ne sont pas testés ici.
 
-Le protocole de démarrage est A, vérification, reset, B, vérification, reset.
-Le parcours repart d'un démarrage neuf avec autotests A/B et resets,
-puis introduction et début de partie. Le scénario run_navigation.py
-utilise des appuis de 12 images pour ouvrir les menus, les réglages et
-la carte. Le rapport V19 lie le patch et la ROM testée à ces observations.
-Autotests A/B ALL OK ; les 85 captures du parcours commun sont identiques
-à V18. Le menu principal, les réglages et la carte sont également identiques. Les 111 nouveaux textes restent à vérifier dans leurs scènes.
-Voir verification/emulation_report_v19.json.
+Douze essais ciblés contrôlent aussi les nouveaux dialogues à l'écran :
+pierre de la Grue, lettre sous le puits, remise de 20 pour cent, tarifs d'Omine,
+Sara, arrivée et présentation de Tenjin, parchemins et statue de Sara avec alias.
+Ils utilisent la ROM finale inchangée et un noyau de diagnostic séparé qui
+redirige une seule demande de dialogue vers le bloc et le message testés.
+Les routines de lookup, sélection, lecture et rendu restent celles du jeu.
+Le curseur doit atteindre le terminateur exact, puis les captures sont relues.
 
-Les scripts `verification/reproduction` utilisent NumPy et Pillow.
-Ils reproduisent le démarrage, la navigation et les choix de dialogues.
-Créer les états avec la même ROM et le même noyau ; ne pas reprendre les états
-d'une version antérieure. Les historiques complets et résultats bilingues
-peuvent être régénérés localement. Aucun dump mémoire complet n'est publié.
+**Ces essais valident les textes et leur pagination, pas la progression naturelle,
+les positions des PNJ, les choix de quête, les récompenses ou le recrutement.**
+Les arrière-plans de ces captures sont ceux du banc de test. Rapport et images :
+verification/scenes_v20. Les messages différés et le bloc 132 restent en anglais.
 
-## Vérifications V19
+## Reproduire les essais ciblés
 
-1 858 lectures 65816, 16 contrôles de police et 14 contrôles du placement
-réussis. Balises, pointeurs, alias, largeur de 216 pixels et IPS contrôlés.
-Les cinq nouveaux blocs tiennent à leur emplacement d’origine.
-Il reste 95 648 octets dans le pool de relocalisation.
-Le rapport courant build_report.json concerne la V19.
-regression_v18_v19.json documente les 1 269 anciennes entrées préservées ;
-Les choix des lots antérieurs conservent leur mise en page.
-Les anciens rapports restent des preuves de leurs propres versions.
+Compiler le noyau standard depuis https://github.com/snes9xgit/snes9x au commit
+ci-dessus. NumPy et Pillow sont nécessaires pour le frontend. Le constructeur
+de diagnostic restaure le code source et le noyau standard après compilation.
+
+```bash
+python verification/reproduction/build_diagnostic_core.py --source /chemin/snes9x --out /chemin/diagnostic.so
+python verification/reproduction/prepare_dialogue_state.py --core /chemin/standard.so --rom /chemin/v20.sfc --out /chemin/etat_v20
+python verification/reproduction/run_targeted_dialogues.py --core /chemin/diagnostic.so --rom /chemin/v20.sfc --state /chemin/etat_v20/dialogue_entry.state --out /chemin/essais_v20
+```
+
+Créer l'état avec la ROM exacte à tester. Ne pas réutiliser un état d'une autre
+version. Le noyau de diagnostic ne sert pas aux essais de progression.

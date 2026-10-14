@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "e200d8debc960c9a7875fb9c0c5da1fb8e19e8f9434bdc0353cffea6e95e797b",
-  "translated_entries": 1381,
-  "new_entries": 112,
-  "previously_integrated": 1269,
-  "new_nonempty_texts": 112,
-  "new_changed_entries": 111,
+  "output_sha256": "bcb8815ef949e334f870ce2af621c8192e637032991507ecf6fd759006143db7",
+  "translated_entries": 1442,
+  "new_entries": 61,
+  "previously_integrated": 1381,
+  "new_nonempty_texts": 61,
+  "new_changed_entries": 60,
   "new_passthrough_entries": 1,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 1381,
+  "integrated_entries": 1442,
   "blocks": [
     {
       "block_ids": [
@@ -1254,7 +1254,7 @@
       "source": "0x668064",
       "destination": "0x668064",
       "old_size": 4027,
-      "new_size": 3645,
+      "new_size": 3639,
       "translated": 17,
       "storage": "in_place",
       "old_relative_offsets": [
@@ -1263,7 +1263,7 @@
       ],
       "new_relative_offsets": [
         4,
-        3341
+        3335
       ]
     },
     {
@@ -1325,6 +1325,29 @@
     },
     {
       "block_ids": [
+        140
+      ],
+      "source": "0x66b727",
+      "destination": "0x66b727",
+      "old_size": 6009,
+      "new_size": 5719,
+      "translated": 60,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0008",
+        "0x0883",
+        "0x0C76",
+        "0x1252"
+      ],
+      "new_relative_offsets": [
+        8,
+        2092,
+        3107,
+        4533
+      ]
+    },
+    {
+      "block_ids": [
         141,
         142
       ],
@@ -1341,6 +1364,26 @@
       "new_relative_offsets": [
         4,
         1139
+      ]
+    },
+    {
+      "block_ids": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "source": "0x66d69e",
+      "destination": "0x66d69e",
+      "old_size": 81,
+      "new_size": 63,
+      "translated": 1,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
       ]
     },
     {
@@ -1363,7 +1406,7 @@
       ]
     }
   ],
-  "engine_checks": 1858,
+  "engine_checks": 1925,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1373,10 +1416,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v19.json",
+  "runtime_validation": "see emulation_report_v20.json",
   "allocation_end": "0x6b8a60",
   "free_bytes": 95648,
-  "in_place_blocks": 53,
+  "in_place_blocks": 55,
   "relocated_blocks": 19,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
@@ -1386,6 +1429,11 @@
     ],
     "130": [
       19
+    ],
+    "140": [
+      2,
+      22,
+      27
     ]
   },
   "deferred_block97_entries": [

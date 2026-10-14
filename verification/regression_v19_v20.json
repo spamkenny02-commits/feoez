@@ -1,0 +1,19 @@
+{
+  "baseline_entries": 1381,
+  "unchanged_entries": 1380,
+  "intentional_corrections": [
+    "B136-S010"
+  ],
+  "all_other_entries_preserved": true,
+  "compared_fields": [
+    "french",
+    "french_in_game",
+    "source_hex"
+  ],
+  "new_entries": 61,
+  "new_changed_entries": 60,
+  "passthrough_entries": [
+    "B140-S024"
+  ],
+  "current_source_manifest_matches_tested_build": true
+}
