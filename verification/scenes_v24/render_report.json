@@ -1,0 +1,286 @@
+{
+  "rom_sha256": "c82c75b3831a25847163972026e2590172edfc6f93576cd523c0fc8d8af9aa55",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "20b0cf4f263a5f12235429233e4f51574b31106302e2c6daa04efcddc730e2e8",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B163-S001",
+      "case": "auberge_180",
+      "expected_terminator": "0x477a2c",
+      "observed_terminators": [
+        "0x477a2c"
+      ],
+      "native_read_complete": true,
+      "captures": 774,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "auberge_180_00.png",
+        "auberge_180_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B163-S006",
+      "case": "indice_code",
+      "expected_terminator": "0x477c49",
+      "observed_terminators": [
+        "0x477c49"
+      ],
+      "native_read_complete": true,
+      "captures": 936,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "indice_code_00.png",
+        "indice_code_01.png",
+        "indice_code_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B163-S021",
+      "case": "duel_byakuen",
+      "expected_terminator": "0x478687",
+      "observed_terminators": [
+        "0x478687"
+      ],
+      "native_read_complete": true,
+      "captures": 1086,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "duel_byakuen_00.png",
+        "duel_byakuen_01.png",
+        "duel_byakuen_02.png",
+        "duel_byakuen_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B164-S002",
+      "case": "dejima_refus",
+      "expected_terminator": "0x4788d4",
+      "observed_terminators": [
+        "0x4788d4"
+      ],
+      "native_read_complete": true,
+      "captures": 1219,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "dejima_refus_00.png",
+        "dejima_refus_01.png",
+        "dejima_refus_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B164-S022",
+      "case": "pere_higan",
+      "expected_terminator": "0x479493",
+      "observed_terminators": [
+        "0x479493"
+      ],
+      "native_read_complete": true,
+      "captures": 1022,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "pere_higan_00.png",
+        "pere_higan_01.png",
+        "pere_higan_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B164-S023",
+      "case": "encouragement_coeur",
+      "expected_terminator": "0x479518",
+      "observed_terminators": [
+        "0x479518"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "encouragement_coeur_00.png",
+        "encouragement_coeur_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B165-S006",
+      "case": "auberge_250",
+      "expected_terminator": "0x479db1",
+      "observed_terminators": [
+        "0x479db1"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "auberge_250_00.png",
+        "auberge_250_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B166-S003",
+      "case": "vivacite",
+      "expected_terminator": "0x47abc3",
+      "observed_terminators": [
+        "0x47abc3"
+      ],
+      "native_read_complete": true,
+      "captures": 1027,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "vivacite_00.png",
+        "vivacite_01.png",
+        "vivacite_02.png",
+        "vivacite_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B166-S008",
+      "case": "esprit_60",
+      "expected_terminator": "0x47b116",
+      "observed_terminators": [
+        "0x47b116"
+      ],
+      "native_read_complete": true,
+      "captures": 1423,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "esprit_60_00.png",
+        "esprit_60_01.png",
+        "esprit_60_02.png",
+        "esprit_60_03.png",
+        "esprit_60_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B166-S013",
+      "case": "recit_flammes",
+      "expected_terminator": "0x47bc9e",
+      "observed_terminators": [
+        "0x47bc9e"
+      ],
+      "native_read_complete": true,
+      "captures": 1711,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "recit_flammes_00.png",
+        "recit_flammes_01.png",
+        "recit_flammes_02.png",
+        "recit_flammes_03.png",
+        "recit_flammes_04.png",
+        "recit_flammes_05.png",
+        "recit_flammes_06.png",
+        "recit_flammes_07.png",
+        "recit_flammes_08.png",
+        "recit_flammes_09.png",
+        "recit_flammes_10.png",
+        "recit_flammes_11.png",
+        "recit_flammes_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B168-S001",
+      "case": "anneau_ame",
+      "expected_terminator": "0x4ba89d",
+      "observed_terminators": [
+        "0x4ba89d"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "anneau_ame_00.png",
+        "anneau_ame_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B169-S002",
+      "case": "resurrection_ame",
+      "expected_terminator": "0x47cf53",
+      "observed_terminators": [
+        "0x47cf53"
+      ],
+      "native_read_complete": true,
+      "captures": 663,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "resurrection_ame_00.png",
+        "resurrection_ame_01.png",
+        "resurrection_ame_02.png",
+        "resurrection_ame_03.png",
+        "resurrection_ame_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B169-S003",
+      "case": "ermite_cieux",
+      "expected_terminator": "0x47d46e",
+      "observed_terminators": [
+        "0x47d46e"
+      ],
+      "native_read_complete": true,
+      "captures": 1573,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "ermite_cieux_00.png",
+        "ermite_cieux_01.png",
+        "ermite_cieux_02.png",
+        "ermite_cieux_03.png",
+        "ermite_cieux_04.png",
+        "ermite_cieux_05.png",
+        "ermite_cieux_06.png",
+        "ermite_cieux_07.png",
+        "ermite_cieux_08.png",
+        "ermite_cieux_09.png",
+        "ermite_cieux_10.png",
+        "ermite_cieux_11.png",
+        "ermite_cieux_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B170-S006",
+      "case": "gaen",
+      "expected_terminator": "0x47d7a1",
+      "observed_terminators": [
+        "0x47d7a1"
+      ],
+      "native_read_complete": true,
+      "captures": 909,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "gaen_00.png",
+        "gaen_01.png",
+        "gaen_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B170-S021",
+      "case": "entree_feu",
+      "expected_terminator": "0x47dd93",
+      "observed_terminators": [
+        "0x47dd93"
+      ],
+      "native_read_complete": true,
+      "captures": 438,
+      "visual_review": "reviewed: readable accents, coded clue, names, directions, amounts, spell descriptions, native pages and ending",
+      "review_images": [
+        "entree_feu_00.png",
+        "entree_feu_ending.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 66,
+  "capture_selection": "Maximum visible text per detected text-window clear, plus each native ending."
+}

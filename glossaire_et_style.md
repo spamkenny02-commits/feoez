@@ -386,3 +386,20 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Les proclamations favorables à Ninigi restent les propos des habitants
   et des soldats ; le récit du Dragon distingue création et obéissance.
 - B159-S036/S053 restent identiques : trois points et leurs pauses.
+
+## Lot 19 — V24
+
+- Sprightly/One-Shot/Flame Hermit : ermite Alerte / du Coup unique / de la Flamme.
+- Spry/Spirit/Sear/Soul : Vivacité / Esprit / Fournaise / Âme.
+- Soul ring : anneau de l'Âme ; Cloudy Grotto : grotte des Nuages.
+- Crab-Crab Cavern : caverne Crabe-Crabe ; Katana Village : village du Katana.
+- Fire forge : forge du Feu ; Grand Shrine of the Heavens : grand sanctuaire des Cieux.
+- Swordsman of the Royal Dragon : Sabreur du Dragon royal.
+- B163-S006 conserve le code de déplacement des consonnes avec suffixe ay,
+  adapté au français : « Il est dans la forêt du nord-ouest. » La cache
+  elle-même n'a pas été testée en progression.
+- Vivacité : deux à quatre attaques, utilisable par la fille des Enfers.
+  Esprit : soin complet, environ soixante pour cent en groupe, alliés seulement.
+  Âme : résurrection avec consentement de l'âme, utilisable par la fée du Feu.
+- Nuits à 180, 100 et 250 ryo et seuil de vingt ans du vendeur d'alcool conservés.
+- Les récits des ermites gardent leurs attributions et leurs pauses.
