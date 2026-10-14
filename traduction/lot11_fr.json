@@ -1,0 +1,81 @@
+{
+  "117": {
+    "1": "Youpi !<0D> La pluie rouge a cessé !<0D> Les marais rouges ont disparu,<0D> eux aussi !<0D> Tout le monde peut à nouveau venir au pays du Paon ! Et tout ça grâce à quelqu'un qu'on appelle le Héros du Feu !",
+    "2": "La maison avec la pierre appartient à Gen,<0D> le sculpteur !\n\nEn fait, Gen est charpentier,<0D> mais il s'est mis à sculpter pour s'amuser,<0D> et ses œuvres ont eu un succès fou ! Aujourd'hui, il est bien plus connu comme sculpteur qu'il ne l'a jamais été comme charpentier !\n\nIl a beau insister pour qu'on l'appelle charpentier,<0D> pour tout le monde,<0D><0D> il restera un sculpteur !",
+    "3": "De quel pays viens-tu ?\nPays du Paon                  Pays de la Grue",
+    "4": "Alors pour toi, ce serait le village de la Sortie...<0D> Bienvenue au village de la Sortie du pays de la Grue ! Il se trouve à la frontière entre le pays du Paon et le pays de la Grue.<0D> Plus loin,<0D> tu trouveras le pays du Paon !",
+    "5": "Alors pour toi, ce serait le village de l'Entrée...<0D> Bienvenue au village de l'Entrée du pays de la Grue ! Il se trouve à la frontière entre le pays du Paon et le pays de la Grue.<0D> Plus loin,<0D> tu trouveras le pays de la Grue !",
+    "6": "La région entre ce village et le village de la Sortie, au nord, s'appelle la vallée Frontière.\n\nTraverse le village de la Sortie,<0D> et tu atteindras le pays de la Grue proprement dit !",
+    "7": "\nOn raconte que le pays de la Grue est maintenant recouvert par un désert.<0D> Est-ce que tout va bien se passer ?",
+    "8": "Ces piliers de pierre sont l'œuvre de Gen,<0D> un sculpteur très célèbre du pays de la Grue.\n\nIls sont magnifiques, non ?<0D> Des sculptures parfaites !<0D> Des coups de burin si précis,<0D> si puissants !",
+    "9": "<17>Une magnifique grue est sculptée sur ce pilier de pierre !<18>",
+    "10": "<17>Un magnifique paon est sculpté sur ce pilier de pierre !<18>",
+    "11": "<17>Un paon et une grue jouant ensemble sont sculptés sur ce pilier de pierre !<18>"
+  },
+  "118": {
+    "1": "On dit qu'on fait de beaux rêves en dormant dans cette auberge...<0D> Mais moi, je ne fais que des cauchemars... Ça doit être à cause de l'état du pays de la Grue...",
+    "2": "Cette auberge a beau avoir connu des jours meilleurs,<0D> on y dort bien,<0D> et on y fait les plus beaux rêves !<0D> La nuit coûte cent ryo. Tu restes ?",
+    "3": "Hein ?<0D> Tu n'as pas l'argent ?<0D> Alors tu ne peux pas rester,<0D> hein ?",
+    "4": "Tu es sûr ?<0D> La prochaine auberge est encore loin,<0D> tu sais !",
+    "5": "Bonjour !<0D> Tu as fait un beau rêve ?<0D> Bon,<0D> en route !",
+    "6": "Bienvenue...<0D> Besoin de provisions ?",
+    "7": "Eh bien,<0D> merci beaucoup.",
+    "8": "Ah bon ?<0D> Reviens nous voir !",
+    "9": "Hé hé...<0D> Tu sais,<0D> ici, au pays de la Grue...  <09><6E>  <08><0D>On peut rencontrer Tenjin...  <09><6E>  <08>\n\nSes yeux si froids...<0D> J'en ai des frissons !  <09><6E>  <08><0D>Il n'y a pas deux hommes comme lui,<0D> hein ?  <09><6E>  <08>",
+    "10": "Ah !<0D> C'est Tenjin !<0D> Oh, mon dieu...<0D> Qu'est-ce que je fais !?",
+    "11": "Hé hé...<0D> Tu sais,<0D> ici, au pays de la Grue...  <09><6E>  <08><0D>On peut rencontrer Tenjin...  <09><6E>  <08>\n\nCes yeux étincelants...<0D> J'en ai des frissons !  <09><6E>  <08><0D>Il n'y a pas deux femmes comme elle,<0D> hein ?  <09><6E>  <08>",
+    "12": "Ah !<0D> C'est Tenjin !<0D> Oh, mon dieu...<0D> Qu'est-ce que je fais !?",
+    "13": "Tu as entendu la nouvelle ?",
+    "14": "Alors inutile de te la répéter !",
+    "15": "Il paraît que Sara,<0D> celle qui a attaqué le pays de la Grue,<0D> a placardé des avis de recherche du Héros du Feu. Ce serait un gamin dont la moitié des cheveux est teinte en rouge...",
+    "16": "Tu es le Héros du Feu,<0D> pas vrai !?<0D> Tu dois être Higan,<0D> le Héros du Feu !<0D> Merci d'avoir sauvé ce village de la pluie rouge ! Plus loin,<0D> d'autres gens ont besoin de toi !<0D> Continue à te battre pour ramener la paix à Jipang !",
+    "17": "Tout ça est en réserve depuis un moment,<0D> mais ça peut encore servir...\n\nAlors ?<0D> Tu veux acheter quelque chose ?",
+    "18": "Merci bien.<0D> C'est vieux,<0D> mais ça devrait être assez solide !",
+    "19": "Bon,<0D> je ne peux pas te forcer...",
+    "20": "Grr !<0D> Pourquoi ?<0D> Pourquoi es-tu venu ici !?<0D> Je suis Gen,<0D> le charpentier !",
+    "21": "\nJe ne suis pas Gen,<0D> le sculpteur,<0D> compris !?<0D> Je suis CHARPENTIER !<0D> Ne l'oublie pas !",
+    "22": "<0C>Quoi !?<0D> La lettre de Momoko ?<0D> Je ne sais rien de tout ça !<0D> <0B>.<0D>.<0D>.<0C>Attends...<0D> Oh,<0D> non...<0D> Ce papier qu'on m'a apporté ? Je m'en suis servi pour me moucher...<0D> Je venais d'éternuer, il me fallait du papier, et...\n\nLa voilà...<0D><0D> Elle est couverte de morve,<0D> mais si ça ne te dérange pas,<0D> tiens !",
+    "23": "<0C><17>Higan reçoit la lettre de Momoko, couverte de morve !<18>",
+    "24": "<0C>Je ne sais pas lire,<0D> tu vois !<0D> C'est pour ça que je ne l'ai pas lue !<0D> Alors,<0D> qu'est-ce qu'elle disait ?",
+    "25": "Entre le village de l'Entrée et celui de la Sortie,<0D> trois villages se cachent dans la vallée Frontière. Ils s'appellent le village du Trésor,<0D> le village des Algues,<0D> et le village Splendide.<0D> Leurs boutiques vendent des objets très étranges !",
+    "26": "Le village du Trésor,<0D> le village des Algues,<0D> et le village Splendide sont les trois villages cachés,<0D> dans la plaine,<0D> au bord de la mer,<0D> et dans les montagnes !<0D> Bon...<0D> Cherche bien,<0D> et tu les trouveras.<0D> Ne t'affole pas.<0D> Prends ton temps et regarde autour de toi.",
+    "27": "L'ermite Pétillant vit au village du Trésor,<0D> l'un des villages cachés de ce pays !<0D> Incroyable, non ? On dit que son sort est particulièrement revigorant !"
+  },
+  "119": {
+    "1": "Hyahyahyahyahyah !<0D> Ahahahahahahahah !<0D> Hihihihihihihihi ! Ça...<0D> Ça...<0D> Ha ha...<0D> Ce cham-pi-pi-pi-gnon !<0D> Je l'ai mangé !<0D> Hyahaha !<0D> Je ne me sens pas normal !\n\nOuahahahahahahah ! Ahahahahahahahah ! Hahahahahahahah !",
+    "2": "Oh ?<0D> Eh bien,<0D> quelle surprise !<0D> Peu de gens viennent ici !<0D> Voici le village Splendide,<0D> l'un des villages cachés du pays ! Pourquoi ce nom,<0D> tu demandes ?<0D> Grâce à l'air pur qui nous entoure !",
+    "3": "Je ramasse des noix de champignons dans cette forêt de champignons.<0D> Quoi ?<0D> Tu ne savais pas que les champignons donnaient des noix ? Je plaisante !<0D> Je ramasse des spores de shiitaké !<0D> Je fais pousser des champignons avec !",
+    "4": "Regarde-moi ça !<0D> Quel champignon,<0D> hein ?<0D> Il pourrait rivaliser avec le plus gros champignon de Jipang !",
+    "5": "C'est un gros champignon !"
+  },
+  "121": {
+    "1": "Les jeunes ne font plus la différence entre un shiitaké et un matsutaké !<0D> Pour eux, ce sont tous des champignons ! Ils font griller les matsutakés au beurre,<0D> et cuisent les shiitakés à la vapeur !<0D> Quels idiots !",
+    "2": "Je cultive des shiitakés ici !<0D> Ceux du village Splendide sont particulièrement savoureux !<0D> Ils sont meilleurs cuits à la vapeur !",
+    "3": "Il y a quelque temps,<0D> une vieille dame nommée Omine est venue acheter un tas de raquettes...\n\nElle est repassée,<0D> en disant qu'elle allait cette fois au sanctuaire de la Grue...",
+    "4": "Nous n'avons pas beaucoup de choix,<0D> mais tu veux regarder ?",
+    "5": "Merci beaucoup.<0D> Reviens nous voir !",
+    "6": "Ah bon ?<0D> Eh bien,<0D> reviens nous voir...",
+    "7": "Depuis mon arrivée au village Splendide,<0D> je n'ai que des champignons dans ma soupe miso.<0D> Moi, je préfère les algues ! Je te le dis,<0D> un VRAI homme préfère poser ses lèvres sur des algues que sur un champignon !",
+    "8": "Ne prête pas trop attention à ce que racontent les gens d'ici !\n\nTout le monde mange ces drôles de champignons,<0D> <0D> et ça nous rend un peu...<0D> Bizarres ?<0D> Regarde-moi, par exemple !",
+    "9": "Les champignons d'ici sont vénéneux,<0D> mais délicieux !<0D> De temps à autre,<0D><0D> je suis complètement engourdi et je ne peux plus bouger."
+  },
+  "122": {
+    "1": "Tu es le Héros du Feu ?<0D> Tu t'appelles Higan,<0D> c'est ça ?<0D> Comment je le sais ?<0D> Eh bien,<0D> j'ai vu une affiche qui disait... <11>Criminel en fuite recherché<29><0D> Higan,<0D> le Héros du Feu !<11>",
+    "2": "Tu es le Héros du Feu ?<0D> Tu t'appelles Higan,<0D> c'est ça ?<0D> Comment je le sais ?<0D> Tu es le héros qui a sauvé le pays de la Grue ! Bien sûr que je te connais !",
+    "3": "Oh !<0D> Toi, là !<0D> De quel côté es-tu arrivé ?\n    Ouest       Est",
+    "4": "Alors,<0D> pour toi, ce doit être le village de l'Entrée !\n\nC'est l'entrée de la vallée Frontière !<0D> La vallée Frontière sépare le pays du Paon du pays de la Grue.",
+    "5": "Alors,<0D> pour toi, ce doit être le village de la Sortie !\n\nC'est la sortie de la vallée Frontière !<0D> À l'est,<0D> tu trouveras le pays de la Grue !",
+    "6": "Oh !<0D> Du sable !<0D> Il y a du sable ici !<0D> Il est arrivé jusqu'ici !<0D><0D> Le désert s'étend vraiment ! À ce rythme, tout le pays de la Grue sera enseveli !",
+    "7": "<11>Je te lance un défi, Higan ! Héros du Feu !<11>\n\n\n<11>Moi, Sara, commandante de la troisième division de l'armée des Enfers, j'ai déjà pris le contrôle du pays de la Grue !<11> <11>Si tu veux le reprendre, viens dans mon château, le château Fantôme !<11>\n\n<11>Pour y entrer, il te faudra porter trois choses !<11>\n\n<11>Les chaussures de merde, le casque de merde et le masque de merde... Ces trois-là.<11>\n\n<11>Tu sais ce qu'il te reste à faire...<11> -Sara",
+    "8": "-Criminels en fuite recherchés !- <11>Higan, un jeune garçon aux cheveux teints en rouge, et Subaru, une jeune fille vue pour la dernière fois en vêtements roses !<11> <11>Ils sont armés et extrêmement dangereux.<11>\n\n\n<11>Malgré son surnom de Héros du Feu, ce garçon est recherché pour meurtre.<11>\n\n<11>Il a massacré sans pitié notre cher Zettai Reido et Akamaru des Enfers !<11>\n\n<11>Si vous apercevez l'un d'eux, contactez immédiatement Sara au château Fantôme, d'accord ?<11>  <09><6E>  <08>",
+    "9": "<0C>Poussez-vous !\n\n\nKimaru !<0D> Accélère un peu,<0D> oui ?",
+    "10": "<0C>Bien reçu,<0D> mon bon vieux Aomaru !<0D> Notre copain Akamaru sera comme neuf dès qu'on l'aura fait respirer à nouveau !",
+    "11": "<17>Il est écrit : <11>Contre-manifestation en cours<11>.<18>",
+    "12": "Hé,<0D> hé...<0D> Higan !<0D> C'est quoi, une <11>contre-manifestation ?<11> ???",
+    "13": "<11>La Grue qui chante<11> -Par Gen"
+  },
+  "123": {
+    "1": "<17>Dernière nouvelle !<18> Entrez dans un monde de miracles et de désir ! Voici le grand palais du siècle !\n\nVenez à la galerie du Trésor, au village du Trésor ! -L'office de tourisme du village du Trésor",
+    "2": "Fêtes du sanctuaire de la Grue\nInformations\n\nFête des Poupées<29> 24 février <6D> 3 mars\nFête des Étoiles<29> 7 août\nFête de la Grue<29> 10 octobre <6D> 23 octobre\nLieu<29> Place des fêtes du sanctuaire de la Grue\n-Le bureau du sanctuaire de la Grue"
+  }
+}

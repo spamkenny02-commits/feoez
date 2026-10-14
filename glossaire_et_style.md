@@ -266,3 +266,19 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - B106-S024 (« Hmm... »), B113-S004 et B113-S006 (« ??? ») restent
   identiques à l'anglais. Ils font partie des 149 entrées du lot, avec
   146 textes dont le contenu encodé change.
+
+## Lot 11 — V16
+
+- Peacock Nation : pays du Paon ; Border Valley : vallée Frontière.
+- Entrance/Exit Village : village de l'Entrée / de la Sortie. Le nom
+  dépend du côté d'arrivée, conformément aux réponses du script.
+- Treasure/Seaweed/Splendid Village : village du Trésor / des Algues / Splendide.
+- Peppy Hermit : ermite Pétillant, nom provisoire.
+- Gen reste charpentier à ses yeux, même si les habitants le disent sculpteur.
+- Shiitaké/matsutaké : noms conservés ; les contradictions culinaires
+  et les sous-entendus comiques ne sont pas corrigés.
+- Les deux variantes admirant Tenjin gardent le masculin et le féminin
+  de l'anglais. Les cœurs 09/6E/08 sont conservés.
+- Affiches de Sara : ton de propagande, accusations et langage grossier
+  conservés ; aucune accusation n'est présentée comme vérité du récit.
+- Fête des Poupées, des Étoiles et de la Grue : dates du script conservées.

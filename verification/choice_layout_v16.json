@@ -1,0 +1,20 @@
+[
+  {
+    "entry": "B117-S003",
+    "source_row": "Peacock Nation               Crane Nation",
+    "french_row": "Pays du Paon                  Pays de la Grue",
+    "source_second_label_pixels": 112,
+    "french_second_label_pixels": 112,
+    "delta_pixels": 0,
+    "visual_validation": "pending in scene"
+  },
+  {
+    "entry": "B122-S003",
+    "source_row": "    West        East",
+    "french_row": "    Ouest       Est",
+    "source_second_label_pixels": 59,
+    "french_second_label_pixels": 60,
+    "delta_pixels": 1,
+    "visual_validation": "pending in scene"
+  }
+]
