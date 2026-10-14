@@ -1,0 +1,23 @@
+[
+  {
+    "entry": 39,
+    "row": 0,
+    "source_column_pixels": 107,
+    "french_column_pixels": 108,
+    "spaces": 24
+  },
+  {
+    "entry": 39,
+    "row": 1,
+    "source_column_pixels": 106,
+    "french_column_pixels": 107,
+    "spaces": 23
+  },
+  {
+    "entry": 40,
+    "row": 0,
+    "source_column_pixels": 106,
+    "french_column_pixels": 107,
+    "spaces": 23
+  }
+]

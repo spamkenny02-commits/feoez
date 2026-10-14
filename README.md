@@ -1,29 +1,31 @@
-# Tengai Makyou Zero — Traduction française V12
+# Tengai Makyou Zero — Traduction française V13
 
-**66 nouvelles entrées**, soit **568 entrées intégrées avec accents**.
-Les 502 entrées de V11 sont conservées à l'identique, y compris leur mise
-en page. Les variantes et répétitions sont comptées séparément. Le total
-inclut les trois séquences de ponctuation inchangées de V09.
+**161 nouveaux textes**, soit **730 entrées intégrées avec accents**.
+Le lot traite 162 entrées : 161 textes et une entrée vide conservée (93/41).
+Les 568 anciennes entrées sont identiques à la V12, y compris leur mise
+en page. Les variantes, répétitions et séquences de ponctuation sont
+comptées séparément ; le total n'est pas un nombre de dialogues uniques.
 
-## Lot 07
+## Lot 08
 
-| Bloc | Entrées traduites | Contenu |
+| Bloc | Entrées traitées | Contenu |
 |---|---:|---|
-| 77 (alias 78) | 25 | Village des Paillettes d'Or, orpaillage |
-| 81 (alias 82) | 2 | Bouton du château |
-| 83 | 24 | Kingin, Goldsilver et fuite du château |
-| 87 | 15 | Sanctuaire du Chien divin, habitants et fêtes |
+| 75 | 59 | Kingin, Super Money-King III, combat de robots |
+| 89 | 4 | Cascade du Djinn, direction du royaume du Dragon |
+| 90 | 7 | Légende du Ma-Djinn et pierre du Chien divin |
+| 93 | 92 | Habitants, journal Le Chien, maison de Yone, Shigenobu et Rie |
 
-Les alias désignent le même bloc physique ; ils ne sont pas comptés comme
-des traductions supplémentaires.
+Les deux colonnes des articles du journal sont conservées sans repli
+automatique : leur seconde colonne reste à un pixel près de la position
+anglaise. Cette mesure ne remplace pas une observation du menu en contexte.
 
 Premier jet depuis l'anglais fourni, sans comparaison avec le script japonais.
 Le glossaire indique les noms d'objets et lieux encore provisoires.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V12.ips** directement à une copie de la ROM
-anglaise originale, sans cumuler les versions. Le patch V11 reste disponible
+Appliquer **Tengai_Makyou_Zero_FR_V13.ips** directement à une copie de la ROM
+anglaise originale, sans cumuler les versions. Le patch V12 reste disponible
 pour revenir à la version précédente.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
@@ -34,20 +36,20 @@ Le dépôt ne contient ni ROM ni sauvegarde d'état.
 ## Construction et relecture
 
 ```bash
-python tools/build_v12.py /chemin/rom_anglaise.sfc --rom-out /chemin/v12_fr.sfc
+python tools/build_v13.py /chemin/rom_anglaise.sfc --rom-out /chemin/v13_fr.sfc
 python tools/verify_font.py /chemin/rom_anglaise.sfc
 ```
 
 Python 3 ; Pillow pour les contrôles de police. Le générateur repart toujours
-de l'original. Les sept lots JSON sont les sources de traduction. Le générateur crée les fichiers
-`traduction/traduction_v12.json`, `.tsv` et `lecture_v12.txt` localement pour
+de l'original. Les huit lots JSON sont les sources de traduction. Le générateur crée les fichiers
+`traduction/traduction_v13.json`, `.tsv` et `lecture_v13.txt` localement pour
 la relecture bilingue. Les lots JSON versionnés suffisent à les reconstruire.
 Les résultats des versions précédentes et les anciens générateurs sont historiques.
 
-981 lectures 65816 vérifiées : 568 entrées traduites et 413 lectures
-supplémentaires pour les chaînes inchangées et les alias. Ce compte ne
-représente pas des scènes observées en partie. 32 blocs physiques sont
-relocalisés dans la zone autorisée.
+1 143 lectures 65816 vérifiées : les textes intégrés, les chaînes
+inchangées du bloc des choix et leurs alias. Ce compte ne représente pas
+des scènes observées en partie. 36 blocs physiques sont relocalisés
+dans la zone autorisée.
 
 Police française inchangée depuis V06 : 32 lettres accentuées et quatre
 ligatures ; Ÿ/ÿ remplacent Ā/ā. Les 16 contrôles de police passent. La largeur
@@ -61,11 +63,13 @@ Source du noyau : https://github.com/snes9xgit/snes9x
 La version 1.60 n'est pas testée ici.
 
 Le protocole de démarrage est A, vérification, reset, B, vérification, reset.
-La V12 démarre à neuf ; les deux autotests affichent ALL OK. Le parcours
-va jusqu'au début de partie, aux menus et à la carte. 85 captures communes
-avec la V11 sont identiques pixel par pixel. Les 66 nouvelles entrées
-restent à vérifier dans leurs scènes. Les menus dessinés, la suite de
-l'aventure, les fêtes PLGS, la SRAM et le matériel réel restent à vérifier.
+Le parcours de test repart d'un démarrage neuf : autotests A/B, resets,
+introduction et début de partie jusqu'aux menus et à la carte. Les résultats
+V13 sont consignés dans verification/emulation_report_v13.json : autotests
+ALL OK, 608 commandes, 85 captures communes identiques pixel par pixel
+à la V12. Les nouveaux
+textes restent à vérifier dans leurs scènes ; les menus dessinés, la suite
+de l'aventure, les fêtes PLGS, la SRAM et le matériel réel restent à vérifier.
 
 Les scripts `verification/reproduction` utilisent NumPy et Pillow.
 Ils reproduisent le démarrage, la navigation et les choix de dialogues.
@@ -73,14 +77,14 @@ Créer les états avec la même ROM et le même noyau ; ne pas reprendre les ét
 d'une version antérieure. Les historiques complets et résultats bilingues
 peuvent être régénérés localement. Aucun dump mémoire complet n'est publié.
 
-## Vérifications V12
+## Vérifications V13
 
-981 lectures exécutées par les routines natives 65816, 16 contrôles de
+1 143 lectures exécutées par les routines natives 65816, 16 contrôles de
 police, balises ordonnées, pointeurs et alias, reconstruction IPS et limite
-de 216 pixels contrôlés. Allocation jusqu'à 0x6C7B00 : 34 048 octets libres.
-Le fichier verification/build_report.json concerne la V12.
+de 216 pixels contrôlés. Allocation jusqu'à 0x6CD500 : 11 008 octets libres.
+Le fichier verification/build_report.json concerne la V13.
 
-Le rapport verification/emulation_report_v12.json décrit uniquement le
-parcours observé dans Snes9x 1.63. Les nouvelles scènes restent à vérifier
-visuellement dans leur contexte. Les anciens rapports restent des preuves
-de leur propre version, et non de la V12.
+Les rapports regression_v12_v13.json et choice_layout_v13.json documentent
+la préservation des anciennes entrées et la géométrie des articles.
+La commande 0E reste conservée, sans réinterprétation de son effet.
+Les anciens rapports restent des preuves de leur propre version.

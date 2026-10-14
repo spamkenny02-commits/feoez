@@ -190,3 +190,28 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Les commandes 0E restent à leur place dans la séquence des balises ;
   l'outil leur attribue une avance nulle sans réinterpréter leur effet.
   Leur rendu dans les nouvelles scènes attend une vérification en partie.
+
+## Lot 08 — V13
+
+- Super Money-King the Third : Super Money-King III ; nom conservé,
+  numéro en chiffres romains. Money-King Punch : Poing Money-King ;
+  Money-King Iron Tail : Queue de Fer Money-King ; Eye Flash Laser :
+  Laser Oculaire ; Whisker Missiles : Missiles Moustaches ;
+  Rainbow Crusher : Écraseur Arc-en-ciel. Noms de techniques provisoires,
+  à harmoniser avec les écrans de combat.
+- Swordsman of Flame : Sabreur de Flamme, distinct du Sabreur de Lumière.
+- The Dog : Le Chien (journal satirique) ; libellés d'articles : Chien 1–6.
+- Dragon Mouth Village : village de la Gueule du Dragon (provisoire).
+- Spectacle Lake : lac du Spectacle ; Badge Hermit : ermite des Insignes.
+- Key of binding love : clé de l'Amour uni (provisoire).
+- Meowers : Miaou (nom du chat) ; chambres Sakura, du Lys et du Chrysanthème.
+- La hauteur de plus de 65 pieds devient plus de vingt mètres ;
+  les dix tonnes et les dix mille heures restent inchangées.
+- Les accusations du journal sont des potins dans la fiction, pas
+  une narration fiable ; leur exagération reste intacte.
+- Omine est appelée « sœur » dans les propos d'Ume ; le glossaire
+  conserve le surnom déjà établi « Omine au grand cœur ».
+- Le marché de la maison garde les versements de 1 000 ryo et le
+  remboursement de 10 000 ryo. Les suffixes x5 sont conservés littéralement.
+- Une entrée vide du journal (93/41) reste vide ; elle compte dans
+  les 162 entrées traitées du lot, pas dans les 161 nouveaux textes.
