@@ -173,3 +173,20 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Discours des bêtes divines : solennel. Robot de la mine : phrases mécaniques.
 - Les balises répétées du grand prêtre surpris sont conservées, notamment
   B074-S002 avec ses deux <0B>, ses quatre <0D> et ses deux <0C> finaux.
+
+## Lot 07 — V12
+
+- Gold Dust Village : village des Paillettes d'Or.
+- Gold dust pan : batée ; gold dust / flecks of gold : paillettes d'or.
+- Gold Tiger Shrine : sanctuaire du Tigre d'Or.
+- Flower Circle Town : ville du Cercle Fleuri (provisoire).
+- Goldsilver et Atramentous Alabaster : noms conservés, à revoir dans le
+  contexte de leurs scènes et du bestiaire.
+- Kingin : discours arrogant et théâtral ; or/argent et temps/argent
+  conservés. La référence à la banque devient « croire sur parole ».
+- La plage d'orpaillage 18–20 h, les montants dynamiques et les conditions
+  d'accès sont conservés. Le dialogue lunaire suit littéralement l'anglais,
+  sans correction supposée du calendrier.
+- Les commandes 0E restent à leur place dans la séquence des balises ;
+  l'outil leur attribue une avance nulle sans réinterpréter leur effet.
+  Leur rendu dans les nouvelles scènes attend une vérification en partie.

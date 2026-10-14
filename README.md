@@ -1,26 +1,29 @@
-# Tengai Makyou Zero — Traduction française V11
+# Tengai Makyou Zero — Traduction française V12
 
-**65 nouvelles entrées**, soit **502 entrées intégrées avec accents**.
-Les 437 entrées de V10 sont conservées. Les comptes incluent les répétitions
-et variantes ainsi que les trois séquences de ponctuation inchangées de V09.
+**66 nouvelles entrées**, soit **568 entrées intégrées avec accents**.
+Les 502 entrées de V11 sont conservées à l'identique, y compris leur mise
+en page. Les variantes et répétitions sont comptées séparément. Le total
+inclut les trois séquences de ponctuation inchangées de V09.
 
-## Lot 06
+## Lot 07
 
-| Bloc | Entrées | Contenu |
+| Bloc | Entrées traduites | Contenu |
 |---|---:|---|
-| 74 | 19 | Épée de Byakuen, sanctuaire et Ours de Feu divin |
-| 76 | 4 | Château d'Or et utilisation des chaînes |
-| 79 | 15 | Mine, sac à or, insigne et robot d'entrée |
-| 84 | 16 | Sanctuaire du Chien divin, histoire et fêtes |
-| 85 | 11 | Chien divin, Kingin/Byakko et pierre divine |
+| 77 (alias 78) | 25 | Village des Paillettes d'Or, orpaillage |
+| 81 (alias 82) | 2 | Bouton du château |
+| 83 | 24 | Kingin, Goldsilver et fuite du château |
+| 87 | 15 | Sanctuaire du Chien divin, habitants et fêtes |
+
+Les alias désignent le même bloc physique ; ils ne sont pas comptés comme
+des traductions supplémentaires.
 
 Premier jet depuis l'anglais fourni, sans comparaison avec le script japonais.
 Le glossaire indique les noms d'objets et lieux encore provisoires.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V11.ips** directement à une copie de la ROM
-anglaise originale, sans cumuler les versions. Le patch V10 reste disponible
+Appliquer **Tengai_Makyou_Zero_FR_V12.ips** directement à une copie de la ROM
+anglaise originale, sans cumuler les versions. Le patch V11 reste disponible
 pour revenir à la version précédente.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
@@ -31,25 +34,20 @@ Le dépôt ne contient ni ROM ni sauvegarde d'état.
 ## Construction et relecture
 
 ```bash
-python tools/build_v11.py /chemin/rom_anglaise.sfc --rom-out /chemin/v11_fr.sfc
+python tools/build_v12.py /chemin/rom_anglaise.sfc --rom-out /chemin/v12_fr.sfc
 python tools/verify_font.py /chemin/rom_anglaise.sfc
 ```
 
 Python 3 ; Pillow pour les contrôles de police. Le générateur repart toujours
-de l'original. Les six lots JSON sont les sources de traduction. Les fichiers
-`traduction/traduction_v11.json`, `.tsv` et `lecture_v11.txt` sont les résultats
-bilingues actuels. Les résultats V10 et les anciens générateurs sont historiques.
+de l'original. Les sept lots JSON sont les sources de traduction. Le générateur crée les fichiers
+`traduction/traduction_v12.json`, `.tsv` et `lecture_v12.txt` localement pour
+la relecture bilingue. Les lots JSON versionnés suffisent à les reconstruire.
+Les résultats des versions précédentes et les anciens générateurs sont historiques.
 
-888 lectures 65816 vérifiées : 502 entrées intégrées, 117 chaînes inchangées
-du bloc 29 et 269 lectures supplémentaires par les alias 46/47/48 et 65.
-Ce compte ne représente pas 888 scènes observées en partie.
-
-La construction vérifie les balises, pointeurs de groupes, alias, limites
-mémoire, préservation des blocs d'origine, checksum et aller-retour IPS.
-28 blocs sont relocalisés dans la zone 0x6B0000–0x6D0000 ; l'allocation se termine
-à 0x6C5A00, laissant 42 496 octets. Le bloc 70 traverse la frontière 0x6C0000 et
-sa lecture reste contrôlée par les routines natives. L'introduction a été
-relocalisée à 0x6C4E00. Aucune extension de la ROM n'est nécessaire pour ce lot.
+981 lectures 65816 vérifiées : 568 entrées traduites et 413 lectures
+supplémentaires pour les chaînes inchangées et les alias. Ce compte ne
+représente pas des scènes observées en partie. 32 blocs physiques sont
+relocalisés dans la zone autorisée.
 
 Police française inchangée depuis V06 : 32 lettres accentuées et quatre
 ligatures ; Ÿ/ÿ remplacent Ā/ā. Les 16 contrôles de police passent. La largeur
@@ -63,15 +61,26 @@ Source du noyau : https://github.com/snes9xgit/snes9x
 La version 1.60 n'est pas testée ici.
 
 Le protocole de démarrage est A, vérification, reset, B, vérification, reset.
-La V11 est démarrée à neuf ; son introduction et le début de partie sont
-observés. Le rapport et la capture figurent dans `verification`.
-Les 65 nouvelles entrées ne sont pas encore vérifiées visuellement dans leurs
-scènes. Les contrôles de lecture et de mise en page sont distincts de cette
-validation en contexte. Les menus dessinés, la suite de l'aventure, les fêtes
-PLGS, la SRAM et le matériel réel restent à vérifier.
+La V12 démarre à neuf ; les deux autotests affichent ALL OK. Le parcours
+va jusqu'au début de partie, aux menus et à la carte. 85 captures communes
+avec la V11 sont identiques pixel par pixel. Les 66 nouvelles entrées
+restent à vérifier dans leurs scènes. Les menus dessinés, la suite de
+l'aventure, les fêtes PLGS, la SRAM et le matériel réel restent à vérifier.
 
 Les scripts `verification/reproduction` utilisent NumPy et Pillow.
 Ils reproduisent le démarrage, la navigation et les choix de dialogues.
 Créer les états avec la même ROM et le même noyau ; ne pas reprendre les états
 d'une version antérieure. Les historiques complets et résultats bilingues
 peuvent être régénérés localement. Aucun dump mémoire complet n'est publié.
+
+## Vérifications V12
+
+981 lectures exécutées par les routines natives 65816, 16 contrôles de
+police, balises ordonnées, pointeurs et alias, reconstruction IPS et limite
+de 216 pixels contrôlés. Allocation jusqu'à 0x6C7B00 : 34 048 octets libres.
+Le fichier verification/build_report.json concerne la V12.
+
+Le rapport verification/emulation_report_v12.json décrit uniquement le
+parcours observé dans Snes9x 1.63. Les nouvelles scènes restent à vérifier
+visuellement dans leur contexte. Les anciens rapports restent des preuves
+de leur propre version, et non de la V12.

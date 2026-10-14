@@ -59,10 +59,11 @@ def decode_fr(raw):
 def visible_width(text,rom):
     # The native 09..08 marker pair surrounding a heart is preserved and
     # assigned zero horizontal advance; effects are not interpreted here.
-    # 0C/0D are scene/pause markers. 04 is a dynamic name: reserve a conservative
+    # 0E is retained verbatim as a nonprinting flow command; its timing is
+    # not reinterpreted by the inserter. 0C/0D are scene/pause markers. 04 is a dynamic name: reserve a conservative
     # 96 pixels rather than counting it as an invisible character.
     raw=encode_fr(text)
-    zero={1,8,9,0x0B,0x0C,0x0D}
+    zero={1,8,9,0x0B,0x0C,0x0D,0x0E}
     if any(b<0x10 and b not in zero|{4} for b in raw):raise ValueError('Unresolved layout command')
     return sum(96 if b==4 else rom[WIDTHS+b] for b in raw if b not in zero)
 
