@@ -2,19 +2,19 @@
   "core": "Snes9x 1.63 1bcc369",
   "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "modified_rom_sha256": "9f5bf6947bae3c165f6ac52698589bafd8e0bb45e238d9ec9b5c969930ee81dc",
-  "patch_sha256": "f08cdb20fb67fb2213b77a875b2f04ad682b53be7c6b2c5da9256e165730e7a7",
+  "modified_rom_sha256": "8c0372385fc2e4701b2b92a0350b208f80414b022de690b7ba12951c25319e5f",
+  "patch_sha256": "f2915a789affdd6f5864803c7544e759ec5e5f9f8b5d4beab48bdad3327d5881",
   "commands": 608,
   "final_frame": 64342,
   "fresh_boot": true,
   "observed": [
     "Mode 1 et Mode 2 : ALL OK, resets effectués",
-    "Introduction française visible, début de partie et retour sur le terrain"
+    "Introduction française, début de partie et terrain observés"
   ],
   "limits": [
-    "Les 63 nouveaux dialogues ne sont pas testés visuellement dans leur contexte.",
-    "Le bloc 70 franchit une banque : lecture contrôlée par le probe des routines natives, pas observée sur ces scènes dans le noyau complet.",
-    "Snes9x 1.60, progression ultérieure, événements PLGS, SRAM et matériel réel non validés.",
-    "Les contrôles de police ne constituent pas une nouvelle capture exhaustive de tous les glyphes."
+    "Les 65 nouveaux dialogues attendent une vérification visuelle dans leur contexte.",
+    "888 lectures contrôlées dans le probe des routines 65816, pas 888 scènes observées dans Snes9x.",
+    "Snes9x 1.60, progression ultérieure, fêtes PLGS, SRAM et matériel réel non validés.",
+    "Police inchangée ; pas de nouvelle capture exhaustive de tous les glyphes."
   ]
 }

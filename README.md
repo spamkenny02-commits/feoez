@@ -1,67 +1,77 @@
-# Tengai Makyou Zero — V10
+# Tengai Makyou Zero — Traduction française V11
 
-63 nouvelles entrées, soit 437 entrées intégrées avec la police française.
-Les comptes incluent les répétitions et variantes. Les trois séquences de
-ponctuation de V09 sont toujours comprises dans le total.
+**65 nouvelles entrées**, soit **502 entrées intégrées avec accents**.
+Les 437 entrées de V10 sont conservées. Les comptes incluent les répétitions
+et variantes ainsi que les trois séquences de ponctuation inchangées de V09.
 
-## Nouveau lot
+## Lot 06
 
 | Bloc | Entrées | Contenu |
 |---|---:|---|
-| 69 | 13 | Hisui, Subaru, anneau et coffre de l'Éléphant ardent |
-| 70 | 4 | Œuf prisonnier de la glace et urgence de la naissance |
-| 71 | 29 | Épreuve et transmission de la Flamme éternelle |
-| 72 | 17 | Habitants, histoire et lois du village de la Pointe du Feu |
+| 74 | 19 | Épée de Byakuen, sanctuaire et Ours de Feu divin |
+| 76 | 4 | Château d'Or et utilisation des chaînes |
+| 79 | 15 | Mine, sac à or, insigne et robot d'entrée |
+| 84 | 16 | Sanctuaire du Chien divin, histoire et fêtes |
+| 85 | 11 | Chien divin, Kingin/Byakko et pierre divine |
 
-Traduction depuis l'anglais fourni, premier jet à relire. Le script japonais
-n'a pas été comparé. Éléphant ardent et Feu primordial sont des termes
-provisoires consignés dans le glossaire.
+Premier jet depuis l'anglais fourni, sans comparaison avec le script japonais.
+Le glossaire indique les noms d'objets et lieux encore provisoires.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V10.ips** directement à une copie de la ROM
-anglaise originale. Ne pas cumuler les patches des versions précédentes.
+Appliquer **Tengai_Makyou_Zero_FR_V11.ips** directement à une copie de la ROM
+anglaise originale, sans cumuler les versions. Le patch V10 reste disponible
+pour revenir à la version précédente.
 
-Taille : 7 340 032 octets, sans en-tête de copieur.
-SHA-256 source : `eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
+- Taille source : 7 340 032 octets, sans en-tête de copieur.
+- SHA-256 source : `eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
 
-Aucune ROM ni sauvegarde d'état n'est incluse.
+Le dépôt ne contient ni ROM ni sauvegarde d'état.
 
-## Reconstruction et relecture
+## Construction et relecture
 
 ```bash
-python tools/build_v10.py /chemin/rom_anglaise.sfc --rom-out /chemin/v10_fr.sfc
+python tools/build_v11.py /chemin/rom_anglaise.sfc --rom-out /chemin/v11_fr.sfc
+python tools/verify_font.py /chemin/rom_anglaise.sfc
 ```
 
-Python 3 et Pillow. Le générateur repart de l'original et reconstruit les cinq
-lots. La liste bilingue actuelle est `traduction/traduction_v10.json` et `.tsv` ;
-`lecture_v10.txt` permet la relecture. Les anciens fichiers restent historiques.
+Python 3 ; Pillow pour les contrôles de police. Le générateur repart toujours
+de l'original. Les six lots JSON sont les sources de traduction. Les fichiers
+`traduction/traduction_v11.json`, `.tsv` et `lecture_v11.txt` sont les résultats
+bilingues actuels. Les résultats V10 et les anciens générateurs sont historiques.
 
-823 lectures par les routines 65816 vérifiées : 437 entrées intégrées,
-117 chaînes inchangées du bloc 29 et 269 lectures supplémentaires par les
-alias 46/47/48 et 65. Ce compte n'est pas un nombre de scènes testées en jeu.
-Les balises, pointeurs de groupes, alias, limites d'allocation, checksum,
-préservation des blocs d'origine et reconstruction IPS sont contrôlés.
+888 lectures 65816 vérifiées : 502 entrées intégrées, 117 chaînes inchangées
+du bloc 29 et 269 lectures supplémentaires par les alias 46/47/48 et 65.
+Ce compte ne représente pas 888 scènes observées en partie.
 
-23 blocs sont déplacés dans la zone 0x6B0000–0x6D0000. Le bloc 70 commence à
-0x6BFF00 et franchit la frontière 0x6C0000 : les quatre chaînes sont vérifiées
-par les routines natives. L'introduction se trouve désormais à 0x6C1B00.
-La nouvelle allocation se termine à 0x6C2700 ; 55 552 octets restent disponibles.
+La construction vérifie les balises, pointeurs de groupes, alias, limites
+mémoire, préservation des blocs d'origine, checksum et aller-retour IPS.
+28 blocs sont relocalisés dans la zone 0x6B0000–0x6D0000 ; l'allocation se termine
+à 0x6C5A00, laissant 42 496 octets. Le bloc 70 traverse la frontière 0x6C0000 et
+sa lecture reste contrôlée par les routines natives. L'introduction a été
+relocalisée à 0x6C4E00. Aucune extension de la ROM n'est nécessaire pour ce lot.
 
-La police demeure celle de V06 (Ÿ/ÿ remplacent Ā/ā). Les 16 contrôles de police
-passent, avec une largeur maximale de 216 pixels et préservation du choix Oui/Non.
+Police française inchangée depuis V06 : 32 lettres accentuées et quatre
+ligatures ; Ÿ/ÿ remplacent Ā/ā. Les 16 contrôles de police passent. La largeur
+maximale est de 216 pixels, avec une réserve de 96 pixels pour les substitutions
+dynamiques et conservation de la disposition du choix Oui/Non.
 
-## Émulation et limites
+## Émulation
 
-Le rapport `verification/emulation_report.json` et les captures documentent
-le démarrage de cette V10 avec Snes9x 1.63, commit
-1bcc369e89f08243e0a462882fb1f3e42e51de3a, puis le début de partie.
-Le protocole est A, vérification, reset, B, vérification, reset.
-Snes9x 1.60 n'a pas été testé ici.
+Snes9x 1.63, commit 1bcc369e89f08243e0a462882fb1f3e42e51de3a.
+Source du noyau : https://github.com/snes9xgit/snes9x
+La version 1.60 n'est pas testée ici.
 
-Les 63 nouveaux dialogues ne sont pas encore observés dans leur contexte de
-jeu. Leur contrôle actuel concerne les données et la lecture native, pas une
-partie jusqu'à ces scènes. Les menus dessinés, le reste de l'aventure, les
-événements PLGS, les sauvegardes SRAM et le matériel réel restent à vérifier.
-Les scripts de reproduction sont fournis ; employer les états de la même ROM
-et du même noyau, jamais ceux d'une ancienne version.
+Le protocole de démarrage est A, vérification, reset, B, vérification, reset.
+La V11 est démarrée à neuf ; son introduction et le début de partie sont
+observés. Le rapport et la capture figurent dans `verification`.
+Les 65 nouvelles entrées ne sont pas encore vérifiées visuellement dans leurs
+scènes. Les contrôles de lecture et de mise en page sont distincts de cette
+validation en contexte. Les menus dessinés, la suite de l'aventure, les fêtes
+PLGS, la SRAM et le matériel réel restent à vérifier.
+
+Les scripts `verification/reproduction` utilisent NumPy et Pillow.
+Ils reproduisent le démarrage, la navigation et les choix de dialogues.
+Créer les états avec la même ROM et le même noyau ; ne pas reprendre les états
+d'une version antérieure. Les historiques complets et résultats bilingues
+peuvent être régénérés localement. Aucun dump mémoire complet n'est publié.

@@ -152,3 +152,24 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Shiranui : nom conservé.
 - Discours de Hisui : doux et grave ; rite de la Flamme : ton solennel.
 - Lois du village et accusations contre la mère de Higan : sens du texte anglais conservé.
+
+## Lot 06 — V11
+
+- Divine canine / canine god : Chien divin, dieu de l'amitié.
+- Canine god stone : pierre du Chien divin.
+- Fire bear sword : épée de l'Ours de Feu.
+- Fire bear stone : pierre de l'Ours de Feu.
+- Golden Castle : château d'Or.
+- Big Tiger Town : ville du Grand Tigre (provisoire).
+- Golden badge : insigne d'or (à harmoniser avec les objets).
+- Gold bag : sac à or ; flight stone : pierre d'envol (provisoire).
+- Goldkin bugs : insectes mange-or (provisoire).
+- Star Festival : fête des Étoiles.
+- Moon-watching Festival : fête de la Contemplation de la Lune.
+- Djinn's waterfall : cascade du Djinn (provisoire).
+- Kingin, Ma-Djinn et Byakko : noms conservés ; Byakko est le Tigre blanc.
+- Dates des fêtes conservées telles que le script anglais les annonce ;
+  aucune extrapolation à partir d'un calendrier réel.
+- Discours des bêtes divines : solennel. Robot de la mine : phrases mécaniques.
+- Les balises répétées du grand prêtre surpris sont conservées, notamment
+  B074-S002 avec ses deux <0B>, ses quatre <0D> et ses deux <0C> finaux.

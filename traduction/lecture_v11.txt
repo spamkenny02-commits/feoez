@@ -1,0 +1,3845 @@
+[B001-S001]
+EN : Speak
+FR : Parler
+
+[B001-S002]
+EN : Open Window
+FR : Ouvrir fenêtre
+
+[B001-S003]
+EN : Search
+FR : Fouiller
+
+[B001-S004]
+EN : Speak-Search
+FR : Parler-Fouiller
+
+[B001-S005]
+EN : Full Map
+FR : Carte complète
+
+[B029-S001]
+EN :    Yes              No
+FR :    Oui              Non
+
+[B045-S001]
+EN : Those who are chosen by the Eternal Flame
+are called to become the king of the Dragon
+Kingdom.<0D> You must keep Jipang safe,<0D> Higan.
+If you go to Firepoint Village,<0D> you will surely
+come to understand.
+FR : Ceux que choisit la Flamme éternelle sont appelés à régner sur le royaume du Dragon.<0D> Tu dois protéger Jipang,<0D> Higan. Va au village de la Pointe du Feu,<0D> et tu comprendras.
+
+[B045-S002]
+EN : Those who are chosen by the Eternal Flame
+are called to become the king of the Dragon
+Kingdom.<0D> 
+They must guard the seal upon the Gates of
+Hell...<0D> You will take the throne and rule over
+Jipang,<0D> Higan!<0D> 
+You are destined to destroy Hell's army,<0D> 
+and reign as our king!
+FR : Ceux que choisit la Flamme éternelle sont appelés à régner sur le royaume du Dragon.<0D> Ils doivent protéger le sceau des portes des Enfers...<0D> Tu monteras sur le trône et régneras sur Jipang,<0D> Higan !<0D> Ton destin est de détruire l'armée des Enfers,<0D> puis de devenir notre roi !
+
+[B045-S003]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B045-S004]
+EN : Whoever can get the immortal Coal Hermit 
+to say that he surrenders is a Hero of Fire,<0D> 
+or so the saying goes.
+Your grandfather has always believed in 
+that legend...<0D> But legends are just that,<0D>
+and nothing more.
+I doubt that anyone will ever be able to defeat
+the Coal Hermit.
+FR : Quiconque fait avouer sa défaite à l'immortel ermite du Charbon est un héros du Feu,<0D> dit la légende. Ton grand-père y a toujours cru...<0D> Mais une légende reste une légende,<0D> rien de plus. Je doute que quelqu'un puisse vaincre cet ermite.
+
+[B045-S005]
+EN : Ohh!<0D> How could this happen!?<0D> That frozen
+FOOL!<0D> He went and extinguished the flame in
+my stove!<0D> I can't create any flaming pots now!<0D>
+Ahh!<0D> The Eternal Flame!<0D> If only I had the
+Eternal Flame!<0D> Then I'd be able to make
+my flaming pots again!
+FR : Oh !<0D> Comment est-ce possible !?<0D> Cet IMBÉCILE de glace !<0D> Il a éteint mon four !<0D> Je ne peux plus fabriquer mes pots ardents !<0D> Ah !<0D> La Flamme éternelle !<0D> Si seulement je l'avais !<0D> Je pourrais refaire mes pots !
+
+[B045-S006]
+EN : <0C>The Eternal Flame!<0D> Without the Eternal Flame,<0D>
+I won't be able to make any flaming pots!<0D> Hmm?<0D>
+What's that smell?<0D> I can smell something...
+You there!<0D> You bear the Eternal Flame!<0D> 
+Set it forth!<0D> Show me the Eternal Flame!
+FR : <0C>La Flamme éternelle !<0D> Sans elle,<0D> je ne peux plus faire de pots ardents !<0D> Hmm ?<0D> Quelle est cette odeur ?<0D> Je sens quelque chose... Toi !<0D> Tu portes la Flamme éternelle !<0D> Montre-la !<0D> Montre-moi la Flamme éternelle !
+
+[B045-S007]
+EN : <0C>Ohhh!<0D> There it is!<0D> OOOOOOOH!<0D> That's it!<0D>
+That really IS the Eternal Flame!<0D> Come now,<0D>
+let me borrow that flame for a moment!
+FR : <0C>Oh !<0D> La voilà !<0D> OOOOH !<0D> C'est ça !<0D> C'est bien la Flamme éternelle !<0D> Allez,<0D> prête-moi cette flamme un instant !
+
+[B045-S008]
+EN : <0C>That's it!<0D> That is IT!<0D> That's the fire I need!<0D>
+My,<0D> how that fire races forth!<0D> Oh,<0D> that is it!<0D>
+Yes!<0D> How can I ever repay you!?
+Wait,<0D> just a moment!
+FR : <0C>C'est ça !<0D> C'est ÇA !<0D> Le feu qu'il me faut !<0D> Oh,<0D> comme il jaillit !<0D> Ah,<0D> c'est ça !<0D> Oui !<0D> Comment te remercier !? Attends,<0D> un instant !
+
+[B045-S009]
+EN : <0C>Here!<0D> I,<0D> Bakuzan,<0D> am very proud of my pots!<0D> 
+I call this a flaming pot!
+FR : <0C>Tiens !<0D> Moi,<0D> Bakuzan,<0D> je suis très fier de mes pots !<0D> J'appelle ça un pot ardent !
+
+[B045-S010]
+EN : <0C>Be careful with it!<0D> If you take it into a cold
+place,<0D> the fire in it will start to burn!<0D> 
+Once it starts ticking,<0D> get ready!
+Then comes the blast,<0D> and...<0D> KABOOOOOOM!<0D>
+Listen up!<0D> Whenever you come to a spot that
+feels right for it,<0D> just set it up there!
+And if you want another one,<0D> just come on
+back for it!<0D> I'll give you as many as you need!
+
+Oh,<0D> it's only natural,<0D> since you lent me the
+Eternal Flame!
+FR : <0C>Sois prudent !<0D> Si tu l'emportes dans un endroit froid,<0D> le feu à l'intérieur s'allumera !<0D> Quand il commence à faire tic-tac,<0D> prépare-toi ! Puis c'est l'explosion,<0D> et...<0D> BOOOOUM !<0D> Écoute !<0D> Dès que tu trouves l'endroit qui convient,<0D> pose-le là ! Si tu en veux un autre,<0D> reviens me voir !<0D> Je t'en donnerai autant qu'il te faudra !
+
+Oh,<0D> c'est bien normal,<0D> puisque tu m'as prêté la Flamme éternelle !
+
+[B045-S011]
+EN : <0C>Oh!<0D> You're back!<0D> Did you want a flaming pot?
+FR : <0C>Oh !<0D> Te revoilà !<0D> Tu veux un pot ardent ?
+
+[B045-S012]
+EN : <0C>There's a pot for ya!
+<17>Higan obtained the flaming pot!<18>
+Be careful with it!<0D> If you take it into a cold
+place,<0D> the fire in it will start to burn!<0D> Once it
+starts ticking,<0D> get ready!<0D> Then comes the
+blast,<0D> and KABOOOOOOM!<0D> Listen up!<0D>
+Whenever you come to a spot that feels right
+for it,<0D> just set it up there!
+FR : <0C>Voilà ton pot !
+<17>Higan reçoit le pot ardent !<18>
+Sois prudent !<0D> Si tu l'emportes dans un endroit froid,<0D> le feu à l'intérieur s'allumera !<0D> Quand il commence à faire tic-tac,<0D> prépare-toi !<0D> Puis c'est l'explosion,<0D> et BOOOOUM !<0D> Écoute !<0D> Dès que tu trouves l'endroit qui convient,<0D> pose-le là !
+
+[B045-S013]
+EN : <0C>If you want another one,<0D> just come on back
+for it!<0D> I'll give you as many as you need!<0D> Oh,<0D> it's
+only natural,<0D> since you lent me the Eternal
+Flame!
+FR : <0C>Si tu en veux un autre,<0D> reviens me voir !<0D> Je t'en donnerai autant qu'il te faudra !<0D> Oh,<0D> c'est bien normal,<0D> puisque tu m'as prêté la Flamme éternelle !
+
+[B045-S014]
+EN : Be careful with it!<0D> If you take it into a cold
+place,<0D> the fire in it will start to burn!<0D> Once it
+starts ticking,<0D> get ready!
+Then comes the blast,<0D> and KABOOOOOOM!<0D>
+Listen up!<0D> Whenever you come to a spot that
+feels right for it,<0D> just set it up there!
+And if you want another one,<0D> just come on
+back for it!<0D> I'll give you as many as you need!
+
+Oh,<0D> it's only natural,<0D> since you lent me the
+Eternal Flame!
+FR : Sois prudent !<0D> Si tu l'emportes dans un endroit froid,<0D> le feu à l'intérieur s'allumera !<0D> Quand il commence à faire tic-tac,<0D> prépare-toi ! Puis c'est l'explosion,<0D> et BOOOOUM !<0D> Écoute !<0D> Dès que tu trouves l'endroit qui convient,<0D> pose-le là ! Si tu en veux un autre,<0D> reviens me voir !<0D> Je t'en donnerai autant qu'il te faudra !
+
+Oh,<0D> c'est bien normal,<0D> puisque tu m'as prêté la Flamme éternelle !
+
+[B045-S015]
+EN : I've developed a new type of flaming pot!<0D> 
+Would you like to buy one?
+
+This time,<0D> there's a switch on it,<0D> so it won't
+just explode on its own!<0D> You'll always be safe,<0D>
+even in the coldest of places!
+I'll sell you one for 100 ryo!<0D> How about it?
+FR : J'ai créé un nouveau pot ardent !<0D> Tu veux en acheter un ?
+
+Cette fois,<0D> il a un interrupteur,<0D> pour éviter qu'il explose tout seul !<0D> Tu seras en sécurité,<0D> même dans les endroits les plus froids ! Je te le vends pour 100 ryo !<0D> Alors ?
+
+[B045-S016]
+EN : You can use this baby during battles!
+
+
+FR : Tu peux utiliser ce petit bijou au combat !
+
+
+
+
+[B045-S017]
+EN : I'm not giving them away for free now!<0D> Just
+come back when you can afford it!
+FR : Je ne les donne plus gratuitement !<0D> Reviens quand tu auras de quoi payer !
+
+[B045-S018]
+EN : Is that so?<0D> Well,<0D> that's a shame...<0D> They've got
+double the destructive power now!<0D> DOUBLE!<0D>
+That's my personal guarantee!
+FR : Ah bon ?<0D> Eh bien,<0D> dommage...<0D> Ils ont maintenant deux fois plus de puissance !<0D> DEUX FOIS !<0D> Je te le garantis !
+
+[B045-S019]
+EN : Master Higan!<0D> Please do your best to keep
+Jipang safe...<0D> And the Fire Bear Nation as
+well...<0D> For me,<0D> alright!?
+FR : Maître Higan !<0D> Faites tout votre possible pour protéger Jipang...<0D> Et le pays de l'Ours de Feu...<0D> Pour moi,<0D> d'accord !?
+
+[B045-S020]
+EN : So...<0D> cold...<0D> I'm gonna...<0D> die...
+FR : Si...<0D> froid...<0D> Je vais...<0D> mourir...
+
+[B045-S021]
+EN : Higan, Higan!<0D> He's our man!<0D>
+If he can't do it,<0D> no one can!
+
+I'm with you,<0D> Higan!<0D> In spirit!<0D> And that Coal
+Hermit?<0D> As if!<0D> Just give him the old one-two!<0D>
+Ka-pow!
+FR : Higan, Higan !<0D> C'est notre champion !<0D> S'il ne peut pas gagner,<0D> personne ne peut !
+
+Je suis avec toi,<0D> Higan !<0D> Par la pensée !<0D> Et cet ermite du Charbon ?<0D> Même pas peur !<0D> Enchaîne deux bons coups !<0D> Et PAF !
+
+[B045-S022]
+EN : Higan,<0D> the TRUE fire fighter!<0D> Higan,<0D> the Hero
+of Fire!<0D> Go,<0D> go!<0D> Higan!<0D> I can practically hear
+everyone in Jipang shouting...<0D> <11>Help us!<11>
+FR : Higan,<0D> le VRAI guerrier du feu !<0D> Higan,<0D> le héros du Feu !<0D> Allez,<0D> allez !<0D> Higan !<0D> J'entends déjà tout Jipang crier...<0D> <11>À l'aide !<11>
+
+[B045-S023]
+EN : Higan...<0D> Help me...!
+FR : Higan...<0D> Aide-moi... !
+
+[B045-S024]
+EN : H-I<0D>-G-A-N!<0D> What's that spell?<0D> Higan!<0D> 
+L-O-V-E<0D>-L-Y!<0D> What's that spell?<0D>
+Lovely!<0D> We love you,<0D> Higan!<0D> Go!<0D> Go!
+FR : H-I<0D>-G-A-N !<0D> Ça fait quoi ?<0D> Higan !<0D> M-I<0D>-G-N-O-N !<0D> Ça fait quoi ?<0D> Mignon !<0D> On t'aime,<0D> Higan !<0D> Allez !<0D> Allez !
+
+[B045-S025]
+EN : Oh,<0D> what!?<0D> Master Higan...<0D> You actually spoke
+to ME!?<0D> Oh,<0D> Master Higan!<0D> MASTER HIGAN!  <09><6E><08>
+
+I DO wish you luck!  <09><6E>  <08><0D>I know you can do it!  <09><6E><08><0D>
+Just don't die!  <09><6E>  <08><0D>Just don't die,<0D> okay!?  <09><6E>  <08>
+FR : Oh,<0D> quoi !?<0D> Maître Higan...<0D> Vous m'avez parlé, à MOI !?<0D> Oh,<0D> maître Higan !<0D> MAÎTRE HIGAN ! <09><6E><08>
+
+Bonne chance ! <09><6E> <08><0D>Je sais que vous pouvez y arriver ! <09><6E><08><0D>Ne mourez pas ! <09><6E> <08><0D>Ne mourez pas,<0D> d'accord !? <09><6E> <08>
+
+[B045-S026]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B045-S027]
+EN : Like...<0D> Oh,<0D> my god!<0D> Higan just totally talked to
+me!<0D> What do I do?<0D> What do I do?<0D> Oh,<0D> my god...<0D>
+What do I do!?
+FR : Genre...<0D> Oh,<0D> là là !<0D> Higan vient de me parler !<0D> Qu'est-ce que je fais ?<0D> Qu'est-ce que je fais ?<0D> Oh,<0D> là là...<0D> Qu'est-ce que je fais !?
+
+[B045-S028]
+EN : Higan!<0D> I heard you've been chosen by the
+Eternal Flame!<0D> That means YOU are the
+king of Jipang!<0D> Oh man,<0D> am I ever jealous!
+You little rascal!<0D> Huh?<0D> You're not exactly
+sure what you're supposed to do now,<0D> you
+say?
+If that's the case,<0D> just ask the divine fire
+bear!<0D> The fire bear should be in the Fire
+Bear Shrine now!
+FR : Higan !<0D> La Flamme éternelle t'a choisi, paraît-il !<0D> Ça veut dire que TU es le roi de Jipang !<0D> Ah,<0D> comme je t'envie ! Petit veinard !<0D> Hein ?<0D> Tu ne sais pas trop quoi faire maintenant,<0D> tu dis ? Alors,<0D> demande à l'Ours de Feu divin !<0D> Il doit être à son sanctuaire !
+
+[B045-S029]
+EN : Save...<0D> us...
+FR : Sauve...<0D> nous...
+
+[B045-S030]
+EN : Well,<0D> if it isn't Higan...<0D>
+Why is it you get all the girls,<0D> huh?
+
+Every single girl in this village goes around
+squealing,<0D> <11>Oooh,<0D> Higan!  <09><6E>  <08><0D> He's so cute!<11><0D>
+Shit!<0D> It's just not fair!
+FR : Tiens,<0D> voilà Higan...<0D> Pourquoi toutes les filles sont après toi,<0D> hein ?
+
+Toutes celles du village passent leur temps à glousser,<0D> <11>Oooh,<0D> Higan ! <09><6E> <08><0D> Il est trop mignon !<11><0D> Merde !<0D> C'est pas juste !
+
+[B045-S031]
+EN : I heard that Zettai Reido sealed the divine 
+fire bear in its shrine,<0D> just north of here!<0D> 
+You're the Hero of Fire,<0D> aren't you!?
+Then hurry to the Fire Bear Shrine and free
+it from the seal already!
+FR : Zettai Reido a emprisonné l'Ours de Feu divin dans son sanctuaire,<0D> au nord d'ici !<0D> Tu es le héros du Feu,<0D> non !? Alors dépêche-toi d'aller lever le sceau !
+
+[B045-S032]
+EN : I heard that you defeated Zettai Reido in the
+Ice Fang Castle!
+
+If that's true,<0D> then the seal on the divine fire
+bear must have been released...<0D> Have you gone
+to meet with it yet?
+FR : Tu aurais vaincu Zettai Reido au château du Croc de Glace !
+
+Si c'est vrai,<0D> le sceau qui retenait l'Ours de Feu divin doit être levé...<0D> Tu es déjà allé le voir ?
+
+[B045-S033]
+EN : Hell's...<0D> army...<0D> has come...<0D> Please...<0D> Save us...
+FR : L'armée...<0D> des Enfers...<0D> est là...<0D> Pitié...<0D> Sauve-nous...
+
+[B045-S034]
+EN : Higan!<0D> Have you heard?<0D> A hundred days have
+passed since the Gates of Hell were opened
+in the Dragon Kingdom.
+Hell's army has come to the Peacock Nation,<0D>
+which is right next to us here in the Fire Bear
+Nation!
+I don't think they'll come to attack us out here
+in the middle of nowhere,<0D> but you never know.
+FR : Higan !<0D> Tu as entendu ?<0D> Cela fait cent jours que les portes des Enfers ont été ouvertes au royaume du Dragon. L'armée des Enfers est arrivée au pays du Paon,<0D> juste à côté de notre pays de l'Ours de Feu ! Je ne crois pas qu'ils viendront nous attaquer dans ce trou perdu,<0D> mais on ne sait jamais.
+
+[B045-S035]
+EN : Yo,<0D> Higan!<0D> Our hero!<0D> The hero of Fireshadow
+Village!<0D> So glad to see you back...<0D> Please,<0D> make
+yourself at home!
+FR : Salut,<0D> Higan !<0D> Notre héros !<0D> Le héros du village de l'Ombre du Feu !<0D> Ça fait plaisir de te revoir...<0D> Allez,<0D> fais comme chez toi !
+
+[B045-S036]
+EN : Higan...<0D> Are you going to leave Fireshadow
+Village?<0D> Well...<0D> Every man must go on a journey
+at some point in his life!
+Just hold back those tears,<0D> and be strong!<0D>
+That's right!<0D> You must go to the Fire Bear
+Shrine.<0D> You'll find the shrine north of here.
+FR : Higan...<0D> Tu vas quitter le village ?<0D> Eh bien...<0D> Tout homme doit partir en voyage un jour ! Retiens tes larmes,<0D> et sois fort !<0D> C'est ça !<0D> Va au sanctuaire de l'Ours de Feu.<0D> Il est au nord d'ici.
+
+[B045-S037]
+EN : I...<0D> can't...<0D> move...
+FR : Je...<0D> ne peux...<0D> plus bouger...
+
+[B045-S038]
+EN : Nope!<0D> Not gonna happen!<0D> Kids aren't allowed
+to head out of the village without an adult.<0D> 
+It's absolutely out of the question!
+If you want to play,<0D> then head over to Yonder
+Mountain and play there,<0D> Higan!
+FR : Non !<0D> Pas question !<0D> Les enfants ne sortent pas du village sans un adulte.<0D> C'est absolument hors de question ! Si tu veux jouer,<0D> va donc au mont Lointain,<0D> Higan !
+
+[B045-S039]
+EN : About your grandpa...<0D> Yeah...<0D> I'm really sorry
+about that...<0D> But you know...<0D> He kinda lives on,<0D>
+in a way... 
+He lives on inside of you.<0D> Don't forget that.<0D> 
+Just live the life he wanted you to live!
+FR : Pour ton grand-père...<0D> Oui...<0D> Je suis vraiment désolé...<0D> Mais tu sais...<0D> Il vit encore,<0D> d'une certaine façon... Il vit en toi.<0D> Ne l'oublie pas.<0D> Vis la vie qu'il souhaitait pour toi !
+
+[B045-S040]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B045-S041]
+EN : You poor thing...<0D> I know how hard your
+grandfather is on you. 
+
+But you know,<0D> it's always a good idea to do
+as your elders say.
+FR : Mon pauvre...<0D> Je sais que ton grand-père est dur avec toi.
+
+Mais tu sais,<0D> il vaut mieux écouter ses aînés.
+
+[B045-S042]
+EN : This village was spared,<0D> thanks to you!<0D> 
+But your grandfather...<0D> <19>Sob...<19>
+
+Who would have guessed that Hell's army
+would attack here,<0D> of all places?
+FR : Le village a été sauvé,<0D> grâce à toi !<0D> Mais ton grand-père...<0D> <19>Snif...<19>
+
+Qui aurait cru que l'armée des Enfers attaquerait ici,<0D> de tous les endroits possibles ?
+
+[B045-S043]
+EN : ...<19>chatter, chatter<19>... 
+FR : ...<19>claque, claque<19>...
+
+[B045-S044]
+EN : I know...<0D> You're probably thinking,<0D> <11>Why do 
+I have to fight the Coal Hermit anyway?<11><0D> 
+But there's no point complaining about it.
+Children have to do as they're told...<0D> You have
+so much to learn before you're able to go off
+on your own in the world.
+You'll make all of the grown-ups happy if you
+just try to behave yourself until that time!
+FR : Je sais...<0D> Tu dois te dire,<0D> <11>Pourquoi dois-je affronter l'ermite du Charbon ?<11><0D> Mais te plaindre ne sert à rien. Les enfants doivent obéir...<0D> Tu as encore beaucoup à apprendre avant de partir seul dans le monde. En attendant, essaie d'être sage : tu feras plaisir aux adultes !
+
+[B045-S045]
+EN : <0C>Ahahahahahaha!<0D> You're pretty skilled there,<0D>
+for a human!<0D> You doddering old fool!
+
+You must have some nerve to cross swords
+with ME,<0D> the great Zettai Reido!
+
+I am the <11>Absolute Zero,<11><0D> the commanding
+officer of the first squadron in Hell's army!<0D>
+Do you really think you stand a chance!?
+FR : <0C>Ahahahahahaha !<0D> Tu te débrouilles bien,<0D> pour un humain !<0D> Vieux croulant !
+
+Il faut du cran pour croiser le fer avec MOI,<0D> le grand Zettai Reido !
+
+Je suis le <11>Zéro absolu,<11><0D> commandant du premier escadron de l'armée des Enfers !<0D> Tu crois vraiment avoir une chance !?
+
+[B045-S046]
+EN : <0C>You cold-hearted brute!<0D> There's no way
+I'd ever lose to the likes of you!
+FR : <0C>Brute au cœur de glace !<0D> Je ne perdrai jamais contre quelqu'un comme toi !
+
+[B045-S047]
+EN : <0C>Well said,<0D> old man!<0D> But can you handle THIS!?
+FR : <0C>Bien dit,<0D> vieillard !<0D> Mais peux-tu résister à ÇA !?
+
+[B045-S048]
+EN : <0C>Urgh!
+FR : <0C>Argh !
+
+[B045-S049]
+EN : <0C>I am Zettai Reido,<0D> commanding officer of the
+first squadron in Hell's army!<0D> And that...?<0D>
+That is my icy breath! 
+Ahahahahaha!<0D> Now how does it feel!?<0D> 
+How does it feel to be unable to move!?
+FR : <0C>Je suis Zettai Reido,<0D> commandant du premier escadron de l'armée des Enfers !<0D> Et ça... ?<0D> C'est mon souffle glacé ! Ahahahahaha !<0D> Alors, quel effet ça fait !?<0D> Quel effet ça fait de ne plus pouvoir bouger !?
+
+[B045-S050]
+EN : <0C>What!?<0D> Don't tell me you're a member of the
+Fire Clan!?
+FR : <0C>Quoi !?<0D> Ne me dis pas que tu es du clan du Feu !?
+
+[B045-S051]
+EN : <0C>Engarde,<0D> you frozen fiend!
+FR : <0C>En garde,<0D> démon de glace !
+
+[B045-S052]
+EN : <0C>What?<0D> Higan!
+FR : <0C>Quoi ?<0D> Higan !
+
+[B045-S053]
+EN : <0C>Hey,<0D> you old fool!<0D> You left yourself wide open!
+FR : <0C>Hé,<0D> vieux fou !<0D> Tu as baissé ta garde !
+
+[B045-S054]
+EN : <0C>Never take your eyes off your opponent!<0D>
+Not even for a second...
+FR : <0C>Ne quitte jamais ton adversaire des yeux !<0D> Pas même une seconde...
+
+[B045-S055]
+EN : <0C>Ahahahahahaha!<0D> Love!?<0D> Justice!?<0D> Whatever
+you've got...<0D> I will lock it all up in my ice! 
+
+Weaklings,<0D> every single person in this village!<0D> 
+They were all far too weak to fight back!<0D> 
+Not a single man here could stand his ground!<0D>
+Even the fire bear they worshipped was as
+feeble as everyone here!<0D> I froze that thing
+just as easily as this village!<0D> 
+And to think I came all the way out of Hell for
+THIS!?<0D> Such an utter disappointment this is!
+FR : <0C>Ahahahahahaha !<0D> L'amour !?<0D> La justice !?<0D> Tout ce que vous avez...<0D> Je l'emprisonnerai dans ma glace !
+
+Des faibles,<0D> tous les habitants de ce village !<0D> Trop faibles pour se défendre !<0D> Pas un seul n'a pu me tenir tête !<0D> Même l'Ours de Feu qu'ils vénèrent était aussi pitoyable !<0D> Je l'ai gelé aussi facilement que ce village !<0D>
+Et je suis sorti des Enfers pour ÇA !?<0D> Quelle déception !
+
+[B045-S056]
+EN : <0C>...Huh?<0D> There are still more left,<0D> I see!<0D> 
+Well,<0D> then!
+FR : <0C>...Hein ?<0D> Il en reste encore,<0D> on dirait !<0D> Eh bien,<0D> alors !
+
+[B045-S057]
+EN : <0C>Ahahahahahaha!<0D> Cold,<0D> isn't it?<0D> My icy breath...<0D>
+The breath of the commanding officer of the
+first squadron in Hell's army!
+FR : <0C>Ahahahahahaha !<0D> Il fait froid,<0D> hein ?<0D> Mon souffle glacé...<0D> Celui du commandant du premier escadron de l'armée des Enfers !
+
+[B045-S058]
+EN : <0C>Huh!?<0D> What is the meaning of this!?<0D> 
+You've broken through the ice of 
+the great Zettai Reido! 
+Hmph...<0D> How VERY interesting!
+
+
+Come at me!<0D> I,<0D> Zettai Reido,<0D> will show you a
+battle that only a cold-blooded warrior
+from the depths of Hell can!
+FR : <0C>Hein !?<0D> Qu'est-ce que ça veut dire !?<0D> Tu as brisé la glace du grand Zettai Reido ! Hmph...<0D> Comme c'est intéressant !
+
+
+Viens !<0D> Moi,<0D> Zettai Reido,<0D> je vais te montrer comment combat un guerrier au sang froid venu du fond des Enfers !
+
+[B045-S059]
+EN : <0C>You are only a child...<0D> 
+How did you come to possess such power? <0D><0D><0D>
+
+...Urgh!
+FR : <0C>Tu n'es qu'un enfant...<0D> D'où te vient une telle puissance ?<0D><0D><0D>
+
+...Argh !
+
+[B045-S060]
+EN : <0C>What!?<0D> You there,<0D> boy!<0D>
+What exactly ARE you!? 
+
+I see...<0D> So that's how it's going to play out,<0D> 
+is it?<0D> Tch!<0D> Then I will withdraw for now!<0D> 
+
+Come to Ice Mountain!<0D>
+We'll settle this once and for all there!<0D> <0D>
+Next time,<0D> it won't be so easy!
+FR : <0C>Quoi !?<0D> Toi,<0D> petit !<0D> Qu'es-tu donc !?
+
+Je vois...<0D> Voilà donc comment ça se passe,<0D> hein ?<0D> Tss !<0D> Je me retire pour le moment !<0D>
+
+Viens au mont de Glace !<0D> Nous réglerons cela là-bas !<0D> <0D> La prochaine fois,<0D> ce ne sera pas si facile !
+
+[B045-S061]
+EN : <0C>Ahahahahaha!<0D> And here you shall remain,<0D>
+frozen forever,<0D> locked in the ice of the
+great Zettai Reido!
+FR : <0C>Ahahahahaha !<0D> Et tu resteras ici,<0D> gelé pour toujours,<0D> prisonnier de la glace du grand Zettai Reido !
+
+[B045-S062]
+EN : <0B><0B>Ohh... <0C>Higan!<0D> What's that you've got there...?<0D>
+<0C>It's...<0D> the herald of the Eternal Flame!<0D>
+I see...<0D> You must be the one...<0D> Higan...
+Have you been chosen...<0D> by the Eternal
+Flame...?<0D> Chosen...<0D> to be the...<0D> Hero...<0D> 
+of Fire...?<0D> Higan...<0D> Listen well...
+The Eternal Flame...<0D> It has chosen...<0D> you...<0D>
+Those who are chosen by the Eternal Flame...
+
+They are destined to reign as the king of the
+Dragon Kingdom...<0D> Bound to protect the seal
+upon the Gates of Hell...
+To protect all of Jipang...<0D> It is your calling...<0D>
+Your duty...<0D> Higan...<0D> Accept the will...<0D> of the
+Eternal Flame...<0D> And go to Firepoint Village...<0D>
+FR : <0B><0B>Oh... <0C>Higan !<0D> Qu'as-tu là... ?<0D> <0C>C'est...<0D> le messager de la Flamme éternelle !<0D> Je vois...<0D> Ce doit être toi...<0D> Higan... Tu as été choisi...<0D> par la Flamme éternelle... ?<0D> Choisi...<0D> pour être le...<0D> héros...<0D> du Feu... ?<0D> Higan...<0D> Écoute bien... La Flamme éternelle...<0D> Elle t'a choisi...<0D> toi...<0D> Ceux qu'elle choisit...
+
+Ils sont destinés à régner sur le royaume du Dragon...<0D> À protéger le sceau des portes des Enfers... À protéger tout Jipang...<0D> C'est ta vocation...<0D> Ton devoir...<0D> Higan...<0D> Accepte la volonté...<0D> de la Flamme éternelle...<0D> Et va au village de la Pointe du Feu...<0D>
+
+[B045-S063]
+EN : Higan...<0D> Show me your face...<0D> Let me take...<0D>
+one last look at you...<0D> Ohh...<0D> That is the face
+of a fine swordsman...<0D> 
+Higan...<0D> Take this...<0D> And go...
+FR : Higan...<0D> Montre-moi ton visage...<0D> Laisse-moi...<0D> te regarder une dernière fois...<0D> Oh...<0D> Voilà le visage d'un grand sabreur...<0D> Higan...<0D> Prends ceci...<0D> Et pars...
+
+[B045-S064]
+EN : <0B>Go to Firepoint Village...<0D> 
+There,<0D> your destiny...<0D> awaits...<0D> 
+The fated task...<0D> of the Hero...<0D> of Fire...<0D>
+Higan...! 
+
+
+<0B>.<0D>.<0D>.
+FR : <0B>Va au village de la Pointe du Feu...<0D> Là-bas,<0D> ton destin...<0D> t'attend...<0D> La mission...<0D> du héros...<0D> du Feu...<0D> Higan... !
+
+
+<0B>.<0D>.<0D>.
+
+[B045-S065]
+EN : Firepoint Village is a very special place...<0D> 
+It is the land of those who have inherited
+the blood of our clan...
+Our clan,<0D> the Fire Clan,<0D> first descended from
+the Heavens...<0D> Your mother,<0D> my daughter,<0D> was
+born there...
+It is the place where the Eternal Flame now
+resides...
+FR : Le village de la Pointe du Feu est un lieu très particulier...<0D> C'est la terre de ceux qui ont hérité du sang de notre clan... Notre clan,<0D> le clan du Feu,<0D> est jadis descendu des Cieux...<0D> Ta mère,<0D> ma fille,<0D> y est née... C'est là que réside la Flamme éternelle...
+
+[B045-S066]
+EN : Help...<0D> me...<0D> Hi...<0D>gan...
+FR : Aide...<0D> moi...<0D> Hi...<0D>gan...
+
+[B045-S067]
+EN : You really are amazing,<0D> Higan!<0D> So strong,<0D> and
+so courageous!<0D> And you can even use scrolls!
+
+Higan,<0D> you just might truly be the Hero of Fire!
+FR : Tu es vraiment formidable,<0D> Higan !<0D> Si fort,<0D> et si courageux !<0D> Tu sais même utiliser les parchemins !
+
+Higan,<0D> tu es peut-être vraiment le héros du Feu !
+
+[B045-S068]
+EN : <0C>That was pretty cruel of you,<0D> Gramps!
+FR : <0C>Vous avez été dur avec lui,<0D> Papi !
+
+[B045-S069]
+EN : Sorry about that,<0D> Higan!<0D> We're always running
+off halfway through,<0D> leaving you to fight the
+Coal Hermit alone...<0D> 
+But he's just so...<0D> scary!
+FR : Désolé,<0D> Higan !<0D> On s'enfuit toujours à mi-chemin,<0D> et on te laisse affronter l'ermite du Charbon tout seul...<0D> Mais il est tellement...<0D> effrayant !
+
+[B045-S070]
+EN : <0C>You big ol' dummy!
+FR : <0C>Espèce de gros idiot !
+
+[B045-S071]
+EN : You again!?<0D> The Coal Hermit in the coal
+mine won't ever lose to the likes of you!<0D> 
+Try as often as you'd like!
+He lives in the deepest reaches of the coal
+mine,<0D> after all!
+FR : Encore toi !?<0D> L'ermite du Charbon ne perdra jamais contre toi !<0D> Essaie autant que tu voudras ! Il vit tout au fond de la mine,<0D> de toute façon !
+
+[B045-S072]
+EN : Oh,<0D> if it isn't Higan,<0D> the Hero of Fire!<0D> 
+I heard all about you from the Coal Hermit!
+
+You should go and meet with him from time
+to time,<0D> by the way!
+FR : Oh,<0D> voilà Higan,<0D> le héros du Feu !<0D> L'ermite du Charbon m'a tout raconté !
+
+Tu devrais lui rendre visite de temps en temps,<0D> au fait !
+
+[B045-S073]
+EN : <0C>Higan!<0D> Hold on a second! 
+
+
+Are you heading to the Coal Hermit now?<0D> 
+Well,<0D> we're gonna go with you,<0D> and this
+time,<0D> we're not gonna bail out on you!<0D> 
+We'll fight him together!<0D> 
+We'll be the three Heroes of Fire!
+FR : <0C>Higan !<0D> Attends un peu !
+
+
+Tu vas voir l'ermite du Charbon ?<0D> Eh bien,<0D> on vient avec toi,<0D> et cette fois,<0D> on ne t'abandonnera pas !<0D> On le combattra ensemble !<0D> Nous serons les trois héros du Feu !
+
+[B045-S074]
+EN : <0C>We're not gonna run away anymore!<0D> 
+We're not a couple of wimps!<0D> 
+
+We've got courage!<0D> Yeah,<0D> the kind of courage
+you're always going on about,<0D> Higan!
+FR : <0C>On ne s'enfuira plus !<0D> On n'est pas des mauviettes !<0D>
+
+On a du courage !<0D> Oui,<0D> ce courage dont tu nous parles tout le temps,<0D> Higan !
+
+[B045-S075]
+EN : <0C>Alright!<0D> Let's go all-out on that Coal Hermit!
+FR : <0C>Allez !<0D> On va tout donner contre cet ermite du Charbon !
+
+[B045-S076]
+EN : <0C><17>Genkotsu and Binta joined up!<18>
+FR : <0C><17>Genkotsu et Binta rejoignent le groupe !<18>
+
+[B045-S077]
+EN : Higan!<0D> This is bad!<0D> The village!<0D>
+Something's happened in the village!<0D> 
+It's frozen over!
+FR : Higan !<0D> C'est terrible !<0D> Le village !<0D> Il s'est passé quelque chose !<0D> Tout est gelé !
+
+[B045-S078]
+EN : It all happened so suddenly!<0D> Some icy guy just
+appeared,<0D> and started freezing everyone
+around!<0D> Genkotsu,<0D> too! <0D>And Mom!
+Everybody,<0D> they all got frozen,<0D> and then
+Gramps...<0D> He said he was going to take that
+guy down himself!
+Higan,<0D> I'm scared...<0D> I'm really,<0D> really scared...<0D>
+Waaaaaaaah!
+FR : Tout s'est passé si vite !<0D> Un type de glace est apparu,<0D> et il s'est mis à geler tout le monde !<0D> Genkotsu,<0D> aussi !<0D> Et maman ! Tout le monde,<0D> ils ont tous été gelés,<0D> et puis Papi...<0D> Il a dit qu'il allait l'arrêter lui-même ! Higan,<0D> j'ai peur...<0D> J'ai vraiment,<0D> vraiment peur...<0D> Ouin !
+
+[B045-S079]
+EN : It all happened so suddenly!<0D> Some icy guy just
+appeared,<0D> and started freezing everyone
+around!<0D> And then Gramps...
+He said he was going to take that guy down
+himself!<0D> Higan,<0D> I'm scared...<0D> I'm really,<0D> really
+scared...<0D> Waaaaaaaah!
+FR : Tout s'est passé si vite !<0D> Un type de glace est apparu,<0D> et il s'est mis à geler tout le monde !<0D> Et puis Papi... Il a dit qu'il allait l'arrêter lui-même !<0D> Higan,<0D> j'ai peur...<0D> J'ai vraiment,<0D> vraiment peur...<0D> Ouin !
+
+[B045-S080]
+EN : <17>It's the grave of Higan's dad.<18>
+FR : <17>C'est la tombe du père d'Higan.<18>
+
+[B045-S081]
+EN : <17>It's the grave of Higan's mom.<18>
+FR : <17>C'est la tombe de la mère d'Higan.<18>
+
+[B049-S001]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S002]
+EN : Higan!<0D> Have you visited the Coal Hermit,<0D> who
+lives in the coal mine at Yonder Mountain?
+FR : Higan !<0D> Tu es allé voir l'ermite du Charbon,<0D> dans la mine du mont Lointain ?
+
+[B049-S003]
+EN : The Coal Hermit's not the only hermit in
+Jipang.<0D> There are plenty of others,<0D> or so
+I'm told,<0D> Higan...
+I'm sure that they'd be willing to help you...<0D>
+From what I've heard,<0D> there are three other
+hermits here in the Fire Bear Nation alone!
+FR : L'ermite du Charbon n'est pas le seul ermite de Jipang.<0D> Il y en aurait bien d'autres,<0D> à ce qu'on raconte,<0D> Higan...
+Je suis sûr qu'ils accepteraient de t'aider...<0D> Rien qu'au pays de l'Ours de Feu,<0D> il y aurait trois autres ermites !
+
+[B049-S004]
+EN : Higan!<0D> Have you already defeated the Coal
+Hermit in the coal mine at Yonder Mountain?
+FR : Higan !<0D> Tu as déjà battu l'ermite du Charbon, dans la mine du mont Lointain ?
+
+[B049-S005]
+EN : Is that so...?<0D> But you know,<0D> Higan!<0D> 
+You shouldn't get on the Coal Hermit's 
+bad side.
+Why?<0D> Well,<0D> it's because of the Coal Hermit
+living here that we're able to produce the
+finest coal in all of Jipang!
+FR : Ah bon... ?<0D> Mais tu sais,<0D> Higan !<0D> Tu ferais mieux de ne pas te mettre l'ermite du Charbon à dos.
+Pourquoi ?<0D> Eh bien,<0D> c'est grâce à lui que nous produisons le meilleur charbon de tout Jipang !
+
+[B049-S006]
+EN : Higan,<0D> it's you!<0D> It's no surprise that you're
+a member of the Fire Clan...
+
+I knew there was something special about you,<0D>
+unlike my Genkotsu!
+FR : Higan,<0D> c'est toi !<0D> Ça ne m'étonne pas que tu sois du clan du Feu...
+
+J'ai toujours su que tu avais quelque chose de spécial,<0D> contrairement à mon Genkotsu !
+
+[B049-S007]
+EN : What's that now?<0D> Well,<0D> if it isn't Higan!<0D> 
+You've got to do something about Genkotsu.<0D> 
+Toughen him up a bit!
+That boy...<0D> He just can't help but run away
+whenever you need him the most!
+FR : Tiens donc ?<0D> Mais,<0D> c'est Higan !<0D> Tu devrais prendre Genkotsu en main.<0D> Endurcis-le un peu !
+Ce garçon...<0D> Il trouve toujours le moyen de fuir dès qu'on a vraiment besoin de lui !
+
+[B049-S008]
+EN : The...<0D> Eternal...<0D> Flame...
+FR : La...<0D> Flamme...<0D> éternelle...
+
+[B049-S009]
+EN : I'm famous all over Jipang for the pots I make!<0D>
+The name's Bakuzan! 
+
+Just be careful with my flaming pots!<0D> 
+They spew out fire!
+FR : Mes pots sont célèbres dans tout Jipang !<0D> Moi, c'est Bakuzan !
+
+Mais attention à mes pots ardents !<0D> Ils crachent du feu !
+
+[B049-S010]
+EN : I've been working as an apprentice here<2A><0D> I hope
+I can start making my own flaming pots some
+day soon!
+FR : Je suis apprenti ici<2A><0D> J'espère pouvoir bientôt fabriquer mes propres pots ardents !
+
+[B049-S011]
+EN : What should I do!?<0D> The good Doctor Bakuzan
+told me to go and search for the Eternal
+Flame...
+But I have no idea where Firepoint Village is,<0D>
+and that's where it supposedly is kept...
+
+I asked him to tell me more about the village,<0D>
+but all he could say was that it was <11>to the
+north!<11>
+How is that supposed to help me find it!? 
+FR : Qu'est-ce que je vais faire !?<0D> Le maître Bakuzan m'a envoyé chercher la Flamme éternelle...
+Mais je ne sais même pas où se trouve le village de la Pointe du Feu,<0D> où elle est censée brûler...
+
+Quand je lui ai demandé où était ce village,<0D> il m'a seulement répondu : <11>Au nord !<11>
+Et avec ça, je suis censé le trouver !?
+
+[B049-S012]
+EN : Doctor Bakuzan said that he's able to make his
+pots with the Eternal Flame of the legendary
+Firepoint Village!
+He's always telling me...<0D> 
+<11>That fire gives my pots LIFE!<11>
+FR : Le maître Bakuzan dit qu'il fabrique ses pots grâce à la Flamme éternelle du légendaire village de la Pointe du Feu !
+Il me répète sans arrêt...<0D>
+<11>Ce feu donne VIE à mes pots !<11>
+
+[B049-S013]
+EN : Are you back already!?<0D> 
+Did you defeat the Coal Hermit!?
+FR : Déjà de retour !?<0D> Tu as battu l'ermite du Charbon !?
+
+[B049-S014]
+EN : Higan!<0D> I can tell when you're lying to me!
+I thought I raised you better than that!<0D> 
+Go to Yonder Mountain this instant!
+Go now,<0D> and defeat the Coal Hermit!<0D> 
+And don't come back here until you do!
+FR : Higan !<0D> Je vois bien quand tu me mens ! Je t'ai pourtant mieux élevé que ça !<0D> File au mont Lointain !
+Va,<0D> et bats l'ermite du Charbon !<0D> Ne reviens pas avant d'avoir gagné !
+
+[B049-S015]
+EN : What!?<0D> Higan!<0D> What are you still wasting time
+here for!?<0D> Go to Yonder Mountain this instant!<0D>
+Go now,<0D> and defeat the Coal Hermit! 
+And don't come back here until you do!
+FR : Quoi !?<0D> Higan !<0D> Qu'est-ce que tu fais encore ici !?<0D> File au mont Lointain !<0D> Va,<0D> et bats l'ermite du Charbon !
+Ne reviens pas avant d'avoir gagné !
+
+[B049-S016]
+EN : I knew you were awesome,<0D> Higan!<0D> 
+You could even take down Hell's army!<0D> 
+You're not like the rest of us...
+Binta and I don't stand a chance against the
+lot of them!<0D> I'm sorry,<0D> Higan,<0D> but I just can't
+fight at your side...
+In any case,<0D> Binta and I will be rooting for you!<0D>
+Fight the good fight for us! 
+
+Oh,<0D> and come back on your birthday!<0D>
+We'll have a present for you!
+FR : Je savais que t'étais fort,<0D> Higan !<0D> Même l'armée des Enfers ne te fait pas peur !<0D> T'es pas comme nous...
+Binta et moi, on ne ferait pas le poids !<0D> Désolé,<0D> Higan,<0D> mais je ne peux pas me battre à tes côtés...
+En tout cas,<0D> Binta et moi, on sera avec toi par la pensée !<0D> Bats-toi aussi pour nous !
+
+Ah,<0D> reviens pour ton anniversaire !<0D> On aura un cadeau pour toi !
+
+[B049-S017]
+EN : Higan...<0D> I can't believe that Gramps is dead...<0D>
+And now you're gonna leave Fireshadow Village
+too...
+It's gonna be lonely around here without you!<0D>
+Higan,<0D> you've gotta come back,<0D> once you're
+through with your mission!
+We'll all be waiting for you!
+FR : Higan...<0D> J'arrive pas à croire que Papi soit mort...<0D> Et maintenant, tu quittes le village de l'Ombre du Feu, toi aussi...
+Ça va faire un vide sans toi !<0D> Higan,<0D> promets de revenir,<0D> quand ta mission sera finie !
+On t'attendra tous !
+
+[B049-S018]
+EN : Happy birthday!<0D> Congratulations,<0D> Higan!<0D> 
+Our Hero of Fire! 
+
+Genkotsu,<0D> Binta,<0D> and everyone else have
+a present for you on the second floor!
+FR : Joyeux anniversaire !<0D> Tous nos vœux,<0D> Higan !<0D> Notre héros du Feu !
+
+Genkotsu,<0D> Binta,<0D> et les autres ont un cadeau pour toi à l'étage !
+
+[B049-S019]
+EN : <0C><0C>Hey,<0D> Higan!<0D> Pull yourself together,<0D> man!<0D>
+You're not dead,<0D> right?<0D> Higan!
+FR : <0C><0C>Hé,<0D> Higan !<0D> Ressaisis-toi,<0D> vieux !<0D> T'es pas mort,<0D> hein ?<0D> Higan !
+
+[B049-S020]
+EN : <0C>It's me!<0D> It's Genkotsu!<0D> You alright?
+FR : <0C>C'est moi !<0D> Genkotsu !<0D> Ça va ?
+
+[B049-S021]
+EN : <0C>And I'm Binta!<0D> But you knew that already...<0D> 
+Don't tell me the shock of losing to the Coal
+Hermit rattled you THAT much.
+FR : <0C>Et moi, c'est Binta !<0D> Mais tu le savais déjà...<0D> Ne me dis pas que l'ermite du Charbon t'a mis dans cet état rien qu'en te battant !
+
+[B049-S022]
+EN : <0C>The last time we tried,<0D> he hit you with that
+bean-paste,<0D> and your clothes got soaked!
+
+And before that,<0D> he actually threw POOP!<0D>
+You got totally splattered with that shit!<0D>
+Talk about adding insult to injury!
+FR : <0C>La dernière fois,<0D> il t'a lancé sa pâte de haricots,<0D> et t'en avais plein les fringues !
+
+Et la fois d'avant,<0D> il t'a carrément jeté du CACA !<0D> T'étais couvert de merde !<0D> La honte, en plus de la raclée !
+
+[B049-S023]
+EN : <0C>He's made one thing clear this time...<0D> 
+He isn't pulling any of his punches!<0D> 
+He nearly killed you!
+FR : <0C>Cette fois, on a compris...<0D> Il n'y va pas de main morte !<0D> Il a failli te tuer !
+
+[B049-S024]
+EN : <0C>I know I promised you I'd stick with you and
+fight.<0D> Sorry about that,<0D> making you go in
+there alone and all.
+FR : <0C>Je sais, je t'avais promis de me battre avec toi.<0D> Désolé,<0D> je t'ai laissé y aller tout seul.
+
+[B049-S025]
+EN : <0C>What is the meaning of this,<0D> Higan!?<0D> 
+Defeated by the likes of the Coal Hermit!?<0D> 
+How careless can you be!?
+FR : <0C>Qu'est-ce que ça veut dire,<0D> Higan !?<0D> Tu t'es fait battre par l'ermite du Charbon !?<0D> Quelle imprudence !
+
+[B049-S026]
+EN : <0C>Leave him be,<0D> Gramps!<0D>
+Can't you see he's hurt!?
+FR : <0C>Laissez-le,<0D> Papi !<0D> Vous voyez bien qu'il est blessé !?
+
+[B049-S027]
+EN : <0C>C'mon,<0D> Gramps!<0D> Higan might die,<0D> you know!?
+FR : <0C>Enfin,<0D> Papi !<0D> Higan pourrait mourir,<0D> vous savez !?
+
+[B049-S028]
+EN : <0C>Argh,<0D> I've heard just about enough from the
+two of you!<0D>
+
+Get your hands off me,<0D> Genkotsu!<0D> 
+And you too,<0D> Binta!
+FR : <0C>Assez,<0D> j'en ai entendu assez de vous deux !<0D>
+
+Lâche-moi,<0D> Genkotsu !<0D> Et toi aussi,<0D> Binta !
+
+[B049-S029]
+EN : <0C>Defeat the Coal Hermit!<0D> If you ever plan to
+call yourself a man,<0D> then don't come back
+until you've defeated him!
+FR : <0C>Bats l'ermite du Charbon !<0D> Si tu veux te dire un homme,<0D> ne reviens pas avant de l'avoir vaincu !
+
+[B049-S030]
+EN : <0C>Higan...<0D> A swordsman of the Fire Clan is
+slumbering within you.<0D> You just need to
+wake him up,<0D> and the sooner the better.
+It's already been a hundred days since the
+seal upon the Gates of Hell was lifted...<0D> 
+And there isn't much time left now.
+FR : <0C>Higan...<0D> Un sabreur du clan du Feu sommeille en toi.<0D> Il faut le réveiller,<0D> et au plus vite.
+Cela fait déjà cent jours que le sceau des portes des Enfers a été brisé...<0D> Il ne nous reste plus beaucoup de temps.
+
+[B049-S031]
+EN : Meow!
+FR : Miaou !
+
+[B049-S032]
+EN : <0C>Higan,<0D> here you go...<0D> It's your birthday
+present!<0D> Please take it with you!<0D>
+<17>Higan received the Solar Light!<18>
+FR : <0C>Higan,<0D> tiens...<0D> C'est ton cadeau d'anniversaire !<0D> Emporte-le avec toi !<0D>
+<17>Higan reçoit la Lumière solaire !<18>
+
+[B049-S033]
+EN : Higan!<0D> Hang in there!<0D> You can bring peace to
+Jipang!<0D> You can send Hell's army packin'!
+FR : Higan !<0D> Courage !<0D> Tu peux ramener la paix à Jipang !<0D> Tu peux chasser l'armée des Enfers !
+
+[B049-S034]
+EN : <0C>Higan!<0D> Happy birthday!<0D> Here,<0D> it's a present!<0D>
+Maybe this'll come in handy during battle!<0D>
+<17>Higan received the Body Essence!<18>
+FR : <0C>Higan !<0D> Joyeux anniversaire !<0D> Tiens,<0D> c'est un cadeau !<0D> Ça pourra te servir au combat !<0D>
+<17>Higan reçoit l'Essence corporelle !<18>
+
+[B049-S035]
+EN : <0C>Keep fighting for Jipang!<0D> You can do it,<0D> Higan!
+FR : <0C>Bats-toi pour Jipang !<0D> Tu peux y arriver,<0D> Higan !
+
+[B049-S036]
+EN : Higan!<0D> Happy birthday!<0D> Keep fighting for Jipang!<0D>
+You can do it,<0D> Higan!
+FR : Higan !<0D> Joyeux anniversaire !<0D> Bats-toi pour Jipang !<0D> Tu peux y arriver,<0D> Higan !
+
+[B049-S037]
+EN : <0C>Higan!<0D> Happy birthday!<0D> I made this for you!<0D> 
+You can eat it later!  <09><6E>  <08><0D>
+FR : <0C>Higan !<0D> Joyeux anniversaire !<0D> J'ai préparé ça pour toi !<0D> Tu pourras le manger plus tard !  <09><6E>  <08><0D>
+
+[B049-S038]
+EN : <0C><17>Higan received the Tender Lunchbox!<18>
+FR : <0C><17>Higan reçoit le Bento affectueux !<18>
+
+[B049-S039]
+EN : Higan!<0D> Enjoy the lunchbox I made for you!<0D> 
+Good luck!  <09><6E>  <08>
+FR : Higan !<0D> Régale-toi avec mon bento !<0D> Bonne chance !  <09><6E>  <08>
+
+[B049-S040]
+EN : <0C>Huh!?<0D> Ahh...<0D> Wow!<0D> Well,<0D> this is your birthday
+present!<0D> Anyway...<0D> Congratulations!<0D>
+FR : <0C>Hein !?<0D> Ah...<0D> Oh !<0D> Eh bien,<0D> c'est ton cadeau d'anniversaire !<0D> Enfin...<0D> Joyeux anniversaire !<0D>
+
+[B049-S041]
+EN : <0C><17>Higan received the Confusion Powder!<18>
+FR : <0C><17>Higan reçoit la Poudre de confusion !<18>
+
+[B049-S042]
+EN : Whenever you're here before me,<0D> Higan...<0D> I just
+feel like things are getting better and better!<0D>
+Hang in there,<0D> okay?  <09><6E>  <08><0D>Keep it up!  <09><6E>  <08>
+FR : Quand tu es là,<0D> Higan...<0D> J'ai l'impression que tout s'arrange !<0D> Tiens bon,<0D> d'accord ?  <09><6E>  <08><0D>Continue comme ça !  <09><6E>  <08>
+
+[B049-S043]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S044]
+EN : Oh!<0D> Higan!?<0D> Binta's mother worries about him
+way too much,<0D> you know.<0D> She can't get so
+worked up over a couple of scratches!
+After all,<0D> every time a boy gets hurt,<0D> it puts
+him one step closer to being a man!
+FR : Oh !<0D> Higan !?<0D> La mère de Binta s'inquiète beaucoup trop pour lui,<0D> tu sais.<0D> Elle ne va pas se mettre dans cet état pour quelques égratignures !
+Après tout,<0D> chaque fois qu'un garçon se blesse,<0D> il fait un pas de plus vers l'âge adulte !
+
+[B049-S045]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S046]
+EN : Oh!<0D> Higan!?<0D> Don't drag my precious little Binta
+into any dangerous places!
+
+My heart couldn't take it if he came home to
+me covered in cuts and bruises!
+FR : Oh !<0D> Higan !?<0D> N'entraîne pas mon petit Binta dans des endroits dangereux !
+
+Je ne supporterais pas de le voir rentrer couvert de bleus et de coupures !
+
+[B049-S047]
+EN : Oh,<0D> Higan!?<0D> If you're here to see Binta,<0D> he's
+over at your house!
+
+He said he was going to surprise you,<0D> or
+something!<0D> Did you meet up with him?
+FR : Oh,<0D> Higan !?<0D> Si tu cherches Binta,<0D> il est chez toi !
+
+Il voulait te faire une surprise,<0D> je crois !<0D> Vous vous êtes croisés ?
+
+[B049-S048]
+EN : It must have been so hard,<0D> seeing ol' Gramps
+pass away...<0D> <19>Sob<19><0D> 
+
+No,<0D> there's no need to pay,<0D> Higan!
+Just get yourself rested up!
+FR : Ça a dû être terrible de voir partir ton grand-père...<0D><0D> <19>Snif<19><0D>
+
+Non,<0D> pas besoin de payer,<0D> Higan ! Repose-toi, c'est tout !
+
+[B049-S049]
+EN : I couldn't possibly take any money from our
+future king!
+
+Higan!<0D> Just get yourself some rest!
+FR : Je ne vais tout de même pas faire payer notre futur roi !
+
+Higan !<0D> Prends le temps de te reposer !
+
+[B049-S050]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S051]
+EN : This isn't looking good,<0D> Higan!<0D> You won't be
+able to go back home until you defeat the
+Coal Hermit at Yonder Mountain,<0D> right?
+You can't sleep outside,<0D> though...<0D> 
+Would you like to sleep here?
+FR : Ça s'annonce mal,<0D> Higan !<0D> Tu ne peux pas rentrer chez toi avant d'avoir battu l'ermite du Charbon au mont Lointain,<0D> c'est ça ?
+Mais tu ne vas pas dormir dehors...<0D> <0D> Tu veux passer la nuit ici ?
+
+[B049-S052]
+EN : Hang in there,<0D> Higan!<0D> 
+I'll be rooting for you,<0D> alright?
+FR : Courage,<0D> Higan !<0D> Je suis de tout cœur avec toi,<0D> d'accord ?
+
+[B049-S053]
+EN : I know how hard it must be for you...<0D> 
+But a real man never cries!
+
+That's right...<0D> If you've been chosen by the
+Eternal Flame,<0D> then you should go and speak
+with the divine fire bear.
+The fire bear is the divine beast that watches
+over the Fire Bear Nation!
+
+It should know all about the Fire Clan,<0D> too.
+FR : Je sais que c'est dur pour toi...<0D> Mais un homme, un vrai, ne pleure pas !
+
+C'est ça...<0D> Si la Flamme éternelle t'a choisi,<0D> va donc parler à l'Ours de Feu divin. C'est la bête divine qui veille sur le pays de l'Ours de Feu !
+
+Il doit aussi savoir bien des choses sur le clan du Feu,<0D> non ?
+
+[B049-S054]
+EN : Hi...<0D> gan....<0D> Hurry...<0D> to your...<0D> grandpa's...<0D>
+house...
+FR : Hi...<0D> gan...<0D> Vite...<0D> chez...<0D> ton grand-père...<0D>
+
+[B049-S055]
+EN : Higan,<0D> you've been living in Fireshadow Village
+for ten years.<0D> You and your grandpa finally
+seem like you really belong here.
+FR : Higan,<0D> voilà dix ans que tu vis au village de l'Ombre du Feu.<0D> Ton grand-père et toi, vous avez enfin trouvé votre place ici.
+
+[B049-S056]
+EN : Yay!<0D> It's Higan!<0D> Hey,<0D> when this whole battle
+with Hell's army is over...<0D> You'll come back
+here,<0D> right? 
+And you'll play with me again,<0D> yeah?<0D> Higan!
+FR : Chouette !<0D> C'est Higan !<0D> Dis,<0D> quand tu auras fini de te battre contre l'armée des Enfers...<0D> Tu reviendras,<0D> hein ?
+Et tu joueras encore avec moi,<0D> dis ?<0D> Higan !
+
+[B049-S057]
+EN : I'm...<0D> so...<0D> cold...<0D>
+FR : J'ai...<0D> si...<0D> froid...<0D>
+
+[B049-S058]
+EN : Alright,<0D> Higan!<0D> Hurry up and become the Hero
+of Fire,<0D> okay?  <09><6E>  <08><0D>And then come back here
+and play with me,<0D> yeah?<0D> Higan!
+FR : Allez,<0D> Higan !<0D> Dépêche-toi de devenir le héros du Feu,<0D> d'accord ?  <09><6E>  <08><0D>Et reviens jouer avec moi,<0D> hein ?<0D> Higan !
+
+[B049-S059]
+EN : Higan!<0D> When you're in battle,<0D> try using L and R.<0D>
+L and R will let you choose other commands.<0D>
+They have other functions,<0D> too!<0D>
+By the way,<0D> if you press the Select Button,<0D>
+you'll be able to see the map of the whole
+nation.<0D> See for yourself!
+FR : Higan !<0D> Au combat,<0D> essaie les boutons L et R.<0D> Ils permettent de choisir d'autres commandes.<0D> Ils ont aussi d'autres fonctions,<0D> tu sais !<0D>
+Au fait,<0D> si tu appuies sur Select,<0D> tu peux afficher la carte de tout le pays.<0D> Essaie donc !
+
+[B049-S060]
+EN : Higan!<0D> Did you defeat him!?<0D> 
+Did you defeat Zettai Reido!?<0D>
+FR : Higan !<0D> Tu l'as battu !?<0D> Tu as battu Zettai Reido !?<0D>
+
+[B049-S061]
+EN : Is that so!?<0D> You truly are Byakuen's grandson!<0D>
+The grandson of the Swordsman of Light!
+FR : Vraiment !?<0D> Tu es bien le petit-fils de Byakuen !<0D> Le petit-fils du Sabreur de Lumière !
+
+[B049-S062]
+EN : Is that so...?<0D> Well,<0D> don't let it get you down!<0D>
+Remember,<0D> Higan!<0D> You are Byakuen's grandson!<0D>
+The grandson of the Swordsman of Light!
+FR : Ah bon... ?<0D> Eh bien,<0D> ne te décourage pas !<0D> Souviens-toi,<0D> Higan !<0D> Tu es le petit-fils de Byakuen !<0D> Le petit-fils du Sabreur de Lumière !
+
+[B049-S063]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S064]
+EN : Oh,<0D> Higan?<0D> Did you beat the Coal Hermit?
+FR : Oh,<0D> Higan ?<0D> Tu as battu l'ermite du Charbon ?
+
+[B049-S065]
+EN : Is that so!?<0D> You truly are Byakuen's grandson!<0D>
+The grandson of the Swordsman of Light!
+FR : Vraiment !?<0D> Tu es bien le petit-fils de Byakuen !<0D> Le petit-fils du Sabreur de Lumière !
+
+[B049-S066]
+EN : Is that so...?<0D> Well,<0D> don't let it get you down!<0D>
+Remember,<0D> Higan!<0D> You are Byakuen's grandson!<0D>
+The grandson of the Swordsman of Light!
+FR : Ah bon... ?<0D> Eh bien,<0D> ne te décourage pas !<0D> Souviens-toi,<0D> Higan !<0D> Tu es le petit-fils de Byakuen !<0D> Le petit-fils du Sabreur de Lumière !
+
+[B049-S067]
+EN : Higan...<0D> Just...<0D> make...<0D> sure...<0D> to check...!
+FR : Higan...<0D> Pense...<0D> à...<0D> tout...<0D> vérifier... !
+
+[B049-S068]
+EN : Alright,<0D> Higan!<0D> I'll help you make sure
+that you've got everything covered!
+FR : Bien,<0D> Higan !<0D> Je vais t'aider à vérifier que tu n'as rien oublié !
+
+[B049-S069]
+EN : Okay!
+
+
+FR : Bien !
+
+
+
+
+[B049-S070]
+EN : You fool!<0D> You're supposed to listen to your
+elders!
+FR : Imbécile !<0D> On écoute ses aînés !
+
+[B049-S071]
+EN : Have you checked up on everything in your
+inventory?
+FR : As-tu vérifié tout ce qu'il y a dans ton inventaire ?
+
+[B049-S072]
+EN : Okay!
+
+
+FR : Bien !
+
+
+
+
+[B049-S073]
+EN : You fool!<0D> Press the X Button and check up on
+everything in your inventory!
+
+FR : Imbécile !<0D> Appuie sur X et vérifie tout ton inventaire !
+
+
+[B049-S074]
+EN : Have you checked up on your equipment?
+FR : As-tu vérifié ton équipement ?
+
+[B049-S075]
+EN : Okay!
+
+
+FR : Bien !
+
+
+
+
+[B049-S076]
+EN : You fool!<0D> Press the X Button and check up on
+all of your equipment!
+
+FR : Imbécile !<0D> Appuie sur X et vérifie tout ton équipement !
+
+
+[B049-S077]
+EN : Have you checked up on your scrolls?
+FR : As-tu vérifié tes parchemins ?
+
+[B049-S078]
+EN : Alright!<0D> Just be sure to always check up on
+everything from now on,<0D> okay?
+FR : Bien !<0D> Désormais, pense toujours à tout vérifier,<0D> compris ?
+
+[B049-S079]
+EN : You fool!<0D> Press the X Button and check up on
+your scrolls!<0D> You can also use scrolls on
+everyone in the party during a battle!
+Just hit up or down on the Control Pad!<0D> 
+Got it?<0D> Now you'll be ready for anything!
+FR : Imbécile !<0D> Appuie sur X et vérifie tes parchemins !<0D> Au combat, tu peux aussi utiliser un parchemin sur tout le groupe !
+Appuie simplement sur haut ou bas de la croix directionnelle !<0D> Compris ?<0D> Tu seras prêt à tout !
+
+[B049-S080]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S081]
+EN : Bakuzan,<0D> the man who lives next door,<0D> 
+is a very dangerous sort of man! 
+
+The pots that he makes explode in flames 
+with a loud KABOOM! 
+
+Doctor Bakuzan?<0D> Yeah,<0D> right!<0D> 
+More like Doctor <11>Bakaboom!<11>
+FR : Bakuzan,<0D> le voisin,<0D> est un homme très dangereux !
+
+Ses pots explosent dans un grand BOUM en crachant des flammes !
+
+Maître Bakuzan ?<0D> Ah,<0D> non !<0D> Plutôt maître <11>Boum-zan !<11>
+
+[B049-S082]
+EN : So...<0D> cold...
+FR : Si...<0D> froid...
+
+[B049-S083]
+EN : Higan,<0D> I'm glad that you're energetic and all,<0D>
+but I really think you should take some time
+to visit your parents' graves now and then.
+Then again,<0D> it's not like your father is
+actually resting beneath that grave... 
+
+What?<0D> You forgot where their graves are?<0D>
+They're on Yonder Mountain,<0D> of course!
+FR : Higan,<0D> je suis content de te voir plein d'énergie,<0D> mais tu devrais parfois te recueillir sur la tombe de tes parents.
+Cela dit,<0D> ton père ne repose pas vraiment sous cette tombe...
+
+Quoi ?<0D> Tu as oublié où elles sont ?<0D> Au mont Lointain,<0D> bien sûr !
+
+[B049-S084]
+EN : So,<0D> you're twelve years old now?<0D> Back when
+I was that age,<0D> I believed in justice too.<0D> 
+
+Higan!<0D> Go and meet with the fire bear.<0D> 
+They call the fire bear the divine beast
+of justice,<0D> you know.
+If you go and see it for yourself,<0D> perhaps you
+won't lose your faith in justice,<0D> as I have...
+FR : Alors,<0D> tu as douze ans ?<0D> À ton âge,<0D> moi aussi, je croyais à la justice.<0D>
+
+Higan !<0D> Va rencontrer l'Ours de Feu.<0D> On l'appelle la bête divine de la justice,<0D> tu sais.
+Si tu le vois de tes propres yeux,<0D> peut-être garderas-tu cette foi que j'ai perdue,<0D> moi...
+
+[B049-S085]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S086]
+EN : So,<0D> you're twelve years old now?<0D> Back when
+I was that age,<0D> I believed in justice too.
+FR : Alors,<0D> tu as douze ans ?<0D> À ton âge,<0D> moi aussi, je croyais à la justice.
+
+[B049-S087]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S088]
+EN : You'll never regret being properly prepared!<0D>
+Well?<0D> Would you like to buy anything?
+FR : On ne regrette jamais d'être bien préparé !<0D> Alors ?<0D> Tu veux acheter quelque chose ?
+
+[B049-S089]
+EN : Thanks for shopping here again!<0D> 
+Come back any time!
+FR : Merci de ta fidélité !<0D> Reviens quand tu veux !
+
+[B049-S090]
+EN : It's always important to be prepared,<0D> no
+matter what you're setting out to do.<0D> 
+Just take care!
+FR : Il faut toujours bien se préparer,<0D> quoi qu'on compte faire.<0D> Prends soin de toi !
+
+[B049-S091]
+EN : Hi...<0D>gan...<0D> Remember to...<0D> equip...
+FR : Hi...<0D>gan...<0D> Pense à...<0D> t'équiper...
+
+[B049-S092]
+EN : Higan!<0D> You probably already know this,<0D> but I'll
+say it again anyway!
+
+You have to actually EQUIP your weapons and
+armor,<0D> or they're not going to do you any good!
+FR : Higan !<0D> Tu le sais sans doute,<0D> mais je vais quand même te le rappeler !
+
+Les armes et les armures ne servent à rien si tu ne les ÉQUIPES pas,<0D> tu sais !
+
+[B049-S093]
+EN : Oh,<0D> Higan...<0D> Did you want to hear an
+explanation about PLGS stores?
+FR : Oh,<0D> Higan...<0D> Tu veux que je t'explique comment fonctionnent les boutiques PLGS ?
+
+[B049-S094]
+EN : There are PLGS stores all over Jipang!<0D> 
+Some stores are only open on Monday,<0D>
+Wednesday,<0D> and Friday.
+Some of them have limited time offer bargain
+sales!<0D> Others offer unusual items that only
+appear on certain days.
+What they have to offer depends on the time
+and date,<0D> so pay close attention to them.<0D> 
+
+You can wait for a bargain,<0D> if you want,<0D>
+but feel free to totally ignore them.<0D> 
+Nothing wrong with that either,<0D> yeah? 
+You can always come back later,<0D> after all.<0D>
+I think you should do some shopping at these
+stores,<0D> in any case.<0D> 
+PLGS stores often have some very interesting
+items in stock!
+FR : Il y a des boutiques PLGS partout dans Jipang !<0D> Certaines n'ouvrent que le lundi,<0D> le mercredi,<0D> et le vendredi.
+D'autres font des soldes pendant une durée limitée !<0D> Il y en a aussi qui proposent des objets rares seulement certains jours.
+Leur offre dépend de la date et de l'heure,<0D> alors garde l'œil ouvert.<0D>
+
+Tu peux attendre une bonne affaire,<0D> si tu veux,<0D> mais tu peux aussi les ignorer.<0D> Il n'y a pas de mal à ça,<0D> hein ?
+Tu pourras toujours revenir plus tard,<0D> après tout.<0D> Je te conseille tout de même d'y faire un tour,<0D> en tout cas.<0D> Ces boutiques ont souvent des objets très intéressants !
+
+[B049-S095]
+EN : Oh...<0D> Well then,<0D> good luck!
+FR : Oh...<0D> Eh bien,<0D> bonne chance !
+
+[B049-S096]
+EN : Heh heh heh...<0D> You want to hear my
+explanation of PLGS?
+FR : Hé hé hé...<0D> Tu veux que je t'explique le PLGS ?
+
+[B049-S097]
+EN : PLGS is,<0D> to put it simply,<0D> the way that time
+flows in this here game!<0D> Do you follow me?
+
+You set the time in before you started
+playing,<0D> right?<0D> Well,<0D> that time is now
+the time here in this world.
+Time flows at the same rate that it does in
+your world.<0D> So if it's new years in your world,<0D>
+then it's new years here,<0D> too.
+If it's your birthday there,<0D> then it's your
+birthday here in the game,<0D> as well.
+
+With that said,<0D> the overall time you've spent
+playing the game has nothing to do with the
+actual PLGS time. 
+Do you hear me?<0D> Even if you turn off
+the power,<0D> one hour is still one hour!<0D> 
+
+Some things may not be available to you,<0D>
+depending on the time.
+
+If that ever happens,<0D> don't let it get you
+down.<0D> Just keep playing.<0D> That's just what
+happens when time's a factor in a game!
+FR : Le PLGS,<0D> pour faire simple,<0D> c'est la façon dont le temps passe dans ce jeu !<0D> Tu me suis ?
+
+Tu as réglé l'heure avant de commencer,<0D> pas vrai ?<0D> Eh bien,<0D> c'est maintenant l'heure de ce monde.
+Le temps s'écoule au même rythme que chez toi.<0D> Si c'est le Nouvel An dans ton monde,<0D> c'est le Nouvel An ici,<0D> aussi.
+Si c'est ton anniversaire chez toi,<0D> c'est aussi ton anniversaire dans le jeu,<0D> tout simplement.
+
+En revanche,<0D> ton temps de jeu total n'a rien à voir avec l'heure du PLGS.
+Tu m'entends ?<0D> Même si tu éteins la console,<0D> une heure reste une heure !<0D>
+
+Certaines choses ne seront pas disponibles,<0D> selon l'heure.
+
+Si ça arrive,<0D> ne te décourage pas.<0D> Continue à jouer.<0D> C'est comme ça quand le temps compte dans un jeu !
+
+[B049-S098]
+EN : Then it's all good...<0D> 
+
+
+Time is ticking,<0D> so get playing!<0D> 
+Heh heh heh...
+FR : Alors tout va bien...<0D>
+
+
+Le temps passe,<0D> alors joue !<0D> Hé hé hé...
+
+[B049-S099]
+EN : Higan?<0D> Did you want to hear my explanation
+about pets?
+FR : Higan ?<0D> Tu veux que je t'explique comment élever un animal ?
+
+[B049-S100]
+EN : There's a hatchery in the Fire Bear Shrine,<0D>
+just north of Fireshadow Village!
+
+If you hatch an egg that you bought there,<0D> 
+you can raise a pet in this game.
+
+You can't take the pet with you on your
+journey,<0D> but they'll let you keep it there.<0D> 
+
+Be careful,<0D> though.<0D> Pets are living creatures,<0D>
+and if you don't feed them,<0D> they'll die! 
+
+One other thing...<0D>The hatchery can even raise
+monsters that fire fairies can make use of!
+
+If you have a fire fairy in your party,<0D> 
+you should head over to the hatchery! 
+
+They'll sell you huge eggs with monsters inside
+that will serve the fairy well!<0D> 
+
+Good luck,<0D> Higan!
+FR : Il y a une écloserie au sanctuaire de l'Ours de Feu,<0D> juste au nord du village de l'Ombre du Feu !
+
+Si tu fais éclore un œuf acheté là-bas,<0D> tu peux élever un animal dans ce jeu.
+
+Tu ne peux pas l'emmener en voyage,<0D> mais on te laissera le garder sur place.<0D>
+
+Attention,<0D> tout de même.<0D> Ce sont des êtres vivants,<0D> et si tu ne les nourris pas,<0D> ils mourront !
+
+Autre chose...<0D> L'écloserie peut aussi élever des monstres pour les fées du Feu !
+
+Si une fée du Feu fait partie de ton groupe,<0D> passe donc à l'écloserie !
+
+On y vend de gros œufs dont les monstres rendront bien service à ta fée !<0D>
+
+Bonne chance,<0D> Higan !
+
+[B049-S101]
+EN : Oh,<0D> that's too bad...<0D> Especially considering
+that I was just about to go through the
+trouble of telling you.
+FR : Oh,<0D> quel dommage...<0D> Surtout que j'allais justement prendre la peine de tout t'expliquer.
+
+[B049-S102]
+EN : So glad you could make it,<0D> Higan!<0D> 
+Welcome!<0D> This is the Time House.<0D> 
+We're here to tell you about the PLGS!
+Tengai Makyou Zero is all about the PLGS!<0D>
+Let all of us tell you how it will affect how
+you play this game.
+By the way,<0D> PLGS stands for<29><0D>
+<11>Personalized Live Game System.<11>
+FR : Heureux de te voir,<0D> Higan !<0D> Bienvenue !<0D> Ici, c'est la Maison du Temps.<0D> Nous allons te parler du PLGS !
+Le PLGS est au cœur de Tengai Makyou Zero !<0D> Chacun de nous t'expliquera son influence sur le jeu.
+Au fait,<0D> PLGS signifie<29><0D> <11>Personalized Live Game System.<11>
+
+[B049-S103]
+EN : Shall I tell you about Jipang's festivals?
+FR : Veux-tu en savoir plus sur les fêtes de Jipang ?
+
+[B049-S104]
+EN : Jipang's festivals are held at the festival
+plazas in all of the various national shrines.
+
+The dates of the shrine festivals are fixed to
+specific days,<0D> so be sure not to miss them! 
+
+There's one thing you should keep in mind.<0D>
+The festivals won't be held if the divine
+beast of that nation is sealed away.
+There's one festival a month,<0D> so it would
+take you a full year to see all of them.
+
+If you want to know more information about
+which nation is holding a festival now,<0D> you
+should ask a fellow named Kabuki about it.
+FR : Les fêtes de Jipang se déroulent sur les places des sanctuaires de chaque pays.
+
+Elles ont lieu à des dates précises,<0D> alors veille à ne pas les manquer !
+
+Il y a une chose à savoir.<0D> Une fête ne peut pas avoir lieu si la bête divine du pays est prisonnière du sceau.
+Il y en a une par mois,<0D> il te faudrait donc une année entière pour toutes les voir.
+
+Si tu veux savoir quel pays organise une fête en ce moment,<0D> demande à un certain Kabuki.
+
+[B049-S105]
+EN : Is that so?<0D> Well,<0D> just keep going on your
+journey,<0D> then!
+FR : Ah bon ?<0D> Eh bien,<0D> poursuis ton voyage,<0D> alors !
+
+[B049-S106]
+EN : <17>Frozen solid...<18>
+FR : <17>Pris dans la glace...<18>
+
+[B049-S107]
+EN : The coal that they pull from the mine here 
+is the finest in all of Jipang!
+
+Not that we don't put our own share of work
+into it,<0D> but it really is thanks to the magic of
+the Coal Hermit!
+FR : Le charbon extrait de cette mine est le meilleur de tout Jipang !
+
+Nous y mettons aussi du nôtre,<0D> mais c'est surtout grâce à la magie de l'ermite du Charbon !
+
+[B049-S108]
+EN : Coal roasting is no different from a battle.<0D>
+Sometimes,<0D> you have to exploit an opening!
+
+You have to mix it up,<0D> adding fuel to the fire,<0D>
+or putting out the flames at the right
+moment. 
+You know what I mean,<0D> right?<0D> 
+Timing is everything!<0D>
+
+One split-second decision can make or break
+everything.
+FR : Faire du charbon, c'est comme se battre.<0D> Parfois,<0D> il faut profiter d'une ouverture !
+
+Il faut s'adapter,<0D> attiser le feu,<0D> ou éteindre les flammes au bon moment.
+Tu vois ce que je veux dire,<0D> hein ?<0D> Tout est dans le timing !<0D>
+
+Une décision prise en une fraction de seconde peut tout changer.
+
+[B050-S001]
+EN : <0C>Ahh...<0D> I've had enough of this!<0D> I'm sorry,<0D> Higan!<0D>
+I just can't take it anymore!<0D> 
+
+You can do it this time!<0D> I know you can!<0D>
+Even if you're the only one who does it,<0D>
+Higan...<0D> 
+You've just GOTTA become the Hero of Fire!
+FR : <0C>Ah...<0D> J'en peux plus !<0D> Désolé,<0D> Higan !<0D> Je tiendrai pas plus longtemps !<0D>
+
+Cette fois, tu peux y arriver !<0D> J'en suis sûr !<0D> Même si tu dois le faire tout seul,<0D> Higan...<0D> Il FAUT que tu deviennes le héros du Feu !
+
+[B050-S002]
+EN : <0C>This is as far as I can go...<0D> I know,<0D> I always
+chicken out before the end.<0D> I'm sorry,<0D> Higan!
+FR : <0C>Moi, j'arrête là...<0D> Je sais,<0D> je me dégonfle toujours avant la fin.<0D> Désolé,<0D> Higan !
+
+[B050-S003]
+EN : <0C>Uhyuck, hyuck, hyuck!<0D> So,<0D> you've come again?<0D>
+You little simpleton!<0D> Try as often as you
+might,<0D> it'll do you no good!
+But hey,<0D> I have plenty of time to spare.<0D>
+I'm more than willing to go a round with you!
+FR : <0C>Ho ho ho !<0D> Alors,<0D> te revoilà ?<0D> Petit nigaud !<0D> Tu peux essayer autant de fois que tu veux,<0D> ça ne changera rien !
+Mais bon,<0D> j'ai tout mon temps.<0D> Je veux bien t'accorder une revanche !
+
+[B050-S004]
+EN : <0C>I surrender!
+
+
+I never thought that I would lose!<0D> 
+Uhyuck, hyuck, hyuck!<0D> What a surprise!<0D> 
+You really DO take after your grandfather!
+The way you handle that sword...<0D> You're
+the spitting image of him,<0D> back in his day!<0D> 
+But enough about him,<0D> let's talk about you. 
+You are one of the Heroes of Fire!<0D> 
+There's no need to hide it anymore.<0D> 
+You already know it,<0D> don't you?
+After all,<0D> the blood of the Heroes of Fire
+flows in your veins!<0D> Oh,<0D> how happy I am!<0D> 
+I finally got to meet a new Hero of Fire!<0D>
+Alright,<0D> let me give you this skill...<0D>
+It's a secret skill called the Blazing Cutter.<0D>
+Try it out for yourself!
+FR : <0C>Je me rends !
+
+
+Jamais je n'aurais cru perdre !<0D> Ho ho ho !<0D> Quelle surprise !<0D> Tu tiens vraiment de ton grand-père !
+Ta façon de manier l'épée...<0D> On dirait lui,<0D> dans sa jeunesse !<0D> Mais assez parlé de lui,<0D> parlons de toi.
+Tu es l'un des héros du Feu !<0D> Inutile de le cacher désormais.<0D> Tu le savais déjà,<0D> pas vrai ?
+Après tout,<0D> le sang des héros du Feu coule dans tes veines !<0D> Ah,<0D> quelle joie !<0D> J'ai enfin rencontré un nouveau héros du Feu !<0D>
+Bien,<0D> je vais t'enseigner cette technique...<0D> Une technique secrète : l'Entaille ardente.<0D> Essaie-la donc !
+
+[B050-S005]
+EN : <0C>The Blazing Cutter allows you to lash out
+with flaming rage,<0D> striking your opponent
+twice in a row!
+It's a secret sword skill,<0D> fashioned by yours
+truly!<0D> And I'll bring you back to full health!<0D>
+There you go!
+FR : <0C>L'Entaille ardente déchaîne ta fureur enflammée,<0D> pour frapper l'adversaire deux fois de suite !
+C'est une technique secrète de l'épée,<0D> créée par mes soins !<0D> Et je vais te remettre sur pied !<0D> Voilà !
+
+[B050-S006]
+EN : <0C><17><04>'s health was restored!<18>
+FR : <0C><17><04> a retrouvé toute sa santé !<18>
+
+[B050-S007]
+EN : <0C>Okay,<0D> then...<0D> On your way back,<0D> you can
+practice using your new skill on my Woodies!
+
+If you're having trouble,<0D> come on back here!<0D>
+I'll let you get some rest and save your
+records! 
+It's important to save whenever you get
+a chance,<0D> because if you die,<0D> that's that!<0D>
+Your journey will be over!
+FR : <0C>Bien,<0D> alors...<0D> Sur le chemin du retour,<0D> entraîne-toi à cette technique sur mes Woodies !
+
+Si tu as des ennuis,<0D> reviens me voir !<0D> Tu pourras te reposer et sauvegarder ta progression.
+Sauvegarde dès que tu en as l'occasion,<0D> car si tu meurs,<0D> c'est fini !<0D> Ton voyage sera terminé !
+
+[B050-S008]
+EN : <0C>Oh,<0D> I'm sorry...<0D> So very sorry!<0D> When I look
+into your eyes,<0D> I just can't hold back... 
+
+You can come again whenever you'd like.<0D> 
+I'll be here to take you on!
+FR : <0C>Oh,<0D> pardon...<0D> Mille fois pardon !<0D> Quand je regarde dans tes yeux,<0D> je ne peux pas me retenir...
+
+Reviens quand tu voudras.<0D> Je serai là pour t'affronter !
+
+[B050-S009]
+EN : Uhyuck, hyuck, hyuck!<0D> So,<0D> you dropped in
+again to shoot the breeze with me,<0D> huh?<0D> 
+How nice of you,<0D> Hero of Fire!
+Long ago,<0D> I used to have TWO apprentices!<0D>
+One of them was named Byakuen...<0D> 
+Yes,<0D> your grandfather!
+The other was a man named Shiranui,<0D> but that
+man was obsessed with dueling and skill.
+
+He didn't have what it took to learn the soul
+of a sword!<0D> Listen to me,<0D> Hero of Fire!
+
+A sword is more than just a tool that you use
+to slice down your opponent!<0D> It is used to slice
+the evil out of your opponent's heart!
+That is the true way of the sword!<0D> 
+Don't forget that,<0D> alright!?
+FR : Ho ho ho !<0D> Alors,<0D> tu repasses me voir pour bavarder,<0D> hein ?<0D> Comme c'est gentil,<0D> héros du Feu !
+Autrefois,<0D> j'avais DEUX disciples !<0D> L'un s'appelait Byakuen...<0D> Oui,<0D> ton grand-père !
+L'autre s'appelait Shiranui,<0D> mais il ne pensait qu'aux duels et à la technique.
+
+Il n'avait pas ce qu'il fallait pour comprendre l'âme d'une épée !<0D> Écoute-moi,<0D> héros du Feu !
+
+L'épée ne sert pas seulement à pourfendre ton adversaire !<0D> Elle sert à trancher le mal qui habite son cœur !
+Telle est la véritable voie de l'épée !<0D> Ne l'oublie pas,<0D> compris !?
+
+[B050-S010]
+EN : So you've come,<0D> Hero of Fire!<0D> If you're tired,<0D>
+then you should get some rest!
+FR : Te voilà,<0D> héros du Feu !<0D> Si tu es fatigué,<0D> repose-toi !
+
+[B050-S011]
+EN : Uhyuck, hyuck, hyuck!<0D> Come again whenever
+you'd like,<0D> young Hero of Fire!
+FR : Ho ho ho !<0D> Reviens quand tu voudras,<0D> jeune héros du Feu !
+
+[B050-S012]
+EN : Uhyuck, hyuck, hyuck!<0D> So,<0D> you dropped in
+again to shoot the breeze with me,<0D> huh?<0D> 
+How nice of you,<0D> Hero of Fire!
+Long ago,<0D> I used to have TWO apprentices!<0D>
+One of them was named Byakuen...<0D> 
+Yes,<0D> your grandfather!
+The other was a man named Shiranui,<0D> but that
+man was obsessed with dueling and skill.
+
+He didn't have what it took to learn the soul
+of a sword!<0D> Listen to me,<0D> Hero of Fire!
+
+A sword is more than just a tool that you use
+to slice down your opponent!<0D> It is used to slice
+the evil out of your opponent's heart!
+That is the true way of the sword!<0D> 
+Don't forget that,<0D> alright!?
+FR : Ho ho ho !<0D> Alors,<0D> tu repasses me voir pour bavarder,<0D> hein ?<0D> Comme c'est gentil,<0D> héros du Feu !
+Autrefois,<0D> j'avais DEUX disciples !<0D> L'un s'appelait Byakuen...<0D> Oui,<0D> ton grand-père !
+L'autre s'appelait Shiranui,<0D> mais il ne pensait qu'aux duels et à la technique.
+
+Il n'avait pas ce qu'il fallait pour comprendre l'âme d'une épée !<0D> Écoute-moi,<0D> héros du Feu !
+
+L'épée ne sert pas seulement à pourfendre ton adversaire !<0D> Elle sert à trancher le mal qui habite son cœur !
+Telle est la véritable voie de l'épée !<0D> Ne l'oublie pas,<0D> compris !?
+
+[B050-S013]
+EN : Oh,<0D> Higan?<0D> You probably know this already,<0D>
+but I'll tell you again,<0D> just in case!
+
+If everyone's health drops to zero,<0D> then it's
+<11>Game Over,<11><0D> so make sure to stop and save
+your records often.
+You should go to the Fireshadow Village
+elders' house.<0D> They'll save your records
+for you there!
+FR : Oh,<0D> Higan ?<0D> Tu le sais sûrement déjà,<0D> mais je te le rappelle,<0D> au cas où !
+
+Si tout le groupe perd toute sa santé,<0D> c'est le <11>Game Over,<11><0D> alors pense à sauvegarder souvent.
+Va chez les anciens du village de l'Ombre du Feu.<0D> Ils sauvegarderont ta progression !
+
+[B050-S014]
+EN : <17>There's a small shrine set up here.<18>
+FR : <17>Un petit autel est installé ici.<18>
+
+[B050-S015]
+EN : <17>There's a small shrine set up here.<18>
+FR : <17>Un petit autel est installé ici.<18>
+
+[B051-S001]
+EN : Tch!<0D> I came ALL the way here to get my rusty
+spear sparkling again,<0D> but at this rate...
+FR : Tss !<0D> J'ai fait tout ce chemin pour rendre son éclat à ma lance rouillée,<0D> mais à ce train-là...
+
+[B051-S002]
+EN : Ahhh!<0D> I'm lost!<0D> Where's Hisui!?<0D> 
+Where's the exit!?
+FR : Aaah !<0D> Je suis perdu !<0D> Où est Hisui !?<0D> Et où est la sortie !?
+
+[B052-S001]
+EN : <0C>I'm sorry...<0D> I'm going to die...<0D> It will happen
+soon...<0D> The power to restore life...<0D>
+I've felt it weakening...
+FR : <0C>Pardon...<0D> Je vais mourir...<0D> Bientôt...<0D> Mon pouvoir de ranimer la vie...<0D> Je le sens faiblir...
+
+[B052-S002]
+EN : <0C>Huh...!?<0D> Are you the Hero of Fire?<0D> I can feel
+it...<0D> Your strength...<0D> If you really are the
+Hero of Fire,<0D> then please...<0D> hear my request!
+FR : <0C>Hein... !?<0D> Es-tu le héros du Feu ?<0D> Je la sens...<0D> Ta force...<0D> Si tu es vraiment le héros du Feu,<0D> alors, je t'en prie...<0D> écoute ma requête !
+
+[B052-S003]
+EN : <0C><17>Will you listen to Hisui's request?<18>
+FR : <0C><17>Écouter la requête d'Hisui ?<18>
+
+[B052-S004]
+EN : <0C>Thank you...<0D> I am Hisui,<0D> the fairy of the Fire
+Clan...<0D> But my life...<0D> is coming to an end.<0D> A new
+fairy will be born,<0D> one who will take my place.<0D>
+This is my wish...<0D> To keep this new life,<0D>
+this fairy's egg,<0D> safe from harm...
+
+The fairy's egg is in Yumedono,<0D> the Palace of
+Dreams,<0D> in Ice Mountain Village now.
+FR : <0C>Merci...<0D> Je suis Hisui,<0D> la fée du clan du Feu...<0D> Mais ma vie...<0D> touche à sa fin.<0D> Une autre fée va naître,<0D> pour prendre ma place.<0D>
+Voici mon souhait...<0D> Protège cette nouvelle vie,<0D> cet œuf de fée,<0D> de tout danger...
+
+L'œuf se trouve à Yumedono,<0D> le palais des Rêves,<0D> au village du Mont de Glace.
+
+[B052-S005]
+EN : <0C>The fact that you're here makes me feel 
+the warmth of the power of fire...<0D> 
+It makes me feel a little better.
+Higan,<0D> Hero of Fire...<0D> 
+Give that rusty sword to me...
+FR : <0C>Ta présence me fait sentir la chaleur du pouvoir du feu...<0D> Je me sens un peu mieux.
+Higan,<0D> héros du Feu...<0D> Donne-moi cette épée rouillée...
+
+[B052-S006]
+EN : <0C><17>The aura of Hisui's life force brought life
+back to the rusty sword!<18>
+FR : <0C><17>L'aura de la force vitale d'Hisui a rendu vie à l'épée rouillée !<18>
+
+[B052-S007]
+EN : <0C><17>The rusty sword became the fire bear
+sword!<18>
+FR : <0C><17>L'épée rouillée est devenue l'épée de l'Ours de Feu !<18>
+
+[B052-S008]
+EN : <0C>I will go...<0D> together with you...<0D> 
+We must hurry to Ice Mountain Village!
+FR : <0C>Je vais venir...<0D> avec toi...<0D> Vite, au village du Mont de Glace !
+
+[B052-S009]
+EN : <0C><17>Hisui,<0D> the fairy of the Fire Clan,<0D> joined up!<18>
+FR : <0C><17>Hisui,<0D> la fée du clan du Feu,<0D> rejoint le groupe !<18>
+
+[B052-S010]
+EN : <0C>That is a shame...<0D> If you are the Hero of Fire,<0D>
+then you will need the power of the fairy...<0D>
+Please,<0D> I'm begging you!
+Protect the fairy's egg!
+FR : <0C>Quel dommage...<0D> Si tu es le héros du Feu,<0D> tu auras besoin du pouvoir d'une fée...<0D> Je t'en prie,<0D> je t'en supplie !
+Protège l'œuf de la fée !
+
+[B053-S001]
+EN : <11>Anybody who goes around wearing snow shoes
+and ends up falling into a hole is no minion of
+mine!<11>
+<11>Take off your snow shoes and JUMP, 
+you fools!<11>
+-The keeper of Ice Fang Castle, Zettai Reido!
+FR : <11>Quiconque porte des raquettes et tombe dans un trou n'est pas un de mes serviteurs !<11>
+<11>Retirez vos raquettes et SAUTEZ, bande d'idiots !<11>
+-Zettai Reido, maître du château du Croc de Glace !
+
+[B053-S002]
+EN : <11>Idiots! Even if you take off your snow shoes,
+you won't be able to jump over this!<11> 
+
+<11>Go back around, you fools!<11>
+-The keeper of Ice Fang Castle, Zettai Reido!
+FR : <11>Imbéciles ! Même sans vos raquettes, vous ne pourrez pas sauter par-dessus !<11>
+
+<11>Faites le tour, bande d'idiots !<11>
+-Zettai Reido, maître du château du Croc de Glace !
+
+[B053-S003]
+EN : <17>Frozen solid!<18>
+FR : <17>Pris dans la glace !<18>
+
+[B053-S004]
+EN : Watch out for...<0D> Reido's...<0D> spikes...
+FR : Attention aux...<0D> pointes...<0D> de Reido...
+
+[B053-S005]
+EN : Hurry...<0D> You must defeat...<0D> Zettai Reido...
+FR : Vite...<0D> Il faut vaincre...<0D> Zettai Reido...
+
+[B054-S001]
+EN : <0C>You actually came!<0D> Ahahahahahahaha!<0D>
+You fools!
+
+FR : <0C>Vous êtes vraiment venus !<0D> Ahahahahahaha !<0D> Bande d'idiots !
+
+
+
+[B054-S002]
+EN : <0C>The Fire Clan,<0D> you say?<0D> The Hero of Fire?<0D>
+I don't care what name you go by,<0D> you're just
+a fairy and a brat!
+You think you can defeat ME,<0D> the great
+Zettai Reido!?<0D> Do you,<0D> really!?
+
+FR : <0C>Le clan du Feu,<0D> dites-vous ?<0D> Le héros du Feu ?<0D> Peu importe vos titres,<0D> vous n'êtes qu'une fée et un gamin !
+Vous pensez me vaincre,<0D> moi, le grand Zettai Reido !?<0D> Vraiment,<0D> vous y croyez !?
+
+
+
+[B054-S003]
+EN : <0C>This is absolutely absurd!<0D> It's ridiculous!<0D> 
+You don't stand a snowball's chance in Hell!<0D>
+
+FR : <0C>Quelle absurdité !<0D> C'est ridicule !<0D> Vous n'avez pas plus de chances qu'un flocon aux Enfers !<0D>
+
+
+
+[B054-S004]
+EN : <0C>Well then,<0D> allow me,<0D> Zettai Reido,<0D> to show you
+how terrifying the commanding officer of the
+first squadron can be!<0D> Let it begin!
+FR : <0C>Eh bien,<0D> laissez-moi,<0D> Zettai Reido,<0D> vous montrer la terreur qu'inspire le commandant du premier escadron !<0D> Que le combat commence !
+
+[B054-S005]
+EN : <0C>Wait... <0D>What?<0D><0D> Did I just...<0D> lose to a child...?<0D>
+Urrrgh!
+FR : <0C>Attendez...<0D> Quoi ?<0D><0D> Je viens de...<0D> perdre contre un enfant... ?<0D> Grrr !
+
+[B054-S006]
+EN : <0C>K'huhuhuhuh...<0D> I should have known...<0D> 
+You are the Hero of Fire,<0D> right?<0D> 
+Ahahah...<0D> Hahaha...<0D> Hahahahaha... <0D>Ha... 
+Listen well,<0D> and remember these words!<0D> 
+Killing me will only make things worse...<0D> 
+Hell's whole army...<0D> will come after you...
+You will know what our realm is like...<0D> 
+You've brought true Hell upon yourself!
+FR : <0C>Ha ha ha...<0D> J'aurais dû m'en douter...<0D> Tu es le héros du Feu,<0D> n'est-ce pas ?<0D> Ahahah...<0D> Hahaha...<0D> Hahahahaha...<0D> Ha...
+Écoute bien,<0D> et retiens ces mots !<0D> Me tuer ne fera qu'empirer les choses...<0D> Toute l'armée des Enfers...<0D> se lancera à tes trousses...
+Tu découvriras notre monde...<0D> Tu viens de te condamner à un véritable enfer !
+
+[B054-S007]
+EN : <0C>Higan...<0D> With Zettai Reido defeated,<0D> 
+the enchantment on this place has faded.<0D> 
+The Ice Fang Castle will crumble away.
+We have to get out of here...
+FR : <0C>Higan...<0D> Zettai Reido est vaincu,<0D> et le sort qui pesait sur ces lieux s'est dissipé.<0D> Le château du Croc de Glace va s'effondrer.
+Il faut partir...
+
+[B054-S008]
+EN : <0C>It's only natural,<0D> for such is the true might of
+the great Zettai Reido!<0D> Hero of Fire?<0D> You are
+nothing but a piece of shit!<0D> Ahahahahahaha!
+FR : <0C>C'est bien normal,<0D> telle est la puissance du grand Zettai Reido !<0D> Héros du Feu ?<0D> Tu n'es qu'une petite merde !<0D> Ahahahahahaha !
+
+[B055-S001]
+EN : <17>Giant icicles are blocking the path!<18>
+FR : <17>D'énormes glaçons bloquent le passage !<18>
+
+[B055-S002]
+EN : <0C>Higan...<0D> The fire bear sword is calling out to
+you,<0D> telling you to make use of its power...<0D>
+Higan,<0D> would you give it a try?
+FR : <0C>Higan...<0D> L'épée de l'Ours de Feu t'appelle,<0D> elle te demande d'utiliser son pouvoir...<0D> Higan,<0D> veux-tu essayer ?
+
+[B055-S003]
+EN : <17>Higan equipped the fire bear sword!<18>
+FR : <17>Higan équipe l'épée de l'Ours de Feu !<18>
+
+[B057-S001]
+EN : Jump to the opening?
+FR : Passer à l'introduction ?
+
+[B057-S002]
+EN : Hmm...
+FR : Hmm...
+
+[B057-S003]
+EN : <11>The Fire Bear Shrine is to the north.
+You should be able to see Fireshadow
+Village from this sign.<11>
+FR : <11>Le sanctuaire de l'Ours de Feu est au nord. On doit voir le village de l'Ombre du Feu depuis ce panneau.<11>
+
+[B057-S004]
+EN : <0C>Higan...<0D> Let's hurry to Ice Mountain.
+FR : <0C>Higan...<0D> Vite, au mont de Glace.
+
+[B057-S005]
+EN : <11>Northeast - Fire Bear Shrine
+South - Fireshadow Village
+North - Hermit Grotto<11>
+FR : <11>Nord-est : sanctuaire de l'Ours de Feu
+Sud : village de l'Ombre du Feu
+Nord : grotte de l'Ermite<11>
+
+[B057-S006]
+EN : <11>Northeast - To Ice Mountain
+East - Life Forest
+Southeast - Hermit Grotto on the Cape<11>
+FR : <11>Nord-est : mont de Glace
+Est : forêt de la Vie
+Sud-est : grotte de l'Ermite du cap<11>
+
+[B057-S007]
+EN : <11>Just ahead is the Life Forest, also known
+as the Lost Forest! Danger! Keep out!<11>
+FR : <11>Plus loin, c'est la forêt de la Vie, aussi appelée forêt Perdue ! Danger ! Entrée interdite !<11>
+
+[B057-S008]
+EN : <11>Ice Mountain is up ahead. 
+If you're heading to Ice Mountain Village, 
+make your way through the mountain path.<11>
+FR : <11>Le mont de Glace est plus loin. Pour rejoindre le village du Mont de Glace, suivez le sentier de montagne.<11>
+
+[B057-S009]
+EN : The western cape is my home! 
+If you have no business with me, stay away!
+-Wind Hermit
+FR : Le cap occidental est ma demeure ! Si vous n'avez rien à me dire, restez à l'écart !
+-L'ermite du Vent
+
+[B058-S001]
+EN : <17>Dead...<0D> It smells absolutely dreadful.<18>
+FR : <17>Mort...<0D> L'odeur est épouvantable.<18>
+
+[B058-S002]
+EN : Ooompah!<0D> Ooompah!<0D> Ooompahpahpah!<0D> Ooompah!<0D>
+Ooompah!<0D> Ooompah pah!<0D> Ooompah!<0D> Ooompah!
+Pah!
+FR : Oumpa !<0D> Oumpa !<0D> Oumpapapapa !<0D> Oumpa !<0D> Oumpa !<0D> Oumpa pa !<0D> Oumpa !<0D> Oumpa ! Pa !
+
+[B058-S003]
+EN : Pincha-pinchapine-o!<0D> Pincha-pincha!
+FR : Pincha-pinchapino !<0D> Pincha-pincha !
+
+[B058-S004]
+EN : This is NOT good!<0D> The divine fire bear has
+been sealed away in ice that can't be melted
+away with fire!
+Somebody's got to do something about this!<0D>
+The divine fire bear is the one who leads all
+of the people here down the proper path!
+Without the fire bear,<0D> I don't know who we're
+all supposed to look toward for guidance!
+FR : C'est terrible !<0D> L'Ours de Feu divin est enfermé dans une glace que le feu ne peut pas faire fondre ! Il faut faire quelque chose !<0D> C'est lui qui guide les habitants sur le bon chemin ! Sans lui,<0D> je ne sais plus vers qui nous tourner !
+
+[B058-S005]
+EN : It's not like the divine fire bear really does
+anything specific for us...<0D> But just knowing
+that it's there means a lot to me.
+I guess you could say that's what faith is all
+about!
+FR : L'Ours de Feu divin ne fait rien de bien précis pour nous...<0D> Mais savoir qu'il est là compte beaucoup pour moi. C'est peut-être ça, la foi !
+
+[B058-S006]
+EN : Flip,<0D> flip,<0D> flip!<0D> Flip!<0D> Flip,<0D> flip,<0D> flip!<0D> Flip,<0D> flip!
+FR : Plouf,<0D> plouf,<0D> plouf !<0D> Plouf !<0D> Plouf,<0D> plouf,<0D> plouf !<0D> Plouf,<0D> plouf !
+
+[B058-S007]
+EN : Flip,<0D> flip,<0D> flip!<0D> Flip!<0D> Flip,<0D> flip,<0D> flip!<0D> Flip,<0D> flip!
+FR : Plouf,<0D> plouf,<0D> plouf !<0D> Plouf !<0D> Plouf,<0D> plouf,<0D> plouf !<0D> Plouf,<0D> plouf !
+
+[B058-S008]
+EN : The fire bear in the shrine got frozen in ice
+by some sort of ghost from the castle on Ice
+Mountain.
+Because of that,<0D> they've canceled all of the
+festivals and temple fair days for the time
+being.<0D> It's so boring around here now!
+Might as well just stand here and try to
+count how many fish are in the river.
+FR : Une sorte de fantôme venu du château du mont de Glace a gelé l'Ours de Feu dans son sanctuaire. À cause de ça,<0D> les fêtes et les foires sont annulées pour le moment.<0D> Qu'est-ce qu'on s'ennuie ! Autant rester là à compter les poissons dans la rivière.
+
+[B058-S009]
+EN : Higan!<0D> Thank you for saving the fire bear!<0D> Now
+we can start holding the festivals and temple
+fairs again!<0D> You should come too!  <09><6E>  <08>
+FR : Higan !<0D> Merci d'avoir sauvé l'Ours de Feu !<0D> Les fêtes et les foires vont pouvoir reprendre !<0D> Tu devrais venir aussi ! <09><6E> <08>
+
+[B058-S010]
+EN : Ooooone fishy!<0D> Twoooo fishies!<0D> 
+Threee,<0D> fooooour,<0D> fiiiiive...<0D> Huh!?<0D> 
+Hey,<0D> don't talk to me! 
+Couldn't you see I was counting!?<0D>
+You made me lose count!
+FR : Un petit poissonnn !<0D> Deux petits poissonsss !<0D> Trois,<0D> quaaatre,<0D> cinq...<0D> Hein !?<0D> Hé,<0D> ne me parle pas ! Tu voyais bien que je comptais !?<0D> Tu m'as fait perdre le compte !
+
+[B058-S011]
+EN : Alriiiiight!<0D> Festivals!<0D> The Santa Festival!<0D> 
+The temple fair days!<0D> Oh,<0D> I'm so happy!
+
+If you want to know how many festivals there
+are,<0D> then you should check it out at the news
+stand!
+FR : Ouaaaais !<0D> Les fêtes !<0D> La fête du Père Noël !<0D> Les foires !<0D> Oh,<0D> comme je suis content !
+
+Si tu veux connaître toutes les fêtes,<0D> va voir au kiosque à journaux !
+
+[B058-S012]
+EN : Aww,<0D> shit!<0D> Who's responsible for this!?<0D> Who
+took my Akina away from me!?<0D> I...<0D> I...<0D> I just...<0D>
+AAARRRRRRGH!
+FR : Ah,<0D> merde !<0D> Qui a fait ça !?<0D> Qui m'a enlevé mon Akina !?<0D> Je...<0D> Je...<0D> Je vais...<0D> AAAARGH !
+
+[B058-S013]
+EN : One thing's for sure...<0D> 
+Akina's the best girl at the Singles Tea House!
+
+It would be great to sweep her off her feet,<0D>
+get a home,<0D> and start a new life together!
+FR : Une chose est sûre...<0D> Akina est la meilleure fille du Salon des Célibataires !
+
+J'aimerais conquérir son cœur,<0D> trouver une maison,<0D> et commencer une nouvelle vie avec elle !
+
+[B058-S014]
+EN : <11>This is the Fire Bear Shrine,<0D> which we have
+built to worship the divine fire bear.<11>
+
+<11>The fire bear is revered as the divine beast
+of justice here in this nation...<11>
+
+That's what I usually say to people,<0D> but our
+divine beast has been sealed away by someone!<0D>
+There can be no justice here without it!
+FR : <11>Voici le sanctuaire de l'Ours de Feu,<0D> que nous avons bâti pour vénérer l'Ours de Feu divin.<11>
+
+<11>Ici, on le révère comme la bête divine de la justice...<11>
+
+C'est ce que je dis d'habitude,<0D> mais quelqu'un a emprisonné notre bête divine !<0D> Sans elle, il ne peut y avoir de justice !
+
+[B058-S015]
+EN : This is the Fire Bear Shrine,<0D> which we have
+built to worship the divine fire bear.
+
+The fire bear is revered as the divine beast
+of justice here in this nation...
+
+And you,<0D> Higan,<0D> savior of the divine fire bear,<0D>
+are welcome to stay here as long as you like!
+FR : Voici le sanctuaire de l'Ours de Feu,<0D> que nous avons bâti pour vénérer l'Ours de Feu divin.
+
+Ici, on le révère comme la bête divine de la justice...
+
+Quant à toi,<0D> Higan,<0D> qui l'as sauvée,<0D> tu peux rester aussi longtemps que tu le souhaites !
+
+[B058-S016]
+EN : Marry Christmas,<0D> if you're not already
+married,<0D> because today is the Santa Festival! 
+
+This is the Fire Bear Shrine,<0D> where we have
+built a shrine to worship the divine fire bear.
+
+The fire bear is revered as the divine beast
+of justice here in this nation... 
+
+The temple festival plaza is really buzzing
+now!<0D> You should see for yourself!
+FR : Joyeux Noël,<0D> et pourquoi pas un mariage,<0D> puisque c'est la fête du Père Noël !
+
+Voici le sanctuaire de l'Ours de Feu,<0D> bâti pour vénérer l'Ours de Feu divin.
+
+Ici, on le révère comme la bête divine de la justice...
+
+La place du sanctuaire est en pleine effervescence !<0D> Va donc y faire un tour !
+
+[B058-S017]
+EN : This is the Fire Bear Shrine,<0D> which we have
+built to worship the divine fire bear.
+
+The fire bear is revered as the divine beast
+of justice here in this nation...
+
+Today,<0D> they're holding a temple fair in the
+temple's festival plaza!
+FR : Voici le sanctuaire de l'Ours de Feu,<0D> bâti pour vénérer l'Ours de Feu divin.
+
+Ici, on le révère comme la bête divine de la justice...
+
+Aujourd'hui,<0D> une foire se tient sur la place du sanctuaire !
+
+[B058-S018]
+EN : Oh,<0D> what!?<0D> Have you come to meet with the
+fire bear?
+FR : Oh,<0D> quoi !?<0D> Tu es venu voir l'Ours de Feu ?
+
+[B058-S019]
+EN : Oh,<0D> the fire bear is back to normal!<0D> 
+The Fire Bear Nation will be okay now!
+FR : Oh,<0D> l'Ours de Feu est revenu à la normale !<0D> Notre pays est sauvé !
+
+[B058-S020]
+EN : Then go through the temple arches beside the
+hatchery over there!<0D> You'll reach the temple
+grounds!
+But you know,<0D> you won't be able to meet with
+it now.<0D> The fire bear's been locked away in
+ice,<0D> after all...
+FR : Passe sous les portiques à côté de l'écloserie !<0D> Tu atteindras l'enceinte du sanctuaire ! Mais tu sais,<0D> tu ne peux pas le voir pour le moment.<0D> L'Ours de Feu est prisonnier de la glace,<0D> après tout...
+
+[B058-S021]
+EN : Then don't bother talking to me!<0D> I'm busy!
+FR : Alors ne me dérange pas !<0D> Je suis occupé !
+
+[B058-S022]
+EN : This water wheel catches salmon!<0D> 
+My husband invented it!<0D> 
+It works quite well.
+Unfortunately,<0D> ever since the fire bear got
+locked up in that ice,<0D> he took ill...
+
+Oh,<0D> and he was SO looking forward to taking
+these fish to the fire bear...
+FR : Cette roue à eau attrape les saumons !<0D> C'est mon mari qui l'a inventée !<0D> Elle marche très bien. Hélas,<0D> depuis que l'Ours de Feu est prisonnier de la glace,<0D> mon mari est tombé malade...
+
+Oh,<0D> il avait tellement hâte de lui apporter ces poissons...
+
+[B058-S023]
+EN : I'm so grateful to you!<0D> After you saved the
+fire bear,<0D> my husband's illness was cured!<0D>
+Where's my husband now?
+Well,<0D> he went and delivered the salmon to the
+fire bear!
+FR : Je te suis si reconnaissante !<0D> Depuis que tu as sauvé l'Ours de Feu,<0D> mon mari est guéri !<0D> Où est-il ? Eh bien,<0D> il est parti livrer les saumons à l'Ours de Feu !
+
+[B058-S024]
+EN : Welcome to our shop!<0D> We're going to open up
+a PLGS shop!<0D> We're holding a countdown to
+the shop's opening time.
+There's 60 minutes until it opens!
+FR : Bienvenue !<0D> Notre boutique PLGS va bientôt ouvrir !<0D> Nous comptons les minutes avant l'ouverture. Il en reste 60 !
+
+[B058-S025]
+EN : Welcome to our shop!<0D> We're going to open up
+a PLGS shop!<0D> We're holding a countdown to
+the shop's opening time.
+How many minutes left until it opens?<0D> 
+Hmm...<0D> Only <04> to go!
+FR : Bienvenue !<0D> Notre boutique PLGS va bientôt ouvrir !<0D> Nous comptons les minutes avant l'ouverture. Combien en reste-t-il ?<0D> Hmm...<0D> Plus que <04> !
+
+[B058-S026]
+EN : Alright,<0D> it's time to open up the shop!<0D> 
+
+
+Welcome,<0D> everyone...<0D> To the grand re-opening!<0D>
+Come on in!
+FR : Bien,<0D> il est temps d'ouvrir !<0D>
+
+
+Bienvenue,<0D> à tous...<0D> Pour cette grande réouverture !<0D> Entrez !
+
+[B058-S027]
+EN : Aww,<0D> my hoe is all rusty...<0D> Maybe I should go
+to see Hisui,<0D> and see if she can bring it back
+to life.
+FR : Ah,<0D> ma houe est toute rouillée...<0D> Je devrais peut-être voir Hisui,<0D> pour lui rendre vie.
+
+[B058-S028]
+EN : The crops in the field,<0D> the hoes,<0D>
+the buckets...<0D> You and me...<0D>
+We all have lives of our own.
+We can't just let things or people fall apart.<0D>
+We have to treat them with respect!
+FR : Les cultures,<0D> les houes,<0D> les seaux...<0D> Toi et moi...<0D> Nous avons tous notre propre vie. Nous ne pouvons pas laisser les choses ou les gens dépérir.<0D> Il faut les respecter !
+
+[B058-S029]
+EN : Have a look!<0D> Cute,<0D> huh?<0D> If you hatch eggs at
+the hatchery here,<0D> you can get pets just like
+them! 
+You can't take them for a walk or anything,<0D>
+but they'll let you keep your pets there.<0D> 
+You wanna try raising a pet too?
+FR : Regarde !<0D> Ils sont mignons,<0D> hein ?<0D> En faisant éclore des œufs ici,<0D> tu peux avoir des animaux comme eux ! Tu ne peux pas les promener,<0D> mais on te laissera les garder sur place.<0D> Tu veux essayer d'en élever un ?
+
+[B059-S001]
+EN : Salmon is the fire bear's favorite food!
+I always make sure to deliver it some of the
+salmon that I catch,<0D> every day!
+FR : Le saumon est le plat préféré de l'Ours de Feu ! Je lui apporte toujours une part de ma pêche,<0D> chaque jour !
+
+[B059-S002]
+EN : The festival plaza is up ahead,<0D> but it's empty
+because there's nothing going on right now...<0D> 
+In December,<0D> there's the Santa Festival.
+In February,<0D> there's the Bean-throwing
+Festival.<0D> We also hold temple fair days here,<0D>
+on every Sunday in April and August.
+But either way,<0D> we won't be holding any
+festivals now,<0D> with the fire bear being
+sealed away and all.
+FR : La place des fêtes est plus loin,<0D> mais elle est vide : il n'y a rien pour le moment...<0D> En décembre,<0D> c'est la fête du Père Noël. En février,<0D> celle du Lancer de Haricots.<0D> Il y a aussi des foires,<0D> tous les dimanches d'avril et d'août. Mais,<0D> aucune fête ne peut avoir lieu,<0D> tant que l'Ours de Feu est prisonnier du sceau.
+
+[B059-S003]
+EN : The festival plaza is up ahead,<0D> but it's empty
+because there's nothing going on right now...<0D> 
+In December,<0D> there's the Santa Festival.
+In February,<0D> there's the Bean-throwing
+Festival.<0D> We also hold temple fair days here,<0D>
+on every Sunday in April and August.
+FR : La place des fêtes est plus loin,<0D> mais elle est vide : il n'y a rien pour le moment...<0D> En décembre,<0D> c'est la fête du Père Noël. En février,<0D> celle du Lancer de Haricots.<0D> Il y a aussi des foires,<0D> tous les dimanches d'avril et d'août.
+
+[B059-S004]
+EN : The festival plaza is up ahead.<0D> 
+We're holding a festival there today!<0D> 
+Go on and have yourself a good time!
+FR : La place des fêtes est plus loin.<0D> Il y a une fête aujourd'hui !<0D> Va donc t'amuser !
+
+[B059-S005]
+EN : This is bad!<0D> Really bad!<0D> The ice...<0D> 
+The monsters...<0D> Eeek!<0D> They came from
+Ice Mountain in the northeast!
+The fire bear's...<0D> in ICE!<0D> <19>Chatter chatter<19>
+FR : C'est terrible !<0D> Vraiment terrible !<0D> La glace...<0D> Les monstres...<0D> Aaaah !<0D> Ils viennent du mont de Glace, au nord-est ! L'Ours de Feu est...<0D> GELÉ !<0D> <19>Claque, claque<19>
+
+[B059-S006]
+EN : The fire bear is the divine beast of justice!<0D>
+And justice always prevails!
+FR : L'Ours de Feu est la bête divine de la justice !<0D> Et la justice triomphe toujours !
+
+[B059-S007]
+EN : Hey,<0D> you're the Hero of Fire,<0D> aren't you!?<0D>
+Don't lie to me!<0D> I know you are!<0D> 
+Hurry over to Firepoint Village!
+You've got to inherit the will of the Eternal
+Flame!<0D> Huh?<0D> How did I know that?<0D> Well,<0D> I'm the
+son of the head priest here,<0D> actually...
+FR : Hé,<0D> tu es le héros du Feu,<0D> non !?<0D> Ne me mens pas !<0D> Je le sais !<0D> Vite, au village de la Pointe du Feu ! Tu dois hériter de la volonté de la Flamme éternelle !<0D> Hein ?<0D> Comment je le sais ?<0D> Eh bien,<0D> je suis le fils du grand prêtre,<0D> en fait...
+
+[B059-S008]
+EN : Hey,<0D> you're the Hero of Fire,<0D> aren't you!?<0D>
+Don't lie to me!<0D> I know you are!<0D> Hurry over
+to Ice Mountain and defeat that monster!
+It's the destiny of the Hero of Fire after all,<0D>
+right?<0D> Huh?<0D> How did I know that?<0D> Well,<0D> I'm the
+son of the head priest here,<0D> actually...
+FR : Hé,<0D> tu es le héros du Feu,<0D> non !?<0D> Ne me mens pas !<0D> Je le sais !<0D> Vite, au mont de Glace ! Va battre ce monstre ! C'est le destin du héros du Feu,<0D> non ?<0D> Hein ?<0D> Comment je le sais ?<0D> Eh bien,<0D> je suis le fils du grand prêtre,<0D> en fait...
+
+[B059-S009]
+EN : Hey,<0D> you're the Hero of Fire,<0D> aren't you!?<0D>
+Don't lie to me!<0D> I know you are!<0D> Hurry up and
+restore peace to Jipang!
+It's your duty,<0D> as the Hero of Fire!
+FR : Hé,<0D> tu es le héros du Feu,<0D> non !?<0D> Ne me mens pas !<0D> Je le sais !<0D> Ramène vite la paix à Jipang ! C'est ton devoir,<0D> en tant que héros du Feu !
+
+[B059-S010]
+EN : This spring water purifies the body!<0D> 
+The power of the divine fire bear can
+wash away poison in an instant!
+FR : Cette eau de source purifie le corps !<0D> Le pouvoir de l'Ours de Feu divin dissipe le poison en un instant !
+
+[B059-S011]
+EN : <17>This is the cleansing area. 
+Will you wash your hands here?<18>
+FR : <17>Voici le lieu de purification. Voulez-vous vous laver les mains ?<18>
+
+[B059-S012]
+EN : <17>It's locked.<18>
+FR : <17>C'est verrouillé.<18>
+
+[B060-S001]
+EN : If you pass through this,<0D> the Looker's Grotto,<0D>
+you'll be able to reach the Peacock Nation,<0D>
+but...
+Do not stray from the path along the way!<0D>
+Three beautiful women,<0D> heavenly nymphs,<0D> 
+live in these caverns!<0D> Real lookers!
+Who knows what might happen to a man who
+falls under their spell?<0D> Whatever the case,<0D>
+the very thought terrifies me!
+FR : En traversant ces lieux,<0D> la grotte des Belles,<0D> vous pourrez atteindre le pays du Paon,<0D> mais... Ne vous écartez pas du chemin !<0D> Trois belles femmes,<0D> des nymphes célestes,<0D> vivent dans ces cavernes !<0D> De vraies beautés ! Qui sait ce qu'il advient des hommes tombés sous leur charme ?<0D> Quoi qu'il en soit,<0D> cette seule pensée me terrifie !
+
+[B060-S002]
+EN : Meow!
+FR : Miaou !
+
+[B060-S003]
+EN : Mom said I can't skip across the lake,<0D> 
+but come on!<0D> It's just way too much fun!<0D> 
+I mean,<0D> check this out!
+FR : Maman m'a interdit de bondir sur le lac,<0D> mais enfin !<0D> C'est beaucoup trop amusant !<0D> Regarde,<0D> plutôt !
+
+[B060-S004]
+EN : You see what I mean!?<0D> Looks like fun,<0D> huh?<0D> 
+Not that you could ever do it! 
+FR : Tu vois !?<0D> Ça a l'air amusant,<0D> hein ?<0D> Mais toi, tu ne pourrais jamais le faire !
+
+[B060-S005]
+EN : That cavern is used in the winter,<0D> when
+Ice Mountain Village gets sealed up by ice!
+FR : On utilise cette caverne en hiver,<0D> quand le village du Mont de Glace est bloqué par la glace !
+
+[B060-S006]
+EN : Welcome!<0D> This is Ice Mountain Village,<0D>
+nestled right in the boundary between the
+Fire Bear Nation and the Peacock Nation!
+FR : Bienvenue !<0D> Voici le village du Mont de Glace,<0D> à la frontière des pays de l'Ours de Feu et du Paon !
+
+[B060-S007]
+EN : You did it,<0D> Higan!<0D> You crushed the Ice Fang
+Castle!<0D> Way to go,<0D> Hero of Fire!
+FR : Tu as réussi,<0D> Higan !<0D> Tu as détruit le château du Croc de Glace !<0D> Bravo,<0D> héros du Feu !
+
+[B060-S008]
+EN : <17>The entrance is blocked! There's no way in!<18>
+FR : <17>L'entrée est bloquée ! Impossible de passer !<18>
+
+[B061-S001]
+EN : If you pass through the Looker's Grotto,<0D> you
+can reach the Peacock Nation,<0D> but as you can
+see,<0D> there's no getting through this ice!
+It's all because of that icy fellow...<0D> 
+That Zettai Reido!<0D> 
+
+You've got to do something about Zettai Reido!
+FR : La grotte des Belles mène au pays du Paon,<0D> mais,<0D> comme tu le vois,<0D> la glace bloque le passage ! Tout ça à cause de cet homme de glace...<0D> Ce Zettai Reido !<0D>
+
+Il faut faire quelque chose contre lui !
+
+[B061-S002]
+EN : Woof,<0D> woof!
+FR : Ouaf,<0D> ouaf !
+
+[B061-S003]
+EN : Mom told me to put on my snow shoes,<0D> but I
+don't wanna!<0D> If I put those on,<0D> then I won't be
+able to slide on the ice!<0D> I mean,<0D> check this out!
+FR : Maman m'a dit de mettre mes raquettes,<0D> mais je veux pas !<0D> Si je les mets,<0D> je pourrai plus glisser sur la glace !<0D> Regarde,<0D> plutôt !
+
+[B061-S004]
+EN : You see what I mean!?<0D> Looks like fun,<0D> huh?<0D>
+Give it a try!
+FR : Tu vois !?<0D> Ça a l'air amusant,<0D> hein ?<0D> Essaie donc !
+
+[B061-S005]
+EN : Has salvation come to us from Fireshadow
+Village?<0D> Oh,<0D> what a blessing this is!<0D> 
+That icy monster of a man...
+He went and raised his castle right above Ice
+Mountain Village!<0D> You've got to do something
+about this!
+If not,<0D> everyone here will freeze to death!
+FR : Notre salut nous vient-il du village de l'Ombre du Feu ?<0D> Oh,<0D> quelle bénédiction !<0D> Ce monstre de glace... Il a dressé son château juste au-dessus de notre village !<0D> Il faut faire quelque chose ! Sinon,<0D> nous mourrons tous de froid !
+
+[B061-S006]
+EN : This is Ice Mountain Village.<0D> Actually,<0D> this is
+the entrance to the village!<0D> Unfortunately,<0D>
+it's frozen over...
+Some guy by the name of Zettai Reido
+attacked,<0D> and built a castle of ice right there
+on Ice Mountain...
+And because of that,<0D> the village is freezing!<0D>
+Everyone in here is going to freeze to death
+unless you save us!
+FR : Voici le village du Mont de Glace.<0D> Enfin,<0D> l'entrée du village !<0D> Hélas,<0D> tout est gelé... Un certain Zettai Reido nous a attaqués,<0D> et a bâti un château de glace sur la montagne... À cause de lui,<0D> le village gèle !<0D> Nous mourrons tous de froid si tu ne nous sauves pas !
+
+[B061-S007]
+EN : If you make your way up through here, 
+you'll reach a demonic face in the cavern!
+
+I'm pretty sure that's the entrance to the Ice
+Fang Castle!<0D> It doesn't look like there's any
+way to get in,<0D> though...
+Not unless you can do something about those
+giant icicles!
+FR : En montant par ici, tu verras un visage démoniaque dans la caverne !
+
+Je crois bien que c'est l'entrée du château du Croc de Glace !<0D> Mais il n'y a pas moyen d'entrer,<0D> on dirait... À moins de se débarrasser de ces énormes glaçons !
+
+[B061-S008]
+EN : Brrr...<0D> I think I'm going numb!<0D> This cold is going
+to kill off the egg in the Palace of Dreams for
+sure!<0D> Could that be it...?
+Could that be why they came here to Ice
+Mountain!?
+FR : Brrr...<0D> Je crois que je ne sens plus rien !<0D> Ce froid va sûrement tuer l'œuf du palais des Rêves !<0D> Serait-ce ça... ? Serait-ce pour ça qu'ils sont venus au mont de Glace !?
+
+[B061-S009]
+EN : <17>The entrance is blocked by the ice! 
+There's no way inside!<18>
+FR : <17>L'entrée est bloquée par la glace ! Impossible de passer !<18>
+
+[B061-S010]
+EN : <2B><2B>Icy Path<2D><2D>
+<11>This path may only be accessed when the
+mountain has frozen over.<11>
+FR : <2B><2B>Chemin gelé<2D><2D>
+<11>Ce passage n'est accessible que lorsque la montagne est gelée.<11>
+
+[B061-S011]
+EN : <2B><2B>Looker's Grotto<2D><2D>
+<11>If you're heading to the Peacock Nation, 
+please head through here.<11>
+FR : <2B><2B>Grotte des Belles<2D><2D>
+<11>Pour rejoindre le pays du Paon, passez par ici.<11>
+
+[B062-S001]
+EN : That weird sound stopped coming out of the
+flaming pot!
+FR : Le pot ardent ne fait plus ce bruit étrange !
+
+[B062-S002]
+EN : -Ice Mountain Climber's Entrance-
+<11>If you're on your way to Ice Mountain Village,
+stick to the path.<11>
+FR : -Entrée des grimpeurs du mont de Glace-
+<11>Pour rejoindre le village du Mont de Glace, restez sur le sentier.<11>
+
+[B063-S001]
+EN : Well,<0D> look who's here!<0D> Would ya like to buy
+another one?<0D> I've got a super discount here!
+
+One for five hundred ryo!<0D> How 'bout it?
+FR : Eh bien,<0D> te voilà !<0D> Tu veux en acheter d'autres ?<0D> Je te fais un prix exceptionnel !
+
+Cinq cents ryo !<0D> Ça te va ?
+
+[B063-S002]
+EN : Heh heh heh...<0D> Omine's the name,<0D> but they call
+me Omine the Gracious!<0D> You're probably slip n'
+sliding all over the place on this ice,<0D> eh?
+Interested in buying some snow shoes?<0D>
+I got a great deal on 'em here.
+
+One set for 1,000 ryo.<0D> Deal?
+FR : Hé hé hé...<0D> Moi, c'est Omine,<0D> mais on m'appelle Omine au grand cœur !<0D> Tu dois glisser dans tous les sens sur cette glace,<0D> hein ? Tu veux des raquettes ?<0D> Je te fais un bon prix.
+
+Une paire pour 1 000 ryo.<0D> Marché conclu ?
+
+[B063-S003]
+EN : Yeah?<0D> It must be pretty darn hard
+to turn down such a gracious offer!
+FR : Ah oui ?<0D> Pas facile de refuser une offre aussi généreuse !
+
+[B063-S004]
+EN : Fine then!<0D> Pleasure doin' business!
+FR : Bien !<0D> Merci pour ton achat !
+
+[B063-S005]
+EN : Ugh...<0D> Do I look like I'm runnin' a charity here?<0D>
+Get lost!
+FR : Argh...<0D> Tu crois que je fais la charité ici ?<0D> Dégage !
+
+[B063-S006]
+EN : Are you going to Ice Mountain Village!?<0D> 
+Oh,<0D> no you can't!<0D> It's totally frozen up.<0D> 
+You can't enter!
+If only you had one of Bakuzan's pots from
+Fireshadow Village...<0D> One of those would be
+able to blow through it in one shot...<0D>
+KABOOOOOM!
+FR : Tu vas au village du Mont de Glace !?<0D> Oh,<0D> tu ne peux pas !<0D> Tout est gelé.<0D> Impossible d'entrer ! Si seulement tu avais un pot de Bakuzan, au village de l'Ombre du Feu...<0D> Un seul suffirait à tout faire sauter...<0D> BOOOOUM !
+
+[B063-S007]
+EN : <17>The entrance is blocked by the ice! 
+There's no way inside!<18>
+FR : <17>L'entrée est bloquée par la glace ! Impossible de passer !<18>
+
+[B063-S008]
+EN : The flaming pot started making a ticking noise!
+FR : Le pot ardent se met à faire tic-tac !
+
+[B064-S001]
+EN : This,<0D> the Flame Shrine,<0D> is where the Eternal
+Flame resides!<0D> Outsiders are not allowed to
+set foot in here!
+FR : Voici,<0D> le sanctuaire de la Flamme,<0D> où réside la Flamme éternelle !<0D> Les étrangers n'ont pas le droit d'y entrer !
+
+[B064-S002]
+EN : Even if the Eternal Flame has accepted you,<0D> 
+I won't!<0D> Why,<0D> the very thought of YOU as the
+Hero of Fire...!
+I just can't picture you as the true Hero of
+Fire,<0D> defeating Hell's army and sealing the
+gates!
+FR : Même si la Flamme éternelle t'a accepté,<0D> moi, non !<0D> Comment,<0D> TOI, le héros du Feu... ! Je ne t'imagine pas en véritable héros du Feu,<0D> vainquant l'armée des Enfers et refermant les portes !
+
+[B064-S003]
+EN : We,<0D> the people of the Fire Clan,<0D> were created
+by Agni,<0D> the Goddess of the Heavens.
+
+But I heard that during a war that took place
+six hundred years ago,<0D> the Fire Clan betrayed
+the wishes of the mighty Agni.
+Higan,<0D> Hero of Fire...<0D> 
+Did we really betray the great Agni? 
+FR : Nous,<0D> membres du clan du Feu,<0D> avons été créés par Agni,<0D> la déesse des Cieux.
+
+Mais durant la guerre d'il y a six cents ans,<0D> notre clan aurait trahi la volonté de la grande Agni. Higan,<0D> héros du Feu...<0D> L'avons-nous vraiment trahie ?
+
+[B064-S004]
+EN : You must inherit the sword of Byakuen.<0D> 
+Go now,<0D> and head to the Fire Bear Shrine.
+FR : Tu dois hériter de l'épée de Byakuen.<0D> Va,<0D> au sanctuaire de l'Ours de Feu.
+
+[B064-S005]
+EN : What a rare sight this is...<0D> 
+A visitor,<0D> here in Firepoint Village?
+
+We,<0D> the descendants of the Fire Clan,<0D> 
+have claimed this village as our own.<0D> 
+We are here to guard the Eternal Flame. 
+FR : Quelle rareté...<0D> Un visiteur,<0D> au village de la Pointe du Feu ?
+
+Nous,<0D> descendants du clan du Feu,<0D> avons fait de ce village notre demeure.<0D> Nous gardons la Flamme éternelle.
+
+[B064-S006]
+EN : The platform up ahead provides everyone a
+clear view of Takamagahara,<0D> the realm of
+the Heavens.
+It is the dream of every man and child in
+Firepoint Village to one day return to the
+Heavens.
+FR : La plateforme, plus loin, offre une vue dégagée sur Takamagahara,<0D> le royaume des Cieux. Tous les hommes et les enfants de ce village rêvent d'y retourner un jour.
+
+[B064-S007]
+EN : Everybody in this village is a descendent of
+the Fire Clan,<0D> who came here from the
+Heavens.
+That's why we live in houses like these,<0D> to live
+just a LITTLE closer to the sky above!
+FR : Tous les habitants descendent du clan du Feu,<0D> venu des Cieux. Voilà pourquoi nos maisons sont ainsi bâties,<0D> pour vivre un PEU plus près du ciel !
+
+[B064-S008]
+EN : <0C>Where do you think you're going!?<0D> This is the
+Flame Shrine,<0D> where the Eternal Flame resides!
+
+What?<0D> The Eternal Flame called you here,<0D>
+you say?<0D> What's wrong with you,<0D> kid?<0D> 
+Don't come to me talking in your sleep!
+The Eternal Flame only calls out to those 
+who bear the blood of the Fire Clan!<0D> 
+Not that the likes of you would... <0D><0D>Huh!?
+FR : <0C>Où crois-tu aller !?<0D> Voici le sanctuaire de la Flamme,<0D> où réside la Flamme éternelle !
+
+Quoi ?<0D> Elle t'a appelé ici,<0D> tu dis ?<0D> Qu'est-ce qui te prend,<0D> petit ?<0D> Ne viens pas me raconter tes rêves ! La Flamme éternelle n'appelle que ceux qui ont le sang du clan du Feu !<0D> Ce n'est pas ton genre...<0D><0D> Hein !?
+
+[B064-S009]
+EN : <0C>What!?<0D>
+
+
+That's the herald of the Eternal Flame!<0D>
+FR : <0C>Quoi !?<0D>
+
+
+C'est le messager de la Flamme éternelle !<0D>
+
+[B064-S010]
+EN : <0C>
+
+Wait right there!
+FR : <0C>
+
+Attends ici !
+
+[B064-S011]
+EN : <0C>Oh...<0D> So this child is the one?
+FR : <0C>Oh...<0D> C'est donc cet enfant ?
+
+[B064-S012]
+EN : <0C>Hmm!?<0D> What do you have there!?<0D> 
+That is the swordsman's bracelet!<0D> 
+What is the meaning of this!?
+FR : <0C>Hmm !?<0D> Qu'as-tu là !?<0D> C'est le bracelet du sabreur !<0D> Qu'est-ce que ça veut dire !?
+
+[B064-S013]
+EN : <0C>Your grandpa...?<0D> Is that so!?<0D> 
+You are Byakuen's grandson!?
+FR : <0C>Ton grand-père... ?<0D> Vraiment !?<0D> Tu es le petit-fils de Byakuen !?
+
+[B064-S014]
+EN : <0C>Byakuen?<0D> The same Byakuen who abandoned
+Firepoint Village!?<0D> THAT Byakuen!?<0D> 
+
+That bracelet...<0D> What happened to him?
+FR : <0C>Byakuen ?<0D> Celui qui a abandonné notre village !?<0D> CE Byakuen !?<0D>
+
+Ce bracelet...<0D> Que lui est-il arrivé ?
+
+[B064-S015]
+EN : <0C>What!?<0D> He was murdered!?<0D> 
+
+
+I heard that you claim the Eternal Flame 
+called you to come here...<0D> Is that true?
+FR : <0C>Quoi !?<0D> Il a été assassiné !?<0D>
+
+
+Tu prétends que la Flamme éternelle t'a appelé ici...<0D> Est-ce vrai ?
+
+[B064-S016]
+EN : <0C>I see...<0D> Then come with me.
+FR : <0C>Je vois...<0D> Alors suis-moi.
+
+[B064-S017]
+EN : <0C>Elder,<0D> if I may!<0D> This is the child of that woman!<0D>
+The one who cast aside our village!<0D> She broke
+the laws of Firepoint Village and left...
+And this is her child!<0D> This is an outrage!<0D> 
+You would let him commune with the Eternal
+Flame!?<0D> Elder!
+FR : <0C>Vénérable,<0D> permettez-moi !<0D> C'est l'enfant de cette femme !<0D> Celle qui a renié notre village !<0D> Elle en a brisé les lois et nous a quittés... Et voici son enfant !<0D> C'est un scandale !<0D> Vous le laisseriez communier avec la Flamme éternelle !?<0D> Vénérable !
+
+[B064-S018]
+EN : <0C>Listen to me...<0D> We of the Fire Clan serve
+and protect the will of the Eternal Flame.
+
+If the Eternal Flame has truly called out to
+this boy,<0D> then we cannot do anything to stop
+it.
+FR : <0C>Écoute-moi...<0D> Nous, membres du clan du Feu, servons et protégeons la volonté de la Flamme éternelle.
+
+Si elle a vraiment appelé cet enfant,<0D> nous ne pouvons pas nous y opposer.
+
+[B064-S019]
+EN : .<0D>.<0D>.
+FR : .<0D>.<0D>.
+
+[B064-S020]
+EN : <0C>You have heard that even Byakuen succumbed
+to the creatures of Hell,<0D> yes?
+
+Clearly,<0D> someone has broken the seal upon the
+Gates of Hell...
+
+And the young king,<0D> who had inherited
+the will of the Eternal Flame,<0D> is gone.<0D>
+Now,<0D> this boy is all we have.
+You must know what this means...
+FR : <0C>Tu sais que même Byakuen a succombé aux créatures des Enfers,<0D> n'est-ce pas ?
+
+Quelqu'un a manifestement brisé le sceau des portes des Enfers...<0D> Et le jeune roi,<0D> héritier de la volonté de la Flamme éternelle,<0D> a disparu.<0D> Désormais,<0D> cet enfant est notre seul espoir. Tu dois comprendre ce que cela signifie...
+
+[B064-S021]
+EN : .<0D>.<0D>.
+FR : .<0D>.<0D>.
+
+[B064-S022]
+EN : <0C>Shall we go,<0D> then?<0D> <0D><0D>...Oh,<0D> my!<0D> 
+I forgot to ask you your name!
+FR : <0C>Allons-y,<0D> alors ?<0D> <0D><0D>...Oh,<0D> ciel !<0D> J'ai oublié de te demander ton nom !
+
+[B064-S023]
+EN : <0C>Is that so?<0D> Higan?<0D> That is a fine name,<0D> indeed.<0D>
+Well,<0D> Higan...<0D> Let me show you to the Eternal
+Flame.<0D> Come into the Flame Shrine!
+FR : <0C>Ah oui ?<0D> Higan ?<0D> Voilà un beau nom,<0D> en effet.<0D> Eh bien,<0D> Higan...<0D> Je vais te conduire à la Flamme éternelle.<0D> Entre dans le sanctuaire !
+
+[B064-S024]
+EN : Take a look through the telescope.<0D> 
+There are times when you'll be able
+to see Takamagahara.
+Look to the Heavens at night,<0D>
+between five and six o'clock!
+FR : Regarde dans la lunette.<0D> À certaines heures, tu pourras voir Takamagahara. Observe les Cieux de nuit,<0D> entre cinq et six heures !
+
+[B064-S025]
+EN : Everyone comes by to gaze up at the Heavens
+through the telescope here.
+
+It's only natural<2A><0D> as members of the Fire Clan,<0D>
+Takamagahara is our motherland.
+FR : Tout le monde vient contempler les Cieux dans cette lunette.
+
+C'est bien naturel<2A><0D> pour nous, membres du clan du Feu,<0D> Takamagahara est notre patrie.
+
+[B064-S026]
+EN : <17>There's a telescope here. 
+Will you take a look through it?<18>
+FR : <17>Il y a une lunette ici. Voulez-vous regarder dedans ?<18>
+
+[B069-S001]
+EN : Maaahaaaraaaayaa!<0D> Tojuuuuraaaayaa!<0D> 
+Subaru,<0D> Subaru!<0D> Haiyahai!
+FR : Maaahaaaraaaayaa !<0D> Tojuuuuraaaayaa !<0D> Subaru,<0D> Subaru !<0D> Haiyahai !
+
+[B069-S002]
+EN : Unnnn bababawn!<0D> Fuuahkakakatte!<0D> 
+Subaru,<0D> Subaru!<0D> Haiyahai!
+FR : Unnnn bababawn !<0D> Fuuahkakakatte !<0D> Subaru,<0D> Subaru !<0D> Haiyahai !
+
+[B069-S003]
+EN : Subaru will be fine!<0D> Higan,<0D> please just go
+ahead!<0D> There are people all over Jipang who
+are waiting for you!<0D> Just go,<0D> Higan!
+FR : Subaru s'en sortira !<0D> Higan,<0D> poursuis ton chemin !<0D> Des gens t'attendent dans tout Jipang !<0D> Va,<0D> Higan !
+
+[B069-S004]
+EN : This treasure chest holds a monster that
+Subaru can control.<0D> When she comes to you,<0D>
+Higan,<0D> Subaru will bring a monster with her.<0D>
+Only Subaru can break the lock upon this
+chest...<0D> The one contained here is the Blazing
+Elephant!
+It is said that there are other chests with
+monsters sealed within them,<0D> as well.
+FR : Ce coffre renferme un monstre que Subaru peut commander.<0D> Lorsqu'elle te rejoindra,<0D> Higan,<0D> Subaru amènera un monstre avec elle.<0D> Seule Subaru peut déverrouiller ce coffre...<0D> Il contient l'Éléphant ardent ! <0D> On raconte que d'autres coffres renferment eux aussi des monstres scellés.
+
+[B069-S005]
+EN : <17>The egg is glowing, softly and warmly!<18>
+FR : <17>L'œuf diffuse une douce et chaude lumière !<18>
+
+[B069-S006]
+EN : <0C>Thank you,<0D> Higan...<0D> Subaru's life has been
+spared,<0D> thanks to you.
+FR : <0C>Merci,<0D> Higan...<0D> Grâce à toi,<0D> Subaru a la vie sauve.
+
+[B069-S007]
+EN : <0C>But...<0D> Subaru is weak now...<0D> She no longer
+has enough strength to survive the birth
+process...
+FR : <0C>Mais...<0D> Subaru est affaiblie...<0D> Elle n'a plus assez de forces pour survivre à sa naissance...
+
+[B069-S008]
+EN : <0C>I will use the last of my powers to assist
+Subaru...<0D> 
+
+This is my ring...<0D> Take it with you.<0D> As long as
+you hold onto this ring,<0D> Subaru will be able to
+find you,<0D> no matter where you may be.
+FR : <0C>J'utiliserai mes dernières forces pour aider Subaru...<0D> Voici mon anneau...<0D> Emporte-le.<0D> Tant que tu l'auras sur toi, Subaru pourra<0D> te retrouver, <0D> où que tu sois.
+
+[B069-S009]
+EN : <0C>Higan...<0D> Subaru needs more time before she
+can be born...
+FR : <0C>Higan...<0D> Subaru a encore besoin de temps avant de pouvoir naître...
+
+[B069-S010]
+EN : <0C>But know this,<0D> Higan.<0D> Subaru will come
+to you...<0D> You can be certain of that.
+FR : <0C>Mais sache ceci,<0D> Higan.<0D> Subaru viendra à toi...<0D> Tu peux en être certain.
+
+[B069-S011]
+EN : <0C>Subaru...?<0D> Subaru...<0D> Yes,<0D> it's your turn now.<0D> 
+I'm giving you the very last of my powers,<0D>
+Subaru...
+FR : <0C>Subaru... ?<0D> Subaru...<0D> Oui,<0D> c'est ton tour, maintenant. <0D> Je te transmets mes toutes dernières forces,<0D> Subaru...
+
+[B069-S012]
+EN : <0C>Higan...<0D> Once Subaru is born,<0D> the two of you
+will join forces...<0D> Subaru will come to you at
+that time...<0D> Surely...
+FR : <0C>Higan...<0D> Quand Subaru sera née,<0D> vous unirez vos forces...<0D> Elle te rejoindra alors...<0D> J'en suis certaine...
+
+[B069-S013]
+EN : <0C>Higan...<0D> Subaru is the one inside of this egg.<0D>
+She is a fairy of the Fire Clan,<0D> and a fairy of
+the Fire Clan lives for twenty years.<0D> 
+So it is my time to die...<0D> And Subaru will take
+my place.<0D> The time is drawing near...
+FR : <0C>Higan...<0D> Subaru est dans cet œuf.<0D> C'est une fée du clan du Feu,<0D> et une fée du clan du Feu ne vit que vingt ans.<0D> Mon heure est donc venue...<0D> Subaru prendra ma place.<0D> Le moment approche...
+
+[B070-S001]
+EN : <0C><17>The egg is faintly glowing with a weak light!<18>
+FR : <0C><17>L'œuf émet une faible lueur !<18>
+
+[B070-S002]
+EN : <0C>Higan...<0D> Subaru is the one inside of this egg.<0D>
+She is a fairy of the Fire Clan.
+FR : <0C>Higan...<0D> Subaru est dans cet œuf.<0D> C'est une fée du clan du Feu.
+
+[B070-S003]
+EN : <0C>The fairy of the Fire Clan is reborn every
+twenty years.<0D> I will die,<0D> and Subaru will take
+my place. 
+My time is drawing to a close,<0D> but Subaru is
+locked in ice,<0D> and the power she needs to
+survive the birth process is growing weak.
+FR : <0C>La fée du clan du Feu renaît tous les vingt ans.<0D> Je vais mourir,<0D> et Subaru prendra ma place. Mon heure approche,<0D><0D> mais Subaru est prisonnière de la glace. Les forces nécessaires à sa naissance s'amenuisent.
+
+[B070-S004]
+EN : <0C>You must hurry,<0D> Higan...<0D> 
+There's not much time.
+FR : <0C>Fais vite,<0D> Higan...<0D> Il ne reste plus beaucoup de temps.
+
+[B071-S001]
+EN : Our ancestors brought the Eternal Flame
+down from Takamagahara,<0D> the Heavens...<0D> 
+
+It is the flame that the goddess Agni,<0D> the
+<11>First Fire,<11><0D> used to create all living things.<0D> 
+
+The Eternal Flame delivers the will of the
+mighty Agni to the earth.<0D> It is the will of
+Jipang...
+FR : Nos ancêtres ont rapporté la Flamme éternelle de Takamagahara,<0D> les Cieux...<0D> C'est la flamme dont la déesse Agni,<0D> le <11>Feu primordial<11>,<0D> s'est servie pour créer toute vie.<0D> La Flamme éternelle transmet à la terre la volonté de la puissante Agni. <0D> C'est la volonté de Jipang...
+
+[B071-S002]
+EN : Long ago,<0D> a man named Bakuzan came to take
+the Eternal Flame...<0D> What a terrible man he
+was...<0D> He struck me in the head and snatched
+the Eternal Flame for himself!<0D> How did he know
+the Eternal Flame was here!?<0D> The next time he
+shows up here,<0D> we'll all gang up on him and
+beat him down!
+FR : Il y a longtemps,<0D> un homme du nom de Bakuzan est venu prendre la Flamme éternelle...<0D> Quel homme affreux...<0D> Il m'a frappé à la tête et s'est emparé de la Flamme éternelle !<0D> Comment savait-il qu'elle était ici !?<0D> S'il revient,<0D> on se mettra tous ensemble pour lui donner une bonne raclée !
+
+[B071-S003]
+EN : This is so awesome!<0D> 
+You're gonna become the Hero of Fire,<0D> huh!?
+FR : C'est trop bien !<0D> Tu vas devenir le héros du Feu,<0D> hein !?
+
+[B071-S004]
+EN : That's amazing!<0D> You actually became the Hero
+of Fire!<0D> I'm gonna be one too,<0D> someday!
+FR : C'est incroyable !<0D> Tu es vraiment devenu le héros du Feu ! <0D> Un jour, moi aussi,<0D> je le deviendrai !
+
+[B071-S005]
+EN : Go...<0D> Go to the elder.
+FR : Va...<0D> Va voir l'ancien.
+
+[B071-S006]
+EN : Hero of Fire,<0D> may you bring peace to Jipang!
+FR : Héros du Feu,<0D> puissiez-vous ramener la paix à Jipang !
+
+[B071-S007]
+EN : Go and see the elder.
+FR : Va voir l'ancien.
+
+[B071-S008]
+EN : Hero of Fire,<0D> may you bring peace to Jipang!
+FR : Héros du Feu,<0D> puissiez-vous ramener la paix à Jipang !
+
+[B071-S009]
+EN : Hurry,<0D> now!<0D> Go to the elder,<0D> Higan!
+FR : Vite,<0D> maintenant !<0D> Va voir l'ancien,<0D> Higan !
+
+[B071-S010]
+EN : Even if the Eternal Flame deems it to be so,<0D> 
+I find it hard to believe!<0D> There's no way you
+could be the Hero of Fire!
+FR : Même si la Flamme éternelle en a décidé ainsi,<0D> j'ai du mal à y croire ! <0D> Tu ne peux pas être le héros du Feu !
+
+[B071-S011]
+EN : Those who are chosen by the Eternal Flame
+have a mission that they must carry out.<0D> 
+Go and see the elder.
+FR : Ceux que choisit la Flamme éternelle ont une mission à accomplir.<0D> Va voir l'ancien.
+
+[B071-S012]
+EN : Oh,<0D> Higan!<0D> Congratulations!
+FR : Oh,<0D> Higan ! <0D> Félicitations !
+
+[B071-S013]
+EN : Now,<0D> you must face the judgment...<0D> 
+Go to the elder.
+FR : Maintenant,<0D> tu dois te soumettre au jugement...<0D> Va voir l'ancien.
+
+[B071-S014]
+EN : Congratulations,<0D> Higan!<0D> 
+You became the Hero of Fire!
+FR : Félicitations,<0D> Higan !<0D> Tu es devenu le héros du Feu !
+
+[B071-S015]
+EN : <0C>Higan,<0D> are you prepared to face the trial of
+the Eternal Flame?
+FR : <0C>Higan,<0D> es-tu prêt à affronter l'épreuve de la Flamme éternelle ?
+
+[B071-S016]
+EN : <0C>Is that so?<0D> Well then,<0D> let it begin...
+FR : <0C>Vraiment ?<0D> Alors,<0D> commençons...
+
+[B071-S017]
+EN : <0C>Is that so...?<0D> Come back when you are ready.
+FR : <0C>Vraiment... ?<0D> Reviens quand tu seras prêt.
+
+[B071-S018]
+EN : Higan!<0D> Go and visit with the head priest at the
+Fire Bear Shrine!<0D> The sword that Byakuen
+left should be there...
+Higan,<0D> Hero of Fire!<0D> 
+Please,<0D> bring peace back to Jipang!
+FR : Higan !<0D> Va voir le grand prêtre au sanctuaire de l'Ours de Feu !<0D> L'épée laissée par Byakuen doit s'y trouver... Higan,<0D> héros du Feu !<0D> Je t'en prie,<0D> ramène la paix à Jipang !
+
+[B071-S019]
+EN : <0C>
+
+In accordance with the ancient custom,<0D> let us
+now perform the ceremony to bequeath the
+will of the Eternal Flame!
+FR : <0C>Conformément à l'antique coutume,<0D> célébrons à présent la cérémonie de transmission de la volonté de la Flamme éternelle !
+
+[B071-S020]
+EN : <0C>Higan!<0D> Make your way to the Eternal Flame.<0D>
+You need only commune with it.
+
+After that,<0D> I presume that the Eternal Flame
+will test you in some way...<0D> Now go!
+FR : <0C>Higan !<0D> Approche-toi de la Flamme éternelle.<0D> Il te suffit de communier avec elle. Ensuite,<0D> je suppose qu'elle te soumettra à une épreuve...<0D> Va !
+
+[B071-S021]
+EN : <0C>If the Eternal Flame deems you worthy,<0D>
+you will inherit its will.
+
+If you are not worthy,<0D> however...<0D> You will
+burn...<0D> And not even your ashes will remain.
+
+Now,<0D> Higan...<0D> You must go...
+FR : <0C>Si la Flamme éternelle t'en juge digne,<0D> tu hériteras de sa volonté. Mais si tu en es indigne,<0D> toutefois...<0D> Tu brûleras...<0D> Il ne restera pas même tes cendres. Maintenant,<0D> Higan...<0D> Tu dois y aller...
+
+[B071-S022]
+EN : <0C>Higan...!<0D> Inheritor...<0D> of the Eternal Flame!<0D> 
+My brother,<0D> the would-be king,<0D> was enticed
+by the words<0D> of Ninigi...<0D> the ruler of Hell...<0D> 
+And like the fool that he was...<0D> He opened the
+seal upon the Gates of Hell...<0D> Now,<0D> Jipang is
+beset upon...<0D> by the hellspawn...
+They mean to enslave this land...<0D> Higan!<0D> 
+You must slay the hellspawn,<0D> and seal Ninigi
+behind the Gates of Hell!
+Higan...<0D> Hero of Fire...<0D> This is my will...<0D> 
+This is the will of the Eternal Flame...
+FR : <0C>Higan... !<0D> Héritier...<0D> de la Flamme éternelle !<0D> Mon frère,<0D> qui aspirait au trône,<0D> s'est laissé séduire par les paroles<0D> de Ninigi...<0D> le maître des Enfers...<0D> Et dans sa folie...<0D> Il a brisé le sceau des portes des Enfers...<0D> À présent,<0D> Jipang est assailli...<0D> par les créatures des Enfers... Elles veulent asservir ce pays...<0D> Higan !<0D> Tu dois les abattre,<0D> et enfermer Ninigi derrière les portes des Enfers ! Higan...<0D> Héros du Feu...<0D> Telle est ma volonté...<0D> Telle est la volonté de la Flamme éternelle...
+
+[B071-S023]
+EN : <0C>Higan,<0D> Hero of Fire!<0D> Inheritor of the Eternal
+Flame!<0D> I leave this task to you...
+FR : <0C>Higan,<0D> héros du Feu !<0D> Héritier de la Flamme éternelle !<0D> Je te confie cette tâche...
+
+[B071-S024]
+EN : <0C>Higan!<0D> Hey!<0D> Higan!
+FR : <0C>Higan !<0D> Hé !<0D> Higan !
+
+[B071-S025]
+EN : <0C>Is he dead!?
+FR : <0C>Il est mort !?
+
+[B071-S026]
+EN : <0C>Higan!
+FR : <0C>Higan !
+
+[B071-S027]
+EN : <0C>Ohhhh!
+FR : <0C>Ohhhh !
+
+[B071-S028]
+EN : <0C>Higan,<0D> I hereby deem that you are truly
+worthy of standing as one of the Heroes
+of Fire.
+Your grandfather,<0D> Byakuen,<0D> would be so proud
+if he could see you here today.
+
+Higan!<0D> Go and visit with the head priest at the
+Fire Bear Shrine!<0D> The sword that Byakuen
+left should be there.
+Higan,<0D> Hero of Fire!<0D> 
+Please,<0D> bring peace back to Jipang!
+FR : <0C>Higan,<0D> je te reconnais désormais digne de figurer parmi les héros du Feu. Ton grand-père,<0D> Byakuen,<0D> serait si fier de te voir ici aujourd'hui. Higan !<0D> Va voir le grand prêtre au sanctuaire de l'Ours de Feu !<0D> L'épée laissée par Byakuen doit s'y trouver. Higan,<0D> héros du Feu !<0D> Je t'en prie,<0D> ramène la paix à Jipang !
+
+[B071-S029]
+EN : <0C><17>The Eternal Flame now dwells within Higan! 
+He became the Hero of Fire!<18>
+FR : <0C><17>La Flamme éternelle habite désormais Higan ! Il est devenu le héros du Feu !<18>
+
+[B072-S001]
+EN : I am the elder of Firepoint Village.<0D> Here in this
+village is the Eternal Flame,<0D> the soul of Jipang.
+
+You might as well make yourself comfortable
+here,<0D> since you came all this way.
+FR : Je suis l'ancien du village de la Pointe du Feu.<0D> La Flamme éternelle,<0D> l'âme de Jipang.<0D> Elle se trouve ici. Puisque tu as fait tout ce chemin, prends donc le temps de te reposer.
+
+[B072-S002]
+EN : One who bears the will of the Eternal Flame is
+called a Hero of Fire,<0D> and is charged with the
+task of bringing peace to Jipang. 
+Higan...<0D> You are the Hero of Fire now,<0D> 
+and YOU must bring peace to Jipang!<0D> 
+That is the will of the Eternal Flame.<0D> 
+It's also the will of Byakuen,<0D> your
+grandfather.<0D> The Swordsman of Light!
+FR : Celui qui porte la volonté de la Flamme éternelle est appelé héros du Feu. <0D> Il a pour mission de ramener la paix à Jipang. Higan...<0D> Tu es maintenant le héros du Feu,<0D> et c'est À TOI de ramener la paix à Jipang !<0D> Telle est la volonté de la Flamme éternelle.<0D> C'est aussi celle de Byakuen,<0D> ton grand-père.<0D> Le Sabreur de Lumière !
+
+[B072-S003]
+EN : Higan!<0D> Go and visit with the head priest at the
+Fire Bear Shrine!<0D> The sword that Byakuen
+left should be there.
+Higan,<0D> Hero of Fire!<0D> Please,<0D> bring peace back
+to Jipang!
+FR : Higan !<0D> Va voir le grand prêtre au sanctuaire de l'Ours de Feu !<0D> L'épée laissée par Byakuen doit s'y trouver. Higan,<0D> héros du Feu !<0D> Je t'en prie,<0D> ramène la paix à Jipang !
+
+[B072-S004]
+EN : Oh,<0D> my!<0D> You're not from this village,<0D> are you?<0D>
+How rare...<0D> But still...<0D> It seems like I've seen
+you before,<0D> somewhere.
+FR : Oh,<0D> tiens ! <0D> Tu n'es pas du village,<0D> n'est-ce pas ?<0D> C'est rare... <0D> Mais tout de même...<0D> J'ai l'impression de t'avoir déjà vu <0D> quelque part.
+
+[B072-S005]
+EN : All who are born in this village must marry
+someone from this village,<0D> and bear children.<0D>
+That is the law here...
+But many people have broken that law and
+left.<0D> Your mother,<0D> Higan,<0D> was one such woman.
+
+She fell in love with a man who came to our
+village after he had suffered a horrible injury.
+
+They fell for each other,<0D> bound together
+in love...<0D> But someone walked in on them.<0D> 
+They were cast out of this village in shame. 
+I do not know what fate the two of them
+met...<0D> But I did not expect that you,<0D> their
+child,<0D> would become the Hero of Fire.
+FR : Quiconque naît dans ce village doit épouser quelqu'un du village,<0D> et avoir des enfants.<0D> Telle est notre loi... Mais beaucoup l'ont enfreinte et sont partis.<0D> Ta mère,<0D> Higan,<0D> était de ceux-là. Elle s'est éprise d'un homme arrivé chez nous après avoir été grièvement blessé. Ils s'aimaient,<0D><0D> unis par leur amour...<0D> Mais quelqu'un les a surpris. Ils ont été chassés du village dans la honte. J'ignore ce qu'ils sont devenus...<0D> Mais je ne m'attendais pas à ce que toi,<0D> leur enfant,<0D> tu deviennes le héros du Feu.
+
+[B072-S006]
+EN : Our Fire Clan is known as a clan straight out
+of legends.
+
+Six hundred years ago,<0D> our clan saved all of
+humanity,<0D> but we have been almost completely
+forgotten now.
+FR : Notre clan du Feu appartient aux légendes. Il y a six cents ans,<0D> notre clan a sauvé l'humanité entière,<0D> mais aujourd'hui, nous sommes presque oubliés.
+
+[B072-S007]
+EN : There was one other swordsman who went
+after Byakuen.<0D> I'm sure his name was...<0D>
+Shiranui.
+FR : Un autre sabreur est parti à la suite de Byakuen.<0D> Son nom était...<0D> Shiranui, j'en suis sûr.
+
+[B072-S008]
+EN : The king of Jipang is supposed to guard
+the seal upon the Gates of Hell...<0D> 
+
+But the young king,<0D> he's...
+
+
+In any case,<0D> I am sure that the Eternal Flame
+will designate a new king for us!
+FR : Le roi de Jipang est censé veiller sur le sceau des portes des Enfers...<0D> Mais le jeune roi,<0D> il... Quoi qu'il en soit,<0D> je suis certain que la Flamme éternelle nous désignera un nouveau roi !
+
+[B072-S009]
+EN : The Hero of Fire chosen by the Eternal Flame
+must have enough power to guard the seal
+upon the Gates of Hell...
+But the young king couldn't keep it sealed.<0D> 
+It's up to you now,<0D> Higan!<0D> That is the task
+that you must accomplish!
+Higan... You must seal the Gates of Hell and
+bring peace back to Jipang!
+FR : Le héros du Feu choisi par la Flamme éternelle doit être assez puissant pour garder le sceau des portes des Enfers... Mais le jeune roi n'a pas pu le préserver.<0D> Tout repose sur toi désormais,<0D> Higan !<0D> Voilà la tâche que tu dois accomplir ! Higan... Tu dois sceller les portes des Enfers et ramener la paix à Jipang !
+
+[B072-S010]
+EN : There are three special weapons that can
+only be used by a Hero of Fire<29><0D> a sword,<0D>
+an orb,<0D> and a mirror...
+If the three of them are equipped by the
+Heroes of Fire,<0D> they will reveal a very
+special power!
+FR : Trois armes particulières ne peuvent être utilisées que par un héros du Feu<29><0D> une épée,<0D> un orbe,<0D> et un miroir... Si les héros du Feu s'équipent de ces trois armes, <0D> elles révéleront un pouvoir très spécial !
+
+[B072-S011]
+EN : You're not from around here,<0D> are you?<0D> 
+Are you lost?
+FR : Tu n'es pas d'ici,<0D> n'est-ce pas ?<0D> Tu es perdu ?
+
+[B072-S012]
+EN : Higan,<0D> Hero of Fire!<0D> 
+Your mother broke the laws of this village!<0D> 
+You are the son of a traitor!
+But the will of the Eternal Flame is absolute.<0D>
+It has chosen you...<0D> And following the will of
+the Eternal Flame is the law of this village!
+FR : Higan,<0D> héros du Feu !<0D> Ta mère a enfreint les lois de ce village !<0D> Tu es le fils d'une traîtresse ! Mais la volonté de la Flamme éternelle est absolue.<0D> Elle t'a choisi...<0D> Et suivre sa volonté est la loi de ce village !
+
+[B072-S013]
+EN : Everyone is always going on about
+Takamagahara this,<0D> and the Heavens
+that...
+But if you ask me,<0D> it's better to keep your
+feet on the ground,<0D> not chase after some
+sort of dream.
+FR : Tout le monde parle sans cesse de Takamagahara par-ci,<0D> des Cieux par-là... Mais à mon avis,<0D> <0D> mieux vaut garder les pieds sur terre que courir après un rêve.
+
+[B072-S014]
+EN : You came here from outside the village,<0D> huh?<0D>
+There's not all that much to see here,<0D> but you
+can get some rest if you'd like.
+Will you rest here?
+FR : Tu viens de l'extérieur,<0D> hein ?<0D> Il n'y a pas grand-chose à voir ici,<0D> mais tu peux te reposer si tu veux. Veux-tu te reposer ?
+
+[B072-S015]
+EN : Come again whenever you feel tired.
+FR : Reviens dès que tu te sentiras fatigué.
+
+[B072-S016]
+EN : If it isn't Higan,<0D> the Hero of Fire!<0D> 
+Please,<0D> make yourself at home.
+
+Would you like to get some rest?
+FR : Mais c'est Higan,<0D> le héros du Feu !<0D> Je t'en prie,<0D> fais comme chez toi. Veux-tu te reposer ?
+
+[B072-S017]
+EN : Please come again,<0D> if you are tired!
+FR : Reviens nous voir,<0D> si tu es fatigué !
+
+[B074-S001]
+EN : <0C>What,<0D> what?<0D> The sword your grandfather
+left here?<0D> Did he ever leave such a thing?
+FR : <0C>Quoi,<0D> quoi ?<0D> L'épée que ton grand-père aurait laissée ici ?<0D> Il nous a laissé une épée ?
+
+[B074-S002]
+EN : <0C>Aha!<0D> It was ten years ago!<0D> I remember now!<0D> 
+I'm pretty sure it was put into storage in
+the eastern tower.
+But what do you plan to do with it?<0D> That
+sword might be a little too much for<0B>.<0B>.. <0D><0D><0D><0D><0C><0C>Huh!?
+FR : <0C>Ah !<0D> C'était il y a dix ans !<0D> Ça me revient !<0D> Je crois bien qu'on l'a rangée dans la tour est. Mais que comptes-tu en faire ?<0D> Cette épée est peut-être un peu trop pour<0B>.<0B>..<0D><0D><0D><0D><0C><0C>Hein !?
+
+[B074-S003]
+EN : <0C>Ohh!<0D> Higan!<0D> I can feel the power of fire!<0D> 
+It's true,<0D> isn't it?<0D> You are the Hero of Fire!<0D>
+You really DO take after your grandfather!<0D>
+So,<0D> that's how it is?<0D> I see!<0D> Yes,<0D> indeed!<0D> 
+You may take his sword with you!<0D> 
+I will open the door to the eastern tower!
+The sword your grandpa left should still be
+there.<0D> It's been quite a long time,<0D> though.
+
+It might have gone rusty after having been
+shut away for so long.
+FR : <0C>Oh !<0D> Higan !<0D> Je sens le pouvoir du Feu !<0D> C'est vrai,<0D> alors ?<0D> Tu es le héros du Feu !<0D> Tu tiens vraiment de ton grand-père !<0D> Alors,<0D> c'est donc ça ?<0D> Je vois !<0D> Oui,<0D> bien sûr !<0D> Tu peux emporter son épée !<0D> Je vais ouvrir la porte de la tour est ! L'épée de ton grand-père doit toujours y être.<0D> Mais cela fait si longtemps,<0D> maintenant. Elle a peut-être rouillé à force de rester enfermée.
+
+[B074-S004]
+EN : Your grandpa's sword should be in the eastern
+tower!<0D> Go and get it!
+FR : L'épée de ton grand-père doit être dans la tour est !<0D> Va la chercher !
+
+[B074-S005]
+EN : The divine fire bear has been sealed away by
+Hell's army!
+
+They've set up a castle on Ice Mountain,<0D> to
+the northeast,<0D> and from there they plan to
+reign over the Fire Bear Nation!
+There's nothing we can do,<0D> with the fire bear
+sealed away!
+FR : L'Ours de Feu divin a été scellé par l'armée des Enfers ! Ils ont construit un château sur le mont de Glace,<0D> au nord-est,<0D> et comptent régner de là sur le pays de l'Ours de Feu ! Nous ne pouvons rien faire,<0D> tant que l'Ours de Feu est prisonnier du sceau !
+
+[B074-S006]
+EN : The fire bear is back to normal now.<0D> I suppose
+this means that the Fire Bear Nation will be
+safe...<0D> Higan,<0D> Hero of Fire!
+Use that power of yours to protect Jipang,<0D>
+and rescue all of the divine beasts!
+FR : L'Ours de Feu est redevenu normal.<0D> Le pays de l'Ours de Feu devrait donc être en sécurité...<0D> Higan,<0D> héros du Feu ! Protège Jipang grâce à ce pouvoir,<0D> et délivre toutes les bêtes divines !
+
+[B074-S007]
+EN : <0C>Higan,<0D> Hero of Fire!<0D> Use that power of yours
+to protect Jipang,<0D> and rescue all of the divine
+beasts!
+FR : <0C>Higan,<0D> héros du Feu !<0D> Protège Jipang grâce à ce pouvoir,<0D> et délivre toutes les bêtes divines !
+
+[B074-S008]
+EN : That rusty sword is actually the fire bear
+sword!
+
+If you can restore it to its former glory,<0D> you
+might be able to defeat the monsters on Ice
+Mountain!
+FR : Cette épée rouillée est en fait l'épée de l'Ours de Feu ! Si tu lui rends sa splendeur d'antan,<0D> tu pourras peut-être vaincre les monstres du mont de Glace !
+
+[B074-S009]
+EN : I've got charms of the divine fire bear here!<0D>
+Would you like one?
+FR : J'ai des amulettes de l'Ours de Feu divin !<0D> En veux-tu une ?
+
+[B074-S010]
+EN : The fire bear has entrusted you with the
+power of justice...
+FR : L'Ours de Feu t'a confié le pouvoir de la justice...
+
+[B074-S011]
+EN : Is that so?<0D> Feel free to come again,<0D> whenever
+you wish!
+FR : Vraiment ?<0D> Reviens donc,<0D> quand tu le souhaites !
+
+[B074-S012]
+EN : <0C>Come,<0D> young man of the Fire Clan!<0D> 
+Equip the fire bear stone! 
+
+If you do,<0D> your blade of righteousness 
+will surely strike down your enemies!<0D> 
+
+Go forth,<0D> young man of the Fire Clan!<0D> 
+With the power of justice at your command,<0D>
+go and save the divine beasts!
+FR : <0C>Viens,<0D> jeune homme du clan du Feu !<0D> Équipe-toi de la pierre de l'Ours de Feu ! Ainsi,<0D> ta lame de justice abattra tes ennemis !<0D> Va,<0D> jeune homme du clan du Feu !<0D> Fort du pouvoir de la justice,<0D> pars délivrer les bêtes divines !
+
+[B074-S013]
+EN : <17>The divine fire bear has been sealed away.<18>
+FR : <17>L'Ours de Feu divin est prisonnier d'un sceau.<18>
+
+[B074-S014]
+EN : <0C>Oh,<0D> young man of the Fire Clan!<0D> I am the divine
+fire bear,<0D> the guardian of justice...
+
+Those who crawled from the depths of Hell
+have sealed away our powers,<0D> the power of
+the divine beasts.
+They have done this so that justice may not
+be served!<0D> There are six divine beasts in
+Jipang...
+The fire bear,<0D> the peacock,<0D> the crane,<0D> the
+turtle,<0D> the canine god,<0D> and the dragon have
+been sealed away.
+When we are sealed,<0D> humans do not know who
+to turn to,<0D> and are easily enslaved...<0D> Listen to
+me,<0D> young man of the Fire Clan!
+Once all six divine beasts have been saved,<0D> 
+the power of justice will return to this land!
+
+When the power returns to the six divine
+beasts,<0D> peace will reign again!<0D> Come,<0D> young man
+of the Fire Clan!<0D> Take this!
+FR : <0C>Ô,<0D> jeune homme du clan du Feu !<0D> Je suis l'Ours de Feu divin,<0D> gardien de la justice... Ceux qui ont surgi des profondeurs des Enfers ont scellé nos pouvoirs,<0D> ceux des bêtes divines. Ils veulent empêcher la justice de triompher !<0D> Jipang compte six bêtes divines... L'Ours de Feu,<0D> le Paon,<0D> la Grue,<0D> la Tortue,<0D> le Chien divin,<0D> et le Dragon sont prisonniers de sceaux. Ainsi privés de nous,<0D> les humains ne savent vers qui se tourner,<0D> et se laissent facilement asservir...<0D> Écoute-moi,<0D> jeune homme du clan du Feu ! Quand les six bêtes divines seront délivrées,<0D> le pouvoir de la justice reviendra en ce pays ! Quand nous aurons retrouvé nos pouvoirs,<0D> la paix régnera de nouveau !<0D> Viens,<0D> jeune homme du clan du Feu !<0D> Prends ceci !
+
+[B074-S015]
+EN : <0C>Oh,<0D> young man of the Fire Clan!<0D> I am the divine
+fire bear,<0D> the guardian of justice...<0D> They say
+that Agni's sword is in Hell!
+Will you cross through the Gates of Hell?<0D>
+Then you must break through Ninigi's barrier!<0D>
+Yes,<0D> it might be possible...
+If all six of us divine beasts cooperate...<0D> 
+Come,<0D> young man of the Fire Clan!<0D> Take this!
+FR : <0C>Ô,<0D> jeune homme du clan du Feu !<0D> Je suis l'Ours de Feu divin,<0D> gardien de la justice...<0D> On dit que l'épée d'Agni se trouve aux Enfers ! Comptes-tu franchir les portes des Enfers ?<0D> Tu devras alors briser la barrière de Ninigi !<0D> Oui,<0D> c'est peut-être possible... Si nous, les six bêtes divines, unissons nos forces...<0D> Viens,<0D> jeune homme du clan du Feu !<0D> Prends ceci !
+
+[B074-S016]
+EN : Young man of the Fire Clan!<0D> 
+Defeat Ninigi,<0D> and seal the Gates of Hell!
+FR : Jeune homme du clan du Feu !<0D> Vaincs Ninigi,<0D> et scelle les portes des Enfers !
+
+[B074-S017]
+EN : Young man of the Fire Clan,<0D> you must make
+haste!<0D> You must head to the Heavens!<0D>
+
+There,<0D> in Takamagahara,<0D> you will see 
+where your Fire Clan was born...<0D>
+
+It is the place where Agni,<0D> the goddess 
+who created the Fire Clan,<0D> now resides.<0D> 
+
+Hurry,<0D> young man of the Fire Clan!<0D>
+Head to Takamagahara!
+FR : Jeune homme du clan du Feu,<0D> hâte-toi !<0D> Tu dois gagner les Cieux !<0D> Là-bas,<0D> à Takamagahara,<0D> tu verras le berceau de ton clan du Feu...<0D> C'est là que demeure Agni,<0D> la déesse qui a créé le clan du Feu,<0D> aujourd'hui.<0D> Vite,<0D> jeune homme du clan du Feu !<0D> Pars pour Takamagahara !
+
+[B074-S018]
+EN : When the powers of all six stones held by the
+divine beasts come together,<0D> the barrier can
+be broken!<0D> 
+Go,<0D> young man of the Fire Clan!<0D> 
+Cross through the Gates of Hell!
+FR : Lorsque les pouvoirs des six pierres des bêtes divines seront réunis,<0D> la barrière pourra être brisée !<0D> Va,<0D> jeune homme du clan du Feu !<0D> Franchis les portes des Enfers !
+
+[B074-S019]
+EN : Listen to me,<0D> young man of the Fire Clan!<0D> 
+You must save all six divine beasts,<0D> if you wish
+to revive the power of justice!
+FR : Écoute-moi,<0D> jeune homme du clan du Feu !<0D> Tu dois délivrer les six bêtes divines,<0D> pour faire renaître le pouvoir de la justice !
+
+[B076-S001]
+EN : <0C>Grrrrrr...<0D> So you've come,<0D> Fire Clan!<0D> 
+You don't know how much trouble you're in!
+
+FR : <0C>Grrrrrr...<0D> Vous voilà donc,<0D> clan du Feu !<0D> Vous ignorez dans quel pétrin vous êtes !
+
+[B076-S002]
+EN : <0C>Everything in the Golden Castle was crafted
+through the power of my scientific genius!
+
+There is no way you could ever understand it,<0D>
+but my science is unbeatable!<0D> It's absolute
+perfection!
+Still,<0D> I'm sure you'll do your best,<0D> in any case...<0D>
+Grrrrrr...
+FR : <0C>Tout, dans le château d'Or, a été créé grâce à mon génie scientifique ! Vous ne pourriez jamais le comprendre,<0D> mais ma science est invincible !<0D> C'est la perfection absolue ! Enfin,<0D> vous ferez sûrement de votre mieux,<0D> quoi qu'il arrive...<0D> Grrrrrr...
+
+[B076-S003]
+EN : <17>Will you hang onto the chain to go up?<18>
+FR : <17>Voulez-vous vous accrocher à la chaîne pour monter ?<18>
+
+[B076-S004]
+EN : <17>Will you hang onto the chain to go down?<18>
+FR : <17>Voulez-vous vous accrocher à la chaîne pour descendre ?<18>
+
+[B079-S001]
+EN : Have you come here to mine for gold too?
+FR : Tu viens chercher de l'or, toi aussi ?
+
+[B079-S002]
+EN : Then you should start by buying a gold bag at
+the tool shop.<0D> You can't carry gold around
+without one!
+FR : Commence donc par acheter un sac à or au magasin d'outils.<0D> Sans ça, impossible d'emporter de l'or !
+
+[B079-S003]
+EN : Then why did you even bother coming here?
+FR : Alors pourquoi as-tu fait tout ce chemin ?
+
+[B079-S004]
+EN : Have you come here to mine for gold?
+FR : Tu viens chercher de l'or ?
+
+[B079-S005]
+EN : So,<0D> there are still folks like that around,<0D>
+huh?<0D> Everybody else has woken up.<0D> 
+Nobody's coming here for gold anymore!
+FR : Alors,<0D> il reste encore des gens comme toi,<0D> hein ?<0D> Tous les autres ont ouvert les yeux.<0D> Plus personne ne vient chercher de l'or ici !
+
+[B079-S006]
+EN : So then why did you even bother coming here?
+FR : Alors pourquoi as-tu fait tout ce chemin ?
+
+[B079-S007]
+EN : No!<0D> No!<0D> It's infested with goldkin bugs in there!<0D>
+There's no gold up ahead at all!
+FR : Non !<0D> Non !<0D> C'est infesté d'insectes mange-or !<0D> Il n'y a plus du tout d'or par là !
+
+[B079-S008]
+EN : They say that you can use the stuff in the
+buildings here as much as you want!<0D> It's a gift
+from Lord Kingin!<0D> Isn't that awesome?
+FR : On peut utiliser tout ce qu'il y a dans les bâtiments autant qu'on veut !<0D> C'est un cadeau du seigneur Kingin !<0D> C'est formidable, non ?
+
+[B079-S009]
+EN : Oh,<0D> are you heading into the gold mine?<0D> It's
+pretty complicated in there,<0D> so be careful.
+
+Just remember,<0D> if you're digging for gold,<0D> go
+down.<0D> If you're trying to leave,<0D> go up and out!<0D>
+That's the key to not getting lost!
+FR : Oh,<0D> tu vas à la mine d'or ?<0D> C'est un vrai labyrinthe,<0D> alors sois prudent. Souviens-toi,<0D> pour chercher de l'or,<0D> descends.<0D> Pour sortir,<0D> monte jusqu'à l'extérieur !<0D> Voilà le secret pour ne pas te perdre !
+
+[B079-S010]
+EN : Shit!<0D> They won't let me in because I'm not
+wearing a golden badge!?
+FR : Merde !<0D> Ils refusent de me laisser entrer parce que je ne porte pas d'insigne d'or !?
+
+[B079-S011]
+EN : Aww,<0D> for crying out loud!<0D> I put ten pieces of
+gold in my gold bag,<0D> and tried to use a flight
+stone!
+The gold bag tore open,<0D> and I lost all of the
+gold I'd collected!<0D> I've been really kicking
+myself for that!
+FR : Ah,<0D> bon sang !<0D> J'avais mis dix pépites d'or dans mon sac à or,<0D> et j'ai voulu utiliser une pierre d'envol ! Mon sac à or s'est déchiré,<0D> et j'ai perdu tout l'or que j'avais ramassé !<0D> Je m'en veux terriblement !
+
+[B079-S012]
+EN : Beep-boop...<0D> No golden badge detected!<0D> 
+Entry to gold mine denied! 
+
+Beep-boop...<0D> Go to Big Tiger Town
+and buy a golden badge!
+FR : Bip-boup...<0D> Aucun insigne d'or détecté !<0D> Accès à la mine d'or refusé. Bip-boup...<0D> Allez à la ville du Grand Tigre acheter un insigne d'or !
+
+[B079-S013]
+EN : Beep-boop...<0D> You have a golden badge.<0D> 
+You may enter the mine!
+FR : Bip-boup...<0D> Vous avez un insigne d'or.<0D> Vous pouvez entrer dans la mine !
+
+[B079-S014]
+EN : Beep-boop...<0D> You do not have a golden badge!<0D>
+You cannot enter the mine!
+
+Beep-boop...<0D> Head to Big Tiger Town
+and buy a golden badge there!
+FR : Bip-boup...<0D> Vous n'avez pas d'insigne d'or !<0D> Vous ne pouvez pas entrer dans la mine ! Bip-boup...<0D> Allez à la ville du Grand Tigre y acheter un insigne d'or !
+
+[B079-S015]
+EN : Beep-boop...<0D> You have a golden badge.<0D> 
+You may enter the mine!
+FR : Bip-boup...<0D> Vous avez un insigne d'or.<0D> Vous pouvez entrer dans la mine !
+
+[B084-S001]
+EN : Meow...
+FR : Miaou...
+
+[B084-S002]
+EN : I was watching...<0D> It's true that the canine god
+had a battle with Kingin...<0D> But Kingin was the
+only one who actually attacked!
+The canine god just...<0D> He just tried to calm
+Kingin down!<0D>
+
+He never countered a single attack,<0D> he just
+tried to make Kingin come to his senses...
+FR : J'ai tout vu...<0D> Le Chien divin s'est bien battu contre Kingin...<0D> Mais seul Kingin attaquait ! Le Chien divin...<0D> Il essayait seulement de le calmer !<0D> Il n'a jamais riposté,<0D> il voulait juste lui faire entendre raison...
+
+[B084-S003]
+EN : Oh!<0D> It's the Hero of Fire!<0D> Thank you for saving
+the canine god!<0D> The divine canine is waiting for
+you...<0D> Go ahead,<0D> Sir Higan!<0D> Hero of Fire!
+Go into the palace...
+FR : Oh !<0D> C'est le héros du Feu !<0D> Merci d'avoir délivré le Chien divin !<0D> Il vous attend...<0D> Allez-y,<0D> messire Higan !<0D> Héros du Feu ! Entrez dans le palais...
+
+[B084-S004]
+EN : Thank you for saving the divine canine,<0D>
+Hero of Fire.
+
+Six hundred years ago,<0D> the canine god fought
+against the Fire Clan at Lord Kingin's side.
+
+The two of them worked together to make
+the strongest weapon,<0D> the Ma-Djinn...
+
+The invincible Ma-Djinn,<0D> which could destroy
+all of their enemies...<0D> Yet Kingin seemed to
+rejoice in the slaughter.
+After seeing that side of his old friend,<0D> the
+canine god decided to hide the Ma-Djinn.<0D>
+
+He could not bear to see it turn his
+good friend turn into a demonic force
+of destruction.<0D>
+Kingin,<0D> not knowing the canine god's true
+intentions,<0D> despised him for it...<0D>
+
+But even now,<0D> after all that has happened,<0D>
+the canine god thinks of Kingin as his dearest
+friend.
+FR : Merci d'avoir délivré le Chien divin,<0D> héros du Feu. Il y a six cents ans,<0D> le Chien divin combattait le clan du Feu aux côtés du seigneur Kingin.<0D> Ensemble, ils ont créé l'arme la plus puissante,<0D> le Ma-Djinn... L'invincible Ma-Djinn, capable d'anéantir tous leurs ennemis...<0D> Mais Kingin semblait se réjouir du massacre. En découvrant cette facette de son vieil ami,<0D> le Chien divin décida de cacher le Ma-Djinn.<0D> Il ne supportait pas de voir cette arme transformer son ami en une force de destruction démoniaque.<0D> Kingin,<0D> ignorant ses véritables intentions,<0D> le prit en haine...<0D> Pourtant, aujourd'hui encore,<0D> malgré tout ce qui s'est passé,<0D> le Chien divin considère Kingin comme son ami le plus cher.
+
+[B084-S005]
+EN : The divine beast is waiting for you,<0D>
+Hero of Fire.<0D> Go and talk with him.<0D> 
+
+And if I may...<0D> Slay Ninigi,<0D> the ruler of Hell!<0D>
+Seal him behind its gates!
+FR : La bête divine vous attend,<0D> héros du Feu.<0D> Allez lui parler.<0D> Et si je puis me permettre...<0D> Abattez Ninigi,<0D> le maître des Enfers !<0D> Enfermez-le derrière leurs portes !
+
+[B084-S006]
+EN : The festival plaza is up ahead...<0D> But right
+now,<0D> we're not holding anything there.<0D> 
+It's just a vacant lot.<0D> 
+July 7th is the Star Festival!<0D> September 3rd
+is the Moon-watching Festival!<0D> These are the
+two festivals here at the Divine Canine Shrine!
+In February,<0D> June,<0D> and November,<0D> we hold
+temple fair days every Sunday...
+
+But it doesn't feel right to hold a festival
+with the canine god being in the shape he's in
+now,<0D> does it?
+FR : La place des fêtes est plus loin...<0D> Mais pour le moment,<0D> aucune fête n'y a lieu.<0D> Ce n'est qu'un terrain vide.<0D> Le 7 juillet, c'est la fête des Étoiles !<0D> Le 3 septembre, la fête de la Contemplation de la Lune !<0D> Voilà les deux fêtes du sanctuaire du Chien divin ! En février,<0D> juin,<0D> et novembre,<0D> il y a des foires du temple chaque dimanche... Mais avec le Chien divin dans cet état, nous n'avons pas le cœur à faire la fête, <0D> n'est-ce pas ?
+
+[B084-S007]
+EN : Today's the day that only happens once
+a year!<0D> It's time for the Star Festival!<0D> 
+
+Send your wishes to the stars!<0D> Go right
+over to the festival plaza,<0D> just ahead!<0D> 
+Enjoy yourselves!
+FR : Ce jour n'arrive qu'une fois par an !<0D> C'est la fête des Étoiles !<0D> Confiez vos vœux aux étoiles !<0D> La place des fêtes est juste devant !<0D> Allez-y !<0D> Amusez-vous bien !
+
+[B084-S008]
+EN : The shadow of the moon quietly wanes,<0D> then
+waxes to full...<0D> And our hearts wax with it.<0D>
+Today,<0D> we're holding the moon watching!<0D> 
+On the festival grounds,<0D> we can see the
+harvest moon become full from day to day! 
+
+Just head over to the festival plaza.<0D>
+It's right ahead!<0D> Enjoy yourselves!
+FR : L'ombre de la lune décroît doucement,<0D> puis elle s'arrondit jusqu'à la pleine lune...<0D> Et nos cœurs s'épanouissent avec elle.<0D> Aujourd'hui,<0D> nous contemplons la lune !<0D> Sur la place des fêtes,<0D> nous pouvons voir la lune des moissons s'arrondir de jour en jour ! Allez donc à la place des fêtes.<0D> C'est juste devant !<0D> Amusez-vous bien !
+
+[B084-S009]
+EN : The festival plaza is just ahead!<0D> Today,<0D> we're
+holding a temple fair!<0D> Please,<0D> enjoy yourselves!
+FR : La place des fêtes est juste devant !<0D> Aujourd'hui,<0D> il y a une foire du temple !<0D> Je vous en prie,<0D> amusez-vous bien !
+
+[B084-S010]
+EN : The festival plaza is up ahead...<0D> But right
+now,<0D> we're not holding anything there.<0D> 
+It's just a vacant lot.<0D> 
+July 7th is the Star Festival!<0D> September 3rd
+is the Moon-watching Festival!<0D> These are the
+two festivals here at the Divine Canine Shrine!
+In February,<0D> June,<0D> and November,<0D> we hold
+temple fair days every Sunday,<0D> too...
+FR : La place des fêtes est plus loin...<0D> Mais pour le moment,<0D> aucune fête n'y a lieu.<0D> Ce n'est qu'un terrain vide.<0D> Le 7 juillet, c'est la fête des Étoiles !<0D> Le 3 septembre, la fête de la Contemplation de la Lune !<0D> Voilà les deux fêtes du sanctuaire du Chien divin ! En février,<0D> juin,<0D> et novembre,<0D> il y a aussi des foires du temple chaque dimanche,<0D> ici...
+
+[B084-S011]
+EN : Can I interest you in any of the divine canine's
+charms?
+FR : Une amulette du Chien divin vous intéresse ?
+
+[B084-S012]
+EN : The canine god is the god of friendship!<0D> 
+The divine canine's friendship lasts forever!<0D> 
+Now let's all join hands and sing his praises!
+FR : Le Chien divin est le dieu de l'amitié !<0D> Son amitié dure toujours !<0D> Unissons nos mains et chantons ses louanges !
+
+[B084-S013]
+EN : Is that so...?<0D> Well,<0D> you can't put a price on his
+friendship!<0D> Let me know when you need any of
+these!
+FR : Vraiment... ?<0D> Eh bien,<0D> son amitié n'a pas de prix !<0D> Dites-moi si vous avez besoin de ces amulettes !
+
+[B084-S014]
+EN : The canine god is the god of friendship!<0D> 
+Kingin and the canine god were old friends!
+
+That's why he said we can leave the shrine
+as it is now! They were enemies,<0D> though!
+
+Is the divine canine so friendly that he's
+even trying to be friends with his enemies?<0D>
+It makes no sense to me!
+FR : Le Chien divin est le dieu de l'amitié !<0D> Kingin et lui étaient de vieux amis ! C'est pour ça qu'il a dit qu'on pouvait laisser le sanctuaire tel quel ! Pourtant, ils étaient ennemis,<0D> tous les deux ! Le Chien divin est-il si amical qu'il essaie même de se lier à ses ennemis ?<0D> Ça me dépasse !
+
+[B084-S015]
+EN : <17>The divine canine has been sealed away.<18>
+FR : <17>Le Chien divin est prisonnier d'un sceau.<18>
+
+[B084-S016]
+EN : <17>This is the cleansing area. 
+Will you wash your hands here?<18>
+FR : <17>Voici le lieu de purification. Voulez-vous vous laver les mains ?<18>
+
+[B085-S001]
+EN : <17>This is a statue of Ninigi, the ruler of Hell!<18>
+FR : <17>C'est une statue de Ninigi, le maître des Enfers !<18>
+
+[B085-S002]
+EN : Six hundred years ago,<0D> during the war with
+the Fire Clan,<0D> Ninigi,<0D> the ruler of Hell,<0D> made
+a foolish claim.
+He claimed that the victors would determine
+what was just and what was not!
+
+Hearing this,<0D> Kingin used the Ma-Djinn to kill
+the people of the Fire Clan,<0D> turning a blind eye
+to the humans who got caught up in the battle!<0D>
+I sealed away the Ma-Djinn in the djinn's
+waterfall because I wanted to protect
+those humans!
+I also did not want to watch Kingin kill his own
+people.<0D> That is the only reason I did it...
+
+It is not that I wished to align myself with
+the Fire Clan.<0D> I just wanted to protect
+these people,<0D> my people...
+FR : Il y a six cents ans,<0D> pendant la guerre contre le clan du Feu,<0D> Ninigi,<0D> le maître des Enfers,<0D> tint des propos insensés. Selon lui, seuls les vainqueurs décideraient de ce qui était juste ou injuste ! À ces mots,<0D> Kingin utilisa le Ma-Djinn pour tuer les membres du clan du Feu,<0D> sans se soucier des humains pris dans les combats !<0D> J'ai scellé le Ma-Djinn dans la cascade du Djinn pour protéger ces humains ! Je ne voulais pas non plus voir Kingin massacrer mon peuple.<0D> Voilà mon unique raison... Je ne cherchais pas à rallier le clan du Feu.<0D> Je voulais seulement protéger ces gens,<0D> mon peuple...
+
+[B085-S003]
+EN : <0C>Mizuki!<0D> In a similar fashion,<0D> you left Ninigi,<0D>
+because of your love for Tenjin...
+FR : <0C>Mizuki !<0D> De la même manière,<0D> tu as quitté Ninigi,<0D> par amour pour Tenjin...
+
+[B085-S004]
+EN : With the power of the stones of the six divine
+beasts,<0D> you will be able to break through
+Ninigi's barrier!
+I do not mean to lend power to the Fire Clan...<0D>
+I mean only to protect my people,<0D> these
+humans. 
+Go now!<0D> On behalf of the humans!<0D>
+On behalf of all the lives in Jipang!
+FR : Grâce aux pierres des six bêtes divines,<0D> vous pourrez briser la barrière de Ninigi ! Je ne cherche pas à aider le clan du Feu...<0D> Je veux seulement protéger mon peuple,<0D> ces humains. Allez !<0D> Pour les humains !<0D> Pour toutes les vies de Jipang !
+
+[B085-S005]
+EN : I lack the power to defend my people here.<0D> 
+I can do nothing but rely upon the Fire Clan.<0D>
+There must be something else I can do... 
+If not,<0D> I am unsure if I will be able to atone
+for the death of my friend.
+FR : Je n'ai pas la force de défendre mon peuple.<0D> Je ne peux que m'en remettre au clan du Feu.<0D> Il doit y avoir autre chose que je puisse faire... Sinon,<0D> j'ignore si je pourrai expier la mort de mon ami.
+
+[B085-S006]
+EN : I do not mean to lend power to the Fire Clan.<0D> 
+I mean only to protect my people,<0D> these
+humans.<0D> 
+Go now,<0D> on behalf of the humans!<0D> 
+Go on behalf of all the lives in Jipang!<0D> 
+
+Perhaps the peace that you achieve will
+provide comfort to my late friend Byakko,<0D>
+the white tiger.<0D> 
+Perhaps it will provide some comfort
+to my own soul,<0D> as well.
+FR : Je ne cherche pas à aider le clan du Feu.<0D> Je veux seulement protéger mon peuple,<0D> ces humains.<0D> Allez,<0D> pour les humains !<0D> Pour toutes les vies de Jipang !<0D> Peut-être que la paix que vous ramènerez apaisera mon défunt ami Byakko,<0D> le Tigre blanc.<0D> Peut-être apaisera-t-elle aussi mon âme,<0D> à moi.
+
+[B085-S007]
+EN : <0C>My soul is unlike your kind in the Fire Clan.<0D> 
+I left Ninigi to protect my people,<0D> the humans.<0D> 
+In doing this,<0D> I betrayed my friend.
+But I would never kill him...<0D> Regardless of
+what has happened,<0D> my feelings of friendship
+for him will always remain.
+Young man of the Fire Clan,<0D> I see that you will
+stand to oppose Ninigi,<0D> the ruler of Hell...<0D> 
+You will need to break through Ninigi's barrier.
+Take this,<0D> the canine god stone...<0D> 
+My power is sealed within it.
+FR : <0C>Mon âme diffère de la vôtre, clan du Feu.<0D> J'ai quitté Ninigi pour protéger mon peuple,<0D> les humains.<0D> Ce faisant,<0D> j'ai trahi mon ami. Mais jamais je ne le tuerais...<0D> Quoi qu'il arrive,<0D> mon amitié pour lui demeurera. Jeune homme du clan du Feu,<0D> tu comptes t'opposer à Ninigi,<0D> le maître des Enfers...<0D> Tu devras briser sa barrière. Prends ceci,<0D> la pierre du Chien divin...<0D> Mon pouvoir y est scellé.
+
+[B085-S008]
+EN : <0C>Awooooooooh!<0D> The Fire Clan has come again,<0D>
+I see...?
+
+Allow me to express my gratitude to you once
+more,<0D> since your clan protected my people and
+the divine beasts six hundred years ago.
+But you have now defeated my friend...<0D> 
+I have lost a friend very dear to me.<0D> 
+Oh,<0D> Kingin...<0D> No,<0D> Byakko,<0D> the white tiger.
+He was my closest friend.<0D> My soul is unlike
+your kind in the Fire Clan.<0D> I left Ninigi to
+protect my people,<0D> the humans...
+That caused me to betray my friend...<0D> 
+But I would never kill him...<0D> My feelings
+of friendship for him will always remain.
+Young man of the Fire Clan,<0D> I see that you will
+stand to oppose Ninigi,<0D> the ruler of Hell...
+
+So go forth,<0D> and take this,<0D> the canine god
+stone.<0D> My power is sealed within it.
+FR : <0C>Aouuuuuuh !<0D> Le clan du Feu revient,<0D> à ce que je vois... ? Permettez-moi de vous remercier encore,<0D> car votre clan a protégé mon peuple et les bêtes divines il y a six cents ans. Mais vous avez maintenant vaincu mon ami...<0D> J'ai perdu un ami très cher.<0D> Oh,<0D> Kingin...<0D> Non,<0D> Byakko,<0D> le Tigre blanc. C'était mon plus proche ami.<0D> Mon âme diffère de la vôtre, clan du Feu.<0D> J'ai quitté Ninigi pour protéger mon peuple,<0D> les humains... Cela m'a conduit à trahir mon ami...<0D> Mais jamais je ne le tuerais...<0D> Mon amitié pour lui demeurera. Jeune homme du clan du Feu,<0D> tu comptes t'opposer à Ninigi,<0D> le maître des Enfers... Alors va,<0D> et prends ceci,<0D> la pierre du Chien divin.<0D> Mon pouvoir y est scellé.
+
+[B085-S009]
+EN : <0C>I do not mean to lend power to the Fire Clan...<0D>
+I mean only to protect my people,<0D> these
+humans.<0D> Go now!<0D> On behalf of the humans!
+Go on behalf of all the lives in Jipang!
+FR : <0C>Je ne cherche pas à aider le clan du Feu...<0D> Je veux seulement protéger mon peuple,<0D> ces humains.<0D> Allez !<0D> Pour les humains ! Pour toutes les vies de Jipang !
+
+[B085-S010]
+EN : <0C>I do not mean to lend power to the Fire Clan...<0D>
+I mean only to protect my people,<0D> these
+humans.<0D> Go now!<0D> On behalf of the humans!
+Go on behalf of all the lives in Jipang!
+FR : <0C>Je ne cherche pas à aider le clan du Feu...<0D> Je veux seulement protéger mon peuple,<0D> ces humains.<0D> Allez !<0D> Pour les humains ! Pour toutes les vies de Jipang !
+
+[B085-S011]
+EN : <17>It's a statue of Ninigi, the ruler of Hell!<18>
+FR : <17>C'est une statue de Ninigi, le maître des Enfers !<18>
+
+[B182-S001]
+EN : <0C>In the far east,<0D> there is a land called Jipang.<0D>
+It is divided into six nations,<0D> but these divisions
+only serve to make it shine all the more.
+In accordance with the ancient customs of 
+the land,<0D> Jipang is governed by the king of 
+the Dragon Kingdom.
+FR : <0C>Tout à l'est,<0D> s'étend une terre nommée Jipang.<0D> Elle se compose de six pays,<0D> dont la diversité ne fait qu'accroître son éclat. Selon les coutumes ancestrales,<0D> Jipang est gouverné par le roi du royaume du Dragon.
+
+[B182-S002]
+EN : <0C>Your Majesty!<0D> Congratulations!
+FR : <0C>Votre Majesté !<0D> Félicitations !
+
+[B182-S003]
+EN : <0C>All hail the new king of the Dragon Kingdom!
+FR : <0C>Vive le nouveau roi du royaume du Dragon !
+
+[B182-S004]
+EN : <0C>Thank you...<0D> But I must say,<0D> I never expected
+that my older brother would be disregarded.
+
+The very notion that I would take the
+throne is...<0D> surprising,<0D> to say the least.
+FR : <0C>Merci...<0D> Mais je dois l'avouer,<0D> je ne pensais pas que mon frère aîné serait écarté.
+
+L'idée même de monter sur le trône est...<0D> surprenante,<0D> pour le moins.
+
+[B182-S005]
+EN : <0C>The Eternal Flame has chosen you,<0D> in spite 
+of your youth,<0D> to reign as the king,<0D> and as
+custom has dictated throughout the ages...<0D>
+Only the one entrusted with the Eternal Flame
+may reign as the king of the Dragon Kingdom.
+FR : <0C>La Flamme éternelle vous a choisi,<0D> malgré votre jeunesse,<0D> pour régner,<0D> conformément à la coutume qui traverse les âges...<0D> Seul celui à qui elle est confiée peut régner sur le royaume du Dragon.
+
+[B182-S006]
+EN : .<0D>.<0D>.
+FR : .<0D>.<0D>.
+
+[B182-S007]
+EN : <0C>To our new king!<0D> Our young lord!<0D> Banzaaaaai!
+FR : <0C>Vive notre nouveau roi !<0D> Notre jeune seigneur !<0D> Banzaaaaï !
+
+[B182-S008]
+EN : <0C>Ugggggh...<0D> Ninigi is calling out to me...<0D>
+Urrrrgh...
+FR : <0C>Grrrr...<0D> Ninigi m'appelle...<0D> Argh...
+
+[B182-S009]
+EN : <0C>You know,<0D> Ninigi!<0D> You KNOW how much I despise
+him!<0D> You must hate my brother sitting upon the
+throne as much as I!
+FR : <0C>Tu le sais,<0D> Ninigi !<0D> Tu SAIS combien je le déteste !<0D> Tu dois haïr mon frère sur le trône autant que moi !
+
+[B182-S010]
+EN : <0C>I am the TRUE king of this land!<0D> As the elder
+prince,<0D> the throne of the Dragon Kingdom is
+mine by DEFAULT!<0D> I am the ruler of Jipang!
+FR : <0C>Je suis le VRAI roi de cette terre !<0D> En tant que prince aîné,<0D> le trône du royaume du Dragon me revient de DROIT !<0D> Je suis le maître de Jipang !
+
+[B182-S011]
+EN : <0C>Yes...<0D> That's right.<0D> You know this to be true,<0D>
+Ninigi!<0D> We must kill the young <11>king!<11>
+FR : <0C>Oui...<0D> C'est ça.<0D> Tu le sais bien,<0D> Ninigi !<0D> Nous devons tuer le jeune <11>roi !<11>
+
+[B182-S012]
+EN : <0C><11>The Gates of Hell,<0D> sealed for six hundred
+years...?<11><0D> Now that's a lie,<0D> if I ever heard one.
+FR : <0C><11>Les portes des Enfers,<0D> scellées depuis six cents ans... ?<11><0D> Voilà un beau mensonge,<0D> à mon avis.
+
+[B182-S013]
+EN : <0C>Hey!<0D> His Majesty would most certainly
+admonish you if he heard you saying that!
+FR : <0C>Hé !<0D> Sa Majesté te réprimanderait si elle t'entendait dire ça !
+
+[B182-S014]
+EN : <0C>I can't say this too loud,<0D> of course...<0D> 
+But I have a feeling that the young king's 
+older brother has it in for him.
+FR : <0C>Je ne peux pas le dire trop fort,<0D> bien sûr...<0D> Mais j'ai l'impression que le frère aîné du jeune roi lui en veut.
+
+[B182-S015]
+EN : <0C>No,<0D> don't even start with that nonsense.
+FR : <0C>Non,<0D> ne commence pas avec ces sottises.
+
+[B182-S016]
+EN : <0C>If what I heard is true,<0D> the elder prince was
+set to become the king of the Dragon Kingdom.
+
+But in accordance with the oracle of the
+Eternal Flame,<0D> the young lord took his place.
+FR : <0C>Si ce que j'ai entendu est vrai,<0D> le prince aîné devait devenir roi.
+
+Mais l'oracle de la Flamme éternelle a désigné notre jeune seigneur,<0D> à sa place.
+
+[B182-S017]
+EN : <0C>That's gonna ruffle a few feathers,<0D> yeah?<0D>
+Something is going to come of it,<0D> too.<0D>
+Something bad...<0D> Mark my words.
+FR : <0C>Ça va faire grincer des dents,<0D> hein ?<0D> Et il va se passer quelque chose,<0D> aussi.<0D> Quelque chose de mauvais...<0D> Souviens-toi de mes mots.
+
+[B182-S018]
+EN : <0C>I know,<0D> Ninigi...<0D> All I need to do is open
+the gates,<0D> right!?<0D> Hahahahaha...
+FR : <0C>Je sais,<0D> Ninigi...<0D> Il me suffit d'ouvrir les portes,<0D> c'est ça !?<0D> Hahahahaha...
+
+[B182-S019]
+EN : <0C>Ninigi,<0D> the ruler of Hell,<0D> wormed his way into
+the would-be king's twisted heart,<0D> and broke
+the seal on the Gates of Hell.
+FR : <0C>Ninigi,<0D> maître des Enfers,<0D> s'insinua dans le cœur corrompu du prétendant au trône,<0D> et brisa le sceau des portes des Enfers.
+
+[B182-S020]
+EN : <0C>The seal upon the Gates of Hell has been
+broken!
+FR : <0C>Le sceau des portes des Enfers est brisé !
+
+[B182-S021]
+EN : <0C>Come forth,<0D> Ninigi!<0D> Fill me with your power!
+FR : <0C>Viens,<0D> Ninigi !<0D> Emplis-moi de ton pouvoir !
+
+[B182-S022]
+EN : <0C>What are you doing,<0D> my brother!?
+FR : <0C>Que fais-tu,<0D> mon frère !?
+
+[B182-S023]
+EN : <0C>That's enough out of you! 
+
+
+You are in no position to give me any orders,<0D>
+little brother!<0D> I am the king of this land!<0D> 
+I am the ruler of Jipang!
+FR : <0C>Assez !
+
+
+Tu n'as aucun ordre à me donner,<0D> petit frère !<0D> Je suis le roi de cette terre !<0D> Je suis le maître de Jipang !
+
+[B182-S024]
+EN : <0C>Ninigi told me,<0D> you see!<0D> Ninigi said that I could
+be king...<0D> if I simply opened the Gates of Hell!<0D>
+Wahahahaha!
+FR : <0C>Ninigi me l'a dit,<0D> vois-tu !<0D> Il a dit que je pourrais être roi...<0D> si j'ouvrais simplement les portes des Enfers !<0D> Ouahahahaha !
+
+[B182-S025]
+EN : <0C>Then,<0D> the so-called king was robbed of his
+flesh,<0D> and of Agni's sword,<0D> which had been
+keeping the Gates of Hell sealed.
+FR : <0C>Alors,<0D> le prétendu roi fut dépouillé de son corps,<0D> et de l'épée d'Agni,<0D> qui maintenait les portes des Enfers scellées.
+
+[B182-S026]
+EN : <0C>Ohhh!<0D> Such power!<0D> 
+Such power is swelling within me!
+FR : <0C>Oh !<0D> Quel pouvoir !<0D> Cette puissance grandit en moi !
+
+[B182-S027]
+EN : <0C>Die,<0D> little brother!
+FR : <0C>Meurs,<0D> petit frère !
+
+[B182-S028]
+EN : <0C>Urgh!<0D> Oh,<0D> my brother...<0D> 
+Killing me will not change anything...<0D> 
+The Eternal Flame will not be extinguished...
+FR : <0C>Argh !<0D> Oh,<0D> mon frère...<0D> Me tuer ne changera rien...<0D> La Flamme éternelle ne s'éteindra pas...
+
+[B182-S029]
+EN : <0C>Jipang belongs to me!<0D> For I am Lord Ninigi!
+FR : <0C>Jipang m'appartient !<0D> Car je suis le seigneur Ninigi !
+
+[B182-S030]
+EN : <0C>Hahahahahahahah!
+FR : <0C>Hahahahahahahah !
+
+[B182-S031]
+EN : <0C>By the hand of Ninigi,<0D> Agni's sword was cast
+into the Gates of Hell,<0D> and was swallowed up
+into the depths.
+FR : <0C>Ninigi jeta l'épée d'Agni dans les portes des Enfers,<0D> où elle fut engloutie,<0D> au plus profond des ténèbres.

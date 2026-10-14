@@ -1,10 +1,10 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "9f5bf6947bae3c165f6ac52698589bafd8e0bb45e238d9ec9b5c969930ee81dc",
-  "translated_entries": 437,
-  "new_entries": 63,
-  "previously_integrated": 374,
-  "integrated_entries": 437,
+  "output_sha256": "8c0372385fc2e4701b2b92a0350b208f80414b022de690b7ba12951c25319e5f",
+  "translated_entries": 502,
+  "new_entries": 65,
+  "previously_integrated": 437,
+  "integrated_entries": 502,
   "blocks": [
     {
       "block_ids": [
@@ -408,10 +408,92 @@
     },
     {
       "block_ids": [
+        74
+      ],
+      "source": "0x6382e1",
+      "destination": "0x6c1b00",
+      "old_size": 3755,
+      "new_size": 3693,
+      "translated": 19,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0C50"
+      ],
+      "new_relative_offsets": [
+        4,
+        3108
+      ]
+    },
+    {
+      "block_ids": [
+        76
+      ],
+      "source": "0x63aa37",
+      "destination": "0x6c2a00",
+      "old_size": 432,
+      "new_size": 458,
+      "translated": 4,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        79
+      ],
+      "source": "0x63b6a4",
+      "destination": "0x6c2c00",
+      "old_size": 1521,
+      "new_size": 1582,
+      "translated": 15,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        84
+      ],
+      "source": "0x63d064",
+      "destination": "0x6c3300",
+      "old_size": 3366,
+      "new_size": 3375,
+      "translated": 16,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        85
+      ],
+      "source": "0x63dd8a",
+      "destination": "0x6c4100",
+      "old_size": 3222,
+      "new_size": 2969,
+      "translated": 11,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
-      "destination": "0x6c1b00",
+      "destination": "0x6c4e00",
       "old_size": 2943,
       "new_size": 2795,
       "translated": 31,
@@ -425,7 +507,7 @@
       ]
     }
   ],
-  "engine_checks": 823,
+  "engine_checks": 888,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
