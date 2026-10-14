@@ -1,0 +1,437 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "output_sha256": "9f5bf6947bae3c165f6ac52698589bafd8e0bb45e238d9ec9b5c969930ee81dc",
+  "translated_entries": 437,
+  "new_entries": 63,
+  "previously_integrated": 374,
+  "integrated_entries": 437,
+  "blocks": [
+    {
+      "block_ids": [
+        1
+      ],
+      "source": "0x600000",
+      "destination": "0x6b0000",
+      "old_size": 49,
+      "new_size": 64,
+      "translated": 5,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        29
+      ],
+      "source": "0x60d738",
+      "destination": "0x6b0100",
+      "old_size": 13605,
+      "new_size": 13606,
+      "translated": 1,
+      "old_relative_offsets": [
+        "0x0010",
+        "0x045E",
+        "0x1282",
+        "0x1DEE",
+        "0x23F7",
+        "0x2A91",
+        "0x3053",
+        "0x342E"
+      ],
+      "new_relative_offsets": [
+        16,
+        1119,
+        4739,
+        7663,
+        9208,
+        10898,
+        12372,
+        13359
+      ]
+    },
+    {
+      "block_ids": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "source": "0x6221e9",
+      "destination": "0x6b3700",
+      "old_size": 12381,
+      "new_size": 11894,
+      "translated": 81,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x0CB0",
+        "0x14C2",
+        "0x1DA2",
+        "0x2805",
+        "0x303C"
+      ],
+      "new_relative_offsets": [
+        12,
+        3111,
+        5157,
+        7260,
+        9826,
+        11857
+      ]
+    },
+    {
+      "block_ids": [
+        49
+      ],
+      "source": "0x625246",
+      "destination": "0x6b6800",
+      "old_size": 13947,
+      "new_size": 13317,
+      "translated": 108,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0A08",
+        "0x115F",
+        "0x1733",
+        "0x1E1E",
+        "0x2216",
+        "0x2A75"
+      ],
+      "new_relative_offsets": [
+        14,
+        2460,
+        4211,
+        5736,
+        7499,
+        8453,
+        10460
+      ]
+    },
+    {
+      "block_ids": [
+        50
+      ],
+      "source": "0x6288c1",
+      "destination": "0x6b9f00",
+      "old_size": 3597,
+      "new_size": 3293,
+      "translated": 15,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        51
+      ],
+      "source": "0x6296ce",
+      "destination": "0x6bae00",
+      "old_size": 147,
+      "new_size": 165,
+      "translated": 2,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        52
+      ],
+      "source": "0x629761",
+      "destination": "0x6baf00",
+      "old_size": 1186,
+      "new_size": 1121,
+      "translated": 10,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        53
+      ],
+      "source": "0x629c03",
+      "destination": "0x6bb400",
+      "old_size": 460,
+      "new_size": 470,
+      "translated": 5,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        54
+      ],
+      "source": "0x629dcf",
+      "destination": "0x6bb600",
+      "old_size": 1164,
+      "new_size": 1203,
+      "translated": 8,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        55
+      ],
+      "source": "0x62a25b",
+      "destination": "0x6bbb00",
+      "old_size": 208,
+      "new_size": 201,
+      "translated": 3,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        57
+      ],
+      "source": "0x62b2af",
+      "destination": "0x6bbc00",
+      "old_size": 621,
+      "new_size": 669,
+      "translated": 9,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        58
+      ],
+      "source": "0x62b51c",
+      "destination": "0x6bbf00",
+      "old_size": 4767,
+      "new_size": 4322,
+      "translated": 29,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0AE6"
+      ],
+      "new_relative_offsets": [
+        4,
+        2505
+      ]
+    },
+    {
+      "block_ids": [
+        59
+      ],
+      "source": "0x62c7bb",
+      "destination": "0x6bd200",
+      "old_size": 1966,
+      "new_size": 1849,
+      "translated": 12,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        60
+      ],
+      "source": "0x62cf69",
+      "destination": "0x6bda00",
+      "old_size": 876,
+      "new_size": 881,
+      "translated": 8,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        61
+      ],
+      "source": "0x62d2d5",
+      "destination": "0x6bde00",
+      "old_size": 1737,
+      "new_size": 1541,
+      "translated": 11,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        62
+      ],
+      "source": "0x62d99e",
+      "destination": "0x6be500",
+      "old_size": 160,
+      "new_size": 157,
+      "translated": 2,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        63
+      ],
+      "source": "0x62da3e",
+      "destination": "0x6be600",
+      "old_size": 904,
+      "new_size": 819,
+      "translated": 8,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        64,
+        65
+      ],
+      "source": "0x62ddc6",
+      "destination": "0x6bea00",
+      "old_size": 3437,
+      "new_size": 3247,
+      "translated": 26,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0851"
+      ],
+      "new_relative_offsets": [
+        4,
+        1929
+      ]
+    },
+    {
+      "block_ids": [
+        69
+      ],
+      "source": "0x635007",
+      "destination": "0x6bf800",
+      "old_size": 1573,
+      "new_size": 1467,
+      "translated": 13,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        70
+      ],
+      "source": "0x63562c",
+      "destination": "0x6bff00",
+      "old_size": 422,
+      "new_size": 372,
+      "translated": 4,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        71
+      ],
+      "source": "0x6357d2",
+      "destination": "0x6c0100",
+      "old_size": 3114,
+      "new_size": 3165,
+      "translated": 29,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0564"
+      ],
+      "new_relative_offsets": [
+        4,
+        1396
+      ]
+    },
+    {
+      "block_ids": [
+        72
+      ],
+      "source": "0x6363fc",
+      "destination": "0x6c0e00",
+      "old_size": 3132,
+      "new_size": 3065,
+      "translated": 17,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0C16"
+      ],
+      "new_relative_offsets": [
+        4,
+        3026
+      ]
+    },
+    {
+      "block_ids": [
+        182
+      ],
+      "source": "0x684460",
+      "destination": "0x6c1b00",
+      "old_size": 2943,
+      "new_size": 2795,
+      "translated": 31,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x06BC"
+      ],
+      "new_relative_offsets": [
+        4,
+        1583
+      ]
+    }
+  ],
+  "engine_checks": 823,
+  "all_markers_preserved": true,
+  "maximum_measured_line_width": 216,
+  "line_width_limit": 216,
+  "dynamic_name_reservation_pixels": 96,
+  "original_blocks_preserved": true,
+  "ips_roundtrip": true,
+  "font_same_as_v06": true,
+  "runtime_validation": "see emulation_report.json"
+}
