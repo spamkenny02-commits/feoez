@@ -1,0 +1,169 @@
+{
+  "rom_sha256": "f59a2c324483bf3cc7c97b6832ebe2f88f3330038c51783a7f098b766bd6b005",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "13c68e2bed2fc0df6eab68d2370e5f0a9bf10c4a03d59632a73e7eac39e50206",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B155-S001",
+      "case": "royaume_dragon",
+      "expected_terminator": "0x4b8caf",
+      "observed_terminators": [
+        "0x4b8caf"
+      ],
+      "native_read_complete": true,
+      "captures": 1924,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "royaume_dragon_00.png",
+        "royaume_dragon_01.png",
+        "royaume_dragon_02.png",
+        "royaume_dragon_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B156-S001",
+      "case": "royaume_alias",
+      "expected_terminator": "0x4b8caf",
+      "observed_terminators": [
+        "0x4b8caf"
+      ],
+      "native_read_complete": true,
+      "captures": 1924,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "royaume_alias_00.png",
+        "royaume_alias_01.png",
+        "royaume_alias_02.png",
+        "royaume_alias_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B155-S004",
+      "case": "message_shiranui",
+      "expected_terminator": "0x4b8e28",
+      "observed_terminators": [
+        "0x4b8e28"
+      ],
+      "native_read_complete": true,
+      "captures": 1022,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "message_shiranui_00.png",
+        "message_shiranui_01.png",
+        "message_shiranui_02.png",
+        "message_shiranui_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B155-S008",
+      "case": "statue_ninigi",
+      "expected_terminator": "0x4b911a",
+      "observed_terminators": [
+        "0x4b911a"
+      ],
+      "native_read_complete": true,
+      "captures": 1794,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "statue_ninigi_00.png",
+        "statue_ninigi_01.png",
+        "statue_ninigi_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B155-S012",
+      "case": "directions",
+      "expected_terminator": "0x4b92c2",
+      "observed_terminators": [
+        "0x4b92c2"
+      ],
+      "native_read_complete": true,
+      "captures": 1914,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "directions_00.png",
+        "directions_01.png",
+        "directions_02.png",
+        "directions_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B157-S003",
+      "case": "caractere_dragon",
+      "expected_terminator": "0x4b9522",
+      "observed_terminators": [
+        "0x4b9522"
+      ],
+      "native_read_complete": true,
+      "captures": 969,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "caractere_dragon_00.png",
+        "caractere_dragon_01.png",
+        "caractere_dragon_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B157-S007",
+      "case": "sanctuaire_nord_est",
+      "expected_terminator": "0x4b98dc",
+      "observed_terminators": [
+        "0x4b98dc"
+      ],
+      "native_read_complete": true,
+      "captures": 1001,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "sanctuaire_nord_est_00.png",
+        "sanctuaire_nord_est_01.png",
+        "sanctuaire_nord_est_02.png",
+        "sanctuaire_nord_est_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B157-S008",
+      "case": "victoire_shiranui",
+      "expected_terminator": "0x4b99ba",
+      "observed_terminators": [
+        "0x4b99ba"
+      ],
+      "native_read_complete": true,
+      "captures": 1919,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "victoire_shiranui_00.png",
+        "victoire_shiranui_01.png",
+        "victoire_shiranui_02.png",
+        "victoire_shiranui_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B157-S009",
+      "case": "royaume_chaos",
+      "expected_terminator": "0x4b9a9c",
+      "observed_terminators": [
+        "0x4b9a9c"
+      ],
+      "native_read_complete": true,
+      "captures": 2061,
+      "visual_review": "reviewed: readable accents, names, directions, native pages and ending",
+      "review_images": [
+        "royaume_chaos_00.png",
+        "royaume_chaos_01.png",
+        "royaume_chaos_02.png",
+        "royaume_chaos_ending.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 34
+}

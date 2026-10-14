@@ -363,3 +363,13 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Chansons B149-S001/S006 conservées en anglais avec commandes 0A/CB.
 - B153-S031 (douze points) reste identique. Les références de fontaine
   147/148 reçoivent une seule traduction.
+
+## Lot 17 — V22
+
+- Dragon Eyes/Ears Village : village des Yeux / des Oreilles du Dragon.
+- Dragon Shrine : sanctuaire du Dragon ; divine dragon : Dragon divin.
+- Les références 155/156 partagent une seule traduction.
+- Les directions sud, est et nord-est et les deux états du royaume sont
+  conservés. Le prince aîné tue le jeune roi puis est possédé par Ninigi.
+- La lecture des statues conserve la distinction entre créateur, maître
+  et dieu dans les propos des habitants.

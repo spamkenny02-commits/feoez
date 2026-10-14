@@ -1,0 +1,48 @@
+[
+  {
+    "frames": 180
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "A"
+    ]
+  },
+  {
+    "frames": 1200,
+    "screenshot": "check_a"
+  },
+  {
+    "reset": true,
+    "frames": 180
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_1"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_2"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_3"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_4"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_5"
+  },
+  {
+    "quit": true
+  }
+]

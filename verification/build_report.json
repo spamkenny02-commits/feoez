@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "568eaa95e566ad04ef7b7d68c776a9bec9ef6148c75cfb9b15f2c98a38b9e9a8",
-  "translated_entries": 1559,
-  "new_entries": 117,
-  "previously_integrated": 1442,
-  "new_nonempty_texts": 117,
-  "new_changed_entries": 116,
-  "new_passthrough_entries": 1,
+  "output_sha256": "f59a2c324483bf3cc7c97b6832ebe2f88f3330038c51783a7f098b766bd6b005",
+  "translated_entries": 1582,
+  "new_entries": 23,
+  "previously_integrated": 1559,
+  "new_nonempty_texts": 23,
+  "new_changed_entries": 23,
+  "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 1559,
+  "integrated_entries": 1582,
   "blocks": [
     {
       "block_ids": [
@@ -1516,6 +1516,41 @@
     },
     {
       "block_ids": [
+        155,
+        156
+      ],
+      "source": "0x6721cf",
+      "destination": "0x6b8bb0",
+      "old_size": 1784,
+      "new_size": 1811,
+      "translated": 12,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        157
+      ],
+      "source": "0x6728c7",
+      "destination": "0x6b92d0",
+      "old_size": 2378,
+      "new_size": 2379,
+      "translated": 11,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
@@ -1534,7 +1569,7 @@
       ]
     }
   ],
-  "engine_checks": 2045,
+  "engine_checks": 2080,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1544,11 +1579,11 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v21.json",
-  "allocation_end": "0x6b8bb0",
-  "free_bytes": 95312,
+  "runtime_validation": "see emulation_report_v22.json",
+  "allocation_end": "0x6b9c20",
+  "free_bytes": 91104,
   "in_place_blocks": 60,
-  "relocated_blocks": 21,
+  "relocated_blocks": 23,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
