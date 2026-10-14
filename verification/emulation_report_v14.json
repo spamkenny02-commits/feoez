@@ -1,0 +1,41 @@
+{
+  "version": "V14",
+  "core": "Snes9x 1.63 1bcc369",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "43046c66ec8ac374088601fa10a061ed006729e46dc067ce609dd4d308025e1f",
+  "patch_sha256": "4df3016f36de8576548fa209203d25d1a1728b9d65078594acdd053fbaa9c5cd",
+  "commands": 604,
+  "navigation_commands": 26,
+  "final_frame": 64101,
+  "fresh_boot": true,
+  "legacy_comparison_to_v13": {
+    "captures": 85,
+    "pixel_identical": 67,
+    "different": 18,
+    "interpretation": "The one-frame-input scenario reaches different late screens; not an aligned pixel regression test."
+  },
+  "focused_navigation_comparison": {
+    "input_hold_frames": 12,
+    "settings_identical": true,
+    "region_map_identical": true,
+    "main_menu_identical_outside_clock": true,
+    "clock_difference_bbox": [
+      48,
+      119,
+      80,
+      127
+    ]
+  },
+  "observed": [
+    "Mode 1 et Mode 2 : ALL OK, resets effectués",
+    "Introduction, début de partie et dialogues affichés",
+    "Menus, réglages et carte régionale ouverts avec appuis de 12 images puis retour au village"
+  ],
+  "limits": [
+    "134 nouveaux textes restent à observer dans leurs scènes de progression.",
+    "11 entrées du bloc 97 gardent leurs octets anglais, commandes 05/0A encore non prises en charge.",
+    "1298 lectures du probe 65816 ne représentent pas 1298 scènes observées.",
+    "Snes9x 1.60, suite du jeu, fêtes PLGS, SRAM et matériel réel non validés."
+  ]
+}

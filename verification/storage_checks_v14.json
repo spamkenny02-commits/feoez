@@ -1,0 +1,21 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "passed": 14,
+  "checks": [
+    "Fitting block uses its own audited span",
+    "Both aliases 81/82 move together",
+    "Relocated block keeps its English source bytes",
+    "ROM length and allocation counts are correct",
+    "Overlapping source blocks rejected",
+    "Pool exhaustion rejected before output",
+    "Invalid group target rejected",
+    "Unrelated directory write rejected",
+    "Unverified source bytes rejected",
+    "Missing alias rejected",
+    "Unverified span length rejected",
+    "Occupied free pool rejected",
+    "Input ROM on disk unchanged after successes and rejections",
+    "All actual V14 blocks reproduce the tested ROM byte for byte with current allocator"
+  ],
+  "scope": "Allocation safety; actual rebuilt strings are exercised separately by native 65816 routines."
+}

@@ -1,0 +1,13 @@
+{
+  "baseline_entries": 730,
+  "all_preserved": true,
+  "compared_fields": [
+    "french",
+    "french_in_game",
+    "source_hex"
+  ],
+  "new_entries": 134,
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "output_sha256": "43046c66ec8ac374088601fa10a061ed006729e46dc067ce609dd4d308025e1f",
+  "source_blocks_can_change_in_output": true
+}

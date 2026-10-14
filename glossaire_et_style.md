@@ -215,3 +215,29 @@ aux traditions, sans masquer leurs réticences envers Higan.
   remboursement de 10 000 ryo. Les suffixes x5 sont conservés littéralement.
 - Une entrée vide du journal (93/41) reste vide ; elle compte dans
   les 162 entrées traitées du lot, pas dans les 161 nouveaux textes.
+
+## Lot 09 — V14
+
+- Akamaru Shootin' : Tir Akamaru ; Slither : Serpentin (mini-jeux).
+- Gold Medal House : Maison des Médailles d'Or.
+- Treasure Hunting Room : Salle de Chasse au Trésor.
+- Goof : Balourdise ; Pure : Pureté ; Doze : Somnolence.
+- Poor Hermit : ermite Pauvre ; canine god's heart : cœur du Chien divin.
+- Healing Pill : Pilule de soin ; Bee Blade : Lame de l'Abeille ;
+  Warding Curio : Bibelot protecteur ; Cat Statue Bell : Clochette du Chat ;
+  Rainbow Shard : Éclat d'arc-en-ciel ; Miracle Liquor : Liqueur miraculeuse.
+- Ces noms sont provisoires : les menus d'objets et les écrans des
+  mini-jeux n'ont pas tous été harmonisés avec les dialogues.
+- Tir : A, dix points pour Akamaru, moins cinquante pour Subaru,
+  tir rapide temporaire et limite d'une minute conservés.
+- Médailles : trente donnent la Liqueur miraculeuse ; barème source conservé.
+- Trésor : quinze coffres, mise de 1 000, récompenses annoncées de
+  10 000 et 5 000 ryo. Le popup source 97/102 dit 10 000 alors que
+  le dialogue dit 5 000 : contradiction conservée, à vérifier en jeu.
+- Ermite Pauvre : plafond de 1 000 ryo et trois examens de l'emblème conservés.
+- Les vendeurs gauche/droite et les réductions de moitié restent
+  conformes à chaque réplique ; ne pas uniformiser leurs directions.
+- Néons : plage de 18 h à 6 h conservée. Les commandes 6D et 29 du
+  tableau des prix restent intactes.
+- Entrées 97/23–28, 58, 98, 104, 107, 109 : laissées en anglais,
+  avec tous leurs octets, en attendant la prise en charge des commandes 05/0A.

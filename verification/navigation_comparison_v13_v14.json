@@ -1,0 +1,22 @@
+[
+  {
+    "file": "main_menu.png",
+    "identical": false,
+    "bbox": [
+      48,
+      119,
+      80,
+      127
+    ]
+  },
+  {
+    "file": "settings.png",
+    "identical": true,
+    "bbox": null
+  },
+  {
+    "file": "region_map.png",
+    "identical": true,
+    "bbox": null
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "load": "@FULL_RUN_DIR@/field_verified.state",
+    "frame": 64342,
+    "frames": 60,
+    "screenshot": "field_start"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "X"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "main_menu"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Right"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Down"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "A"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "settings"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Select"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "region_map"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "map_return"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Y"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "command_menu"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60,
+    "screenshot": "field_return"
+  },
+  {
+    "quit": true
+  }
+]
