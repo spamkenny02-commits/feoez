@@ -300,3 +300,18 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - La galerie se vante d'objets prétendument prêtés ou confiés : ces affirmations
   restent les propos du musée, sans correction ni commentaire dans le jeu.
 - B125-S003 : chanson laissée en anglais, commande 0A/CC conservée.
+
+## Lot 13 — V18
+
+- Crane Courier : Courrier de la Grue, journal à sensation. Les articles
+  restent les propos de leurs narrateurs, sans les confirmer comme faits du récit.
+- Crane-watcher (auberge) : À la Grue vigilante.
+- Stealopede : Vole-pattes, nom provisoire du mille-pattes voleur d'argent.
+- Mai, Chitose et les échanges solennels de Tenjin emploient le vouvoiement
+  et « messire » ; les enfants et villageois gardent le tutoiement.
+- Crane's robe : robe de la Grue, clé contre les illusions de Sara.
+- Festival calendars : dates et appellations propres à chaque réplique
+  conservées, y compris les mentions divergentes de la fête du 7 août.
+- Floral purse/pan/pendant : sac fleuri / poêle fleurie / pendentif fleuri,
+  pour conserver l'opposition dans la réplique du prétendant de Seiko.
+- B130-S019 reste en anglais dans ce lot ; le bloc 132 n'est pas traité.

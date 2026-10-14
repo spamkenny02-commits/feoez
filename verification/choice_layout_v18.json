@@ -1,0 +1,25 @@
+{
+  "entry": "B130-S016",
+  "source_rows": [
+    "The Hunt for the Phantom Castle",
+    "Tenjin's Blistering Love",
+    "Chitose Flees in Tears"
+  ],
+  "french_rows": [
+    "Le château Fantôme traqué",
+    "L'amour brûlant de Tenjin",
+    "Chitose s'enfuit en larmes"
+  ],
+  "line_width_pixels": [
+    121,
+    114,
+    115
+  ],
+  "three_rows_preserved": true,
+  "label_start_pixels": [
+    0,
+    0,
+    0
+  ],
+  "visual_validation": "pending in scene"
+}
