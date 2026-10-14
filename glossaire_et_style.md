@@ -282,3 +282,21 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Affiches de Sara : ton de propagande, accusations et langage grossier
   conservés ; aucune accusation n'est présentée comme vérité du récit.
 - Fête des Poupées, des Étoiles et de la Grue : dates du script conservées.
+
+## Lot 12 — V17
+
+- Liquor Village : village du Saké ; Beautiful Grotto : grotte de la Beauté ;
+  Ripple Grotto : grotte du Clapotis. Noms provisoires à harmoniser en progression.
+- Beautiful hermits : ermites de la Beauté. Binan et Karen gardent leurs noms.
+- Zest : Vitalité, nom provisoire du sort qui rend énergie et points de vie.
+- Seaweed : algues ; kelp : kombu dans la réplique culinaire. Le jeu de mots
+  anglais sur weed devient une plaisanterie sur les herbes à fumer.
+- Shitty goods : objets de merde ; noms de leurs trois équipements inchangés
+  depuis les affiches de Sara. L'expression « de la bonne merde » transpose
+  le quiproquo sur les prétendues qualités de ces objets.
+- Titres de Gen : Tiens bon, petit bourgeon ; Le bois du matin ; Le Cercle enlacé.
+  Les sous-entendus sont conservés sans les développer.
+- Tower of Bloodshed : tour du Carnage, nom provisoire.
+- La galerie se vante d'objets prétendument prêtés ou confiés : ces affirmations
+  restent les propos du musée, sans correction ni commentaire dans le jeu.
+- B125-S003 : chanson laissée en anglais, commande 0A/CC conservée.

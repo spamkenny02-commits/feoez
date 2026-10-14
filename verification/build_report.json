@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "04092425f30c314a1777acc89764dccfce1efb6c53f2de4867faa2868b823f8e",
-  "translated_entries": 1080,
-  "new_entries": 67,
-  "previously_integrated": 1013,
-  "new_nonempty_texts": 67,
-  "new_changed_entries": 67,
+  "output_sha256": "8c25142a2ca08e3d4aaf115d3857a24c71a7772877e268f085528fa97c9e9f56",
+  "translated_entries": 1183,
+  "new_entries": 103,
+  "previously_integrated": 1080,
+  "new_nonempty_texts": 103,
+  "new_changed_entries": 103,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 1080,
+  "integrated_entries": 1183,
   "blocks": [
     {
       "block_ids": [
@@ -1050,6 +1050,116 @@
     },
     {
       "block_ids": [
+        124
+      ],
+      "source": "0x65ceb2",
+      "destination": "0x65ceb2",
+      "old_size": 4189,
+      "new_size": 4017,
+      "translated": 37,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x06CE",
+        "0x0DFA"
+      ],
+      "new_relative_offsets": [
+        6,
+        1682,
+        3443
+      ]
+    },
+    {
+      "block_ids": [
+        125
+      ],
+      "source": "0x65df0f",
+      "destination": "0x65df0f",
+      "old_size": 1063,
+      "new_size": 1026,
+      "translated": 6,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        126
+      ],
+      "source": "0x65e336",
+      "destination": "0x6b7be0",
+      "old_size": 1241,
+      "new_size": 1265,
+      "translated": 9,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        127
+      ],
+      "source": "0x65e80f",
+      "destination": "0x6b80e0",
+      "old_size": 2387,
+      "new_size": 2420,
+      "translated": 20,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0616"
+      ],
+      "new_relative_offsets": [
+        4,
+        1640
+      ]
+    },
+    {
+      "block_ids": [
+        128
+      ],
+      "source": "0x65f162",
+      "destination": "0x65f162",
+      "old_size": 1442,
+      "new_size": 1383,
+      "translated": 14,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        129
+      ],
+      "source": "0x65f704",
+      "destination": "0x65f704",
+      "old_size": 2154,
+      "new_size": 2091,
+      "translated": 17,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0805"
+      ],
+      "new_relative_offsets": [
+        4,
+        1992
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
@@ -1068,7 +1178,7 @@
       ]
     }
   ],
-  "engine_checks": 1534,
+  "engine_checks": 1638,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1078,13 +1188,18 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v16.json",
-  "allocation_end": "0x6b7be0",
-  "free_bytes": 99360,
-  "in_place_blocks": 39,
-  "relocated_blocks": 17,
+  "runtime_validation": "see emulation_report_v17.json",
+  "allocation_end": "0x6b8a60",
+  "free_bytes": 95648,
+  "in_place_blocks": 43,
+  "relocated_blocks": 19,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
+  "deferred_entries": {
+    "125": [
+      3
+    ]
+  },
   "deferred_block97_entries": [
     23,
     24,
