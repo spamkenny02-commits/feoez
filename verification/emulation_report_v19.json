@@ -1,0 +1,36 @@
+{
+  "version": "V19",
+  "core": "Snes9x 1.63 1bcc369",
+  "core_commit": "1bcc369e89f08243e0a462882fb1f3e42e51de3a",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "e200d8debc960c9a7875fb9c0c5da1fb8e19e8f9434bdc0353cffea6e95e797b",
+  "patch_sha256": "c21d9f3abf8e3bc8beb7684eac964da3ea6df29174632947bd02b2345e87c8f4",
+  "commands": 608,
+  "navigation_commands": 26,
+  "final_frame": 64342,
+  "fresh_boot": true,
+  "focused_navigation_comparison": {
+    "input_hold_frames": 12,
+    "settings_identical": true,
+    "region_map_identical": true,
+    "main_menu_identical_outside_clock": true,
+    "clock_difference_bbox": null,
+    "main_menu_identical": true
+  },
+  "observed": [
+    "Mode 1 et Mode 2 : ALL OK, resets effectués",
+    "Introduction, dialogues du début et terrain affichés",
+    "Menus, réglages et carte régionale accessibles, retour au terrain"
+  ],
+  "limits": [
+    "111 nouveaux textes et scènes de la grotte restent à observer en progression.",
+    "13 entrées différées et blocs 132/140 restent en anglais ; leurs octets sont préservés.",
+    "1858 lectures du probe 65816 ne représentent pas 1858 scènes observées.",
+    "Snes9x 1.60, suite du jeu, fêtes PLGS, SRAM et matériel réel non validés."
+  ],
+  "comparison_to_v18": {
+    "captures": 85,
+    "pixel_identical": 85,
+    "different": 0
+  }
+}

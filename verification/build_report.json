@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "7609213743d03bad0cc3b2785cfaf2604392f496ca226a727d88d29d5f3fd2f2",
-  "translated_entries": 1269,
-  "new_entries": 86,
-  "previously_integrated": 1183,
-  "new_nonempty_texts": 86,
-  "new_changed_entries": 86,
-  "new_passthrough_entries": 0,
+  "output_sha256": "e200d8debc960c9a7875fb9c0c5da1fb8e19e8f9434bdc0353cffea6e95e797b",
+  "translated_entries": 1381,
+  "new_entries": 112,
+  "previously_integrated": 1269,
+  "new_nonempty_texts": 112,
+  "new_changed_entries": 111,
+  "new_passthrough_entries": 1,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 1269,
+  "integrated_entries": 1381,
   "blocks": [
     {
       "block_ids": [
@@ -1249,6 +1249,102 @@
     },
     {
       "block_ids": [
+        136
+      ],
+      "source": "0x668064",
+      "destination": "0x668064",
+      "old_size": 4027,
+      "new_size": 3645,
+      "translated": 17,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0E45"
+      ],
+      "new_relative_offsets": [
+        4,
+        3341
+      ]
+    },
+    {
+      "block_ids": [
+        137
+      ],
+      "source": "0x66901f",
+      "destination": "0x66901f",
+      "old_size": 1169,
+      "new_size": 1072,
+      "translated": 8,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        138
+      ],
+      "source": "0x6694b0",
+      "destination": "0x6694b0",
+      "old_size": 1167,
+      "new_size": 1073,
+      "translated": 7,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        139
+      ],
+      "source": "0x66993f",
+      "destination": "0x66993f",
+      "old_size": 7656,
+      "new_size": 6674,
+      "translated": 59,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0008",
+        "0x09B1",
+        "0x0EE1",
+        "0x16FA"
+      ],
+      "new_relative_offsets": [
+        8,
+        2080,
+        3180,
+        5089
+      ]
+    },
+    {
+      "block_ids": [
+        141,
+        142
+      ],
+      "source": "0x66cea0",
+      "destination": "0x66cea0",
+      "old_size": 2046,
+      "new_size": 1821,
+      "translated": 21,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0516"
+      ],
+      "new_relative_offsets": [
+        4,
+        1139
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
@@ -1267,7 +1363,7 @@
       ]
     }
   ],
-  "engine_checks": 1725,
+  "engine_checks": 1858,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1277,10 +1373,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v18.json",
+  "runtime_validation": "see emulation_report_v19.json",
   "allocation_end": "0x6b8a60",
   "free_bytes": 95648,
-  "in_place_blocks": 48,
+  "in_place_blocks": 53,
   "relocated_blocks": 19,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",

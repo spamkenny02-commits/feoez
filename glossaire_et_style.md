@@ -315,3 +315,21 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Floral purse/pan/pendant : sac fleuri / poêle fleurie / pendentif fleuri,
   pour conserver l'opposition dans la réplique du prétendant de Seiko.
 - B130-S019 reste en anglais dans ce lot ; le bloc 132 n'est pas traité.
+
+## Lot 14 — V19
+
+- Water of life : eau de vie, eau magique de la fontaine ; life liquor :
+  Saké de vie, boisson distincte. Les propriétés fantastiques restent
+  celles du récit. Les répliques sur l'âge d'Higan sont conservées.
+- Crane stone : pierre de la Grue ; speed essence : essence de vitesse.
+- Turtle Nation : pays de la Tortue ; Crane and Turtle Crossing :
+  passage de la Grue et de la Tortue, noms provisoires.
+- Booming/Witch/Bucking/Bolt Hermit : ermite Tonitruant / Sorcière /
+  Cabreur / Éclair ; Booming Cutter : Lame tonitruante, noms provisoires.
+- Air pouch : poche d'air ; 5 000 ryo et cinq secondes conservés.
+  Omine la Généreuse réclame 1 000 ryo par sauvetage.
+- Remise des boutiques : 20 pour cent, de 17 h à 20 h. Le symbole 14
+  est conservé dans B139-S037.
+- La Grue divine garde un ton solennel et parle au féminin.
+- Le bloc de la grotte partagé par 141/142 reçoit une traduction unique
+  pour les deux références. B141-S015 (« !!! ») reste identique.
