@@ -373,3 +373,16 @@ aux traditions, sans masquer leurs réticences envers Higan.
   conservés. Le prince aîné tue le jeune roi puis est possédé par Ninigi.
 - La lecture des statues conserve la distinction entre créateur, maître
   et dieu dans les propos des habitants.
+
+## Lot 18 — V23
+
+- Ark of the Heavens : Arche des Cieux ; Sea of Darkness : mer des Ténèbres.
+- Ark's mirror : miroir de l'Arche ; Tortoise Castle : château de la Tortue.
+- Royal Dragon Castle/Town : château / ville royale du Dragon.
+- Dark sword : épée des ténèbres ; dragon's stone : pierre du Dragon.
+- Les variantes Tenjin/Mizuki, les six pierres, les cent jours de guerre,
+  les six cents ans, la remise de cinquante pour cent et les 200 ryo restent
+  conformes à chaque réplique. Les commandes 0E sont conservées.
+- Les proclamations favorables à Ninigi restent les propos des habitants
+  et des soldats ; le récit du Dragon distingue création et obéissance.
+- B159-S036/S053 restent identiques : trois points et leurs pauses.

@@ -1,0 +1,40 @@
+{
+  "version": "V23",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "a73dad09783346ff8a0b131efa8383640d998e863ddfc88b254ebe3bf69f11b1",
+  "patch_sha256": "d02978db22ce6aa97093af28ec1366bb4cad977450c7abd689f02e5c9426e57f",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_test": "A initialization, reset, B held for 60000 frames; complete results visually reviewed",
+  "extended_backup_scenario": "reproduction/scenario_checks_v23.json",
+  "common_captures_identical_to_v22": 82,
+  "common_captures_clock_only_differences": 3,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 14,
+  "targeted_render_report": "scenes_v23/render_report.json",
+  "limits": [
+    "Staged rendering with diagnostic core; not natural scene progression.",
+    "Sword inheritance, barrier opening, ark travel, purchases and discounts not validated as quest/gameplay effects.",
+    "18 deferred messages and block132 remain in English."
+  ]
+}

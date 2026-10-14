@@ -1,0 +1,256 @@
+{
+  "rom_sha256": "a73dad09783346ff8a0b131efa8383640d998e863ddfc88b254ebe3bf69f11b1",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "0e0c7de6728417586a2450fc1ffbdf28a27e7729f336c68939d3c3f6f1135536",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B158-S006",
+      "case": "heritage_shiranui",
+      "expected_terminator": "0x4b9e34",
+      "observed_terminators": [
+        "0x4b9e34"
+      ],
+      "native_read_complete": true,
+      "captures": 1282,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "heritage_shiranui_00.png",
+        "heritage_shiranui_01.png",
+        "heritage_shiranui_02.png",
+        "heritage_shiranui_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B158-S007",
+      "case": "epee_tenebres",
+      "expected_terminator": "0x4b9e5f",
+      "observed_terminators": [
+        "0x4b9e5f"
+      ],
+      "native_read_complete": true,
+      "captures": 193,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "epee_tenebres_00.png",
+        "epee_tenebres_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S007",
+      "case": "guerre_agni",
+      "expected_terminator": "0x473aae",
+      "observed_terminators": [
+        "0x473aae"
+      ],
+      "native_read_complete": true,
+      "captures": 2368,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "guerre_agni_00.png",
+        "guerre_agni_01.png",
+        "guerre_agni_02.png",
+        "guerre_agni_03.png",
+        "guerre_agni_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S012",
+      "case": "arche_scellee",
+      "expected_terminator": "0x473e33",
+      "observed_terminators": [
+        "0x473e33"
+      ],
+      "native_read_complete": true,
+      "captures": 1215,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "arche_scellee_00.png",
+        "arche_scellee_01.png",
+        "arche_scellee_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S019",
+      "case": "dragon_gardien",
+      "expected_terminator": "0x474444",
+      "observed_terminators": [
+        "0x474444"
+      ],
+      "native_read_complete": true,
+      "captures": 1082,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "dragon_gardien_00.png",
+        "dragon_gardien_01.png",
+        "dragon_gardien_02.png",
+        "dragon_gardien_03.png",
+        "dragon_gardien_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S030",
+      "case": "six_pierres",
+      "expected_terminator": "0x47496e",
+      "observed_terminators": [
+        "0x47496e"
+      ],
+      "native_read_complete": true,
+      "captures": 1483,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "six_pierres_00.png",
+        "six_pierres_01.png",
+        "six_pierres_02.png",
+        "six_pierres_03.png",
+        "six_pierres_04.png",
+        "six_pierres_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S058",
+      "case": "mizuki_coeur",
+      "expected_terminator": "0x4753df",
+      "observed_terminators": [
+        "0x4753df"
+      ],
+      "native_read_complete": true,
+      "captures": 409,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "mizuki_coeur_00.png",
+        "mizuki_coeur_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S060",
+      "case": "miroir_arche",
+      "expected_terminator": "0x4754ad",
+      "observed_terminators": [
+        "0x4754ad"
+      ],
+      "native_read_complete": true,
+      "captures": 533,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "miroir_arche_00.png",
+        "miroir_arche_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B159-S073",
+      "case": "barriere_ninigi",
+      "expected_terminator": "0x475b4c",
+      "observed_terminators": [
+        "0x475b4c"
+      ],
+      "native_read_complete": true,
+      "captures": 1483,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "barriere_ninigi_00.png",
+        "barriere_ninigi_01.png",
+        "barriere_ninigi_02.png",
+        "barriere_ninigi_03.png",
+        "barriere_ninigi_04.png",
+        "barriere_ninigi_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B160-S002",
+      "case": "route_chateau",
+      "expected_terminator": "0x475ccf",
+      "observed_terminators": [
+        "0x475ccf"
+      ],
+      "native_read_complete": true,
+      "captures": 2069,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "route_chateau_00.png",
+        "route_chateau_01.png",
+        "route_chateau_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B161-S006",
+      "case": "pont_sud_est",
+      "expected_terminator": "0x4ba51b",
+      "observed_terminators": [
+        "0x4ba51b"
+      ],
+      "native_read_complete": true,
+      "captures": 2023,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "pont_sud_est_00.png",
+        "pont_sud_est_01.png",
+        "pont_sud_est_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B162-S001",
+      "case": "remise_50",
+      "expected_terminator": "0x476dee",
+      "observed_terminators": [
+        "0x476dee"
+      ],
+      "native_read_complete": true,
+      "captures": 2087,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "remise_50_00.png",
+        "remise_50_01.png",
+        "remise_50_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B162-S004",
+      "case": "auberge_200",
+      "expected_terminator": "0x476f24",
+      "observed_terminators": [
+        "0x476f24"
+      ],
+      "native_read_complete": true,
+      "captures": 2089,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "auberge_200_00.png",
+        "auberge_200_01.png",
+        "auberge_200_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B162-S019",
+      "case": "prince_possede",
+      "expected_terminator": "0x4776f5",
+      "observed_terminators": [
+        "0x4776f5"
+      ],
+      "native_read_complete": true,
+      "captures": 1983,
+      "visual_review": "reviewed: readable accents, names, dates, directions, amounts, native pages and ending",
+      "review_images": [
+        "prince_possede_00.png",
+        "prince_possede_01.png",
+        "prince_possede_ending.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 50,
+  "capture_selection": "Maximum visible text per detected text-window clear, plus each native ending."
+}
