@@ -6,10 +6,12 @@ Checks that the native reader reaches the exact target terminator; captures ever
 """
 import argparse,json,subprocess,sys,os,hashlib,re
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--cases',type=Path);p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args()
 root=Path(__file__).resolve().parents[2];sys.path.insert(0,str(root/'tools'))
 from cpu65816_probe import CPU
 rom=a.rom.read_bytes();cases=[(136,10,'pierre_grue'),(138,7,'lettre_puits'),(139,37,'remise_20'),(141,1,'omine_poche'),(141,12,'omine_sauvetage'),(140,3,'sara_accueil'),(140,8,'sara_nom'),(140,17,'tenjin_rejoint'),(140,35,'parchemins'),(140,42,'tenjin_presentation'),(143,1,'statue_sara'),(146,1,'statue_alias')]
+if a.cases:cases=json.loads(a.cases.read_text())
+assert all(1<=b<=253 and 1<=i<=255 and re.fullmatch(r'[a-z0-9_]+',n) for b,i,n in cases)
 a.out.mkdir(parents=True,exist_ok=True);results=[]
 for bid,idx,name in cases:
  cpu=CPU(rom);cpu.load_block(bid);start=cpu.select(idx);raw=cpu.string();expected_end=start+len(raw)

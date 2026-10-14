@@ -1,0 +1,20 @@
+[
+  {
+    "entry": "B152-S016",
+    "source_row": "Fight            Quit",
+    "french_row": "Combattre    Quitter",
+    "source_second_label_pixels": 58,
+    "french_second_label_pixels": 59,
+    "delta_pixels": 1,
+    "event_choice_validation": "not validated in natural progression"
+  },
+  {
+    "entry": "B153-S035",
+    "source_row": "Kill         Forgive",
+    "french_row": "Tuer      Pardonner",
+    "source_second_label_pixels": 41,
+    "french_second_label_pixels": 41,
+    "delta_pixels": 0,
+    "event_choice_validation": "not validated in natural progression"
+  }
+]

@@ -348,3 +348,18 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Relecture à l'écran B136-S010 : « par ma puissance ! Gardez-la avec vous »
   remplace la phrase plus longue pour éviter une page avec « Feu ! » seul.
   Une traduction antérieure est volontairement corrigée dans V20.
+
+## Lot 16 — V21
+
+- Cryptic Arbor Castle : château de l'Arbre mystérieux, nom provisoire.
+- Sand rat cart : charrette à rat des sables ; location 200 ryo.
+- Allay : Apaisement ; Rock : Roc ; Seal : Sceau ; Buck : Ruade.
+  Noms provisoires à harmoniser avec les menus des techniques.
+- Dragon Cutter : Lame du Dragon ; mandala flute : flûte Mandala.
+- Apaisement : engourdissement, pétrification et confusion ; pas le poison,
+  comme dans les explications du jeu.
+- Les choix de duel et de pardon gardent l'ordre du script. Aucun choix
+  du joueur ni aucune récompense n'est présumé par la traduction.
+- Chansons B149-S001/S006 conservées en anglais avec commandes 0A/CB.
+- B153-S031 (douze points) reste identique. Les références de fontaine
+  147/148 reçoivent une seule traduction.

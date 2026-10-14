@@ -1,0 +1,42 @@
+{
+  "version": "V21",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "568eaa95e566ad04ef7b7d68c776a9bec9ef6148c75cfb9b15f2c98a38b9e9a8",
+  "patch_sha256": "635dc7c9da2c08fc6b6ee97dd95fabe9408d58f342cffc07176e124c83bf7885",
+  "fresh_boot": true,
+  "autotests": "A/B ALL OK",
+  "common_captures_identical_to_v20": 85,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": [
+        72,
+        119,
+        80,
+        127
+      ],
+      "identical": false,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 9,
+  "targeted_render_report": "scenes_v21/render_report.json",
+  "limits": [
+    "Staged rendering with diagnostic core; not natural scene progression.",
+    "Choice effects, duels, rewards and recruitment not validated.",
+    "18 deferred messages and block132 remain in English."
+  ]
+}

@@ -4,7 +4,7 @@ import argparse,copy,hashlib,json
 from pathlib import Path
 from block_storage import store_blocks
 from pointers import analyze,FREE_START,file_to_cpu
-p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20','V21'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
 if bool(a.built_rom)!=bool(a.build_report):p.error('Provide both --built-rom and --build-report')
 rom=a.rom.read_bytes();before=hashlib.sha256(rom).hexdigest();audit=analyze(rom);checks=[]
 def item(bid,payload):

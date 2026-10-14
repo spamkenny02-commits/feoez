@@ -1,0 +1,161 @@
+{
+  "rom_sha256": "568eaa95e566ad04ef7b7d68c776a9bec9ef6148c75cfb9b15f2c98a38b9e9a8",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "394967d125d1381123e57aa5685c408024be6472aa8d9fd3960df4ad591a5321",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B147-S001",
+      "case": "fontaine_sirene",
+      "expected_terminator": "0x4b8ab9",
+      "observed_terminators": [
+        "0x4b8ab9"
+      ],
+      "native_read_complete": true,
+      "captures": 770,
+      "review_images": [
+        "fontaine_sirene_00.png",
+        "fontaine_sirene_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B148-S001",
+      "case": "fontaine_alias",
+      "expected_terminator": "0x4b8ab9",
+      "observed_terminators": [
+        "0x4b8ab9"
+      ],
+      "native_read_complete": true,
+      "captures": 770,
+      "review_images": [
+        "fontaine_alias_00.png",
+        "fontaine_alias_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B149-S004",
+      "case": "sara_forme",
+      "expected_terminator": "0x46db0f",
+      "observed_terminators": [
+        "0x46db0f"
+      ],
+      "native_read_complete": true,
+      "captures": 987,
+      "review_images": [
+        "sara_forme_00.png",
+        "sara_forme_01.png",
+        "sara_forme_02.png",
+        "sara_forme_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B151-S001",
+      "case": "location_200",
+      "expected_terminator": "0x46e394",
+      "observed_terminators": [
+        "0x46e394"
+      ],
+      "native_read_complete": true,
+      "captures": 1967,
+      "review_images": [
+        "location_200_00.png",
+        "location_200_01.png",
+        "location_200_02.png",
+        "location_200_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B152-S007",
+      "case": "apaisement",
+      "expected_terminator": "0x46ecc7",
+      "observed_terminators": [
+        "0x46ecc7"
+      ],
+      "native_read_complete": true,
+      "captures": 918,
+      "review_images": [
+        "apaisement_00.png",
+        "apaisement_01.png",
+        "apaisement_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B152-S016",
+      "case": "duel_choix",
+      "expected_terminator": "0x46f240",
+      "observed_terminators": [
+        "0x46f240"
+      ],
+      "native_read_complete": true,
+      "captures": 2014,
+      "review_images": [
+        "duel_choix_00.png",
+        "duel_choix_01.png",
+        "duel_choix_02.png",
+        "duel_choix_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B153-S035",
+      "case": "pardon_choix",
+      "expected_terminator": "0x47188f",
+      "observed_terminators": [
+        "0x47188f"
+      ],
+      "native_read_complete": true,
+      "captures": 288,
+      "review_images": [
+        "pardon_choix_00.png",
+        "pardon_choix_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B153-S046",
+      "case": "lame_dragon",
+      "expected_terminator": "0x471d68",
+      "observed_terminators": [
+        "0x471d68"
+      ],
+      "native_read_complete": true,
+      "captures": 330,
+      "review_images": [
+        "lame_dragon_00.png",
+        "lame_dragon_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B154-S003",
+      "case": "epee_agni",
+      "expected_terminator": "0x471fe5",
+      "observed_terminators": [
+        "0x471fe5"
+      ],
+      "native_read_complete": true,
+      "captures": 172,
+      "review_images": [
+        "epee_agni_00.png",
+        "epee_agni_ending.png"
+      ],
+      "visual_review": "reviewed: readable accents, expected labels/amounts, native pages and ending",
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 25,
+  "instrumentation": "One CPU block/index request redirected; ROM unchanged. Native reader termination verified; event/reward effects not asserted."
+}
