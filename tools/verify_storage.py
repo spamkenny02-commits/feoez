@@ -4,7 +4,7 @@ import argparse,copy,hashlib,json
 from pathlib import Path
 from block_storage import store_blocks
 from pointers import analyze,FREE_START,file_to_cpu
-p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
 if bool(a.built_rom)!=bool(a.build_report):p.error('Provide both --built-rom and --build-report')
 rom=a.rom.read_bytes();before=hashlib.sha256(rom).hexdigest();audit=analyze(rom);checks=[]
 def item(bid,payload):
@@ -47,7 +47,7 @@ if a.built_rom:
     rebuilt,allocation=store_blocks(rom,items)
     assert checksum(patch_font(rebuilt)[0])==actual
     assert all(allocation[k]==build[k] for k in allocation)
-    checks.append('All actual V14 blocks reproduce the tested ROM byte for byte with current allocator')
+    checks.append('All actual rebuilt blocks reproduce the tested ROM byte for byte with current allocator')
 report={'source_sha256':before,'passed':len(checks),'checks':checks,'scope':'Allocation safety; actual rebuilt strings are exercised separately by native 65816 routines.'}
-(Path(__file__).resolve().parent.parent/'verification/storage_checks_v14.json').write_text(json.dumps(report,indent=2)+'\n')
+(Path(__file__).resolve().parent.parent/f'verification/storage_checks_{a.version.lower()}.json').write_text(json.dumps(report,indent=2)+'\n')
 print(json.dumps(report,indent=2))

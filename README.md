@@ -1,31 +1,39 @@
-# Tengai Makyou Zero — Traduction française V14
+# Tengai Makyou Zero — Traduction française V15
 
-**134 nouveaux textes**, soit **864 entrées intégrées avec accents**.
-Les 730 anciennes entrées sont identiques à la V13, mise en page comprise.
-Le total inclut variantes, répétitions, ponctuation et l'entrée vide conservée
-du journal ; ce n'est pas un nombre de dialogues uniques.
+**146 nouveaux textes modifiés**, dans **149 entrées traitées** ;
+**1 013 entrées intégrées avec accents** au total.
+Les 864 anciennes entrées sont identiques à la V14, mise en page comprise.
+Les trois répliques neutres Hmm... / ??? / ??? sont conservées ;
+les variantes, répétitions et entrées neutres sont incluses dans le total.
 
-## Lot 09
+## Lot 10
 
-| Bloc | Textes ajoutés | Contenu |
+| Bloc | Entrées traitées | Contenu |
 |---|---:|---|
-| 97 | 98 | Arcade, boutiques et habitants du Cercle Fleuri |
-| 98 | 5 | Générateur et horaires des néons |
-| 100 | 18 | Ermite des Insignes, parchemins et cadeaux |
-| 101 | 8 | Ermite Pauvre, cœur du Chien divin |
-| 103 (alias 104/105) | 5 | Cascade, emblème et bouton |
+| 106 | 34 | Mine, ascenseurs, insectes mange-or |
+| 107 | 25 | Mine, contrôle, wagonnets et lingots |
+| 108 | 37 | Trio Akamaru, cœur du Chien divin, pardon |
+| 109 | 8 | Pilotage et combat du Ma-Djinn |
+| 110 | 9 | Usine et clonage Hanamaru |
+| 111 | 7 | Shiranui et Sabreur des Ténèbres |
+| 112 | 14 | Château des Pièges, règles et récompenses |
+| 113 (alias 114) | 12 | Château Fantôme et robe de la Grue |
+| 115 (alias 116) | 3 | Marais rouge et pays de la Grue |
+
+Les huit lignes de choix d'ascenseur gardent leur ordre et leurs positions.
+N1/N2/N3 désignent les niveaux ; S1/S2 les sous-sols. Le tutoriel du
+Ma-Djinn garde les boutons A/B et la séquence X, bas, bas-droite, droite, A.
 
 Onze textes du bloc 97 restent en anglais : 23–28, 58, 98, 104, 107, 109.
-Leurs variables 05 et effets 0A ne sont pas encore pris en charge pour
-l'édition ; leurs octets sont conservés après reconstruction.
+Leurs commandes 05/0A restent exclues de l'édition et leurs octets conservés.
 
 Premier jet depuis l'anglais fourni, sans comparaison avec le script japonais.
 Le glossaire indique les noms d'objets et lieux encore provisoires.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V14.ips** directement à une copie de la ROM
-anglaise originale, sans cumuler les versions. Le patch V13 reste disponible
+Appliquer **Tengai_Makyou_Zero_FR_V15.ips** directement à une copie de la ROM
+anglaise originale, sans cumuler les versions. Le patch V14 reste disponible
 pour revenir à la version précédente.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
@@ -36,23 +44,23 @@ Le dépôt ne contient ni ROM ni sauvegarde d'état.
 ## Construction et relecture
 
 ```bash
-python tools/build_v14.py /chemin/rom_anglaise.sfc --rom-out /chemin/v14_fr.sfc
+python tools/build_v15.py /chemin/rom_anglaise.sfc --rom-out /chemin/v15_fr.sfc
 python tools/verify_font.py /chemin/rom_anglaise.sfc
 ```
 
 Python 3 ; Pillow pour les contrôles de police. Le générateur repart toujours
-de l'original. Les neuf lots JSON sont les sources de traduction. Le générateur crée les fichiers
-`traduction/traduction_v14.json`, `.tsv` et `lecture_v14.txt` localement pour
+de l'original. Les dix lots JSON sont les sources de traduction. Le générateur crée les fichiers
+`traduction/traduction_v15.json`, `.tsv` et `lecture_v15.txt` localement pour
 la relecture bilingue. Les lots JSON versionnés suffisent à les reconstruire.
 Les résultats des versions précédentes et les anciens générateurs sont historiques.
 
-1 298 lectures dans les routines natives passent. Le placement utilise
-28 blocs sur place et 13 déplacés ; 104 896 octets restent libres. Les
+1 462 lectures dans les routines natives passent. Le placement utilise
+37 blocs sur place et 13 déplacés ; 104 896 octets restent libres. Les
 blocs sur place remplacent les textes anglais dans la ROM de sortie ;
 le fichier anglais d'entrée n'est jamais modifié.
 
 ```bash
-python tools/verify_storage.py /chemin/rom_anglaise.sfc --built-rom /chemin/v14_fr.sfc --build-report verification/build_report.json
+python tools/verify_storage.py /chemin/rom_anglaise.sfc --version V15 --built-rom /chemin/v15_fr.sfc --build-report verification/build_report.json
 ```
 
 Police française inchangée depuis V06 : 32 lettres accentuées et quatre
@@ -67,13 +75,14 @@ Source du noyau : https://github.com/snes9xgit/snes9x
 La version 1.60 n'est pas testée ici.
 
 Le protocole de démarrage est A, vérification, reset, B, vérification, reset.
-Autotests A/B ALL OK, introduction et début de partie vérifiés.
-Le scénario ancien à appuis d'une image atteint certains écrans à des
-moments différents : 67 captures identiques, 18 différentes.
-Le nouveau run_navigation.py utilise des appuis de 12 images : les
-réglages et la carte V13/V14 sont identiques, et le menu principal ne
-diffère que par l'horloge. Les nouveaux textes restent à observer dans
-leurs scènes de progression. Voir verification/emulation_report_v14.json.
+Le parcours repart d'un démarrage neuf avec autotests A/B et resets,
+puis introduction et début de partie. Le scénario run_navigation.py
+utilise des appuis de 12 images pour ouvrir les menus, les réglages et
+la carte. Le rapport V15 lie le patch et la ROM testée à ces observations.
+Autotests A/B ALL OK ; les 85 captures du parcours commun sont identiques
+à V14. Réglages et carte restent identiques ; le menu principal ne diffère
+que par l’horloge. Les 146 nouveaux textes restent à vérifier dans leurs scènes.
+Voir verification/emulation_report_v15.json.
 
 Les scripts `verification/reproduction` utilisent NumPy et Pillow.
 Ils reproduisent le démarrage, la navigation et les choix de dialogues.
@@ -81,10 +90,13 @@ Créer les états avec la même ROM et le même noyau ; ne pas reprendre les ét
 d'une version antérieure. Les historiques complets et résultats bilingues
 peuvent être régénérés localement. Aucun dump mémoire complet n'est publié.
 
-## Vérifications V14
+## Vérifications V15
 
-1 298 lectures 65816, 16 contrôles de police et 14 contrôles de placement
+1 462 lectures 65816, 16 contrôles de police et 14 contrôles du placement
 réussis. Balises, pointeurs, alias, largeur de 216 pixels et IPS contrôlés.
-Le rapport courant build_report.json concerne la V14. La comparaison
-regression_v13_v14.json confirme les 730 anciennes entrées préservées.
+Tous les nouveaux blocs tiennent sur place. L'espace libre reste de
+104 896 octets : aucun ajout dans le pool de relocalisation depuis V14.
+Le rapport courant build_report.json concerne la V15.
+regression_v14_v15.json documente les 864 anciennes entrées préservées ;
+elevator_layout_v15.json documente la disposition des choix.
 Les anciens rapports restent des preuves de leurs propres versions.

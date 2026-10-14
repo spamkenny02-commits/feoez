@@ -1,12 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "43046c66ec8ac374088601fa10a061ed006729e46dc067ce609dd4d308025e1f",
-  "translated_entries": 864,
-  "new_entries": 134,
-  "previously_integrated": 730,
-  "new_nonempty_texts": 134,
+  "output_sha256": "1b8a7cdc5256f70259464c8e7640e0a186e4ed811a1a8a96b76408a135ef616c",
+  "translated_entries": 1013,
+  "new_entries": 149,
+  "previously_integrated": 864,
+  "new_nonempty_texts": 149,
+  "new_changed_entries": 146,
+  "new_passthrough_entries": 3,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 864,
+  "integrated_entries": 1013,
   "blocks": [
     {
       "block_ids": [
@@ -778,6 +780,171 @@
     },
     {
       "block_ids": [
+        106
+      ],
+      "source": "0x656c8e",
+      "destination": "0x656c8e",
+      "old_size": 3373,
+      "new_size": 3133,
+      "translated": 34,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x05E5",
+        "0x0CEB"
+      ],
+      "new_relative_offsets": [
+        6,
+        1416,
+        3075
+      ]
+    },
+    {
+      "block_ids": [
+        107
+      ],
+      "source": "0x6579bb",
+      "destination": "0x6579bb",
+      "old_size": 2764,
+      "new_size": 2509,
+      "translated": 25,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x08D5"
+      ],
+      "new_relative_offsets": [
+        4,
+        2053
+      ]
+    },
+    {
+      "block_ids": [
+        108
+      ],
+      "source": "0x658487",
+      "destination": "0x658487",
+      "old_size": 3172,
+      "new_size": 3013,
+      "translated": 37,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0621",
+        "0x0A64"
+      ],
+      "new_relative_offsets": [
+        6,
+        1472,
+        2528
+      ]
+    },
+    {
+      "block_ids": [
+        109
+      ],
+      "source": "0x6590eb",
+      "destination": "0x6590eb",
+      "old_size": 1078,
+      "new_size": 959,
+      "translated": 8,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        110
+      ],
+      "source": "0x659521",
+      "destination": "0x659521",
+      "old_size": 1118,
+      "new_size": 1001,
+      "translated": 9,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        111
+      ],
+      "source": "0x65997f",
+      "destination": "0x65997f",
+      "old_size": 903,
+      "new_size": 859,
+      "translated": 7,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        112
+      ],
+      "source": "0x659d06",
+      "destination": "0x659d06",
+      "old_size": 1929,
+      "new_size": 1773,
+      "translated": 14,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        113,
+        114
+      ],
+      "source": "0x65a48f",
+      "destination": "0x65a48f",
+      "old_size": 1304,
+      "new_size": 1226,
+      "translated": 12,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        115,
+        116
+      ],
+      "source": "0x65a9a7",
+      "destination": "0x65a9a7",
+      "old_size": 243,
+      "new_size": 239,
+      "translated": 3,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
@@ -796,7 +963,7 @@
       ]
     }
   ],
-  "engine_checks": 1298,
+  "engine_checks": 1462,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -806,10 +973,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v14.json",
+  "runtime_validation": "see emulation_report_v15.json",
   "allocation_end": "0x6b6640",
   "free_bytes": 104896,
-  "in_place_blocks": 28,
+  "in_place_blocks": 37,
   "relocated_blocks": 13,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",

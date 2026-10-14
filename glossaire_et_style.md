@@ -241,3 +241,28 @@ aux traditions, sans masquer leurs réticences envers Higan.
   tableau des prix restent intactes.
 - Entrées 97/23–28, 58, 98, 104, 107, 109 : laissées en anglais,
   avec tous leurs octets, en attendant la prise en charge des commandes 05/0A.
+
+## Lot 10 — V15
+
+- Gold block : lingot ; goldkin bug busters : chasseurs d'insectes mange-or.
+- Le parler maladroit des contrôleurs de la mine est conservé en français,
+  sans leur attribuer une nationalité ou un accent inventé.
+- First/second/third floor : niveaux 1/2/3 (N1/N2/N3) ;
+  basement floors : sous-sols 1/2 (S1/S2). La numérotation du moteur et
+  l'ordre des choix sont conservés, sans conversion des niveaux.
+- Mine carts : wagonnets ; switch points : aiguillage.
+- Gimmick Castle : château des Pièges ; Phantom Castle : château Fantôme.
+- Swordsman of Darkness : Sabreur des Ténèbres ; blade of righteousness :
+  lame de justice ; crane's robe : robe de la Grue.
+- Crane Nation / Crane Shrine : pays de la Grue / sanctuaire de la Grue.
+- Amorous lunch : Bento amoureux ; Lunar Light : Lumière lunaire.
+- Tutoriel Ma-Djinn : droite pour avancer, gauche pour reculer, A pour
+  frapper, B pour parer ; maintenir X, puis bas, bas-droite, droite, A
+  pour la technique spéciale. Séquence conservée sans simplification.
+- Choix d'achever ou de pardonner au trio : les arguments des personnages
+  restent distincts ; aucune décision du joueur n'est présumée.
+- Château des Pièges : 1 000 ryo, soixante secondes, statues bronze/argent/or
+  et leurs trois récompenses conservés.
+- B106-S024 (« Hmm... »), B113-S004 et B113-S006 (« ??? ») restent
+  identiques à l'anglais. Ils font partie des 149 entrées du lot, avec
+  146 textes dont le contenu encodé change.

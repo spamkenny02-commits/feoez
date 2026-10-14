@@ -1,0 +1,25 @@
+[
+  {
+    "file": "main_menu.png",
+    "identical": false,
+    "bbox": [
+      72,
+      119,
+      80,
+      127
+    ],
+    "identical_outside_clock": true
+  },
+  {
+    "file": "settings.png",
+    "identical": true,
+    "bbox": null,
+    "identical_outside_clock": true
+  },
+  {
+    "file": "region_map.png",
+    "identical": true,
+    "bbox": null,
+    "identical_outside_clock": true
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "rows": [
+    {
+      "entry": "B106-S005",
+      "row": 0,
+      "source": "   1F",
+      "french": "   N1",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B106-S005",
+      "row": 1,
+      "source": "   B1",
+      "french": "   S1",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B106-S005",
+      "row": 2,
+      "source": "   B2",
+      "french": "   S2",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B106-S034",
+      "row": 0,
+      "source": "   2F",
+      "french": "   N2",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B106-S034",
+      "row": 1,
+      "source": "   1F",
+      "french": "   N1",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B107-S009",
+      "row": 0,
+      "source": "   3F",
+      "french": "   N3",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B107-S009",
+      "row": 1,
+      "source": "   2F",
+      "french": "   N2",
+      "label_start_pixels": 9
+    },
+    {
+      "entry": "B107-S009",
+      "row": 2,
+      "source": "   1F",
+      "french": "   N1",
+      "label_start_pixels": 9
+    }
+  ],
+  "row_count_and_label_origins_preserved": true
+}
