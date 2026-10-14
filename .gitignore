@@ -1,0 +1,8 @@
+*.sfc
+*.smc
+*.state
+*.srm
+*.so
+__pycache__/
+*.pyc
+emulator/
