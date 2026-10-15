@@ -403,3 +403,25 @@ aux traditions, sans masquer leurs réticences envers Higan.
   Âme : résurrection avec consentement de l'âme, utilisable par la fée du Feu.
 - Nuits à 180, 100 et 250 ryo et seuil de vingt ans du vendeur d'alcool conservés.
 - Les récits des ermites gardent leurs attributions et leurs pauses.
+
+## Lot 20 — V25
+
+- Conception/Mirror Village : village de la Conception / du Miroir.
+- Sanctuary of Matching Mirrors : sanctuaire des Miroirs jumeaux.
+- Threshold of the Heavens : seuil des Cieux. Flame/Fire of Agni :
+  Flamme/Feu d'Agni, variantes du script conservées.
+- Suima et Mugen : noms conservés ; mêmes titres de l'escadron d'élite.
+- Le bloc 173 est partagé avec 174 : traduction unique des deux références.
+- Tenjin vouvoie Agni dans sa réplique sur le libre choix ; Mizuki et Subaru
+  lui répondent plus familièrement. Tenjin et Mizuki se tutoient.
+- Œuf envoyé tous les vingt ans, directions des villages, cinq cercles,
+  épreuve d'Higan seul et orbe/miroirs propres aux personnages conservés.
+- La condition des jours divisibles en deux reste celle du texte anglais ;
+  aucun calendrier ou déclenchement de la scène n'est supposé.
+- Douze réponses neutres conservent leurs noms, points et balises :
+  B171-S015/S016, B172-S002/S003/S004/S005, B173-S026/S069/S076,
+  B175-S003/S010/S018.
+
+- Relecture V25 : B171-S018, B173-S022/S070 raccourcis pour éviter
+  des pages se terminant par « Terre », « seuil des Cieux » ou « enfants »
+  isolés. Sens et séquences de balises conservés.

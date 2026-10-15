@@ -1,0 +1,49 @@
+{
+  "version": "V25",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "b72bb27e82fe85dd786cd182580714020d8f0d309b7ad7f22d8bf7f124db9f8a",
+  "patch_sha256": "6cf67fb538ccc96755cf21fa448cd5c2b432fa84bffe9e91e4a96ed33e7a20b8",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_scenario": "reproduction/scenario_checks_v25.json",
+  "common_captures_identical_to_v24": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": [
+        72,
+        119,
+        80,
+        127
+      ],
+      "identical": false,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 17,
+  "targeted_render_report": "scenes_v25/render_report.json",
+  "pagination_fixes": [
+    "B171-S018",
+    "B173-S022",
+    "B173-S070"
+  ],
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Combat outcomes, rewards, recovery, Higan trial and mirror calendar/progression conditions not validated.",
+    "18 deferred messages and block132 remain in English."
+  ]
+}

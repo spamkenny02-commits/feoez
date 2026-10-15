@@ -1,0 +1,25 @@
+{
+  "baseline_entries": 1841,
+  "all_preserved": true,
+  "compared_fields": [
+    "french",
+    "french_in_game",
+    "source_hex"
+  ],
+  "new_entries": 144,
+  "new_changed_entries": 132,
+  "passthrough_entries": [
+    "B171-S015",
+    "B171-S016",
+    "B172-S002",
+    "B172-S003",
+    "B172-S004",
+    "B172-S005",
+    "B173-S026",
+    "B173-S069",
+    "B173-S076",
+    "B175-S003",
+    "B175-S010",
+    "B175-S018"
+  ]
+}

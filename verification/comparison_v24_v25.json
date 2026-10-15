@@ -1,0 +1,346 @@
+{
+  "identical": [
+    {
+      "file": "after_a.png",
+      "bbox": null
+    },
+    {
+      "file": "after_a_wait.png",
+      "bbox": null
+    },
+    {
+      "file": "after_birthday.png",
+      "bbox": null
+    },
+    {
+      "file": "after_checks.png",
+      "bbox": null
+    },
+    {
+      "file": "after_confirm_yes.png",
+      "bbox": null
+    },
+    {
+      "file": "after_reset_a.png",
+      "bbox": null
+    },
+    {
+      "file": "after_up_confirm.png",
+      "bbox": null
+    },
+    {
+      "file": "birth_step1.png",
+      "bbox": null
+    },
+    {
+      "file": "birth_step2.png",
+      "bbox": null
+    },
+    {
+      "file": "birth_step3.png",
+      "bbox": null
+    },
+    {
+      "file": "birth_step4.png",
+      "bbox": null
+    },
+    {
+      "file": "birth_step5.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_choice_confirm.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_choice_up.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_confirm_result.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_finished.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_question.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_question_right.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_right_again.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_right_twice.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_yes_a.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_yes_b.png",
+      "bbox": null
+    },
+    {
+      "file": "birthday_yes_selected.png",
+      "bbox": null
+    },
+    {
+      "file": "boot.png",
+      "bbox": null
+    },
+    {
+      "file": "button_L.png",
+      "bbox": null
+    },
+    {
+      "file": "button_R.png",
+      "bbox": null
+    },
+    {
+      "file": "button_Select.png",
+      "bbox": null
+    },
+    {
+      "file": "button_Start.png",
+      "bbox": null
+    },
+    {
+      "file": "check_a.png",
+      "bbox": null
+    },
+    {
+      "file": "check_b.png",
+      "bbox": null
+    },
+    {
+      "file": "choose_game.png",
+      "bbox": null
+    },
+    {
+      "file": "clock_b_result.png",
+      "bbox": null
+    },
+    {
+      "file": "clock_done.png",
+      "bbox": null
+    },
+    {
+      "file": "clock_start.png",
+      "bbox": null
+    },
+    {
+      "file": "clock_wait.png",
+      "bbox": null
+    },
+    {
+      "file": "close_field_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "confirm_left.png",
+      "bbox": null
+    },
+    {
+      "file": "context_menu_a.png",
+      "bbox": null
+    },
+    {
+      "file": "context_menu_b.png",
+      "bbox": null
+    },
+    {
+      "file": "date_confirmed.png",
+      "bbox": null
+    },
+    {
+      "file": "date_setup.png",
+      "bbox": null
+    },
+    {
+      "file": "dialogue_next.png",
+      "bbox": null
+    },
+    {
+      "file": "field_command_a.png",
+      "bbox": null
+    },
+    {
+      "file": "field_command_b.png",
+      "bbox": null
+    },
+    {
+      "file": "field_command_y.png",
+      "bbox": null
+    },
+    {
+      "file": "field_menu_x.png",
+      "bbox": null
+    },
+    {
+      "file": "field_menu_y.png",
+      "bbox": null
+    },
+    {
+      "file": "file_select.png",
+      "bbox": null
+    },
+    {
+      "file": "first_room.png",
+      "bbox": null
+    },
+    {
+      "file": "game_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "map_full.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_a.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_after_family.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_after_intro.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_ready.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_settings_start.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_story_167.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_x.png",
+      "bbox": null
+    },
+    {
+      "file": "move_down.png",
+      "bbox": null
+    },
+    {
+      "file": "new_game_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "post_shrine.png",
+      "bbox": null
+    },
+    {
+      "file": "post_story_122.png",
+      "bbox": null
+    },
+    {
+      "file": "question_again.png",
+      "bbox": null
+    },
+    {
+      "file": "question_right.png",
+      "bbox": null
+    },
+    {
+      "file": "question_up.png",
+      "bbox": null
+    },
+    {
+      "file": "return_from_map.png",
+      "bbox": null
+    },
+    {
+      "file": "right_confirm_result.png",
+      "bbox": null
+    },
+    {
+      "file": "room_dialogues_done.png",
+      "bbox": null
+    },
+    {
+      "file": "select_screen.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_lower.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_open.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_selected.png",
+      "bbox": null
+    },
+    {
+      "file": "start_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "start_story.png",
+      "bbox": null
+    },
+    {
+      "file": "story_12.png",
+      "bbox": null
+    },
+    {
+      "file": "story_122.png",
+      "bbox": null
+    },
+    {
+      "file": "story_167.png",
+      "bbox": null
+    },
+    {
+      "file": "story_32.png",
+      "bbox": null
+    },
+    {
+      "file": "story_62.png",
+      "bbox": null
+    },
+    {
+      "file": "story_87.png",
+      "bbox": null
+    },
+    {
+      "file": "story_or_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "story_transition.png",
+      "bbox": null
+    },
+    {
+      "file": "title_after_intro.png",
+      "bbox": null
+    },
+    {
+      "file": "title_idle.png",
+      "bbox": null
+    },
+    {
+      "file": "title_menu.png",
+      "bbox": null
+    }
+  ],
+  "different": [],
+  "common_captures": 85
+}

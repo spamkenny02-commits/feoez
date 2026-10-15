@@ -1,0 +1,306 @@
+{
+  "rom_sha256": "b72bb27e82fe85dd786cd182580714020d8f0d309b7ad7f22d8bf7f124db9f8a",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "1dce7b4a58a94da2ca85e5ecbb7fd4596dcba6998f954872241064d0fcfcddee",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B171-S003",
+      "case": "suima",
+      "expected_terminator": "0x4baa29",
+      "observed_terminators": [
+        "0x4baa29"
+      ],
+      "native_read_complete": true,
+      "captures": 575,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "suima_00.png",
+        "suima_01.png",
+        "suima_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B171-S018",
+      "case": "oeuf_20_ans",
+      "expected_terminator": "0x4baeab",
+      "observed_terminators": [
+        "0x4baeab"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "oeuf_20_ans_00.png",
+        "oeuf_20_ans_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B172-S011",
+      "case": "mugen",
+      "expected_terminator": "0x4bb4e3",
+      "observed_terminators": [
+        "0x4bb4e3"
+      ],
+      "native_read_complete": true,
+      "captures": 1257,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "mugen_00.png",
+        "mugen_01.png",
+        "mugen_02.png",
+        "mugen_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B172-S016",
+      "case": "sanctuaire_miroirs",
+      "expected_terminator": "0x4bb7cd",
+      "observed_terminators": [
+        "0x4bb7cd"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "sanctuaire_miroirs_00.png",
+        "sanctuaire_miroirs_01.png",
+        "sanctuaire_miroirs_02.png",
+        "sanctuaire_miroirs_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B172-S019",
+      "case": "directions_cieux",
+      "expected_terminator": "0x4bb9da",
+      "observed_terminators": [
+        "0x4bb9da"
+      ],
+      "native_read_complete": true,
+      "captures": 1997,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "directions_cieux_00.png",
+        "directions_cieux_01.png",
+        "directions_cieux_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S002",
+      "case": "alabaster",
+      "expected_terminator": "0x47f1af",
+      "observed_terminators": [
+        "0x47f1af"
+      ],
+      "native_read_complete": true,
+      "captures": 993,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "alabaster_00.png",
+        "alabaster_01.png",
+        "alabaster_02.png",
+        "alabaster_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B174-S002",
+      "case": "alabaster_alias",
+      "expected_terminator": "0x47f1af",
+      "observed_terminators": [
+        "0x47f1af"
+      ],
+      "native_read_complete": true,
+      "captures": 993,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "alabaster_alias_00.png",
+        "alabaster_alias_01.png",
+        "alabaster_alias_02.png",
+        "alabaster_alias_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S022",
+      "case": "epreuve_agni",
+      "expected_terminator": "0x47fc5d",
+      "observed_terminators": [
+        "0x47fc5d"
+      ],
+      "native_read_complete": true,
+      "captures": 650,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "epreuve_agni_00.png",
+        "epreuve_agni_01.png",
+        "epreuve_agni_02.png",
+        "epreuve_agni_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S049",
+      "case": "accusation_agni",
+      "expected_terminator": "0x480587",
+      "observed_terminators": [
+        "0x480587"
+      ],
+      "native_read_complete": true,
+      "captures": 1023,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "accusation_agni_00.png",
+        "accusation_agni_01.png",
+        "accusation_agni_02.png",
+        "accusation_agni_03.png",
+        "accusation_agni_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S064",
+      "case": "miroir_mizuki",
+      "expected_terminator": "0x4809b5",
+      "observed_terminators": [
+        "0x4809b5"
+      ],
+      "native_read_complete": true,
+      "captures": 184,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "miroir_mizuki_00.png",
+        "miroir_mizuki_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S065",
+      "case": "restauration",
+      "expected_terminator": "0x4809ff",
+      "observed_terminators": [
+        "0x4809ff"
+      ],
+      "native_read_complete": true,
+      "captures": 347,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "restauration_00.png",
+        "restauration_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S070",
+      "case": "libre_choix",
+      "expected_terminator": "0x480e96",
+      "observed_terminators": [
+        "0x480e96"
+      ],
+      "native_read_complete": true,
+      "captures": 952,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "libre_choix_00.png",
+        "libre_choix_01.png",
+        "libre_choix_02.png",
+        "libre_choix_03.png",
+        "libre_choix_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B173-S079",
+      "case": "replique_mizuki",
+      "expected_terminator": "0x481190",
+      "observed_terminators": [
+        "0x481190"
+      ],
+      "native_read_complete": true,
+      "captures": 576,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "replique_mizuki_00.png",
+        "replique_mizuki_01.png",
+        "replique_mizuki_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B175-S006",
+      "case": "condition_miroirs",
+      "expected_terminator": "0x4815af",
+      "observed_terminators": [
+        "0x4815af"
+      ],
+      "native_read_complete": true,
+      "captures": 951,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "condition_miroirs_00.png",
+        "condition_miroirs_01.png",
+        "condition_miroirs_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B175-S013",
+      "case": "amour_mizuki",
+      "expected_terminator": "0x48174a",
+      "observed_terminators": [
+        "0x48174a"
+      ],
+      "native_read_complete": true,
+      "captures": 590,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "amour_mizuki_00.png",
+        "amour_mizuki_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B175-S019",
+      "case": "reflets_unis",
+      "expected_terminator": "0x4818a0",
+      "observed_terminators": [
+        "0x4818a0"
+      ],
+      "native_read_complete": true,
+      "captures": 537,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "reflets_unis_00.png",
+        "reflets_unis_ending.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B176-S001",
+      "case": "flamme_terre",
+      "expected_terminator": "0x481951",
+      "observed_terminators": [
+        "0x481951"
+      ],
+      "native_read_complete": true,
+      "captures": 525,
+      "visual_review": "reviewed: readable accents, aliases, descriptions, pagination and native ending",
+      "review_images": [
+        "flamme_terre_00.png",
+        "flamme_terre_ending.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 54,
+  "pagination_corrections_reviewed": [
+    "B171-S018",
+    "B173-S022",
+    "B173-S070"
+  ]
+}
