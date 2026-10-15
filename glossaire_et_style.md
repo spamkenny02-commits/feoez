@@ -452,3 +452,21 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Le bloc 183 contient des invites de débogage, laissées intactes.
 - B184-S008/S010 et B189-S001/S002 : effets 09/6E/08 non réinterprétés ;
   B186-S015 : minute/seconde avec deuxième variable 05, différée.
+
+## V28 — Jardin et château de Juri
+
+- Split scroll : parchemin Scission, nom provisoire.
+- Juri’s Key : clé de Juri ; mandala flute : flûte Mandala (déjà établi).
+- « First floor » : niveau 1, en conservant la numérotation du jeu.
+- Tours : attaques à droite, parchemins à gauche ; un seul levier suffit.
+- Jardin : conserver les directions, notamment la fleur de droite, l’exception
+  à gauche et la fortune au sud-est. « EST d’Éden » reste un indice.
+- Les exemples de vocabulaire de Juri sont adaptés en français ; le château
+  reste celui de l’Arbre mystérieux. Le jeu de l’accent remplace celui du T anglais.
+- Juri et Sara sont les grandes sœurs de Mizuki, chefs des quatrième et
+  troisième escadrons respectivement. Mizuki garde sa colère et sa vulgarité.
+- Douze entrées vides et B205-S004/S005/S057 (points, pauses et nom) sont identiques.
+- Nouveaux différés : B193-S004 ; B194-S006/S009 ;
+  B197-S002/S003/S013/S014/S018/S027 (alias 198/199/200) ; B201-S006/S008 ;
+  B202-S005/S008/S009/S010 ; B205-S053. Les fragments « x5 » de B202-S009/S010
+  ne sont pas réinterprétés sans étude du contexte.

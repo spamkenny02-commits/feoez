@@ -1,0 +1,484 @@
+{
+  "rom_sha256": "9455306ddf6594777761e561c39fba9c9b39decb81a1896ec8e58aa23e45dfed",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "ae40d997ff99b258bd7b3c68cdcf046b7a190d3f26882b5d80e201a153a17375",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B193-S011",
+      "case": "bateau_100",
+      "expected_terminator": "0x4bbc25",
+      "observed_terminators": [
+        "0x4bbc25"
+      ],
+      "native_read_complete": true,
+      "captures": 293,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "bateau_100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B194-S003",
+      "case": "homme_noir",
+      "expected_terminator": "0x4bbde1",
+      "observed_terminators": [
+        "0x4bbde1"
+      ],
+      "native_read_complete": true,
+      "captures": 950,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "homme_noir_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B194-S011",
+      "case": "sanctuaire_tortue",
+      "expected_terminator": "0x4bc2fa",
+      "observed_terminators": [
+        "0x4bc2fa"
+      ],
+      "native_read_complete": true,
+      "captures": 422,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "sanctuaire_tortue_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B195-S001",
+      "case": "soin_sanctuaire",
+      "expected_terminator": "0x488e80",
+      "observed_terminators": [
+        "0x488e80"
+      ],
+      "native_read_complete": true,
+      "captures": 936,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "soin_sanctuaire_00.png",
+        "soin_sanctuaire_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B195-S005",
+      "case": "direction_pays_chien",
+      "expected_terminator": "0x489047",
+      "observed_terminators": [
+        "0x489047"
+      ],
+      "native_read_complete": true,
+      "captures": 1033,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "direction_pays_chien_00.png",
+        "direction_pays_chien_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B196-S009",
+      "case": "trajet_gratuit",
+      "expected_terminator": "0x4894a8",
+      "observed_terminators": [
+        "0x4894a8"
+      ],
+      "native_read_complete": true,
+      "captures": 1917,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "trajet_gratuit_00.png",
+        "trajet_gratuit_01.png",
+        "trajet_gratuit_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S001",
+      "case": "soleil_levant",
+      "expected_terminator": "0x48953a",
+      "observed_terminators": [
+        "0x48953a"
+      ],
+      "native_read_complete": true,
+      "captures": 367,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "soleil_levant_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S005",
+      "case": "nom_chateau",
+      "expected_terminator": "0x4897e2",
+      "observed_terminators": [
+        "0x4897e2"
+      ],
+      "native_read_complete": true,
+      "captures": 1166,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "nom_chateau_00.png",
+        "nom_chateau_01.png",
+        "nom_chateau_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S006",
+      "case": "jeux_de_mots",
+      "expected_terminator": "0x48991c",
+      "observed_terminators": [
+        "0x48991c"
+      ],
+      "native_read_complete": true,
+      "captures": 1204,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "jeux_de_mots_00.png",
+        "jeux_de_mots_01.png",
+        "jeux_de_mots_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S012",
+      "case": "panneau_corrige",
+      "expected_terminator": "0x489dc5",
+      "observed_terminators": [
+        "0x489dc5"
+      ],
+      "native_read_complete": true,
+      "captures": 1252,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "panneau_corrige_00.png",
+        "panneau_corrige_01.png",
+        "panneau_corrige_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S015",
+      "case": "ouest",
+      "expected_terminator": "0x489e9c",
+      "observed_terminators": [
+        "0x489e9c"
+      ],
+      "native_read_complete": true,
+      "captures": 886,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "ouest_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B198-S015",
+      "case": "ouest_alias",
+      "expected_terminator": "0x489e9c",
+      "observed_terminators": [
+        "0x489e9c"
+      ],
+      "native_read_complete": true,
+      "captures": 886,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "ouest_alias_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B199-S016",
+      "case": "fleur_droite_alias",
+      "expected_terminator": "0x489ee9",
+      "observed_terminators": [
+        "0x489ee9"
+      ],
+      "native_read_complete": true,
+      "captures": 675,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "fleur_droite_alias_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B200-S017",
+      "case": "fleur_gauche_alias",
+      "expected_terminator": "0x489f39",
+      "observed_terminators": [
+        "0x489f39"
+      ],
+      "native_read_complete": true,
+      "captures": 699,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "fleur_gauche_alias_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S019",
+      "case": "est_eden",
+      "expected_terminator": "0x489fc5",
+      "observed_terminators": [
+        "0x489fc5"
+      ],
+      "native_read_complete": true,
+      "captures": 411,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "est_eden_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S022",
+      "case": "fortune_sud_est",
+      "expected_terminator": "0x48a0d5",
+      "observed_terminators": [
+        "0x48a0d5"
+      ],
+      "native_read_complete": true,
+      "captures": 726,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "fortune_sud_est_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S004",
+      "case": "regles_tours",
+      "expected_terminator": "0x48ac06",
+      "observed_terminators": [
+        "0x48ac06"
+      ],
+      "native_read_complete": true,
+      "captures": 1622,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "regles_tours_00.png",
+        "regles_tours_01.png",
+        "regles_tours_02.png",
+        "regles_tours_03.png",
+        "regles_tours_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S025",
+      "case": "choix_scission",
+      "expected_terminator": "0x48b263",
+      "observed_terminators": [
+        "0x48b263"
+      ],
+      "native_read_complete": true,
+      "captures": 158,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "choix_scission_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B203-S004",
+      "case": "coffres_88",
+      "expected_terminator": "0x48b674",
+      "observed_terminators": [
+        "0x48b674"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "coffres_88_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B203-S005",
+      "case": "commandes_prediction",
+      "expected_terminator": "0x48b715",
+      "observed_terminators": [
+        "0x48b715"
+      ],
+      "native_read_complete": true,
+      "captures": 1035,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "commandes_prediction_00.png",
+        "commandes_prediction_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B203-S012",
+      "case": "numero_coffre",
+      "expected_terminator": "0x48b9c0",
+      "observed_terminators": [
+        "0x48b9c0"
+      ],
+      "native_read_complete": true,
+      "captures": 287,
+      "visual_review": "reviewed: native format markers and ending; inherited Higan placeholder, numeric value not initialized",
+      "review_images": [
+        "numero_coffre_00.png"
+      ],
+      "event_progression_validated": false,
+      "dynamic_numeric_value_validated": false
+    },
+    {
+      "entry": "B204-S009",
+      "case": "cle_juri_alias",
+      "expected_terminator": "0x48b8e4",
+      "observed_terminators": [
+        "0x48b8e4"
+      ],
+      "native_read_complete": true,
+      "captures": 323,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "cle_juri_alias_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S013",
+      "case": "mizuki_soeur",
+      "expected_terminator": "0x48bd81",
+      "observed_terminators": [
+        "0x48bd81"
+      ],
+      "native_read_complete": true,
+      "captures": 1100,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "mizuki_soeur_00.png",
+        "mizuki_soeur_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S015",
+      "case": "colere_mizuki",
+      "expected_terminator": "0x48be12",
+      "observed_terminators": [
+        "0x48be12"
+      ],
+      "native_read_complete": true,
+      "captures": 568,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "colere_mizuki_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S029",
+      "case": "fusion_sara",
+      "expected_terminator": "0x48c24c",
+      "observed_terminators": [
+        "0x48c24c"
+      ],
+      "native_read_complete": true,
+      "captures": 1047,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "fusion_sara_00.png",
+        "fusion_sara_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S035",
+      "case": "force_unie",
+      "expected_terminator": "0x48c552",
+      "observed_terminators": [
+        "0x48c552"
+      ],
+      "native_read_complete": true,
+      "captures": 1864,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "force_unie_00.png",
+        "force_unie_01.png",
+        "force_unie_02.png",
+        "force_unie_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S044",
+      "case": "identite_mizuki",
+      "expected_terminator": "0x48c8ab",
+      "observed_terminators": [
+        "0x48c8ab"
+      ],
+      "native_read_complete": true,
+      "captures": 555,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "identite_mizuki_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S048",
+      "case": "fonction_flute",
+      "expected_terminator": "0x48c97e",
+      "observed_terminators": [
+        "0x48c97e"
+      ],
+      "native_read_complete": true,
+      "captures": 1088,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "fonction_flute_00.png",
+        "fonction_flute_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S049",
+      "case": "separation_tenjin",
+      "expected_terminator": "0x48c9cd",
+      "observed_terminators": [
+        "0x48c9cd"
+      ],
+      "native_read_complete": true,
+      "captures": 404,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "separation_tenjin_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S055",
+      "case": "obtention_flute",
+      "expected_terminator": "0x48cb5d",
+      "observed_terminators": [
+        "0x48cb5d"
+      ],
+      "native_read_complete": true,
+      "captures": 153,
+      "visual_review": "reviewed: readable accents, directions, choices, pagination and complete native ending",
+      "review_images": [
+        "obtention_flute_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "pagination_corrections_reviewed": [
+    "B205-S048"
+  ],
+  "selected_captures": 51
+}

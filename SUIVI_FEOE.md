@@ -1,9 +1,10 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V27 intègre 2 189 entrées, dont 102
-nouvelles (99 textes modifiés et trois entrées vides). Sources : lot22_fr.json
-et build_v27.py, en complément des lots antérieurs et corrections_v20.json.
-Le bloc 184/185 est partagé. Les 2 087 entrées de V26 sont inchangées.
+Le README et le HEAD de main font foi. V28 intègre 2 365 entrées, dont 176
+nouvelles (161 textes modifiés, douze entrées vides et trois réponses neutres).
+Sources : lot23_fr.json et build_v28.py, en complément des lots antérieurs.
+Les blocs 197/198/199/200 et 203/204 sont partagés. Les 2 189 entrées de V27
+sont inchangées. Le constructeur conserve corrections_v20.json.
 
 ## Ressources locales
 
@@ -16,7 +17,7 @@ avant de promettre une reconstruction ou un essai ; ne jamais inventer un résul
 
 ## Prochain lot
 
-Inspecter les blocs 193 et suivants, puis les éventuels blocs antérieurs non
+Inspecter les blocs 206 et suivants, puis les éventuels blocs antérieurs non
 traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
 un numéro inférieur au dernier bloc traité n'implique pas une traduction.
 Viser un lot cohérent de 100 à 200 entrées. Préserver la séquence de toutes les
@@ -30,7 +31,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
   la police et le placement ; comparer les traductions antérieures sans les altérer.
 - Rejouer le scénario standard avec la ROM exacte ; remplacer tous les chemins
   d'états par ceux de ce nouveau parcours. Initialiser A, reset, puis tester B
-  jusqu'au résultat COMPLETE / ALL OK (scenario_checks_v27.json).
+  jusqu'au résultat COMPLETE / ALL OK (scenario_checks_v28.json).
 - Créer un état dialogue_entry avec cette même ROM. Utiliser les scripts de
   verification/reproduction et des cas propres au nouveau lot ; exiger le
   terminateur exact, relire les pages et corriger les fins de page isolées.
@@ -42,7 +43,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Relire le HEAD distant avant d'écrire. En cas de travail concurrent, ne pas
   dupliquer ni écraser ; publier avec contrôle du parent attendu, sans force.
 
-Les 23 messages différés et le bloc 132 restent inchangés. Consulter les rapports
+Les 39 messages différés et le bloc 132 restent inchangés. Consulter les rapports
 pour leurs limites. Faire un compte rendu en français avec commit et tests réalisés.
 
 V27 laisse le bloc 183 (35 invites de débogage) intact. Les nouveaux messages
@@ -50,3 +51,8 @@ différés sont B184-S008/S010 (alias 185), B186-S015 et B189-S001/S002.
 La CLI git ne dispose pas d’identifiants de push. La connexion GitHub permet
 de publier par blobs, arbre, commit puis update_ref avec le parent attendu.
 Comparer le SHA d’arbre distant à celui du commit local testé.
+
+V28 : B205-S048 a été raccourci après relecture (fin de page « apparais ! »).
+Le test de B203-S012 utilise la valeur de substitution héritée du dialogue
+de départ, pas un numéro de coffre initialisé. Ne pas prétendre valider le
+compteur ou la logique du jeu des coffres par ce rendu redirigé.

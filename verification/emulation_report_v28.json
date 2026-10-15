@@ -1,0 +1,43 @@
+{
+  "version": "V28",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "9455306ddf6594777761e561c39fba9c9b39decb81a1896ec8e58aa23e45dfed",
+  "patch_sha256": "c82145d61f7565a80fd0799bc0b06100b45750e97f88723ddbb8775cbf3f4cee",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_scenario": "reproduction/scenario_checks_v28.json",
+  "common_captures_identical_to_v27": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 30,
+  "targeted_render_report": "scenes_v28/render_report.json",
+  "pagination_fixes": [
+    "B205-S048"
+  ],
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Payments, healing, ship travel, maze signs, tower restrictions, rewards, chest logic and flute switching not validated.",
+    "B203-S012 uses the inherited Higan placeholder; no numeric chest value initialized or validated.",
+    "39 deferred messages plus blocks132/183 remain in English."
+  ]
+}
