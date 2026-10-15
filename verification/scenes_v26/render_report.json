@@ -1,0 +1,331 @@
+{
+  "rom_sha256": "0e0f9e19fb183a973fc5fe784b31007588b6016b3d764f8a8ae7f49d34d28179",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "219c64188d6c3d40882e69bd49dc63e5dceff07429083aa44744bfb30b4440b9",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B177-S002",
+      "case": "repos_oeufs",
+      "expected_terminator": "0x481a32",
+      "observed_terminators": [
+        "0x481a32"
+      ],
+      "native_read_complete": true,
+      "captures": 1130,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "repos_oeufs_00.png",
+        "repos_oeufs_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S005",
+      "case": "retour_subaru",
+      "expected_terminator": "0x481b2b",
+      "observed_terminators": [
+        "0x481b2b"
+      ],
+      "native_read_complete": true,
+      "captures": 554,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "retour_subaru_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S021",
+      "case": "origine_monstres",
+      "expected_terminator": "0x48207e",
+      "observed_terminators": [
+        "0x48207e"
+      ],
+      "native_read_complete": true,
+      "captures": 2080,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "origine_monstres_00.png",
+        "origine_monstres_01.png",
+        "origine_monstres_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S022",
+      "case": "clan_oeufs",
+      "expected_terminator": "0x482191",
+      "observed_terminators": [
+        "0x482191"
+      ],
+      "native_read_complete": true,
+      "captures": 1235,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "clan_oeufs_00.png",
+        "clan_oeufs_01.png",
+        "clan_oeufs_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S025",
+      "case": "yeux_agni",
+      "expected_terminator": "0x482392",
+      "observed_terminators": [
+        "0x482392"
+      ],
+      "native_read_complete": true,
+      "captures": 2089,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "yeux_agni_00.png",
+        "yeux_agni_01.png",
+        "yeux_agni_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S026",
+      "case": "indice_anneau",
+      "expected_terminator": "0x48246e",
+      "observed_terminators": [
+        "0x48246e"
+      ],
+      "native_read_complete": true,
+      "captures": 1519,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "indice_anneau_00.png",
+        "indice_anneau_01.png",
+        "indice_anneau_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B177-S027",
+      "case": "suima_ninigi",
+      "expected_terminator": "0x482575",
+      "observed_terminators": [
+        "0x482575"
+      ],
+      "native_read_complete": true,
+      "captures": 1298,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "suima_ninigi_00.png",
+        "suima_ninigi_01.png",
+        "suima_ninigi_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S009",
+      "case": "jour_pair",
+      "expected_terminator": "0x4829fb",
+      "observed_terminators": [
+        "0x4829fb"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "jour_pair_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S013",
+      "case": "ami_ancetres",
+      "expected_terminator": "0x482b15",
+      "observed_terminators": [
+        "0x482b15"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "ami_ancetres_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S025",
+      "case": "mizuki_tenjin",
+      "expected_terminator": "0x482dff",
+      "observed_terminators": [
+        "0x482dff"
+      ],
+      "native_read_complete": true,
+      "captures": 556,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "mizuki_tenjin_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S031",
+      "case": "jours_sanctuaire",
+      "expected_terminator": "0x482fc9",
+      "observed_terminators": [
+        "0x482fc9"
+      ],
+      "native_read_complete": true,
+      "captures": 593,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "jours_sanctuaire_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S035",
+      "case": "miroirs_parchemins",
+      "expected_terminator": "0x48313c",
+      "observed_terminators": [
+        "0x48313c"
+      ],
+      "native_read_complete": true,
+      "captures": 922,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "miroirs_parchemins_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S039",
+      "case": "colere_agni",
+      "expected_terminator": "0x483381",
+      "observed_terminators": [
+        "0x483381"
+      ],
+      "native_read_complete": true,
+      "captures": 1179,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "colere_agni_00.png",
+        "colere_agni_01.png",
+        "colere_agni_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B178-S044",
+      "case": "sceau_agni",
+      "expected_terminator": "0x483703",
+      "observed_terminators": [
+        "0x483703"
+      ],
+      "native_read_complete": true,
+      "captures": 2207,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "sceau_agni_00.png",
+        "sceau_agni_01.png",
+        "sceau_agni_02.png",
+        "sceau_agni_03.png",
+        "sceau_agni_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B179-S006",
+      "case": "forge_detruite",
+      "expected_terminator": "0x483b4a",
+      "observed_terminators": [
+        "0x483b4a"
+      ],
+      "native_read_complete": true,
+      "captures": 2107,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "forge_detruite_00.png",
+        "forge_detruite_01.png",
+        "forge_detruite_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B179-S009",
+      "case": "flamme_sang",
+      "expected_terminator": "0x483dab",
+      "observed_terminators": [
+        "0x483dab"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "flamme_sang_00.png",
+        "flamme_sang_01.png",
+        "flamme_sang_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B179-S011",
+      "case": "directions_villages",
+      "expected_terminator": "0x483e80",
+      "observed_terminators": [
+        "0x483e80"
+      ],
+      "native_read_complete": true,
+      "captures": 1031,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "directions_villages_00.png",
+        "directions_villages_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B179-S015",
+      "case": "grotte_nuages",
+      "expected_terminator": "0x484013",
+      "observed_terminators": [
+        "0x484013"
+      ],
+      "native_read_complete": true,
+      "captures": 941,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "grotte_nuages_00.png",
+        "grotte_nuages_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B180-S001",
+      "case": "seuil_cieux",
+      "expected_terminator": "0x4841b6",
+      "observed_terminators": [
+        "0x4841b6"
+      ],
+      "native_read_complete": true,
+      "captures": 434,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "seuil_cieux_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B181-S014",
+      "case": "epee_higan",
+      "expected_terminator": "0x48445c",
+      "observed_terminators": [
+        "0x48445c"
+      ],
+      "native_read_complete": true,
+      "captures": 297,
+      "visual_review": "reviewed: readable accents, pagination and complete native ending",
+      "review_images": [
+        "epee_higan_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ]
+}

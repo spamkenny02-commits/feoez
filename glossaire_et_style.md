@@ -425,3 +425,13 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Relecture V25 : B171-S018, B173-S022/S070 raccourcis pour éviter
   des pages se terminant par « Terre », « seuil des Cieux » ou « enfants »
   isolés. Sens et séquences de balises conservés.
+
+## V26 — Takamagahara et Feu d’Agni
+
+- Twin Mirror Sanctuary : sanctuaire des Miroirs jumeaux.
+- Yumedono : nom propre conservé ; lieu d’éclosion des fées du Feu.
+- Fire of Agni : Feu d’Agni ; Higan’s sword : épée d’Higan.
+- Cloud Cave : grotte des Nuages.
+- L’indice de l’anneau de l’Âme garde sa condition : l’Arche doit voler.
+- B178-S016/S019/S023/S027/S029 : points conservés tels quels.
+- Jour pair et exemples 2, 4, 20 : préserver la condition sans déduire son effet.

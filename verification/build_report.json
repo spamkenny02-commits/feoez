@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "b72bb27e82fe85dd786cd182580714020d8f0d309b7ad7f22d8bf7f124db9f8a",
-  "translated_entries": 1985,
-  "new_entries": 144,
-  "previously_integrated": 1841,
-  "new_nonempty_texts": 144,
-  "new_changed_entries": 132,
-  "new_passthrough_entries": 12,
+  "output_sha256": "0e0f9e19fb183a973fc5fe784b31007588b6016b3d764f8a8ae7f49d34d28179",
+  "translated_entries": 2087,
+  "new_entries": 102,
+  "previously_integrated": 1985,
+  "new_nonempty_texts": 102,
+  "new_changed_entries": 97,
+  "new_passthrough_entries": 5,
   "new_empty_entries_preserved": 0,
-  "integrated_entries": 1985,
+  "integrated_entries": 2087,
   "blocks": [
     {
       "block_ids": [
@@ -1875,6 +1875,97 @@
     },
     {
       "block_ids": [
+        177
+      ],
+      "source": "0x681958",
+      "destination": "0x681958",
+      "old_size": 3373,
+      "new_size": 3102,
+      "translated": 27,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x053F"
+      ],
+      "new_relative_offsets": [
+        4,
+        1303
+      ]
+    },
+    {
+      "block_ids": [
+        178
+      ],
+      "source": "0x682685",
+      "destination": "0x682685",
+      "old_size": 4503,
+      "new_size": 4223,
+      "translated": 44,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x04D7",
+        "0x09E8"
+      ],
+      "new_relative_offsets": [
+        6,
+        1272,
+        2438
+      ]
+    },
+    {
+      "block_ids": [
+        179
+      ],
+      "source": "0x68381c",
+      "destination": "0x68381c",
+      "old_size": 2372,
+      "new_size": 2186,
+      "translated": 16,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        180
+      ],
+      "source": "0x684160",
+      "destination": "0x684160",
+      "old_size": 101,
+      "new_size": 87,
+      "translated": 1,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        181
+      ],
+      "source": "0x6841c5",
+      "destination": "0x6841c5",
+      "old_size": 667,
+      "new_size": 664,
+      "translated": 14,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
         182
       ],
       "source": "0x684460",
@@ -1893,7 +1984,7 @@
       ]
     }
   ],
-  "engine_checks": 2565,
+  "engine_checks": 2667,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1903,10 +1994,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v25.json",
+  "runtime_validation": "see emulation_report_v26.json",
   "allocation_end": "0x6bba60",
   "free_bytes": 83360,
-  "in_place_blocks": 72,
+  "in_place_blocks": 77,
   "relocated_blocks": 28,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",

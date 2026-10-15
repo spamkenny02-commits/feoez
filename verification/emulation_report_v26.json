@@ -1,0 +1,47 @@
+{
+  "version": "V26",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "0e0f9e19fb183a973fc5fe784b31007588b6016b3d764f8a8ae7f49d34d28179",
+  "patch_sha256": "9bf4c2a46b0406d6996c847784b605d60f469dbb3d08d8cb2c31b256b1332910",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_scenario": "reproduction/scenario_checks_v26.json",
+  "common_captures_identical_to_v25": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 20,
+  "targeted_render_report": "scenes_v26/render_report.json",
+  "pagination_fixes": [
+    "B177-S005",
+    "B177-S025",
+    "B178-S025",
+    "B178-S031",
+    "B178-S035",
+    "B179-S015"
+  ],
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Combat outcomes, free rest, rewards, sword acquisition and mirror calendar/progression conditions not validated.",
+    "18 deferred messages and block132 remain in English."
+  ]
+}
