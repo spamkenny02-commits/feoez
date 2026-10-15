@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "0e0f9e19fb183a973fc5fe784b31007588b6016b3d764f8a8ae7f49d34d28179",
-  "translated_entries": 2087,
+  "output_sha256": "6969bf1252f9ce3a51d42c802eaac6e2b00ca63e36c62fa91973f3e1655e501b",
+  "translated_entries": 2189,
   "new_entries": 102,
-  "previously_integrated": 1985,
-  "new_nonempty_texts": 102,
-  "new_changed_entries": 97,
-  "new_passthrough_entries": 5,
-  "new_empty_entries_preserved": 0,
-  "integrated_entries": 2087,
+  "previously_integrated": 2087,
+  "new_nonempty_texts": 99,
+  "new_changed_entries": 99,
+  "new_passthrough_entries": 3,
+  "new_empty_entries_preserved": 3,
+  "integrated_entries": 2189,
   "blocks": [
     {
       "block_ids": [
@@ -1982,9 +1982,154 @@
         4,
         1583
       ]
+    },
+    {
+      "block_ids": [
+        184,
+        185
+      ],
+      "source": "0x6852ff",
+      "destination": "0x6852ff",
+      "old_size": 2338,
+      "new_size": 2235,
+      "translated": 8,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        186
+      ],
+      "source": "0x685c21",
+      "destination": "0x685c21",
+      "old_size": 2440,
+      "new_size": 2289,
+      "translated": 34,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x05D8",
+        "0x08F7"
+      ],
+      "new_relative_offsets": [
+        6,
+        1356,
+        2132
+      ]
+    },
+    {
+      "block_ids": [
+        187
+      ],
+      "source": "0x6865a9",
+      "destination": "0x6865a9",
+      "old_size": 1289,
+      "new_size": 1172,
+      "translated": 7,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        188
+      ],
+      "source": "0x686ab2",
+      "destination": "0x686ab2",
+      "old_size": 2315,
+      "new_size": 2176,
+      "translated": 25,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x062E"
+      ],
+      "new_relative_offsets": [
+        4,
+        1479
+      ]
+    },
+    {
+      "block_ids": [
+        189
+      ],
+      "source": "0x6873bd",
+      "destination": "0x6873bd",
+      "old_size": 3648,
+      "new_size": 3460,
+      "translated": 21,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x09BD"
+      ],
+      "new_relative_offsets": [
+        4,
+        2367
+      ]
+    },
+    {
+      "block_ids": [
+        190
+      ],
+      "source": "0x6881fd",
+      "destination": "0x6881fd",
+      "old_size": 640,
+      "new_size": 528,
+      "translated": 4,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        191
+      ],
+      "source": "0x68847d",
+      "destination": "0x68847d",
+      "old_size": 168,
+      "new_size": 160,
+      "translated": 2,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        192
+      ],
+      "source": "0x688525",
+      "destination": "0x688525",
+      "old_size": 154,
+      "new_size": 152,
+      "translated": 1,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
     }
   ],
-  "engine_checks": 2667,
+  "engine_checks": 2784,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -1994,10 +2139,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v26.json",
+  "runtime_validation": "see emulation_report_v27.json",
   "allocation_end": "0x6bba60",
   "free_bytes": 83360,
-  "in_place_blocks": 77,
+  "in_place_blocks": 85,
   "relocated_blocks": 28,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
@@ -2016,6 +2161,17 @@
     "149": [
       1,
       6
+    ],
+    "184": [
+      8,
+      10
+    ],
+    "186": [
+      15
+    ],
+    "189": [
+      1,
+      2
     ]
   },
   "deferred_block97_entries": [

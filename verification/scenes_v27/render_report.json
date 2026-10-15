@@ -1,0 +1,372 @@
+{
+  "rom_sha256": "6969bf1252f9ce3a51d42c802eaac6e2b00ca63e36c62fa91973f3e1655e501b",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "1cb1342b2c1526bc051d963bd252cdcf5f66e49a62b8765501ba40798b7c194e",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B184-S001",
+      "case": "mitsuko_message",
+      "expected_terminator": "0x4853a6",
+      "observed_terminators": [
+        "0x4853a6"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "mitsuko_message_00.png",
+        "mitsuko_message_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B185-S001",
+      "case": "mitsuko_alias",
+      "expected_terminator": "0x4853a6",
+      "observed_terminators": [
+        "0x4853a6"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "mitsuko_alias_00.png",
+        "mitsuko_alias_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B184-S005",
+      "case": "tortue_scellee",
+      "expected_terminator": "0x485644",
+      "observed_terminators": [
+        "0x485644"
+      ],
+      "native_read_complete": true,
+      "captures": 1981,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "tortue_scellee_00.png",
+        "tortue_scellee_01.png",
+        "tortue_scellee_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B184-S007",
+      "case": "juri_accueil",
+      "expected_terminator": "0x4857dd",
+      "observed_terminators": [
+        "0x4857dd"
+      ],
+      "native_read_complete": true,
+      "captures": 1106,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "juri_accueil_00.png",
+        "juri_accueil_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S001",
+      "case": "retour_chateau",
+      "expected_terminator": "0x485cf1",
+      "observed_terminators": [
+        "0x485cf1"
+      ],
+      "native_read_complete": true,
+      "captures": 1152,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "retour_chateau_00.png",
+        "retour_chateau_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S019",
+      "case": "permission_bateau",
+      "expected_terminator": "0x48625d",
+      "observed_terminators": [
+        "0x48625d"
+      ],
+      "native_read_complete": true,
+      "captures": 1055,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "permission_bateau_00.png",
+        "permission_bateau_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S020",
+      "case": "embarquement",
+      "expected_terminator": "0x486306",
+      "observed_terminators": [
+        "0x486306"
+      ],
+      "native_read_complete": true,
+      "captures": 1951,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "embarquement_00.png",
+        "embarquement_01.png",
+        "embarquement_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S029",
+      "case": "tarif_100",
+      "expected_terminator": "0x48642c",
+      "observed_terminators": [
+        "0x48642c"
+      ],
+      "native_read_complete": true,
+      "captures": 293,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "tarif_100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S032",
+      "case": "rotation_cinq_minutes",
+      "expected_terminator": "0x486474",
+      "observed_terminators": [
+        "0x486474"
+      ],
+      "native_read_complete": true,
+      "captures": 411,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "rotation_cinq_minutes_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B187-S002",
+      "case": "calendrier_fetes",
+      "expected_terminator": "0x48678a",
+      "observed_terminators": [
+        "0x48678a"
+      ],
+      "native_read_complete": true,
+      "captures": 1202,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "calendrier_fetes_00.png",
+        "calendrier_fetes_01.png",
+        "calendrier_fetes_02.png",
+        "calendrier_fetes_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B187-S007",
+      "case": "purification",
+      "expected_terminator": "0x486a3c",
+      "observed_terminators": [
+        "0x486a3c"
+      ],
+      "native_read_complete": true,
+      "captures": 646,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "purification_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B188-S003",
+      "case": "mitsuko_cent_ans",
+      "expected_terminator": "0x486c75",
+      "observed_terminators": [
+        "0x486c75"
+      ],
+      "native_read_complete": true,
+      "captures": 520,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "mitsuko_cent_ans_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B188-S011",
+      "case": "requete_mitsuko",
+      "expected_terminator": "0x486f59",
+      "observed_terminators": [
+        "0x486f59"
+      ],
+      "native_read_complete": true,
+      "captures": 1129,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "requete_mitsuko_00.png",
+        "requete_mitsuko_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B188-S012",
+      "case": "choix_mitsuko",
+      "expected_terminator": "0x486f8a",
+      "observed_terminators": [
+        "0x486f8a"
+      ],
+      "native_read_complete": true,
+      "captures": 223,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "choix_mitsuko_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B188-S021",
+      "case": "mizuki_morte",
+      "expected_terminator": "0x487125",
+      "observed_terminators": [
+        "0x487125"
+      ],
+      "native_read_complete": true,
+      "captures": 181,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "mizuki_morte_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B188-S024",
+      "case": "deuil_tenjin",
+      "expected_terminator": "0x487274",
+      "observed_terminators": [
+        "0x487274"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "deuil_tenjin_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S005",
+      "case": "juri_mizuki",
+      "expected_terminator": "0x487778",
+      "observed_terminators": [
+        "0x487778"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "juri_mizuki_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S008",
+      "case": "directions_lac_bleu",
+      "expected_terminator": "0x487892",
+      "observed_terminators": [
+        "0x487892"
+      ],
+      "native_read_complete": true,
+      "captures": 565,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "directions_lac_bleu_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S011",
+      "case": "stock_vendredi",
+      "expected_terminator": "0x487a4a",
+      "observed_terminators": [
+        "0x487a4a"
+      ],
+      "native_read_complete": true,
+      "captures": 932,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "stock_vendredi_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S021",
+      "case": "tresor_cerisier",
+      "expected_terminator": "0x488099",
+      "observed_terminators": [
+        "0x488099"
+      ],
+      "native_read_complete": true,
+      "captures": 1306,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "tresor_cerisier_00.png",
+        "tresor_cerisier_01.png",
+        "tresor_cerisier_02.png",
+        "tresor_cerisier_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B190-S002",
+      "case": "frontiere_pays",
+      "expected_terminator": "0x4882e1",
+      "observed_terminators": [
+        "0x4882e1"
+      ],
+      "native_read_complete": true,
+      "captures": 1984,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "frontiere_pays_00.png",
+        "frontiere_pays_01.png",
+        "frontiere_pays_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B191-S002",
+      "case": "grotte_port",
+      "expected_terminator": "0x48851c",
+      "observed_terminators": [
+        "0x48851c"
+      ],
+      "native_read_complete": true,
+      "captures": 704,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "grotte_port_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B192-S001",
+      "case": "bateau_bloque",
+      "expected_terminator": "0x4885bc",
+      "observed_terminators": [
+        "0x4885bc"
+      ],
+      "native_read_complete": true,
+      "captures": 1036,
+      "visual_review": "reviewed: readable accents, amounts, choices and complete native ending",
+      "review_images": [
+        "bateau_bloque_00.png",
+        "bateau_bloque_01.png"
+      ],
+      "event_progression_validated": false
+    }
+  ]
+}

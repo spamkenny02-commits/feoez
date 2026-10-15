@@ -1,0 +1,107 @@
+{
+  "native_reads": 25,
+  "entries": [
+    {
+      "entry": "B097-S023",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S024",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S025",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S026",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S027",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S028",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S058",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S098",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S104",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S107",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B097-S109",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B125-S003",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B130-S019",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B140-S002",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B140-S022",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B140-S027",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B149-S001",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B149-S006",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B184-S008",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B184-S010",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B185-S008",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B185-S010",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B186-S015",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B189-S001",
+      "source_bytes_preserved": true
+    },
+    {
+      "entry": "B189-S002",
+      "source_bytes_preserved": true
+    }
+  ],
+  "block132_source_bytes_preserved": true,
+  "block183_source_bytes_preserved": true
+}

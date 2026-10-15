@@ -435,3 +435,20 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - L’indice de l’anneau de l’Âme garde sa condition : l’Arche doit voler.
 - B178-S016/S019/S023/S027/S029 : points conservés tels quels.
 - Jour pair et exemples 2, 4, 20 : préserver la condition sans déduire son effet.
+
+## V27 — Pays de la Tortue
+
+- Turtle Shrine : sanctuaire de la Tortue ; divine turtle : Tortue divine.
+- Tortoise Shell Ship : bateau Carapace, nom provisoire.
+- Head Mountain Village : village du Mont-Tête ; Head Mountain : mont Tête.
+- Blue Lake Village : village du Lac bleu.
+- Fluttering Ridge : crête des Pétales ; phoenix wood : arbre phénix.
+- Mitsuko et Tenjin se vouvoient ; Juri tutoie Tenjin.
+- Fêtes : 29 avril (Enfants), 10 juin (Tortue) ; foires les dimanches de janvier,
+  juillet et octobre, conformément au texte du jeu.
+- Bateau : 100 ryo, destination renouvelée toutes les cinq minutes.
+- Boutique : renouvellement du stock seulement le vendredi.
+- B186-S014/S030 et B188-S019 : entrées vides conservées.
+- Le bloc 183 contient des invites de débogage, laissées intactes.
+- B184-S008/S010 et B189-S001/S002 : effets 09/6E/08 non réinterprétés ;
+  B186-S015 : minute/seconde avec deuxième variable 05, différée.

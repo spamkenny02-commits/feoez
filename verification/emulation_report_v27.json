@@ -1,0 +1,39 @@
+{
+  "version": "V27",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "6969bf1252f9ce3a51d42c802eaac6e2b00ca63e36c62fa91973f3e1655e501b",
+  "patch_sha256": "4a6244bdba0f6c6e6d2080f5f3d5220778eb096c1e58fa6156ff744b11846908",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_scenario": "reproduction/scenario_checks_v27.json",
+  "common_captures_identical_to_v26": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 23,
+  "targeted_render_report": "scenes_v27/render_report.json",
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Payments, ship travel and rotation, purification, calendar events, rewards and quest progression not validated.",
+    "23 deferred messages, block132 and debug block183 remain in English."
+  ]
+}
