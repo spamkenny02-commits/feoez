@@ -1,0 +1,69 @@
+{
+  "version": "V34",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+  "patch_sha256": "9a190cd8a326c60de172ace7a58654564ea205ba82a4db7771edf6aa6adeb220",
+  "fresh_boot": true,
+  "autotests": {
+    "A": "COMPLETE / ALL OK",
+    "B": "RTC BACKUP OK / S-RAM BACKUP OK"
+  },
+  "extended_backup_scenario": "reproduction/scenario_checks_v34.json",
+  "common_captures_identical_to_v33": 85,
+  "common_captures_different_to_v33": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 126,
+  "all_new_entries_rendered": 123,
+  "alias_cases": [
+    248,
+    250,
+    251
+  ],
+  "targeted_render_report": "scenes_v34/render_report.json",
+  "reproduction_runner": "reproduction/run_version_checks.py",
+  "limits": [
+    "Staged rendering is not natural event progression, battle, flight, choice selection or a playable coronation.",
+    "No new proof of timing equivalence with V32; see documented V33 fixed-frame differences.",
+    "50 untranslated messages and four debug messages remain in processed blocks; other untreated blocks are listed in unprocessed_blocks_v34.json.",
+    "Snes9x 1.60 and real hardware untested."
+  ],
+  "standard_run_provenance": [
+    {
+      "run": "fr_v34_corrected",
+      "source_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210"
+    },
+    {
+      "run": "v34_navigation_corrected",
+      "source_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210"
+    },
+    {
+      "run": "v34_check_ab_corrected",
+      "source_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210"
+    }
+  ],
+  "visual_review_report": "visual_review_v34.json",
+  "final_run_tag": "corrected"
+}

@@ -1,0 +1,69 @@
+{
+  "rom_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+  "blocks": [
+    {
+      "block_ids": [
+        132
+      ],
+      "offset": "0x6616a7",
+      "length": 20540,
+      "source_sha256": "d50c58b33d7e63d423de7149003f580886c5802f52674a3b52daac55c005b5fb",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        183
+      ],
+      "offset": "0x684fdf",
+      "length": 800,
+      "source_sha256": "a90f83f735b13582b9809f60807a78cd57b6694e3a57b0defaf94a081eef99ab",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        210
+      ],
+      "offset": "0x6913e1",
+      "length": 12232,
+      "source_sha256": "2b6f9be9f44870d9a8124ecfab49062764272c9a061b8f195f21f1a0e0500b9b",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        235
+      ],
+      "offset": "0x6a4b93",
+      "length": 8767,
+      "source_sha256": "f7d367fab7b981efd265c41ec6bf836099a70f0224adb8aac744c1a1042c3f97",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        236
+      ],
+      "offset": "0x6a6dd2",
+      "length": 1809,
+      "source_sha256": "b9f1969e840d55474f488acfe4d3aed9ff7d0324b97863a2bdce08971450f65a",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        244,
+        245
+      ],
+      "offset": "0x6a9c26",
+      "length": 137,
+      "source_sha256": "3165ee6468b62768b0c8690c0a91fd6b5ccdea2acbdc9abf1fb71354f92ff5d5",
+      "source_bytes_preserved": true
+    },
+    {
+      "block_ids": [
+        253
+      ],
+      "offset": "0x6ad1a5",
+      "length": 898,
+      "source_sha256": "7cf89547e280b90d9650bfa956e167fb4a7ef89a558bb72e6b48763988efca76",
+      "source_bytes_preserved": true
+    }
+  ]
+}

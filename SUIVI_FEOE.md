@@ -1,10 +1,9 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V33 intègre 3 037 entrées, dont 152
-nouvelles. Sources : lot28_fr.json et build_v33.py, en complément des lots
-antérieurs. Les 2 885 entrées de V32 sont inchangées. Le constructeur
-conserve corrections_v20.json. Les menus B234-S020/S021 gardent leurs lignes
-et colonnes explicites.
+Le README et le HEAD de main font foi. V34 intègre 3 160 entrées, dont 123
+nouvelles. Sources : lot29_fr.json et build_v34.py en complément des lots
+antérieurs. Les 3 037 entrées de V33 sont inchangées. Le constructeur
+conserve corrections_v20.json et les mises en page particulières héritées.
 
 ## Ressources locales
 
@@ -17,8 +16,8 @@ avant de promettre une reconstruction ou un essai ; ne jamais inventer un résul
 
 ## Prochain lot
 
-Inspecter les blocs 235/236 et 241 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
-traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
+Reprendre le journal du bloc 210, les blocs 235/236, le menu 244/245 et
+le bloc 253, puis les éventuels blocs antérieurs non traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
 un numéro inférieur au dernier bloc traité n'implique pas une traduction.
 Viser un lot cohérent de 100 à 200 entrées. Préserver la séquence de toutes les
 balises, les variantes, les conditions, les prix et les attributions des répliques.
@@ -44,7 +43,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Relire le HEAD distant avant d'écrire. En cas de travail concurrent, ne pas
   dupliquer ni écraser ; publier avec contrôle du parent attendu, sans force.
 
-Les 48 messages différés et le bloc 132 restent inchangés. Consulter les rapports
+Les messages différés et le bloc 132 restent inchangés. Consulter les rapports
 pour leurs limites. Faire un compte rendu en français avec commit et tests réalisés.
 
 V27 laisse le bloc 183 (35 invites de débogage) intact. Les nouveaux messages
@@ -104,3 +103,16 @@ Comparaison V32/V33 : 59/85 captures fixes identiques ; 26 écarts de phase
 observés, cause non établie. Ne pas annoncer une équivalence temporelle
 complète. Trois écrans finaux de navigation identiques ; contrôles détaillés
 dans emulation_report_v33.json et boot_controls_v33/report.json.
+
+V34 ajoute les blocs 241/242/243/246/247/249/252 (123 entrées). Les alias
+248 et 250/251 sont couverts. B252-S018/S019 restent différés (effet 09/6E) ;
+B252-S098 à S101 sont des invites de débogage laissées en anglais. Les blocs
+235/236 et 244/245 sont intacts. Prochain lot : 253 et journal210, ou prise
+en charge raisonnée des effets avant de traduire 235/236.
+
+Pagination V34 : B247-S005 et B252-S008/S025 resserrés avant essais ;
+B242-S003, B246-S004 et B252-S002/S010/S014/S021/S037/S094 corrigés après
+relecture. Les preuves finales utilisent le tag corrected pour V34 et V33.
+Les captures intermédiaires de pause peuvent répéter un texte partiel.
+B252-S039/S059 gardent des lignes finales vides héritées de la source ;
+une capture vide après le texte complet ne signifie pas un message absent.

@@ -562,3 +562,20 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - B234-S050 reste en anglais à cause de son effet <09><6E>...<08>.
   Les blocs 235/236, riches en effets encore non pris en charge, ne sont
   pas traités dans ce lot.
+
+## Lot 29 — gardiens, Akamaru et couronnement (V34)
+
+- Guardian stone depictions : statues des bêtes gardiennes ; la statue du Chien
+  reste explicitement griffée. La Grue marque la moitié du trajet.
+- Raging Ogre : Ogre furieux, épithète de Doki, bras droit d'Akamaru.
+- Akamaru conserve l'épithète « né des Enfers » et commande la deuxième division.
+- Atramentous Alabaster, Omine au grand cœur, Sabreur des Ténèbres, ville du
+  Cercle Fleuri, grotte de la Beauté et village de la Pointe du Feu reprennent
+  les noms établis ; pas de nouvelle traduction concurrente.
+- Ninigi affirme avoir créé les humains et la Terre : ses propos restent les
+  affirmations du personnage. Le dénouement distingue conseiller le peuple
+  et lui imposer ses ordres ; « ruler » y devient « despote » dans ce contexte.
+- Les annonces Tenjin/Mizuki restent distinctes. Le message suivant conserve
+  le miroir de Tenjin tel que dans la source, sans corriger la logique supposée.
+- Les invitations au trône sont des textes de scénario ; leur rendu isolé
+  ne valide ni la victoire contre Ninigi ni l'accès naturel au couronnement.
