@@ -1,9 +1,9 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V29 intègre 2 563 entrées, dont 198
-nouvelles. Sources : lot24_fr.json et build_v29.py, en complément des lots
-antérieurs. Le bloc 206/207 est partagé. Les 2 365 entrées de V28 sont
-inchangées. Le constructeur conserve corrections_v20.json.
+Le README et le HEAD de main font foi. V30 intègre 2 601 entrées, dont 38
+nouvelles. Sources : lot25_fr.json et build_v30.py, en complément des lots
+antérieurs. Les 2 563 entrées de V29 sont inchangées. Le constructeur
+conserve corrections_v20.json.
 
 ## Ressources locales
 
@@ -16,7 +16,7 @@ avant de promettre une reconstruction ou un essai ; ne jamais inventer un résul
 
 ## Prochain lot
 
-Inspecter les blocs 214 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
+Inspecter les blocs 217 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
 traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
 un numéro inférieur au dernier bloc traité n'implique pas une traduction.
 Viser un lot cohérent de 100 à 200 entrées. Préserver la séquence de toutes les
@@ -30,7 +30,8 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
   la police et le placement ; comparer les traductions antérieures sans les altérer.
 - Rejouer le scénario standard avec la ROM exacte ; remplacer tous les chemins
   d'états par ceux de ce nouveau parcours. Initialiser A, reset, puis tester B
-  jusqu'au résultat COMPLETE / ALL OK (scenario_checks_v29.json).
+  jusqu'aux résultats attendus (A : COMPLETE / ALL OK ; B : les deux BACKUP OK,
+  scenario_checks_v30.json).
 - Créer un état dialogue_entry avec cette même ROM. Utiliser les scripts de
   verification/reproduction et des cas propres au nouveau lot ; exiger le
   terminateur exact, relire les pages et corriger les fins de page isolées.
@@ -63,3 +64,9 @@ la relecture visuelle en attente : les images doivent être inspectées.
 
 Pagination V29 : B206-S001, B208-S013, B209-S025, B211-S005/S010 raccourcis
 après relecture ; reconstruire et tester uniquement la ROM finale corrigée.
+
+V30 : petit lot cohérent de 38 entrées, blocs 214-216, tous rendus à l'écran.
+B215-S006/S012 et B216-S005 raccourcis après relecture. Les preuves finales
+doivent utiliser les parcours corrected, liés à la ROM finale. Le contrôle
+A affiche COMPLETE / ALL OK ; B affiche OK pour RTC BACKUP et S-RAM BACKUP.
+Ne pas prétendre que B affiche aussi un écran COMPLETE / ALL OK.

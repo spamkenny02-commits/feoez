@@ -485,3 +485,18 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Trois cents ans de sommeil puis deux cents ans éveillés : conserver les durées.
 - B212-S018 (heure, variables 04/05) reste inchangé. Le journal du bloc 210
   reste à traiter séparément.
+
+## V30 — Ermites et Arche des Cieux
+
+- Snort / Swift / Sting : Grognement / Rapidité / Piqûre, provisoires.
+- Coolness : charisme, provisoire ; ne préjuge pas du libellé du menu.
+- Electric Catfish / Wind Falcon / Steel Lion / Icy World Spider :
+  Silure électrique / Faucon du vent / Lion d'acier / Araignée du monde de glace,
+  provisoires ; Blazing Elephant conserve Éléphant ardent.
+- Fortress of Fire : forteresse du Feu ; ancien nom du château de la Tortue.
+- Grognement peut toucher un allié ou un ennemi et affecter l'une des cinq
+  caractéristiques citées ; aucun sens de variation n'est ajouté.
+- Piqûre réduit la défense et augmente l'attaque d'un allié. Rapidité
+  augmente sa vitesse. Les effets réels en combat restent à tester.
+- Les indications de l'ermite Courant gardent les orientations et les îles
+  du script anglais. L'Arche des Cieux et Takamagahara gardent leurs noms.

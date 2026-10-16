@@ -1,0 +1,47 @@
+{
+  "version": "V30",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "ecc51cecf16a97edb6d69735098f29e22f140566fead0fd0d52679f5c8667437",
+  "patch_sha256": "b4c276c3a13e671e719fb4d3e07cb5bdeb8c41c3a654df1dccdca830509f2ec6",
+  "fresh_boot": true,
+  "autotests": {
+    "A": "COMPLETE / ALL OK",
+    "B": "RTC BACKUP OK / S-RAM BACKUP OK"
+  },
+  "extended_backup_scenario": "reproduction/scenario_checks_v30.json",
+  "common_captures_identical_to_v29": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 38,
+  "targeted_render_report": "scenes_v30/render_report.json",
+  "pagination_fixes": [
+    "B215-S006",
+    "B215-S012",
+    "B216-S005"
+  ],
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Combat, spell effects, rewards and actual Ark travel not validated.",
+    "40 deferred messages in processed blocks; journal block210 and blocks217 onward not processed; blocks132/183 unchanged."
+  ]
+}

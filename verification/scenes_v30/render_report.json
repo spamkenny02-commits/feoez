@@ -1,0 +1,615 @@
+{
+  "rom_sha256": "ecc51cecf16a97edb6d69735098f29e22f140566fead0fd0d52679f5c8667437",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "016e7c86ff1ae68ffb75b8dcf24a836148109d14b8a292f5ff7d3b2523a55184",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B214-S001",
+      "case": "b214_s01",
+      "expected_terminator": "0x4964b3",
+      "observed_terminators": [
+        "0x4964b3"
+      ],
+      "native_read_complete": true,
+      "captures": 310,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s01_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S002",
+      "case": "b214_s02",
+      "expected_terminator": "0x4964c4",
+      "observed_terminators": [
+        "0x4964c4"
+      ],
+      "native_read_complete": true,
+      "captures": 130,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s02_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S003",
+      "case": "b214_s03",
+      "expected_terminator": "0x4964e0",
+      "observed_terminators": [
+        "0x4964e0"
+      ],
+      "native_read_complete": true,
+      "captures": 231,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s03_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S004",
+      "case": "b214_s04",
+      "expected_terminator": "0x4965af",
+      "observed_terminators": [
+        "0x4965af"
+      ],
+      "native_read_complete": true,
+      "captures": 1941,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s04_00.png",
+        "b214_s04_01.png",
+        "b214_s04_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S005",
+      "case": "b214_s05",
+      "expected_terminator": "0x49665a",
+      "observed_terminators": [
+        "0x49665a"
+      ],
+      "native_read_complete": true,
+      "captures": 2016,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s05_00.png",
+        "b214_s05_01.png",
+        "b214_s05_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S006",
+      "case": "b214_s06",
+      "expected_terminator": "0x49669b",
+      "observed_terminators": [
+        "0x49669b"
+      ],
+      "native_read_complete": true,
+      "captures": 580,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s06_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S007",
+      "case": "b214_s07",
+      "expected_terminator": "0x4966cf",
+      "observed_terminators": [
+        "0x4966cf"
+      ],
+      "native_read_complete": true,
+      "captures": 464,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s07_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S008",
+      "case": "b214_s08",
+      "expected_terminator": "0x49670c",
+      "observed_terminators": [
+        "0x49670c"
+      ],
+      "native_read_complete": true,
+      "captures": 559,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s08_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B214-S009",
+      "case": "b214_s09",
+      "expected_terminator": "0x4967c6",
+      "observed_terminators": [
+        "0x4967c6"
+      ],
+      "native_read_complete": true,
+      "captures": 2031,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b214_s09_00.png",
+        "b214_s09_01.png",
+        "b214_s09_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S001",
+      "case": "b215_s01",
+      "expected_terminator": "0x49688c",
+      "observed_terminators": [
+        "0x49688c"
+      ],
+      "native_read_complete": true,
+      "captures": 676,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s01_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S002",
+      "case": "b215_s02",
+      "expected_terminator": "0x49696c",
+      "observed_terminators": [
+        "0x49696c"
+      ],
+      "native_read_complete": true,
+      "captures": 914,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s02_00.png",
+        "b215_s02_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S003",
+      "case": "b215_s03",
+      "expected_terminator": "0x496b07",
+      "observed_terminators": [
+        "0x496b07"
+      ],
+      "native_read_complete": true,
+      "captures": 625,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s03_00.png",
+        "b215_s03_01.png",
+        "b215_s03_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S004",
+      "case": "b215_s04",
+      "expected_terminator": "0x496b52",
+      "observed_terminators": [
+        "0x496b52"
+      ],
+      "native_read_complete": true,
+      "captures": 800,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s04_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S005",
+      "case": "b215_s05",
+      "expected_terminator": "0x496e17",
+      "observed_terminators": [
+        "0x496e17"
+      ],
+      "native_read_complete": true,
+      "captures": 1279,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s05_00.png",
+        "b215_s05_01.png",
+        "b215_s05_02.png",
+        "b215_s05_03.png",
+        "b215_s05_04.png",
+        "b215_s05_05.png",
+        "b215_s05_06.png",
+        "b215_s05_07.png",
+        "b215_s05_08.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S006",
+      "case": "b215_s06",
+      "expected_terminator": "0x496f37",
+      "observed_terminators": [
+        "0x496f37"
+      ],
+      "native_read_complete": true,
+      "captures": 573,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s06_00.png",
+        "b215_s06_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S007",
+      "case": "b215_s07",
+      "expected_terminator": "0x497006",
+      "observed_terminators": [
+        "0x497006"
+      ],
+      "native_read_complete": true,
+      "captures": 1004,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s07_00.png",
+        "b215_s07_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S008",
+      "case": "b215_s08",
+      "expected_terminator": "0x4972b0",
+      "observed_terminators": [
+        "0x4972b0"
+      ],
+      "native_read_complete": true,
+      "captures": 2272,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s08_00.png",
+        "b215_s08_01.png",
+        "b215_s08_02.png",
+        "b215_s08_03.png",
+        "b215_s08_04.png",
+        "b215_s08_05.png",
+        "b215_s08_06.png",
+        "b215_s08_07.png",
+        "b215_s08_08.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S009",
+      "case": "b215_s09",
+      "expected_terminator": "0x4973af",
+      "observed_terminators": [
+        "0x4973af"
+      ],
+      "native_read_complete": true,
+      "captures": 625,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s09_00.png",
+        "b215_s09_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S010",
+      "case": "b215_s10",
+      "expected_terminator": "0x49743e",
+      "observed_terminators": [
+        "0x49743e"
+      ],
+      "native_read_complete": true,
+      "captures": 525,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s10_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S011",
+      "case": "b215_s11",
+      "expected_terminator": "0x4974fc",
+      "observed_terminators": [
+        "0x4974fc"
+      ],
+      "native_read_complete": true,
+      "captures": 598,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s11_00.png",
+        "b215_s11_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S012",
+      "case": "b215_s12",
+      "expected_terminator": "0x4976ab",
+      "observed_terminators": [
+        "0x4976ab"
+      ],
+      "native_read_complete": true,
+      "captures": 1085,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s12_00.png",
+        "b215_s12_01.png",
+        "b215_s12_02.png",
+        "b215_s12_03.png",
+        "b215_s12_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S013",
+      "case": "b215_s13",
+      "expected_terminator": "0x4976dd",
+      "observed_terminators": [
+        "0x4976dd"
+      ],
+      "native_read_complete": true,
+      "captures": 434,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s13_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S014",
+      "case": "b215_s14",
+      "expected_terminator": "0x49770d",
+      "observed_terminators": [
+        "0x49770d"
+      ],
+      "native_read_complete": true,
+      "captures": 416,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s14_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S015",
+      "case": "b215_s15",
+      "expected_terminator": "0x497740",
+      "observed_terminators": [
+        "0x497740"
+      ],
+      "native_read_complete": true,
+      "captures": 443,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s15_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S016",
+      "case": "b215_s16",
+      "expected_terminator": "0x49776e",
+      "observed_terminators": [
+        "0x49776e"
+      ],
+      "native_read_complete": true,
+      "captures": 398,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s16_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S017",
+      "case": "b215_s17",
+      "expected_terminator": "0x49779e",
+      "observed_terminators": [
+        "0x49779e"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s17_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S018",
+      "case": "b215_s18",
+      "expected_terminator": "0x4977cd",
+      "observed_terminators": [
+        "0x4977cd"
+      ],
+      "native_read_complete": true,
+      "captures": 402,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s18_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B215-S019",
+      "case": "b215_s19",
+      "expected_terminator": "0x4977f8",
+      "observed_terminators": [
+        "0x4977f8"
+      ],
+      "native_read_complete": true,
+      "captures": 364,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b215_s19_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S001",
+      "case": "b216_s01",
+      "expected_terminator": "0x497995",
+      "observed_terminators": [
+        "0x497995"
+      ],
+      "native_read_complete": true,
+      "captures": 288,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s01_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S002",
+      "case": "b216_s02",
+      "expected_terminator": "0x4979c1",
+      "observed_terminators": [
+        "0x4979c1"
+      ],
+      "native_read_complete": true,
+      "captures": 246,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s02_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S003",
+      "case": "b216_s03",
+      "expected_terminator": "0x4979fa",
+      "observed_terminators": [
+        "0x4979fa"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s03_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S004",
+      "case": "b216_s04",
+      "expected_terminator": "0x497a75",
+      "observed_terminators": [
+        "0x497a75"
+      ],
+      "native_read_complete": true,
+      "captures": 1059,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s04_00.png",
+        "b216_s04_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S005",
+      "case": "b216_s05",
+      "expected_terminator": "0x497af8",
+      "observed_terminators": [
+        "0x497af8"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s05_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S006",
+      "case": "b216_s06",
+      "expected_terminator": "0x497b49",
+      "observed_terminators": [
+        "0x497b49"
+      ],
+      "native_read_complete": true,
+      "captures": 1175,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s06_00.png",
+        "b216_s06_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S007",
+      "case": "b216_s07",
+      "expected_terminator": "0x497b67",
+      "observed_terminators": [
+        "0x497b67"
+      ],
+      "native_read_complete": true,
+      "captures": 143,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s07_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S008",
+      "case": "b216_s08",
+      "expected_terminator": "0x497bc4",
+      "observed_terminators": [
+        "0x497bc4"
+      ],
+      "native_read_complete": true,
+      "captures": 506,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s08_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S009",
+      "case": "b216_s09",
+      "expected_terminator": "0x497bf5",
+      "observed_terminators": [
+        "0x497bf5"
+      ],
+      "native_read_complete": true,
+      "captures": 238,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s09_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B216-S010",
+      "case": "b216_s10",
+      "expected_terminator": "0x497c1a",
+      "observed_terminators": [
+        "0x497c1a"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "visual_review": "reviewed: final rendered pages; no clipped text or isolated final word observed",
+      "review_images": [
+        "b216_s10_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 73,
+  "visual_review_scope": "All selected final page captures inspected; staged rendering only. Pause commands can produce partial duplicate pages."
+}
