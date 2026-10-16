@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "8c7af618a1783fc630c70d346e9c6a2efc7f33c1d730cc1cc5a16fae4b82d57e",
-  "translated_entries": 2751,
-  "new_entries": 150,
-  "previously_integrated": 2601,
-  "new_nonempty_texts": 150,
-  "new_changed_entries": 149,
+  "output_sha256": "a3f250dcde24628bcaeceb253b8108b5d925dc1fbe494374331b215407947ec8",
+  "translated_entries": 2885,
+  "new_entries": 134,
+  "previously_integrated": 2751,
+  "new_nonempty_texts": 133,
+  "new_changed_entries": 133,
   "new_passthrough_entries": 1,
-  "new_empty_entries_preserved": 0,
-  "integrated_entries": 2751,
+  "new_empty_entries_preserved": 1,
+  "integrated_entries": 2885,
   "blocks": [
     {
       "block_ids": [
@@ -2604,9 +2604,143 @@
       "new_relative_offsets": [
         2
       ]
+    },
+    {
+      "block_ids": [
+        225
+      ],
+      "source": "0x69e061",
+      "destination": "0x69e061",
+      "old_size": 5921,
+      "new_size": 5310,
+      "translated": 50,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0008",
+        "0x08C8",
+        "0x0CE3",
+        "0x1621"
+      ],
+      "new_relative_offsets": [
+        8,
+        2010,
+        3016,
+        5079
+      ]
+    },
+    {
+      "block_ids": [
+        226,
+        227
+      ],
+      "source": "0x69f782",
+      "destination": "0x69f782",
+      "old_size": 257,
+      "new_size": 254,
+      "translated": 3,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        228
+      ],
+      "source": "0x69f883",
+      "destination": "0x69f883",
+      "old_size": 551,
+      "new_size": 425,
+      "translated": 4,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        229
+      ],
+      "source": "0x69faaa",
+      "destination": "0x69faaa",
+      "old_size": 4504,
+      "new_size": 3941,
+      "translated": 34,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0838",
+        "0x0F9B"
+      ],
+      "new_relative_offsets": [
+        6,
+        1837,
+        3467
+      ]
+    },
+    {
+      "block_ids": [
+        230
+      ],
+      "source": "0x6a0c42",
+      "destination": "0x6a0c42",
+      "old_size": 355,
+      "new_size": 342,
+      "translated": 4,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        231
+      ],
+      "source": "0x6a0da5",
+      "destination": "0x6a0da5",
+      "old_size": 2968,
+      "new_size": 2614,
+      "translated": 31,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0506",
+        "0x0A8C"
+      ],
+      "new_relative_offsets": [
+        6,
+        1155,
+        2321
+      ]
+    },
+    {
+      "block_ids": [
+        232
+      ],
+      "source": "0x6a193d",
+      "destination": "0x6a193d",
+      "old_size": 940,
+      "new_size": 802,
+      "translated": 8,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
     }
   ],
-  "engine_checks": 3532,
+  "engine_checks": 3675,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -2617,10 +2751,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v31.json",
+  "runtime_validation": "see emulation_report_v32.json",
   "allocation_end": "0x6bc430",
   "free_bytes": 80848,
-  "in_place_blocks": 107,
+  "in_place_blocks": 114,
   "relocated_blocks": 31,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
@@ -2684,6 +2818,18 @@
     ],
     "221": [
       22
+    ],
+    "225": [
+      12
+    ],
+    "229": [
+      12
+    ],
+    "231": [
+      10,
+      13,
+      29,
+      32
     ]
   },
   "deferred_block97_entries": [

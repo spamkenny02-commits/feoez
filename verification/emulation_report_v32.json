@@ -1,0 +1,44 @@
+{
+  "version": "V32",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "a3f250dcde24628bcaeceb253b8108b5d925dc1fbe494374331b215407947ec8",
+  "patch_sha256": "24a05c2210e8e311fe5a9590eb63f6bbf72b1a3aa08604647c28eb034fc98ffe",
+  "fresh_boot": true,
+  "autotests": {
+    "A": "COMPLETE / ALL OK",
+    "B": "RTC BACKUP OK / S-RAM BACKUP OK"
+  },
+  "extended_backup_scenario": "reproduction/scenario_checks_v32.json",
+  "common_captures_identical_to_v31": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 54,
+  "targeted_render_report": "scenes_v32/render_report.json",
+  "reproduction_runner": "reproduction/run_version_checks.py",
+  "existing_evidence_reuse_rejected": true,
+  "limits": [
+    "Staged native rendering; not natural event progression.",
+    "Choices, combat, group recruitment, tea effects, payments, purchases, real calendar and flight not validated.",
+    "47 deferred messages in processed blocks; journal210 not processed; blocks132/183 unchanged."
+  ]
+}

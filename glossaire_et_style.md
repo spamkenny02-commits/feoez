@@ -521,3 +521,23 @@ aux traditions, sans masquer leurs réticences envers Higan.
   partagent leurs textes. Le rendu ne valide pas les branches de fin.
 - Le manju bouddhiste, les seize fusions et la commande Ma-Djinn sont
   conservés dans les indices. Le tarif de l'auberge est de cinquante ryo.
+
+## V32 — Double-Chance, Subaru et marché
+
+- Typha Mixer Pharmacy : pharmacie Massette, nom de boutique provisoire.
+- Chestnuttery : La Châtaigneraie ; chestnut manju : manju aux châtaignes.
+  Skedaddle! : Déguerpis ! ; Ring <15> Ring : Bague <15> Bague.
+  Le séparateur <15> est conservé. Noms provisoires.
+- Kusa dango : nom conservé de la friandise offerte à cache-cache.
+- Hellborn : né des Enfers, épithète d'Akamaru ; son nom propre ne change pas.
+- Le thé rouge conserve ses deux variantes : eau de pluie et poison, puis
+  gingembre mariné et restauration complète de santé/technique.
+- L'ancien indique le nord-ouest depuis Double-Chance pour l'ermite
+  Bouddhiste ; les indications depuis le marché restent distinctes.
+- Calendrier : boutique générale, armures et chaussures les lundi, mercredi,
+  vendredi et dimanche ; châtaignes, lames et bagues les mardi, jeudi,
+  samedi et dimanche. Produits spéciaux de châtaignes le dimanche.
+  Manju bouddhistes tous les jours, de 10 h à 22 h.
+- Commission de trente pour cent, auberges à 100 et 50 ryo : valeurs conservées.
+- B225-S012, B229-S012 et B231-S010/S013/S029/S032 restent en anglais
+  à cause de commandes/effets non pris en charge ; leurs octets sont préservés.

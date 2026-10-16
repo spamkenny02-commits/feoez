@@ -1,0 +1,6 @@
+{
+  "reuse_of_existing_evidence_rejected": true,
+  "exit_code": 2,
+  "existing_storage_log_unchanged": true,
+  "scope": "Evidence-directory protection; real new-directory execution exercised by the V32 emulator run."
+}
