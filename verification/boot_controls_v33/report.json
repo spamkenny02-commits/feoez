@@ -1,0 +1,96 @@
+{
+  "hold_frames": 1200,
+  "scope": "Own-ROM fresh states, no input. Animated scenes can continue; this is not a natural playthrough.",
+  "runs": {
+    "v32": {
+      "rom_sha256": "a3f250dcde24628bcaeceb253b8108b5d925dc1fbe494374331b215407947ec8",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "states": [
+        {
+          "state": "story_122",
+          "sha256": "0d3b80b2b49d8b3bbb2445723a4eaa05aa62996186f09453eac8b41fb1cd0e94"
+        },
+        {
+          "state": "story_167",
+          "sha256": "c4aa90d930875ed1ee2c2786b67ac59b32d2bd180e19f82badab4be6c23298aa"
+        },
+        {
+          "state": "field_command_b",
+          "sha256": "ed53e414cb2316e4e8ff209b3e033889e938da4c3cb423fe9c31c8ec4c04f3ef"
+        }
+      ],
+      "scope": "Own-ROM fresh states, no input. Animated scenes can continue; this is not a natural playthrough.",
+      "hold_frames": 1200
+    },
+    "v33": {
+      "rom_sha256": "3a4bdaf08c55edd610daf153a198a15cb45462738d90d2507fe4fa076403ec2c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "states": [
+        {
+          "state": "story_122",
+          "sha256": "6d0c77634ec3a18663f74eac9e776d791b4b3fb9fcdf09226783a7a1fe6fe739"
+        },
+        {
+          "state": "story_167",
+          "sha256": "0474e3dc1ac6bce83427cdd733b4ebbee482271553b33cc2cf080c345cffd802"
+        },
+        {
+          "state": "field_command_b",
+          "sha256": "73d08f54b8264096ec1ac70c2d7a8e0fc107c8ea0f9e4466c8e55fb22e627196"
+        }
+      ],
+      "scope": "Own-ROM fresh states, no input. Animated scenes can continue; this is not a natural playthrough.",
+      "hold_frames": 1200
+    }
+  },
+  "comparisons": [
+    {
+      "capture": "story_122",
+      "dialogue_crop": [
+        0,
+        160,
+        256,
+        224
+      ],
+      "dialogue_pixels_identical": false,
+      "full_frame_difference_bbox": [
+        24,
+        72,
+        214,
+        190
+      ]
+    },
+    {
+      "capture": "story_167",
+      "dialogue_crop": [
+        0,
+        160,
+        256,
+        224
+      ],
+      "dialogue_pixels_identical": true,
+      "full_frame_difference_bbox": [
+        81,
+        82,
+        93,
+        91
+      ]
+    },
+    {
+      "capture": "field_command_b",
+      "dialogue_crop": [
+        0,
+        160,
+        256,
+        224
+      ],
+      "dialogue_pixels_identical": true,
+      "full_frame_difference_bbox": [
+        88,
+        24,
+        247,
+        135
+      ]
+    }
+  ]
+}

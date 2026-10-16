@@ -1,0 +1,1033 @@
+{
+  "rom_sha256": "3a4bdaf08c55edd610daf153a198a15cb45462738d90d2507fe4fa076403ec2c",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "1bbbf017742fd9e51703d0c91ec932839af2863f7305efd139e2b84a0a564a16",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B233-S004",
+      "case": "b233_s04",
+      "expected_terminator": "0x4a1ef4",
+      "observed_terminators": [
+        "0x4a1ef4"
+      ],
+      "native_read_complete": true,
+      "captures": 1832,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s04_00.png",
+        "b233_s04_01.png",
+        "b233_s04_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B233-S009",
+      "case": "b233_s09",
+      "expected_terminator": "0x4a21a1",
+      "observed_terminators": [
+        "0x4a21a1"
+      ],
+      "native_read_complete": true,
+      "captures": 989,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s09_00.png",
+        "b233_s09_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B233-S011",
+      "case": "b233_s11",
+      "expected_terminator": "0x4a224d",
+      "observed_terminators": [
+        "0x4a224d"
+      ],
+      "native_read_complete": true,
+      "captures": 193,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s11_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B233-S016",
+      "case": "b233_s16",
+      "expected_terminator": "0x4a2314",
+      "observed_terminators": [
+        "0x4a2314"
+      ],
+      "native_read_complete": true,
+      "captures": 862,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s16_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B233-S019",
+      "case": "b233_s19",
+      "expected_terminator": "0x4a24cc",
+      "observed_terminators": [
+        "0x4a24cc"
+      ],
+      "native_read_complete": true,
+      "captures": 1924,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s19_00.png",
+        "b233_s19_01.png",
+        "b233_s19_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B233-S020",
+      "case": "b233_s20",
+      "expected_terminator": "0x4a2551",
+      "observed_terminators": [
+        "0x4a2551"
+      ],
+      "native_read_complete": true,
+      "captures": 924,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b233_s20_00.png",
+        "b233_s20_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S004",
+      "case": "b234_s04",
+      "expected_terminator": "0x4a2818",
+      "observed_terminators": [
+        "0x4a2818"
+      ],
+      "native_read_complete": true,
+      "captures": 1034,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s04_00.png",
+        "b234_s04_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S008",
+      "case": "b234_s08",
+      "expected_terminator": "0x4a2928",
+      "observed_terminators": [
+        "0x4a2928"
+      ],
+      "native_read_complete": true,
+      "captures": 986,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s08_00.png",
+        "b234_s08_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S010",
+      "case": "b234_s10",
+      "expected_terminator": "0x4a2a39",
+      "observed_terminators": [
+        "0x4a2a39"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s10_00.png",
+        "b234_s10_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S013",
+      "case": "b234_s13",
+      "expected_terminator": "0x4a2b77",
+      "observed_terminators": [
+        "0x4a2b77"
+      ],
+      "native_read_complete": true,
+      "captures": 957,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s13_00.png",
+        "b234_s13_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S015",
+      "case": "b234_s15",
+      "expected_terminator": "0x4a2c66",
+      "observed_terminators": [
+        "0x4a2c66"
+      ],
+      "native_read_complete": true,
+      "captures": 921,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s15_00.png",
+        "b234_s15_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S019",
+      "case": "b234_s19",
+      "expected_terminator": "0x4a2dae",
+      "observed_terminators": [
+        "0x4a2dae"
+      ],
+      "native_read_complete": true,
+      "captures": 967,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s19_00.png",
+        "b234_s19_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S020",
+      "case": "b234_s20",
+      "expected_terminator": "0x4a2e46",
+      "observed_terminators": [
+        "0x4a2e46"
+      ],
+      "native_read_complete": true,
+      "captures": 1356,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s20_00.png",
+        "b234_s20_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S021",
+      "case": "b234_s21",
+      "expected_terminator": "0x4a2e70",
+      "observed_terminators": [
+        "0x4a2e70"
+      ],
+      "native_read_complete": true,
+      "captures": 362,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s21_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S022",
+      "case": "b234_s22",
+      "expected_terminator": "0x4a2e83",
+      "observed_terminators": [
+        "0x4a2e83"
+      ],
+      "native_read_complete": true,
+      "captures": 154,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s22_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S025",
+      "case": "b234_s25",
+      "expected_terminator": "0x4a2ee6",
+      "observed_terminators": [
+        "0x4a2ee6"
+      ],
+      "native_read_complete": true,
+      "captures": 591,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s25_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S028",
+      "case": "b234_s28",
+      "expected_terminator": "0x4a317d",
+      "observed_terminators": [
+        "0x4a317d"
+      ],
+      "native_read_complete": true,
+      "captures": 1095,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s28_00.png",
+        "b234_s28_01.png",
+        "b234_s28_02.png",
+        "b234_s28_03.png",
+        "b234_s28_04.png",
+        "b234_s28_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S029",
+      "case": "b234_s29",
+      "expected_terminator": "0x4a32d9",
+      "observed_terminators": [
+        "0x4a32d9"
+      ],
+      "native_read_complete": true,
+      "captures": 2112,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s29_00.png",
+        "b234_s29_01.png",
+        "b234_s29_02.png",
+        "b234_s29_03.png",
+        "b234_s29_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S030",
+      "case": "b234_s30",
+      "expected_terminator": "0x4a3416",
+      "observed_terminators": [
+        "0x4a3416"
+      ],
+      "native_read_complete": true,
+      "captures": 1013,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s30_00.png",
+        "b234_s30_01.png",
+        "b234_s30_02.png",
+        "b234_s30_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S031",
+      "case": "b234_s31",
+      "expected_terminator": "0x4a355d",
+      "observed_terminators": [
+        "0x4a355d"
+      ],
+      "native_read_complete": true,
+      "captures": 2129,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s31_00.png",
+        "b234_s31_01.png",
+        "b234_s31_02.png",
+        "b234_s31_03.png",
+        "b234_s31_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S032",
+      "case": "b234_s32",
+      "expected_terminator": "0x4a366a",
+      "observed_terminators": [
+        "0x4a366a"
+      ],
+      "native_read_complete": true,
+      "captures": 993,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s32_00.png",
+        "b234_s32_01.png",
+        "b234_s32_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S033",
+      "case": "b234_s33",
+      "expected_terminator": "0x4a376c",
+      "observed_terminators": [
+        "0x4a376c"
+      ],
+      "native_read_complete": true,
+      "captures": 988,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s33_00.png",
+        "b234_s33_01.png",
+        "b234_s33_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S034",
+      "case": "b234_s34",
+      "expected_terminator": "0x4a37ea",
+      "observed_terminators": [
+        "0x4a37ea"
+      ],
+      "native_read_complete": true,
+      "captures": 995,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s34_00.png",
+        "b234_s34_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S042",
+      "case": "b234_s42",
+      "expected_terminator": "0x4a3a03",
+      "observed_terminators": [
+        "0x4a3a03"
+      ],
+      "native_read_complete": true,
+      "captures": 860,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s42_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S044",
+      "case": "b234_s44",
+      "expected_terminator": "0x4a3a90",
+      "observed_terminators": [
+        "0x4a3a90"
+      ],
+      "native_read_complete": true,
+      "captures": 842,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s44_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S049",
+      "case": "b234_s49",
+      "expected_terminator": "0x4a3c6f",
+      "observed_terminators": [
+        "0x4a3c6f"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s49_00.png",
+        "b234_s49_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S054",
+      "case": "b234_s54",
+      "expected_terminator": "0x4a3ed3",
+      "observed_terminators": [
+        "0x4a3ed3"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s54_00.png",
+        "b234_s54_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S057",
+      "case": "b234_s57",
+      "expected_terminator": "0x4a400b",
+      "observed_terminators": [
+        "0x4a400b"
+      ],
+      "native_read_complete": true,
+      "captures": 930,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s57_00.png",
+        "b234_s57_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S060",
+      "case": "b234_s60",
+      "expected_terminator": "0x4a4148",
+      "observed_terminators": [
+        "0x4a4148"
+      ],
+      "native_read_complete": true,
+      "captures": 791,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s60_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S061",
+      "case": "b234_s61",
+      "expected_terminator": "0x4a41c3",
+      "observed_terminators": [
+        "0x4a41c3"
+      ],
+      "native_read_complete": true,
+      "captures": 952,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s61_00.png",
+        "b234_s61_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S064",
+      "case": "b234_s64",
+      "expected_terminator": "0x4a42fa",
+      "observed_terminators": [
+        "0x4a42fa"
+      ],
+      "native_read_complete": true,
+      "captures": 930,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s64_00.png",
+        "b234_s64_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S068",
+      "case": "b234_s68",
+      "expected_terminator": "0x4a442f",
+      "observed_terminators": [
+        "0x4a442f"
+      ],
+      "native_read_complete": true,
+      "captures": 923,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s68_00.png",
+        "b234_s68_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S072",
+      "case": "b234_s72",
+      "expected_terminator": "0x4a4516",
+      "observed_terminators": [
+        "0x4a4516"
+      ],
+      "native_read_complete": true,
+      "captures": 610,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b234_s72_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S001",
+      "case": "b237_s01",
+      "expected_terminator": "0x4a7606",
+      "observed_terminators": [
+        "0x4a7606"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s01_00.png",
+        "b237_s01_01.png",
+        "b237_s01_02.png",
+        "b237_s01_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S002",
+      "case": "b237_s02",
+      "expected_terminator": "0x4a76fc",
+      "observed_terminators": [
+        "0x4a76fc"
+      ],
+      "native_read_complete": true,
+      "captures": 1763,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s02_00.png",
+        "b237_s02_01.png",
+        "b237_s02_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S003",
+      "case": "b237_s03",
+      "expected_terminator": "0x4a776c",
+      "observed_terminators": [
+        "0x4a776c"
+      ],
+      "native_read_complete": true,
+      "captures": 982,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s03_00.png",
+        "b237_s03_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S005",
+      "case": "b237_s05",
+      "expected_terminator": "0x4a7800",
+      "observed_terminators": [
+        "0x4a7800"
+      ],
+      "native_read_complete": true,
+      "captures": 559,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s05_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S008",
+      "case": "b237_s08",
+      "expected_terminator": "0x4a7896",
+      "observed_terminators": [
+        "0x4a7896"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s08_00.png",
+        "b237_s08_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S009",
+      "case": "b237_s09",
+      "expected_terminator": "0x4a790d",
+      "observed_terminators": [
+        "0x4a790d"
+      ],
+      "native_read_complete": true,
+      "captures": 960,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s09_00.png",
+        "b237_s09_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S012",
+      "case": "b237_s12",
+      "expected_terminator": "0x4a7a15",
+      "observed_terminators": [
+        "0x4a7a15"
+      ],
+      "native_read_complete": true,
+      "captures": 576,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s12_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S014",
+      "case": "b237_s14",
+      "expected_terminator": "0x4a7cb1",
+      "observed_terminators": [
+        "0x4a7cb1"
+      ],
+      "native_read_complete": true,
+      "captures": 1068,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s14_00.png",
+        "b237_s14_01.png",
+        "b237_s14_02.png",
+        "b237_s14_03.png",
+        "b237_s14_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S016",
+      "case": "b237_s16",
+      "expected_terminator": "0x4a7d60",
+      "observed_terminators": [
+        "0x4a7d60"
+      ],
+      "native_read_complete": true,
+      "captures": 553,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s16_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B237-S017",
+      "case": "b237_s17",
+      "expected_terminator": "0x4a7dac",
+      "observed_terminators": [
+        "0x4a7dac"
+      ],
+      "native_read_complete": true,
+      "captures": 459,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b237_s17_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S003",
+      "case": "b238_s03",
+      "expected_terminator": "0x4a80fc",
+      "observed_terminators": [
+        "0x4a80fc"
+      ],
+      "native_read_complete": true,
+      "captures": 1163,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s03_00.png",
+        "b238_s03_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S006",
+      "case": "b238_s06",
+      "expected_terminator": "0x4a8191",
+      "observed_terminators": [
+        "0x4a8191"
+      ],
+      "native_read_complete": true,
+      "captures": 448,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s06_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S008",
+      "case": "b238_s08",
+      "expected_terminator": "0x4a81ea",
+      "observed_terminators": [
+        "0x4a81ea"
+      ],
+      "native_read_complete": true,
+      "captures": 457,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s08_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S009",
+      "case": "b238_s09",
+      "expected_terminator": "0x4a8363",
+      "observed_terminators": [
+        "0x4a8363"
+      ],
+      "native_read_complete": true,
+      "captures": 2062,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s09_00.png",
+        "b238_s09_01.png",
+        "b238_s09_02.png",
+        "b238_s09_03.png",
+        "b238_s09_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S011",
+      "case": "b238_s11",
+      "expected_terminator": "0x4a84ab",
+      "observed_terminators": [
+        "0x4a84ab"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s11_00.png",
+        "b238_s11_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S012",
+      "case": "b238_s12",
+      "expected_terminator": "0x4a8592",
+      "observed_terminators": [
+        "0x4a8592"
+      ],
+      "native_read_complete": true,
+      "captures": 779,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s12_00.png",
+        "b238_s12_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S013",
+      "case": "b238_s13",
+      "expected_terminator": "0x4a85d0",
+      "observed_terminators": [
+        "0x4a85d0"
+      ],
+      "native_read_complete": true,
+      "captures": 325,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s13_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S014",
+      "case": "b238_s14",
+      "expected_terminator": "0x4a8819",
+      "observed_terminators": [
+        "0x4a8819"
+      ],
+      "native_read_complete": true,
+      "captures": 676,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s14_00.png",
+        "b238_s14_01.png",
+        "b238_s14_02.png",
+        "b238_s14_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S015",
+      "case": "b238_s15",
+      "expected_terminator": "0x4a8921",
+      "observed_terminators": [
+        "0x4a8921"
+      ],
+      "native_read_complete": true,
+      "captures": 585,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s15_00.png",
+        "b238_s15_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S018",
+      "case": "b238_s18",
+      "expected_terminator": "0x4a8ae7",
+      "observed_terminators": [
+        "0x4a8ae7"
+      ],
+      "native_read_complete": true,
+      "captures": 955,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s18_00.png",
+        "b238_s18_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S020",
+      "case": "b238_s20",
+      "expected_terminator": "0x4a8c41",
+      "observed_terminators": [
+        "0x4a8c41"
+      ],
+      "native_read_complete": true,
+      "captures": 1868,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s20_00.png",
+        "b238_s20_01.png",
+        "b238_s20_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S021",
+      "case": "b238_s21",
+      "expected_terminator": "0x4a8cea",
+      "observed_terminators": [
+        "0x4a8cea"
+      ],
+      "native_read_complete": true,
+      "captures": 1878,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s21_00.png",
+        "b238_s21_01.png",
+        "b238_s21_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S026",
+      "case": "b238_s26",
+      "expected_terminator": "0x4a8e28",
+      "observed_terminators": [
+        "0x4a8e28"
+      ],
+      "native_read_complete": true,
+      "captures": 994,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s26_00.png",
+        "b238_s26_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B238-S027",
+      "case": "b238_s27",
+      "expected_terminator": "0x4a8f10",
+      "observed_terminators": [
+        "0x4a8f10"
+      ],
+      "native_read_complete": true,
+      "captures": 1917,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b238_s27_00.png",
+        "b238_s27_01.png",
+        "b238_s27_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B239-S006",
+      "case": "b239_s06",
+      "expected_terminator": "0x4a9429",
+      "observed_terminators": [
+        "0x4a9429"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b239_s06_00.png",
+        "b239_s06_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B239-S007",
+      "case": "b239_s07",
+      "expected_terminator": "0x4a9502",
+      "observed_terminators": [
+        "0x4a9502"
+      ],
+      "native_read_complete": true,
+      "captures": 1868,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b239_s07_00.png",
+        "b239_s07_01.png",
+        "b239_s07_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B239-S008",
+      "case": "b239_s08",
+      "expected_terminator": "0x4a95dd",
+      "observed_terminators": [
+        "0x4a95dd"
+      ],
+      "native_read_complete": true,
+      "captures": 1763,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b239_s08_00.png",
+        "b239_s08_01.png",
+        "b239_s08_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B239-S009",
+      "case": "b239_s09",
+      "expected_terminator": "0x4a9648",
+      "observed_terminators": [
+        "0x4a9648"
+      ],
+      "native_read_complete": true,
+      "captures": 920,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b239_s09_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B240-S001",
+      "case": "b240_s01",
+      "expected_terminator": "0x4a9816",
+      "observed_terminators": [
+        "0x4a9816"
+      ],
+      "native_read_complete": true,
+      "captures": 1950,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b240_s01_00.png",
+        "b240_s01_01.png",
+        "b240_s01_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B240-S003",
+      "case": "b240_s03",
+      "expected_terminator": "0x4a98ae",
+      "observed_terminators": [
+        "0x4a98ae"
+      ],
+      "native_read_complete": true,
+      "captures": 567,
+      "visual_review": "reviewed; complete message visible across selected captures",
+      "review_images": [
+        "b240_s03_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 141,
+  "visual_review_scope": "All selected final page captures inspected. Pause commands can yield partial duplicate captures. Staged rendering, not natural event progression."
+}

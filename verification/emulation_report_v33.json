@@ -1,0 +1,51 @@
+{
+  "version": "V33",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "3a4bdaf08c55edd610daf153a198a15cb45462738d90d2507fe4fa076403ec2c",
+  "patch_sha256": "32c7d63107fdad6bdfb58d557eccd5382eac17ddca6e126f87bd2f03149bd7be",
+  "fresh_boot": true,
+  "autotests": {
+    "A": "COMPLETE / ALL OK",
+    "B": "RTC BACKUP OK / S-RAM BACKUP OK"
+  },
+  "extended_backup_scenario": "reproduction/scenario_checks_v33.json",
+  "common_captures_identical_to_v32": 59,
+  "common_captures_other_differences": 26,
+  "comparison_limitation": "Fixed-frame scenario differs in animation and dialogue progression; cause unresolved. V32 fresh control reproduces V32, both V33 builds reproduce V33; header checksum swaps do not change behavior. See comparison and control reports.",
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 63,
+  "targeted_render_report": "scenes_v33/render_report.json",
+  "reproduction_runner": "reproduction/run_version_checks.py",
+  "newspaper_layout_report": "newspaper_layout_v33.json",
+  "pagination_fixes": [
+    "B233-S020",
+    "B234-S032",
+    "B234-S057"
+  ],
+  "limits": [
+    "Staged native rendering; not natural event progression.",
+    "Article selection, combat, rewards, tea/stone effects, payments and real calendar not validated.",
+    "48 deferred messages in processed blocks; journal210 and blocks235/236 not processed; blocks132/183 unchanged."
+  ],
+  "no_input_hold_control": "boot_controls_v33/report.json"
+}

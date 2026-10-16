@@ -1,14 +1,14 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "a3f250dcde24628bcaeceb253b8108b5d925dc1fbe494374331b215407947ec8",
-  "translated_entries": 2885,
-  "new_entries": 134,
-  "previously_integrated": 2751,
-  "new_nonempty_texts": 133,
-  "new_changed_entries": 133,
+  "output_sha256": "3a4bdaf08c55edd610daf153a198a15cb45462738d90d2507fe4fa076403ec2c",
+  "translated_entries": 3037,
+  "new_entries": 152,
+  "previously_integrated": 2885,
+  "new_nonempty_texts": 151,
+  "new_changed_entries": 151,
   "new_passthrough_entries": 1,
   "new_empty_entries_preserved": 1,
-  "integrated_entries": 2885,
+  "integrated_entries": 3037,
   "blocks": [
     {
       "block_ids": [
@@ -2738,9 +2738,125 @@
       "new_relative_offsets": [
         2
       ]
+    },
+    {
+      "block_ids": [
+        233
+      ],
+      "source": "0x6a1ce9",
+      "destination": "0x6a1ce9",
+      "old_size": 2615,
+      "new_size": 2153,
+      "translated": 20,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0770"
+      ],
+      "new_relative_offsets": [
+        4,
+        1580
+      ]
+    },
+    {
+      "block_ids": [
+        234
+      ],
+      "source": "0x6a2720",
+      "destination": "0x6a2720",
+      "old_size": 9331,
+      "new_size": 7671,
+      "translated": 71,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x000A",
+        "0x06E4",
+        "0x12ED",
+        "0x1959",
+        "0x21E3"
+      ],
+      "new_relative_offsets": [
+        10,
+        1429,
+        3915,
+        5319,
+        7131
+      ]
+    },
+    {
+      "block_ids": [
+        237
+      ],
+      "source": "0x6a74e3",
+      "destination": "0x6a74e3",
+      "old_size": 2827,
+      "new_size": 2338,
+      "translated": 21,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0A5B"
+      ],
+      "new_relative_offsets": [
+        4,
+        2174
+      ]
+    },
+    {
+      "block_ids": [
+        238
+      ],
+      "source": "0x6a7fee",
+      "destination": "0x6a7fee",
+      "old_size": 4759,
+      "new_size": 3952,
+      "translated": 28,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0B0F"
+      ],
+      "new_relative_offsets": [
+        4,
+        2446
+      ]
+    },
+    {
+      "block_ids": [
+        239
+      ],
+      "source": "0x6a9285",
+      "destination": "0x6a9285",
+      "old_size": 1223,
+      "new_size": 964,
+      "translated": 9,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
+    {
+      "block_ids": [
+        240
+      ],
+      "source": "0x6a974c",
+      "destination": "0x6a974c",
+      "old_size": 411,
+      "new_size": 355,
+      "translated": 3,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
     }
   ],
-  "engine_checks": 3675,
+  "engine_checks": 3828,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -2751,10 +2867,10 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v32.json",
+  "runtime_validation": "see emulation_report_v33.json",
   "allocation_end": "0x6bc430",
   "free_bytes": 80848,
-  "in_place_blocks": 114,
+  "in_place_blocks": 120,
   "relocated_blocks": 31,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
@@ -2830,6 +2946,9 @@
       13,
       29,
       32
+    ],
+    "234": [
+      50
     ]
   },
   "deferred_block97_entries": [

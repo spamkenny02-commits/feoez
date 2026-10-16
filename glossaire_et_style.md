@@ -541,3 +541,24 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Commission de trente pour cent, auberges à 100 et 50 ryo : valeurs conservées.
 - B225-S012, B229-S012 et B231-S010/S013/S029/S032 restent en anglais
   à cause de commandes/effets non pris en charge ; leurs octets sont préservés.
+
+## V33 — Sanctuaire, presse et vallée de Pierre
+
+- Peacock Shrine : sanctuaire du Paon ; Peacock Press : Presse du Paon.
+- Articles : Pluie de sang, Paon sanglant, Tour infiltrée, Chien défiguré !,
+  Prêtresse agressée, Mahamayuri renaît. Les quatre premiers titres sont
+  deux lignes à deux colonnes ; les deux derniers partagent une ligne.
+- Le contenu extravagant des articles reste la parole du journal : aliens,
+  rumeurs sur les bêtes divines et accusations contre Higan sont conservés.
+- Fêtes : Nouvel An dès le 1er janvier, fête des Fleurs dès le 1er avril,
+  foires les dimanches de mars et septembre. Le Salon des Célibataires
+  conserve le nom adopté dans les premiers lots.
+- Le calembour anglais new year/new ear de la poupée devient « bonne
+  oreillée », avec une oreille en prime. Il n'est pas un indice de quête.
+- Spirit's Brew : Breuvage de l'Esprit, provisoire ; technique essence :
+  essence de technique. Le thé rend dix points de santé selon son texte.
+- Pierre du Paon : réduit la dépense de technique selon le dialogue ;
+  aucun montant de réduction n'est inventé. Don de Nouvel An : 5 000 ryo.
+- B234-S050 reste en anglais à cause de son effet <09><6E>...<08>.
+  Les blocs 235/236, riches en effets encore non pris en charge, ne sont
+  pas traités dans ce lot.

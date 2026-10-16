@@ -1,0 +1,27 @@
+{
+  "blocks": [
+    {
+      "block": 210,
+      "offset": "0x6913e1",
+      "length": 12232,
+      "source_sha256": "2b6f9be9f44870d9a8124ecfab49062764272c9a061b8f195f21f1a0e0500b9b",
+      "source_bytes_preserved": true
+    },
+    {
+      "block": 235,
+      "offset": "0x6a4b93",
+      "length": 8767,
+      "source_sha256": "f7d367fab7b981efd265c41ec6bf836099a70f0224adb8aac744c1a1042c3f97",
+      "source_bytes_preserved": true
+    },
+    {
+      "block": 236,
+      "offset": "0x6a6dd2",
+      "length": 1809,
+      "source_sha256": "b9f1969e840d55474f488acfe4d3aed9ff7d0324b97863a2bdce08971450f65a",
+      "source_bytes_preserved": true
+    }
+  ],
+  "scope": "Untreated journal and dialogue block source spans are unchanged.",
+  "rom_sha256": "3a4bdaf08c55edd610daf153a198a15cb45462738d90d2507fe4fa076403ec2c"
+}

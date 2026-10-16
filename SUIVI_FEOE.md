@@ -1,9 +1,10 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V32 intègre 2 885 entrées, dont 134
-nouvelles. Sources : lot27_fr.json et build_v32.py, en complément des lots
-antérieurs. Les 2 751 entrées de V31 sont inchangées. Le constructeur
-conserve corrections_v20.json. Les accès 226/227 partagent leurs textes.
+Le README et le HEAD de main font foi. V33 intègre 3 037 entrées, dont 152
+nouvelles. Sources : lot28_fr.json et build_v33.py, en complément des lots
+antérieurs. Les 2 885 entrées de V32 sont inchangées. Le constructeur
+conserve corrections_v20.json. Les menus B234-S020/S021 gardent leurs lignes
+et colonnes explicites.
 
 ## Ressources locales
 
@@ -16,7 +17,7 @@ avant de promettre une reconstruction ou un essai ; ne jamais inventer un résul
 
 ## Prochain lot
 
-Inspecter les blocs 233 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
+Inspecter les blocs 235/236 et 241 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
 traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
 un numéro inférieur au dernier bloc traité n'implique pas une traduction.
 Viser un lot cohérent de 100 à 200 entrées. Préserver la séquence de toutes les
@@ -31,7 +32,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Rejouer le scénario standard avec la ROM exacte ; remplacer tous les chemins
   d'états par ceux de ce nouveau parcours. Initialiser A, reset, puis tester B
   jusqu'aux résultats attendus (A : COMPLETE / ALL OK ; B : les deux BACKUP OK,
-  scenario_checks_v32.json).
+  scenario_checks_v33.json).
 - Créer un état dialogue_entry avec cette même ROM. Utiliser les scripts de
   verification/reproduction et des cas propres au nouveau lot ; exiger le
   terminateur exact, relire les pages et corriger les fins de page isolées.
@@ -43,7 +44,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Relire le HEAD distant avant d'écrire. En cas de travail concurrent, ne pas
   dupliquer ni écraser ; publier avec contrôle du parent attendu, sans force.
 
-Les 47 messages différés et le bloc 132 restent inchangés. Consulter les rapports
+Les 48 messages différés et le bloc 132 restent inchangés. Consulter les rapports
 pour leurs limites. Faire un compte rendu en français avec commit et tests réalisés.
 
 V27 laisse le bloc 183 (35 invites de débogage) intact. Les nouveaux messages
@@ -88,3 +89,18 @@ V32 ajoute aux différés B225-S012, B229-S012 et B231-S010/S013/S029/S032.
 Le lanceur run_version_checks.py réunit les essais après construction et
 refuse les répertoires existants pour éviter de mélanger les preuves.
 Exiger le terminateur exact, puis relire toutes les pages sélectionnées.
+
+V33 ajoute B234-S050 aux différés. Les blocs 235/236 ne sont pas traités ;
+leurs octets doivent rester identiques à la source. Les articles sont les
+affirmations fantaisistes du journal. Les deux menus regroupent trois lignes de choix à
+deux colonnes ; newspaper_layout_v33.json documente les largeurs.
+La sélection effective d'un article n'est pas validée par un rendu redirigé.
+
+Pagination V33 : B233-S020 et B234-S032/S057 resserrés après relecture.
+Les parcours V33 finaux utilisent le tag corrected ; la comparaison avec
+V32 utilise son tag final. Recréer les états avec la ROM exacte.
+
+Comparaison V32/V33 : 59/85 captures fixes identiques ; 26 écarts de phase
+observés, cause non établie. Ne pas annoncer une équivalence temporelle
+complète. Trois écrans finaux de navigation identiques ; contrôles détaillés
+dans emulation_report_v33.json et boot_controls_v33/report.json.

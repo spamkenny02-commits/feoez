@@ -1,0 +1,31 @@
+{
+  "rows": [
+    {
+      "entry": "B234-S020",
+      "source": "Raining Blood                That Bloody Peacock",
+      "french": "Pluie de sang                Paon sanglant",
+      "source_second_column_pixels": 105,
+      "french_second_column_pixels": 105,
+      "maximum_deviation_pixels": 1
+    },
+    {
+      "entry": "B234-S020",
+      "source": "Red Tower Break-in     Canine God in Ruin!",
+      "french": "Tour infiltrée              Chien défiguré !",
+      "source_second_column_pixels": 106,
+      "french_second_column_pixels": 105,
+      "maximum_deviation_pixels": 1
+    },
+    {
+      "entry": "B234-S021",
+      "source": "Maiden Assaulted          Mahamayuri Reborn",
+      "french": "Prêtresse agressée      Mahamayuri renaît",
+      "source_second_column_pixels": 107,
+      "french_second_column_pixels": 107,
+      "maximum_deviation_pixels": 1
+    }
+  ],
+  "prompt_line_count_preserved": true,
+  "interactive_article_selection_validated": false,
+  "scope": "Measured glyph widths and preserved explicit lines; staged rendering tested separately."
+}
