@@ -470,3 +470,18 @@ aux traditions, sans masquer leurs réticences envers Higan.
   B197-S002/S003/S013/S014/S018/S027 (alias 198/199/200) ; B201-S006/S008 ;
   B202-S005/S008/S009/S010 ; B205-S053. Les fragments « x5 » de B202-S009/S010
   ne sont pas réinterprétés sans étude du contexte.
+
+## V29 — Énigmes de Juri et Mitsuko
+
+- King of the Forest : roi de la Forêt ; Valley of Stone : vallée de Pierre.
+- Guard essence : essence de garde ; turtle’s stone : pierre de la Tortue.
+- Pig / Swift / Current Hermit : ermite Cochon / Rapide / Courant, provisoires.
+- Precious chest : précieux coffret ; rainbow shard : éclat d’arc-en-ciel ;
+  love pendant : pendentif d’amour ; miracle liquor : liqueur miracle.
+- DOG/GOD : garder les mots anglais, avec chien/dieu explicités. Les portes
+  T/F sont conservées et expliquées comme vrai/faux ; ne pas changer leurs lettres.
+- Un et un ensemble : conserver l’ambiguïté entre calcul et juxtaposition.
+- Le coffret mûrit fermé ; une promesse brisée ne donne pas la même récompense.
+- Trois cents ans de sommeil puis deux cents ans éveillés : conserver les durées.
+- B212-S018 (heure, variables 04/05) reste inchangé. Le journal du bloc 210
+  reste à traiter séparément.

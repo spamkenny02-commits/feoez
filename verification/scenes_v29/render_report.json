@@ -1,0 +1,623 @@
+{
+  "rom_sha256": "6e33fd5925e14e7c3b714206e465c47dc5536372985848181e3d1da8a17e223e",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "eadf803c334a140075f4fe3c89935b345b3f4b4127f4a861b4a699472ae36187",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B206-S001",
+      "case": "regles_enigmes",
+      "expected_terminator": "0x48d058",
+      "observed_terminators": [
+        "0x48d058"
+      ],
+      "native_read_complete": true,
+      "captures": 695,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "regles_enigmes_00.png",
+        "regles_enigmes_01.png",
+        "regles_enigmes_02.png",
+        "regles_enigmes_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S004",
+      "case": "question_un",
+      "expected_terminator": "0x48d138",
+      "observed_terminators": [
+        "0x48d138"
+      ],
+      "native_read_complete": true,
+      "captures": 1559,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "question_un_00.png",
+        "question_un_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B207-S008",
+      "case": "question_deux_alias",
+      "expected_terminator": "0x48d26f",
+      "observed_terminators": [
+        "0x48d26f"
+      ],
+      "native_read_complete": true,
+      "captures": 1559,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "question_deux_alias_00.png",
+        "question_deux_alias_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S010",
+      "case": "dog_god",
+      "expected_terminator": "0x48d319",
+      "observed_terminators": [
+        "0x48d319"
+      ],
+      "native_read_complete": true,
+      "captures": 1117,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "dog_god_00.png",
+        "dog_god_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S012",
+      "case": "panneau_tf",
+      "expected_terminator": "0x48d431",
+      "observed_terminators": [
+        "0x48d431"
+      ],
+      "native_read_complete": true,
+      "captures": 966,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "panneau_tf_00.png",
+        "panneau_tf_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S016",
+      "case": "course_fruits",
+      "expected_terminator": "0x48d6fb",
+      "observed_terminators": [
+        "0x48d6fb"
+      ],
+      "native_read_complete": true,
+      "captures": 2031,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "course_fruits_00.png",
+        "course_fruits_01.png",
+        "course_fruits_02.png",
+        "course_fruits_03.png",
+        "course_fruits_04.png",
+        "course_fruits_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S018",
+      "case": "panneau_course",
+      "expected_terminator": "0x48d972",
+      "observed_terminators": [
+        "0x48d972"
+      ],
+      "native_read_complete": true,
+      "captures": 1427,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "panneau_course_00.png",
+        "panneau_course_01.png",
+        "panneau_course_02.png",
+        "panneau_course_03.png",
+        "panneau_course_04.png",
+        "panneau_course_05.png",
+        "panneau_course_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S019",
+      "case": "calcul_deux",
+      "expected_terminator": "0x48da2b",
+      "observed_terminators": [
+        "0x48da2b"
+      ],
+      "native_read_complete": true,
+      "captures": 986,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "calcul_deux_00.png",
+        "calcul_deux_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S020",
+      "case": "calcul_onze",
+      "expected_terminator": "0x48db05",
+      "observed_terminators": [
+        "0x48db05"
+      ],
+      "native_read_complete": true,
+      "captures": 1100,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "calcul_onze_00.png",
+        "calcul_onze_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S026",
+      "case": "cas_par_cas",
+      "expected_terminator": "0x48dddb",
+      "observed_terminators": [
+        "0x48dddb"
+      ],
+      "native_read_complete": true,
+      "captures": 1088,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "cas_par_cas_00.png",
+        "cas_par_cas_01.png",
+        "cas_par_cas_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S033",
+      "case": "reponse_vrai",
+      "expected_terminator": "0x48e220",
+      "observed_terminators": [
+        "0x48e220"
+      ],
+      "native_read_complete": true,
+      "captures": 632,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "reponse_vrai_00.png",
+        "reponse_vrai_01.png",
+        "reponse_vrai_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S036",
+      "case": "reponse_faux",
+      "expected_terminator": "0x48e339",
+      "observed_terminators": [
+        "0x48e339"
+      ],
+      "native_read_complete": true,
+      "captures": 1035,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "reponse_faux_00.png",
+        "reponse_faux_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B206-S044",
+      "case": "sagesse_violence",
+      "expected_terminator": "0x48e693",
+      "observed_terminators": [
+        "0x48e693"
+      ],
+      "native_read_complete": true,
+      "captures": 1268,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "sagesse_violence_00.png",
+        "sagesse_violence_01.png",
+        "sagesse_violence_02.png",
+        "sagesse_violence_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B208-S001",
+      "case": "grue_tortue",
+      "expected_terminator": "0x48eae6",
+      "observed_terminators": [
+        "0x48eae6"
+      ],
+      "native_read_complete": true,
+      "captures": 968,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "grue_tortue_00.png",
+        "grue_tortue_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B208-S013",
+      "case": "pierre_tortue",
+      "expected_terminator": "0x48efea",
+      "observed_terminators": [
+        "0x48efea"
+      ],
+      "native_read_complete": true,
+      "captures": 572,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "pierre_tortue_00.png",
+        "pierre_tortue_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B208-S015",
+      "case": "six_betes",
+      "expected_terminator": "0x48f390",
+      "observed_terminators": [
+        "0x48f390"
+      ],
+      "native_read_complete": true,
+      "captures": 1055,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "six_betes_00.png",
+        "six_betes_01.png",
+        "six_betes_02.png",
+        "six_betes_03.png",
+        "six_betes_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B208-S014",
+      "case": "pouvoirs_perdus",
+      "expected_terminator": "0x48f187",
+      "observed_terminators": [
+        "0x48f187"
+      ],
+      "native_read_complete": true,
+      "captures": 1175,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "pouvoirs_perdus_00.png",
+        "pouvoirs_perdus_01.png",
+        "pouvoirs_perdus_02.png",
+        "pouvoirs_perdus_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S018",
+      "case": "amants_separes",
+      "expected_terminator": "0x48fdb5",
+      "observed_terminators": [
+        "0x48fdb5"
+      ],
+      "native_read_complete": true,
+      "captures": 1004,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "amants_separes_00.png",
+        "amants_separes_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S023",
+      "case": "sommeil_centaines",
+      "expected_terminator": "0x48ffd7",
+      "observed_terminators": [
+        "0x48ffd7"
+      ],
+      "native_read_complete": true,
+      "captures": 977,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "sommeil_centaines_00.png",
+        "sommeil_centaines_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S025",
+      "case": "miroir_arche",
+      "expected_terminator": "0x49006d",
+      "observed_terminators": [
+        "0x49006d"
+      ],
+      "native_read_complete": true,
+      "captures": 549,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "miroir_arche_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S029",
+      "case": "cadeaux_mitsuko",
+      "expected_terminator": "0x49039e",
+      "observed_terminators": [
+        "0x49039e"
+      ],
+      "native_read_complete": true,
+      "captures": 1404,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "cadeaux_mitsuko_00.png",
+        "cadeaux_mitsuko_01.png",
+        "cadeaux_mitsuko_02.png",
+        "cadeaux_mitsuko_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S038",
+      "case": "coffret_ferme",
+      "expected_terminator": "0x490852",
+      "observed_terminators": [
+        "0x490852"
+      ],
+      "native_read_complete": true,
+      "captures": 1202,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "coffret_ferme_00.png",
+        "coffret_ferme_01.png",
+        "coffret_ferme_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S046",
+      "case": "attente_coffret",
+      "expected_terminator": "0x490a4a",
+      "observed_terminators": [
+        "0x490a4a"
+      ],
+      "native_read_complete": true,
+      "captures": 997,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "attente_coffret_00.png",
+        "attente_coffret_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S047",
+      "case": "promesse_brisee",
+      "expected_terminator": "0x490b2a",
+      "observed_terminators": [
+        "0x490b2a"
+      ],
+      "native_read_complete": true,
+      "captures": 1021,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "promesse_brisee_00.png",
+        "promesse_brisee_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S050",
+      "case": "ordre_agni",
+      "expected_terminator": "0x490d57",
+      "observed_terminators": [
+        "0x490d57"
+      ],
+      "native_read_complete": true,
+      "captures": 3093,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "ordre_agni_00.png",
+        "ordre_agni_01.png",
+        "ordre_agni_02.png",
+        "ordre_agni_03.png",
+        "ordre_agni_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B209-S055",
+      "case": "tenjin_arche",
+      "expected_terminator": "0x491052",
+      "observed_terminators": [
+        "0x491052"
+      ],
+      "native_read_complete": true,
+      "captures": 1882,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "tenjin_arche_00.png",
+        "tenjin_arche_01.png",
+        "tenjin_arche_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B211-S001",
+      "case": "tresor_quatre_mille",
+      "expected_terminator": "0x49444a",
+      "observed_terminators": [
+        "0x49444a"
+      ],
+      "native_read_complete": true,
+      "captures": 1562,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "tresor_quatre_mille_00.png",
+        "tresor_quatre_mille_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B211-S005",
+      "case": "auberge_un_ryo",
+      "expected_terminator": "0x49456d",
+      "observed_terminators": [
+        "0x49456d"
+      ],
+      "native_read_complete": true,
+      "captures": 2093,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "auberge_un_ryo_00.png",
+        "auberge_un_ryo_01.png",
+        "auberge_un_ryo_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B211-S010",
+      "case": "route_lac_bleu",
+      "expected_terminator": "0x494789",
+      "observed_terminators": [
+        "0x494789"
+      ],
+      "native_read_complete": true,
+      "captures": 959,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "route_lac_bleu_00.png",
+        "route_lac_bleu_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B211-S016",
+      "case": "articles_vendredi",
+      "expected_terminator": "0x4949c2",
+      "observed_terminators": [
+        "0x4949c2"
+      ],
+      "native_read_complete": true,
+      "captures": 803,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "articles_vendredi_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B211-S028",
+      "case": "secret_cerisier",
+      "expected_terminator": "0x494ef9",
+      "observed_terminators": [
+        "0x494ef9"
+      ],
+      "native_read_complete": true,
+      "captures": 1049,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "secret_cerisier_00.png",
+        "secret_cerisier_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B212-S011",
+      "case": "auberge_soixante",
+      "expected_terminator": "0x495452",
+      "observed_terminators": [
+        "0x495452"
+      ],
+      "native_read_complete": true,
+      "captures": 1154,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "auberge_soixante_00.png",
+        "auberge_soixante_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B212-S021",
+      "case": "lignes_bateau",
+      "expected_terminator": "0x49586c",
+      "observed_terminators": [
+        "0x49586c"
+      ],
+      "native_read_complete": true,
+      "captures": 2171,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "lignes_bateau_00.png",
+        "lignes_bateau_01.png",
+        "lignes_bateau_02.png",
+        "lignes_bateau_03.png",
+        "lignes_bateau_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B212-S027",
+      "case": "marchand_arbre",
+      "expected_terminator": "0x495a3f",
+      "observed_terminators": [
+        "0x495a3f"
+      ],
+      "native_read_complete": true,
+      "captures": 1033,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "marchand_arbre_00.png",
+        "marchand_arbre_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B212-S040",
+      "case": "trois_ermites",
+      "expected_terminator": "0x495f7f",
+      "observed_terminators": [
+        "0x495f7f"
+      ],
+      "native_read_complete": true,
+      "captures": 2060,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "trois_ermites_00.png",
+        "trois_ermites_01.png",
+        "trois_ermites_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B213-S006",
+      "case": "correspondance_bateau",
+      "expected_terminator": "0x496443",
+      "observed_terminators": [
+        "0x496443"
+      ],
+      "native_read_complete": true,
+      "captures": 2107,
+      "visual_review": "reviewed: readable accents, riddle wording, amounts, directions, pagination and native ending",
+      "review_images": [
+        "correspondance_bateau_00.png",
+        "correspondance_bateau_01.png",
+        "correspondance_bateau_02.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 103,
+  "pagination_corrections_reviewed": [
+    "B206-S001",
+    "B208-S013",
+    "B209-S025",
+    "B211-S005",
+    "B211-S010"
+  ]
+}

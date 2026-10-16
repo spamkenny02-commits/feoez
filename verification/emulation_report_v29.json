@@ -1,0 +1,46 @@
+{
+  "version": "V29",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "6e33fd5925e14e7c3b714206e465c47dc5536372985848181e3d1da8a17e223e",
+  "patch_sha256": "2833daf3e004d183851df5d2d8bca03a6ab21af4894c6b8ff4de4e2e030c3c42",
+  "fresh_boot": true,
+  "autotests": "A/B COMPLETE ALL OK",
+  "extended_backup_scenario": "reproduction/scenario_checks_v29.json",
+  "common_captures_identical_to_v28": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 36,
+  "targeted_render_report": "scenes_v29/render_report.json",
+  "pagination_fixes": [
+    "B206-S001",
+    "B208-S013",
+    "B209-S025",
+    "B211-S005",
+    "B211-S010"
+  ],
+  "limits": [
+    "Staged rendering; not natural event progression.",
+    "Door answer choices, combat, healing, payments, ship travel, rewards and chest maturation not validated.",
+    "40 deferred messages in processed blocks; journal block210 not processed; blocks132/183 unchanged."
+  ]
+}
