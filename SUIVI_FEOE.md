@@ -14,6 +14,31 @@ snes9x_libretro_standard.so, snes9x_libretro_diagnostic.so et runs/.
 Ces ressources ne sont pas publiées dans le dépôt. Vérifier leur disponibilité
 avant de promettre une reconstruction ou un essai ; ne jamais inventer un résultat.
 
+## Priorité demandée : écrans de démarrage et date de naissance
+
+Demande explicite du 16 octobre 2026 : inclure les textes encore anglais
+au démarrage, avant de considérer la traduction complète.
+
+- Programme de vérification SPC7110 : mémoire/SRAM, bus de données et
+  d'adresses, sauvegardes SRAM et RTC, résultats OK/erreur, fin du contrôle
+  et instruction de réinitialisation. Conserver les sigles techniques utiles.
+- Questions, choix, champs et confirmations de la date de naissance au
+  début du jeu. Les distinguer du réglage de la date et de l'heure RTC ;
+  inspecter aussi ce réglage pour relever ses textes encore anglais.
+- Repères ASCII confirmés dans la ROM anglaise : titre SPC7110 à 0xFF022,
+  RTC BACKUP à 0xFF0AE, S-RAM BACKUP à 0xFF0B9, RESET THE SYSTEM à 0xF18A.
+  Ces adresses désignent des données trouvées, pas encore des zones éditables
+  auditées. Les questions de naissance n'ont pas été trouvées par recherche
+  ASCII simple ; identifier leur encodage/graphisme et leurs contraintes.
+- Captures de référence disponibles dans le parcours standard V34 :
+  birthday_question, birth_step1 à birth_step5 et birthday_finished ;
+  check_a/check_b dans le parcours A/B. Tester également les confirmations
+  et les déplacements entre champs, sans modifier leur logique.
+
+Ces éléments sont encore à traduire après V34. Ne pas les compter comme
+couverts par les lots de dialogues ni annoncer leur traduction sur la base
+des seuls contrôles A/B. Ajouter des preuves visuelles après modification.
+
 ## Prochain lot
 
 Reprendre le journal du bloc 210, les blocs 235/236, le menu 244/245 et
