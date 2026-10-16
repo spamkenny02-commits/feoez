@@ -579,3 +579,15 @@ aux traditions, sans masquer leurs réticences envers Higan.
   le miroir de Tenjin tel que dans la source, sans corriger la logique supposée.
 - Les invitations au trône sont des textes de scénario ; leur rendu isolé
   ne valide ni la victoire contre Ninigi ni l'accès naturel au couronnement.
+
+
+## V35 — écrans initiaux
+
+- Backup data warning : SAUVEGARDE INUTILISABLE ; backup : SAUV. dans les
+  colonnes de diagnostic. SRAM, RTC et SPC7110 restent des sigles techniques.
+- COMPLETE : TERMINE ; ALL OK : TOUT OK ; NG : KO. La police technique
+  est en capitales sans accents. Les menus natifs gardent leurs accents.
+- Birthday : date de naissance, avec mois-jour-an annoncé explicitement.
+  Le format numérique et les données ne sont pas convertis au format français.
+- Is this okay? : C'est bon ? ; Yes/No : Oui/Non. Le format 12 heures AM/PM
+  reste inchangé. Les marqueurs de protocole ne sont pas des textes à traduire.

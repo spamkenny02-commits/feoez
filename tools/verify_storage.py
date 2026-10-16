@@ -4,7 +4,7 @@ import argparse,copy,hashlib,json
 from pathlib import Path
 from block_storage import store_blocks
 from pointers import analyze,FREE_START,file_to_cpu
-p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20','V21','V22','V23','V24','V25','V26','V27','V28','V29','V30','V31','V32','V33','V34'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20','V21','V22','V23','V24','V25','V26','V27','V28','V29','V30','V31','V32','V33','V34','V35'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
 if bool(a.built_rom)!=bool(a.build_report):p.error('Provide both --built-rom and --build-report')
 rom=a.rom.read_bytes();before=hashlib.sha256(rom).hexdigest();audit=analyze(rom);checks=[]
 def item(bid,payload):
@@ -45,7 +45,11 @@ if a.built_rom:
                       'payload':bytearray(actual[destination:destination+entry['new_size']]),
                       'relative':entry['new_relative_offsets']})
     rebuilt,allocation=store_blocks(rom,items)
-    assert checksum(patch_font(rebuilt)[0])==actual
+    rebuilt=patch_font(rebuilt)[0]
+    if a.version=='V35':
+        from startup_text import patch_startup
+        rebuilt=patch_startup(rebuilt)[0]
+    assert checksum(rebuilt)==actual
     assert all(allocation[k]==build[k] for k in allocation)
     checks.append('All actual rebuilt blocks reproduce the tested ROM byte for byte with current allocator')
 report={'source_sha256':before,'passed':len(checks),'checks':checks,'scope':'Allocation safety; actual rebuilt strings are exercised separately by native 65816 routines.'}

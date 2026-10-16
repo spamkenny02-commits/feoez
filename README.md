@@ -1,19 +1,20 @@
-# Tengai Makyou Zero — Traduction française V34
+# Tengai Makyou Zero — Traduction française V35
 
-123 textes ajoutés, soit **3 160 entrées intégrées avec accents**.
-Les 3 037 entrées de V33 restent inchangées. Variantes et répétitions sont
-comptées séparément. Premier jet depuis l'anglais fourni ; noms au glossaire.
+**Écrans de démarrage, naissance et horloge traduits : 32 occurrences.**
+Les **3 160 entrées de dialogue** de V34 sont conservées sans modification.
 
-Le lot couvre les statues des gardiens, les scènes d'Akamaru et Doki,
-Ninigi et les discours du couronnement. Les alias 248 et 250/251 sont couverts.
-50 messages restent différés dans les blocs traités, auxquels s'ajoutent
-quatre invites de débogage B252-S098 à S101. Le journal 210, les blocs
-235/236, le menu 244/245 et le bloc 253 restent à traiter. Les blocs 132 et
-183 sont conservés.
+Les contrôles SPC7110/SRAM/RTC, les instructions A/B/reset et les confirmations
+sont en français. La naissance indique l'ordre mois–jour–année ; l'horloge
+conserve le format AM/PM. Les sigles techniques restent lisibles.
+Les signatures internes de sauvegarde sont conservées, distinctes des textes.
+
+Le reste de la traduction est partiel : 50 messages différés et quatre invites
+de débogage dans les blocs traités ; journal 210, blocs 235/236, menu 244/245
+et bloc 253 encore à traiter. Les blocs 132 et 183 sont conservés.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V34.ips** directement à une copie de la ROM
+Appliquer **Tengai_Makyou_Zero_FR_V35.ips** directement à une copie de la ROM
 anglaise originale, sans cumuler les versions.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
@@ -24,13 +25,13 @@ Le dépôt ne contient ni ROM, ni sauvegarde d'état, ni noyau binaire d'émulat
 ## Construction
 
 ```bash
-python tools/build_v34.py /chemin/original.sfc --rom-out /chemin/v34.sfc
+python tools/build_v35.py /chemin/original.sfc --rom-out /chemin/v35.sfc
 python tools/verify_font.py /chemin/original.sfc
-python tools/verify_storage.py /chemin/original.sfc --version V34 --built-rom /chemin/v34.sfc --build-report verification/build_report.json
+python tools/verify_storage.py /chemin/original.sfc --version V35 --built-rom /chemin/v35.sfc --build-report verification/build_report.json
 ```
 
-Python 3 et Pillow. Les vingt-neuf lots JSON et corrections_v20.json sont les sources.
-Le générateur produit les fichiers bilingues JSON/TSV et lecture_v34.txt localement.
+Python 3 et Pillow. Les vingt-neuf lots JSON, corrections_v20.json et tools/startup_text.py sont les sources.
+Le générateur produit les fichiers bilingues JSON/TSV et lecture_v35.txt localement.
 3 968 lectures dans les routines originales 65816 passent, avec les chaînes
 inchangées et les alias. Balises, largeur maximale de 216 pixels, pointeurs,
 checksum, encodage et aller-retour IPS sont contrôlés. Le banc permet
@@ -44,26 +45,27 @@ et 14 contrôles du placement passent. 125 blocs sur place, 33 relocalisés,
 Noyau standard Snes9x 1.63, commit 1bcc369e89f08243e0a462882fb1f3e42e51de3a.
 Démarrage neuf et parcours du début. Contrôles A puis reset puis B prolongé
 à 60 000 images : A affiche COMPLETE / ALL OK ; B indique OK pour
-RTC BACKUP et S-RAM BACKUP (scenario_checks_v34.json).
-Sur 85 captures communes avec V33 : 85 identiques, 0 différentes.
-Voir verification/comparison_v33_v34.json et
-verification/navigation_comparison_v33_v34.json. Les écarts de phase fixes
-observés entre V32 et V33 restent documentés dans les rapports V33 ; ils
-ne prouvent pas une équivalence temporelle complète avec V32.
-Menus et carte accessibles.
-La version 1.60, le jeu complet et le matériel réel ne sont pas testés ici.
+RTC BACKUP et S-RAM BACKUP (scenario_checks_v35.json).
+Les 43 captures de saisie ont été relues. Le mois, le jour, l'année,
+l'heure et les minutes ont été modifiés ; les choix Oui/Non, le retour aux
+champs, le refus d'une naissance future et le démarrage après une date valide
+ont été vérifiés. Les chiffres de 38 captures correspondent à V34 pour
+les mêmes commandes, depuis des états propres à chaque ROM.
 
-126 essais ciblés couvrent les 123 textes nouveaux et trois alias,
-y compris les longues interventions de Ninigi et les variantes Tenjin/Mizuki.
-Ils utilisent la ROM finale inchangée et un noyau de diagnostic séparé qui
-redirige une seule demande de dialogue vers le bloc et le message testés.
-Les routines de lookup, sélection, lecture et rendu restent celles du jeu.
-Le curseur doit atteindre le terminateur exact, puis les captures sont relues.
+Sur 85 captures communes du parcours fixe : 30 identiques et 55 différentes,
+incluant les traductions initiales et des écarts de phase ultérieurs. Les trois
+écrans finaux de navigation sont identiques. Aucune équivalence temporelle
+complète n'est annoncée. Voir comparison_v34_v35.json et COMPTE_RENDU_V35.md.
+Snes9x 1.60, toutes les limites de dates, la sauvegarde hôte après arrêt
+et le matériel réel ne sont pas testés.
 
-**Ces essais valident les textes et leur pagination, pas les combats,
-les choix, le vol en Mahamayuri, la progression jusqu'au dénouement ni
-le couronnement jouable.** Les arrière-plans appartiennent au banc de test.
-Rapport et images : verification/scenes_v34.
+Huit dialogues antérieurs sont aussi relus sur 13 captures, avec vérification
+du terminateur exact. Ces essais redirigés ne valident pas la progression
+naturelle du scénario. Les essais de saisie utilisent les commandes normales
+du noyau standard, sans écriture en RAM.
+
+Rapports : verification/startup_v35, verification/startup_text_v35.json,
+verification/startup_numeric_comparison_v35.json et verification/scenes_v35.
 
 ## Reproduire les essais ciblés
 
@@ -73,8 +75,8 @@ de diagnostic restaure le code source et le noyau standard après compilation.
 
 ```bash
 python verification/reproduction/build_diagnostic_core.py --source /chemin/snes9x --out /chemin/diagnostic.so
-python verification/reproduction/prepare_dialogue_state.py --core /chemin/standard.so --rom /chemin/v34.sfc --out /chemin/etat_v34
-python verification/reproduction/run_targeted_dialogues.py --core /chemin/diagnostic.so --rom /chemin/v34.sfc --state /chemin/etat_v34/dialogue_entry.state --out /chemin/essais_v34 --cases verification/reproduction/cases_v34.json
+python verification/reproduction/prepare_dialogue_state.py --core /chemin/standard.so --rom /chemin/v35.sfc --out /chemin/etat_v35
+python verification/reproduction/run_targeted_dialogues.py --core /chemin/diagnostic.so --rom /chemin/v35.sfc --state /chemin/etat_v35/dialogue_entry.state --out /chemin/essais_v35 --cases verification/reproduction/cases_v35.json
 ```
 
 Créer l'état avec la ROM exacte à tester. Ne pas réutiliser un état d'une autre
@@ -83,9 +85,19 @@ version. Le noyau de diagnostic ne sert pas aux essais de progression.
 Le lanceur commun refuse de réutiliser un répertoire de parcours existant :
 
 ```bash
-python verification/reproduction/run_version_checks.py --version v34 --tag final --source /chemin/original.sfc --emulator-root /chemin/emulator
+python verification/reproduction/run_version_checks.py --version v35 --tag final --source /chemin/original.sfc --emulator-root /chemin/emulator
 ```
 
-Ce dossier emulator contient fr_v34.sfc, les noyaux standard et de diagnostic
+Ce dossier emulator contient fr_v35.sfc, les noyaux standard et de diagnostic
 nommés comme dans SUIVI_FEOE.md, puis reçoit les parcours et journaux locaux.
 Relire les captures avant de considérer les essais de rendu comme vérifiés.
+
+Pour reproduire les branches de saisie avec le noyau standard :
+
+```bash
+python verification/reproduction/run_startup_inputs.py --core /chemin/standard.so --rom /chemin/v35.sfc --out /chemin/saisie_v35
+python verification/reproduction/compare_startup_inputs.py --before /chemin/saisie_v34 --after /chemin/saisie_v35 --out /chemin/comparaison.json
+```
+
+Créer le contrôle V34 avec le même script et sa ROM reconstruite. Chaque
+parcours refuse un dossier existant et crée ses états avec sa propre ROM.

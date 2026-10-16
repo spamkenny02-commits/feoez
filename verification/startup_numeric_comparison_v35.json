@@ -1,0 +1,656 @@
+{
+  "baseline_rom_sha256": "7b03d290c77efb4fab60be609e0ec62503c96183bb940736b20d2d606fde1439",
+  "modified_rom_sha256": "87e51f09afdcc3693957942fdd8e52578073c0ff6e0e08c7d76c81cc0214dd93",
+  "compared_captures": 38,
+  "method": "White numeric glyphs, luminance >200; blue cursor fill excluded. Same controller sequence, own-ROM fresh states.",
+  "scope": "Rendered values in these cases; not all calendar boundaries, persistent host saves or real hardware.",
+  "comparisons": [
+    {
+      "image": "birth_confirmation.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "5b6c5d5df8f8a200672e53783e9c110600ee37833ca94b4bffe0de28820e86d7",
+      "modified_image_sha256": "868007c077e83fcb89dc1d16888bd0603c5d95423d70040f4c8925dadb9ba200"
+    },
+    {
+      "image": "birth_confirmation_initial.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "e7d872ba3ee33b9f33f0497fd0cdc556858da736964d48f281618d95caedecb9",
+      "modified_image_sha256": "4458cf75537fe6962f04feefe0600fc8cf423f5ec6a6251cab5869781a48b1ef"
+    },
+    {
+      "image": "birth_day_down.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "675f4d7db29164a2157086b03c797e77ae0b236be629882d5d5d0b98b03faa02",
+      "modified_image_sha256": "e3610b16b3be2c649ae260736eb1ab06b3d6d24b29b27679dfaeb0f7c16784c7"
+    },
+    {
+      "image": "birth_day_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "89e790ef28793ed8b836a0704f8a808a31cac96f175aa03fa08ba21d2582b3e3",
+      "modified_image_sha256": "8f53cd36439bbae0e108fd52f696150c5756cc07264a7345517dc7894fb85f08"
+    },
+    {
+      "image": "birth_future_rejected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "083444c3cf5f7c5270cf2ad49eeb71e4b04e0cfce150a97d8bae3563c3e15ff7",
+      "modified_image_sha256": "e1b4a8625f460e009c615f1ee19e9442d63146cef99eba1cf329c280c019f738"
+    },
+    {
+      "image": "birth_month_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "65e9f7f57609d5ddf345f089dffa451b73371e2babdc13509ef8856f5246bed2",
+      "modified_image_sha256": "d3c6c3c7a9f0ff2462d3dfb2fde3c82db430f070af85b4bb322742077fc01d68"
+    },
+    {
+      "image": "birth_non_initial.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "e7d872ba3ee33b9f33f0497fd0cdc556858da736964d48f281618d95caedecb9",
+      "modified_image_sha256": "4458cf75537fe6962f04feefe0600fc8cf423f5ec6a6251cab5869781a48b1ef"
+    },
+    {
+      "image": "birth_oui.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "b1747bc9b6d950f7e7d132cf2307e40d2412ce79b50fb647a6f982a88922dd45",
+      "modified_image_sha256": "f84a5bb3ab7d2ddaa89b063bce6b555e9063da7eca06a66284cf4e776bfe8209"
+    },
+    {
+      "image": "birth_oui_initial.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "849e5c9f53b9e7fbc38f448949f547136a7d9ee66b7bd5a3c68e28690c19527c",
+      "modified_image_sha256": "d1b503c9abaf1dea64c1d612dca7b6951b5e5849748927d8702e42875d60266b"
+    },
+    {
+      "image": "birth_refused.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "7587ba3629363a0bb21b3c10ea40cefd077acc8b657d70e45e33a9f84e0f13cf",
+      "modified_image_sha256": "f295edf2cc8de0f35b6070b8fc1593b7e13631ec69ac9de0794363812eca0b6a"
+    },
+    {
+      "image": "birth_step1.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "64f1f2307a1e194ced8d6db81d6d206f434b52e5b9b136b71b9795adea2f41c2",
+      "modified_image_sha256": "3682b691632c27a43a2ef11a358e5f390375ac1e371e36de72ac5a41e2a0b654"
+    },
+    {
+      "image": "birth_step2.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "6815b31627bd652e7760168d83f79dbe490a7185ea124865a45f92dee1c4db49",
+      "modified_image_sha256": "ef66189c4e180278ed9d33f1ae64f83d4be4caf752ba46819a645dda01c7b7eb"
+    },
+    {
+      "image": "birth_step3.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "e7d872ba3ee33b9f33f0497fd0cdc556858da736964d48f281618d95caedecb9",
+      "modified_image_sha256": "4458cf75537fe6962f04feefe0600fc8cf423f5ec6a6251cab5869781a48b1ef"
+    },
+    {
+      "image": "birth_valid_confirmation.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "656d401f509cf1bf30b2fbb998254b37351a5eb88e15a4bec33ea8f3bc93b3d8",
+      "modified_image_sha256": "1169e1d458acc8a33790905c0c9bdbb7934a1c8f29f34312d2ef88512fb61b25"
+    },
+    {
+      "image": "birth_valid_oui.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "755d4d51302f5299bb8ee1db2f0c2597e26cad328d8640ce0f249b11e9028668",
+      "modified_image_sha256": "c548453666eeafb01e109009413f427469e5219b596ce8e27fa4a04ee3d7535c"
+    },
+    {
+      "image": "birth_year_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "214f2a462ea9e592c2cadddf93eac5b24d1beefee9d7e075b12afa5d831eb7d2",
+      "modified_image_sha256": "677435361ee0719959a65f296ea233a12632d7de28c3aecad7b1a0c6e1e6b09a"
+    },
+    {
+      "image": "birth_year_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "51174231edcc42a2e22a5dae13620515d8e698c0c7fff6d06f8e06771a91a6a4",
+      "modified_image_sha256": "47931808a2e4862eecfb081a6ef2488c8616a2227f33be43441c3b7527ce54e3"
+    },
+    {
+      "image": "birth_year_valid.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "20b61b665188ad6b19973f5aa221c6cb8cd68a8767d884394c23c34ea5dee4c5",
+      "modified_image_sha256": "9556bec750583d217003c4e1bcdb3449dc56e3acbfd0566ba6419d7c19f1fc32"
+    },
+    {
+      "image": "birthday_question.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "7d5185193b4c28be0e429de578790af23df7e0f8cfca21e931135eab0bc239c8",
+      "modified_image_sha256": "033e524cd5325d16b8a9f328ca1bf94fc4c7f89f943dc9d2f5eebfb20f66e76a"
+    },
+    {
+      "image": "clock_start.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "2c49be4aea1d320bf306847eab7eb18e7802a9853a6591fc0559ed2962dc91ce",
+      "modified_image_sha256": "6c6111f162dcc8310aa10118ea494a911795ad8ca6a147a133cc0d3c85e47f0b"
+    },
+    {
+      "image": "date_confirmed.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "5fa457ef511836e6c96651f680c97e55090fbe48939a6fd8c8bb3e3df35c4145",
+      "modified_image_sha256": "888337ad132c01eaa1d42c0cbaff022c22ad763a0539911a80daef8a4fa6064c"
+    },
+    {
+      "image": "date_setup.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "b4ae8fae962b5915e2800b0c423553b63cd5391ed35a06aaad12913425700c86",
+      "modified_image_sha256": "a6000a51bd7c67d14f5d2347d3a8f8eff723a24cd4672a52ab4e6c46b385cc0e"
+    },
+    {
+      "image": "rtc_accepted.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "f7416a63f279e407da149650b132197969b666d3cc4dc82351a36b5c316ee386",
+      "modified_image_sha256": "743e2cec2c3a33ae0188df57174d2b78adf5744ca368721ae08b463337ce6670"
+    },
+    {
+      "image": "rtc_confirmation.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "c709d1fe0615ae299920a1cbbd940896a0a61e03137964b77b0dcf1bc27f4d76",
+      "modified_image_sha256": "9d0641e82e01039f23d7445a361e43a58ea0032cb03db1fdbab5c617f864db92"
+    },
+    {
+      "image": "rtc_day_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "868d66c404d0a8e8b3cacc8777d2606dc2044bcda1d2c1eae0b57ee529980075",
+      "modified_image_sha256": "1037eeca746281ab5bbf7fca28afa7f526f8a4b1b9271aef1b96aca42bb32709"
+    },
+    {
+      "image": "rtc_day_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "7c9aba232ecc8499907c7e4988954f4545dbbb2036b193a2808297cf141553e3",
+      "modified_image_sha256": "7521d99e25485635eb7916313366ec3356444aaab7a17247ddf8822bf744423f"
+    },
+    {
+      "image": "rtc_hour_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "e606e91cdeef30ab79f7de0389d79472cf4124077151bcacf84152ae28087ca5",
+      "modified_image_sha256": "9b6f16a18b71675c1511ee0bca8061814069dd3a7a2fdd7015208867e72aae0e"
+    },
+    {
+      "image": "rtc_hour_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "99e0147a729df770df609c45f03ac946ba0618289108218540d1aadfe3decdf6",
+      "modified_image_sha256": "9a34cfdd73c8c01c2a435c5fb018b0870f8c373958bd5f4ad34e32b16bb0e6ee"
+    },
+    {
+      "image": "rtc_initial.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "b4ae8fae962b5915e2800b0c423553b63cd5391ed35a06aaad12913425700c86",
+      "modified_image_sha256": "a6000a51bd7c67d14f5d2347d3a8f8eff723a24cd4672a52ab4e6c46b385cc0e"
+    },
+    {
+      "image": "rtc_minute_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "eb79e73c55167a17e2e3f82aeea219ebebab069f6aae90380b17f98b9bd86afa",
+      "modified_image_sha256": "29f18b4d1397734f0896f7373777ea98df8432c7538a7cce6d1d0f4f3f32816f"
+    },
+    {
+      "image": "rtc_minute_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "6ece9608d5011dc7d1c1e6215e2ffb8cd5a785d741fb2b143a0c3f73bc9660fb",
+      "modified_image_sha256": "0a806ba8e05729e2d99afbedb0879a1ebe855088fd6784e8e57eac4a5abdc78e"
+    },
+    {
+      "image": "rtc_month_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "e7ebc07f57300f668b9e632b416de885be4ffc6b735c7643a83795d74653abf9",
+      "modified_image_sha256": "0822e6a03c5ae95bd38bb6ed4debca9ab5de857176680cc8e7afc639a0d01135"
+    },
+    {
+      "image": "rtc_non.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "c709d1fe0615ae299920a1cbbd940896a0a61e03137964b77b0dcf1bc27f4d76",
+      "modified_image_sha256": "9d0641e82e01039f23d7445a361e43a58ea0032cb03db1fdbab5c617f864db92"
+    },
+    {
+      "image": "rtc_oui.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "6e2e72c45fa17f935ac815cb99dd12b610844a3174ca298a1cfd340f95946c44",
+      "modified_image_sha256": "4f32ab3be84beec2484ead5531202cc5ad8275d9f1218bd21dce731648af61f6"
+    },
+    {
+      "image": "rtc_oui_initial.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "6e2e72c45fa17f935ac815cb99dd12b610844a3174ca298a1cfd340f95946c44",
+      "modified_image_sha256": "4f32ab3be84beec2484ead5531202cc5ad8275d9f1218bd21dce731648af61f6"
+    },
+    {
+      "image": "rtc_refused.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "d16eee630e7a0b6b61b50bc2ac1635ddf2cfaa0286d7766f833e74cdb715b425",
+      "modified_image_sha256": "faac998696fc8900ae79b39b97f9b7b3200ae4987671a194a242943cd34faa8a"
+    },
+    {
+      "image": "rtc_year_selected.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "4243b82c15e90074349066e93006fbf1a8d05b24db819a9109afbd331808f9c9",
+      "modified_image_sha256": "0876a9ab878d9b2d5394adc17e57186ddb353c525001397f46214362822bb4fc"
+    },
+    {
+      "image": "rtc_year_up.png",
+      "numeric_regions": [
+        [
+          64,
+          87,
+          192,
+          105
+        ],
+        [
+          96,
+          111,
+          200,
+          129
+        ]
+      ],
+      "identical_numeric_glyphs": true,
+      "baseline_image_sha256": "4728cac065521d0cf6d192db56522dca4b2bbc20c6f5c7fe0d72ab6b336c96b0",
+      "modified_image_sha256": "a17c1e1a454ac363d0c83bf9a12c1af522812637f2d697521bac8f8580c1798f"
+    }
+  ],
+  "normalized_command_sequence_sha256": "4d78389f450712b034b9b47cbd1d89d17a6e128c384a7407b0c10af610a9e07a"
+}

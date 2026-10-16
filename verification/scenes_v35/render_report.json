@@ -1,0 +1,135 @@
+{
+  "rom_sha256": "87e51f09afdcc3693957942fdd8e52578073c0ff6e0e08c7d76c81cc0214dd93",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "906615a96e0659048da8151c1a576e0b874dabead9d65be76f4fe06e818474cd",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B233-S020",
+      "case": "prior_newyear",
+      "expected_terminator": "0x4a2551",
+      "observed_terminators": [
+        "0x4a2551"
+      ],
+      "native_read_complete": true,
+      "captures": 918,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_newyear_00.png",
+        "prior_newyear_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S020",
+      "case": "prior_articles_menu",
+      "expected_terminator": "0x4a2e46",
+      "observed_terminators": [
+        "0x4a2e46"
+      ],
+      "native_read_complete": true,
+      "captures": 1501,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_articles_menu_00.png",
+        "prior_articles_menu_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S021",
+      "case": "prior_articles_choice",
+      "expected_terminator": "0x4a2e70",
+      "observed_terminators": [
+        "0x4a2e70"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_articles_choice_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B247-S006",
+      "case": "prior_doki",
+      "expected_terminator": "0x4aa297",
+      "observed_terminators": [
+        "0x4aa297"
+      ],
+      "native_read_complete": true,
+      "captures": 1062,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_doki_00.png",
+        "prior_doki_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B252-S067",
+      "case": "prior_tenjin",
+      "expected_terminator": "0x4ac16b",
+      "observed_terminators": [
+        "0x4ac16b"
+      ],
+      "native_read_complete": true,
+      "captures": 240,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_tenjin_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B252-S068",
+      "case": "prior_mizuki",
+      "expected_terminator": "0x4ac19a",
+      "observed_terminators": [
+        "0x4ac19a"
+      ],
+      "native_read_complete": true,
+      "captures": 240,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_mizuki_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B252-S093",
+      "case": "prior_coronation",
+      "expected_terminator": "0x4ac9a6",
+      "observed_terminators": [
+        "0x4ac9a6"
+      ],
+      "native_read_complete": true,
+      "captures": 889,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_coronation_00.png",
+        "prior_coronation_01.png",
+        "prior_coronation_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B251-S001",
+      "case": "prior_alias251",
+      "expected_terminator": "0x4bc4e3",
+      "observed_terminators": [
+        "0x4bc4e3"
+      ],
+      "native_read_complete": true,
+      "captures": 301,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "prior_alias251_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 13,
+  "visual_review_scope": "All 13 selected dialogue captures inspected; staged rendering, not natural event progression."
+}

@@ -1,9 +1,9 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V34 intègre 3 160 entrées, dont 123
-nouvelles. Sources : lot29_fr.json et build_v34.py en complément des lots
-antérieurs. Les 3 037 entrées de V33 sont inchangées. Le constructeur
-conserve corrections_v20.json et les mises en page particulières héritées.
+Le README et le HEAD de main font foi. V35 garde les 3 160 dialogues de V34
+et traduit 32 occurrences sur les écrans mémoire, naissance et horloge.
+Sources : build_v35.py et startup_text.py, en complément des 29 lots et de
+corrections_v20.json. Les mises en page particulières sont conservées.
 
 ## Ressources locales
 
@@ -27,17 +27,17 @@ au démarrage, avant de considérer la traduction complète.
   inspecter aussi ce réglage pour relever ses textes encore anglais.
 - Repères ASCII confirmés dans la ROM anglaise : titre SPC7110 à 0xFF022,
   RTC BACKUP à 0xFF0AE, S-RAM BACKUP à 0xFF0B9, RESET THE SYSTEM à 0xF18A.
-  Ces adresses désignent des données trouvées, pas encore des zones éditables
-  auditées. Les questions de naissance n'ont pas été trouvées par recherche
-  ASCII simple ; identifier leur encodage/graphisme et leurs contraintes.
+  Ces zones sont auditées dans startup_text_v35.json. Le texte de naissance
+  est encodé avec la police native à 0xF1D4 ; celui de l'horloge à 0x6D2511.
+  Leur encoder spécifique garde les parenthèses et la barre oblique du menu.
 - Captures de référence disponibles dans le parcours standard V34 :
   birthday_question, birth_step1 à birth_step5 et birthday_finished ;
   check_a/check_b dans le parcours A/B. Tester également les confirmations
   et les déplacements entre champs, sans modifier leur logique.
 
-Ces éléments sont encore à traduire après V34. Ne pas les compter comme
-couverts par les lots de dialogues ni annoncer leur traduction sur la base
-des seuls contrôles A/B. Ajouter des preuves visuelles après modification.
+V35 traite ces écrans : 32 occurrences auditées, 43 captures de saisie relues,
+38 comparaisons numériques avec V34 réussies. Les marqueurs internes de
+sauvegarde restent en anglais volontairement ; ce ne sont pas des textes affichés.
 
 ## Prochain lot
 
@@ -55,8 +55,8 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
   la police et le placement ; comparer les traductions antérieures sans les altérer.
 - Rejouer le scénario standard avec la ROM exacte ; remplacer tous les chemins
   d'états par ceux de ce nouveau parcours. Initialiser A, reset, puis tester B
-  jusqu'aux résultats attendus (A : COMPLETE / ALL OK ; B : les deux BACKUP OK,
-  scenario_checks_v33.json).
+  jusqu'aux résultats attendus (V35 : A TERMINE / TOUT OK ; B : SAUV. RTC
+  et SAUV. SRAM OK, scenario_checks_v35.json).
 - Créer un état dialogue_entry avec cette même ROM. Utiliser les scripts de
   verification/reproduction et des cas propres au nouveau lot ; exiger le
   terminateur exact, relire les pages et corriger les fins de page isolées.
@@ -141,3 +141,13 @@ relecture. Les preuves finales utilisent le tag corrected pour V34 et V33.
 Les captures intermédiaires de pause peuvent répéter un texte partiel.
 B252-S039/S059 gardent des lignes finales vides héritées de la source ;
 une capture vide après le texte complet ne signifie pas un message absent.
+
+V35 : ne jamais traduire les marqueurs SPC7110 CHECK OK à 0x2F25/0xFF0E7.
+Ils conditionnent le démarrage. startup_text.py les protège explicitement.
+Le bandeau ALL OK à 0xFE286 est un flux de tuiles, remplacé par TOUT OK
+avec la petite police existante ; aucune instruction n'est modifiée.
+Les preuves V35 utilisent le tag final ; la saisie approfondie utilise
+v35_startup_inputs_validated et son contrôle v34_startup_inputs_validated.
+Le refus d'une naissance future puis l'acceptation de 01-21-1994 sont vérifiés.
+Les trois écrans finaux de navigation restent identiques. Les captures fixes
+ultérieures peuvent changer de phase ; ne pas annoncer une identité globale.

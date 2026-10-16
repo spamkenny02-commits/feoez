@@ -1,0 +1,313 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "87e51f09afdcc3693957942fdd8e52578073c0ff6e0e08c7d76c81cc0214dd93",
+  "occurrences": 32,
+  "edits": [
+    {
+      "offset": "0xf140",
+      "length": 30,
+      "encoding": "ascii",
+      "english": "THE BACKUP DATA ISN'T WORKING.",
+      "french": "SAUVEGARDE INUTILISABLE.",
+      "source_hex": "544845204241434b555020444154412049534e275420574f524b494e472e",
+      "modified_hex": "5341555645474152444520494e5554494c495341424c452e202020202020"
+    },
+    {
+      "offset": "0xf160",
+      "length": 19,
+      "encoding": "ascii",
+      "english": "PRESS THE A BUTTON.",
+      "french": "APPUYEZ SUR A.",
+      "source_hex": "505245535320544845204120425554544f4e2e",
+      "modified_hex": "4150505559455a2053555220412e2020202020"
+    },
+    {
+      "offset": "0xf175",
+      "length": 19,
+      "encoding": "ascii",
+      "english": "PRESS THE B BUTTON.",
+      "french": "APPUYEZ SUR B.",
+      "source_hex": "505245535320544845204220425554544f4e2e",
+      "modified_hex": "4150505559455a2053555220422e2020202020"
+    },
+    {
+      "offset": "0xf18a",
+      "length": 17,
+      "encoding": "ascii",
+      "english": "RESET THE SYSTEM.",
+      "french": "REINITIALISEZ.",
+      "source_hex": "5245534554205448452053595354454d2e",
+      "modified_hex": "5245494e495449414c4953455a2e202020"
+    },
+    {
+      "offset": "0xff022",
+      "length": 26,
+      "encoding": "ascii",
+      "english": "SPC7110 CHECK PROGRAM V2.2",
+      "french": "SPC7110 CONTROLE MEM. V2.2",
+      "source_hex": "5350433731313020434845434b2050524f4752414d2056322e32",
+      "modified_hex": "5350433731313020434f4e54524f4c45204d454d2e2056322e32"
+    },
+    {
+      "offset": "0xff044",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "REG INIT",
+      "french": "INIT REG",
+      "source_hex": "52454720494e4954",
+      "modified_hex": "494e495420524547"
+    },
+    {
+      "offset": "0xff04d",
+      "length": 14,
+      "encoding": "ascii",
+      "english": "S-RAM DATA BUS",
+      "french": "SRAM BUS DONN.",
+      "source_hex": "532d52414d204441544120425553",
+      "modified_hex": "5352414d2042555320444f4e4e2e"
+    },
+    {
+      "offset": "0xff05c",
+      "length": 14,
+      "encoding": "ascii",
+      "english": "S-RAM ADDR BUS",
+      "french": "SRAM BUS ADR.",
+      "source_hex": "532d52414d204144445220425553",
+      "modified_hex": "5352414d20425553204144522e20"
+    },
+    {
+      "offset": "0xff06b",
+      "length": 9,
+      "encoding": "ascii",
+      "english": "S-RAM R/W",
+      "french": "SRAM L/E",
+      "source_hex": "532d52414d20522f57",
+      "modified_hex": "5352414d204c2f4520"
+    },
+    {
+      "offset": "0xff075",
+      "length": 10,
+      "encoding": "ascii",
+      "english": "D-PORT ACC",
+      "french": "ACC.PORT D",
+      "source_hex": "442d504f525420414343",
+      "modified_hex": "4143432e504f52542044"
+    },
+    {
+      "offset": "0xff088",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "C-LENGTH",
+      "french": "LONGUEUR",
+      "source_hex": "432d4c454e475448",
+      "modified_hex": "4c4f4e4755455552"
+    },
+    {
+      "offset": "0xff091",
+      "length": 12,
+      "encoding": "ascii",
+      "english": "D-PORT B+O+S",
+      "french": "PORT D B+O+S",
+      "source_hex": "442d504f525420422b4f2b53",
+      "modified_hex": "504f5254204420422b4f2b53"
+    },
+    {
+      "offset": "0xff09e",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "RTC TIME",
+      "french": "H. RTC",
+      "source_hex": "5254432054494d45",
+      "modified_hex": "482e205254432020"
+    },
+    {
+      "offset": "0xff0ae",
+      "length": 10,
+      "encoding": "ascii",
+      "english": "RTC BACKUP",
+      "french": "SAUV. RTC",
+      "source_hex": "525443204241434b5550",
+      "modified_hex": "534155562e2052544320"
+    },
+    {
+      "offset": "0xff0b9",
+      "length": 12,
+      "encoding": "ascii",
+      "english": "S-RAM BACKUP",
+      "french": "SAUV. SRAM",
+      "source_hex": "532d52414d204241434b5550",
+      "modified_hex": "534155562e205352414d2020"
+    },
+    {
+      "offset": "0xff0c6",
+      "length": 7,
+      "encoding": "ascii",
+      "english": "ON TEST",
+      "french": "EN TEST",
+      "source_hex": "4f4e2054455354",
+      "modified_hex": "454e2054455354"
+    },
+    {
+      "offset": "0xff0ce",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "COMPLETE",
+      "french": "TERMINE",
+      "source_hex": "434f4d504c455445",
+      "modified_hex": "5445524d494e4520"
+    },
+    {
+      "offset": "0xff0d7",
+      "length": 9,
+      "encoding": "ascii",
+      "english": "ID DETECT",
+      "french": "DETECT ID",
+      "source_hex": "494420444554454354",
+      "modified_hex": "444554454354204944"
+    },
+    {
+      "offset": "0xff0e4",
+      "length": 2,
+      "encoding": "ascii",
+      "english": "NG",
+      "french": "KO",
+      "source_hex": "4e47",
+      "modified_hex": "4b4f"
+    },
+    {
+      "offset": "0xeb25",
+      "length": 13,
+      "encoding": "native",
+      "english": "Is this okay?",
+      "french": "C'est bon ?",
+      "source_hex": "38622063575862205e5a50682e",
+      "modified_hex": "321654626320515e5d202e2020"
+    },
+    {
+      "offset": "0xeb37",
+      "length": 3,
+      "encoding": "native",
+      "english": "Yes",
+      "french": "Oui",
+      "source_hex": "485462",
+      "modified_hex": "3e6458"
+    },
+    {
+      "offset": "0xf1d4",
+      "length": 33,
+      "encoding": "native",
+      "english": "Enter your birthday and the year.",
+      "french": "Date de naissance (mois-jour-an)",
+      "source_hex": "345d63546120685e646120515861635753506820505d532063575420685450611d",
+      "modified_hex": "33506354205354205d50586262505d525420175c5e58621c595e64611c505d1820"
+    },
+    {
+      "offset": "0xf1fd",
+      "length": 38,
+      "encoding": "native",
+      "english": "Press up and down on the direction pad",
+      "french": "Utilise les directions Haut et Bas",
+      "source_hex": "3f6154626220645f20505d5320535e665d205e5d2063575420535861545263585e5d205f5053",
+      "modified_hex": "4463585b586254205b546220535861545263585e5d6220375064632054632031506220202020"
+    },
+    {
+      "offset": "0xf228",
+      "length": 21,
+      "encoding": "native",
+      "english": "to change the number.",
+      "french": "pour le modifier.",
+      "source_hex": "635e205257505d565420635754205d645c5154611d",
+      "modified_hex": "5f5e6461205b54205c5e5358555854611d20202020"
+    },
+    {
+      "offset": "0xf242",
+      "length": 30,
+      "encoding": "native",
+      "english": "Press the A Button to confirm.",
+      "french": "Appuie sur A pour valider.",
+      "source_hex": "3f6154626220635754203020316463635e5d20635e20525e5d5558615c1d",
+      "modified_hex": "305f5f645854206264612030205f5e64612065505b585354611d20202020"
+    },
+    {
+      "offset": "0x6d2511",
+      "length": 32,
+      "encoding": "native",
+      "english": "Enter the current date and time.",
+      "french": "Règle la date et l'heure.",
+      "source_hex": "345d635461206357542052646161545d63205350635420505d532063585c541d",
+      "modified_hex": "41aa565b54205b502053506354205463205b1657546461541d20202020202020"
+    },
+    {
+      "offset": "0x6d2536",
+      "length": 38,
+      "encoding": "native",
+      "english": "(Month, day, year, and A.M./P.M. time)",
+      "french": "(Mois, jour, année ; heure AM/PM)",
+      "source_hex": "173c5e5d63571b205350681b20685450611b20505d5320301d3c1d1e3f1d3c1d2063585c5418",
+      "modified_hex": "173c5e58621b20595e64611b20505d5da954202a20575464615420303c1e3f3c182020202020"
+    },
+    {
+      "offset": "0x6d2561",
+      "length": 38,
+      "encoding": "native",
+      "english": "Press up and down on the direction pad",
+      "french": "Utilise les directions Haut et Bas",
+      "source_hex": "3f6154626220645f20505d5320535e665d205e5d2063575420535861545263585e5d205f5053",
+      "modified_hex": "4463585b586254205b546220535861545263585e5d6220375064632054632031506220202020"
+    },
+    {
+      "offset": "0x6d258c",
+      "length": 21,
+      "encoding": "native",
+      "english": "to change the number.",
+      "french": "pour le modifier.",
+      "source_hex": "635e205257505d565420635754205d645c5154611d",
+      "modified_hex": "5f5e6461205b54205c5e5358555854611d20202020"
+    },
+    {
+      "offset": "0x6d25a6",
+      "length": 30,
+      "encoding": "native",
+      "english": "Press the A Button to confirm.",
+      "french": "Appuie sur A pour valider.",
+      "source_hex": "3f6154626220635754203020316463635e5d20635e20525e5d5558615c1d",
+      "modified_hex": "305f5f645854206264612030205f5e64612065505b585354611d20202020"
+    },
+    {
+      "offset": "0xeb3f",
+      "length": 4,
+      "encoding": "native",
+      "english": "No",
+      "french": "Non",
+      "source_hex": "3d5e00ff",
+      "modified_hex": "3d5e5d00",
+      "note": "Consumes one verified FF padding byte; following list terminator stays FF."
+    },
+    {
+      "offset": "0xfe286",
+      "length": 12,
+      "encoding": "diagnostic_tile_stream",
+      "english": "ALL OK",
+      "french": "TOUT OK",
+      "source_hex": "a6a7c2c3c2c31010c400c70d",
+      "modified_hex": "20202020544f5554204f4bff",
+      "note": "Existing ASCII tiles; four leading spaces center the single-row result. No font or executable change."
+    }
+  ],
+  "protocol_markers_preserved": [
+    {
+      "offset": "0x2f25",
+      "text": "SPC7110 CHECK OK"
+    },
+    {
+      "offset": "0xff0e7",
+      "text": "SPC7110 CHECK OK"
+    }
+  ],
+  "notes": [
+    "Native date display order and 12-hour AM/PM format preserved.",
+    "No consumes one verified padding byte; choice width and following list terminator stay intact.",
+    "ALL OK tile stream replaced with existing small-font TOUT OK, one row.",
+    "Only audited data spans and checksum differ from V34; executable instructions unchanged."
+  ]
+}

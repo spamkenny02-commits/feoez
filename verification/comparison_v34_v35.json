@@ -1,0 +1,622 @@
+{
+  "identical": [
+    {
+      "file": "after_a.png",
+      "bbox": null
+    },
+    {
+      "file": "after_a_wait.png",
+      "bbox": null
+    },
+    {
+      "file": "after_checks.png",
+      "bbox": null
+    },
+    {
+      "file": "button_Select.png",
+      "bbox": null
+    },
+    {
+      "file": "clock_wait.png",
+      "bbox": null
+    },
+    {
+      "file": "dialogue_next.png",
+      "bbox": null
+    },
+    {
+      "file": "field_menu_x.png",
+      "bbox": null
+    },
+    {
+      "file": "file_select.png",
+      "bbox": null
+    },
+    {
+      "file": "first_room.png",
+      "bbox": null
+    },
+    {
+      "file": "game_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_a.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_ready.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_settings_start.png",
+      "bbox": null
+    },
+    {
+      "file": "menu_x.png",
+      "bbox": null
+    },
+    {
+      "file": "room_dialogues_done.png",
+      "bbox": null
+    },
+    {
+      "file": "select_screen.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_lower.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_open.png",
+      "bbox": null
+    },
+    {
+      "file": "settings_selected.png",
+      "bbox": null
+    },
+    {
+      "file": "start_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "start_story.png",
+      "bbox": null
+    },
+    {
+      "file": "story_12.png",
+      "bbox": null
+    },
+    {
+      "file": "story_32.png",
+      "bbox": null
+    },
+    {
+      "file": "story_62.png",
+      "bbox": null
+    },
+    {
+      "file": "story_87.png",
+      "bbox": null
+    },
+    {
+      "file": "story_or_menu.png",
+      "bbox": null
+    },
+    {
+      "file": "story_transition.png",
+      "bbox": null
+    },
+    {
+      "file": "title_after_intro.png",
+      "bbox": null
+    },
+    {
+      "file": "title_idle.png",
+      "bbox": null
+    },
+    {
+      "file": "title_menu.png",
+      "bbox": null
+    }
+  ],
+  "different": [
+    {
+      "file": "after_birthday.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "after_confirm_yes.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "after_reset_a.png",
+      "bbox": [
+        9,
+        8,
+        243,
+        95
+      ]
+    },
+    {
+      "file": "after_up_confirm.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "birth_step1.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birth_step2.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birth_step3.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birth_step4.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birth_step5.png",
+      "bbox": [
+        0,
+        108,
+        1,
+        109
+      ]
+    },
+    {
+      "file": "birthday_choice_confirm.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_choice_up.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_confirm_result.png",
+      "bbox": [
+        48,
+        26,
+        220,
+        197
+      ]
+    },
+    {
+      "file": "birthday_finished.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_question.png",
+      "bbox": [
+        48,
+        26,
+        220,
+        197
+      ]
+    },
+    {
+      "file": "birthday_question_right.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_right_again.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_right_twice.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_yes_a.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_yes_b.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "birthday_yes_selected.png",
+      "bbox": [
+        48,
+        26,
+        197,
+        179
+      ]
+    },
+    {
+      "file": "boot.png",
+      "bbox": [
+        9,
+        8,
+        243,
+        95
+      ]
+    },
+    {
+      "file": "button_L.png",
+      "bbox": [
+        8,
+        23,
+        248,
+        224
+      ]
+    },
+    {
+      "file": "button_R.png",
+      "bbox": [
+        8,
+        23,
+        248,
+        224
+      ]
+    },
+    {
+      "file": "button_Start.png",
+      "bbox": [
+        56,
+        23,
+        205,
+        224
+      ]
+    },
+    {
+      "file": "check_a.png",
+      "bbox": [
+        8,
+        8,
+        192,
+        199
+      ]
+    },
+    {
+      "file": "check_b.png",
+      "bbox": [
+        9,
+        8,
+        179,
+        199
+      ]
+    },
+    {
+      "file": "choose_game.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "clock_b_result.png",
+      "bbox": [
+        48,
+        26,
+        220,
+        197
+      ]
+    },
+    {
+      "file": "clock_done.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "clock_start.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "close_field_menu.png",
+      "bbox": [
+        56,
+        24,
+        214,
+        224
+      ]
+    },
+    {
+      "file": "confirm_left.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "context_menu_a.png",
+      "bbox": [
+        97,
+        66,
+        236,
+        171
+      ]
+    },
+    {
+      "file": "context_menu_b.png",
+      "bbox": [
+        24,
+        66,
+        129,
+        188
+      ]
+    },
+    {
+      "file": "date_confirmed.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "date_setup.png",
+      "bbox": [
+        48,
+        26,
+        221,
+        197
+      ]
+    },
+    {
+      "file": "field_command_a.png",
+      "bbox": [
+        8,
+        24,
+        248,
+        215
+      ]
+    },
+    {
+      "file": "field_command_b.png",
+      "bbox": [
+        8,
+        24,
+        248,
+        215
+      ]
+    },
+    {
+      "file": "field_command_y.png",
+      "bbox": [
+        56,
+        24,
+        214,
+        135
+      ]
+    },
+    {
+      "file": "field_menu_y.png",
+      "bbox": [
+        40,
+        24,
+        216,
+        224
+      ]
+    },
+    {
+      "file": "map_full.png",
+      "bbox": [
+        56,
+        24,
+        200,
+        224
+      ]
+    },
+    {
+      "file": "menu_after_family.png",
+      "bbox": [
+        24,
+        162,
+        228,
+        206
+      ]
+    },
+    {
+      "file": "menu_after_intro.png",
+      "bbox": [
+        8,
+        52,
+        248,
+        172
+      ]
+    },
+    {
+      "file": "menu_story_167.png",
+      "bbox": [
+        8,
+        28,
+        248,
+        215
+      ]
+    },
+    {
+      "file": "move_down.png",
+      "bbox": [
+        8,
+        47,
+        248,
+        175
+      ]
+    },
+    {
+      "file": "new_game_menu.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "post_shrine.png",
+      "bbox": [
+        93,
+        136,
+        163,
+        141
+      ]
+    },
+    {
+      "file": "post_story_122.png",
+      "bbox": [
+        114,
+        52,
+        150,
+        172
+      ]
+    },
+    {
+      "file": "question_again.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "question_right.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "question_up.png",
+      "bbox": [
+        49,
+        26,
+        221,
+        179
+      ]
+    },
+    {
+      "file": "return_from_map.png",
+      "bbox": [
+        40,
+        24,
+        200,
+        141
+      ]
+    },
+    {
+      "file": "right_confirm_result.png",
+      "bbox": [
+        48,
+        26,
+        220,
+        197
+      ]
+    },
+    {
+      "file": "story_122.png",
+      "bbox": [
+        24,
+        0,
+        218,
+        187
+      ]
+    },
+    {
+      "file": "story_167.png",
+      "bbox": [
+        62,
+        82,
+        207,
+        205
+      ]
+    }
+  ],
+  "visual_review": "20 differing non-startup pairs inspected: animation, transition, actor positions or dialogue display/progression phases differ. Startup captures also change with the translations. No visibly corrupted text observed; no claim of full temporal equivalence."
+}

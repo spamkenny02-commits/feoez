@@ -105,6 +105,10 @@ def main():
                 response['ram_hex']=C.string_at(ptr+off,size).hex(' ')
             if command.get('dump_ram'):
                 ptr=lib.retro_get_memory_data(2);p=a.out/(command['dump_ram']+'.wram');p.write_bytes(C.string_at(ptr,lib.retro_get_memory_size(2)));response['ram_file']=str(p.resolve())
+            if command.get('dump_vram'):
+                ptr=lib.retro_get_memory_data(3);size=lib.retro_get_memory_size(3)
+                if not ptr or size!=65536:raise RuntimeError('Core does not expose SNES VRAM')
+                p=a.out/(command['dump_vram']+'.vram');p.write_bytes(C.string_at(ptr,size));response['vram_file']=str(p.resolve())
             response.update(frame=frame,audio_samples=audio_frames,elapsed=round(time.monotonic()-t,3));history.append({'command':command,'response':response});
             if len(history)%max(1,a.history_every)==0 or command.get('quit'):(a.out/'history.json').write_text(json.dumps(history,indent=2))
             send(response)
