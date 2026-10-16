@@ -1,0 +1,44 @@
+{
+  "selection_instruction_budget": 500000,
+  "old_100000_budget_rejection_confirmed": true,
+  "passed": 6,
+  "checks": [
+    {
+      "entry": "B221-S011",
+      "selection_instructions": 118082,
+      "exact_source_bytes_read": true,
+      "cursor": "0x499c86"
+    },
+    {
+      "entry": "B221-S012",
+      "selection_instructions": 134965,
+      "exact_source_bytes_read": true,
+      "cursor": "0x499f85"
+    },
+    {
+      "entry": "B221-S013",
+      "selection_instructions": 150902,
+      "exact_source_bytes_read": true,
+      "cursor": "0x49a259"
+    },
+    {
+      "entry": "B221-S014",
+      "selection_instructions": 160169,
+      "exact_source_bytes_read": true,
+      "cursor": "0x49a3fe"
+    },
+    {
+      "entry": "B221-S015",
+      "selection_instructions": 163980,
+      "exact_source_bytes_read": true,
+      "cursor": "0x49a4ab"
+    },
+    {
+      "entry": "B221-S055",
+      "selection_instructions": 21632,
+      "exact_source_bytes_read": true,
+      "cursor": "0x49be52"
+    }
+  ],
+  "scope": "Restricted native reader probe only; no game-engine changes."
+}

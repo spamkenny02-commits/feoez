@@ -1,0 +1,62 @@
+{
+  "version": "V31",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "8c7af618a1783fc630c70d346e9c6a2efc7f33c1d730cc1cc5a16fae4b82d57e",
+  "patch_sha256": "63404ae5bab2c5f6cba4100b4af67dcb1aa98acef8d44b9d3ca76b2ddac69de0",
+  "fresh_boot": true,
+  "autotests": {
+    "A": "COMPLETE / ALL OK",
+    "B": "RTC BACKUP OK / S-RAM BACKUP OK"
+  },
+  "extended_backup_scenario": "reproduction/scenario_checks_v31.json",
+  "common_captures_identical_to_v30": 85,
+  "common_captures_clock_only_differences": 0,
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "targeted_dialogue_tests": 60,
+  "targeted_render_report": "scenes_v31/render_report.json",
+  "choice_layout": {
+    "entry": "B217-S013",
+    "source_answer_start_pixels": [
+      21,
+      70
+    ],
+    "french_answer_start_pixels": [
+      21,
+      71
+    ],
+    "ending_selection_validated": false
+  },
+  "pagination_fixes": [
+    "B221-S001",
+    "B221-S021",
+    "B221-S024",
+    "B221-S049",
+    "B223-S026",
+    "B224-S008"
+  ],
+  "limits": [
+    "Staged native rendering; not natural event progression.",
+    "Ending selection, combat, spell effects, payments, rewards and Mahamayuri flight not validated.",
+    "41 deferred messages in processed blocks; journal210 not processed; blocks132/183 unchanged."
+  ]
+}

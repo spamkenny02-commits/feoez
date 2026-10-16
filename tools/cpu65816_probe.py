@@ -103,7 +103,8 @@ class CPU:
             else:raise ProbeError(f'Unsupported opcode {op:02X} at {pc:06X}')
         raise ProbeError('Instruction budget exceeded')
     def load_block(self,block_id):self.run(0xc329b6,block_id);return self.read(0x10c5,3)
-    def select(self,index):self.run(0xc329da,index);return self.read(0x8f,3)
+    # Long grouped blocks can require over 100k instructions even in the original ROM.
+    def select(self,index,limit=500000):self.run(0xc329da,index,limit=limit);return self.read(0x8f,3)
     def string(self,limit=4096):
         out=bytearray()
         for _ in range(limit):

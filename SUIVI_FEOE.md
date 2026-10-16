@@ -1,9 +1,9 @@
 # Reprise du chantier FEOE
 
-Le README et le HEAD de main font foi. V30 intègre 2 601 entrées, dont 38
-nouvelles. Sources : lot25_fr.json et build_v30.py, en complément des lots
-antérieurs. Les 2 563 entrées de V29 sont inchangées. Le constructeur
-conserve corrections_v20.json.
+Le README et le HEAD de main font foi. V31 intègre 2 751 entrées, dont 150
+nouvelles. Sources : lot26_fr.json et build_v31.py, en complément des lots
+antérieurs. Les 2 601 entrées de V30 sont inchangées. Le constructeur
+conserve corrections_v20.json. Les accès 217/218 partagent leurs textes.
 
 ## Ressources locales
 
@@ -16,7 +16,7 @@ avant de promettre une reconstruction ou un essai ; ne jamais inventer un résul
 
 ## Prochain lot
 
-Inspecter les blocs 217 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
+Inspecter les blocs 225 et suivants, et reprendre le journal du bloc 210, puis les éventuels blocs antérieurs non
 traités. La liste BLOCKS du dernier constructeur donne la couverture canonique ;
 un numéro inférieur au dernier bloc traité n'implique pas une traduction.
 Viser un lot cohérent de 100 à 200 entrées. Préserver la séquence de toutes les
@@ -31,7 +31,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Rejouer le scénario standard avec la ROM exacte ; remplacer tous les chemins
   d'états par ceux de ce nouveau parcours. Initialiser A, reset, puis tester B
   jusqu'aux résultats attendus (A : COMPLETE / ALL OK ; B : les deux BACKUP OK,
-  scenario_checks_v30.json).
+  scenario_checks_v31.json).
 - Créer un état dialogue_entry avec cette même ROM. Utiliser les scripts de
   verification/reproduction et des cas propres au nouveau lot ; exiger le
   terminateur exact, relire les pages et corriger les fins de page isolées.
@@ -43,7 +43,7 @@ Conserver corrections_v20.json et tous les cas particuliers de mise en page.
 - Relire le HEAD distant avant d'écrire. En cas de travail concurrent, ne pas
   dupliquer ni écraser ; publier avec contrôle du parent attendu, sans force.
 
-Les 40 messages différés et le bloc 132 restent inchangés. Consulter les rapports
+Les 41 messages différés et le bloc 132 restent inchangés. Consulter les rapports
 pour leurs limites. Faire un compte rendu en français avec commit et tests réalisés.
 
 V27 laisse le bloc 183 (35 invites de débogage) intact. Les nouveaux messages
@@ -70,3 +70,16 @@ B215-S006/S012 et B216-S005 raccourcis après relecture. Les preuves finales
 doivent utiliser les parcours corrected, liés à la ROM finale. Le contrôle
 A affiche COMPLETE / ALL OK ; B affiche OK pour RTC BACKUP et S-RAM BACKUP.
 Ne pas prétendre que B affiche aussi un écran COMPLETE / ALL OK.
+
+V31 : B221-S022 reste différé à cause du fragment littéral x5. Le choix
+B217-S013 conserve les colonnes ; le rendu ne prouve pas la sélection
+effective des fins. L'ermite du Tonnerre, Foudre et Éclair sont distincts.
+
+La sélection du banc CPU accepte maintenant jusqu'à 500 000 instructions,
+car B221-S011 demande 118 082 instructions sur la source anglaise.
+verify_long_selection.py vérifie six cas de la ROM originale. Ne pas
+confondre ce plafond du banc avec une modification du moteur du jeu.
+
+Pagination V31 : B221-S001/S021/S024/S049, B223-S026 et B224-S008
+resserrés après relecture. Les preuves finales utilisent les parcours
+corrected et l'état créé avec la ROM finale.

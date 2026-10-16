@@ -500,3 +500,24 @@ aux traditions, sans masquer leurs réticences envers Higan.
   augmente sa vitesse. Les effets réels en combat restent à tester.
 - Les indications de l'ermite Courant gardent les orientations et les îles
   du script anglais. L'Arche des Cieux et Takamagahara gardent leurs noms.
+
+## V31 — Paon, ermites et fins
+
+- Luck Luck Village : Double-Chance ; Rain Temple Village : village du
+  Temple de la Pluie ; Open Market : marché en plein air, provisoires.
+- Mahamayuri : nom conservé du vaisseau ; Peacock Palace : palais du Paon ;
+  peacock tear : larme du Paon ; typha buds / oil : pousses / huile de massette.
+- Water / Buddhist / Nude / Okie-Dokie / Jolt / Thunder Hermit : ermite
+  de l'Eau / Bouddhiste / Nu / Ça-Roule / Foudre / du Tonnerre.
+  L'ermite Éclair désigne toujours Bolt Hermit ; les trois noms restent distincts.
+- Waterwater / Windwater / Waterwind : Eau-Eau / Vent-Eau / Eau-Vent ;
+  l'ordre des éléments est conservé. Nude / Float / Jolt : Nudité / Flottaison /
+  Foudre ; Thunder Cutter : Lame du tonnerre, tous provisoires.
+- Wonder-fly : Papillon miracle ; croquettes Coeur, Corps, Mystère, Tête ;
+  chrysalide de 40 à 50 heures, selon l'indice anglais.
+- L'ermite Ça-Roule utilise des rimes françaises pour son refrain absurde.
+  B221-S022 reste en anglais à cause du fragment littéral x5 non élucidé.
+- B217/S013 conserve les deux colonnes Oui/Non ; les accès 217 et 218
+  partagent leurs textes. Le rendu ne valide pas les branches de fin.
+- Le manju bouddhiste, les seize fusions et la commande Ma-Djinn sont
+  conservés dans les indices. Le tarif de l'auberge est de cinquante ryo.
