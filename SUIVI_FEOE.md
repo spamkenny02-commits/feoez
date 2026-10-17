@@ -1,3 +1,13 @@
+# État actuel — V36
+
+3 203 dialogues intégrés : 43 nouveaux dans lot30_fr.json (167, 244/245, 253).
+Les 3 160 entrées antérieures et les 32 occurrences initiales V35 sont conservées.
+Prochain lot : récit des crabes et journal 210, puis effets des blocs 235/236.
+Les preuves V36 utilisent le tag corrected ; référence V35 : final.
+Les choix de boutons et événements ne sont pas validés en progression naturelle.
+
+## Historique et consignes
+
 # Reprise du chantier FEOE
 
 Le README et le HEAD de main font foi. V35 garde les 3 160 dialogues de V34
@@ -151,3 +161,6 @@ v35_startup_inputs_validated et son contrôle v34_startup_inputs_validated.
 Le refus d'une naissance future puis l'acceptation de 01-21-1994 sont vérifiés.
 Les trois écrans finaux de navigation restent identiques. Les captures fixes
 ultérieures peuvent changer de phase ; ne pas annoncer une identité globale.
+
+Pagination V36 : B167-S029, un saut de paragraphe retiré après relecture
+pour regrouper une fin de réplique isolée. Balises et texte conservés.

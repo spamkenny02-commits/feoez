@@ -591,3 +591,14 @@ aux traditions, sans masquer leurs réticences envers Higan.
   Le format numérique et les données ne sont pas convertis au format français.
 - Is this okay? : C'est bon ? ; Yes/No : Oui/Non. Le format 12 heures AM/PM
   reste inchangé. Les marqueurs de protocole ne sont pas des textes à traduire.
+
+## Lot 30 — V36
+
+- Horsies 'n Deerses Skill : technique des Dadas et des Cerfs.
+- Battle of the Monkey and Crab : Le Combat du Singe et du Crabe.
+- Hey/Hay : Hé / quel foin / du foin pour les chevaux.
+- Crab helmet : casque de crabe ; mortar armor : armure Mortier ;
+  chestnut curio : bibelot Châtaigne. Noms provisoires avant inventaire.
+- Shitty shoes : chaussures de merde ; conserver le registre du conte.
+- Trois boutons : Gauche / Centre / Droite, colonnes explicites.
+- Hatchery : couvoir ; conserver sanctuaire de l’Ours de Feu.

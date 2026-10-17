@@ -1,0 +1,17 @@
+{
+  "columns": [
+    {
+      "entry": "B244-S001",
+      "label": "Centre",
+      "original_column_start": 66,
+      "french_column_start": 67
+    },
+    {
+      "entry": "B244-S001",
+      "label": "Droite",
+      "original_column_start": 130,
+      "french_column_start": 131
+    }
+  ],
+  "selection_logic_validated": false
+}
