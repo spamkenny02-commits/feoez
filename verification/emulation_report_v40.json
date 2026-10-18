@@ -1,0 +1,86 @@
+{
+  "version": "V40",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+  "patch_sha256": "fad80e47c7401cd6f968dbda6eb96c8b672b7a6086dafc42eb4088d0843bcd6d",
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v40.json",
+  "dialogue_entries": 3440,
+  "baseline_entries_preserved": 3399,
+  "new_dialogue_entries": 41,
+  "new_changed_entries": 41,
+  "native_reads": 4259,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "fresh_standard_runs": [
+    {
+      "run": "fr_v40_final",
+      "rom_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v40_navigation_final",
+      "rom_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v40_check_ab_final",
+      "rom_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v39_reference40",
+      "rom_sha256": "315929cccf3a304b2b77d823648e09c6229f1eec3d6e93268aae95ff30ef40f6",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v39_navigation_reference40",
+      "rom_sha256": "315929cccf3a304b2b77d823648e09c6229f1eec3d6e93268aae95ff30ef40f6",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "autotests": {
+    "A": "TERMINE / TOUT OK",
+    "B_extended": "SAUV. RTC OK / SAUV. SRAM OK; no completion banner asserted"
+  },
+  "targeted_dialogue_checks": 41,
+  "selected_dialogue_captures": 57,
+  "dialogue_capture_report": "scenes_v40/render_report.json",
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v39_v40.json"
+  },
+  "limitations": [
+    "Staged rendering validates pages and exact terminators, not natural story progression, purchases, donations, badge effects or hermit trial completion.",
+    "B086-S007/008/009 remain untouched because of commands 05/06/07.",
+    "Detailed birth input evidence retained from V35; startup bytes compared with V39 and standard scenario rerun.",
+    "Failure conditions, all calendar boundaries, Snes9x 1.60 and real hardware not tested."
+  ]
+}

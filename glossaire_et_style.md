@@ -628,3 +628,10 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Golden badge : insigne d’or ; gold bag : bourse d’or.
 - Conserver 20 000 ryo, deux blocs sans risque et dix en forçant.
 - Promotions : moitié prix les 10, 20 et 30 de chaque mois.
+
+## Lot 34 — V40
+
+- Omine au grand cœur ; grotte du Clapotis : noms établis conservés.
+- Trois insignes pour 3 000 ryo, soit 1 000 pièce ; dons de 1 000 ryo.
+- Byakko : tigre blanc ; goldkin bug : insecte mange-or.
+- Énigme : centre, droite, gauche, centre, gauche.

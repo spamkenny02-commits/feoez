@@ -1,11 +1,11 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "315929cccf3a304b2b77d823648e09c6229f1eec3d6e93268aae95ff30ef40f6",
-  "translated_entries": 3399,
-  "new_entries": 23,
-  "previously_integrated": 3376,
-  "new_nonempty_texts": 23,
-  "new_changed_entries": 23,
+  "output_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+  "translated_entries": 3440,
+  "new_entries": 41,
+  "previously_integrated": 3399,
+  "new_nonempty_texts": 41,
+  "new_changed_entries": 41,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -302,7 +302,7 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 3399,
+  "integrated_entries": 3440,
   "blocks": [
     {
       "block_ids": [
@@ -965,6 +965,27 @@
       ],
       "new_relative_offsets": [
         2
+      ]
+    },
+    {
+      "block_ids": [
+        86
+      ],
+      "source": "0x63ea20",
+      "destination": "0x63ea20",
+      "old_size": 4926,
+      "new_size": 4037,
+      "translated": 41,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0822",
+        "0x0F49"
+      ],
+      "new_relative_offsets": [
+        6,
+        1642,
+        3166
       ]
     },
     {
@@ -3458,7 +3479,7 @@
       ]
     }
   ],
-  "engine_checks": 4215,
+  "engine_checks": 4259,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -3469,14 +3490,19 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v39.json",
+  "runtime_validation": "see emulation_report_v40.json",
   "allocation_end": "0x6bd200",
   "free_bytes": 77312,
-  "in_place_blocks": 133,
+  "in_place_blocks": 134,
   "relocated_blocks": 34,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
+    "86": [
+      7,
+      8,
+      9
+    ],
     "94": [
       4
     ],

@@ -1,0 +1,641 @@
+{
+  "rom_sha256": "2fe72ff8b7692d725591be42a29eeed3e30e984f608bdbe89a5216d55aa0db36",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "d888f50de0fa6651f0dc4ede7391013a53302ffe0bb7a1c3d8b6600b1c1f574a",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B086-S001",
+      "case": "b086_s001",
+      "expected_terminator": "0x43eb53",
+      "observed_terminators": [
+        "0x43eb53"
+      ],
+      "native_read_complete": true,
+      "captures": 2057,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s001_00.png",
+        "b086_s001_01.png",
+        "b086_s001_02.png",
+        "b086_s001_03.png",
+        "b086_s001_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S002",
+      "case": "b086_s002",
+      "expected_terminator": "0x43ebc0",
+      "observed_terminators": [
+        "0x43ebc0"
+      ],
+      "native_read_complete": true,
+      "captures": 950,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S003",
+      "case": "b086_s003",
+      "expected_terminator": "0x43ec76",
+      "observed_terminators": [
+        "0x43ec76"
+      ],
+      "native_read_complete": true,
+      "captures": 1961,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s003_00.png",
+        "b086_s003_01.png",
+        "b086_s003_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S004",
+      "case": "b086_s004",
+      "expected_terminator": "0x43ed02",
+      "observed_terminators": [
+        "0x43ed02"
+      ],
+      "native_read_complete": true,
+      "captures": 951,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s004_00.png",
+        "b086_s004_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S005",
+      "case": "b086_s005",
+      "expected_terminator": "0x43ed2a",
+      "observed_terminators": [
+        "0x43ed2a"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S006",
+      "case": "b086_s006",
+      "expected_terminator": "0x43ed60",
+      "observed_terminators": [
+        "0x43ed60"
+      ],
+      "native_read_complete": true,
+      "captures": 496,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S010",
+      "case": "b086_s010",
+      "expected_terminator": "0x43ee03",
+      "observed_terminators": [
+        "0x43ee03"
+      ],
+      "native_read_complete": true,
+      "captures": 504,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S011",
+      "case": "b086_s011",
+      "expected_terminator": "0x43ee80",
+      "observed_terminators": [
+        "0x43ee80"
+      ],
+      "native_read_complete": true,
+      "captures": 950,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s011_00.png",
+        "b086_s011_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S012",
+      "case": "b086_s012",
+      "expected_terminator": "0x43eed0",
+      "observed_terminators": [
+        "0x43eed0"
+      ],
+      "native_read_complete": true,
+      "captures": 745,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S013",
+      "case": "b086_s013",
+      "expected_terminator": "0x43ef5c",
+      "observed_terminators": [
+        "0x43ef5c"
+      ],
+      "native_read_complete": true,
+      "captures": 954,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s013_00.png",
+        "b086_s013_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S014",
+      "case": "b086_s014",
+      "expected_terminator": "0x43efa6",
+      "observed_terminators": [
+        "0x43efa6"
+      ],
+      "native_read_complete": true,
+      "captures": 693,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S015",
+      "case": "b086_s015",
+      "expected_terminator": "0x43f036",
+      "observed_terminators": [
+        "0x43f036"
+      ],
+      "native_read_complete": true,
+      "captures": 977,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s015_00.png",
+        "b086_s015_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S016",
+      "case": "b086_s016",
+      "expected_terminator": "0x43f089",
+      "observed_terminators": [
+        "0x43f089"
+      ],
+      "native_read_complete": true,
+      "captures": 773,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S017",
+      "case": "b086_s017",
+      "expected_terminator": "0x43f0d2",
+      "observed_terminators": [
+        "0x43f0d2"
+      ],
+      "native_read_complete": true,
+      "captures": 677,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S018",
+      "case": "b086_s018",
+      "expected_terminator": "0x43f125",
+      "observed_terminators": [
+        "0x43f125"
+      ],
+      "native_read_complete": true,
+      "captures": 767,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S019",
+      "case": "b086_s019",
+      "expected_terminator": "0x43f1ab",
+      "observed_terminators": [
+        "0x43f1ab"
+      ],
+      "native_read_complete": true,
+      "captures": 975,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s019_00.png",
+        "b086_s019_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S020",
+      "case": "b086_s020",
+      "expected_terminator": "0x43f1fe",
+      "observed_terminators": [
+        "0x43f1fe"
+      ],
+      "native_read_complete": true,
+      "captures": 784,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S021",
+      "case": "b086_s021",
+      "expected_terminator": "0x43f24b",
+      "observed_terminators": [
+        "0x43f24b"
+      ],
+      "native_read_complete": true,
+      "captures": 717,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S022",
+      "case": "b086_s022",
+      "expected_terminator": "0x43f2a2",
+      "observed_terminators": [
+        "0x43f2a2"
+      ],
+      "native_read_complete": true,
+      "captures": 807,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S023",
+      "case": "b086_s023",
+      "expected_terminator": "0x43f317",
+      "observed_terminators": [
+        "0x43f317"
+      ],
+      "native_read_complete": true,
+      "captures": 948,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S024",
+      "case": "b086_s024",
+      "expected_terminator": "0x43f3a7",
+      "observed_terminators": [
+        "0x43f3a7"
+      ],
+      "native_read_complete": true,
+      "captures": 942,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s024_00.png",
+        "b086_s024_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S025",
+      "case": "b086_s025",
+      "expected_terminator": "0x43f3ec",
+      "observed_terminators": [
+        "0x43f3ec"
+      ],
+      "native_read_complete": true,
+      "captures": 647,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S026",
+      "case": "b086_s026",
+      "expected_terminator": "0x43f439",
+      "observed_terminators": [
+        "0x43f439"
+      ],
+      "native_read_complete": true,
+      "captures": 719,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S027",
+      "case": "b086_s027",
+      "expected_terminator": "0x43f4c9",
+      "observed_terminators": [
+        "0x43f4c9"
+      ],
+      "native_read_complete": true,
+      "captures": 943,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s027_00.png",
+        "b086_s027_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S028",
+      "case": "b086_s028",
+      "expected_terminator": "0x43f538",
+      "observed_terminators": [
+        "0x43f538"
+      ],
+      "native_read_complete": true,
+      "captures": 1478,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s028_00.png",
+        "b086_s028_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S029",
+      "case": "b086_s029",
+      "expected_terminator": "0x43f570",
+      "observed_terminators": [
+        "0x43f570"
+      ],
+      "native_read_complete": true,
+      "captures": 546,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S030",
+      "case": "b086_s030",
+      "expected_terminator": "0x43f5b2",
+      "observed_terminators": [
+        "0x43f5b2"
+      ],
+      "native_read_complete": true,
+      "captures": 604,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S031",
+      "case": "b086_s031",
+      "expected_terminator": "0x43f607",
+      "observed_terminators": [
+        "0x43f607"
+      ],
+      "native_read_complete": true,
+      "captures": 792,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S032",
+      "case": "b086_s032",
+      "expected_terminator": "0x43f67d",
+      "observed_terminators": [
+        "0x43f67d"
+      ],
+      "native_read_complete": true,
+      "captures": 1323,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s032_00.png",
+        "b086_s032_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S033",
+      "case": "b086_s033",
+      "expected_terminator": "0x43f6d0",
+      "observed_terminators": [
+        "0x43f6d0"
+      ],
+      "native_read_complete": true,
+      "captures": 783,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S034",
+      "case": "b086_s034",
+      "expected_terminator": "0x43f700",
+      "observed_terminators": [
+        "0x43f700"
+      ],
+      "native_read_complete": true,
+      "captures": 468,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S035",
+      "case": "b086_s035",
+      "expected_terminator": "0x43f714",
+      "observed_terminators": [
+        "0x43f714"
+      ],
+      "native_read_complete": true,
+      "captures": 201,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S036",
+      "case": "b086_s036",
+      "expected_terminator": "0x43f758",
+      "observed_terminators": [
+        "0x43f758"
+      ],
+      "native_read_complete": true,
+      "captures": 634,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S037",
+      "case": "b086_s037",
+      "expected_terminator": "0x43f7be",
+      "observed_terminators": [
+        "0x43f7be"
+      ],
+      "native_read_complete": true,
+      "captures": 926,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S038",
+      "case": "b086_s038",
+      "expected_terminator": "0x43f7fd",
+      "observed_terminators": [
+        "0x43f7fd"
+      ],
+      "native_read_complete": true,
+      "captures": 588,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s038_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S039",
+      "case": "b086_s039",
+      "expected_terminator": "0x43f82b",
+      "observed_terminators": [
+        "0x43f82b"
+      ],
+      "native_read_complete": true,
+      "captures": 406,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S040",
+      "case": "b086_s040",
+      "expected_terminator": "0x43f86a",
+      "observed_terminators": [
+        "0x43f86a"
+      ],
+      "native_read_complete": true,
+      "captures": 591,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S041",
+      "case": "b086_s041",
+      "expected_terminator": "0x43f8cb",
+      "observed_terminators": [
+        "0x43f8cb"
+      ],
+      "native_read_complete": true,
+      "captures": 868,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S042",
+      "case": "b086_s042",
+      "expected_terminator": "0x43f921",
+      "observed_terminators": [
+        "0x43f921"
+      ],
+      "native_read_complete": true,
+      "captures": 782,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S043",
+      "case": "b086_s043",
+      "expected_terminator": "0x43f9b4",
+      "observed_terminators": [
+        "0x43f9b4"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s043_00.png",
+        "b086_s043_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B086-S044",
+      "case": "b086_s044",
+      "expected_terminator": "0x43f9e4",
+      "observed_terminators": [
+        "0x43f9e4"
+      ],
+      "native_read_complete": true,
+      "captures": 412,
+      "visual_review": "reviewed final selected captures",
+      "review_images": [
+        "b086_s044_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 57,
+  "visual_review": "reviewed final selected captures"
+}

@@ -1,3 +1,11 @@
+# État actuel — V40
+
+Lot 34 : 41 textes de la ville du Grand Tigre (bloc 86).
+Total : 3 440 entrées. B086-S007/008/009 restent différés : commandes 05/06/07.
+Les 3 399 entrées V39 et les 32 occurrences initiales sont conservées.
+
+## Historique
+
 # État actuel — V39
 
 Lot 33 : 23 textes de la mine d’or (bloc 94). Total : 3 399 entrées.
