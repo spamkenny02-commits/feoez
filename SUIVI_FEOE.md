@@ -1,3 +1,14 @@
+# État actuel — V38
+
+3 376 entrées : 89 nouvelles, dont 88 textes modifiés et un grognement
+conservé (67/68/73/80). B080-S021 reste intact à cause de la commande 0A.
+Les 3 287 entrées V37 et les 32 occurrences initiales sont conservées.
+Les preuves V38 utilisent final ; la référence V37 reference38.
+Les événements, fusions, soins et combats ne sont pas validés naturellement.
+Autres lacunes : blocs 235/236, formatage différé et inventaire des blocs.
+
+## Historique
+
 # État actuel — V37
 
 3 287 dialogues intégrés : 84 nouvelles entrées (80 textes et quatre

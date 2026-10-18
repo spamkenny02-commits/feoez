@@ -611,3 +611,14 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Kaki : distinguer huîtres et fruits portant le même nom japonais.
 - Préserver les accusations du journal comme telles.
 - Cinq quasi-collisions, trois manœuvres de recul ; ne pas inventer trois navires.
+
+## Lot 32 — V38
+
+- Wind / Sight / Gush Hermit : ermite du Vent / de la Vue / du Jet.
+- Windwind : Vent-Vent ; Windwater / Waterwind : Vent-Eau / Eau-Vent.
+- Soft pill : pilule Souple, provisoire.
+- Gilded Superade : Superade doré ; Super Money-King the Third :
+  Super Money-King III. Les autres noms Kingin/Miho/Ninigi sont conservés.
+- Conserver 25 pas au sud, les quatre ermites, quatre types de fusion,
+  deux exemplaires par type et seize techniques.
+- COOL : jeu sur le froid et la boutique cool, conservé.
