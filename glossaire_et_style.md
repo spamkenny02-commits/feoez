@@ -602,3 +602,12 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Shitty shoes : chaussures de merde ; conserver le registre du conte.
 - Trois boutons : Gauche / Centre / Droite, colonnes explicites.
 - Hatchery : couvoir ; conserver sanctuaire de l’Ours de Feu.
+
+## Lot 31 — V37
+
+- Turtle Tattler : Bavard de la Tortue, nom provisoire du journal.
+- Crab Joint : Restaurant du Crabe ; shell manju : manju Carapace.
+- The Green Initiative : Plan vert ; The Turtle in a Shell : Tortue retranchée.
+- Kaki : distinguer huîtres et fruits portant le même nom japonais.
+- Préserver les accusations du journal comme telles.
+- Cinq quasi-collisions, trois manœuvres de recul ; ne pas inventer trois navires.

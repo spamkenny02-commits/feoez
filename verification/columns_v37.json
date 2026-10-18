@@ -1,0 +1,36 @@
+{
+  "columns": [
+    {
+      "entry": "B210-S021",
+      "label": "Crabe pil\u00e9",
+      "original_column_start": 99,
+      "french_column_start": 99
+    },
+    {
+      "entry": "B210-S021",
+      "label": "Crabe sp\u00e9cial",
+      "original_column_start": 98,
+      "french_column_start": 97
+    },
+    {
+      "entry": "B210-S021",
+      "label": "Rien",
+      "original_column_start": 98,
+      "french_column_start": 97
+    },
+    {
+      "entry": "B210-S057",
+      "label": "Plan vert",
+      "original_column_start": 107,
+      "french_column_start": 107
+    },
+    {
+      "entry": "B210-S060",
+      "label": "<04>",
+      "original_column_start": 108,
+      "french_column_start": 109
+    }
+  ],
+  "selection_logic_validated": false,
+  "dynamic_substitution": "B210-S060 keeps command 04; its staged runtime value is inherited from the test state."
+}

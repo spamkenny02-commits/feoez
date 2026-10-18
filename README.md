@@ -1,19 +1,20 @@
-# Tengai Makyou Zero — Traduction française V36
+# Tengai Makyou Zero — Traduction française V37
 
-**43 textes supplémentaires, soit 3 203 entrées de dialogue intégrées.**
-Lot 30 : scènes de Manto (167), choix des trois boutons (244/245), chambre
-du prince et variantes des œufs (253). Les 3 160 entrées précédentes et les
+**80 textes supplémentaires et quatre entrées vides conservées : 3 287 dialogues intégrés.**
+Lot 31 : récit des crabes, restaurants, spectacles, transports et journal
+au pays de la Tortue (bloc 210). Les 3 203 entrées précédentes et les
 32 occurrences des écrans de démarrage, de naissance et d'horloge sont conservées.
 
 Les contrôles SPC7110/SRAM/RTC, les instructions A/B/reset et les confirmations
 restent en français. Les signatures internes de sauvegarde sont conservées.
-La traduction reste partielle : journal 210, blocs 235/236 et autres lacunes
-répertoriées dans verification/unprocessed_inventory_v36.json ; 50 messages
-différés et quatre invites de débogage dans les blocs déjà traités.
+La traduction reste partielle : cinq entrées du bloc 210 attendent un traitement
+du formatage ; les blocs 235/236 et d'autres lacunes figurent dans
+verification/unprocessed_inventory_v37.json. Dans les blocs traités,
+55 messages et quatre invites de débogage restent différés.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V36.ips** directement à une copie de la ROM
+Appliquer **Tengai_Makyou_Zero_FR_V37.ips** directement à une copie de la ROM
 anglaise originale, sans cumuler les versions.
 
 - Taille source : 7 340 032 octets, sans en-tête de copieur.
@@ -24,19 +25,19 @@ Le dépôt ne contient ni ROM, ni sauvegarde d'état, ni noyau binaire d'émulat
 ## Construction
 
 ```bash
-python tools/build_v36.py /chemin/original.sfc --rom-out /chemin/v36.sfc
+python tools/build_v37.py /chemin/original.sfc --rom-out /chemin/v37.sfc
 python tools/verify_font.py /chemin/original.sfc
-python tools/verify_storage.py /chemin/original.sfc --version V36 --built-rom /chemin/v36.sfc --build-report verification/build_report.json
+python tools/verify_storage.py /chemin/original.sfc --version V37 --built-rom /chemin/v37.sfc --build-report verification/build_report.json
 ```
 
-Python 3 et Pillow. Les trente lots JSON, corrections_v20.json et
+Python 3 et Pillow. Les trente et un lots JSON, corrections_v20.json et
 startup_text.py sont les sources. Les fichiers bilingues JSON/TSV et
-lecture_v36.txt sont produits localement. Le générateur contrôle les balises,
+lecture_v37.txt sont produits localement. Le générateur contrôle les balises,
 les largeurs jusqu'à 216 pixels, les pointeurs, le checksum, l'encodage,
 l'aller-retour IPS et les chaînes par les routines originales 65816.
 Le banc conserve le budget de 500 000 instructions par sélection.
-4 012 lectures natives, 16 contrôles de police et 14 contrôles de placement
-passent. 127 blocs restent sur place, 34 sont relocalisés ; 77 312 octets
+4 101 lectures natives, 16 contrôles de police et 14 contrôles de placement
+passent. 128 blocs restent sur place, 34 sont relocalisés ; 77 312 octets
 restent libres. Les comptes sont dans verification/build_report.json.
 
 ## Essais dans Snes9x
@@ -46,31 +47,38 @@ Démarrage neuf, parcours du début, contrôles A puis reset puis B prolongé
 à 60 000 images. A affiche TERMINE / TOUT OK ; B affiche SAUV. RTC OK et
 SAUV. SRAM OK. Aucun bandeau de fin B n'est annoncé.
 
-Les 43 textes modifiés et l'alias 245 sont rendus avec vérification du
-terminateur exact. Les 58 captures relues figurent dans verification/scenes_v36.
-Les 85 captures fixes communes du début et les trois écrans de navigation
-sont identiques à V35.
-Les trois colonnes du choix Gauche/Centre/Droite restent à un pixel au plus
-de leur position anglaise (columns_v36.json). Les essais redirigent une
-demande de dialogue vers une chaîne donnée ; ils ne valident pas les
-événements, les conséquences des boutons ou l'éclosion en progression naturelle.
+Les 80 textes modifiés sont rendus avec vérification du terminateur exact.
+Les quatre entrées vides sont préservées et contrôlées nativement. Les 134 captures
+relues figurent dans verification/scenes_v37. Les 85 captures fixes du début
+et les trois écrans de navigation sont identiques à V36. Les colonnes des trois menus
+restent à un pixel au plus de leur position anglaise (columns_v37.json).
+La commande 04 de B210-S060 garde la valeur issue de l'état de test ;
+le menu naturel d'articles n'est pas validé par cette substitution.
+Les essais redirigent une demande de dialogue vers une chaîne donnée ;
+ils ne valident pas les achats, spectacles, récompenses, trajets, horaires
+ou événements en progression naturelle.
 
-Les 32 modifications initiales V35 sont vérifiées octet par octet. Ses preuves
-approfondies de saisie de naissance restent dans verification/startup_v35 et
-startup_numeric_comparison_v35.json ; V36 rejoue le parcours de démarrage.
+Les 32 modifications initiales V35 sont vérifiées octet par octet contre V36.
+Ses preuves approfondies de naissance restent dans verification/startup_v35
+et startup_numeric_comparison_v35.json. V37 rejoue le parcours de démarrage.
 Snes9x 1.60, les conditions d'échec, toutes les limites de calendrier et le
-matériel réel ne sont pas testés. Voir COMPTE_RENDU_V36.md et
-verification/emulation_report_v36.json pour les résultats et leurs limites.
+matériel réel ne sont pas testés. Voir COMPTE_RENDU_V37.md et
+verification/emulation_report_v37.json pour les résultats et leurs limites.
 
 ## Reproduire les essais
 
 Avec les noyaux standard et diagnostic compilés localement et nommés
 snes9x_libretro_standard.so et snes9x_libretro_diagnostic.so dans le dossier
-emulator, ainsi que la ROM reconstruite fr_v36.sfc :
+emulator, ainsi que la ROM reconstruite fr_v37.sfc :
+
+La comparaison demande aussi une référence V36. La reconstruire avant V37,
+puis lancer run_scenario.py vers runs/fr_v36_reference37 et run_navigation.py
+vers runs/v36_navigation_reference37 avec cette ROM et le noyau standard.
+Reconstruire ensuite V37 pour que build_report.json corresponde à la ROM testée.
 
 ```bash
-python verification/reproduction/run_version_checks.py --version v36 --tag corrected --source /chemin/original.sfc --emulator-root /chemin/emulator
-python verification/reproduction/collect_evidence.py --version v36 --previous v35 --tag corrected --previous-tag final --runs /chemin/emulator/runs --cases 44 --preview /chemin/contact --source /chemin/original.sfc --rom /chemin/emulator/fr_v36.sfc
+python verification/reproduction/run_version_checks.py --version v37 --tag final --source /chemin/original.sfc --emulator-root /chemin/emulator
+python verification/reproduction/collect_evidence.py --version v37 --previous v36 --tag final --previous-tag reference37 --runs /chemin/emulator/runs --cases 80 --preview /chemin/contact --source /chemin/original.sfc --rom /chemin/emulator/fr_v37.sfc
 ```
 
 Le script refuse les dossiers de parcours existants : choisir un nouveau tag

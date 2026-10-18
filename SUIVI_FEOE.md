@@ -1,3 +1,16 @@
+# État actuel — V37
+
+3 287 dialogues intégrés : 84 nouvelles entrées (80 textes et quatre
+entrées vides/espacées) dans lot31_fr.json. Bloc 210 partiel :
+S036/S065/S075/S076/S077 restent intacts pour leur formatage.
+Les 3 203 entrées V36 et les 32 occurrences initiales sont conservées.
+Les preuves V37 utilisent final, la référence V36 reference37.
+S071/S087 regroupent leurs fins après relecture. Les événements, prix
+et horaires ne sont pas validés en progression naturelle.
+Prochain chantier : effets des blocs 235/236 et lacunes inventoriées.
+
+## Historique
+
 # État actuel — V36
 
 3 203 dialogues intégrés : 43 nouveaux dans lot30_fr.json (167, 244/245, 253).
