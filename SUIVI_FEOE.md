@@ -1,3 +1,12 @@
+# État actuel — V41
+
+Lot 35 : 43 textes de Sennin, Basara, du karaoké et de la mine (96).
+Total : 3 483 entrées. B096-S020 et S023-S042 restent différés :
+menu à colonnes et paroles synchronisées. Les différés antérieurs restent intacts.
+Les 3 440 entrées V40 et les 32 occurrences initiales sont conservées.
+
+## Historique
+
 # État actuel — V40
 
 Lot 34 : 41 textes de la ville du Grand Tigre (bloc 86).

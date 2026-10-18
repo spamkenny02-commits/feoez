@@ -635,3 +635,12 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Trois insignes pour 3 000 ryo, soit 1 000 pièce ; dons de 1 000 ryo.
 - Byakko : tigre blanc ; goldkin bug : insecte mange-or.
 - Énigme : centre, droite, gauche, centre, gauche.
+
+## Lot 35 — V41
+
+- Basara / Sennin : ermite Basara / ermite Sennin.
+- Sennin Cutter : Lame de Sennin ; Taking Hermit : ermite de la Victoire, provisoires.
+- Vanishing Neon : Néons éteints ; Give Us Justice : Justice pour tous,
+  provisoires dans les dialogues ; menu et chansons restent à traiter.
+- Gold vouchers : bons d’or ; réutiliser château d’Or et bourse d’or.
+- Sept femmes ou fillettes, 1 000 ryo chacune ; karaoké 100 ryo par chanson.
