@@ -1,0 +1,25 @@
+{
+  "passed": 16,
+  "checks": [
+    "All 32 French accented letters and four ligatures round-trip",
+    "Combining Unicode input normalized to composed accents",
+    "No accented code collides with commands or dictionary",
+    "Each accented letter has its own byte",
+    "Ÿ preserves every Y/y body pixel",
+    "Ÿ has exactly two new dots",
+    "Ÿ uses the base advance",
+    "ÿ preserves every Y/y body pixel",
+    "ÿ has exactly two new dots",
+    "ÿ uses the base advance",
+    "All 254 other glyphs and advances unchanged",
+    "No data outside two glyphs/advances changed by font builder",
+    "Layout preserves accents, punctuation and pause order",
+    "Layout uses the real advances, including wide Œ",
+    "French exclamation/question cannot become an orphan line",
+    "Unsupported character fails instead of disappearing"
+  ],
+  "glyphs_unchanged": 254,
+  "french_accented_letters": 32,
+  "ligatures": 4,
+  "scope": "Font binary, encoding and pixel layout. Emulator evidence is separate."
+}

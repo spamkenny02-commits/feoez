@@ -1,0 +1,12 @@
+{
+  "baseline_entries": 3376,
+  "all_preserved": true,
+  "compared_fields": [
+    "french",
+    "french_in_game",
+    "source_hex"
+  ],
+  "new_entries": 23,
+  "new_changed_entries": 23,
+  "passthrough_entries": []
+}

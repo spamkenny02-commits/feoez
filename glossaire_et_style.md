@@ -622,3 +622,9 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Conserver 25 pas au sud, les quatre ermites, quatre types de fusion,
   deux exemplaires par type et seize techniques.
 - COOL : jeu sur le froid et la boutique cool, conservé.
+
+## Lot 33 — V39
+
+- Golden badge : insigne d’or ; gold bag : bourse d’or.
+- Conserver 20 000 ryo, deux blocs sans risque et dix en forçant.
+- Promotions : moitié prix les 10, 20 et 30 de chaque mois.

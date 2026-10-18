@@ -1,3 +1,11 @@
+# État actuel — V39
+
+Lot 33 : 23 textes de la mine d’or (bloc 94). Total : 3 399 entrées.
+B094-S004 reste différé : commande dynamique 07 non prise en charge.
+Les 3 376 entrées V38 et les 32 occurrences initiales sont conservées.
+
+## Historique
+
 # État actuel — V38
 
 3 376 entrées : 89 nouvelles, dont 88 textes modifiés et un grognement
