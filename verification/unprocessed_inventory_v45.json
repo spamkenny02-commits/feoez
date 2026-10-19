@@ -1,0 +1,333 @@
+{
+  "version": "V45",
+  "all_listed_bounded_source_bytes_preserved": true,
+  "blocks": [
+    {
+      "block_ids": [
+        2
+      ],
+      "offset": "0x600031",
+      "length": 1761
+    },
+    {
+      "block_ids": [
+        3
+      ],
+      "offset": "0x600712",
+      "length": 3179
+    },
+    {
+      "block_ids": [
+        4
+      ],
+      "offset": "0x60137D",
+      "length": 358
+    },
+    {
+      "block_ids": [
+        5
+      ],
+      "offset": "0x6014E3",
+      "length": 402
+    },
+    {
+      "block_ids": [
+        6
+      ],
+      "offset": "0x601675",
+      "length": 358
+    },
+    {
+      "block_ids": [
+        7
+      ],
+      "offset": "0x6017DB",
+      "length": 405
+    },
+    {
+      "block_ids": [
+        8
+      ],
+      "offset": "0x601970",
+      "length": 2669
+    },
+    {
+      "block_ids": [
+        9
+      ],
+      "offset": "0x6023DD",
+      "length": 4130
+    },
+    {
+      "block_ids": [
+        10
+      ],
+      "offset": "0x6033FF",
+      "length": 1485
+    },
+    {
+      "block_ids": [
+        11
+      ],
+      "offset": "0x6039CC",
+      "length": 972
+    },
+    {
+      "block_ids": [
+        12
+      ],
+      "offset": "0x603D98",
+      "length": 178
+    },
+    {
+      "block_ids": [
+        13
+      ],
+      "offset": "0x603E4A",
+      "length": 482
+    },
+    {
+      "block_ids": [
+        14
+      ],
+      "offset": "0x60402C",
+      "length": 1537
+    },
+    {
+      "block_ids": [
+        15
+      ],
+      "offset": "0x60462D",
+      "length": 1535
+    },
+    {
+      "block_ids": [
+        16
+      ],
+      "offset": "0x604C2C",
+      "length": 444
+    },
+    {
+      "block_ids": [
+        17
+      ],
+      "offset": "0x604DE8",
+      "length": 8225
+    },
+    {
+      "block_ids": [
+        18
+      ],
+      "offset": "0x606E09",
+      "length": 6778
+    },
+    {
+      "block_ids": [
+        19
+      ],
+      "offset": "0x608883",
+      "length": 3680
+    },
+    {
+      "block_ids": [
+        20
+      ],
+      "offset": "0x6096E3",
+      "length": 3137
+    },
+    {
+      "block_ids": [
+        21
+      ],
+      "offset": "0x60A324",
+      "length": 1976
+    },
+    {
+      "block_ids": [
+        22
+      ],
+      "offset": "0x60AADC",
+      "length": 1570
+    },
+    {
+      "block_ids": [
+        23
+      ],
+      "offset": "0x60B0FE",
+      "length": 2733
+    },
+    {
+      "block_ids": [
+        24
+      ],
+      "offset": "0x60BBAB",
+      "length": 1797
+    },
+    {
+      "block_ids": [
+        25
+      ],
+      "offset": "0x60C2B0",
+      "length": 1540
+    },
+    {
+      "block_ids": [
+        26
+      ],
+      "offset": "0x60C8B4",
+      "length": 1750
+    },
+    {
+      "block_ids": [
+        27
+      ],
+      "offset": "0x60CF8A",
+      "length": 1679
+    },
+    {
+      "block_ids": [
+        28
+      ],
+      "offset": "0x60D619",
+      "length": 287
+    },
+    {
+      "block_ids": [
+        30
+      ],
+      "offset": "0x610C5D",
+      "length": 183
+    },
+    {
+      "block_ids": [
+        31
+      ],
+      "offset": "0x610D14",
+      "length": 1612
+    },
+    {
+      "block_ids": [
+        32
+      ],
+      "offset": "0x611360",
+      "length": 57
+    },
+    {
+      "block_ids": [
+        33
+      ],
+      "offset": "0x611399",
+      "length": 5224
+    },
+    {
+      "block_ids": [
+        34
+      ],
+      "offset": "0x612801",
+      "length": 478
+    },
+    {
+      "block_ids": [
+        35
+      ],
+      "offset": "0x6129DF",
+      "length": 72
+    },
+    {
+      "block_ids": [
+        36
+      ],
+      "offset": "0x612A27",
+      "length": 241
+    },
+    {
+      "block_ids": [
+        37
+      ],
+      "offset": "0x612B18",
+      "length": 16296
+    },
+    {
+      "block_ids": [
+        38
+      ],
+      "offset": "0x616AC0",
+      "length": 1356
+    },
+    {
+      "block_ids": [
+        39
+      ],
+      "offset": "0x61700C",
+      "length": 6822
+    },
+    {
+      "block_ids": [
+        40
+      ],
+      "offset": "0x618AB2",
+      "length": 26123
+    },
+    {
+      "block_ids": [
+        41
+      ],
+      "offset": "0x61F0BD",
+      "length": 12404
+    },
+    {
+      "block_ids": [
+        43
+      ],
+      "offset": "0x622131",
+      "length": 95
+    },
+    {
+      "block_ids": [
+        44
+      ],
+      "offset": "0x622190",
+      "length": 89
+    },
+    {
+      "block_ids": [
+        56
+      ],
+      "offset": "0x62A32B",
+      "length": 3972
+    },
+    {
+      "block_ids": [
+        66
+      ],
+      "offset": "0x62EB33",
+      "length": 20153
+    },
+    {
+      "block_ids": [
+        132
+      ],
+      "offset": "0x6616A7",
+      "length": 20540
+    },
+    {
+      "block_ids": [
+        183
+      ],
+      "offset": "0x684FDF",
+      "length": 800
+    }
+  ],
+  "canonical_blocks": 45,
+  "unbounded_directory_references": [
+    {
+      "block_ids": [
+        42
+      ],
+      "offset": "0x6D2B80",
+      "length": null,
+      "translated": false,
+      "full_span_verification": false
+    }
+  ]
+}

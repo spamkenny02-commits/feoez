@@ -1,0 +1,14 @@
+{
+  "version": "V45",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 235,
+      "strings": [
+        8
+      ],
+      "reason": "House purchase choice in columns, pending dedicated layout and effective selection tests."
+    }
+  ],
+  "previous_deferred": "All previous entries preserved; see deferred_texts_v45.json and deferred_reasons_v44.json."
+}

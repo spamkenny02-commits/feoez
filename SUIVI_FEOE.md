@@ -1,3 +1,18 @@
+# État actuel — V45
+
+Lot 39 : 72 vrais nouveaux textes (235 sauf S008, 236 entier). Total :
+3 797 entrées intégrées. Les 3 725 entrées V44 et les 32 textes initiaux sont
+conservés. Preuves finales : corrected45 ; référence V44 : reference45.
+Rendus ciblés uniquement : pas de validation naturelle des quatre jours,
+achats, cadeaux, repos ou effets d'objets. B235-S008 garde le choix d'achat anglais.
+
+Prochaine reprise : lire le HEAD et les inventaires. Les blocs 235/236 sont
+maintenant traités hors B235-S008 ; ne pas dupliquer lot39. Le bloc 56,
+l'élevage et les fêtes gardent des lacunes. Les différés précédents restent
+intacts. Dialogues/événements avant menus, sans inventer de commande inconnue.
+
+## Historique
+
 # État actuel — V44
 
 Lot 38 : 58 vrais nouveaux textes, Cercle Fleuri (88) et suite du Grand Tigre

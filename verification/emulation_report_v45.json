@@ -1,0 +1,86 @@
+{
+  "version": "V45",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
+  "patch_sha256": "7f8457f31bc7212538506fcfcf45d8563a67486d97d5258cd72b91fdbe4a13d5",
+  "dialogue_entries": 3797,
+  "baseline_entries_preserved": 3725,
+  "new_changed_entries": 72,
+  "native_reads": 4719,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v45.json",
+  "fresh_standard_runs": [
+    {
+      "run": "fr_v45_corrected45",
+      "rom_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v45_navigation_corrected45",
+      "rom_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v45_check_ab_corrected45",
+      "rom_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v44_reference45",
+      "rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v44_navigation_reference45",
+      "rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "targeted_dialogue_checks": 72,
+  "selected_dialogue_captures": 135,
+  "dialogue_capture_report": "scenes_v45/render_report.json",
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v44_v45.json"
+  },
+  "autotests": {
+    "A": "TERMINE / TOUT OK",
+    "B_extended": "SAUV. RTC OK / SAUV. SRAM OK; no completion-banner assertion"
+  },
+  "limits": [
+    "Targeted rendering does not validate natural visits, four consecutive days, house purchase, gifts, resting, item effects or dialogue-choice outcomes.",
+    "House purchase choice 235/8 and all previous deferred messages byte-preserved.",
+    "Detailed birth input remains V35 evidence; standard boot/A/B replayed; 32 startup edits compared with V44.",
+    "Failure conditions, all calendar boundaries, Snes9x 1.60 and physical hardware not tested."
+  ]
+}

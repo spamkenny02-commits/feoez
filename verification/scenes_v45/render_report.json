@@ -1,0 +1,1154 @@
+{
+  "workers": 3,
+  "rom_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "b8cf84109a9c790938fc15a7cf4c4f84e9230576100f9a479f2c039a5037129d",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B235-S001",
+      "case": "b235_s001",
+      "expected_terminator": "0x4a4d24",
+      "observed_terminators": [
+        "0x4a4d24"
+      ],
+      "native_read_complete": true,
+      "captures": 1070,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s001_00.png",
+        "b235_s001_01.png",
+        "b235_s001_02.png",
+        "b235_s001_03.png",
+        "b235_s001_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S002",
+      "case": "b235_s002",
+      "expected_terminator": "0x4a4eab",
+      "observed_terminators": [
+        "0x4a4eab"
+      ],
+      "native_read_complete": true,
+      "captures": 1072,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s002_00.png",
+        "b235_s002_01.png",
+        "b235_s002_02.png",
+        "b235_s002_03.png",
+        "b235_s002_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S003",
+      "case": "b235_s003",
+      "expected_terminator": "0x4a4f1d",
+      "observed_terminators": [
+        "0x4a4f1d"
+      ],
+      "native_read_complete": true,
+      "captures": 936,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S004",
+      "case": "b235_s004",
+      "expected_terminator": "0x4a5036",
+      "observed_terminators": [
+        "0x4a5036"
+      ],
+      "native_read_complete": true,
+      "captures": 1035,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s004_00.png",
+        "b235_s004_01.png",
+        "b235_s004_02.png",
+        "b235_s004_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S005",
+      "case": "b235_s005",
+      "expected_terminator": "0x4a50fa",
+      "observed_terminators": [
+        "0x4a50fa"
+      ],
+      "native_read_complete": true,
+      "captures": 1888,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s005_00.png",
+        "b235_s005_01.png",
+        "b235_s005_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S006",
+      "case": "b235_s006",
+      "expected_terminator": "0x4a5156",
+      "observed_terminators": [
+        "0x4a5156"
+      ],
+      "native_read_complete": true,
+      "captures": 840,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S007",
+      "case": "b235_s007",
+      "expected_terminator": "0x4a5197",
+      "observed_terminators": [
+        "0x4a5197"
+      ],
+      "native_read_complete": true,
+      "captures": 612,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S009",
+      "case": "b235_s009",
+      "expected_terminator": "0x4a52a1",
+      "observed_terminators": [
+        "0x4a52a1"
+      ],
+      "native_read_complete": true,
+      "captures": 747,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S010",
+      "case": "b235_s010",
+      "expected_terminator": "0x4a52d4",
+      "observed_terminators": [
+        "0x4a52d4"
+      ],
+      "native_read_complete": true,
+      "captures": 454,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S011",
+      "case": "b235_s011",
+      "expected_terminator": "0x4a5358",
+      "observed_terminators": [
+        "0x4a5358"
+      ],
+      "native_read_complete": true,
+      "captures": 2089,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s011_00.png",
+        "b235_s011_01.png",
+        "b235_s011_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S012",
+      "case": "b235_s012",
+      "expected_terminator": "0x4a53b1",
+      "observed_terminators": [
+        "0x4a53b1"
+      ],
+      "native_read_complete": true,
+      "captures": 796,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S013",
+      "case": "b235_s013",
+      "expected_terminator": "0x4a5438",
+      "observed_terminators": [
+        "0x4a5438"
+      ],
+      "native_read_complete": true,
+      "captures": 969,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s013_00.png",
+        "b235_s013_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S014",
+      "case": "b235_s014",
+      "expected_terminator": "0x4a54b3",
+      "observed_terminators": [
+        "0x4a54b3"
+      ],
+      "native_read_complete": true,
+      "captures": 963,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S015",
+      "case": "b235_s015",
+      "expected_terminator": "0x4a5520",
+      "observed_terminators": [
+        "0x4a5520"
+      ],
+      "native_read_complete": true,
+      "captures": 918,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S016",
+      "case": "b235_s016",
+      "expected_terminator": "0x4a55c8",
+      "observed_terminators": [
+        "0x4a55c8"
+      ],
+      "native_read_complete": true,
+      "captures": 1109,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s016_00.png",
+        "b235_s016_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S017",
+      "case": "b235_s017",
+      "expected_terminator": "0x4a5679",
+      "observed_terminators": [
+        "0x4a5679"
+      ],
+      "native_read_complete": true,
+      "captures": 1157,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s017_00.png",
+        "b235_s017_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S018",
+      "case": "b235_s018",
+      "expected_terminator": "0x4a56b8",
+      "observed_terminators": [
+        "0x4a56b8"
+      ],
+      "native_read_complete": true,
+      "captures": 604,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S019",
+      "case": "b235_s019",
+      "expected_terminator": "0x4a575b",
+      "observed_terminators": [
+        "0x4a575b"
+      ],
+      "native_read_complete": true,
+      "captures": 2009,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s019_00.png",
+        "b235_s019_01.png",
+        "b235_s019_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S020",
+      "case": "b235_s020",
+      "expected_terminator": "0x4a57b4",
+      "observed_terminators": [
+        "0x4a57b4"
+      ],
+      "native_read_complete": true,
+      "captures": 825,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S021",
+      "case": "b235_s021",
+      "expected_terminator": "0x4a5829",
+      "observed_terminators": [
+        "0x4a5829"
+      ],
+      "native_read_complete": true,
+      "captures": 964,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S022",
+      "case": "b235_s022",
+      "expected_terminator": "0x4a58b4",
+      "observed_terminators": [
+        "0x4a58b4"
+      ],
+      "native_read_complete": true,
+      "captures": 927,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s022_00.png",
+        "b235_s022_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S023",
+      "case": "b235_s023",
+      "expected_terminator": "0x4a58d4",
+      "observed_terminators": [
+        "0x4a58d4"
+      ],
+      "native_read_complete": true,
+      "captures": 299,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S024",
+      "case": "b235_s024",
+      "expected_terminator": "0x4a5a5a",
+      "observed_terminators": [
+        "0x4a5a5a"
+      ],
+      "native_read_complete": true,
+      "captures": 1110,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s024_00.png",
+        "b235_s024_01.png",
+        "b235_s024_02.png",
+        "b235_s024_03.png",
+        "b235_s024_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S025",
+      "case": "b235_s025",
+      "expected_terminator": "0x4a5adc",
+      "observed_terminators": [
+        "0x4a5adc"
+      ],
+      "native_read_complete": true,
+      "captures": 932,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s025_00.png",
+        "b235_s025_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S026",
+      "case": "b235_s026",
+      "expected_terminator": "0x4a5af5",
+      "observed_terminators": [
+        "0x4a5af5"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S027",
+      "case": "b235_s027",
+      "expected_terminator": "0x4a5b0f",
+      "observed_terminators": [
+        "0x4a5b0f"
+      ],
+      "native_read_complete": true,
+      "captures": 229,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S028",
+      "case": "b235_s028",
+      "expected_terminator": "0x4a5cd7",
+      "observed_terminators": [
+        "0x4a5cd7"
+      ],
+      "native_read_complete": true,
+      "captures": 1191,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s028_00.png",
+        "b235_s028_01.png",
+        "b235_s028_02.png",
+        "b235_s028_03.png",
+        "b235_s028_04.png",
+        "b235_s028_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S029",
+      "case": "b235_s029",
+      "expected_terminator": "0x4a5d7b",
+      "observed_terminators": [
+        "0x4a5d7b"
+      ],
+      "native_read_complete": true,
+      "captures": 1086,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s029_00.png",
+        "b235_s029_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S030",
+      "case": "b235_s030",
+      "expected_terminator": "0x4a5e32",
+      "observed_terminators": [
+        "0x4a5e32"
+      ],
+      "native_read_complete": true,
+      "captures": 2074,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s030_00.png",
+        "b235_s030_01.png",
+        "b235_s030_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S031",
+      "case": "b235_s031",
+      "expected_terminator": "0x4a5ed0",
+      "observed_terminators": [
+        "0x4a5ed0"
+      ],
+      "native_read_complete": true,
+      "captures": 920,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s031_00.png",
+        "b235_s031_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S032",
+      "case": "b235_s032",
+      "expected_terminator": "0x4a5f8f",
+      "observed_terminators": [
+        "0x4a5f8f"
+      ],
+      "native_read_complete": true,
+      "captures": 2014,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s032_00.png",
+        "b235_s032_01.png",
+        "b235_s032_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S033",
+      "case": "b235_s033",
+      "expected_terminator": "0x4a6031",
+      "observed_terminators": [
+        "0x4a6031"
+      ],
+      "native_read_complete": true,
+      "captures": 1077,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s033_00.png",
+        "b235_s033_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S034",
+      "case": "b235_s034",
+      "expected_terminator": "0x4a60d4",
+      "observed_terminators": [
+        "0x4a60d4"
+      ],
+      "native_read_complete": true,
+      "captures": 973,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s034_00.png",
+        "b235_s034_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S035",
+      "case": "b235_s035",
+      "expected_terminator": "0x4a6177",
+      "observed_terminators": [
+        "0x4a6177"
+      ],
+      "native_read_complete": true,
+      "captures": 1244,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s035_00.png",
+        "b235_s035_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S036",
+      "case": "b235_s036",
+      "expected_terminator": "0x4a61a9",
+      "observed_terminators": [
+        "0x4a61a9"
+      ],
+      "native_read_complete": true,
+      "captures": 459,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S037",
+      "case": "b235_s037",
+      "expected_terminator": "0x4a620c",
+      "observed_terminators": [
+        "0x4a620c"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S038",
+      "case": "b235_s038",
+      "expected_terminator": "0x4a63d2",
+      "observed_terminators": [
+        "0x4a63d2"
+      ],
+      "native_read_complete": true,
+      "captures": 1115,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s038_00.png",
+        "b235_s038_01.png",
+        "b235_s038_02.png",
+        "b235_s038_03.png",
+        "b235_s038_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S039",
+      "case": "b235_s039",
+      "expected_terminator": "0x4a642e",
+      "observed_terminators": [
+        "0x4a642e"
+      ],
+      "native_read_complete": true,
+      "captures": 854,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S040",
+      "case": "b235_s040",
+      "expected_terminator": "0x4a6459",
+      "observed_terminators": [
+        "0x4a6459"
+      ],
+      "native_read_complete": true,
+      "captures": 380,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S041",
+      "case": "b235_s041",
+      "expected_terminator": "0x4a65ea",
+      "observed_terminators": [
+        "0x4a65ea"
+      ],
+      "native_read_complete": true,
+      "captures": 1173,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s041_00.png",
+        "b235_s041_01.png",
+        "b235_s041_02.png",
+        "b235_s041_03.png",
+        "b235_s041_04.png",
+        "b235_s041_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S042",
+      "case": "b235_s042",
+      "expected_terminator": "0x4a6685",
+      "observed_terminators": [
+        "0x4a6685"
+      ],
+      "native_read_complete": true,
+      "captures": 1110,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s042_00.png",
+        "b235_s042_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S043",
+      "case": "b235_s043",
+      "expected_terminator": "0x4a67e7",
+      "observed_terminators": [
+        "0x4a67e7"
+      ],
+      "native_read_complete": true,
+      "captures": 2128,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s043_00.png",
+        "b235_s043_01.png",
+        "b235_s043_02.png",
+        "b235_s043_03.png",
+        "b235_s043_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S044",
+      "case": "b235_s044",
+      "expected_terminator": "0x4a6836",
+      "observed_terminators": [
+        "0x4a6836"
+      ],
+      "native_read_complete": true,
+      "captures": 721,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S045",
+      "case": "b235_s045",
+      "expected_terminator": "0x4a6845",
+      "observed_terminators": [
+        "0x4a6845"
+      ],
+      "native_read_complete": true,
+      "captures": 114,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s045_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S046",
+      "case": "b235_s046",
+      "expected_terminator": "0x4a6a06",
+      "observed_terminators": [
+        "0x4a6a06"
+      ],
+      "native_read_complete": true,
+      "captures": 1256,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s046_00.png",
+        "b235_s046_01.png",
+        "b235_s046_02.png",
+        "b235_s046_03.png",
+        "b235_s046_04.png",
+        "b235_s046_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S047",
+      "case": "b235_s047",
+      "expected_terminator": "0x4a6a52",
+      "observed_terminators": [
+        "0x4a6a52"
+      ],
+      "native_read_complete": true,
+      "captures": 660,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S048",
+      "case": "b235_s048",
+      "expected_terminator": "0x4a6ad6",
+      "observed_terminators": [
+        "0x4a6ad6"
+      ],
+      "native_read_complete": true,
+      "captures": 958,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s048_00.png",
+        "b235_s048_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S049",
+      "case": "b235_s049",
+      "expected_terminator": "0x4a6b2f",
+      "observed_terminators": [
+        "0x4a6b2f"
+      ],
+      "native_read_complete": true,
+      "captures": 837,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S050",
+      "case": "b235_s050",
+      "expected_terminator": "0x4a6b45",
+      "observed_terminators": [
+        "0x4a6b45"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S051",
+      "case": "b235_s051",
+      "expected_terminator": "0x4a6bda",
+      "observed_terminators": [
+        "0x4a6bda"
+      ],
+      "native_read_complete": true,
+      "captures": 1009,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s051_00.png",
+        "b235_s051_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S052",
+      "case": "b235_s052",
+      "expected_terminator": "0x4a6c14",
+      "observed_terminators": [
+        "0x4a6c14"
+      ],
+      "native_read_complete": true,
+      "captures": 559,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S053",
+      "case": "b235_s053",
+      "expected_terminator": "0x4a6c64",
+      "observed_terminators": [
+        "0x4a6c64"
+      ],
+      "native_read_complete": true,
+      "captures": 757,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S054",
+      "case": "b235_s054",
+      "expected_terminator": "0x4a6cb2",
+      "observed_terminators": [
+        "0x4a6cb2"
+      ],
+      "native_read_complete": true,
+      "captures": 743,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S055",
+      "case": "b235_s055",
+      "expected_terminator": "0x4a6cec",
+      "observed_terminators": [
+        "0x4a6cec"
+      ],
+      "native_read_complete": true,
+      "captures": 531,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S056",
+      "case": "b235_s056",
+      "expected_terminator": "0x4a6d1d",
+      "observed_terminators": [
+        "0x4a6d1d"
+      ],
+      "native_read_complete": true,
+      "captures": 451,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b235_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S001",
+      "case": "b236_s001",
+      "expected_terminator": "0x4a6e24",
+      "observed_terminators": [
+        "0x4a6e24"
+      ],
+      "native_read_complete": true,
+      "captures": 729,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S002",
+      "case": "b236_s002",
+      "expected_terminator": "0x4a6eb0",
+      "observed_terminators": [
+        "0x4a6eb0"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s002_00.png",
+        "b236_s002_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S003",
+      "case": "b236_s003",
+      "expected_terminator": "0x4a6eff",
+      "observed_terminators": [
+        "0x4a6eff"
+      ],
+      "native_read_complete": true,
+      "captures": 730,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S004",
+      "case": "b236_s004",
+      "expected_terminator": "0x4a6f8b",
+      "observed_terminators": [
+        "0x4a6f8b"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s004_00.png",
+        "b236_s004_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S005",
+      "case": "b236_s005",
+      "expected_terminator": "0x4a6ff7",
+      "observed_terminators": [
+        "0x4a6ff7"
+      ],
+      "native_read_complete": true,
+      "captures": 920,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S006",
+      "case": "b236_s006",
+      "expected_terminator": "0x4a7035",
+      "observed_terminators": [
+        "0x4a7035"
+      ],
+      "native_read_complete": true,
+      "captures": 532,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S007",
+      "case": "b236_s007",
+      "expected_terminator": "0x4a7067",
+      "observed_terminators": [
+        "0x4a7067"
+      ],
+      "native_read_complete": true,
+      "captures": 408,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S008",
+      "case": "b236_s008",
+      "expected_terminator": "0x4a70ce",
+      "observed_terminators": [
+        "0x4a70ce"
+      ],
+      "native_read_complete": true,
+      "captures": 951,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S009",
+      "case": "b236_s009",
+      "expected_terminator": "0x4a7145",
+      "observed_terminators": [
+        "0x4a7145"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S010",
+      "case": "b236_s010",
+      "expected_terminator": "0x4a71b5",
+      "observed_terminators": [
+        "0x4a71b5"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S011",
+      "case": "b236_s011",
+      "expected_terminator": "0x4a721c",
+      "observed_terminators": [
+        "0x4a721c"
+      ],
+      "native_read_complete": true,
+      "captures": 952,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S012",
+      "case": "b236_s012",
+      "expected_terminator": "0x4a7291",
+      "observed_terminators": [
+        "0x4a7291"
+      ],
+      "native_read_complete": true,
+      "captures": 901,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S013",
+      "case": "b236_s013",
+      "expected_terminator": "0x4a72e8",
+      "observed_terminators": [
+        "0x4a72e8"
+      ],
+      "native_read_complete": true,
+      "captures": 774,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S014",
+      "case": "b236_s014",
+      "expected_terminator": "0x4a7360",
+      "observed_terminators": [
+        "0x4a7360"
+      ],
+      "native_read_complete": true,
+      "captures": 924,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S015",
+      "case": "b236_s015",
+      "expected_terminator": "0x4a73ca",
+      "observed_terminators": [
+        "0x4a73ca"
+      ],
+      "native_read_complete": true,
+      "captures": 919,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S016",
+      "case": "b236_s016",
+      "expected_terminator": "0x4a7426",
+      "observed_terminators": [
+        "0x4a7426"
+      ],
+      "native_read_complete": true,
+      "captures": 854,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B236-S017",
+      "case": "b236_s017",
+      "expected_terminator": "0x4a747d",
+      "observed_terminators": [
+        "0x4a747d"
+      ],
+      "native_read_complete": true,
+      "captures": 801,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b236_s017_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 135,
+  "visual_review_scope": "All selected final corrected45 captures inspected, including pause-partial pages; not natural quest progression."
+}

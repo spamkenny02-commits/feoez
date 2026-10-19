@@ -690,3 +690,15 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Gauche pour les insignes d'or, droite pour les clients ordinaires, réduction
   de trente pour cent, article à 10 ryo : ne pas inverser ni uniformiser.
 - Les effets 0A/CB et choix à colonnes différés conservent tous leurs octets.
+
+## V45 — Marina et cadeaux du pays du Paon
+
+- Feather futon : futon de plumes ; muffler : écharpe ; gloves : gants ;
+  sweater : pull. Les cadeaux en cours de tricot ne sont pas déjà terminés.
+- Marina, Chihiro, Riho, Sayaka, Kumiko et Saya : noms conservés, Saya et
+  Sayaka non fusionnées. Réutiliser Salon des Célibataires, chambres du
+  Cerisier, Chrysanthème, Lys et de la Pivoine, pays de l'Ours de Feu et Paon divin.
+- Quatre jours de suite, manju à 100 ryo acheté sur place, 1 000 ryo à Kumiko.
+  S032 conserve le curieux « aujourd'hui et après-demain » de la source.
+- B235-S008 : prix et choix d'achat conservés en anglais, octets intacts.
+  Les cœurs 09/6E/08 sont préservés, pas remplacés par du texte ni un nouvel effet.
