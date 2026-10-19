@@ -1,3 +1,18 @@
+# État actuel — V43
+
+Lot 37 : 125 vrais nouveaux textes du Grand Tigre, de Miho et des retrouvailles
+de Rie/Shigenobu (95 partiel). Total : 3 667 entrées intégrées.
+Les 3 542 entrées V42 et les 32 modifications initiales sont conservées.
+Preuves finales : corrected43 ; référence V42 : reference43, empreinte publiée vérifiée.
+Le rendu ciblé ne valide pas la progression naturelle, les achats ni les délais.
+
+Prochaine reprise : lire le HEAD, reprendre S095-S108 et S165-S204 du bloc 95,
+en différant les choix/effets inconnus (S180, S184). Horaires de Miho, S011,
+S046 et S056 restent intacts. Voir deferred_reasons_v43.json. Les blocs 88,
+235/236, fêtes et élevage gardent aussi des lacunes. Ne pas dupliquer lot37.
+
+## Historique
+
 # État actuel — V42
 
 Lot 36 : 59 vrais nouveaux textes du village des Paillettes d'Or, Basara

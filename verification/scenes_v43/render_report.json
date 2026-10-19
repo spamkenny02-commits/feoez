@@ -1,0 +1,1933 @@
+{
+  "workers": 3,
+  "rom_sha256": "4693478e747d1be3138464db6c7cf0c4aef0a5a6113fde6dc00315b3a07b660f",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "c08bd1109f2b33b3774b83be2177931333d4d65e655bfef16d97c393935d71ee",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B095-S001",
+      "case": "b095_s001",
+      "expected_terminator": "0x446c35",
+      "observed_terminators": [
+        "0x446c35"
+      ],
+      "native_read_complete": true,
+      "captures": 973,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s001_00.png",
+        "b095_s001_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S002",
+      "case": "b095_s002",
+      "expected_terminator": "0x446c6f",
+      "observed_terminators": [
+        "0x446c6f"
+      ],
+      "native_read_complete": true,
+      "captures": 543,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S003",
+      "case": "b095_s003",
+      "expected_terminator": "0x446d2a",
+      "observed_terminators": [
+        "0x446d2a"
+      ],
+      "native_read_complete": true,
+      "captures": 1256,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s003_00.png",
+        "b095_s003_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S004",
+      "case": "b095_s004",
+      "expected_terminator": "0x446dc2",
+      "observed_terminators": [
+        "0x446dc2"
+      ],
+      "native_read_complete": true,
+      "captures": 1004,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s004_00.png",
+        "b095_s004_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S005",
+      "case": "b095_s005",
+      "expected_terminator": "0x446ec3",
+      "observed_terminators": [
+        "0x446ec3"
+      ],
+      "native_read_complete": true,
+      "captures": 995,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s005_00.png",
+        "b095_s005_01.png",
+        "b095_s005_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S006",
+      "case": "b095_s006",
+      "expected_terminator": "0x446f0c",
+      "observed_terminators": [
+        "0x446f0c"
+      ],
+      "native_read_complete": true,
+      "captures": 666,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S007",
+      "case": "b095_s007",
+      "expected_terminator": "0x446fb5",
+      "observed_terminators": [
+        "0x446fb5"
+      ],
+      "native_read_complete": true,
+      "captures": 1228,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s007_00.png",
+        "b095_s007_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S008",
+      "case": "b095_s008",
+      "expected_terminator": "0x447073",
+      "observed_terminators": [
+        "0x447073"
+      ],
+      "native_read_complete": true,
+      "captures": 1977,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s008_00.png",
+        "b095_s008_01.png",
+        "b095_s008_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S009",
+      "case": "b095_s009",
+      "expected_terminator": "0x44715b",
+      "observed_terminators": [
+        "0x44715b"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s009_00.png",
+        "b095_s009_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S010",
+      "case": "b095_s010",
+      "expected_terminator": "0x4471b9",
+      "observed_terminators": [
+        "0x4471b9"
+      ],
+      "native_read_complete": true,
+      "captures": 857,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S012",
+      "case": "b095_s012",
+      "expected_terminator": "0x4472a9",
+      "observed_terminators": [
+        "0x4472a9"
+      ],
+      "native_read_complete": true,
+      "captures": 310,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S013",
+      "case": "b095_s013",
+      "expected_terminator": "0x447331",
+      "observed_terminators": [
+        "0x447331"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s013_00.png",
+        "b095_s013_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S024",
+      "case": "b095_s024",
+      "expected_terminator": "0x447b2a",
+      "observed_terminators": [
+        "0x447b2a"
+      ],
+      "native_read_complete": true,
+      "captures": 925,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S025",
+      "case": "b095_s025",
+      "expected_terminator": "0x447b61",
+      "observed_terminators": [
+        "0x447b61"
+      ],
+      "native_read_complete": true,
+      "captures": 475,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S028",
+      "case": "b095_s028",
+      "expected_terminator": "0x447d8c",
+      "observed_terminators": [
+        "0x447d8c"
+      ],
+      "native_read_complete": true,
+      "captures": 847,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S029",
+      "case": "b095_s029",
+      "expected_terminator": "0x447dbe",
+      "observed_terminators": [
+        "0x447dbe"
+      ],
+      "native_read_complete": true,
+      "captures": 430,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S030",
+      "case": "b095_s030",
+      "expected_terminator": "0x447e02",
+      "observed_terminators": [
+        "0x447e02"
+      ],
+      "native_read_complete": true,
+      "captures": 625,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S033",
+      "case": "b095_s033",
+      "expected_terminator": "0x447fbc",
+      "observed_terminators": [
+        "0x447fbc"
+      ],
+      "native_read_complete": true,
+      "captures": 1208,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s033_00.png",
+        "b095_s033_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S034",
+      "case": "b095_s034",
+      "expected_terminator": "0x447ffd",
+      "observed_terminators": [
+        "0x447ffd"
+      ],
+      "native_read_complete": true,
+      "captures": 589,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S035",
+      "case": "b095_s035",
+      "expected_terminator": "0x44802f",
+      "observed_terminators": [
+        "0x44802f"
+      ],
+      "native_read_complete": true,
+      "captures": 455,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S036",
+      "case": "b095_s036",
+      "expected_terminator": "0x44806f",
+      "observed_terminators": [
+        "0x44806f"
+      ],
+      "native_read_complete": true,
+      "captures": 1208,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s036_00.png",
+        "b095_s036_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S037",
+      "case": "b095_s037",
+      "expected_terminator": "0x4480bd",
+      "observed_terminators": [
+        "0x4480bd"
+      ],
+      "native_read_complete": true,
+      "captures": 739,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S040",
+      "case": "b095_s040",
+      "expected_terminator": "0x4482c8",
+      "observed_terminators": [
+        "0x4482c8"
+      ],
+      "native_read_complete": true,
+      "captures": 953,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S041",
+      "case": "b095_s041",
+      "expected_terminator": "0x448308",
+      "observed_terminators": [
+        "0x448308"
+      ],
+      "native_read_complete": true,
+      "captures": 569,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S042",
+      "case": "b095_s042",
+      "expected_terminator": "0x448351",
+      "observed_terminators": [
+        "0x448351"
+      ],
+      "native_read_complete": true,
+      "captures": 684,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S043",
+      "case": "b095_s043",
+      "expected_terminator": "0x44839f",
+      "observed_terminators": [
+        "0x44839f"
+      ],
+      "native_read_complete": true,
+      "captures": 712,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S047",
+      "case": "b095_s047",
+      "expected_terminator": "0x448669",
+      "observed_terminators": [
+        "0x448669"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S048",
+      "case": "b095_s048",
+      "expected_terminator": "0x4486b6",
+      "observed_terminators": [
+        "0x4486b6"
+      ],
+      "native_read_complete": true,
+      "captures": 1179,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s048_00.png",
+        "b095_s048_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S049",
+      "case": "b095_s049",
+      "expected_terminator": "0x448704",
+      "observed_terminators": [
+        "0x448704"
+      ],
+      "native_read_complete": true,
+      "captures": 739,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S052",
+      "case": "b095_s052",
+      "expected_terminator": "0x448992",
+      "observed_terminators": [
+        "0x448992"
+      ],
+      "native_read_complete": true,
+      "captures": 2033,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s052_00.png",
+        "b095_s052_01.png",
+        "b095_s052_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S053",
+      "case": "b095_s053",
+      "expected_terminator": "0x448a48",
+      "observed_terminators": [
+        "0x448a48"
+      ],
+      "native_read_complete": true,
+      "captures": 1094,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s053_00.png",
+        "b095_s053_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S057",
+      "case": "b095_s057",
+      "expected_terminator": "0x448be1",
+      "observed_terminators": [
+        "0x448be1"
+      ],
+      "native_read_complete": true,
+      "captures": 932,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S058",
+      "case": "b095_s058",
+      "expected_terminator": "0x448cb3",
+      "observed_terminators": [
+        "0x448cb3"
+      ],
+      "native_read_complete": true,
+      "captures": 1097,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s058_00.png",
+        "b095_s058_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S059",
+      "case": "b095_s059",
+      "expected_terminator": "0x448d07",
+      "observed_terminators": [
+        "0x448d07"
+      ],
+      "native_read_complete": true,
+      "captures": 799,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S060",
+      "case": "b095_s060",
+      "expected_terminator": "0x448d6c",
+      "observed_terminators": [
+        "0x448d6c"
+      ],
+      "native_read_complete": true,
+      "captures": 951,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S061",
+      "case": "b095_s061",
+      "expected_terminator": "0x448dde",
+      "observed_terminators": [
+        "0x448dde"
+      ],
+      "native_read_complete": true,
+      "captures": 984,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S062",
+      "case": "b095_s062",
+      "expected_terminator": "0x448e5f",
+      "observed_terminators": [
+        "0x448e5f"
+      ],
+      "native_read_complete": true,
+      "captures": 926,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s062_00.png",
+        "b095_s062_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S063",
+      "case": "b095_s063",
+      "expected_terminator": "0x448eb2",
+      "observed_terminators": [
+        "0x448eb2"
+      ],
+      "native_read_complete": true,
+      "captures": 791,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s063_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S064",
+      "case": "b095_s064",
+      "expected_terminator": "0x448ee8",
+      "observed_terminators": [
+        "0x448ee8"
+      ],
+      "native_read_complete": true,
+      "captures": 479,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S065",
+      "case": "b095_s065",
+      "expected_terminator": "0x448f44",
+      "observed_terminators": [
+        "0x448f44"
+      ],
+      "native_read_complete": true,
+      "captures": 864,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S066",
+      "case": "b095_s066",
+      "expected_terminator": "0x448fce",
+      "observed_terminators": [
+        "0x448fce"
+      ],
+      "native_read_complete": true,
+      "captures": 2060,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s066_00.png",
+        "b095_s066_01.png",
+        "b095_s066_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S067",
+      "case": "b095_s067",
+      "expected_terminator": "0x448ff0",
+      "observed_terminators": [
+        "0x448ff0"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S068",
+      "case": "b095_s068",
+      "expected_terminator": "0x44904c",
+      "observed_terminators": [
+        "0x44904c"
+      ],
+      "native_read_complete": true,
+      "captures": 849,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S069",
+      "case": "b095_s069",
+      "expected_terminator": "0x4490b6",
+      "observed_terminators": [
+        "0x4490b6"
+      ],
+      "native_read_complete": true,
+      "captures": 933,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S070",
+      "case": "b095_s070",
+      "expected_terminator": "0x4490e4",
+      "observed_terminators": [
+        "0x4490e4"
+      ],
+      "native_read_complete": true,
+      "captures": 255,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S071",
+      "case": "b095_s071",
+      "expected_terminator": "0x449200",
+      "observed_terminators": [
+        "0x449200"
+      ],
+      "native_read_complete": true,
+      "captures": 627,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s071_00.png",
+        "b095_s071_01.png",
+        "b095_s071_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S072",
+      "case": "b095_s072",
+      "expected_terminator": "0x44926d",
+      "observed_terminators": [
+        "0x44926d"
+      ],
+      "native_read_complete": true,
+      "captures": 540,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s072_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S073",
+      "case": "b095_s073",
+      "expected_terminator": "0x44927c",
+      "observed_terminators": [
+        "0x44927c"
+      ],
+      "native_read_complete": true,
+      "captures": 51,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S074",
+      "case": "b095_s074",
+      "expected_terminator": "0x4492f2",
+      "observed_terminators": [
+        "0x4492f2"
+      ],
+      "native_read_complete": true,
+      "captures": 556,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s074_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S075",
+      "case": "b095_s075",
+      "expected_terminator": "0x449334",
+      "observed_terminators": [
+        "0x449334"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S076",
+      "case": "b095_s076",
+      "expected_terminator": "0x44936f",
+      "observed_terminators": [
+        "0x44936f"
+      ],
+      "native_read_complete": true,
+      "captures": 289,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S077",
+      "case": "b095_s077",
+      "expected_terminator": "0x4493b9",
+      "observed_terminators": [
+        "0x4493b9"
+      ],
+      "native_read_complete": true,
+      "captures": 394,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S078",
+      "case": "b095_s078",
+      "expected_terminator": "0x4493d4",
+      "observed_terminators": [
+        "0x4493d4"
+      ],
+      "native_read_complete": true,
+      "captures": 127,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S079",
+      "case": "b095_s079",
+      "expected_terminator": "0x449458",
+      "observed_terminators": [
+        "0x449458"
+      ],
+      "native_read_complete": true,
+      "captures": 556,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S080",
+      "case": "b095_s080",
+      "expected_terminator": "0x4494e3",
+      "observed_terminators": [
+        "0x4494e3"
+      ],
+      "native_read_complete": true,
+      "captures": 957,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s080_00.png",
+        "b095_s080_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S081",
+      "case": "b095_s081",
+      "expected_terminator": "0x449570",
+      "observed_terminators": [
+        "0x449570"
+      ],
+      "native_read_complete": true,
+      "captures": 960,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s081_00.png",
+        "b095_s081_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S082",
+      "case": "b095_s082",
+      "expected_terminator": "0x4495ba",
+      "observed_terminators": [
+        "0x4495ba"
+      ],
+      "native_read_complete": true,
+      "captures": 735,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S083",
+      "case": "b095_s083",
+      "expected_terminator": "0x449636",
+      "observed_terminators": [
+        "0x449636"
+      ],
+      "native_read_complete": true,
+      "captures": 922,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S084",
+      "case": "b095_s084",
+      "expected_terminator": "0x449686",
+      "observed_terminators": [
+        "0x449686"
+      ],
+      "native_read_complete": true,
+      "captures": 761,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s084_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S085",
+      "case": "b095_s085",
+      "expected_terminator": "0x449725",
+      "observed_terminators": [
+        "0x449725"
+      ],
+      "native_read_complete": true,
+      "captures": 1148,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s085_00.png",
+        "b095_s085_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S086",
+      "case": "b095_s086",
+      "expected_terminator": "0x4497e6",
+      "observed_terminators": [
+        "0x4497e6"
+      ],
+      "native_read_complete": true,
+      "captures": 1005,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s086_00.png",
+        "b095_s086_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S087",
+      "case": "b095_s087",
+      "expected_terminator": "0x449852",
+      "observed_terminators": [
+        "0x449852"
+      ],
+      "native_read_complete": true,
+      "captures": 940,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S088",
+      "case": "b095_s088",
+      "expected_terminator": "0x4498a5",
+      "observed_terminators": [
+        "0x4498a5"
+      ],
+      "native_read_complete": true,
+      "captures": 756,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s088_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S089",
+      "case": "b095_s089",
+      "expected_terminator": "0x4498f9",
+      "observed_terminators": [
+        "0x4498f9"
+      ],
+      "native_read_complete": true,
+      "captures": 729,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s089_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S090",
+      "case": "b095_s090",
+      "expected_terminator": "0x449950",
+      "observed_terminators": [
+        "0x449950"
+      ],
+      "native_read_complete": true,
+      "captures": 807,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S091",
+      "case": "b095_s091",
+      "expected_terminator": "0x4499de",
+      "observed_terminators": [
+        "0x4499de"
+      ],
+      "native_read_complete": true,
+      "captures": 957,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s091_00.png",
+        "b095_s091_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S092",
+      "case": "b095_s092",
+      "expected_terminator": "0x449a5e",
+      "observed_terminators": [
+        "0x449a5e"
+      ],
+      "native_read_complete": true,
+      "captures": 927,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S093",
+      "case": "b095_s093",
+      "expected_terminator": "0x449ac5",
+      "observed_terminators": [
+        "0x449ac5"
+      ],
+      "native_read_complete": true,
+      "captures": 986,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S094",
+      "case": "b095_s094",
+      "expected_terminator": "0x449ad7",
+      "observed_terminators": [
+        "0x449ad7"
+      ],
+      "native_read_complete": true,
+      "captures": 156,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s094_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S109",
+      "case": "b095_s109",
+      "expected_terminator": "0x44a57e",
+      "observed_terminators": [
+        "0x44a57e"
+      ],
+      "native_read_complete": true,
+      "captures": 837,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S110",
+      "case": "b095_s110",
+      "expected_terminator": "0x44a5e2",
+      "observed_terminators": [
+        "0x44a5e2"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s110_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S111",
+      "case": "b095_s111",
+      "expected_terminator": "0x44a63c",
+      "observed_terminators": [
+        "0x44a63c"
+      ],
+      "native_read_complete": true,
+      "captures": 838,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S112",
+      "case": "b095_s112",
+      "expected_terminator": "0x44a696",
+      "observed_terminators": [
+        "0x44a696"
+      ],
+      "native_read_complete": true,
+      "captures": 838,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S113",
+      "case": "b095_s113",
+      "expected_terminator": "0x44a6fc",
+      "observed_terminators": [
+        "0x44a6fc"
+      ],
+      "native_read_complete": true,
+      "captures": 941,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S114",
+      "case": "b095_s114",
+      "expected_terminator": "0x44a762",
+      "observed_terminators": [
+        "0x44a762"
+      ],
+      "native_read_complete": true,
+      "captures": 957,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s114_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S115",
+      "case": "b095_s115",
+      "expected_terminator": "0x44a7ca",
+      "observed_terminators": [
+        "0x44a7ca"
+      ],
+      "native_read_complete": true,
+      "captures": 948,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s115_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S116",
+      "case": "b095_s116",
+      "expected_terminator": "0x44a832",
+      "observed_terminators": [
+        "0x44a832"
+      ],
+      "native_read_complete": true,
+      "captures": 947,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s116_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S117",
+      "case": "b095_s117",
+      "expected_terminator": "0x44a88b",
+      "observed_terminators": [
+        "0x44a88b"
+      ],
+      "native_read_complete": true,
+      "captures": 827,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s117_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S118",
+      "case": "b095_s118",
+      "expected_terminator": "0x44a8f3",
+      "observed_terminators": [
+        "0x44a8f3"
+      ],
+      "native_read_complete": true,
+      "captures": 947,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S119",
+      "case": "b095_s119",
+      "expected_terminator": "0x44a95b",
+      "observed_terminators": [
+        "0x44a95b"
+      ],
+      "native_read_complete": true,
+      "captures": 947,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s119_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S120",
+      "case": "b095_s120",
+      "expected_terminator": "0x44a9c3",
+      "observed_terminators": [
+        "0x44a9c3"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s120_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S121",
+      "case": "b095_s121",
+      "expected_terminator": "0x44aaf6",
+      "observed_terminators": [
+        "0x44aaf6"
+      ],
+      "native_read_complete": true,
+      "captures": 1167,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s121_00.png",
+        "b095_s121_01.png",
+        "b095_s121_02.png",
+        "b095_s121_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S122",
+      "case": "b095_s122",
+      "expected_terminator": "0x44ab3d",
+      "observed_terminators": [
+        "0x44ab3d"
+      ],
+      "native_read_complete": true,
+      "captures": 666,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s122_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S123",
+      "case": "b095_s123",
+      "expected_terminator": "0x44ab6b",
+      "observed_terminators": [
+        "0x44ab6b"
+      ],
+      "native_read_complete": true,
+      "captures": 394,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s123_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S124",
+      "case": "b095_s124",
+      "expected_terminator": "0x44abfa",
+      "observed_terminators": [
+        "0x44abfa"
+      ],
+      "native_read_complete": true,
+      "captures": 952,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s124_00.png",
+        "b095_s124_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S125",
+      "case": "b095_s125",
+      "expected_terminator": "0x44ac4e",
+      "observed_terminators": [
+        "0x44ac4e"
+      ],
+      "native_read_complete": true,
+      "captures": 766,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s125_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S126",
+      "case": "b095_s126",
+      "expected_terminator": "0x44ac89",
+      "observed_terminators": [
+        "0x44ac89"
+      ],
+      "native_read_complete": true,
+      "captures": 542,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s126_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S127",
+      "case": "b095_s127",
+      "expected_terminator": "0x44acb9",
+      "observed_terminators": [
+        "0x44acb9"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s127_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S128",
+      "case": "b095_s128",
+      "expected_terminator": "0x44ad49",
+      "observed_terminators": [
+        "0x44ad49"
+      ],
+      "native_read_complete": true,
+      "captures": 1071,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s128_00.png",
+        "b095_s128_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S129",
+      "case": "b095_s129",
+      "expected_terminator": "0x44adb9",
+      "observed_terminators": [
+        "0x44adb9"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s129_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S130",
+      "case": "b095_s130",
+      "expected_terminator": "0x44ae9a",
+      "observed_terminators": [
+        "0x44ae9a"
+      ],
+      "native_read_complete": true,
+      "captures": 960,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s130_00.png",
+        "b095_s130_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S131",
+      "case": "b095_s131",
+      "expected_terminator": "0x44af44",
+      "observed_terminators": [
+        "0x44af44"
+      ],
+      "native_read_complete": true,
+      "captures": 2154,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s131_00.png",
+        "b095_s131_01.png",
+        "b095_s131_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S132",
+      "case": "b095_s132",
+      "expected_terminator": "0x44af97",
+      "observed_terminators": [
+        "0x44af97"
+      ],
+      "native_read_complete": true,
+      "captures": 789,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s132_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S133",
+      "case": "b095_s133",
+      "expected_terminator": "0x44afc5",
+      "observed_terminators": [
+        "0x44afc5"
+      ],
+      "native_read_complete": true,
+      "captures": 391,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s133_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S134",
+      "case": "b095_s134",
+      "expected_terminator": "0x44b061",
+      "observed_terminators": [
+        "0x44b061"
+      ],
+      "native_read_complete": true,
+      "captures": 1403,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s134_00.png",
+        "b095_s134_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S135",
+      "case": "b095_s135",
+      "expected_terminator": "0x44b0a0",
+      "observed_terminators": [
+        "0x44b0a0"
+      ],
+      "native_read_complete": true,
+      "captures": 610,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s135_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S136",
+      "case": "b095_s136",
+      "expected_terminator": "0x44b0d0",
+      "observed_terminators": [
+        "0x44b0d0"
+      ],
+      "native_read_complete": true,
+      "captures": 412,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s136_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S137",
+      "case": "b095_s137",
+      "expected_terminator": "0x44b16c",
+      "observed_terminators": [
+        "0x44b16c"
+      ],
+      "native_read_complete": true,
+      "captures": 1403,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s137_00.png",
+        "b095_s137_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S138",
+      "case": "b095_s138",
+      "expected_terminator": "0x44b19b",
+      "observed_terminators": [
+        "0x44b19b"
+      ],
+      "native_read_complete": true,
+      "captures": 449,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s138_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S139",
+      "case": "b095_s139",
+      "expected_terminator": "0x44b27c",
+      "observed_terminators": [
+        "0x44b27c"
+      ],
+      "native_read_complete": true,
+      "captures": 974,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s139_00.png",
+        "b095_s139_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S140",
+      "case": "b095_s140",
+      "expected_terminator": "0x44b39d",
+      "observed_terminators": [
+        "0x44b39d"
+      ],
+      "native_read_complete": true,
+      "captures": 1056,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s140_00.png",
+        "b095_s140_01.png",
+        "b095_s140_02.png",
+        "b095_s140_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S141",
+      "case": "b095_s141",
+      "expected_terminator": "0x44b3bf",
+      "observed_terminators": [
+        "0x44b3bf"
+      ],
+      "native_read_complete": true,
+      "captures": 283,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s141_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S142",
+      "case": "b095_s142",
+      "expected_terminator": "0x44b3e1",
+      "observed_terminators": [
+        "0x44b3e1"
+      ],
+      "native_read_complete": true,
+      "captures": 283,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s142_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S143",
+      "case": "b095_s143",
+      "expected_terminator": "0x44b412",
+      "observed_terminators": [
+        "0x44b412"
+      ],
+      "native_read_complete": true,
+      "captures": 421,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s143_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S144",
+      "case": "b095_s144",
+      "expected_terminator": "0x44b44b",
+      "observed_terminators": [
+        "0x44b44b"
+      ],
+      "native_read_complete": true,
+      "captures": 493,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s144_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S145",
+      "case": "b095_s145",
+      "expected_terminator": "0x44b513",
+      "observed_terminators": [
+        "0x44b513"
+      ],
+      "native_read_complete": true,
+      "captures": 1985,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s145_00.png",
+        "b095_s145_01.png",
+        "b095_s145_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S146",
+      "case": "b095_s146",
+      "expected_terminator": "0x44b576",
+      "observed_terminators": [
+        "0x44b576"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s146_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S147",
+      "case": "b095_s147",
+      "expected_terminator": "0x44b5fe",
+      "observed_terminators": [
+        "0x44b5fe"
+      ],
+      "native_read_complete": true,
+      "captures": 992,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s147_00.png",
+        "b095_s147_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S148",
+      "case": "b095_s148",
+      "expected_terminator": "0x44b631",
+      "observed_terminators": [
+        "0x44b631"
+      ],
+      "native_read_complete": true,
+      "captures": 230,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s148_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S149",
+      "case": "b095_s149",
+      "expected_terminator": "0x44b686",
+      "observed_terminators": [
+        "0x44b686"
+      ],
+      "native_read_complete": true,
+      "captures": 757,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s149_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S150",
+      "case": "b095_s150",
+      "expected_terminator": "0x44b6e0",
+      "observed_terminators": [
+        "0x44b6e0"
+      ],
+      "native_read_complete": true,
+      "captures": 802,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s150_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S151",
+      "case": "b095_s151",
+      "expected_terminator": "0x44b78f",
+      "observed_terminators": [
+        "0x44b78f"
+      ],
+      "native_read_complete": true,
+      "captures": 1152,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s151_00.png",
+        "b095_s151_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S152",
+      "case": "b095_s152",
+      "expected_terminator": "0x44b804",
+      "observed_terminators": [
+        "0x44b804"
+      ],
+      "native_read_complete": true,
+      "captures": 930,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s152_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S153",
+      "case": "b095_s153",
+      "expected_terminator": "0x44b860",
+      "observed_terminators": [
+        "0x44b860"
+      ],
+      "native_read_complete": true,
+      "captures": 870,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s153_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S154",
+      "case": "b095_s154",
+      "expected_terminator": "0x44b875",
+      "observed_terminators": [
+        "0x44b875"
+      ],
+      "native_read_complete": true,
+      "captures": 182,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s154_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S155",
+      "case": "b095_s155",
+      "expected_terminator": "0x44b8c3",
+      "observed_terminators": [
+        "0x44b8c3"
+      ],
+      "native_read_complete": true,
+      "captures": 745,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s155_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S156",
+      "case": "b095_s156",
+      "expected_terminator": "0x44b957",
+      "observed_terminators": [
+        "0x44b957"
+      ],
+      "native_read_complete": true,
+      "captures": 969,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s156_00.png",
+        "b095_s156_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S157",
+      "case": "b095_s157",
+      "expected_terminator": "0x44b97b",
+      "observed_terminators": [
+        "0x44b97b"
+      ],
+      "native_read_complete": true,
+      "captures": 334,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s157_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S158",
+      "case": "b095_s158",
+      "expected_terminator": "0x44ba13",
+      "observed_terminators": [
+        "0x44ba13"
+      ],
+      "native_read_complete": true,
+      "captures": 994,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s158_00.png",
+        "b095_s158_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S159",
+      "case": "b095_s159",
+      "expected_terminator": "0x44ba3d",
+      "observed_terminators": [
+        "0x44ba3d"
+      ],
+      "native_read_complete": true,
+      "captures": 389,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s159_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S160",
+      "case": "b095_s160",
+      "expected_terminator": "0x44ba6f",
+      "observed_terminators": [
+        "0x44ba6f"
+      ],
+      "native_read_complete": true,
+      "captures": 461,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s160_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S161",
+      "case": "b095_s161",
+      "expected_terminator": "0x44bab0",
+      "observed_terminators": [
+        "0x44bab0"
+      ],
+      "native_read_complete": true,
+      "captures": 637,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s161_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S162",
+      "case": "b095_s162",
+      "expected_terminator": "0x44badd",
+      "observed_terminators": [
+        "0x44badd"
+      ],
+      "native_read_complete": true,
+      "captures": 442,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s162_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S163",
+      "case": "b095_s163",
+      "expected_terminator": "0x44baf6",
+      "observed_terminators": [
+        "0x44baf6"
+      ],
+      "native_read_complete": true,
+      "captures": 246,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s163_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S164",
+      "case": "b095_s164",
+      "expected_terminator": "0x44bb17",
+      "observed_terminators": [
+        "0x44bb17"
+      ],
+      "native_read_complete": true,
+      "captures": 302,
+      "visual_review": "reviewed",
+      "review_images": [
+        "b095_s164_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 172,
+  "visual_review_scope": "All selected captures from corrected43 ROM, including pause-partial pages; no natural event progression claim."
+}

@@ -663,3 +663,17 @@ aux traditions, sans masquer leurs réticences envers Higan.
   sud-ouest vers la forêt, nord-est vers mine/cascade, sud puis est vers le château.
 - Le récit des ermites conserve les six cents ans, Byakko/Kingin, Agni et les
   douze bêtes : ne pas ramener cette liste aux six protecteurs du présent.
+
+## V43 — Grand Tigre et Salon de Thé
+
+- Insignes d'or : nom conservé ; réduction de trente pour cent ; mine gratuite.
+- Evening / choking / alluring scent : parfum du Soir / Étouffant / Envoûtant,
+  noms provisoires à harmoniser avec les objets sans modifier les anciens textes.
+- Princess heels / clothes / whip : escarpins / tenue / fouet de princesse.
+- Love's key : clé de l'Amour uni, même objet que chez Shigenobu (lot08).
+- Singles Tea House : Salon de Thé des Célibataires ; chambres du Cerisier,
+  de la Pivoine, du Lys et du Chrysanthème. Rie, Shigenobu, Akemi, Sayuri,
+  Miho et Aya restent inchangés. Miho emploie ESCLAVE et un ton impérieux.
+- Swordsman of Darkness : Bretteur des Ténèbres, épithète de Shiranui.
+- Les délais et fragments horaires sont conservés en anglais avec leurs octets ;
+  aucun effet inconnu ni x1..x5 n'est interprété comme une commande inventée.

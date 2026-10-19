@@ -1,0 +1,122 @@
+{
+  "version": "V43",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 95,
+      "strings": [
+        11
+      ],
+      "reason": "Dynamic names 05/06/07; unsupported commands remain exact."
+    },
+    {
+      "block": 95,
+      "strings": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        26,
+        27,
+        31,
+        32,
+        38,
+        39,
+        44,
+        45,
+        50,
+        51,
+        54,
+        55
+      ],
+      "reason": "Interdependent deadline and AM/PM fragments, commands 04/05/06 and literal x1..x5 retained together."
+    },
+    {
+      "block": 95,
+      "strings": [
+        46
+      ],
+      "reason": "Literal x5, pending contextual interpretation."
+    },
+    {
+      "block": 95,
+      "strings": [
+        56
+      ],
+      "reason": "House purchase choice in columns; needs dedicated layout and selection test."
+    },
+    {
+      "block": 95,
+      "strings": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "reason": "Other tea-house rooms reserved for a coherent later batch; not a technical unsupported-command claim."
+    },
+    {
+      "block": 95,
+      "strings": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "reason": "Shops, newspaper and final town variants remain for next batch; S180 multi-column choices and S184 effect 0A/CB need dedicated handling."
+    }
+  ],
+  "previous_deferred": "All preserved; see deferred_texts_v43.json and deferred_reasons_v42.json."
+}
