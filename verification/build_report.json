@@ -1,11 +1,11 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "4693478e747d1be3138464db6c7cf0c4aef0a5a6113fde6dc00315b3a07b660f",
-  "translated_entries": 3667,
-  "new_entries": 125,
-  "previously_integrated": 3542,
-  "new_nonempty_texts": 125,
-  "new_changed_entries": 125,
+  "output_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+  "translated_entries": 3725,
+  "new_entries": 58,
+  "previously_integrated": 3667,
+  "new_nonempty_texts": 58,
+  "new_changed_entries": 58,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -302,8 +302,25 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 3667,
+  "integrated_entries": 3725,
   "blocks": [
+    {
+      "block_ids": [
+        88
+      ],
+      "source": "0x6407eb",
+      "destination": "0x6407eb",
+      "old_size": 2109,
+      "new_size": 2002,
+      "translated": 6,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ]
+    },
     {
       "block_ids": [
         95
@@ -311,8 +328,8 @@
       "source": "0x646b60",
       "destination": "0x646b60",
       "old_size": 26292,
-      "new_size": 25626,
-      "translated": 125,
+      "new_size": 25446,
+      "translated": 177,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x001A",
@@ -336,13 +353,13 @@
         6999,
         9097,
         10628,
-        12509,
-        15159,
-        16874,
-        18668,
-        20240,
-        21517,
-        24287
+        12507,
+        15099,
+        16814,
+        18608,
+        20180,
+        21419,
+        24123
       ]
     },
     {
@@ -3603,7 +3620,7 @@
       ]
     }
   ],
-  "engine_checks": 4637,
+  "engine_checks": 4646,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -3614,14 +3631,19 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v43.json",
+  "runtime_validation": "see emulation_report_v44.json",
   "allocation_end": "0x6bd200",
   "free_bytes": 77312,
-  "in_place_blocks": 139,
+  "in_place_blocks": 140,
   "relocated_blocks": 34,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
+    "88": [
+      1,
+      2,
+      6
+    ],
     "95": [
       11,
       14,
@@ -3648,60 +3670,8 @@
       54,
       55,
       56,
-      95,
-      96,
-      97,
-      98,
-      99,
-      100,
-      101,
-      102,
-      103,
-      104,
-      105,
-      106,
-      107,
-      108,
-      165,
-      166,
-      167,
-      168,
-      169,
-      170,
-      171,
-      172,
-      173,
-      174,
-      175,
-      176,
-      177,
-      178,
-      179,
       180,
-      181,
-      182,
-      183,
-      184,
-      185,
-      186,
-      187,
-      188,
-      189,
-      190,
-      191,
-      192,
-      193,
-      194,
-      195,
-      196,
-      197,
-      198,
-      199,
-      200,
-      201,
-      202,
-      203,
-      204
+      184
     ],
     "91": [
       1,

@@ -1,0 +1,86 @@
+{
+  "version": "V44",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+  "patch_sha256": "9622b3daf6c0c95c0e43184b82d61190f77db54cea3edbb5fb1c992398c7d2db",
+  "dialogue_entries": 3725,
+  "baseline_entries_preserved": 3667,
+  "new_changed_entries": 58,
+  "native_reads": 4646,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v44.json",
+  "fresh_standard_runs": [
+    {
+      "run": "fr_v44_final44",
+      "rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v44_navigation_final44",
+      "rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v44_check_ab_final44",
+      "rom_sha256": "d860c12c0040a7f857312427c8446f380df4d260be122dc905432359fcaaa37c",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v43_reference44",
+      "rom_sha256": "4693478e747d1be3138464db6c7cf0c4aef0a5a6113fde6dc00315b3a07b660f",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v43_navigation_reference44",
+      "rom_sha256": "4693478e747d1be3138464db6c7cf0c4aef0a5a6113fde6dc00315b3a07b660f",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "targeted_dialogue_checks": 58,
+  "selected_dialogue_captures": 115,
+  "dialogue_capture_report": "scenes_v44/render_report.json",
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v43_v44.json"
+  },
+  "autotests": {
+    "A": "TERMINE / TOUT OK",
+    "B_extended": "SAUV. RTC OK / SAUV. SRAM OK; no completion-banner assertion"
+  },
+  "limits": [
+    "Targeted native rendering, not natural quests, purchases, dialogue-choice outcomes, calendar effects or battle effects.",
+    "Unknown effects, clock fragments and multi-column newspaper/house choices remain byte-identical.",
+    "Detailed birth input remains documented in V35; standard boot/A/B replayed and 32 startup spans compared with V43.",
+    "Failure conditions, all calendar boundaries, Snes9x 1.60 and physical hardware not tested."
+  ]
+}

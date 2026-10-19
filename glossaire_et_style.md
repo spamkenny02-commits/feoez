@@ -677,3 +677,16 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Swordsman of Darkness : Bretteur des Ténèbres, épithète de Shiranui.
 - Les délais et fragments horaires sont conservés en anglais avec leurs octets ;
   aucun effet inconnu ni x1..x5 n'est interprété comme une commande inventée.
+
+## V44 — Salons, boutiques et réclames
+
+- The Barker : L'Aboyeur, distinct du journal Le Chien déjà nommé au lot08.
+- Geisha's Lodge : Pavillon des Geishas ; Princess Pickin' House : Maison du
+  Choix des Princesses, noms provisoires. Réutiliser château des Pièges,
+  Tir Akamaru, Cercle Fleuri, Chien divin et Ma-Djinn.
+- Les vantardises des réclames restent les propos du journal. La voix jalouse
+  de Sayuri n'est pas une narration objective. Noms et révélations d'Akemi
+  sont conservés sans ajouter d'explication absente de la source.
+- Gauche pour les insignes d'or, droite pour les clients ordinaires, réduction
+  de trente pour cent, article à 10 ryo : ne pas inverser ni uniformiser.
+- Les effets 0A/CB et choix à colonnes différés conservent tous leurs octets.

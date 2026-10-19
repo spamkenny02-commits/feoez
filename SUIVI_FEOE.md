@@ -1,3 +1,18 @@
+# État actuel — V44
+
+Lot 38 : 58 vrais nouveaux textes, Cercle Fleuri (88) et suite du Grand Tigre
+(95). Total : 3 725 entrées. Les 3 667 entrées V43 et les 32 modifications
+initiales sont conservées. Preuves finales : final44 ; référence V43 : reference44.
+Les essais ciblés ne prouvent pas les quêtes, achats ni issues des choix.
+
+Prochaine reprise : lire le HEAD réel et les inventaires. 88 reste partiel
+(S001/S002/S006, effet 0A/CB) ; 95 reste partiel (horaires, noms dynamiques,
+x5, achat maison S056, choix du journal S180, effet S184). Les blocs 235/236,
+fêtes et élevage gardent des lacunes. Ne pas dupliquer lot38. Priorité aux
+dialogues/événements avant menus ; aucune commande inconnue à inventer.
+
+## Historique
+
 # État actuel — V43
 
 Lot 37 : 125 vrais nouveaux textes du Grand Tigre, de Miho et des retrouvailles
