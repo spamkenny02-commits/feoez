@@ -702,3 +702,13 @@ aux traditions, sans masquer leurs réticences envers Higan.
   S032 conserve le curieux « aujourd'hui et après-demain » de la source.
 - B235-S008 : prix et choix d'achat conservés en anglais, octets intacts.
   Les cœurs 09/6E/08 sont préservés, pas remplacés par du texte ni un nouvel effet.
+
+
+## V46 — Grotte des Belles
+
+- Ran, Miki et Suu : noms conservés ; Suu reste épelé S-U-U.
+- Looker's Grotto : grotte des Belles ; Peacock Nation : pays du Paon.
+- Hero of Flame reste Héros de la Flamme dans la réplique de Miki.
+- Conserver les allusions de la source, les cœurs et les pauses, sans ajouter de détails.
+- La fontaine change trois ou quatre fois par heure ; les trois couleurs doivent devenir pêche.
+- B056-S012 conserve ses octets : fragment x5 et espacement particulier à analyser.

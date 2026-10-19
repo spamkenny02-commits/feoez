@@ -1,0 +1,14 @@
+{
+  "version": "V46",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 56,
+      "strings": [
+        12
+      ],
+      "reason": "Literal x5 and special blank-line layout; original bytes retained pending dedicated analysis and rendering."
+    }
+  ],
+  "previous_deferred": "All previous entries retained; see deferred_texts_v46.json and deferred_reasons_v45.json."
+}

@@ -1,11 +1,11 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "1fcb5d6ddab647de9a72550b6720af7c9a48dee2db2439de9d85a5e8c5819425",
-  "translated_entries": 3797,
-  "new_entries": 72,
-  "previously_integrated": 3725,
-  "new_nonempty_texts": 72,
-  "new_changed_entries": 72,
+  "output_sha256": "3c7b27e6a171877b10f8cc000daeb376505b3ce12aec4ab00881d39908403eb5",
+  "translated_entries": 3828,
+  "new_entries": 31,
+  "previously_integrated": 3797,
+  "new_nonempty_texts": 31,
+  "new_changed_entries": 31,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -302,8 +302,27 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 3797,
+  "integrated_entries": 3828,
   "blocks": [
+    {
+      "block_ids": [
+        56
+      ],
+      "source": "0x62a32b",
+      "destination": "0x62a32b",
+      "old_size": 3972,
+      "new_size": 3800,
+      "translated": 31,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0004",
+        "0x071C"
+      ],
+      "new_relative_offsets": [
+        4,
+        1691
+      ]
+    },
     {
       "block_ids": [
         235
@@ -3662,7 +3681,7 @@
       ]
     }
   ],
-  "engine_checks": 4719,
+  "engine_checks": 4751,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -3673,14 +3692,17 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v45.json",
+  "runtime_validation": "see emulation_report_v46.json",
   "allocation_end": "0x6bd200",
   "free_bytes": 77312,
-  "in_place_blocks": 142,
+  "in_place_blocks": 143,
   "relocated_blocks": 34,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
+    "56": [
+      12
+    ],
     "235": [
       8
     ],

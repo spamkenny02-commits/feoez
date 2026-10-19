@@ -1,3 +1,21 @@
+# État actuel — V46
+
+Lot 40 : 31 vrais nouveaux textes de Ran, Miki, Suu et de la grotte des Belles.
+Total : 3 828 entrées intégrées ; les 3 797 entrées V45 et 32 modifications
+initiales sont préservées. Preuves finales : final46 ; référence V45 : reference46.
+4 751 lectures natives, 31 rendus ciblés, 39 captures de dialogue relues.
+85 captures fixes et trois vues de navigation identiques à V45.
+Rencontres naturelles, horaires et récompenses non validés en progression réelle.
+
+Prochaine reprise : lire le HEAD et les inventaires. Le bloc 56 est traité sauf
+S012 ; ne pas dupliquer lot40. L'élevage, les fêtes, les journaux et les choix
+à format spécial gardent des lacunes. Dialogues/événements avant menus.
+Consulter remaining_bounded_strings_v46.json : 5 210 entrées bornées restantes,
+mais ce total inclut menus, entrées vides et debug ; ce n'est pas un pourcentage
+de dialogue. Le bloc 42 non borné en est exclu. Tous les différés sont préservés.
+
+## Historique
+
 # État actuel — V45
 
 Lot 39 : 72 vrais nouveaux textes (235 sauf S008, 236 entier). Total :

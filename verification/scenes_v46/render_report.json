@@ -1,0 +1,489 @@
+{
+  "workers": 3,
+  "rom_sha256": "3c7b27e6a171877b10f8cc000daeb376505b3ce12aec4ab00881d39908403eb5",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "bc3275d39222cf786cf06ce042e7802012f7a21b3a51e9c0e417767b86d43a30",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B056-S001",
+      "case": "b056_s001",
+      "expected_terminator": "0x42a38a",
+      "observed_terminators": [
+        "0x42a38a"
+      ],
+      "native_read_complete": true,
+      "captures": 864,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S002",
+      "case": "b056_s002",
+      "expected_terminator": "0x42a3f0",
+      "observed_terminators": [
+        "0x42a3f0"
+      ],
+      "native_read_complete": true,
+      "captures": 533,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S003",
+      "case": "b056_s003",
+      "expected_terminator": "0x42a46e",
+      "observed_terminators": [
+        "0x42a46e"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S004",
+      "case": "b056_s004",
+      "expected_terminator": "0x42a4da",
+      "observed_terminators": [
+        "0x42a4da"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S005",
+      "case": "b056_s005",
+      "expected_terminator": "0x42a532",
+      "observed_terminators": [
+        "0x42a532"
+      ],
+      "native_read_complete": true,
+      "captures": 816,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S006",
+      "case": "b056_s006",
+      "expected_terminator": "0x42a5b0",
+      "observed_terminators": [
+        "0x42a5b0"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S007",
+      "case": "b056_s007",
+      "expected_terminator": "0x42a61b",
+      "observed_terminators": [
+        "0x42a61b"
+      ],
+      "native_read_complete": true,
+      "captures": 510,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S008",
+      "case": "b056_s008",
+      "expected_terminator": "0x42a68e",
+      "observed_terminators": [
+        "0x42a68e"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S009",
+      "case": "b056_s009",
+      "expected_terminator": "0x42a70c",
+      "observed_terminators": [
+        "0x42a70c"
+      ],
+      "native_read_complete": true,
+      "captures": 505,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S010",
+      "case": "b056_s010",
+      "expected_terminator": "0x42a766",
+      "observed_terminators": [
+        "0x42a766"
+      ],
+      "native_read_complete": true,
+      "captures": 464,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S011",
+      "case": "b056_s011",
+      "expected_terminator": "0x42a7b9",
+      "observed_terminators": [
+        "0x42a7b9"
+      ],
+      "native_read_complete": true,
+      "captures": 414,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S013",
+      "case": "b056_s013",
+      "expected_terminator": "0x42a8a7",
+      "observed_terminators": [
+        "0x42a8a7"
+      ],
+      "native_read_complete": true,
+      "captures": 527,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S014",
+      "case": "b056_s014",
+      "expected_terminator": "0x42a8ed",
+      "observed_terminators": [
+        "0x42a8ed"
+      ],
+      "native_read_complete": true,
+      "captures": 340,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S015",
+      "case": "b056_s015",
+      "expected_terminator": "0x42a963",
+      "observed_terminators": [
+        "0x42a963"
+      ],
+      "native_read_complete": true,
+      "captures": 550,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S016",
+      "case": "b056_s016",
+      "expected_terminator": "0x42a9c5",
+      "observed_terminators": [
+        "0x42a9c5"
+      ],
+      "native_read_complete": true,
+      "captures": 1534,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s016_00.png",
+        "b056_s016_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S017",
+      "case": "b056_s017",
+      "expected_terminator": "0x42aa24",
+      "observed_terminators": [
+        "0x42aa24"
+      ],
+      "native_read_complete": true,
+      "captures": 839,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S018",
+      "case": "b056_s018",
+      "expected_terminator": "0x42aa99",
+      "observed_terminators": [
+        "0x42aa99"
+      ],
+      "native_read_complete": true,
+      "captures": 528,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S019",
+      "case": "b056_s019",
+      "expected_terminator": "0x42aafb",
+      "observed_terminators": [
+        "0x42aafb"
+      ],
+      "native_read_complete": true,
+      "captures": 1563,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s019_00.png",
+        "b056_s019_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S020",
+      "case": "b056_s020",
+      "expected_terminator": "0x42ac38",
+      "observed_terminators": [
+        "0x42ac38"
+      ],
+      "native_read_complete": true,
+      "captures": 1210,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s020_00.png",
+        "b056_s020_01.png",
+        "b056_s020_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S021",
+      "case": "b056_s021",
+      "expected_terminator": "0x42acae",
+      "observed_terminators": [
+        "0x42acae"
+      ],
+      "native_read_complete": true,
+      "captures": 571,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S022",
+      "case": "b056_s022",
+      "expected_terminator": "0x42ad0b",
+      "observed_terminators": [
+        "0x42ad0b"
+      ],
+      "native_read_complete": true,
+      "captures": 458,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S023",
+      "case": "b056_s023",
+      "expected_terminator": "0x42ad92",
+      "observed_terminators": [
+        "0x42ad92"
+      ],
+      "native_read_complete": true,
+      "captures": 531,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S024",
+      "case": "b056_s024",
+      "expected_terminator": "0x42ae0a",
+      "observed_terminators": [
+        "0x42ae0a"
+      ],
+      "native_read_complete": true,
+      "captures": 540,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S025",
+      "case": "b056_s025",
+      "expected_terminator": "0x42ae87",
+      "observed_terminators": [
+        "0x42ae87"
+      ],
+      "native_read_complete": true,
+      "captures": 530,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S026",
+      "case": "b056_s026",
+      "expected_terminator": "0x42aef2",
+      "observed_terminators": [
+        "0x42aef2"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S027",
+      "case": "b056_s027",
+      "expected_terminator": "0x42af40",
+      "observed_terminators": [
+        "0x42af40"
+      ],
+      "native_read_complete": true,
+      "captures": 406,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S028",
+      "case": "b056_s028",
+      "expected_terminator": "0x42af91",
+      "observed_terminators": [
+        "0x42af91"
+      ],
+      "native_read_complete": true,
+      "captures": 463,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S029",
+      "case": "b056_s029",
+      "expected_terminator": "0x42b02c",
+      "observed_terminators": [
+        "0x42b02c"
+      ],
+      "native_read_complete": true,
+      "captures": 1407,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s029_00.png",
+        "b056_s029_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S030",
+      "case": "b056_s030",
+      "expected_terminator": "0x42b177",
+      "observed_terminators": [
+        "0x42b177"
+      ],
+      "native_read_complete": true,
+      "captures": 1415,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s030_00.png",
+        "b056_s030_01.png",
+        "b056_s030_02.png",
+        "b056_s030_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S031",
+      "case": "b056_s031",
+      "expected_terminator": "0x42b1a8",
+      "observed_terminators": [
+        "0x42b1a8"
+      ],
+      "native_read_complete": true,
+      "captures": 436,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B056-S032",
+      "case": "b056_s032",
+      "expected_terminator": "0x42b202",
+      "observed_terminators": [
+        "0x42b202"
+      ],
+      "native_read_complete": true,
+      "captures": 806,
+      "visual_review": "reviewed: no clipped lines, missing glyphs or misplaced hearts; pauses and intentional blank lines preserved",
+      "review_images": [
+        "b056_s032_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 39,
+  "visual_review": {
+    "status": "passed",
+    "reviewed_dialogue_captures": 39,
+    "method": "Two contact sheets covering every retained page; five full system captures inspected separately.",
+    "system_captures": 5
+  }
+}
