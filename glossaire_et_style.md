@@ -712,3 +712,22 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Conserver les allusions de la source, les cœurs et les pauses, sans ajouter de détails.
 - La fontaine change trois ou quatre fois par heure ; les trois couleurs doivent devenir pêche.
 - B056-S012 conserve ses octets : fragment x5 et espacement particulier à analyser.
+
+## V47 — Sanctuaire de la Grue, Momoko et Courrier de la Grue
+
+- Rokusuke, Momoko, Yumi, Arisa et Seiko : noms conservés.
+- Chambre du Chrysanthème, du Cerisier, de la Pivoine et du Lys :
+  noms harmonisés avec les chambres des autres salons.
+- Bateau Carapace ; passage de la Grue et de la Tortue ; village du Saké ;
+  village de l'Entrée ; grotte du Clapotis ; château Fantôme : noms établis.
+- Maison : 10 000 ryo ; auberges voisines : 150 et 50 ryo ; journal : 10 ryo.
+- Momoko accepte sept lettres sans réponse ; revenir avant la huitième.
+  La limite est celle du dialogue, sans prétendre valider le script temporel.
+- Yumi garde un langage familier ; les allusions des autres chambres restent
+  celles de la source, sans ajout. Le texte de la Saint-Valentin conserve
+  son explication culturelle et le cadeau de chocolat.
+- Courrier de la Grue : articles à sensation, racontés par leur journaliste ;
+  conserver Omine (87 ans), les accusations contre Tenjin et le récit sur Juri
+  sans les présenter comme une validation des événements réels.
+- B132-S059/S122 : diagnostics différés ; S095/S096/S126 : choix à disposition
+  particulière ; S099 : fragment x5 conservé pour analyse dédiée.

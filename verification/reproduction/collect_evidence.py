@@ -49,6 +49,7 @@ for bid,ids in deferred.items():
    x=CPU(original);x.load_block(alias);x.select(idx);y=CPU(rom);y.load_block(alias);y.select(idx);assert x.string()==y.string();entries.append({'entry':f'B{alias:03}-S{idx:03}','source_bytes_preserved':True})
 d={'native_reads':len(entries),'unique_messages':sum(map(len,deferred.values())),'entries':entries}
 for bid in [132,183]:
+ if any(x['block_id']==bid for x in new.values()):continue
  block=next(b for b in audit['blocks'] if bid in b['block_ids']);s=int(block['offset'],16);e=int(block['end_exclusive'],16);assert rom[s:e]==original[s:e];d[f'block{bid}_source_bytes_preserved']=True
 (repo/f'verification/deferred_texts_{v}.json').write_text(json.dumps(d,indent=2)+'\n')
 print(json.dumps({'sheets':(len(tiles)+35)//36,'images':len(tiles),'boot_identical':len(comparison['identical']),'boot_different':comparison['different'],'navigation':nav,'deferred_native_reads':len(entries)},ensure_ascii=False))

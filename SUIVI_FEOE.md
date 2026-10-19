@@ -1,3 +1,21 @@
+# État actuel — V47
+
+Lot 41 : 142 vrais nouveaux textes du sanctuaire de la Grue (bloc 132).
+Total : 3 970 entrées intégrées ; 3 828 anciennes entrées et 32 modifications
+initiales préservées. Preuves finales : final47 ; référence V46 : final46.
+4 899 lectures natives, 142 rendus ciblés, 286 captures de dialogue relues.
+85 captures fixes et trois vues de navigation identiques à V46.
+Parcours naturels, paiements, cadeaux et échéances de Momoko non validés.
+
+Prochaine reprise : lire HEAD et les inventaires. Ne pas dupliquer lot41.
+B132 : S059/S122 diagnostics ; S095/S096/S126 choix particuliers ; S099 x5.
+Le bloc 66, l'élevage, les fêtes et les formats spéciaux gardent des lacunes.
+Dialogues/événements avant menus. Inventaire borné restant : 5068 entrées,
+y compris menus, vides et debug ; ce n'est pas un pourcentage de dialogues.
+Le bloc 42 non borné en est exclu. Tous les différés sont préservés.
+
+## Historique
+
 # État actuel — V46
 
 Lot 40 : 31 vrais nouveaux textes de Ran, Miki, Suu et de la grotte des Belles.

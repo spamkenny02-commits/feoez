@@ -1,0 +1,31 @@
+{
+  "version": "V47",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 132,
+      "strings": [
+        59,
+        122
+      ],
+      "reason": "Diagnostic messages; deferred outside player dialogue."
+    },
+    {
+      "block": 132,
+      "strings": [
+        95,
+        96,
+        126
+      ],
+      "reason": "Column choices and article selector; source layout retained pending interaction tests."
+    },
+    {
+      "block": 132,
+      "strings": [
+        99
+      ],
+      "reason": "Literal x5; source bytes retained pending dedicated analysis and rendering."
+    }
+  ],
+  "previous_deferred": "All previous entries retained; see deferred_texts_v47.json and deferred_reasons_v46.json."
+}

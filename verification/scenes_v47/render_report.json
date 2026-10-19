@@ -1,0 +1,2291 @@
+{
+  "workers": 3,
+  "rom_sha256": "b121123906aaa00d9a15412dfaa3dc44a8902ea42ff98622458187a55e63b879",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "f1fe80242278a1997ea35c3bee2f3bed8d24955a6a756207e9681bcdd9778427",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B132-S001",
+      "case": "b132_s001",
+      "expected_terminator": "0x4b008b",
+      "observed_terminators": [
+        "0x4b008b"
+      ],
+      "native_read_complete": true,
+      "captures": 929,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S002",
+      "case": "b132_s002",
+      "expected_terminator": "0x4b00d2",
+      "observed_terminators": [
+        "0x4b00d2"
+      ],
+      "native_read_complete": true,
+      "captures": 676,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S003",
+      "case": "b132_s003",
+      "expected_terminator": "0x4b010d",
+      "observed_terminators": [
+        "0x4b010d"
+      ],
+      "native_read_complete": true,
+      "captures": 536,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S004",
+      "case": "b132_s004",
+      "expected_terminator": "0x4b01a2",
+      "observed_terminators": [
+        "0x4b01a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1204,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s004_00.png",
+        "b132_s004_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S005",
+      "case": "b132_s005",
+      "expected_terminator": "0x4b02cf",
+      "observed_terminators": [
+        "0x4b02cf"
+      ],
+      "native_read_complete": true,
+      "captures": 2106,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s005_00.png",
+        "b132_s005_01.png",
+        "b132_s005_02.png",
+        "b132_s005_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S006",
+      "case": "b132_s006",
+      "expected_terminator": "0x4b038f",
+      "observed_terminators": [
+        "0x4b038f"
+      ],
+      "native_read_complete": true,
+      "captures": 1865,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s006_00.png",
+        "b132_s006_01.png",
+        "b132_s006_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S007",
+      "case": "b132_s007",
+      "expected_terminator": "0x4b040e",
+      "observed_terminators": [
+        "0x4b040e"
+      ],
+      "native_read_complete": true,
+      "captures": 899,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S008",
+      "case": "b132_s008",
+      "expected_terminator": "0x4b05a2",
+      "observed_terminators": [
+        "0x4b05a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1123,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s008_00.png",
+        "b132_s008_01.png",
+        "b132_s008_02.png",
+        "b132_s008_03.png",
+        "b132_s008_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S009",
+      "case": "b132_s009",
+      "expected_terminator": "0x4b064b",
+      "observed_terminators": [
+        "0x4b064b"
+      ],
+      "native_read_complete": true,
+      "captures": 1926,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s009_00.png",
+        "b132_s009_01.png",
+        "b132_s009_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S010",
+      "case": "b132_s010",
+      "expected_terminator": "0x4b0693",
+      "observed_terminators": [
+        "0x4b0693"
+      ],
+      "native_read_complete": true,
+      "captures": 626,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S011",
+      "case": "b132_s011",
+      "expected_terminator": "0x4b06fa",
+      "observed_terminators": [
+        "0x4b06fa"
+      ],
+      "native_read_complete": true,
+      "captures": 902,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S012",
+      "case": "b132_s012",
+      "expected_terminator": "0x4b076b",
+      "observed_terminators": [
+        "0x4b076b"
+      ],
+      "native_read_complete": true,
+      "captures": 1374,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s012_00.png",
+        "b132_s012_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S013",
+      "case": "b132_s013",
+      "expected_terminator": "0x4b07a0",
+      "observed_terminators": [
+        "0x4b07a0"
+      ],
+      "native_read_complete": true,
+      "captures": 471,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S014",
+      "case": "b132_s014",
+      "expected_terminator": "0x4b07fe",
+      "observed_terminators": [
+        "0x4b07fe"
+      ],
+      "native_read_complete": true,
+      "captures": 875,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S015",
+      "case": "b132_s015",
+      "expected_terminator": "0x4b0905",
+      "observed_terminators": [
+        "0x4b0905"
+      ],
+      "native_read_complete": true,
+      "captures": 1045,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s015_00.png",
+        "b132_s015_01.png",
+        "b132_s015_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S016",
+      "case": "b132_s016",
+      "expected_terminator": "0x4b092c",
+      "observed_terminators": [
+        "0x4b092c"
+      ],
+      "native_read_complete": true,
+      "captures": 332,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S017",
+      "case": "b132_s017",
+      "expected_terminator": "0x4b0974",
+      "observed_terminators": [
+        "0x4b0974"
+      ],
+      "native_read_complete": true,
+      "captures": 1337,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s017_00.png",
+        "b132_s017_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S018",
+      "case": "b132_s018",
+      "expected_terminator": "0x4b09c6",
+      "observed_terminators": [
+        "0x4b09c6"
+      ],
+      "native_read_complete": true,
+      "captures": 823,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S019",
+      "case": "b132_s019",
+      "expected_terminator": "0x4b0a3d",
+      "observed_terminators": [
+        "0x4b0a3d"
+      ],
+      "native_read_complete": true,
+      "captures": 1224,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s019_00.png",
+        "b132_s019_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S020",
+      "case": "b132_s020",
+      "expected_terminator": "0x4b0a52",
+      "observed_terminators": [
+        "0x4b0a52"
+      ],
+      "native_read_complete": true,
+      "captures": 210,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S021",
+      "case": "b132_s021",
+      "expected_terminator": "0x4b0ae4",
+      "observed_terminators": [
+        "0x4b0ae4"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s021_00.png",
+        "b132_s021_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S022",
+      "case": "b132_s022",
+      "expected_terminator": "0x4b0bac",
+      "observed_terminators": [
+        "0x4b0bac"
+      ],
+      "native_read_complete": true,
+      "captures": 1911,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s022_00.png",
+        "b132_s022_01.png",
+        "b132_s022_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S023",
+      "case": "b132_s023",
+      "expected_terminator": "0x4b0bd6",
+      "observed_terminators": [
+        "0x4b0bd6"
+      ],
+      "native_read_complete": true,
+      "captures": 372,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S024",
+      "case": "b132_s024",
+      "expected_terminator": "0x4b0c1f",
+      "observed_terminators": [
+        "0x4b0c1f"
+      ],
+      "native_read_complete": true,
+      "captures": 665,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S025",
+      "case": "b132_s025",
+      "expected_terminator": "0x4b0c93",
+      "observed_terminators": [
+        "0x4b0c93"
+      ],
+      "native_read_complete": true,
+      "captures": 941,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S026",
+      "case": "b132_s026",
+      "expected_terminator": "0x4b0cb2",
+      "observed_terminators": [
+        "0x4b0cb2"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S027",
+      "case": "b132_s027",
+      "expected_terminator": "0x4b0ced",
+      "observed_terminators": [
+        "0x4b0ced"
+      ],
+      "native_read_complete": true,
+      "captures": 540,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S028",
+      "case": "b132_s028",
+      "expected_terminator": "0x4b0d1d",
+      "observed_terminators": [
+        "0x4b0d1d"
+      ],
+      "native_read_complete": true,
+      "captures": 425,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S029",
+      "case": "b132_s029",
+      "expected_terminator": "0x4b0d73",
+      "observed_terminators": [
+        "0x4b0d73"
+      ],
+      "native_read_complete": true,
+      "captures": 800,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S030",
+      "case": "b132_s030",
+      "expected_terminator": "0x4b0da2",
+      "observed_terminators": [
+        "0x4b0da2"
+      ],
+      "native_read_complete": true,
+      "captures": 433,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S031",
+      "case": "b132_s031",
+      "expected_terminator": "0x4b0ddd",
+      "observed_terminators": [
+        "0x4b0ddd"
+      ],
+      "native_read_complete": true,
+      "captures": 541,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S032",
+      "case": "b132_s032",
+      "expected_terminator": "0x4b0e0d",
+      "observed_terminators": [
+        "0x4b0e0d"
+      ],
+      "native_read_complete": true,
+      "captures": 425,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s032_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S033",
+      "case": "b132_s033",
+      "expected_terminator": "0x4b0eac",
+      "observed_terminators": [
+        "0x4b0eac"
+      ],
+      "native_read_complete": true,
+      "captures": 1968,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s033_00.png",
+        "b132_s033_01.png",
+        "b132_s033_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S034",
+      "case": "b132_s034",
+      "expected_terminator": "0x4b0f90",
+      "observed_terminators": [
+        "0x4b0f90"
+      ],
+      "native_read_complete": true,
+      "captures": 1913,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s034_00.png",
+        "b132_s034_01.png",
+        "b132_s034_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S035",
+      "case": "b132_s035",
+      "expected_terminator": "0x4b1032",
+      "observed_terminators": [
+        "0x4b1032"
+      ],
+      "native_read_complete": true,
+      "captures": 2004,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s035_00.png",
+        "b132_s035_01.png",
+        "b132_s035_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S036",
+      "case": "b132_s036",
+      "expected_terminator": "0x4b1078",
+      "observed_terminators": [
+        "0x4b1078"
+      ],
+      "native_read_complete": true,
+      "captures": 654,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S037",
+      "case": "b132_s037",
+      "expected_terminator": "0x4b10b2",
+      "observed_terminators": [
+        "0x4b10b2"
+      ],
+      "native_read_complete": true,
+      "captures": 514,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S038",
+      "case": "b132_s038",
+      "expected_terminator": "0x4b10f8",
+      "observed_terminators": [
+        "0x4b10f8"
+      ],
+      "native_read_complete": true,
+      "captures": 638,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s038_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S039",
+      "case": "b132_s039",
+      "expected_terminator": "0x4b112b",
+      "observed_terminators": [
+        "0x4b112b"
+      ],
+      "native_read_complete": true,
+      "captures": 455,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S040",
+      "case": "b132_s040",
+      "expected_terminator": "0x4b1171",
+      "observed_terminators": [
+        "0x4b1171"
+      ],
+      "native_read_complete": true,
+      "captures": 656,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S041",
+      "case": "b132_s041",
+      "expected_terminator": "0x4b11ab",
+      "observed_terminators": [
+        "0x4b11ab"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S042",
+      "case": "b132_s042",
+      "expected_terminator": "0x4b11f1",
+      "observed_terminators": [
+        "0x4b11f1"
+      ],
+      "native_read_complete": true,
+      "captures": 641,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S043",
+      "case": "b132_s043",
+      "expected_terminator": "0x4b1224",
+      "observed_terminators": [
+        "0x4b1224"
+      ],
+      "native_read_complete": true,
+      "captures": 454,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S044",
+      "case": "b132_s044",
+      "expected_terminator": "0x4b127f",
+      "observed_terminators": [
+        "0x4b127f"
+      ],
+      "native_read_complete": true,
+      "captures": 829,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S045",
+      "case": "b132_s045",
+      "expected_terminator": "0x4b12bd",
+      "observed_terminators": [
+        "0x4b12bd"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s045_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S046",
+      "case": "b132_s046",
+      "expected_terminator": "0x4b1351",
+      "observed_terminators": [
+        "0x4b1351"
+      ],
+      "native_read_complete": true,
+      "captures": 2075,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s046_00.png",
+        "b132_s046_01.png",
+        "b132_s046_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S047",
+      "case": "b132_s047",
+      "expected_terminator": "0x4b13b6",
+      "observed_terminators": [
+        "0x4b13b6"
+      ],
+      "native_read_complete": true,
+      "captures": 905,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S048",
+      "case": "b132_s048",
+      "expected_terminator": "0x4b1451",
+      "observed_terminators": [
+        "0x4b1451"
+      ],
+      "native_read_complete": true,
+      "captures": 1261,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s048_00.png",
+        "b132_s048_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S049",
+      "case": "b132_s049",
+      "expected_terminator": "0x4b1494",
+      "observed_terminators": [
+        "0x4b1494"
+      ],
+      "native_read_complete": true,
+      "captures": 640,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S050",
+      "case": "b132_s050",
+      "expected_terminator": "0x4b14cc",
+      "observed_terminators": [
+        "0x4b14cc"
+      ],
+      "native_read_complete": true,
+      "captures": 557,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S051",
+      "case": "b132_s051",
+      "expected_terminator": "0x4b1599",
+      "observed_terminators": [
+        "0x4b1599"
+      ],
+      "native_read_complete": true,
+      "captures": 2064,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s051_00.png",
+        "b132_s051_01.png",
+        "b132_s051_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S052",
+      "case": "b132_s052",
+      "expected_terminator": "0x4b1691",
+      "observed_terminators": [
+        "0x4b1691"
+      ],
+      "native_read_complete": true,
+      "captures": 1367,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s052_00.png",
+        "b132_s052_01.png",
+        "b132_s052_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S053",
+      "case": "b132_s053",
+      "expected_terminator": "0x4b173b",
+      "observed_terminators": [
+        "0x4b173b"
+      ],
+      "native_read_complete": true,
+      "captures": 1881,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s053_00.png",
+        "b132_s053_01.png",
+        "b132_s053_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S054",
+      "case": "b132_s054",
+      "expected_terminator": "0x4b17d0",
+      "observed_terminators": [
+        "0x4b17d0"
+      ],
+      "native_read_complete": true,
+      "captures": 1087,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s054_00.png",
+        "b132_s054_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S055",
+      "case": "b132_s055",
+      "expected_terminator": "0x4b1841",
+      "observed_terminators": [
+        "0x4b1841"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S056",
+      "case": "b132_s056",
+      "expected_terminator": "0x4b189e",
+      "observed_terminators": [
+        "0x4b189e"
+      ],
+      "native_read_complete": true,
+      "captures": 846,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S057",
+      "case": "b132_s057",
+      "expected_terminator": "0x4b190f",
+      "observed_terminators": [
+        "0x4b190f"
+      ],
+      "native_read_complete": true,
+      "captures": 888,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S058",
+      "case": "b132_s058",
+      "expected_terminator": "0x4b192f",
+      "observed_terminators": [
+        "0x4b192f"
+      ],
+      "native_read_complete": true,
+      "captures": 297,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S060",
+      "case": "b132_s060",
+      "expected_terminator": "0x4b1af9",
+      "observed_terminators": [
+        "0x4b1af9"
+      ],
+      "native_read_complete": true,
+      "captures": 1061,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s060_00.png",
+        "b132_s060_01.png",
+        "b132_s060_02.png",
+        "b132_s060_03.png",
+        "b132_s060_04.png",
+        "b132_s060_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S061",
+      "case": "b132_s061",
+      "expected_terminator": "0x4b1b3e",
+      "observed_terminators": [
+        "0x4b1b3e"
+      ],
+      "native_read_complete": true,
+      "captures": 629,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S062",
+      "case": "b132_s062",
+      "expected_terminator": "0x4b1ba1",
+      "observed_terminators": [
+        "0x4b1ba1"
+      ],
+      "native_read_complete": true,
+      "captures": 918,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s062_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S063",
+      "case": "b132_s063",
+      "expected_terminator": "0x4b1db7",
+      "observed_terminators": [
+        "0x4b1db7"
+      ],
+      "native_read_complete": true,
+      "captures": 2846,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s063_00.png",
+        "b132_s063_01.png",
+        "b132_s063_02.png",
+        "b132_s063_03.png",
+        "b132_s063_04.png",
+        "b132_s063_05.png",
+        "b132_s063_06.png",
+        "b132_s063_07.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S064",
+      "case": "b132_s064",
+      "expected_terminator": "0x4b1dfc",
+      "observed_terminators": [
+        "0x4b1dfc"
+      ],
+      "native_read_complete": true,
+      "captures": 631,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S065",
+      "case": "b132_s065",
+      "expected_terminator": "0x4b1e54",
+      "observed_terminators": [
+        "0x4b1e54"
+      ],
+      "native_read_complete": true,
+      "captures": 844,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S066",
+      "case": "b132_s066",
+      "expected_terminator": "0x4b2080",
+      "observed_terminators": [
+        "0x4b2080"
+      ],
+      "native_read_complete": true,
+      "captures": 1146,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s066_00.png",
+        "b132_s066_01.png",
+        "b132_s066_02.png",
+        "b132_s066_03.png",
+        "b132_s066_04.png",
+        "b132_s066_05.png",
+        "b132_s066_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S067",
+      "case": "b132_s067",
+      "expected_terminator": "0x4b20c5",
+      "observed_terminators": [
+        "0x4b20c5"
+      ],
+      "native_read_complete": true,
+      "captures": 629,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S068",
+      "case": "b132_s068",
+      "expected_terminator": "0x4b211f",
+      "observed_terminators": [
+        "0x4b211f"
+      ],
+      "native_read_complete": true,
+      "captures": 835,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S069",
+      "case": "b132_s069",
+      "expected_terminator": "0x4b2147",
+      "observed_terminators": [
+        "0x4b2147"
+      ],
+      "native_read_complete": true,
+      "captures": 369,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S070",
+      "case": "b132_s070",
+      "expected_terminator": "0x4b2195",
+      "observed_terminators": [
+        "0x4b2195"
+      ],
+      "native_read_complete": true,
+      "captures": 759,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S071",
+      "case": "b132_s071",
+      "expected_terminator": "0x4b2263",
+      "observed_terminators": [
+        "0x4b2263"
+      ],
+      "native_read_complete": true,
+      "captures": 1864,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s071_00.png",
+        "b132_s071_01.png",
+        "b132_s071_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S072",
+      "case": "b132_s072",
+      "expected_terminator": "0x4b2323",
+      "observed_terminators": [
+        "0x4b2323"
+      ],
+      "native_read_complete": true,
+      "captures": 1908,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s072_00.png",
+        "b132_s072_01.png",
+        "b132_s072_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S073",
+      "case": "b132_s073",
+      "expected_terminator": "0x4b23c1",
+      "observed_terminators": [
+        "0x4b23c1"
+      ],
+      "native_read_complete": true,
+      "captures": 2015,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s073_00.png",
+        "b132_s073_01.png",
+        "b132_s073_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S074",
+      "case": "b132_s074",
+      "expected_terminator": "0x4b245b",
+      "observed_terminators": [
+        "0x4b245b"
+      ],
+      "native_read_complete": true,
+      "captures": 1515,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s074_00.png",
+        "b132_s074_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S075",
+      "case": "b132_s075",
+      "expected_terminator": "0x4b24a3",
+      "observed_terminators": [
+        "0x4b24a3"
+      ],
+      "native_read_complete": true,
+      "captures": 642,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S076",
+      "case": "b132_s076",
+      "expected_terminator": "0x4b24cd",
+      "observed_terminators": [
+        "0x4b24cd"
+      ],
+      "native_read_complete": true,
+      "captures": 372,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S077",
+      "case": "b132_s077",
+      "expected_terminator": "0x4b24f0",
+      "observed_terminators": [
+        "0x4b24f0"
+      ],
+      "native_read_complete": true,
+      "captures": 294,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S078",
+      "case": "b132_s078",
+      "expected_terminator": "0x4b255d",
+      "observed_terminators": [
+        "0x4b255d"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S079",
+      "case": "b132_s079",
+      "expected_terminator": "0x4b2684",
+      "observed_terminators": [
+        "0x4b2684"
+      ],
+      "native_read_complete": true,
+      "captures": 2160,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s079_00.png",
+        "b132_s079_01.png",
+        "b132_s079_02.png",
+        "b132_s079_03.png",
+        "b132_s079_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S080",
+      "case": "b132_s080",
+      "expected_terminator": "0x4b26ec",
+      "observed_terminators": [
+        "0x4b26ec"
+      ],
+      "native_read_complete": true,
+      "captures": 968,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S081",
+      "case": "b132_s081",
+      "expected_terminator": "0x4b2728",
+      "observed_terminators": [
+        "0x4b2728"
+      ],
+      "native_read_complete": true,
+      "captures": 593,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S082",
+      "case": "b132_s082",
+      "expected_terminator": "0x4b27ea",
+      "observed_terminators": [
+        "0x4b27ea"
+      ],
+      "native_read_complete": true,
+      "captures": 1978,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s082_00.png",
+        "b132_s082_01.png",
+        "b132_s082_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S083",
+      "case": "b132_s083",
+      "expected_terminator": "0x4b28ac",
+      "observed_terminators": [
+        "0x4b28ac"
+      ],
+      "native_read_complete": true,
+      "captures": 1978,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s083_00.png",
+        "b132_s083_01.png",
+        "b132_s083_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S084",
+      "case": "b132_s084",
+      "expected_terminator": "0x4b2af8",
+      "observed_terminators": [
+        "0x4b2af8"
+      ],
+      "native_read_complete": true,
+      "captures": 2145,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s084_00.png",
+        "b132_s084_01.png",
+        "b132_s084_02.png",
+        "b132_s084_03.png",
+        "b132_s084_04.png",
+        "b132_s084_05.png",
+        "b132_s084_06.png",
+        "b132_s084_07.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S085",
+      "case": "b132_s085",
+      "expected_terminator": "0x4b2bf3",
+      "observed_terminators": [
+        "0x4b2bf3"
+      ],
+      "native_read_complete": true,
+      "captures": 1024,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s085_00.png",
+        "b132_s085_01.png",
+        "b132_s085_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S086",
+      "case": "b132_s086",
+      "expected_terminator": "0x4b2d02",
+      "observed_terminators": [
+        "0x4b2d02"
+      ],
+      "native_read_complete": true,
+      "captures": 991,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s086_00.png",
+        "b132_s086_01.png",
+        "b132_s086_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S087",
+      "case": "b132_s087",
+      "expected_terminator": "0x4b2dc5",
+      "observed_terminators": [
+        "0x4b2dc5"
+      ],
+      "native_read_complete": true,
+      "captures": 1284,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s087_00.png",
+        "b132_s087_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S088",
+      "case": "b132_s088",
+      "expected_terminator": "0x4b2eb3",
+      "observed_terminators": [
+        "0x4b2eb3"
+      ],
+      "native_read_complete": true,
+      "captures": 1840,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s088_00.png",
+        "b132_s088_01.png",
+        "b132_s088_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S089",
+      "case": "b132_s089",
+      "expected_terminator": "0x4b2f56",
+      "observed_terminators": [
+        "0x4b2f56"
+      ],
+      "native_read_complete": true,
+      "captures": 1894,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s089_00.png",
+        "b132_s089_01.png",
+        "b132_s089_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S090",
+      "case": "b132_s090",
+      "expected_terminator": "0x4b3150",
+      "observed_terminators": [
+        "0x4b3150"
+      ],
+      "native_read_complete": true,
+      "captures": 2127,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s090_00.png",
+        "b132_s090_01.png",
+        "b132_s090_02.png",
+        "b132_s090_03.png",
+        "b132_s090_04.png",
+        "b132_s090_05.png",
+        "b132_s090_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S091",
+      "case": "b132_s091",
+      "expected_terminator": "0x4b321f",
+      "observed_terminators": [
+        "0x4b321f"
+      ],
+      "native_read_complete": true,
+      "captures": 1992,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s091_00.png",
+        "b132_s091_01.png",
+        "b132_s091_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S092",
+      "case": "b132_s092",
+      "expected_terminator": "0x4b323a",
+      "observed_terminators": [
+        "0x4b323a"
+      ],
+      "native_read_complete": true,
+      "captures": 222,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S093",
+      "case": "b132_s093",
+      "expected_terminator": "0x4b34f8",
+      "observed_terminators": [
+        "0x4b34f8"
+      ],
+      "native_read_complete": true,
+      "captures": 2143,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s093_00.png",
+        "b132_s093_01.png",
+        "b132_s093_02.png",
+        "b132_s093_03.png",
+        "b132_s093_04.png",
+        "b132_s093_05.png",
+        "b132_s093_06.png",
+        "b132_s093_07.png",
+        "b132_s093_08.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S094",
+      "case": "b132_s094",
+      "expected_terminator": "0x4b35c1",
+      "observed_terminators": [
+        "0x4b35c1"
+      ],
+      "native_read_complete": true,
+      "captures": 1913,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s094_00.png",
+        "b132_s094_01.png",
+        "b132_s094_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S097",
+      "case": "b132_s097",
+      "expected_terminator": "0x4b37a3",
+      "observed_terminators": [
+        "0x4b37a3"
+      ],
+      "native_read_complete": true,
+      "captures": 1116,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s097_00.png",
+        "b132_s097_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S098",
+      "case": "b132_s098",
+      "expected_terminator": "0x4b38bc",
+      "observed_terminators": [
+        "0x4b38bc"
+      ],
+      "native_read_complete": true,
+      "captures": 989,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s098_00.png",
+        "b132_s098_01.png",
+        "b132_s098_02.png",
+        "b132_s098_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S100",
+      "case": "b132_s100",
+      "expected_terminator": "0x4b39cf",
+      "observed_terminators": [
+        "0x4b39cf"
+      ],
+      "native_read_complete": true,
+      "captures": 1012,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S101",
+      "case": "b132_s101",
+      "expected_terminator": "0x4b3a05",
+      "observed_terminators": [
+        "0x4b3a05"
+      ],
+      "native_read_complete": true,
+      "captures": 511,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s101_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S102",
+      "case": "b132_s102",
+      "expected_terminator": "0x4b3af4",
+      "observed_terminators": [
+        "0x4b3af4"
+      ],
+      "native_read_complete": true,
+      "captures": 979,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s102_00.png",
+        "b132_s102_01.png",
+        "b132_s102_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S103",
+      "case": "b132_s103",
+      "expected_terminator": "0x4b3b89",
+      "observed_terminators": [
+        "0x4b3b89"
+      ],
+      "native_read_complete": true,
+      "captures": 1338,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s103_00.png",
+        "b132_s103_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S104",
+      "case": "b132_s104",
+      "expected_terminator": "0x4b3bc1",
+      "observed_terminators": [
+        "0x4b3bc1"
+      ],
+      "native_read_complete": true,
+      "captures": 529,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S105",
+      "case": "b132_s105",
+      "expected_terminator": "0x4b3c30",
+      "observed_terminators": [
+        "0x4b3c30"
+      ],
+      "native_read_complete": true,
+      "captures": 921,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s105_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S106",
+      "case": "b132_s106",
+      "expected_terminator": "0x4b3c8c",
+      "observed_terminators": [
+        "0x4b3c8c"
+      ],
+      "native_read_complete": true,
+      "captures": 822,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S107",
+      "case": "b132_s107",
+      "expected_terminator": "0x4b3d85",
+      "observed_terminators": [
+        "0x4b3d85"
+      ],
+      "native_read_complete": true,
+      "captures": 1980,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s107_00.png",
+        "b132_s107_01.png",
+        "b132_s107_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S108",
+      "case": "b132_s108",
+      "expected_terminator": "0x4b3de5",
+      "observed_terminators": [
+        "0x4b3de5"
+      ],
+      "native_read_complete": true,
+      "captures": 891,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S109",
+      "case": "b132_s109",
+      "expected_terminator": "0x4b3e33",
+      "observed_terminators": [
+        "0x4b3e33"
+      ],
+      "native_read_complete": true,
+      "captures": 697,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S110",
+      "case": "b132_s110",
+      "expected_terminator": "0x4b3e4d",
+      "observed_terminators": [
+        "0x4b3e4d"
+      ],
+      "native_read_complete": true,
+      "captures": 230,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s110_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S111",
+      "case": "b132_s111",
+      "expected_terminator": "0x4b3e70",
+      "observed_terminators": [
+        "0x4b3e70"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S112",
+      "case": "b132_s112",
+      "expected_terminator": "0x4b3eb2",
+      "observed_terminators": [
+        "0x4b3eb2"
+      ],
+      "native_read_complete": true,
+      "captures": 590,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S113",
+      "case": "b132_s113",
+      "expected_terminator": "0x4b3ec2",
+      "observed_terminators": [
+        "0x4b3ec2"
+      ],
+      "native_read_complete": true,
+      "captures": 148,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S114",
+      "case": "b132_s114",
+      "expected_terminator": "0x4b3ee5",
+      "observed_terminators": [
+        "0x4b3ee5"
+      ],
+      "native_read_complete": true,
+      "captures": 352,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s114_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S115",
+      "case": "b132_s115",
+      "expected_terminator": "0x4b3faa",
+      "observed_terminators": [
+        "0x4b3faa"
+      ],
+      "native_read_complete": true,
+      "captures": 1201,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s115_00.png",
+        "b132_s115_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S116",
+      "case": "b132_s116",
+      "expected_terminator": "0x4b4022",
+      "observed_terminators": [
+        "0x4b4022"
+      ],
+      "native_read_complete": true,
+      "captures": 932,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s116_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S117",
+      "case": "b132_s117",
+      "expected_terminator": "0x4b4051",
+      "observed_terminators": [
+        "0x4b4051"
+      ],
+      "native_read_complete": true,
+      "captures": 415,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s117_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S118",
+      "case": "b132_s118",
+      "expected_terminator": "0x4b408f",
+      "observed_terminators": [
+        "0x4b408f"
+      ],
+      "native_read_complete": true,
+      "captures": 550,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S119",
+      "case": "b132_s119",
+      "expected_terminator": "0x4b4107",
+      "observed_terminators": [
+        "0x4b4107"
+      ],
+      "native_read_complete": true,
+      "captures": 932,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s119_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S120",
+      "case": "b132_s120",
+      "expected_terminator": "0x4b4136",
+      "observed_terminators": [
+        "0x4b4136"
+      ],
+      "native_read_complete": true,
+      "captures": 415,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s120_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S121",
+      "case": "b132_s121",
+      "expected_terminator": "0x4b4174",
+      "observed_terminators": [
+        "0x4b4174"
+      ],
+      "native_read_complete": true,
+      "captures": 550,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s121_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S123",
+      "case": "b132_s123",
+      "expected_terminator": "0x4b4296",
+      "observed_terminators": [
+        "0x4b4296"
+      ],
+      "native_read_complete": true,
+      "captures": 2020,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s123_00.png",
+        "b132_s123_01.png",
+        "b132_s123_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S124",
+      "case": "b132_s124",
+      "expected_terminator": "0x4b42e0",
+      "observed_terminators": [
+        "0x4b42e0"
+      ],
+      "native_read_complete": true,
+      "captures": 643,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s124_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S125",
+      "case": "b132_s125",
+      "expected_terminator": "0x4b4325",
+      "observed_terminators": [
+        "0x4b4325"
+      ],
+      "native_read_complete": true,
+      "captures": 630,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s125_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S127",
+      "case": "b132_s127",
+      "expected_terminator": "0x4b454b",
+      "observed_terminators": [
+        "0x4b454b"
+      ],
+      "native_read_complete": true,
+      "captures": 1608,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s127_00.png",
+        "b132_s127_01.png",
+        "b132_s127_02.png",
+        "b132_s127_03.png",
+        "b132_s127_04.png",
+        "b132_s127_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S128",
+      "case": "b132_s128",
+      "expected_terminator": "0x4b476d",
+      "observed_terminators": [
+        "0x4b476d"
+      ],
+      "native_read_complete": true,
+      "captures": 2237,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s128_00.png",
+        "b132_s128_01.png",
+        "b132_s128_02.png",
+        "b132_s128_03.png",
+        "b132_s128_04.png",
+        "b132_s128_05.png",
+        "b132_s128_06.png",
+        "b132_s128_07.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S129",
+      "case": "b132_s129",
+      "expected_terminator": "0x4b492e",
+      "observed_terminators": [
+        "0x4b492e"
+      ],
+      "native_read_complete": true,
+      "captures": 1486,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s129_00.png",
+        "b132_s129_01.png",
+        "b132_s129_02.png",
+        "b132_s129_03.png",
+        "b132_s129_04.png",
+        "b132_s129_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S130",
+      "case": "b132_s130",
+      "expected_terminator": "0x4b4957",
+      "observed_terminators": [
+        "0x4b4957"
+      ],
+      "native_read_complete": true,
+      "captures": 362,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s130_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S131",
+      "case": "b132_s131",
+      "expected_terminator": "0x4b49ad",
+      "observed_terminators": [
+        "0x4b49ad"
+      ],
+      "native_read_complete": true,
+      "captures": 798,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s131_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S132",
+      "case": "b132_s132",
+      "expected_terminator": "0x4b49fd",
+      "observed_terminators": [
+        "0x4b49fd"
+      ],
+      "native_read_complete": true,
+      "captures": 744,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s132_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S133",
+      "case": "b132_s133",
+      "expected_terminator": "0x4b4a8f",
+      "observed_terminators": [
+        "0x4b4a8f"
+      ],
+      "native_read_complete": true,
+      "captures": 2039,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s133_00.png",
+        "b132_s133_01.png",
+        "b132_s133_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S134",
+      "case": "b132_s134",
+      "expected_terminator": "0x4b4b2d",
+      "observed_terminators": [
+        "0x4b4b2d"
+      ],
+      "native_read_complete": true,
+      "captures": 2060,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s134_00.png",
+        "b132_s134_01.png",
+        "b132_s134_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S135",
+      "case": "b132_s135",
+      "expected_terminator": "0x4b4b98",
+      "observed_terminators": [
+        "0x4b4b98"
+      ],
+      "native_read_complete": true,
+      "captures": 1351,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s135_00.png",
+        "b132_s135_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S136",
+      "case": "b132_s136",
+      "expected_terminator": "0x4b4bef",
+      "observed_terminators": [
+        "0x4b4bef"
+      ],
+      "native_read_complete": true,
+      "captures": 793,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s136_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S137",
+      "case": "b132_s137",
+      "expected_terminator": "0x4b4c3d",
+      "observed_terminators": [
+        "0x4b4c3d"
+      ],
+      "native_read_complete": true,
+      "captures": 696,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s137_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S138",
+      "case": "b132_s138",
+      "expected_terminator": "0x4b4c62",
+      "observed_terminators": [
+        "0x4b4c62"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s138_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S139",
+      "case": "b132_s139",
+      "expected_terminator": "0x4b4cac",
+      "observed_terminators": [
+        "0x4b4cac"
+      ],
+      "native_read_complete": true,
+      "captures": 661,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s139_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S140",
+      "case": "b132_s140",
+      "expected_terminator": "0x4b4ce4",
+      "observed_terminators": [
+        "0x4b4ce4"
+      ],
+      "native_read_complete": true,
+      "captures": 532,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s140_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S141",
+      "case": "b132_s141",
+      "expected_terminator": "0x4b4d3e",
+      "observed_terminators": [
+        "0x4b4d3e"
+      ],
+      "native_read_complete": true,
+      "captures": 822,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s141_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S142",
+      "case": "b132_s142",
+      "expected_terminator": "0x4b4de5",
+      "observed_terminators": [
+        "0x4b4de5"
+      ],
+      "native_read_complete": true,
+      "captures": 2027,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s142_00.png",
+        "b132_s142_01.png",
+        "b132_s142_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S143",
+      "case": "b132_s143",
+      "expected_terminator": "0x4b4e75",
+      "observed_terminators": [
+        "0x4b4e75"
+      ],
+      "native_read_complete": true,
+      "captures": 2113,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s143_00.png",
+        "b132_s143_01.png",
+        "b132_s143_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S144",
+      "case": "b132_s144",
+      "expected_terminator": "0x4b4eb7",
+      "observed_terminators": [
+        "0x4b4eb7"
+      ],
+      "native_read_complete": true,
+      "captures": 590,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s144_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S145",
+      "case": "b132_s145",
+      "expected_terminator": "0x4b4fa4",
+      "observed_terminators": [
+        "0x4b4fa4"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s145_00.png",
+        "b132_s145_01.png",
+        "b132_s145_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S146",
+      "case": "b132_s146",
+      "expected_terminator": "0x4b501b",
+      "observed_terminators": [
+        "0x4b501b"
+      ],
+      "native_read_complete": true,
+      "captures": 953,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s146_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S147",
+      "case": "b132_s147",
+      "expected_terminator": "0x4b5037",
+      "observed_terminators": [
+        "0x4b5037"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s147_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S148",
+      "case": "b132_s148",
+      "expected_terminator": "0x4b50d8",
+      "observed_terminators": [
+        "0x4b50d8"
+      ],
+      "native_read_complete": true,
+      "captures": 1421,
+      "visual_review": "reviewed: accented glyphs, hearts and text bounds inspected; partial typewriter and repeated pause snapshots retained",
+      "review_images": [
+        "b132_s148_00.png",
+        "b132_s148_01.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 286,
+  "visual_review": {
+    "status": "passed",
+    "reviewed_dialogue_captures": 286,
+    "system_captures": 5,
+    "method": "All eight contact sheets and five full system captures inspected.",
+    "observation": "Pauses yield partial typewriter snapshots and repeated page content; some page endings contain few words. Full native reads are checked separately; no out-of-window text or missing accented glyph found."
+  }
+}
