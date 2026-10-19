@@ -644,3 +644,22 @@ aux traditions, sans masquer leurs réticences envers Higan.
   provisoires dans les dialogues ; menu et chansons restent à traiter.
 - Gold vouchers : bons d’or ; réutiliser château d’Or et bourse d’or.
 - Sept femmes ou fillettes, 1 000 ryo chacune ; karaoké 100 ryo par chanson.
+
+## Lot 36 — V42
+
+- Réutiliser village des Paillettes d'Or, batée, forêt de la Vie et Chien divin.
+- Bourse d'or et bons d'or reprennent les lots récents ; ne pas modifier les
+  anciennes traductions utilisant sac à or.
+- Basara Cutter : Lame de Basara ; Batty Hermit : ermite Loufoque ; Loon : Folie.
+- Taking Hermit : ermite de la Victoire ; Soak : Absorption ; Dozing Hermit :
+  ermite Assoupi ; Doze : Somnolence, déjà établi.
+- Kamikaze Hermit / Blast : ermite Kamikaze / Rafale ; Frail Hermit / Frail :
+  ermite Frêle / Frêle. Noms provisoires, à harmoniser avec les menus.
+- Conserver les horaires de Basara : lundi-samedi, 18 h-minuit ; dimanche fermé.
+  Sa Lame coûte la moitié de la vitalité. Somnolence ne fonctionne que sur
+  l'être des Enfers qui l'utilise. Pas de vertu si la pétrification persiste
+  à la fin du combat. Les effets réels ne sont pas validés par le rendu ciblé.
+- Conserver 100 ryo, 20 000 ryo, une bourse, deux blocs sûrs et dix risqués ;
+  sud-ouest vers la forêt, nord-est vers mine/cascade, sud puis est vers le château.
+- Le récit des ermites conserve les six cents ans, Byakko/Kingin, Agni et les
+  douze bêtes : ne pas ramener cette liste aux six protecteurs du présent.

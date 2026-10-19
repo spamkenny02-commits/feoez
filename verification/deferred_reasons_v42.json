@@ -1,0 +1,53 @@
+{
+  "version": "V42",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 91,
+      "strings": [
+        1,
+        2
+      ],
+      "reason": "Dynamic price command 05 unsupported by the inserter."
+    },
+    {
+      "block": 91,
+      "strings": [
+        26
+      ],
+      "reason": "Literal x5 fragment: retain pending contextual study."
+    },
+    {
+      "block": 91,
+      "strings": [
+        35
+      ],
+      "reason": "Song effect 0A/CC requires dedicated handling."
+    },
+    {
+      "block": 99,
+      "strings": [
+        1,
+        2,
+        3,
+        11,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "reason": "Interdependent clock fragments: AM/PM, days, variables 05/06/07 and x2/x3 preserved together."
+    },
+    {
+      "block": 102,
+      "strings": [
+        1,
+        3
+      ],
+      "reason": "Questions with two/six choices: retain pending layout and effective selection tests."
+    }
+  ],
+  "previous_deferred": "All preserved; see deferred_texts_v42.json."
+}

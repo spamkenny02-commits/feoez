@@ -1,3 +1,20 @@
+# État actuel — V42
+
+Lot 36 : 59 vrais nouveaux textes du village des Paillettes d'Or, Basara
+et des ermites (91/92, 99, 102). Total : 3 542 entrées intégrées.
+Les 3 483 entrées V41 et les 32 occurrences initiales sont conservées.
+Différés et motifs : deferred_reasons_v42.json.
+Preuves finales : tag corrected42 ; référence V41 reconstruite, tag reference42.
+Le rendu ciblé ne valide pas la progression naturelle ni les effets en combat.
+
+Le lot est un ensemble cohérent ; aucun texte n'a été ajouté pour atteindre
+un quota artificiel. Les dialogues/événements restent prioritaires.
+Prochaine reprise : lire le HEAD réel, puis l'inventaire des blocs non traités.
+Les blocs 88, 95, 235/236, les fêtes et l'élevage gardent des lacunes ;
+ne pas annoncer les textes complets. Un numéro de bloc ne prouve pas sa couverture.
+
+## Historique
+
 # État actuel — V41
 
 Lot 35 : 43 textes de Sennin, Basara, du karaoké et de la mine (96).
