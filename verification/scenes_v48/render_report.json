@@ -1,0 +1,1909 @@
+{
+  "workers": 3,
+  "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "f01bacf52b5ba69051afc175dfa8f28837b429f9eb38f416678b7c14b506fb47",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B066-S001",
+      "case": "b066_s001",
+      "expected_terminator": "0x42ebe2",
+      "observed_terminators": [
+        "0x42ebe2"
+      ],
+      "native_read_complete": true,
+      "captures": 1988,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s001_00.png",
+        "b066_s001_01.png",
+        "b066_s001_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S002",
+      "case": "b066_s002",
+      "expected_terminator": "0x42ec07",
+      "observed_terminators": [
+        "0x42ec07"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S003",
+      "case": "b066_s003",
+      "expected_terminator": "0x42ec71",
+      "observed_terminators": [
+        "0x42ec71"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S004",
+      "case": "b066_s004",
+      "expected_terminator": "0x42ecb9",
+      "observed_terminators": [
+        "0x42ecb9"
+      ],
+      "native_read_complete": true,
+      "captures": 717,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S005",
+      "case": "b066_s005",
+      "expected_terminator": "0x42ed0e",
+      "observed_terminators": [
+        "0x42ed0e"
+      ],
+      "native_read_complete": true,
+      "captures": 773,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S011",
+      "case": "b066_s011",
+      "expected_terminator": "0x42eff8",
+      "observed_terminators": [
+        "0x42eff8"
+      ],
+      "native_read_complete": true,
+      "captures": 1091,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s011_00.png",
+        "b066_s011_01.png",
+        "b066_s011_02.png",
+        "b066_s011_03.png",
+        "b066_s011_04.png",
+        "b066_s011_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S012",
+      "case": "b066_s012",
+      "expected_terminator": "0x42f18b",
+      "observed_terminators": [
+        "0x42f18b"
+      ],
+      "native_read_complete": true,
+      "captures": 1451,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s012_00.png",
+        "b066_s012_01.png",
+        "b066_s012_02.png",
+        "b066_s012_03.png",
+        "b066_s012_04.png",
+        "b066_s012_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S013",
+      "case": "b066_s013",
+      "expected_terminator": "0x42f307",
+      "observed_terminators": [
+        "0x42f307"
+      ],
+      "native_read_complete": true,
+      "captures": 1504,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s013_00.png",
+        "b066_s013_01.png",
+        "b066_s013_02.png",
+        "b066_s013_03.png",
+        "b066_s013_04.png",
+        "b066_s013_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S014",
+      "case": "b066_s014",
+      "expected_terminator": "0x42f530",
+      "observed_terminators": [
+        "0x42f530"
+      ],
+      "native_read_complete": true,
+      "captures": 1152,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s014_00.png",
+        "b066_s014_01.png",
+        "b066_s014_02.png",
+        "b066_s014_03.png",
+        "b066_s014_04.png",
+        "b066_s014_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S015",
+      "case": "b066_s015",
+      "expected_terminator": "0x42f6dd",
+      "observed_terminators": [
+        "0x42f6dd"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s015_00.png",
+        "b066_s015_01.png",
+        "b066_s015_02.png",
+        "b066_s015_03.png",
+        "b066_s015_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S016",
+      "case": "b066_s016",
+      "expected_terminator": "0x42f8af",
+      "observed_terminators": [
+        "0x42f8af"
+      ],
+      "native_read_complete": true,
+      "captures": 1084,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s016_00.png",
+        "b066_s016_01.png",
+        "b066_s016_02.png",
+        "b066_s016_03.png",
+        "b066_s016_04.png",
+        "b066_s016_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S017",
+      "case": "b066_s017",
+      "expected_terminator": "0x42fa90",
+      "observed_terminators": [
+        "0x42fa90"
+      ],
+      "native_read_complete": true,
+      "captures": 1093,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s017_00.png",
+        "b066_s017_01.png",
+        "b066_s017_02.png",
+        "b066_s017_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S018",
+      "case": "b066_s018",
+      "expected_terminator": "0x42fb1f",
+      "observed_terminators": [
+        "0x42fb1f"
+      ],
+      "native_read_complete": true,
+      "captures": 999,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s018_00.png",
+        "b066_s018_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S019",
+      "case": "b066_s019",
+      "expected_terminator": "0x42fb90",
+      "observed_terminators": [
+        "0x42fb90"
+      ],
+      "native_read_complete": true,
+      "captures": 1455,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s019_00.png",
+        "b066_s019_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S020",
+      "case": "b066_s020",
+      "expected_terminator": "0x42fbd0",
+      "observed_terminators": [
+        "0x42fbd0"
+      ],
+      "native_read_complete": true,
+      "captures": 569,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S021",
+      "case": "b066_s021",
+      "expected_terminator": "0x42fcd3",
+      "observed_terminators": [
+        "0x42fcd3"
+      ],
+      "native_read_complete": true,
+      "captures": 1961,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s021_00.png",
+        "b066_s021_01.png",
+        "b066_s021_02.png",
+        "b066_s021_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S022",
+      "case": "b066_s022",
+      "expected_terminator": "0x42fd1e",
+      "observed_terminators": [
+        "0x42fd1e"
+      ],
+      "native_read_complete": true,
+      "captures": 698,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S023",
+      "case": "b066_s023",
+      "expected_terminator": "0x42fe43",
+      "observed_terminators": [
+        "0x42fe43"
+      ],
+      "native_read_complete": true,
+      "captures": 1941,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s023_00.png",
+        "b066_s023_01.png",
+        "b066_s023_02.png",
+        "b066_s023_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S024",
+      "case": "b066_s024",
+      "expected_terminator": "0x42fe92",
+      "observed_terminators": [
+        "0x42fe92"
+      ],
+      "native_read_complete": true,
+      "captures": 670,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S025",
+      "case": "b066_s025",
+      "expected_terminator": "0x42ffeb",
+      "observed_terminators": [
+        "0x42ffeb"
+      ],
+      "native_read_complete": true,
+      "captures": 2188,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s025_00.png",
+        "b066_s025_01.png",
+        "b066_s025_02.png",
+        "b066_s025_03.png",
+        "b066_s025_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S026",
+      "case": "b066_s026",
+      "expected_terminator": "0x430091",
+      "observed_terminators": [
+        "0x430091"
+      ],
+      "native_read_complete": true,
+      "captures": 2009,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s026_00.png",
+        "b066_s026_01.png",
+        "b066_s026_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S027",
+      "case": "b066_s027",
+      "expected_terminator": "0x4300bf",
+      "observed_terminators": [
+        "0x4300bf"
+      ],
+      "native_read_complete": true,
+      "captures": 208,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S028",
+      "case": "b066_s028",
+      "expected_terminator": "0x430236",
+      "observed_terminators": [
+        "0x430236"
+      ],
+      "native_read_complete": true,
+      "captures": 962,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s028_00.png",
+        "b066_s028_01.png",
+        "b066_s028_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S029",
+      "case": "b066_s029",
+      "expected_terminator": "0x4302e0",
+      "observed_terminators": [
+        "0x4302e0"
+      ],
+      "native_read_complete": true,
+      "captures": 1225,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s029_00.png",
+        "b066_s029_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S030",
+      "case": "b066_s030",
+      "expected_terminator": "0x430382",
+      "observed_terminators": [
+        "0x430382"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s030_00.png",
+        "b066_s030_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S031",
+      "case": "b066_s031",
+      "expected_terminator": "0x4303c7",
+      "observed_terminators": [
+        "0x4303c7"
+      ],
+      "native_read_complete": true,
+      "captures": 650,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S034",
+      "case": "b066_s034",
+      "expected_terminator": "0x430409",
+      "observed_terminators": [
+        "0x430409"
+      ],
+      "native_read_complete": true,
+      "captures": 562,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S038",
+      "case": "b066_s038",
+      "expected_terminator": "0x430600",
+      "observed_terminators": [
+        "0x430600"
+      ],
+      "native_read_complete": true,
+      "captures": 938,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s038_00.png",
+        "b066_s038_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S039",
+      "case": "b066_s039",
+      "expected_terminator": "0x43065b",
+      "observed_terminators": [
+        "0x43065b"
+      ],
+      "native_read_complete": true,
+      "captures": 827,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S041",
+      "case": "b066_s041",
+      "expected_terminator": "0x430777",
+      "observed_terminators": [
+        "0x430777"
+      ],
+      "native_read_complete": true,
+      "captures": 745,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S042",
+      "case": "b066_s042",
+      "expected_terminator": "0x430848",
+      "observed_terminators": [
+        "0x430848"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s042_00.png",
+        "b066_s042_01.png",
+        "b066_s042_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S043",
+      "case": "b066_s043",
+      "expected_terminator": "0x43088d",
+      "observed_terminators": [
+        "0x43088d"
+      ],
+      "native_read_complete": true,
+      "captures": 679,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S044",
+      "case": "b066_s044",
+      "expected_terminator": "0x4308b3",
+      "observed_terminators": [
+        "0x4308b3"
+      ],
+      "native_read_complete": true,
+      "captures": 320,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S045",
+      "case": "b066_s045",
+      "expected_terminator": "0x4309a1",
+      "observed_terminators": [
+        "0x4309a1"
+      ],
+      "native_read_complete": true,
+      "captures": 2044,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s045_00.png",
+        "b066_s045_01.png",
+        "b066_s045_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S046",
+      "case": "b066_s046",
+      "expected_terminator": "0x430a01",
+      "observed_terminators": [
+        "0x430a01"
+      ],
+      "native_read_complete": true,
+      "captures": 939,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s046_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S047",
+      "case": "b066_s047",
+      "expected_terminator": "0x430a75",
+      "observed_terminators": [
+        "0x430a75"
+      ],
+      "native_read_complete": true,
+      "captures": 905,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S048",
+      "case": "b066_s048",
+      "expected_terminator": "0x430ac7",
+      "observed_terminators": [
+        "0x430ac7"
+      ],
+      "native_read_complete": true,
+      "captures": 1179,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s048_00.png",
+        "b066_s048_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S049",
+      "case": "b066_s049",
+      "expected_terminator": "0x430aee",
+      "observed_terminators": [
+        "0x430aee"
+      ],
+      "native_read_complete": true,
+      "captures": 372,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S050",
+      "case": "b066_s050",
+      "expected_terminator": "0x430b22",
+      "observed_terminators": [
+        "0x430b22"
+      ],
+      "native_read_complete": true,
+      "captures": 520,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S051",
+      "case": "b066_s051",
+      "expected_terminator": "0x430b50",
+      "observed_terminators": [
+        "0x430b50"
+      ],
+      "native_read_complete": true,
+      "captures": 419,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S052",
+      "case": "b066_s052",
+      "expected_terminator": "0x430c23",
+      "observed_terminators": [
+        "0x430c23"
+      ],
+      "native_read_complete": true,
+      "captures": 1927,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s052_00.png",
+        "b066_s052_01.png",
+        "b066_s052_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S053",
+      "case": "b066_s053",
+      "expected_terminator": "0x430d00",
+      "observed_terminators": [
+        "0x430d00"
+      ],
+      "native_read_complete": true,
+      "captures": 2023,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s053_00.png",
+        "b066_s053_01.png",
+        "b066_s053_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S054",
+      "case": "b066_s054",
+      "expected_terminator": "0x430d37",
+      "observed_terminators": [
+        "0x430d37"
+      ],
+      "native_read_complete": true,
+      "captures": 503,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S055",
+      "case": "b066_s055",
+      "expected_terminator": "0x430d7c",
+      "observed_terminators": [
+        "0x430d7c"
+      ],
+      "native_read_complete": true,
+      "captures": 613,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S056",
+      "case": "b066_s056",
+      "expected_terminator": "0x430eea",
+      "observed_terminators": [
+        "0x430eea"
+      ],
+      "native_read_complete": true,
+      "captures": 2138,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s056_00.png",
+        "b066_s056_01.png",
+        "b066_s056_02.png",
+        "b066_s056_03.png",
+        "b066_s056_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S057",
+      "case": "b066_s057",
+      "expected_terminator": "0x430f6f",
+      "observed_terminators": [
+        "0x430f6f"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s057_00.png",
+        "b066_s057_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S058",
+      "case": "b066_s058",
+      "expected_terminator": "0x430fb8",
+      "observed_terminators": [
+        "0x430fb8"
+      ],
+      "native_read_complete": true,
+      "captures": 652,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S059",
+      "case": "b066_s059",
+      "expected_terminator": "0x4310a4",
+      "observed_terminators": [
+        "0x4310a4"
+      ],
+      "native_read_complete": true,
+      "captures": 2087,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s059_00.png",
+        "b066_s059_01.png",
+        "b066_s059_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S060",
+      "case": "b066_s060",
+      "expected_terminator": "0x431126",
+      "observed_terminators": [
+        "0x431126"
+      ],
+      "native_read_complete": true,
+      "captures": 928,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S061",
+      "case": "b066_s061",
+      "expected_terminator": "0x4311d3",
+      "observed_terminators": [
+        "0x4311d3"
+      ],
+      "native_read_complete": true,
+      "captures": 1904,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s061_00.png",
+        "b066_s061_01.png",
+        "b066_s061_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S062",
+      "case": "b066_s062",
+      "expected_terminator": "0x431204",
+      "observed_terminators": [
+        "0x431204"
+      ],
+      "native_read_complete": true,
+      "captures": 416,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s062_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S063",
+      "case": "b066_s063",
+      "expected_terminator": "0x431290",
+      "observed_terminators": [
+        "0x431290"
+      ],
+      "native_read_complete": true,
+      "captures": 1424,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s063_00.png",
+        "b066_s063_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S064",
+      "case": "b066_s064",
+      "expected_terminator": "0x431321",
+      "observed_terminators": [
+        "0x431321"
+      ],
+      "native_read_complete": true,
+      "captures": 1449,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s064_00.png",
+        "b066_s064_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S065",
+      "case": "b066_s065",
+      "expected_terminator": "0x43139a",
+      "observed_terminators": [
+        "0x43139a"
+      ],
+      "native_read_complete": true,
+      "captures": 921,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S066",
+      "case": "b066_s066",
+      "expected_terminator": "0x43144d",
+      "observed_terminators": [
+        "0x43144d"
+      ],
+      "native_read_complete": true,
+      "captures": 1891,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s066_00.png",
+        "b066_s066_01.png",
+        "b066_s066_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S068",
+      "case": "b066_s068",
+      "expected_terminator": "0x431519",
+      "observed_terminators": [
+        "0x431519"
+      ],
+      "native_read_complete": true,
+      "captures": 1960,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s068_00.png",
+        "b066_s068_01.png",
+        "b066_s068_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S069",
+      "case": "b066_s069",
+      "expected_terminator": "0x431577",
+      "observed_terminators": [
+        "0x431577"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S070",
+      "case": "b066_s070",
+      "expected_terminator": "0x4315b5",
+      "observed_terminators": [
+        "0x4315b5"
+      ],
+      "native_read_complete": true,
+      "captures": 536,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S071",
+      "case": "b066_s071",
+      "expected_terminator": "0x431607",
+      "observed_terminators": [
+        "0x431607"
+      ],
+      "native_read_complete": true,
+      "captures": 747,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s071_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S072",
+      "case": "b066_s072",
+      "expected_terminator": "0x431658",
+      "observed_terminators": [
+        "0x431658"
+      ],
+      "native_read_complete": true,
+      "captures": 740,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s072_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S073",
+      "case": "b066_s073",
+      "expected_terminator": "0x431797",
+      "observed_terminators": [
+        "0x431797"
+      ],
+      "native_read_complete": true,
+      "captures": 2047,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s073_00.png",
+        "b066_s073_01.png",
+        "b066_s073_02.png",
+        "b066_s073_03.png",
+        "b066_s073_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S074",
+      "case": "b066_s074",
+      "expected_terminator": "0x43197c",
+      "observed_terminators": [
+        "0x43197c"
+      ],
+      "native_read_complete": true,
+      "captures": 2245,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s074_00.png",
+        "b066_s074_01.png",
+        "b066_s074_02.png",
+        "b066_s074_03.png",
+        "b066_s074_04.png",
+        "b066_s074_05.png",
+        "b066_s074_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S075",
+      "case": "b066_s075",
+      "expected_terminator": "0x431b22",
+      "observed_terminators": [
+        "0x431b22"
+      ],
+      "native_read_complete": true,
+      "captures": 1098,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s075_00.png",
+        "b066_s075_01.png",
+        "b066_s075_02.png",
+        "b066_s075_03.png",
+        "b066_s075_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S076",
+      "case": "b066_s076",
+      "expected_terminator": "0x431b58",
+      "observed_terminators": [
+        "0x431b58"
+      ],
+      "native_read_complete": true,
+      "captures": 483,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S077",
+      "case": "b066_s077",
+      "expected_terminator": "0x431b98",
+      "observed_terminators": [
+        "0x431b98"
+      ],
+      "native_read_complete": true,
+      "captures": 555,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S078",
+      "case": "b066_s078",
+      "expected_terminator": "0x431c6a",
+      "observed_terminators": [
+        "0x431c6a"
+      ],
+      "native_read_complete": true,
+      "captures": 1950,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s078_00.png",
+        "b066_s078_01.png",
+        "b066_s078_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S079",
+      "case": "b066_s079",
+      "expected_terminator": "0x431c8b",
+      "observed_terminators": [
+        "0x431c8b"
+      ],
+      "native_read_complete": true,
+      "captures": 292,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S080",
+      "case": "b066_s080",
+      "expected_terminator": "0x431cc2",
+      "observed_terminators": [
+        "0x431cc2"
+      ],
+      "native_read_complete": true,
+      "captures": 491,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S081",
+      "case": "b066_s081",
+      "expected_terminator": "0x431cfb",
+      "observed_terminators": [
+        "0x431cfb"
+      ],
+      "native_read_complete": true,
+      "captures": 534,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S082",
+      "case": "b066_s082",
+      "expected_terminator": "0x431d2a",
+      "observed_terminators": [
+        "0x431d2a"
+      ],
+      "native_read_complete": true,
+      "captures": 491,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S083",
+      "case": "b066_s083",
+      "expected_terminator": "0x431e6c",
+      "observed_terminators": [
+        "0x431e6c"
+      ],
+      "native_read_complete": true,
+      "captures": 2096,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s083_00.png",
+        "b066_s083_01.png",
+        "b066_s083_02.png",
+        "b066_s083_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S084",
+      "case": "b066_s084",
+      "expected_terminator": "0x431eb7",
+      "observed_terminators": [
+        "0x431eb7"
+      ],
+      "native_read_complete": true,
+      "captures": 666,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s084_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S085",
+      "case": "b066_s085",
+      "expected_terminator": "0x431f3c",
+      "observed_terminators": [
+        "0x431f3c"
+      ],
+      "native_read_complete": true,
+      "captures": 960,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s085_00.png",
+        "b066_s085_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S086",
+      "case": "b066_s086",
+      "expected_terminator": "0x431f73",
+      "observed_terminators": [
+        "0x431f73"
+      ],
+      "native_read_complete": true,
+      "captures": 485,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s086_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S087",
+      "case": "b066_s087",
+      "expected_terminator": "0x431ffb",
+      "observed_terminators": [
+        "0x431ffb"
+      ],
+      "native_read_complete": true,
+      "captures": 927,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s087_00.png",
+        "b066_s087_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S088",
+      "case": "b066_s088",
+      "expected_terminator": "0x43203f",
+      "observed_terminators": [
+        "0x43203f"
+      ],
+      "native_read_complete": true,
+      "captures": 589,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s088_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S089",
+      "case": "b066_s089",
+      "expected_terminator": "0x43215e",
+      "observed_terminators": [
+        "0x43215e"
+      ],
+      "native_read_complete": true,
+      "captures": 1526,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s089_00.png",
+        "b066_s089_01.png",
+        "b066_s089_02.png",
+        "b066_s089_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S090",
+      "case": "b066_s090",
+      "expected_terminator": "0x432195",
+      "observed_terminators": [
+        "0x432195"
+      ],
+      "native_read_complete": true,
+      "captures": 473,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S091",
+      "case": "b066_s091",
+      "expected_terminator": "0x4321aa",
+      "observed_terminators": [
+        "0x4321aa"
+      ],
+      "native_read_complete": true,
+      "captures": 184,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s091_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S092",
+      "case": "b066_s092",
+      "expected_terminator": "0x4321dc",
+      "observed_terminators": [
+        "0x4321dc"
+      ],
+      "native_read_complete": true,
+      "captures": 475,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S093",
+      "case": "b066_s093",
+      "expected_terminator": "0x4322fc",
+      "observed_terminators": [
+        "0x4322fc"
+      ],
+      "native_read_complete": true,
+      "captures": 1529,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s093_00.png",
+        "b066_s093_01.png",
+        "b066_s093_02.png",
+        "b066_s093_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S094",
+      "case": "b066_s094",
+      "expected_terminator": "0x43236a",
+      "observed_terminators": [
+        "0x43236a"
+      ],
+      "native_read_complete": true,
+      "captures": 1023,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s094_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S095",
+      "case": "b066_s095",
+      "expected_terminator": "0x4323de",
+      "observed_terminators": [
+        "0x4323de"
+      ],
+      "native_read_complete": true,
+      "captures": 989,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s095_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S096",
+      "case": "b066_s096",
+      "expected_terminator": "0x43247c",
+      "observed_terminators": [
+        "0x43247c"
+      ],
+      "native_read_complete": true,
+      "captures": 1164,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s096_00.png",
+        "b066_s096_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S097",
+      "case": "b066_s097",
+      "expected_terminator": "0x4324d7",
+      "observed_terminators": [
+        "0x4324d7"
+      ],
+      "native_read_complete": true,
+      "captures": 819,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s097_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S098",
+      "case": "b066_s098",
+      "expected_terminator": "0x43250f",
+      "observed_terminators": [
+        "0x43250f"
+      ],
+      "native_read_complete": true,
+      "captures": 522,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s098_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S099",
+      "case": "b066_s099",
+      "expected_terminator": "0x432547",
+      "observed_terminators": [
+        "0x432547"
+      ],
+      "native_read_complete": true,
+      "captures": 523,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S100",
+      "case": "b066_s100",
+      "expected_terminator": "0x43255d",
+      "observed_terminators": [
+        "0x43255d"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S101",
+      "case": "b066_s101",
+      "expected_terminator": "0x4326e2",
+      "observed_terminators": [
+        "0x4326e2"
+      ],
+      "native_read_complete": true,
+      "captures": 2710,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s101_00.png",
+        "b066_s101_01.png",
+        "b066_s101_02.png",
+        "b066_s101_03.png",
+        "b066_s101_04.png",
+        "b066_s101_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S102",
+      "case": "b066_s102",
+      "expected_terminator": "0x43276f",
+      "observed_terminators": [
+        "0x43276f"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s102_00.png",
+        "b066_s102_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S103",
+      "case": "b066_s103",
+      "expected_terminator": "0x432792",
+      "observed_terminators": [
+        "0x432792"
+      ],
+      "native_read_complete": true,
+      "captures": 308,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S104",
+      "case": "b066_s104",
+      "expected_terminator": "0x4327d1",
+      "observed_terminators": [
+        "0x4327d1"
+      ],
+      "native_read_complete": true,
+      "captures": 544,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S105",
+      "case": "b066_s105",
+      "expected_terminator": "0x432854",
+      "observed_terminators": [
+        "0x432854"
+      ],
+      "native_read_complete": true,
+      "captures": 942,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s105_00.png",
+        "b066_s105_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S106",
+      "case": "b066_s106",
+      "expected_terminator": "0x432877",
+      "observed_terminators": [
+        "0x432877"
+      ],
+      "native_read_complete": true,
+      "captures": 308,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S107",
+      "case": "b066_s107",
+      "expected_terminator": "0x4328b7",
+      "observed_terminators": [
+        "0x4328b7"
+      ],
+      "native_read_complete": true,
+      "captures": 552,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s107_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S108",
+      "case": "b066_s108",
+      "expected_terminator": "0x4328cf",
+      "observed_terminators": [
+        "0x4328cf"
+      ],
+      "native_read_complete": true,
+      "captures": 209,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S109",
+      "case": "b066_s109",
+      "expected_terminator": "0x43290e",
+      "observed_terminators": [
+        "0x43290e"
+      ],
+      "native_read_complete": true,
+      "captures": 593,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S110",
+      "case": "b066_s110",
+      "expected_terminator": "0x4329d8",
+      "observed_terminators": [
+        "0x4329d8"
+      ],
+      "native_read_complete": true,
+      "captures": 1976,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s110_00.png",
+        "b066_s110_01.png",
+        "b066_s110_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S112",
+      "case": "b066_s112",
+      "expected_terminator": "0x432b38",
+      "observed_terminators": [
+        "0x432b38"
+      ],
+      "native_read_complete": true,
+      "captures": 669,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S113",
+      "case": "b066_s113",
+      "expected_terminator": "0x432be2",
+      "observed_terminators": [
+        "0x432be2"
+      ],
+      "native_read_complete": true,
+      "captures": 2050,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s113_00.png",
+        "b066_s113_01.png",
+        "b066_s113_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S114",
+      "case": "b066_s114",
+      "expected_terminator": "0x432c72",
+      "observed_terminators": [
+        "0x432c72"
+      ],
+      "native_read_complete": true,
+      "captures": 913,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s114_00.png",
+        "b066_s114_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S115",
+      "case": "b066_s115",
+      "expected_terminator": "0x432ca5",
+      "observed_terminators": [
+        "0x432ca5"
+      ],
+      "native_read_complete": true,
+      "captures": 482,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s115_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S116",
+      "case": "b066_s116",
+      "expected_terminator": "0x432cee",
+      "observed_terminators": [
+        "0x432cee"
+      ],
+      "native_read_complete": true,
+      "captures": 681,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s116_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S117",
+      "case": "b066_s117",
+      "expected_terminator": "0x432d64",
+      "observed_terminators": [
+        "0x432d64"
+      ],
+      "native_read_complete": true,
+      "captures": 1404,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s117_00.png",
+        "b066_s117_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S118",
+      "case": "b066_s118",
+      "expected_terminator": "0x432dbd",
+      "observed_terminators": [
+        "0x432dbd"
+      ],
+      "native_read_complete": true,
+      "captures": 793,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S120",
+      "case": "b066_s120",
+      "expected_terminator": "0x432fe8",
+      "observed_terminators": [
+        "0x432fe8"
+      ],
+      "native_read_complete": true,
+      "captures": 2234,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s120_00.png",
+        "b066_s120_01.png",
+        "b066_s120_02.png",
+        "b066_s120_03.png",
+        "b066_s120_04.png",
+        "b066_s120_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S121",
+      "case": "b066_s121",
+      "expected_terminator": "0x43313e",
+      "observed_terminators": [
+        "0x43313e"
+      ],
+      "native_read_complete": true,
+      "captures": 2203,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s121_00.png",
+        "b066_s121_01.png",
+        "b066_s121_02.png",
+        "b066_s121_03.png",
+        "b066_s121_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S122",
+      "case": "b066_s122",
+      "expected_terminator": "0x4331a0",
+      "observed_terminators": [
+        "0x4331a0"
+      ],
+      "native_read_complete": true,
+      "captures": 909,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s122_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S123",
+      "case": "b066_s123",
+      "expected_terminator": "0x4331d7",
+      "observed_terminators": [
+        "0x4331d7"
+      ],
+      "native_read_complete": true,
+      "captures": 505,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s123_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S124",
+      "case": "b066_s124",
+      "expected_terminator": "0x4332b3",
+      "observed_terminators": [
+        "0x4332b3"
+      ],
+      "native_read_complete": true,
+      "captures": 1953,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s124_00.png",
+        "b066_s124_01.png",
+        "b066_s124_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S125",
+      "case": "b066_s125",
+      "expected_terminator": "0x433322",
+      "observed_terminators": [
+        "0x433322"
+      ],
+      "native_read_complete": true,
+      "captures": 924,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s125_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S126",
+      "case": "b066_s126",
+      "expected_terminator": "0x4333e3",
+      "observed_terminators": [
+        "0x4333e3"
+      ],
+      "native_read_complete": true,
+      "captures": 979,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s126_00.png",
+        "b066_s126_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S128",
+      "case": "b066_s128",
+      "expected_terminator": "0x4335c0",
+      "observed_terminators": [
+        "0x4335c0"
+      ],
+      "native_read_complete": true,
+      "captures": 980,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s128_00.png",
+        "b066_s128_01.png",
+        "b066_s128_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S129",
+      "case": "b066_s129",
+      "expected_terminator": "0x433619",
+      "observed_terminators": [
+        "0x433619"
+      ],
+      "native_read_complete": true,
+      "captures": 885,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s129_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S130",
+      "case": "b066_s130",
+      "expected_terminator": "0x4336de",
+      "observed_terminators": [
+        "0x4336de"
+      ],
+      "native_read_complete": true,
+      "captures": 1989,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s130_00.png",
+        "b066_s130_01.png",
+        "b066_s130_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S131",
+      "case": "b066_s131",
+      "expected_terminator": "0x433784",
+      "observed_terminators": [
+        "0x433784"
+      ],
+      "native_read_complete": true,
+      "captures": 1890,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s131_00.png",
+        "b066_s131_01.png",
+        "b066_s131_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S132",
+      "case": "b066_s132",
+      "expected_terminator": "0x433834",
+      "observed_terminators": [
+        "0x433834"
+      ],
+      "native_read_complete": true,
+      "captures": 975,
+      "visual_review": "reviewed: glyphs, hearts and text bounds inspected; partial typewriter snapshots retained",
+      "review_images": [
+        "b066_s132_00.png",
+        "b066_s132_01.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 254,
+  "visual_review": {
+    "status": "passed",
+    "reviewed_dialogue_captures": 254,
+    "system_captures": 5,
+    "method": "All eight contact sheets and five full system captures inspected on corrected48 ROM.",
+    "observation": "Four empty final pages removed by trimming seven trailing-newline entries; internal paragraphs and command order preserved. Partial typewriter and repeated pause snapshots remain; some page endings contain few words. No missing accented glyph or out-of-window text found."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "version": "V48",
+  "source_bytes_preserved": true,
+  "entries": [
+    {
+      "block": 66,
+      "strings": [
+        6,
+        7,
+        8,
+        9,
+        35,
+        36,
+        37,
+        40,
+        119
+      ],
+      "reason": "Article, gift and purchase selectors; preserve original layout pending interaction tests."
+    },
+    {
+      "block": 66,
+      "strings": [
+        10,
+        32,
+        33,
+        67
+      ],
+      "reason": "Empty, control-only or punctuation-only entries."
+    },
+    {
+      "block": 66,
+      "strings": [
+        111
+      ],
+      "reason": "Dynamic minute count (04); layout and timing validation pending."
+    },
+    {
+      "block": 66,
+      "strings": [
+        127
+      ],
+      "reason": "Unmapped marker 2A; retain source pending glyph analysis."
+    }
+  ],
+  "previous_deferred": "All previous entries retained; see deferred_texts_v48.json and deferred_reasons_v47.json."
+}

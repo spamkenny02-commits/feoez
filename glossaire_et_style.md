@@ -731,3 +731,20 @@ aux traditions, sans masquer leurs réticences envers Higan.
   sans les présenter comme une validation des événements réels.
 - B132-S059/S122 : diagnostics différés ; S095/S096/S126 : choix à disposition
   particulière ; S099 : fragment x5 conservé pour analyse dédiée.
+
+## V48 — Pays de l'Ours de Feu, Akina et presse locale
+
+- Bearly Bugle : Clairon de l'Ours ; son ton de propagande et ses rumeurs
+  restent les propos des rédacteurs, pas des faits confirmés par la traduction.
+- Akina, Naomi, Eri, Shizuka, Miki : noms conservés. Chambres harmonisées.
+- Apricot doll / mechanical doll / music box : poupée en abricotier /
+  poupée mécanique / boîte à musique. « Poupée fantôme » : surnom de collectionneurs.
+- Kusa dango : 30 ryo, acheté sur place ; le client économise 40 ryo ;
+  Eri demande 10 ryo puis encore 10. Nuit et article : 10 ryo.
+- Remèdes provisoires : antidote, pilule Souple, myosotis, maillet en bois,
+  pilule de wasabi, pilule solaire, pilule relaxante. À harmoniser avec les menus.
+- B066-S006–S009/S035–S037/S040/S119 : sélecteurs ; S010/S032/S033/S067 :
+  vide, commandes ou ponctuation seule ; S111 : minutes dynamiques (04) ;
+  S127 : marqueur 2A non identifié. Octets source conservés.
+
+- V48 : sauts de ligne finaux superflus retirés dans B066-S013/S014/S015/S016/S034/S077/S097 après repérage de pages vides ; commandes et paragraphes internes conservés.

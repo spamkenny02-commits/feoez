@@ -1,11 +1,11 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "b121123906aaa00d9a15412dfaa3dc44a8902ea42ff98622458187a55e63b879",
-  "translated_entries": 3970,
-  "new_entries": 142,
-  "previously_integrated": 3828,
-  "new_nonempty_texts": 142,
-  "new_changed_entries": 142,
+  "output_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+  "translated_entries": 4087,
+  "new_entries": 117,
+  "previously_integrated": 3970,
+  "new_nonempty_texts": 117,
+  "new_changed_entries": 117,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -302,8 +302,41 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 3970,
+  "integrated_entries": 4087,
   "blocks": [
+    {
+      "block_ids": [
+        66
+      ],
+      "source": "0x62eb33",
+      "destination": "0x62eb33",
+      "old_size": 20153,
+      "new_size": 19714,
+      "translated": 117,
+      "storage": "in_place",
+      "old_relative_offsets": [
+        "0x0012",
+        "0x0E02",
+        "0x1941",
+        "0x2063",
+        "0x28A5",
+        "0x328B",
+        "0x3A0D",
+        "0x40D5",
+        "0x4C10"
+      ],
+      "new_relative_offsets": [
+        18,
+        3453,
+        6295,
+        8085,
+        10223,
+        12688,
+        14666,
+        16390,
+        19086
+      ]
+    },
     {
       "block_ids": [
         132
@@ -3716,7 +3749,7 @@
       ]
     }
   ],
-  "engine_checks": 4899,
+  "engine_checks": 5031,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -3727,14 +3760,31 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v47.json",
+  "runtime_validation": "see emulation_report_v48.json",
   "allocation_end": "0x6c22e0",
   "free_bytes": 56608,
-  "in_place_blocks": 143,
+  "in_place_blocks": 144,
   "relocated_blocks": 35,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
+    "66": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      32,
+      33,
+      35,
+      36,
+      37,
+      40,
+      67,
+      111,
+      119,
+      127
+    ],
     "132": [
       59,
       95,

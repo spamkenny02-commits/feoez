@@ -1,3 +1,20 @@
+# État actuel — V48
+
+Lot 42 : 117 nouveaux textes de l'Ours de Feu (bloc 66), total 4 087 entrées.
+3 970 anciennes entrées et 32 modifications initiales préservées.
+Preuves : corrected48 ; référence V47 : final47. 5 031 lectures natives,
+117 rendus ciblés, 254 captures de dialogue relues. 85 captures fixes et
+navigation identiques à V47. Progression naturelle, cadeaux et PLGS non validés.
+
+Prochaine reprise : lire HEAD et inventaires ; ne pas dupliquer lot42.
+B066 : S006–S010, S032/S033, S035–S037, S040, S067, S111, S119, S127 différés.
+L'élevage, les fêtes et les formats spéciaux gardent des lacunes.
+Dialogues/événements avant menus. Inventaire borné : 4951 entrées restantes,
+y compris menus, vides et debug ; pas un pourcentage de dialogues.
+Bloc 42 non borné exclu. Tous les différés restent préservés.
+
+## Historique
+
 # État actuel — V47
 
 Lot 41 : 142 vrais nouveaux textes du sanctuaire de la Grue (bloc 132).

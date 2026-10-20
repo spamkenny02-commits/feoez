@@ -1,0 +1,96 @@
+{
+  "version": "V48",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+  "patch_sha256": "96128c4c1661e8f23ad5bdc52eca0451ec03598e9fb2610c9a40ff2e09239bd7",
+  "dialogue_entries": 4087,
+  "baseline_entries_preserved": 3970,
+  "new_changed_entries": 117,
+  "native_reads": 5031,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v48.json",
+  "standard_runs": [
+    {
+      "run": "fr_v48_corrected48",
+      "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v48_navigation_corrected48",
+      "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v48_check_ab_corrected48",
+      "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v47_final47",
+      "rom_sha256": "b121123906aaa00d9a15412dfaa3dc44a8902ea42ff98622458187a55e63b879",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v47_navigation_final47",
+      "rom_sha256": "b121123906aaa00d9a15412dfaa3dc44a8902ea42ff98622458187a55e63b879",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "baseline_reference": "Exact V47 final47 replay retained from previous validated version.",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "targeted_dialogue_checks": 117,
+  "selected_dialogue_captures": 254,
+  "dialogue_capture_report": "scenes_v48/render_report.json",
+  "visual_review": {
+    "status": "passed",
+    "reviewed_dialogue_captures": 254,
+    "system_captures": 5,
+    "method": "All eight contact sheets and five full system captures inspected on corrected48 ROM.",
+    "observation": "Four empty final pages removed by trimming seven trailing-newline entries; internal paragraphs and command order preserved. Partial typewriter and repeated pause snapshots remain; some page endings contain few words. No missing accented glyph or out-of-window text found."
+  },
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v47_v48.json"
+  },
+  "autotests": {
+    "A": "TERMINE / TOUT OK",
+    "B_extended": "SAUV. RTC OK / SAUV. SRAM OK; TERMINE / TOUT OK"
+  },
+  "limits": [
+    "Targeted rendering does not validate natural progression, payments, gifts, choices, remedy effects, resting, Valentine events, PLGS opening or calendar.",
+    "Fifteen deferred block-66 entries and previous deferred messages byte-preserved; debug block 183 untouched.",
+    "Remedy labels remain provisional pending item/menu translation.",
+    "Detailed birth input remains V35 evidence; standard boot/A/B replayed; 32 startup edits compared with V47.",
+    "Failure conditions, all calendar boundaries, Snes9x 1.60 and physical hardware not tested.",
+    "Remaining bounded-entry inventory includes menus, empty strings and debug; excludes unbounded block 42; not a dialogue-only count."
+  ]
+}
