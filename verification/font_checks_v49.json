@@ -1,0 +1,25 @@
+{
+  "passed": 16,
+  "checks": [
+    "All 32 French accented letters and four ligatures round-trip",
+    "Combining Unicode input normalized to composed accents",
+    "No accented code collides with commands or dictionary",
+    "Each accented letter has its own byte",
+    "\u0178 preserves every Y/y body pixel",
+    "\u0178 has exactly two new dots",
+    "\u0178 uses the base advance",
+    "\u00ff preserves every Y/y body pixel",
+    "\u00ff has exactly two new dots",
+    "\u00ff uses the base advance",
+    "All 254 other glyphs and advances unchanged",
+    "No data outside two glyphs/advances changed by font builder",
+    "Layout preserves accents, punctuation and pause order",
+    "Layout uses the real advances, including wide \u0152",
+    "French exclamation/question cannot become an orphan line",
+    "Unsupported character fails instead of disappearing"
+  ],
+  "glyphs_unchanged": 254,
+  "french_accented_letters": 32,
+  "ligatures": 4,
+  "scope": "Font binary, encoding and pixel layout. Emulator evidence is separate."
+}

@@ -1,0 +1,96 @@
+{
+  "version": "V49",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "e13a8bcdee8cac7d53e33fb9092de5ec5d84d5613ef83ff5836cd70b6c2af396",
+  "patch_sha256": "8b808eaf756527b58f0fc11b14cd22a303b5872a51fd258fded0aa6708ffabbe",
+  "dialogue_entries": 4387,
+  "baseline_entries_preserved": 4087,
+  "new_changed_entries": 300,
+  "native_reads": 5446,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v49.json",
+  "standard_runs": [
+    {
+      "run": "fr_v49_final49",
+      "rom_sha256": "e13a8bcdee8cac7d53e33fb9092de5ec5d84d5613ef83ff5836cd70b6c2af396",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v49_navigation_final49",
+      "rom_sha256": "e13a8bcdee8cac7d53e33fb9092de5ec5d84d5613ef83ff5836cd70b6c2af396",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v49_check_ab_final49",
+      "rom_sha256": "e13a8bcdee8cac7d53e33fb9092de5ec5d84d5613ef83ff5836cd70b6c2af396",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v48_corrected48",
+      "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v48_navigation_corrected48",
+      "rom_sha256": "a8451782359c523bd0d37a29dd2e30006b2e9f6e9c79768e7b31c5a86148491a",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "baseline_reference": "Exact V48 corrected48 replay retained from previous validated version.",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "targeted_dialogue_checks": 300,
+  "selected_dialogue_captures": 446,
+  "dialogue_capture_report": "scenes_v49/render_report.json",
+  "visual_review": {
+    "status": "passed",
+    "dialogue_captures": 446,
+    "system_captures": 5,
+    "method": "All 13 contact sheets of final-ROM dialogue images and five full system images inspected. Native exact terminators checked separately for all 300 cases.",
+    "observation": "No missing glyphs, line overflow or wholly blank final pages observed. Some short final pages and partial/repeated typewriter images remain. Staged rendering does not validate natural event progression."
+  },
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v48_v49.json"
+  },
+  "autotests": {
+    "A": "TERMINE / TOUT OK",
+    "B_extended": "SAUV. RTC OK / SAUV. SRAM OK; TERMINE / TOUT OK"
+  },
+  "limits": [
+    "Targeted rendering does not validate natural progression, payments, rewards, contests, wish input or calendar boundaries.",
+    "Untranslated entries of blocks 31, 37, 39 and 40 and all previous deferred messages byte-preserved; debug block 183 untouched.",
+    "New item names remain provisional pending item/menu translation.",
+    "Detailed birth input remains V35 evidence; standard boot/A/B replayed; 32 startup edits compared with V48.",
+    "Snes9x 1.60 and physical hardware not tested.",
+    "Remaining bounded-entry inventory includes menus, empty strings and debug; excludes unbounded block 42; not a dialogue-only count."
+  ]
+}

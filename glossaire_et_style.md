@@ -748,3 +748,22 @@ aux traditions, sans masquer leurs réticences envers Higan.
   S127 : marqueur 2A non identifié. Octets source conservés.
 
 - V48 : sauts de ligne finaux superflus retirés dans B066-S013/S014/S015/S016/S034/S077/S097 après repérage de pages vides ; commandes et paragraphes internes conservés.
+
+## V49 — Fêtes, marchands et Pavillon des Geishas
+
+- Geisha's Lodge : Pavillon des Geishas ; Golden Castle : château d'Or ;
+  Ripple Grotto : grotte du Clapotis. « Second floor » : premier étage.
+- Fêtes du Nouvel An, du Lancer de Haricots, des Poupées, des Enfants,
+  de la Tortue, des Étoiles, de la Lune, de la Grue et du Père Noël.
+  Les dates et lieux du jeu sont conservés ; ne pas les moderniser.
+- Orihime, Hikoboshi, Mitsuko, Miyanouchi, Kobayashi : noms conservés.
+- Mochi, sakura, dango, kagami mochi, manju et Golden Week : termes conservés.
+- T. Store : nom conservé avec explication du jeu de mots anglais toy/tea.
+- Saké de vie, Lumière lunaire, Éclat d'arc-en-ciel et Liqueur miraculeuse :
+  formes déjà établies. Noms provisoires nouveaux : Talisman de bois,
+  Pilule du Seigneur céleste, Pendentif d'amour, Bouclier ourson, Armure mortier,
+  Onde de choc ; Queue de Fer reprise de l'attaque Money-King.
+- Sash : ceinture du kimono ; sash-undoing : dénouage de ceinture.
+- Prix, dates, commandes directionnelles, cinq lettres de voeu, cinq victoires
+  et dix secondes du sablier : valeurs source conservées, sans prétendre
+  valider le déroulement des événements par les rendus ciblés.

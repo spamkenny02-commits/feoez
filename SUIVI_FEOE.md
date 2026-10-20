@@ -1,3 +1,21 @@
+# État actuel — V49
+
+Lot 43 : 300 nouveaux textes, total 4 387 entrées.
+Blocs 31 (13 annonces), 37 (74), 39 (36), 40 (177) partiellement traduits.
+4 087 anciennes entrées et 32 modifications initiales préservées.
+Preuves : final49 ; référence V48 : corrected48. 5 446 lectures natives,
+300 rendus ciblés, 446 captures de dialogue relues. 85 captures fixes et
+navigation identiques à V48. Progression naturelle, concours et calendrier non validés.
+
+Prochaine reprise : lire HEAD et inventaires ; ne pas dupliquer lot43.
+Différés détaillés : deferred_reasons_v49.json et build_report.json.
+L'élevage, les fêtes et les formats spéciaux gardent des lacunes.
+Dialogues/événements avant menus. Inventaire borné : 4651 entrées restantes,
+y compris menus, vides et debug ; pas un pourcentage de dialogues.
+Bloc 42 non borné exclu. Tous les différés restent préservés.
+
+## Historique
+
 # État actuel — V48
 
 Lot 42 : 117 nouveaux textes de l'Ours de Feu (bloc 66), total 4 087 entrées.

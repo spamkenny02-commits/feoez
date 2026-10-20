@@ -1,0 +1,4663 @@
+{
+  "workers": 3,
+  "rom_sha256": "e13a8bcdee8cac7d53e33fb9092de5ec5d84d5613ef83ff5836cd70b6c2af396",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "56caea21f1c6de087959c9852f360cca438783063a3dace4ac9653f71357b7c8",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B031-S001",
+      "case": "b031_s001",
+      "expected_terminator": "0x410d83",
+      "observed_terminators": [
+        "0x410d83"
+      ],
+      "native_read_complete": true,
+      "captures": 1001,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S002",
+      "case": "b031_s002",
+      "expected_terminator": "0x410df6",
+      "observed_terminators": [
+        "0x410df6"
+      ],
+      "native_read_complete": true,
+      "captures": 927,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S003",
+      "case": "b031_s003",
+      "expected_terminator": "0x410e4d",
+      "observed_terminators": [
+        "0x410e4d"
+      ],
+      "native_read_complete": true,
+      "captures": 804,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S004",
+      "case": "b031_s004",
+      "expected_terminator": "0x410e90",
+      "observed_terminators": [
+        "0x410e90"
+      ],
+      "native_read_complete": true,
+      "captures": 624,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S005",
+      "case": "b031_s005",
+      "expected_terminator": "0x410ef0",
+      "observed_terminators": [
+        "0x410ef0"
+      ],
+      "native_read_complete": true,
+      "captures": 873,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S006",
+      "case": "b031_s006",
+      "expected_terminator": "0x410f51",
+      "observed_terminators": [
+        "0x410f51"
+      ],
+      "native_read_complete": true,
+      "captures": 898,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S007",
+      "case": "b031_s007",
+      "expected_terminator": "0x410fa8",
+      "observed_terminators": [
+        "0x410fa8"
+      ],
+      "native_read_complete": true,
+      "captures": 791,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S008",
+      "case": "b031_s008",
+      "expected_terminator": "0x410ff9",
+      "observed_terminators": [
+        "0x410ff9"
+      ],
+      "native_read_complete": true,
+      "captures": 754,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S009",
+      "case": "b031_s009",
+      "expected_terminator": "0x411074",
+      "observed_terminators": [
+        "0x411074"
+      ],
+      "native_read_complete": true,
+      "captures": 942,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S010",
+      "case": "b031_s010",
+      "expected_terminator": "0x4110f6",
+      "observed_terminators": [
+        "0x4110f6"
+      ],
+      "native_read_complete": true,
+      "captures": 963,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s010_00.png",
+        "b031_s010_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S011",
+      "case": "b031_s011",
+      "expected_terminator": "0x411158",
+      "observed_terminators": [
+        "0x411158"
+      ],
+      "native_read_complete": true,
+      "captures": 877,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S012",
+      "case": "b031_s012",
+      "expected_terminator": "0x4111c3",
+      "observed_terminators": [
+        "0x4111c3"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S013",
+      "case": "b031_s013",
+      "expected_terminator": "0x411220",
+      "observed_terminators": [
+        "0x411220"
+      ],
+      "native_read_complete": true,
+      "captures": 830,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b031_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S001",
+      "case": "b037_s001",
+      "expected_terminator": "0x412b66",
+      "observed_terminators": [
+        "0x412b66"
+      ],
+      "native_read_complete": true,
+      "captures": 571,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S006",
+      "case": "b037_s006",
+      "expected_terminator": "0x412be5",
+      "observed_terminators": [
+        "0x412be5"
+      ],
+      "native_read_complete": true,
+      "captures": 203,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S016",
+      "case": "b037_s016",
+      "expected_terminator": "0x412d12",
+      "observed_terminators": [
+        "0x412d12"
+      ],
+      "native_read_complete": true,
+      "captures": 309,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S019",
+      "case": "b037_s019",
+      "expected_terminator": "0x412d97",
+      "observed_terminators": [
+        "0x412d97"
+      ],
+      "native_read_complete": true,
+      "captures": 374,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S025",
+      "case": "b037_s025",
+      "expected_terminator": "0x412e9c",
+      "observed_terminators": [
+        "0x412e9c"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S028",
+      "case": "b037_s028",
+      "expected_terminator": "0x412f40",
+      "observed_terminators": [
+        "0x412f40"
+      ],
+      "native_read_complete": true,
+      "captures": 325,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S031",
+      "case": "b037_s031",
+      "expected_terminator": "0x413018",
+      "observed_terminators": [
+        "0x413018"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S032",
+      "case": "b037_s032",
+      "expected_terminator": "0x413090",
+      "observed_terminators": [
+        "0x413090"
+      ],
+      "native_read_complete": true,
+      "captures": 904,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s032_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S033",
+      "case": "b037_s033",
+      "expected_terminator": "0x413109",
+      "observed_terminators": [
+        "0x413109"
+      ],
+      "native_read_complete": true,
+      "captures": 925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S034",
+      "case": "b037_s034",
+      "expected_terminator": "0x41313c",
+      "observed_terminators": [
+        "0x41313c"
+      ],
+      "native_read_complete": true,
+      "captures": 496,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S035",
+      "case": "b037_s035",
+      "expected_terminator": "0x413176",
+      "observed_terminators": [
+        "0x413176"
+      ],
+      "native_read_complete": true,
+      "captures": 559,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S037",
+      "case": "b037_s037",
+      "expected_terminator": "0x4131d8",
+      "observed_terminators": [
+        "0x4131d8"
+      ],
+      "native_read_complete": true,
+      "captures": 435,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S038",
+      "case": "b037_s038",
+      "expected_terminator": "0x413207",
+      "observed_terminators": [
+        "0x413207"
+      ],
+      "native_read_complete": true,
+      "captures": 444,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s038_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S039",
+      "case": "b037_s039",
+      "expected_terminator": "0x413269",
+      "observed_terminators": [
+        "0x413269"
+      ],
+      "native_read_complete": true,
+      "captures": 890,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S040",
+      "case": "b037_s040",
+      "expected_terminator": "0x4132cb",
+      "observed_terminators": [
+        "0x4132cb"
+      ],
+      "native_read_complete": true,
+      "captures": 890,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S041",
+      "case": "b037_s041",
+      "expected_terminator": "0x413335",
+      "observed_terminators": [
+        "0x413335"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S042",
+      "case": "b037_s042",
+      "expected_terminator": "0x41339a",
+      "observed_terminators": [
+        "0x41339a"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S043",
+      "case": "b037_s043",
+      "expected_terminator": "0x4133ea",
+      "observed_terminators": [
+        "0x4133ea"
+      ],
+      "native_read_complete": true,
+      "captures": 761,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S044",
+      "case": "b037_s044",
+      "expected_terminator": "0x413430",
+      "observed_terminators": [
+        "0x413430"
+      ],
+      "native_read_complete": true,
+      "captures": 672,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S045",
+      "case": "b037_s045",
+      "expected_terminator": "0x41348d",
+      "observed_terminators": [
+        "0x41348d"
+      ],
+      "native_read_complete": true,
+      "captures": 864,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s045_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S046",
+      "case": "b037_s046",
+      "expected_terminator": "0x413513",
+      "observed_terminators": [
+        "0x413513"
+      ],
+      "native_read_complete": true,
+      "captures": 973,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s046_00.png",
+        "b037_s046_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S047",
+      "case": "b037_s047",
+      "expected_terminator": "0x4135a8",
+      "observed_terminators": [
+        "0x4135a8"
+      ],
+      "native_read_complete": true,
+      "captures": 995,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s047_00.png",
+        "b037_s047_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S048",
+      "case": "b037_s048",
+      "expected_terminator": "0x4135cd",
+      "observed_terminators": [
+        "0x4135cd"
+      ],
+      "native_read_complete": true,
+      "captures": 312,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s048_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S050",
+      "case": "b037_s050",
+      "expected_terminator": "0x41378b",
+      "observed_terminators": [
+        "0x41378b"
+      ],
+      "native_read_complete": true,
+      "captures": 654,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S052",
+      "case": "b037_s052",
+      "expected_terminator": "0x413803",
+      "observed_terminators": [
+        "0x413803"
+      ],
+      "native_read_complete": true,
+      "captures": 573,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S053",
+      "case": "b037_s053",
+      "expected_terminator": "0x413835",
+      "observed_terminators": [
+        "0x413835"
+      ],
+      "native_read_complete": true,
+      "captures": 442,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S054",
+      "case": "b037_s054",
+      "expected_terminator": "0x413880",
+      "observed_terminators": [
+        "0x413880"
+      ],
+      "native_read_complete": true,
+      "captures": 668,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S055",
+      "case": "b037_s055",
+      "expected_terminator": "0x413913",
+      "observed_terminators": [
+        "0x413913"
+      ],
+      "native_read_complete": true,
+      "captures": 1233,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s055_00.png",
+        "b037_s055_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S056",
+      "case": "b037_s056",
+      "expected_terminator": "0x413988",
+      "observed_terminators": [
+        "0x413988"
+      ],
+      "native_read_complete": true,
+      "captures": 934,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S057",
+      "case": "b037_s057",
+      "expected_terminator": "0x4139b0",
+      "observed_terminators": [
+        "0x4139b0"
+      ],
+      "native_read_complete": true,
+      "captures": 339,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S058",
+      "case": "b037_s058",
+      "expected_terminator": "0x413a49",
+      "observed_terminators": [
+        "0x413a49"
+      ],
+      "native_read_complete": true,
+      "captures": 2065,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s058_00.png",
+        "b037_s058_01.png",
+        "b037_s058_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S059",
+      "case": "b037_s059",
+      "expected_terminator": "0x413a83",
+      "observed_terminators": [
+        "0x413a83"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S060",
+      "case": "b037_s060",
+      "expected_terminator": "0x413ad9",
+      "observed_terminators": [
+        "0x413ad9"
+      ],
+      "native_read_complete": true,
+      "captures": 783,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S061",
+      "case": "b037_s061",
+      "expected_terminator": "0x413b2f",
+      "observed_terminators": [
+        "0x413b2f"
+      ],
+      "native_read_complete": true,
+      "captures": 785,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S062",
+      "case": "b037_s062",
+      "expected_terminator": "0x413bc9",
+      "observed_terminators": [
+        "0x413bc9"
+      ],
+      "native_read_complete": true,
+      "captures": 2132,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s062_00.png",
+        "b037_s062_01.png",
+        "b037_s062_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S063",
+      "case": "b037_s063",
+      "expected_terminator": "0x413c26",
+      "observed_terminators": [
+        "0x413c26"
+      ],
+      "native_read_complete": true,
+      "captures": 847,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s063_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S064",
+      "case": "b037_s064",
+      "expected_terminator": "0x413c4b",
+      "observed_terminators": [
+        "0x413c4b"
+      ],
+      "native_read_complete": true,
+      "captures": 328,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S065",
+      "case": "b037_s065",
+      "expected_terminator": "0x413cd1",
+      "observed_terminators": [
+        "0x413cd1"
+      ],
+      "native_read_complete": true,
+      "captures": 1401,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s065_00.png",
+        "b037_s065_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S066",
+      "case": "b037_s066",
+      "expected_terminator": "0x413d15",
+      "observed_terminators": [
+        "0x413d15"
+      ],
+      "native_read_complete": true,
+      "captures": 633,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S067",
+      "case": "b037_s067",
+      "expected_terminator": "0x413d5a",
+      "observed_terminators": [
+        "0x413d5a"
+      ],
+      "native_read_complete": true,
+      "captures": 658,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S068",
+      "case": "b037_s068",
+      "expected_terminator": "0x413ddd",
+      "observed_terminators": [
+        "0x413ddd"
+      ],
+      "native_read_complete": true,
+      "captures": 1008,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s068_00.png",
+        "b037_s068_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S069",
+      "case": "b037_s069",
+      "expected_terminator": "0x413e47",
+      "observed_terminators": [
+        "0x413e47"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S070",
+      "case": "b037_s070",
+      "expected_terminator": "0x413e81",
+      "observed_terminators": [
+        "0x413e81"
+      ],
+      "native_read_complete": true,
+      "captures": 531,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S071",
+      "case": "b037_s071",
+      "expected_terminator": "0x413fb5",
+      "observed_terminators": [
+        "0x413fb5"
+      ],
+      "native_read_complete": true,
+      "captures": 1443,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s071_00.png",
+        "b037_s071_01.png",
+        "b037_s071_02.png",
+        "b037_s071_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S072",
+      "case": "b037_s072",
+      "expected_terminator": "0x413fe9",
+      "observed_terminators": [
+        "0x413fe9"
+      ],
+      "native_read_complete": true,
+      "captures": 462,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s072_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S073",
+      "case": "b037_s073",
+      "expected_terminator": "0x414038",
+      "observed_terminators": [
+        "0x414038"
+      ],
+      "native_read_complete": true,
+      "captures": 723,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S074",
+      "case": "b037_s074",
+      "expected_terminator": "0x4140f0",
+      "observed_terminators": [
+        "0x4140f0"
+      ],
+      "native_read_complete": true,
+      "captures": 1878,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s074_00.png",
+        "b037_s074_01.png",
+        "b037_s074_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S075",
+      "case": "b037_s075",
+      "expected_terminator": "0x414125",
+      "observed_terminators": [
+        "0x414125"
+      ],
+      "native_read_complete": true,
+      "captures": 486,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S076",
+      "case": "b037_s076",
+      "expected_terminator": "0x414167",
+      "observed_terminators": [
+        "0x414167"
+      ],
+      "native_read_complete": true,
+      "captures": 620,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S077",
+      "case": "b037_s077",
+      "expected_terminator": "0x414218",
+      "observed_terminators": [
+        "0x414218"
+      ],
+      "native_read_complete": true,
+      "captures": 1031,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s077_00.png",
+        "b037_s077_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S078",
+      "case": "b037_s078",
+      "expected_terminator": "0x414279",
+      "observed_terminators": [
+        "0x414279"
+      ],
+      "native_read_complete": true,
+      "captures": 883,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S079",
+      "case": "b037_s079",
+      "expected_terminator": "0x4142c0",
+      "observed_terminators": [
+        "0x4142c0"
+      ],
+      "native_read_complete": true,
+      "captures": 634,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S080",
+      "case": "b037_s080",
+      "expected_terminator": "0x4142f9",
+      "observed_terminators": [
+        "0x4142f9"
+      ],
+      "native_read_complete": true,
+      "captures": 557,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S081",
+      "case": "b037_s081",
+      "expected_terminator": "0x41431a",
+      "observed_terminators": [
+        "0x41431a"
+      ],
+      "native_read_complete": true,
+      "captures": 301,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S082",
+      "case": "b037_s082",
+      "expected_terminator": "0x414345",
+      "observed_terminators": [
+        "0x414345"
+      ],
+      "native_read_complete": true,
+      "captures": 407,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S083",
+      "case": "b037_s083",
+      "expected_terminator": "0x414378",
+      "observed_terminators": [
+        "0x414378"
+      ],
+      "native_read_complete": true,
+      "captures": 495,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S084",
+      "case": "b037_s084",
+      "expected_terminator": "0x41438e",
+      "observed_terminators": [
+        "0x41438e"
+      ],
+      "native_read_complete": true,
+      "captures": 220,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s084_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S085",
+      "case": "b037_s085",
+      "expected_terminator": "0x4143b7",
+      "observed_terminators": [
+        "0x4143b7"
+      ],
+      "native_read_complete": true,
+      "captures": 407,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s085_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S086",
+      "case": "b037_s086",
+      "expected_terminator": "0x41446d",
+      "observed_terminators": [
+        "0x41446d"
+      ],
+      "native_read_complete": true,
+      "captures": 975,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s086_00.png",
+        "b037_s086_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S087",
+      "case": "b037_s087",
+      "expected_terminator": "0x4144c2",
+      "observed_terminators": [
+        "0x4144c2"
+      ],
+      "native_read_complete": true,
+      "captures": 773,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S088",
+      "case": "b037_s088",
+      "expected_terminator": "0x41450a",
+      "observed_terminators": [
+        "0x41450a"
+      ],
+      "native_read_complete": true,
+      "captures": 656,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s088_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S089",
+      "case": "b037_s089",
+      "expected_terminator": "0x414599",
+      "observed_terminators": [
+        "0x414599"
+      ],
+      "native_read_complete": true,
+      "captures": 965,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s089_00.png",
+        "b037_s089_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S090",
+      "case": "b037_s090",
+      "expected_terminator": "0x4145f0",
+      "observed_terminators": [
+        "0x4145f0"
+      ],
+      "native_read_complete": true,
+      "captures": 826,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S091",
+      "case": "b037_s091",
+      "expected_terminator": "0x41462e",
+      "observed_terminators": [
+        "0x41462e"
+      ],
+      "native_read_complete": true,
+      "captures": 567,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s091_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S092",
+      "case": "b037_s092",
+      "expected_terminator": "0x4146cf",
+      "observed_terminators": [
+        "0x4146cf"
+      ],
+      "native_read_complete": true,
+      "captures": 1977,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s092_00.png",
+        "b037_s092_01.png",
+        "b037_s092_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S094",
+      "case": "b037_s094",
+      "expected_terminator": "0x41475f",
+      "observed_terminators": [
+        "0x41475f"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s094_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S095",
+      "case": "b037_s095",
+      "expected_terminator": "0x4147fe",
+      "observed_terminators": [
+        "0x4147fe"
+      ],
+      "native_read_complete": true,
+      "captures": 965,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s095_00.png",
+        "b037_s095_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S096",
+      "case": "b037_s096",
+      "expected_terminator": "0x41488c",
+      "observed_terminators": [
+        "0x41488c"
+      ],
+      "native_read_complete": true,
+      "captures": 943,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s096_00.png",
+        "b037_s096_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S097",
+      "case": "b037_s097",
+      "expected_terminator": "0x4148bc",
+      "observed_terminators": [
+        "0x4148bc"
+      ],
+      "native_read_complete": true,
+      "captures": 437,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s097_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S098",
+      "case": "b037_s098",
+      "expected_terminator": "0x4148db",
+      "observed_terminators": [
+        "0x4148db"
+      ],
+      "native_read_complete": true,
+      "captures": 315,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s098_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S099",
+      "case": "b037_s099",
+      "expected_terminator": "0x41490b",
+      "observed_terminators": [
+        "0x41490b"
+      ],
+      "native_read_complete": true,
+      "captures": 484,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S101",
+      "case": "b037_s101",
+      "expected_terminator": "0x4149be",
+      "observed_terminators": [
+        "0x4149be"
+      ],
+      "native_read_complete": true,
+      "captures": 1458,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s101_00.png",
+        "b037_s101_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S102",
+      "case": "b037_s102",
+      "expected_terminator": "0x4149f9",
+      "observed_terminators": [
+        "0x4149f9"
+      ],
+      "native_read_complete": true,
+      "captures": 552,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s102_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S103",
+      "case": "b037_s103",
+      "expected_terminator": "0x414a39",
+      "observed_terminators": [
+        "0x414a39"
+      ],
+      "native_read_complete": true,
+      "captures": 568,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b037_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S001",
+      "case": "b039_s001",
+      "expected_terminator": "0x417093",
+      "observed_terminators": [
+        "0x417093"
+      ],
+      "native_read_complete": true,
+      "captures": 1157,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s001_00.png",
+        "b039_s001_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S002",
+      "case": "b039_s002",
+      "expected_terminator": "0x4170e0",
+      "observed_terminators": [
+        "0x4170e0"
+      ],
+      "native_read_complete": true,
+      "captures": 730,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S003",
+      "case": "b039_s003",
+      "expected_terminator": "0x417134",
+      "observed_terminators": [
+        "0x417134"
+      ],
+      "native_read_complete": true,
+      "captures": 811,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S004",
+      "case": "b039_s004",
+      "expected_terminator": "0x417159",
+      "observed_terminators": [
+        "0x417159"
+      ],
+      "native_read_complete": true,
+      "captures": 371,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S005",
+      "case": "b039_s005",
+      "expected_terminator": "0x41716c",
+      "observed_terminators": [
+        "0x41716c"
+      ],
+      "native_read_complete": true,
+      "captures": 176,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S006",
+      "case": "b039_s006",
+      "expected_terminator": "0x417180",
+      "observed_terminators": [
+        "0x417180"
+      ],
+      "native_read_complete": true,
+      "captures": 185,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S007",
+      "case": "b039_s007",
+      "expected_terminator": "0x4171a1",
+      "observed_terminators": [
+        "0x4171a1"
+      ],
+      "native_read_complete": true,
+      "captures": 318,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S008",
+      "case": "b039_s008",
+      "expected_terminator": "0x41723a",
+      "observed_terminators": [
+        "0x41723a"
+      ],
+      "native_read_complete": true,
+      "captures": 2139,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s008_00.png",
+        "b039_s008_01.png",
+        "b039_s008_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S009",
+      "case": "b039_s009",
+      "expected_terminator": "0x417280",
+      "observed_terminators": [
+        "0x417280"
+      ],
+      "native_read_complete": true,
+      "captures": 638,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S010",
+      "case": "b039_s010",
+      "expected_terminator": "0x4172da",
+      "observed_terminators": [
+        "0x4172da"
+      ],
+      "native_read_complete": true,
+      "captures": 820,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S011",
+      "case": "b039_s011",
+      "expected_terminator": "0x417330",
+      "observed_terminators": [
+        "0x417330"
+      ],
+      "native_read_complete": true,
+      "captures": 800,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S014",
+      "case": "b039_s014",
+      "expected_terminator": "0x4174ea",
+      "observed_terminators": [
+        "0x4174ea"
+      ],
+      "native_read_complete": true,
+      "captures": 253,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S015",
+      "case": "b039_s015",
+      "expected_terminator": "0x4174fe",
+      "observed_terminators": [
+        "0x4174fe"
+      ],
+      "native_read_complete": true,
+      "captures": 174,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S016",
+      "case": "b039_s016",
+      "expected_terminator": "0x417539",
+      "observed_terminators": [
+        "0x417539"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S017",
+      "case": "b039_s017",
+      "expected_terminator": "0x417592",
+      "observed_terminators": [
+        "0x417592"
+      ],
+      "native_read_complete": true,
+      "captures": 853,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S018",
+      "case": "b039_s018",
+      "expected_terminator": "0x4175a1",
+      "observed_terminators": [
+        "0x4175a1"
+      ],
+      "native_read_complete": true,
+      "captures": 139,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S019",
+      "case": "b039_s019",
+      "expected_terminator": "0x4175f4",
+      "observed_terminators": [
+        "0x4175f4"
+      ],
+      "native_read_complete": true,
+      "captures": 799,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S020",
+      "case": "b039_s020",
+      "expected_terminator": "0x417636",
+      "observed_terminators": [
+        "0x417636"
+      ],
+      "native_read_complete": true,
+      "captures": 615,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S021",
+      "case": "b039_s021",
+      "expected_terminator": "0x417690",
+      "observed_terminators": [
+        "0x417690"
+      ],
+      "native_read_complete": true,
+      "captures": 863,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S023",
+      "case": "b039_s023",
+      "expected_terminator": "0x4177a8",
+      "observed_terminators": [
+        "0x4177a8"
+      ],
+      "native_read_complete": true,
+      "captures": 2148,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s023_00.png",
+        "b039_s023_01.png",
+        "b039_s023_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S026",
+      "case": "b039_s026",
+      "expected_terminator": "0x417a46",
+      "observed_terminators": [
+        "0x417a46"
+      ],
+      "native_read_complete": true,
+      "captures": 647,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S027",
+      "case": "b039_s027",
+      "expected_terminator": "0x417a83",
+      "observed_terminators": [
+        "0x417a83"
+      ],
+      "native_read_complete": true,
+      "captures": 577,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S028",
+      "case": "b039_s028",
+      "expected_terminator": "0x417b22",
+      "observed_terminators": [
+        "0x417b22"
+      ],
+      "native_read_complete": true,
+      "captures": 1932,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s028_00.png",
+        "b039_s028_01.png",
+        "b039_s028_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S031",
+      "case": "b039_s031",
+      "expected_terminator": "0x417ecc",
+      "observed_terminators": [
+        "0x417ecc"
+      ],
+      "native_read_complete": true,
+      "captures": 648,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S032",
+      "case": "b039_s032",
+      "expected_terminator": "0x417f09",
+      "observed_terminators": [
+        "0x417f09"
+      ],
+      "native_read_complete": true,
+      "captures": 578,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s032_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S033",
+      "case": "b039_s033",
+      "expected_terminator": "0x417fb7",
+      "observed_terminators": [
+        "0x417fb7"
+      ],
+      "native_read_complete": true,
+      "captures": 1940,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s033_00.png",
+        "b039_s033_01.png",
+        "b039_s033_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S036",
+      "case": "b039_s036",
+      "expected_terminator": "0x418238",
+      "observed_terminators": [
+        "0x418238"
+      ],
+      "native_read_complete": true,
+      "captures": 646,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S037",
+      "case": "b039_s037",
+      "expected_terminator": "0x418275",
+      "observed_terminators": [
+        "0x418275"
+      ],
+      "native_read_complete": true,
+      "captures": 575,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S038",
+      "case": "b039_s038",
+      "expected_terminator": "0x418337",
+      "observed_terminators": [
+        "0x418337"
+      ],
+      "native_read_complete": true,
+      "captures": 2041,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s038_00.png",
+        "b039_s038_01.png",
+        "b039_s038_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S041",
+      "case": "b039_s041",
+      "expected_terminator": "0x41853b",
+      "observed_terminators": [
+        "0x41853b"
+      ],
+      "native_read_complete": true,
+      "captures": 648,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S042",
+      "case": "b039_s042",
+      "expected_terminator": "0x418578",
+      "observed_terminators": [
+        "0x418578"
+      ],
+      "native_read_complete": true,
+      "captures": 576,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S047",
+      "case": "b039_s047",
+      "expected_terminator": "0x418739",
+      "observed_terminators": [
+        "0x418739"
+      ],
+      "native_read_complete": true,
+      "captures": 322,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S050",
+      "case": "b039_s050",
+      "expected_terminator": "0x4187f8",
+      "observed_terminators": [
+        "0x4187f8"
+      ],
+      "native_read_complete": true,
+      "captures": 549,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S052",
+      "case": "b039_s052",
+      "expected_terminator": "0x41890b",
+      "observed_terminators": [
+        "0x41890b"
+      ],
+      "native_read_complete": true,
+      "captures": 1810,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s052_00.png",
+        "b039_s052_01.png",
+        "b039_s052_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S054",
+      "case": "b039_s054",
+      "expected_terminator": "0x418968",
+      "observed_terminators": [
+        "0x418968"
+      ],
+      "native_read_complete": true,
+      "captures": 377,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S055",
+      "case": "b039_s055",
+      "expected_terminator": "0x418989",
+      "observed_terminators": [
+        "0x418989"
+      ],
+      "native_read_complete": true,
+      "captures": 305,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b039_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S001",
+      "case": "b040_s001",
+      "expected_terminator": "0x418ae8",
+      "observed_terminators": [
+        "0x418ae8"
+      ],
+      "native_read_complete": true,
+      "captures": 247,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S002",
+      "case": "b040_s002",
+      "expected_terminator": "0x418b5d",
+      "observed_terminators": [
+        "0x418b5d"
+      ],
+      "native_read_complete": true,
+      "captures": 948,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S003",
+      "case": "b040_s003",
+      "expected_terminator": "0x418c33",
+      "observed_terminators": [
+        "0x418c33"
+      ],
+      "native_read_complete": true,
+      "captures": 944,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s003_00.png",
+        "b040_s003_01.png",
+        "b040_s003_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S004",
+      "case": "b040_s004",
+      "expected_terminator": "0x418d5a",
+      "observed_terminators": [
+        "0x418d5a"
+      ],
+      "native_read_complete": true,
+      "captures": 1024,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s004_00.png",
+        "b040_s004_01.png",
+        "b040_s004_02.png",
+        "b040_s004_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S005",
+      "case": "b040_s005",
+      "expected_terminator": "0x418d8e",
+      "observed_terminators": [
+        "0x418d8e"
+      ],
+      "native_read_complete": true,
+      "captures": 476,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S006",
+      "case": "b040_s006",
+      "expected_terminator": "0x418de3",
+      "observed_terminators": [
+        "0x418de3"
+      ],
+      "native_read_complete": true,
+      "captures": 776,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S007",
+      "case": "b040_s007",
+      "expected_terminator": "0x418e9c",
+      "observed_terminators": [
+        "0x418e9c"
+      ],
+      "native_read_complete": true,
+      "captures": 964,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s007_00.png",
+        "b040_s007_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S008",
+      "case": "b040_s008",
+      "expected_terminator": "0x418f7f",
+      "observed_terminators": [
+        "0x418f7f"
+      ],
+      "native_read_complete": true,
+      "captures": 1925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s008_00.png",
+        "b040_s008_01.png",
+        "b040_s008_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S009",
+      "case": "b040_s009",
+      "expected_terminator": "0x418ff1",
+      "observed_terminators": [
+        "0x418ff1"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S010",
+      "case": "b040_s010",
+      "expected_terminator": "0x419045",
+      "observed_terminators": [
+        "0x419045"
+      ],
+      "native_read_complete": true,
+      "captures": 830,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S011",
+      "case": "b040_s011",
+      "expected_terminator": "0x419105",
+      "observed_terminators": [
+        "0x419105"
+      ],
+      "native_read_complete": true,
+      "captures": 1861,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s011_00.png",
+        "b040_s011_01.png",
+        "b040_s011_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S012",
+      "case": "b040_s012",
+      "expected_terminator": "0x419170",
+      "observed_terminators": [
+        "0x419170"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S013",
+      "case": "b040_s013",
+      "expected_terminator": "0x4191d9",
+      "observed_terminators": [
+        "0x4191d9"
+      ],
+      "native_read_complete": true,
+      "captures": 974,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S014",
+      "case": "b040_s014",
+      "expected_terminator": "0x419208",
+      "observed_terminators": [
+        "0x419208"
+      ],
+      "native_read_complete": true,
+      "captures": 449,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S015",
+      "case": "b040_s015",
+      "expected_terminator": "0x419223",
+      "observed_terminators": [
+        "0x419223"
+      ],
+      "native_read_complete": true,
+      "captures": 255,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S016",
+      "case": "b040_s016",
+      "expected_terminator": "0x41927a",
+      "observed_terminators": [
+        "0x41927a"
+      ],
+      "native_read_complete": true,
+      "captures": 796,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S017",
+      "case": "b040_s017",
+      "expected_terminator": "0x419418",
+      "observed_terminators": [
+        "0x419418"
+      ],
+      "native_read_complete": true,
+      "captures": 1356,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s017_00.png",
+        "b040_s017_01.png",
+        "b040_s017_02.png",
+        "b040_s017_03.png",
+        "b040_s017_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S018",
+      "case": "b040_s018",
+      "expected_terminator": "0x41943b",
+      "observed_terminators": [
+        "0x41943b"
+      ],
+      "native_read_complete": true,
+      "captures": 323,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S019",
+      "case": "b040_s019",
+      "expected_terminator": "0x4194b4",
+      "observed_terminators": [
+        "0x4194b4"
+      ],
+      "native_read_complete": true,
+      "captures": 956,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S020",
+      "case": "b040_s020",
+      "expected_terminator": "0x4194d6",
+      "observed_terminators": [
+        "0x4194d6"
+      ],
+      "native_read_complete": true,
+      "captures": 282,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S021",
+      "case": "b040_s021",
+      "expected_terminator": "0x419500",
+      "observed_terminators": [
+        "0x419500"
+      ],
+      "native_read_complete": true,
+      "captures": 386,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S022",
+      "case": "b040_s022",
+      "expected_terminator": "0x419509",
+      "observed_terminators": [
+        "0x419509"
+      ],
+      "native_read_complete": true,
+      "captures": 57,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S023",
+      "case": "b040_s023",
+      "expected_terminator": "0x419511",
+      "observed_terminators": [
+        "0x419511"
+      ],
+      "native_read_complete": true,
+      "captures": 48,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S024",
+      "case": "b040_s024",
+      "expected_terminator": "0x41954a",
+      "observed_terminators": [
+        "0x41954a"
+      ],
+      "native_read_complete": true,
+      "captures": 505,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S027",
+      "case": "b040_s027",
+      "expected_terminator": "0x4195b7",
+      "observed_terminators": [
+        "0x4195b7"
+      ],
+      "native_read_complete": true,
+      "captures": 280,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S028",
+      "case": "b040_s028",
+      "expected_terminator": "0x4195fb",
+      "observed_terminators": [
+        "0x4195fb"
+      ],
+      "native_read_complete": true,
+      "captures": 638,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S030",
+      "case": "b040_s030",
+      "expected_terminator": "0x4196a1",
+      "observed_terminators": [
+        "0x4196a1"
+      ],
+      "native_read_complete": true,
+      "captures": 496,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S031",
+      "case": "b040_s031",
+      "expected_terminator": "0x4196df",
+      "observed_terminators": [
+        "0x4196df"
+      ],
+      "native_read_complete": true,
+      "captures": 553,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S032",
+      "case": "b040_s032",
+      "expected_terminator": "0x419756",
+      "observed_terminators": [
+        "0x419756"
+      ],
+      "native_read_complete": true,
+      "captures": 936,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s032_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S033",
+      "case": "b040_s033",
+      "expected_terminator": "0x41979c",
+      "observed_terminators": [
+        "0x41979c"
+      ],
+      "native_read_complete": true,
+      "captures": 666,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S034",
+      "case": "b040_s034",
+      "expected_terminator": "0x419812",
+      "observed_terminators": [
+        "0x419812"
+      ],
+      "native_read_complete": true,
+      "captures": 989,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S035",
+      "case": "b040_s035",
+      "expected_terminator": "0x41985d",
+      "observed_terminators": [
+        "0x41985d"
+      ],
+      "native_read_complete": true,
+      "captures": 712,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S037",
+      "case": "b040_s037",
+      "expected_terminator": "0x4198a6",
+      "observed_terminators": [
+        "0x4198a6"
+      ],
+      "native_read_complete": true,
+      "captures": 624,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S038",
+      "case": "b040_s038",
+      "expected_terminator": "0x41998d",
+      "observed_terminators": [
+        "0x41998d"
+      ],
+      "native_read_complete": true,
+      "captures": 1846,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s038_00.png",
+        "b040_s038_01.png",
+        "b040_s038_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S039",
+      "case": "b040_s039",
+      "expected_terminator": "0x419a29",
+      "observed_terminators": [
+        "0x419a29"
+      ],
+      "native_read_complete": true,
+      "captures": 986,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s039_00.png",
+        "b040_s039_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S040",
+      "case": "b040_s040",
+      "expected_terminator": "0x419a9f",
+      "observed_terminators": [
+        "0x419a9f"
+      ],
+      "native_read_complete": true,
+      "captures": 958,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S041",
+      "case": "b040_s041",
+      "expected_terminator": "0x419af8",
+      "observed_terminators": [
+        "0x419af8"
+      ],
+      "native_read_complete": true,
+      "captures": 796,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S042",
+      "case": "b040_s042",
+      "expected_terminator": "0x419b5b",
+      "observed_terminators": [
+        "0x419b5b"
+      ],
+      "native_read_complete": true,
+      "captures": 901,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S043",
+      "case": "b040_s043",
+      "expected_terminator": "0x419bfe",
+      "observed_terminators": [
+        "0x419bfe"
+      ],
+      "native_read_complete": true,
+      "captures": 2002,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s043_00.png",
+        "b040_s043_01.png",
+        "b040_s043_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S044",
+      "case": "b040_s044",
+      "expected_terminator": "0x419c62",
+      "observed_terminators": [
+        "0x419c62"
+      ],
+      "native_read_complete": true,
+      "captures": 926,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S045",
+      "case": "b040_s045",
+      "expected_terminator": "0x419cdd",
+      "observed_terminators": [
+        "0x419cdd"
+      ],
+      "native_read_complete": true,
+      "captures": 2343,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s045_00.png",
+        "b040_s045_01.png",
+        "b040_s045_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S046",
+      "case": "b040_s046",
+      "expected_terminator": "0x419d09",
+      "observed_terminators": [
+        "0x419d09"
+      ],
+      "native_read_complete": true,
+      "captures": 376,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s046_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S047",
+      "case": "b040_s047",
+      "expected_terminator": "0x419d5a",
+      "observed_terminators": [
+        "0x419d5a"
+      ],
+      "native_read_complete": true,
+      "captures": 723,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S048",
+      "case": "b040_s048",
+      "expected_terminator": "0x419dd3",
+      "observed_terminators": [
+        "0x419dd3"
+      ],
+      "native_read_complete": true,
+      "captures": 925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s048_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S049",
+      "case": "b040_s049",
+      "expected_terminator": "0x419e20",
+      "observed_terminators": [
+        "0x419e20"
+      ],
+      "native_read_complete": true,
+      "captures": 716,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S050",
+      "case": "b040_s050",
+      "expected_terminator": "0x419e63",
+      "observed_terminators": [
+        "0x419e63"
+      ],
+      "native_read_complete": true,
+      "captures": 671,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S051",
+      "case": "b040_s051",
+      "expected_terminator": "0x419ead",
+      "observed_terminators": [
+        "0x419ead"
+      ],
+      "native_read_complete": true,
+      "captures": 735,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S052",
+      "case": "b040_s052",
+      "expected_terminator": "0x419eb6",
+      "observed_terminators": [
+        "0x419eb6"
+      ],
+      "native_read_complete": true,
+      "captures": 86,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S053",
+      "case": "b040_s053",
+      "expected_terminator": "0x419ec5",
+      "observed_terminators": [
+        "0x419ec5"
+      ],
+      "native_read_complete": true,
+      "captures": 140,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S055",
+      "case": "b040_s055",
+      "expected_terminator": "0x419f19",
+      "observed_terminators": [
+        "0x419f19"
+      ],
+      "native_read_complete": true,
+      "captures": 568,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S056",
+      "case": "b040_s056",
+      "expected_terminator": "0x419f6e",
+      "observed_terminators": [
+        "0x419f6e"
+      ],
+      "native_read_complete": true,
+      "captures": 773,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S057",
+      "case": "b040_s057",
+      "expected_terminator": "0x419fb2",
+      "observed_terminators": [
+        "0x419fb2"
+      ],
+      "native_read_complete": true,
+      "captures": 621,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S058",
+      "case": "b040_s058",
+      "expected_terminator": "0x419ff3",
+      "observed_terminators": [
+        "0x419ff3"
+      ],
+      "native_read_complete": true,
+      "captures": 609,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S059",
+      "case": "b040_s059",
+      "expected_terminator": "0x41a077",
+      "observed_terminators": [
+        "0x41a077"
+      ],
+      "native_read_complete": true,
+      "captures": 982,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s059_00.png",
+        "b040_s059_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S060",
+      "case": "b040_s060",
+      "expected_terminator": "0x41a0cf",
+      "observed_terminators": [
+        "0x41a0cf"
+      ],
+      "native_read_complete": true,
+      "captures": 800,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S061",
+      "case": "b040_s061",
+      "expected_terminator": "0x41a129",
+      "observed_terminators": [
+        "0x41a129"
+      ],
+      "native_read_complete": true,
+      "captures": 1425,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s061_00.png",
+        "b040_s061_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S062",
+      "case": "b040_s062",
+      "expected_terminator": "0x41a1b6",
+      "observed_terminators": [
+        "0x41a1b6"
+      ],
+      "native_read_complete": true,
+      "captures": 977,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s062_00.png",
+        "b040_s062_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S063",
+      "case": "b040_s063",
+      "expected_terminator": "0x41a2df",
+      "observed_terminators": [
+        "0x41a2df"
+      ],
+      "native_read_complete": true,
+      "captures": 1392,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s063_00.png",
+        "b040_s063_01.png",
+        "b040_s063_02.png",
+        "b040_s063_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S064",
+      "case": "b040_s064",
+      "expected_terminator": "0x41a32d",
+      "observed_terminators": [
+        "0x41a32d"
+      ],
+      "native_read_complete": true,
+      "captures": 744,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S065",
+      "case": "b040_s065",
+      "expected_terminator": "0x41a3b0",
+      "observed_terminators": [
+        "0x41a3b0"
+      ],
+      "native_read_complete": true,
+      "captures": 940,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s065_00.png",
+        "b040_s065_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S066",
+      "case": "b040_s066",
+      "expected_terminator": "0x41a3e9",
+      "observed_terminators": [
+        "0x41a3e9"
+      ],
+      "native_read_complete": true,
+      "captures": 550,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S067",
+      "case": "b040_s067",
+      "expected_terminator": "0x41a410",
+      "observed_terminators": [
+        "0x41a410"
+      ],
+      "native_read_complete": true,
+      "captures": 388,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S068",
+      "case": "b040_s068",
+      "expected_terminator": "0x41a44f",
+      "observed_terminators": [
+        "0x41a44f"
+      ],
+      "native_read_complete": true,
+      "captures": 620,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S069",
+      "case": "b040_s069",
+      "expected_terminator": "0x41a476",
+      "observed_terminators": [
+        "0x41a476"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S070",
+      "case": "b040_s070",
+      "expected_terminator": "0x41a492",
+      "observed_terminators": [
+        "0x41a492"
+      ],
+      "native_read_complete": true,
+      "captures": 257,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S071",
+      "case": "b040_s071",
+      "expected_terminator": "0x41a521",
+      "observed_terminators": [
+        "0x41a521"
+      ],
+      "native_read_complete": true,
+      "captures": 2104,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s071_00.png",
+        "b040_s071_01.png",
+        "b040_s071_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S072",
+      "case": "b040_s072",
+      "expected_terminator": "0x41a624",
+      "observed_terminators": [
+        "0x41a624"
+      ],
+      "native_read_complete": true,
+      "captures": 1043,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s072_00.png",
+        "b040_s072_01.png",
+        "b040_s072_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S073",
+      "case": "b040_s073",
+      "expected_terminator": "0x41a65a",
+      "observed_terminators": [
+        "0x41a65a"
+      ],
+      "native_read_complete": true,
+      "captures": 481,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S074",
+      "case": "b040_s074",
+      "expected_terminator": "0x41a73d",
+      "observed_terminators": [
+        "0x41a73d"
+      ],
+      "native_read_complete": true,
+      "captures": 1925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s074_00.png",
+        "b040_s074_01.png",
+        "b040_s074_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S075",
+      "case": "b040_s075",
+      "expected_terminator": "0x41a77e",
+      "observed_terminators": [
+        "0x41a77e"
+      ],
+      "native_read_complete": true,
+      "captures": 594,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S076",
+      "case": "b040_s076",
+      "expected_terminator": "0x41a7f8",
+      "observed_terminators": [
+        "0x41a7f8"
+      ],
+      "native_read_complete": true,
+      "captures": 922,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S077",
+      "case": "b040_s077",
+      "expected_terminator": "0x41a95d",
+      "observed_terminators": [
+        "0x41a95d"
+      ],
+      "native_read_complete": true,
+      "captures": 1043,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s077_00.png",
+        "b040_s077_01.png",
+        "b040_s077_02.png",
+        "b040_s077_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S078",
+      "case": "b040_s078",
+      "expected_terminator": "0x41a9d6",
+      "observed_terminators": [
+        "0x41a9d6"
+      ],
+      "native_read_complete": true,
+      "captures": 941,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S079",
+      "case": "b040_s079",
+      "expected_terminator": "0x41aa50",
+      "observed_terminators": [
+        "0x41aa50"
+      ],
+      "native_read_complete": true,
+      "captures": 920,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S080",
+      "case": "b040_s080",
+      "expected_terminator": "0x41aaf4",
+      "observed_terminators": [
+        "0x41aaf4"
+      ],
+      "native_read_complete": true,
+      "captures": 2002,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s080_00.png",
+        "b040_s080_01.png",
+        "b040_s080_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S081",
+      "case": "b040_s081",
+      "expected_terminator": "0x41abb2",
+      "observed_terminators": [
+        "0x41abb2"
+      ],
+      "native_read_complete": true,
+      "captures": 1124,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s081_00.png",
+        "b040_s081_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S082",
+      "case": "b040_s082",
+      "expected_terminator": "0x41ac95",
+      "observed_terminators": [
+        "0x41ac95"
+      ],
+      "native_read_complete": true,
+      "captures": 996,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s082_00.png",
+        "b040_s082_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S083",
+      "case": "b040_s083",
+      "expected_terminator": "0x41ace9",
+      "observed_terminators": [
+        "0x41ace9"
+      ],
+      "native_read_complete": true,
+      "captures": 828,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S084",
+      "case": "b040_s084",
+      "expected_terminator": "0x41ad41",
+      "observed_terminators": [
+        "0x41ad41"
+      ],
+      "native_read_complete": true,
+      "captures": 1353,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s084_00.png",
+        "b040_s084_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S085",
+      "case": "b040_s085",
+      "expected_terminator": "0x41adaa",
+      "observed_terminators": [
+        "0x41adaa"
+      ],
+      "native_read_complete": true,
+      "captures": 1324,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s085_00.png",
+        "b040_s085_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S086",
+      "case": "b040_s086",
+      "expected_terminator": "0x41adbd",
+      "observed_terminators": [
+        "0x41adbd"
+      ],
+      "native_read_complete": true,
+      "captures": 149,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s086_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S087",
+      "case": "b040_s087",
+      "expected_terminator": "0x41ae2a",
+      "observed_terminators": [
+        "0x41ae2a"
+      ],
+      "native_read_complete": true,
+      "captures": 933,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S088",
+      "case": "b040_s088",
+      "expected_terminator": "0x41afab",
+      "observed_terminators": [
+        "0x41afab"
+      ],
+      "native_read_complete": true,
+      "captures": 1361,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s088_00.png",
+        "b040_s088_01.png",
+        "b040_s088_02.png",
+        "b040_s088_03.png",
+        "b040_s088_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S089",
+      "case": "b040_s089",
+      "expected_terminator": "0x41b030",
+      "observed_terminators": [
+        "0x41b030"
+      ],
+      "native_read_complete": true,
+      "captures": 916,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s089_00.png",
+        "b040_s089_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S090",
+      "case": "b040_s090",
+      "expected_terminator": "0x41b094",
+      "observed_terminators": [
+        "0x41b094"
+      ],
+      "native_read_complete": true,
+      "captures": 911,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S091",
+      "case": "b040_s091",
+      "expected_terminator": "0x41b14c",
+      "observed_terminators": [
+        "0x41b14c"
+      ],
+      "native_read_complete": true,
+      "captures": 961,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s091_00.png",
+        "b040_s091_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S092",
+      "case": "b040_s092",
+      "expected_terminator": "0x41b203",
+      "observed_terminators": [
+        "0x41b203"
+      ],
+      "native_read_complete": true,
+      "captures": 968,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s092_00.png",
+        "b040_s092_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S093",
+      "case": "b040_s093",
+      "expected_terminator": "0x41b267",
+      "observed_terminators": [
+        "0x41b267"
+      ],
+      "native_read_complete": true,
+      "captures": 975,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S094",
+      "case": "b040_s094",
+      "expected_terminator": "0x41b380",
+      "observed_terminators": [
+        "0x41b380"
+      ],
+      "native_read_complete": true,
+      "captures": 2071,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s094_00.png",
+        "b040_s094_01.png",
+        "b040_s094_02.png",
+        "b040_s094_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S096",
+      "case": "b040_s096",
+      "expected_terminator": "0x41b50b",
+      "observed_terminators": [
+        "0x41b50b"
+      ],
+      "native_read_complete": true,
+      "captures": 1925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s096_00.png",
+        "b040_s096_01.png",
+        "b040_s096_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S097",
+      "case": "b040_s097",
+      "expected_terminator": "0x41b56e",
+      "observed_terminators": [
+        "0x41b56e"
+      ],
+      "native_read_complete": true,
+      "captures": 943,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s097_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S098",
+      "case": "b040_s098",
+      "expected_terminator": "0x41b609",
+      "observed_terminators": [
+        "0x41b609"
+      ],
+      "native_read_complete": true,
+      "captures": 2026,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s098_00.png",
+        "b040_s098_01.png",
+        "b040_s098_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S099",
+      "case": "b040_s099",
+      "expected_terminator": "0x41b65f",
+      "observed_terminators": [
+        "0x41b65f"
+      ],
+      "native_read_complete": true,
+      "captures": 827,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S100",
+      "case": "b040_s100",
+      "expected_terminator": "0x41b69b",
+      "observed_terminators": [
+        "0x41b69b"
+      ],
+      "native_read_complete": true,
+      "captures": 532,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S101",
+      "case": "b040_s101",
+      "expected_terminator": "0x41b707",
+      "observed_terminators": [
+        "0x41b707"
+      ],
+      "native_read_complete": true,
+      "captures": 938,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s101_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S103",
+      "case": "b040_s103",
+      "expected_terminator": "0x41b840",
+      "observed_terminators": [
+        "0x41b840"
+      ],
+      "native_read_complete": true,
+      "captures": 632,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S104",
+      "case": "b040_s104",
+      "expected_terminator": "0x41b882",
+      "observed_terminators": [
+        "0x41b882"
+      ],
+      "native_read_complete": true,
+      "captures": 604,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S105",
+      "case": "b040_s105",
+      "expected_terminator": "0x41b8e7",
+      "observed_terminators": [
+        "0x41b8e7"
+      ],
+      "native_read_complete": true,
+      "captures": 950,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s105_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S106",
+      "case": "b040_s106",
+      "expected_terminator": "0x41b90b",
+      "observed_terminators": [
+        "0x41b90b"
+      ],
+      "native_read_complete": true,
+      "captures": 333,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S107",
+      "case": "b040_s107",
+      "expected_terminator": "0x41b92e",
+      "observed_terminators": [
+        "0x41b92e"
+      ],
+      "native_read_complete": true,
+      "captures": 324,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s107_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S121",
+      "case": "b040_s121",
+      "expected_terminator": "0x41baaa",
+      "observed_terminators": [
+        "0x41baaa"
+      ],
+      "native_read_complete": true,
+      "captures": 941,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s121_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S122",
+      "case": "b040_s122",
+      "expected_terminator": "0x41bb14",
+      "observed_terminators": [
+        "0x41bb14"
+      ],
+      "native_read_complete": true,
+      "captures": 933,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s122_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S123",
+      "case": "b040_s123",
+      "expected_terminator": "0x41bb80",
+      "observed_terminators": [
+        "0x41bb80"
+      ],
+      "native_read_complete": true,
+      "captures": 923,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s123_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S124",
+      "case": "b040_s124",
+      "expected_terminator": "0x41bbe8",
+      "observed_terminators": [
+        "0x41bbe8"
+      ],
+      "native_read_complete": true,
+      "captures": 947,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s124_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S125",
+      "case": "b040_s125",
+      "expected_terminator": "0x41bc41",
+      "observed_terminators": [
+        "0x41bc41"
+      ],
+      "native_read_complete": true,
+      "captures": 810,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s125_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S126",
+      "case": "b040_s126",
+      "expected_terminator": "0x41bca0",
+      "observed_terminators": [
+        "0x41bca0"
+      ],
+      "native_read_complete": true,
+      "captures": 864,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s126_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S127",
+      "case": "b040_s127",
+      "expected_terminator": "0x41bd28",
+      "observed_terminators": [
+        "0x41bd28"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s127_00.png",
+        "b040_s127_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S128",
+      "case": "b040_s128",
+      "expected_terminator": "0x41bd90",
+      "observed_terminators": [
+        "0x41bd90"
+      ],
+      "native_read_complete": true,
+      "captures": 948,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s128_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S129",
+      "case": "b040_s129",
+      "expected_terminator": "0x41bdf4",
+      "observed_terminators": [
+        "0x41bdf4"
+      ],
+      "native_read_complete": true,
+      "captures": 921,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s129_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S130",
+      "case": "b040_s130",
+      "expected_terminator": "0x41be6c",
+      "observed_terminators": [
+        "0x41be6c"
+      ],
+      "native_read_complete": true,
+      "captures": 943,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s130_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S131",
+      "case": "b040_s131",
+      "expected_terminator": "0x41bed7",
+      "observed_terminators": [
+        "0x41bed7"
+      ],
+      "native_read_complete": true,
+      "captures": 942,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s131_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S132",
+      "case": "b040_s132",
+      "expected_terminator": "0x41bf4a",
+      "observed_terminators": [
+        "0x41bf4a"
+      ],
+      "native_read_complete": true,
+      "captures": 927,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s132_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S133",
+      "case": "b040_s133",
+      "expected_terminator": "0x41bfe5",
+      "observed_terminators": [
+        "0x41bfe5"
+      ],
+      "native_read_complete": true,
+      "captures": 2042,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s133_00.png",
+        "b040_s133_01.png",
+        "b040_s133_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S134",
+      "case": "b040_s134",
+      "expected_terminator": "0x41c0df",
+      "observed_terminators": [
+        "0x41c0df"
+      ],
+      "native_read_complete": true,
+      "captures": 1065,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s134_00.png",
+        "b040_s134_01.png",
+        "b040_s134_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S135",
+      "case": "b040_s135",
+      "expected_terminator": "0x41c128",
+      "observed_terminators": [
+        "0x41c128"
+      ],
+      "native_read_complete": true,
+      "captures": 637,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s135_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S137",
+      "case": "b040_s137",
+      "expected_terminator": "0x41c1e9",
+      "observed_terminators": [
+        "0x41c1e9"
+      ],
+      "native_read_complete": true,
+      "captures": 1271,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s137_00.png",
+        "b040_s137_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S139",
+      "case": "b040_s139",
+      "expected_terminator": "0x41c27d",
+      "observed_terminators": [
+        "0x41c27d"
+      ],
+      "native_read_complete": true,
+      "captures": 802,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s139_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S141",
+      "case": "b040_s141",
+      "expected_terminator": "0x41c328",
+      "observed_terminators": [
+        "0x41c328"
+      ],
+      "native_read_complete": true,
+      "captures": 262,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s141_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S142",
+      "case": "b040_s142",
+      "expected_terminator": "0x41c37e",
+      "observed_terminators": [
+        "0x41c37e"
+      ],
+      "native_read_complete": true,
+      "captures": 784,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s142_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S143",
+      "case": "b040_s143",
+      "expected_terminator": "0x41c3db",
+      "observed_terminators": [
+        "0x41c3db"
+      ],
+      "native_read_complete": true,
+      "captures": 832,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s143_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S144",
+      "case": "b040_s144",
+      "expected_terminator": "0x41c482",
+      "observed_terminators": [
+        "0x41c482"
+      ],
+      "native_read_complete": true,
+      "captures": 1935,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s144_00.png",
+        "b040_s144_01.png",
+        "b040_s144_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S145",
+      "case": "b040_s145",
+      "expected_terminator": "0x41c4ce",
+      "observed_terminators": [
+        "0x41c4ce"
+      ],
+      "native_read_complete": true,
+      "captures": 721,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s145_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S146",
+      "case": "b040_s146",
+      "expected_terminator": "0x41c4e3",
+      "observed_terminators": [
+        "0x41c4e3"
+      ],
+      "native_read_complete": true,
+      "captures": 194,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s146_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S148",
+      "case": "b040_s148",
+      "expected_terminator": "0x41c591",
+      "observed_terminators": [
+        "0x41c591"
+      ],
+      "native_read_complete": true,
+      "captures": 766,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s148_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S149",
+      "case": "b040_s149",
+      "expected_terminator": "0x41c5d0",
+      "observed_terminators": [
+        "0x41c5d0"
+      ],
+      "native_read_complete": true,
+      "captures": 588,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s149_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S150",
+      "case": "b040_s150",
+      "expected_terminator": "0x41c6f5",
+      "observed_terminators": [
+        "0x41c6f5"
+      ],
+      "native_read_complete": true,
+      "captures": 1519,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s150_00.png",
+        "b040_s150_01.png",
+        "b040_s150_02.png",
+        "b040_s150_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S151",
+      "case": "b040_s151",
+      "expected_terminator": "0x41c808",
+      "observed_terminators": [
+        "0x41c808"
+      ],
+      "native_read_complete": true,
+      "captures": 1562,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s151_00.png",
+        "b040_s151_01.png",
+        "b040_s151_02.png",
+        "b040_s151_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S152",
+      "case": "b040_s152",
+      "expected_terminator": "0x41c84e",
+      "observed_terminators": [
+        "0x41c84e"
+      ],
+      "native_read_complete": true,
+      "captures": 672,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s152_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S153",
+      "case": "b040_s153",
+      "expected_terminator": "0x41c8a2",
+      "observed_terminators": [
+        "0x41c8a2"
+      ],
+      "native_read_complete": true,
+      "captures": 749,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s153_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S155",
+      "case": "b040_s155",
+      "expected_terminator": "0x41ca3d",
+      "observed_terminators": [
+        "0x41ca3d"
+      ],
+      "native_read_complete": true,
+      "captures": 1415,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s155_00.png",
+        "b040_s155_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S156",
+      "case": "b040_s156",
+      "expected_terminator": "0x41caa4",
+      "observed_terminators": [
+        "0x41caa4"
+      ],
+      "native_read_complete": true,
+      "captures": 954,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s156_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S157",
+      "case": "b040_s157",
+      "expected_terminator": "0x41cb1b",
+      "observed_terminators": [
+        "0x41cb1b"
+      ],
+      "native_read_complete": true,
+      "captures": 1278,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s157_00.png",
+        "b040_s157_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S158",
+      "case": "b040_s158",
+      "expected_terminator": "0x41cb3b",
+      "observed_terminators": [
+        "0x41cb3b"
+      ],
+      "native_read_complete": true,
+      "captures": 267,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s158_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S159",
+      "case": "b040_s159",
+      "expected_terminator": "0x41cb98",
+      "observed_terminators": [
+        "0x41cb98"
+      ],
+      "native_read_complete": true,
+      "captures": 848,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s159_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S160",
+      "case": "b040_s160",
+      "expected_terminator": "0x41cc24",
+      "observed_terminators": [
+        "0x41cc24"
+      ],
+      "native_read_complete": true,
+      "captures": 1355,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s160_00.png",
+        "b040_s160_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S161",
+      "case": "b040_s161",
+      "expected_terminator": "0x41cdb7",
+      "observed_terminators": [
+        "0x41cdb7"
+      ],
+      "native_read_complete": true,
+      "captures": 1121,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s161_00.png",
+        "b040_s161_01.png",
+        "b040_s161_02.png",
+        "b040_s161_03.png",
+        "b040_s161_04.png",
+        "b040_s161_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S162",
+      "case": "b040_s162",
+      "expected_terminator": "0x41ce6b",
+      "observed_terminators": [
+        "0x41ce6b"
+      ],
+      "native_read_complete": true,
+      "captures": 998,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s162_00.png",
+        "b040_s162_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S163",
+      "case": "b040_s163",
+      "expected_terminator": "0x41cec5",
+      "observed_terminators": [
+        "0x41cec5"
+      ],
+      "native_read_complete": true,
+      "captures": 819,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s163_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S164",
+      "case": "b040_s164",
+      "expected_terminator": "0x41cf1c",
+      "observed_terminators": [
+        "0x41cf1c"
+      ],
+      "native_read_complete": true,
+      "captures": 807,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s164_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S166",
+      "case": "b040_s166",
+      "expected_terminator": "0x41cfe5",
+      "observed_terminators": [
+        "0x41cfe5"
+      ],
+      "native_read_complete": true,
+      "captures": 746,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s166_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S171",
+      "case": "b040_s171",
+      "expected_terminator": "0x41d151",
+      "observed_terminators": [
+        "0x41d151"
+      ],
+      "native_read_complete": true,
+      "captures": 1341,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s171_00.png",
+        "b040_s171_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S172",
+      "case": "b040_s172",
+      "expected_terminator": "0x41d1c3",
+      "observed_terminators": [
+        "0x41d1c3"
+      ],
+      "native_read_complete": true,
+      "captures": 920,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s172_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S173",
+      "case": "b040_s173",
+      "expected_terminator": "0x41d2f4",
+      "observed_terminators": [
+        "0x41d2f4"
+      ],
+      "native_read_complete": true,
+      "captures": 1195,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s173_00.png",
+        "b040_s173_01.png",
+        "b040_s173_02.png",
+        "b040_s173_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S174",
+      "case": "b040_s174",
+      "expected_terminator": "0x41d3ae",
+      "observed_terminators": [
+        "0x41d3ae"
+      ],
+      "native_read_complete": true,
+      "captures": 1934,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s174_00.png",
+        "b040_s174_01.png",
+        "b040_s174_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S175",
+      "case": "b040_s175",
+      "expected_terminator": "0x41d40e",
+      "observed_terminators": [
+        "0x41d40e"
+      ],
+      "native_read_complete": true,
+      "captures": 907,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s175_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S176",
+      "case": "b040_s176",
+      "expected_terminator": "0x41d46e",
+      "observed_terminators": [
+        "0x41d46e"
+      ],
+      "native_read_complete": true,
+      "captures": 907,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s176_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S177",
+      "case": "b040_s177",
+      "expected_terminator": "0x41d4c3",
+      "observed_terminators": [
+        "0x41d4c3"
+      ],
+      "native_read_complete": true,
+      "captures": 818,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s177_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S178",
+      "case": "b040_s178",
+      "expected_terminator": "0x41d4ff",
+      "observed_terminators": [
+        "0x41d4ff"
+      ],
+      "native_read_complete": true,
+      "captures": 560,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s178_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S179",
+      "case": "b040_s179",
+      "expected_terminator": "0x41d56b",
+      "observed_terminators": [
+        "0x41d56b"
+      ],
+      "native_read_complete": true,
+      "captures": 938,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s179_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S180",
+      "case": "b040_s180",
+      "expected_terminator": "0x41d74f",
+      "observed_terminators": [
+        "0x41d74f"
+      ],
+      "native_read_complete": true,
+      "captures": 2135,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s180_00.png",
+        "b040_s180_01.png",
+        "b040_s180_02.png",
+        "b040_s180_03.png",
+        "b040_s180_04.png",
+        "b040_s180_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S181",
+      "case": "b040_s181",
+      "expected_terminator": "0x41d832",
+      "observed_terminators": [
+        "0x41d832"
+      ],
+      "native_read_complete": true,
+      "captures": 1925,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s181_00.png",
+        "b040_s181_01.png",
+        "b040_s181_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S182",
+      "case": "b040_s182",
+      "expected_terminator": "0x41d8ce",
+      "observed_terminators": [
+        "0x41d8ce"
+      ],
+      "native_read_complete": true,
+      "captures": 1961,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s182_00.png",
+        "b040_s182_01.png",
+        "b040_s182_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S183",
+      "case": "b040_s183",
+      "expected_terminator": "0x41d9bc",
+      "observed_terminators": [
+        "0x41d9bc"
+      ],
+      "native_read_complete": true,
+      "captures": 987,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s183_00.png",
+        "b040_s183_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S184",
+      "case": "b040_s184",
+      "expected_terminator": "0x41da6e",
+      "observed_terminators": [
+        "0x41da6e"
+      ],
+      "native_read_complete": true,
+      "captures": 2091,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s184_00.png",
+        "b040_s184_01.png",
+        "b040_s184_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S185",
+      "case": "b040_s185",
+      "expected_terminator": "0x41db5e",
+      "observed_terminators": [
+        "0x41db5e"
+      ],
+      "native_read_complete": true,
+      "captures": 999,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s185_00.png",
+        "b040_s185_01.png",
+        "b040_s185_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S188",
+      "case": "b040_s188",
+      "expected_terminator": "0x41dbf7",
+      "observed_terminators": [
+        "0x41dbf7"
+      ],
+      "native_read_complete": true,
+      "captures": 759,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s188_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S189",
+      "case": "b040_s189",
+      "expected_terminator": "0x41dc5f",
+      "observed_terminators": [
+        "0x41dc5f"
+      ],
+      "native_read_complete": true,
+      "captures": 935,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s189_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S190",
+      "case": "b040_s190",
+      "expected_terminator": "0x41dcd5",
+      "observed_terminators": [
+        "0x41dcd5"
+      ],
+      "native_read_complete": true,
+      "captures": 945,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s190_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S198",
+      "case": "b040_s198",
+      "expected_terminator": "0x41e2a7",
+      "observed_terminators": [
+        "0x41e2a7"
+      ],
+      "native_read_complete": true,
+      "captures": 651,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s198_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S199",
+      "case": "b040_s199",
+      "expected_terminator": "0x41e2f1",
+      "observed_terminators": [
+        "0x41e2f1"
+      ],
+      "native_read_complete": true,
+      "captures": 4835,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s199_00.png",
+        "b040_s199_01.png",
+        "b040_s199_02.png",
+        "b040_s199_03.png",
+        "b040_s199_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S201",
+      "case": "b040_s201",
+      "expected_terminator": "0x41e34c",
+      "observed_terminators": [
+        "0x41e34c"
+      ],
+      "native_read_complete": true,
+      "captures": 3980,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s201_00.png",
+        "b040_s201_01.png",
+        "b040_s201_02.png",
+        "b040_s201_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S202",
+      "case": "b040_s202",
+      "expected_terminator": "0x41e362",
+      "observed_terminators": [
+        "0x41e362"
+      ],
+      "native_read_complete": true,
+      "captures": 177,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s202_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S203",
+      "case": "b040_s203",
+      "expected_terminator": "0x41e3eb",
+      "observed_terminators": [
+        "0x41e3eb"
+      ],
+      "native_read_complete": true,
+      "captures": 1174,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s203_00.png",
+        "b040_s203_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S204",
+      "case": "b040_s204",
+      "expected_terminator": "0x41e40a",
+      "observed_terminators": [
+        "0x41e40a"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s204_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S205",
+      "case": "b040_s205",
+      "expected_terminator": "0x41e43c",
+      "observed_terminators": [
+        "0x41e43c"
+      ],
+      "native_read_complete": true,
+      "captures": 445,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s205_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S206",
+      "case": "b040_s206",
+      "expected_terminator": "0x41e48a",
+      "observed_terminators": [
+        "0x41e48a"
+      ],
+      "native_read_complete": true,
+      "captures": 744,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s206_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S209",
+      "case": "b040_s209",
+      "expected_terminator": "0x41e4f9",
+      "observed_terminators": [
+        "0x41e4f9"
+      ],
+      "native_read_complete": true,
+      "captures": 193,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s209_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S210",
+      "case": "b040_s210",
+      "expected_terminator": "0x41e527",
+      "observed_terminators": [
+        "0x41e527"
+      ],
+      "native_read_complete": true,
+      "captures": 450,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s210_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S211",
+      "case": "b040_s211",
+      "expected_terminator": "0x41e5c6",
+      "observed_terminators": [
+        "0x41e5c6"
+      ],
+      "native_read_complete": true,
+      "captures": 2085,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s211_00.png",
+        "b040_s211_01.png",
+        "b040_s211_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S213",
+      "case": "b040_s213",
+      "expected_terminator": "0x41e63a",
+      "observed_terminators": [
+        "0x41e63a"
+      ],
+      "native_read_complete": true,
+      "captures": 949,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s213_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S216",
+      "case": "b040_s216",
+      "expected_terminator": "0x41e7ed",
+      "observed_terminators": [
+        "0x41e7ed"
+      ],
+      "native_read_complete": true,
+      "captures": 988,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s216_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S217",
+      "case": "b040_s217",
+      "expected_terminator": "0x41e849",
+      "observed_terminators": [
+        "0x41e849"
+      ],
+      "native_read_complete": true,
+      "captures": 854,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s217_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S218",
+      "case": "b040_s218",
+      "expected_terminator": "0x41e87c",
+      "observed_terminators": [
+        "0x41e87c"
+      ],
+      "native_read_complete": true,
+      "captures": 485,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s218_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S219",
+      "case": "b040_s219",
+      "expected_terminator": "0x41e89d",
+      "observed_terminators": [
+        "0x41e89d"
+      ],
+      "native_read_complete": true,
+      "captures": 275,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s219_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S220",
+      "case": "b040_s220",
+      "expected_terminator": "0x41e8c8",
+      "observed_terminators": [
+        "0x41e8c8"
+      ],
+      "native_read_complete": true,
+      "captures": 364,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s220_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S221",
+      "case": "b040_s221",
+      "expected_terminator": "0x41e8f2",
+      "observed_terminators": [
+        "0x41e8f2"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s221_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S222",
+      "case": "b040_s222",
+      "expected_terminator": "0x41e911",
+      "observed_terminators": [
+        "0x41e911"
+      ],
+      "native_read_complete": true,
+      "captures": 257,
+      "visual_review": "Reviewed all selected captures from the exact final V49 ROM: readable glyphs and in-frame text; short page endings and partial/repeated typewriter frames retained.",
+      "review_images": [
+        "b040_s222_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 446,
+  "visual_review": {
+    "status": "passed",
+    "dialogue_captures": 446,
+    "system_captures": 5,
+    "method": "All 13 contact sheets of final-ROM dialogue images and five full system images inspected. Native exact terminators checked separately for all 300 cases.",
+    "observation": "No missing glyphs, line overflow or wholly blank final pages observed. Some short final pages and partial/repeated typewriter images remain. Staged rendering does not validate natural event progression."
+  }
+}
