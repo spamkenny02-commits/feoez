@@ -1,0 +1,32 @@
+{
+  "status": "partial_checkpoint_not_final_release",
+  "lot": 46,
+  "target": 400,
+  "new_distinct_texts": 52,
+  "corrections": 0,
+  "phase": 1,
+  "base_main": "70b3524cea1a0dc36d6d4da67a98a20313987195",
+  "rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "patch_sha256": "e9811fcf98ca48400fe1ad0b483fc62513fc7c980dc246f1da3deedc5f6b35e7",
+  "integrated_entries": 5039,
+  "baseline_entries_preserved": 4987,
+  "native_reads": 6028,
+  "additional_source_output_notice_reads": 104,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "staged_cases": 52,
+  "selected_text_images_reviewed": 52,
+  "system_images_reviewed": 5,
+  "startup_images_identical_to_v51": 85,
+  "navigation_views_identical_to_v51": 3,
+  "deferred_native_reads_unchanged": 319,
+  "natural_calendar_notice_validated": "B018-S182 at 1995-12-22 only",
+  "limits": [
+    "348 autres textes distincts pour compléter ce lot si assez de textes pertinents restent",
+    "Producteurs, bornes et valeurs réelles 05–07",
+    "Effets, chansons, choix et formats spéciaux encore différés",
+    "Calendrier : autres dates et libellés anglais observés",
+    "Phase 2 : recherche complète des oublis, incluant graphismes et bloc42 non borné",
+    "Phase 3 : relecture complète et couverture des branches"
+  ]
+}

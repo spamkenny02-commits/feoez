@@ -1,3 +1,10 @@
+# Reprise — lot 46 en cours, 52 / 400
+
+Checkpoint sur `wip-lot46-400`, phase 1. Main reste à V51.
+Lire `CHECKPOINT_LOT46.md` et `verification/lot46_progress.json` pour le
+compteur, les preuves terminées et celles encore en attente.
+Ne pas recommencer le lot ni dupliquer lot45.
+
 # État actuel — V51
 
 Lot 45 : 300 nouveaux textes, total 4 987 entrées.

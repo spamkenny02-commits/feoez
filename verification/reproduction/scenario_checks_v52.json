@@ -1,0 +1,108 @@
+[
+  {
+    "frames": 180
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "A"
+    ]
+  },
+  {
+    "frames": 1200,
+    "screenshot": "check_a"
+  },
+  {
+    "reset": true,
+    "frames": 180
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_01"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_02"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_03"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_04"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_05"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_06"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_07"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_08"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_09"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_10"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_11"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_12"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_13"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_14"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_15"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_16"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_17"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_18"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_19"
+  },
+  {
+    "frames": 3000,
+    "screenshot": "check_b_20"
+  },
+  {
+    "quit": true
+  }
+]

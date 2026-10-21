@@ -1,0 +1,482 @@
+{
+  "lot": 46,
+  "target": 400,
+  "new_distinct_texts": 52,
+  "corrections": 0,
+  "previous_entries_preserved": 4987,
+  "integrated_entries_checkpoint": 5039,
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "checks": [
+    {
+      "id": "B018-S122",
+      "widths": [
+        201,
+        91
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S124",
+      "widths": [
+        123,
+        119
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S125",
+      "widths": [
+        162,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S126",
+      "widths": [
+        162,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S127",
+      "widths": [
+        161,
+        107
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S129",
+      "widths": [
+        159,
+        128
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S131",
+      "widths": [
+        161,
+        155
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S132",
+      "widths": [
+        95,
+        134
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S134",
+      "widths": [
+        0,
+        98
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S135",
+      "widths": [
+        151,
+        131
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S136",
+      "widths": [
+        111,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S137",
+      "widths": [
+        132,
+        72
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S138",
+      "widths": [
+        0,
+        156
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S139",
+      "widths": [
+        178,
+        153
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S140",
+      "widths": [
+        185,
+        142
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S142",
+      "widths": [
+        133,
+        88
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S143",
+      "widths": [
+        162,
+        151
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S144",
+      "widths": [
+        167,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S145",
+      "widths": [
+        123,
+        73
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S146",
+      "widths": [
+        0,
+        124
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S147",
+      "widths": [
+        154,
+        158
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S150",
+      "widths": [
+        178,
+        81
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S151",
+      "widths": [
+        0,
+        148
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S153",
+      "widths": [
+        159,
+        116
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S154",
+      "widths": [
+        152,
+        156
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S155",
+      "widths": [
+        160,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S156",
+      "widths": [
+        188,
+        91
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S157",
+      "widths": [
+        194,
+        150
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S158",
+      "widths": [
+        208,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S161",
+      "widths": [
+        208,
+        144
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S162",
+      "widths": [
+        176,
+        154
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S163",
+      "widths": [
+        0,
+        96
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S164",
+      "widths": [
+        199,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S165",
+      "widths": [
+        171,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S167",
+      "widths": [
+        179,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S168",
+      "widths": [
+        208,
+        173
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S169",
+      "widths": [
+        0,
+        156
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S170",
+      "widths": [
+        120,
+        151
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S171",
+      "widths": [
+        173,
+        76
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S172",
+      "widths": [
+        0,
+        148
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S174",
+      "widths": [
+        155,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S176",
+      "widths": [
+        0,
+        94
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S177",
+      "widths": [
+        165,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S178",
+      "widths": [
+        138,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S179",
+      "widths": [
+        175,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S181",
+      "widths": [
+        213,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S182",
+      "widths": [
+        201,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S183",
+      "widths": [
+        193,
+        165
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S184",
+      "widths": [
+        141,
+        59
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S185",
+      "widths": [
+        192,
+        119
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S190",
+      "widths": [
+        167,
+        0
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S191",
+      "widths": [
+        204,
+        143
+      ],
+      "two_rows_and_empty_rows_preserved": true,
+      "source_and_output_native_read": true
+    }
+  ],
+  "runtime_visual_validation": "Separate staged results; not asserted by this script.",
+  "remaining_phase1": "Variables 05–07, effects, songs and special formats; natural calendar dates still need validation."
+}
