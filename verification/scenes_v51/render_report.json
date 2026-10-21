@@ -1,0 +1,6022 @@
+{
+  "workers": 4,
+  "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "diagnostic_core_sha256": "5b7675c9c643db53930ea488d962d663040f8f39e26d02cc0ea0faea9d9dae6d",
+  "state_sha256": "e349f16990662c0e9941e21b70fb5d184ade2165a9e45154ac4eb08e2da2194a",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B029-S051",
+      "case": "b029_s051",
+      "expected_terminator": "0x40f184",
+      "observed_terminators": [
+        "0x40f184"
+      ],
+      "native_read_complete": true,
+      "captures": 552,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 551,
+      "review_images": [
+        "b029_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S052",
+      "case": "b029_s052",
+      "expected_terminator": "0x40f1c1",
+      "observed_terminators": [
+        "0x40f1c1"
+      ],
+      "native_read_complete": true,
+      "captures": 524,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 523,
+      "review_images": [
+        "b029_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S053",
+      "case": "b029_s053",
+      "expected_terminator": "0x40f200",
+      "observed_terminators": [
+        "0x40f200"
+      ],
+      "native_read_complete": true,
+      "captures": 542,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 541,
+      "review_images": [
+        "b029_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S054",
+      "case": "b029_s054",
+      "expected_terminator": "0x40f23c",
+      "observed_terminators": [
+        "0x40f23c"
+      ],
+      "native_read_complete": true,
+      "captures": 515,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 514,
+      "review_images": [
+        "b029_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S055",
+      "case": "b029_s055",
+      "expected_terminator": "0x40f2ae",
+      "observed_terminators": [
+        "0x40f2ae"
+      ],
+      "native_read_complete": true,
+      "captures": 901,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 900,
+      "review_images": [
+        "b029_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S056",
+      "case": "b029_s056",
+      "expected_terminator": "0x40f2f3",
+      "observed_terminators": [
+        "0x40f2f3"
+      ],
+      "native_read_complete": true,
+      "captures": 598,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 597,
+      "review_images": [
+        "b029_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S057",
+      "case": "b029_s057",
+      "expected_terminator": "0x40f340",
+      "observed_terminators": [
+        "0x40f340"
+      ],
+      "native_read_complete": true,
+      "captures": 670,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 669,
+      "review_images": [
+        "b029_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S058",
+      "case": "b029_s058",
+      "expected_terminator": "0x40f397",
+      "observed_terminators": [
+        "0x40f397"
+      ],
+      "native_read_complete": true,
+      "captures": 760,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 759,
+      "review_images": [
+        "b029_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S059",
+      "case": "b029_s059",
+      "expected_terminator": "0x40f3db",
+      "observed_terminators": [
+        "0x40f3db"
+      ],
+      "native_read_complete": true,
+      "captures": 589,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 588,
+      "review_images": [
+        "b029_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S060",
+      "case": "b029_s060",
+      "expected_terminator": "0x40f42d",
+      "observed_terminators": [
+        "0x40f42d"
+      ],
+      "native_read_complete": true,
+      "captures": 747,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 746,
+      "review_images": [
+        "b029_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S061",
+      "case": "b029_s061",
+      "expected_terminator": "0x40f46a",
+      "observed_terminators": [
+        "0x40f46a"
+      ],
+      "native_read_complete": true,
+      "captures": 525,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 524,
+      "review_images": [
+        "b029_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S062",
+      "case": "b029_s062",
+      "expected_terminator": "0x40f4b6",
+      "observed_terminators": [
+        "0x40f4b6"
+      ],
+      "native_read_complete": true,
+      "captures": 676,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 675,
+      "review_images": [
+        "b029_s062_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S063",
+      "case": "b029_s063",
+      "expected_terminator": "0x40f4f0",
+      "observed_terminators": [
+        "0x40f4f0"
+      ],
+      "native_read_complete": true,
+      "captures": 499,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 498,
+      "review_images": [
+        "b029_s063_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S064",
+      "case": "b029_s064",
+      "expected_terminator": "0x40f535",
+      "observed_terminators": [
+        "0x40f535"
+      ],
+      "native_read_complete": true,
+      "captures": 598,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 597,
+      "review_images": [
+        "b029_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S065",
+      "case": "b029_s065",
+      "expected_terminator": "0x40f56c",
+      "observed_terminators": [
+        "0x40f56c"
+      ],
+      "native_read_complete": true,
+      "captures": 497,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 496,
+      "review_images": [
+        "b029_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S066",
+      "case": "b029_s066",
+      "expected_terminator": "0x40f5a3",
+      "observed_terminators": [
+        "0x40f5a3"
+      ],
+      "native_read_complete": true,
+      "captures": 498,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 497,
+      "review_images": [
+        "b029_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S003",
+      "case": "b033_s003",
+      "expected_terminator": "0x4113f2",
+      "observed_terminators": [
+        "0x4113f2"
+      ],
+      "native_read_complete": true,
+      "captures": 238,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 237,
+      "review_images": [
+        "b033_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S004",
+      "case": "b033_s004",
+      "expected_terminator": "0x411440",
+      "observed_terminators": [
+        "0x411440"
+      ],
+      "native_read_complete": true,
+      "captures": 689,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 688,
+      "review_images": [
+        "b033_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S005",
+      "case": "b033_s005",
+      "expected_terminator": "0x411473",
+      "observed_terminators": [
+        "0x411473"
+      ],
+      "native_read_complete": true,
+      "captures": 446,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 445,
+      "review_images": [
+        "b033_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S006",
+      "case": "b033_s006",
+      "expected_terminator": "0x4114af",
+      "observed_terminators": [
+        "0x4114af"
+      ],
+      "native_read_complete": true,
+      "captures": 527,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 526,
+      "review_images": [
+        "b033_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S007",
+      "case": "b033_s007",
+      "expected_terminator": "0x4114df",
+      "observed_terminators": [
+        "0x4114df"
+      ],
+      "native_read_complete": true,
+      "captures": 420,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 419,
+      "review_images": [
+        "b033_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S008",
+      "case": "b033_s008",
+      "expected_terminator": "0x41151a",
+      "observed_terminators": [
+        "0x41151a"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 517,
+      "review_images": [
+        "b033_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S009",
+      "case": "b033_s009",
+      "expected_terminator": "0x411538",
+      "observed_terminators": [
+        "0x411538"
+      ],
+      "native_read_complete": true,
+      "captures": 266,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 265,
+      "review_images": [
+        "b033_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S010",
+      "case": "b033_s010",
+      "expected_terminator": "0x411559",
+      "observed_terminators": [
+        "0x411559"
+      ],
+      "native_read_complete": true,
+      "captures": 291,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 290,
+      "review_images": [
+        "b033_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S011",
+      "case": "b033_s011",
+      "expected_terminator": "0x41157f",
+      "observed_terminators": [
+        "0x41157f"
+      ],
+      "native_read_complete": true,
+      "captures": 301,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 300,
+      "review_images": [
+        "b033_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S012",
+      "case": "b033_s012",
+      "expected_terminator": "0x4115c2",
+      "observed_terminators": [
+        "0x4115c2"
+      ],
+      "native_read_complete": true,
+      "captures": 561,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 560,
+      "review_images": [
+        "b033_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S024",
+      "case": "b033_s024",
+      "expected_terminator": "0x4124a9",
+      "observed_terminators": [
+        "0x4124a9"
+      ],
+      "native_read_complete": true,
+      "captures": 178,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 177,
+      "review_images": [
+        "b033_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S025",
+      "case": "b033_s025",
+      "expected_terminator": "0x4124c0",
+      "observed_terminators": [
+        "0x4124c0"
+      ],
+      "native_read_complete": true,
+      "captures": 205,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 204,
+      "review_images": [
+        "b033_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S027",
+      "case": "b033_s027",
+      "expected_terminator": "0x4124f0",
+      "observed_terminators": [
+        "0x4124f0"
+      ],
+      "native_read_complete": true,
+      "captures": 268,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 267,
+      "review_images": [
+        "b033_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B091-S026",
+      "case": "b091_s026",
+      "expected_terminator": "0x441ece",
+      "observed_terminators": [
+        "0x441ece"
+      ],
+      "native_read_complete": true,
+      "captures": 509,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 508,
+      "review_images": [
+        "b091_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S046",
+      "case": "b095_s046",
+      "expected_terminator": "0x448643",
+      "observed_terminators": [
+        "0x448643"
+      ],
+      "native_read_complete": true,
+      "captures": 1948,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1945,
+      "review_images": [
+        "b095_s046_00.png",
+        "b095_s046_01.png",
+        "b095_s046_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S009",
+      "case": "b202_s009",
+      "expected_terminator": "0x48ad31",
+      "observed_terminators": [
+        "0x48ad31"
+      ],
+      "native_read_complete": true,
+      "captures": 358,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 357,
+      "review_images": [
+        "b202_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S010",
+      "case": "b202_s010",
+      "expected_terminator": "0x48ad7e",
+      "observed_terminators": [
+        "0x48ad7e"
+      ],
+      "native_read_complete": true,
+      "captures": 368,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 367,
+      "review_images": [
+        "b202_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B221-S022",
+      "case": "b221_s022",
+      "expected_terminator": "0x49a698",
+      "observed_terminators": [
+        "0x49a698"
+      ],
+      "native_read_complete": true,
+      "captures": 1314,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1312,
+      "review_images": [
+        "b221_s022_00.png",
+        "b221_s022_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S001",
+      "case": "b017_s001",
+      "expected_terminator": "0x4b0062",
+      "observed_terminators": [
+        "0x4b0062"
+      ],
+      "native_read_complete": true,
+      "captures": 679,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 678,
+      "review_images": [
+        "b017_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S002",
+      "case": "b017_s002",
+      "expected_terminator": "0x4b00a8",
+      "observed_terminators": [
+        "0x4b00a8"
+      ],
+      "native_read_complete": true,
+      "captures": 634,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 633,
+      "review_images": [
+        "b017_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S003",
+      "case": "b017_s003",
+      "expected_terminator": "0x4b00cf",
+      "observed_terminators": [
+        "0x4b00cf"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 355,
+      "review_images": [
+        "b017_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S004",
+      "case": "b017_s004",
+      "expected_terminator": "0x4b00f8",
+      "observed_terminators": [
+        "0x4b00f8"
+      ],
+      "native_read_complete": true,
+      "captures": 377,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 376,
+      "review_images": [
+        "b017_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S006",
+      "case": "b017_s006",
+      "expected_terminator": "0x4b0126",
+      "observed_terminators": [
+        "0x4b0126"
+      ],
+      "native_read_complete": true,
+      "captures": 402,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 401,
+      "review_images": [
+        "b017_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S007",
+      "case": "b017_s007",
+      "expected_terminator": "0x4b0160",
+      "observed_terminators": [
+        "0x4b0160"
+      ],
+      "native_read_complete": true,
+      "captures": 528,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 527,
+      "review_images": [
+        "b017_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S008",
+      "case": "b017_s008",
+      "expected_terminator": "0x4b018a",
+      "observed_terminators": [
+        "0x4b018a"
+      ],
+      "native_read_complete": true,
+      "captures": 383,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 382,
+      "review_images": [
+        "b017_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S009",
+      "case": "b017_s009",
+      "expected_terminator": "0x4b01b5",
+      "observed_terminators": [
+        "0x4b01b5"
+      ],
+      "native_read_complete": true,
+      "captures": 363,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 362,
+      "review_images": [
+        "b017_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S010",
+      "case": "b017_s010",
+      "expected_terminator": "0x4b01e7",
+      "observed_terminators": [
+        "0x4b01e7"
+      ],
+      "native_read_complete": true,
+      "captures": 426,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 425,
+      "review_images": [
+        "b017_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S011",
+      "case": "b017_s011",
+      "expected_terminator": "0x4b0229",
+      "observed_terminators": [
+        "0x4b0229"
+      ],
+      "native_read_complete": true,
+      "captures": 570,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 569,
+      "review_images": [
+        "b017_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S012",
+      "case": "b017_s012",
+      "expected_terminator": "0x4b024c",
+      "observed_terminators": [
+        "0x4b024c"
+      ],
+      "native_read_complete": true,
+      "captures": 291,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 290,
+      "review_images": [
+        "b017_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S013",
+      "case": "b017_s013",
+      "expected_terminator": "0x4b0273",
+      "observed_terminators": [
+        "0x4b0273"
+      ],
+      "native_read_complete": true,
+      "captures": 328,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 327,
+      "review_images": [
+        "b017_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S014",
+      "case": "b017_s014",
+      "expected_terminator": "0x4b02a2",
+      "observed_terminators": [
+        "0x4b02a2"
+      ],
+      "native_read_complete": true,
+      "captures": 399,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 398,
+      "review_images": [
+        "b017_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S015",
+      "case": "b017_s015",
+      "expected_terminator": "0x4b02e3",
+      "observed_terminators": [
+        "0x4b02e3"
+      ],
+      "native_read_complete": true,
+      "captures": 561,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 560,
+      "review_images": [
+        "b017_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S016",
+      "case": "b017_s016",
+      "expected_terminator": "0x4b0307",
+      "observed_terminators": [
+        "0x4b0307"
+      ],
+      "native_read_complete": true,
+      "captures": 301,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 300,
+      "review_images": [
+        "b017_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S017",
+      "case": "b017_s017",
+      "expected_terminator": "0x4b0334",
+      "observed_terminators": [
+        "0x4b0334"
+      ],
+      "native_read_complete": true,
+      "captures": 409,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 408,
+      "review_images": [
+        "b017_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S019",
+      "case": "b017_s019",
+      "expected_terminator": "0x4b0365",
+      "observed_terminators": [
+        "0x4b0365"
+      ],
+      "native_read_complete": true,
+      "captures": 427,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 426,
+      "review_images": [
+        "b017_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S020",
+      "case": "b017_s020",
+      "expected_terminator": "0x4b03b5",
+      "observed_terminators": [
+        "0x4b03b5"
+      ],
+      "native_read_complete": true,
+      "captures": 725,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 724,
+      "review_images": [
+        "b017_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S021",
+      "case": "b017_s021",
+      "expected_terminator": "0x4b03dd",
+      "observed_terminators": [
+        "0x4b03dd"
+      ],
+      "native_read_complete": true,
+      "captures": 367,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 366,
+      "review_images": [
+        "b017_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S022",
+      "case": "b017_s022",
+      "expected_terminator": "0x4b0402",
+      "observed_terminators": [
+        "0x4b0402"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b017_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S023",
+      "case": "b017_s023",
+      "expected_terminator": "0x4b0430",
+      "observed_terminators": [
+        "0x4b0430"
+      ],
+      "native_read_complete": true,
+      "captures": 420,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 419,
+      "review_images": [
+        "b017_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S024",
+      "case": "b017_s024",
+      "expected_terminator": "0x4b046d",
+      "observed_terminators": [
+        "0x4b046d"
+      ],
+      "native_read_complete": true,
+      "captures": 554,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 553,
+      "review_images": [
+        "b017_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S025",
+      "case": "b017_s025",
+      "expected_terminator": "0x4b04b4",
+      "observed_terminators": [
+        "0x4b04b4"
+      ],
+      "native_read_complete": true,
+      "captures": 615,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 614,
+      "review_images": [
+        "b017_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S026",
+      "case": "b017_s026",
+      "expected_terminator": "0x4b0501",
+      "observed_terminators": [
+        "0x4b0501"
+      ],
+      "native_read_complete": true,
+      "captures": 670,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 669,
+      "review_images": [
+        "b017_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S027",
+      "case": "b017_s027",
+      "expected_terminator": "0x4b0527",
+      "observed_terminators": [
+        "0x4b0527"
+      ],
+      "native_read_complete": true,
+      "captures": 318,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 317,
+      "review_images": [
+        "b017_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S028",
+      "case": "b017_s028",
+      "expected_terminator": "0x4b0551",
+      "observed_terminators": [
+        "0x4b0551"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 353,
+      "review_images": [
+        "b017_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S029",
+      "case": "b017_s029",
+      "expected_terminator": "0x4b0579",
+      "observed_terminators": [
+        "0x4b0579"
+      ],
+      "native_read_complete": true,
+      "captures": 336,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 335,
+      "review_images": [
+        "b017_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S030",
+      "case": "b017_s030",
+      "expected_terminator": "0x4b05a2",
+      "observed_terminators": [
+        "0x4b05a2"
+      ],
+      "native_read_complete": true,
+      "captures": 345,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 344,
+      "review_images": [
+        "b017_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S031",
+      "case": "b017_s031",
+      "expected_terminator": "0x4b05ca",
+      "observed_terminators": [
+        "0x4b05ca"
+      ],
+      "native_read_complete": true,
+      "captures": 337,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 336,
+      "review_images": [
+        "b017_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S033",
+      "case": "b017_s033",
+      "expected_terminator": "0x4b0615",
+      "observed_terminators": [
+        "0x4b0615"
+      ],
+      "native_read_complete": true,
+      "captures": 661,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 660,
+      "review_images": [
+        "b017_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S034",
+      "case": "b017_s034",
+      "expected_terminator": "0x4b063f",
+      "observed_terminators": [
+        "0x4b063f"
+      ],
+      "native_read_complete": true,
+      "captures": 383,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 382,
+      "review_images": [
+        "b017_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S035",
+      "case": "b017_s035",
+      "expected_terminator": "0x4b0688",
+      "observed_terminators": [
+        "0x4b0688"
+      ],
+      "native_read_complete": true,
+      "captures": 663,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 662,
+      "review_images": [
+        "b017_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S036",
+      "case": "b017_s036",
+      "expected_terminator": "0x4b06a9",
+      "observed_terminators": [
+        "0x4b06a9"
+      ],
+      "native_read_complete": true,
+      "captures": 303,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 302,
+      "review_images": [
+        "b017_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S037",
+      "case": "b017_s037",
+      "expected_terminator": "0x4b06c8",
+      "observed_terminators": [
+        "0x4b06c8"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b017_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S038",
+      "case": "b017_s038",
+      "expected_terminator": "0x4b0706",
+      "observed_terminators": [
+        "0x4b0706"
+      ],
+      "native_read_complete": true,
+      "captures": 563,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 562,
+      "review_images": [
+        "b017_s038_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S039",
+      "case": "b017_s039",
+      "expected_terminator": "0x4b0747",
+      "observed_terminators": [
+        "0x4b0747"
+      ],
+      "native_read_complete": true,
+      "captures": 590,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 589,
+      "review_images": [
+        "b017_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S040",
+      "case": "b017_s040",
+      "expected_terminator": "0x4b078b",
+      "observed_terminators": [
+        "0x4b078b"
+      ],
+      "native_read_complete": true,
+      "captures": 588,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 587,
+      "review_images": [
+        "b017_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S041",
+      "case": "b017_s041",
+      "expected_terminator": "0x4b07ce",
+      "observed_terminators": [
+        "0x4b07ce"
+      ],
+      "native_read_complete": true,
+      "captures": 579,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 578,
+      "review_images": [
+        "b017_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S042",
+      "case": "b017_s042",
+      "expected_terminator": "0x4b0803",
+      "observed_terminators": [
+        "0x4b0803"
+      ],
+      "native_read_complete": true,
+      "captures": 453,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 452,
+      "review_images": [
+        "b017_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S043",
+      "case": "b017_s043",
+      "expected_terminator": "0x4b084a",
+      "observed_terminators": [
+        "0x4b084a"
+      ],
+      "native_read_complete": true,
+      "captures": 616,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 615,
+      "review_images": [
+        "b017_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S044",
+      "case": "b017_s044",
+      "expected_terminator": "0x4b0875",
+      "observed_terminators": [
+        "0x4b0875"
+      ],
+      "native_read_complete": true,
+      "captures": 366,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 365,
+      "review_images": [
+        "b017_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S045",
+      "case": "b017_s045",
+      "expected_terminator": "0x4b089f",
+      "observed_terminators": [
+        "0x4b089f"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 353,
+      "review_images": [
+        "b017_s045_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S046",
+      "case": "b017_s046",
+      "expected_terminator": "0x4b08d4",
+      "observed_terminators": [
+        "0x4b08d4"
+      ],
+      "native_read_complete": true,
+      "captures": 454,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 453,
+      "review_images": [
+        "b017_s046_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S047",
+      "case": "b017_s047",
+      "expected_terminator": "0x4b0903",
+      "observed_terminators": [
+        "0x4b0903"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b017_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S048",
+      "case": "b017_s048",
+      "expected_terminator": "0x4b0947",
+      "observed_terminators": [
+        "0x4b0947"
+      ],
+      "native_read_complete": true,
+      "captures": 589,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 588,
+      "review_images": [
+        "b017_s048_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S050",
+      "case": "b017_s050",
+      "expected_terminator": "0x4b0964",
+      "observed_terminators": [
+        "0x4b0964"
+      ],
+      "native_read_complete": true,
+      "captures": 247,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 246,
+      "review_images": [
+        "b017_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S051",
+      "case": "b017_s051",
+      "expected_terminator": "0x4b0982",
+      "observed_terminators": [
+        "0x4b0982"
+      ],
+      "native_read_complete": true,
+      "captures": 275,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 274,
+      "review_images": [
+        "b017_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S052",
+      "case": "b017_s052",
+      "expected_terminator": "0x4b09af",
+      "observed_terminators": [
+        "0x4b09af"
+      ],
+      "native_read_complete": true,
+      "captures": 409,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 408,
+      "review_images": [
+        "b017_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S053",
+      "case": "b017_s053",
+      "expected_terminator": "0x4b09dc",
+      "observed_terminators": [
+        "0x4b09dc"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 409,
+      "review_images": [
+        "b017_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S054",
+      "case": "b017_s054",
+      "expected_terminator": "0x4b0a1b",
+      "observed_terminators": [
+        "0x4b0a1b"
+      ],
+      "native_read_complete": true,
+      "captures": 572,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 571,
+      "review_images": [
+        "b017_s054_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S055",
+      "case": "b017_s055",
+      "expected_terminator": "0x4b0a3e",
+      "observed_terminators": [
+        "0x4b0a3e"
+      ],
+      "native_read_complete": true,
+      "captures": 320,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 319,
+      "review_images": [
+        "b017_s055_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S056",
+      "case": "b017_s056",
+      "expected_terminator": "0x4b0a64",
+      "observed_terminators": [
+        "0x4b0a64"
+      ],
+      "native_read_complete": true,
+      "captures": 350,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 349,
+      "review_images": [
+        "b017_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S058",
+      "case": "b017_s058",
+      "expected_terminator": "0x4b0a7e",
+      "observed_terminators": [
+        "0x4b0a7e"
+      ],
+      "native_read_complete": true,
+      "captures": 221,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 220,
+      "review_images": [
+        "b017_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S059",
+      "case": "b017_s059",
+      "expected_terminator": "0x4b0aa0",
+      "observed_terminators": [
+        "0x4b0aa0"
+      ],
+      "native_read_complete": true,
+      "captures": 314,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 313,
+      "review_images": [
+        "b017_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S060",
+      "case": "b017_s060",
+      "expected_terminator": "0x4b0adc",
+      "observed_terminators": [
+        "0x4b0adc"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 515,
+      "review_images": [
+        "b017_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S061",
+      "case": "b017_s061",
+      "expected_terminator": "0x4b0aed",
+      "observed_terminators": [
+        "0x4b0aed"
+      ],
+      "native_read_complete": true,
+      "captures": 129,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 128,
+      "review_images": [
+        "b017_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S065",
+      "case": "b017_s065",
+      "expected_terminator": "0x4b0b45",
+      "observed_terminators": [
+        "0x4b0b45"
+      ],
+      "native_read_complete": true,
+      "captures": 743,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 742,
+      "review_images": [
+        "b017_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S066",
+      "case": "b017_s066",
+      "expected_terminator": "0x4b0b6e",
+      "observed_terminators": [
+        "0x4b0b6e"
+      ],
+      "native_read_complete": true,
+      "captures": 374,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 373,
+      "review_images": [
+        "b017_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S067",
+      "case": "b017_s067",
+      "expected_terminator": "0x4b0ba1",
+      "observed_terminators": [
+        "0x4b0ba1"
+      ],
+      "native_read_complete": true,
+      "captures": 464,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 463,
+      "review_images": [
+        "b017_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S068",
+      "case": "b017_s068",
+      "expected_terminator": "0x4b0be5",
+      "observed_terminators": [
+        "0x4b0be5"
+      ],
+      "native_read_complete": true,
+      "captures": 617,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 616,
+      "review_images": [
+        "b017_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S069",
+      "case": "b017_s069",
+      "expected_terminator": "0x4b0c10",
+      "observed_terminators": [
+        "0x4b0c10"
+      ],
+      "native_read_complete": true,
+      "captures": 395,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 394,
+      "review_images": [
+        "b017_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S071",
+      "case": "b017_s071",
+      "expected_terminator": "0x4b0c5b",
+      "observed_terminators": [
+        "0x4b0c5b"
+      ],
+      "native_read_complete": true,
+      "captures": 664,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 663,
+      "review_images": [
+        "b017_s071_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S072",
+      "case": "b017_s072",
+      "expected_terminator": "0x4b0c9b",
+      "observed_terminators": [
+        "0x4b0c9b"
+      ],
+      "native_read_complete": true,
+      "captures": 554,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 553,
+      "review_images": [
+        "b017_s072_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S073",
+      "case": "b017_s073",
+      "expected_terminator": "0x4b0ce6",
+      "observed_terminators": [
+        "0x4b0ce6"
+      ],
+      "native_read_complete": true,
+      "captures": 653,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 652,
+      "review_images": [
+        "b017_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S074",
+      "case": "b017_s074",
+      "expected_terminator": "0x4b0d2c",
+      "observed_terminators": [
+        "0x4b0d2c"
+      ],
+      "native_read_complete": true,
+      "captures": 607,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 606,
+      "review_images": [
+        "b017_s074_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S075",
+      "case": "b017_s075",
+      "expected_terminator": "0x4b0d51",
+      "observed_terminators": [
+        "0x4b0d51"
+      ],
+      "native_read_complete": true,
+      "captures": 309,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 308,
+      "review_images": [
+        "b017_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S076",
+      "case": "b017_s076",
+      "expected_terminator": "0x4b0d6a",
+      "observed_terminators": [
+        "0x4b0d6a"
+      ],
+      "native_read_complete": true,
+      "captures": 201,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 200,
+      "review_images": [
+        "b017_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S077",
+      "case": "b017_s077",
+      "expected_terminator": "0x4b0db5",
+      "observed_terminators": [
+        "0x4b0db5"
+      ],
+      "native_read_complete": true,
+      "captures": 652,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 651,
+      "review_images": [
+        "b017_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S078",
+      "case": "b017_s078",
+      "expected_terminator": "0x4b0dd8",
+      "observed_terminators": [
+        "0x4b0dd8"
+      ],
+      "native_read_complete": true,
+      "captures": 295,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 294,
+      "review_images": [
+        "b017_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S079",
+      "case": "b017_s079",
+      "expected_terminator": "0x4b0dfd",
+      "observed_terminators": [
+        "0x4b0dfd"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b017_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S080",
+      "case": "b017_s080",
+      "expected_terminator": "0x4b0e4b",
+      "observed_terminators": [
+        "0x4b0e4b"
+      ],
+      "native_read_complete": true,
+      "captures": 679,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 678,
+      "review_images": [
+        "b017_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S081",
+      "case": "b017_s081",
+      "expected_terminator": "0x4b0e8b",
+      "observed_terminators": [
+        "0x4b0e8b"
+      ],
+      "native_read_complete": true,
+      "captures": 581,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 580,
+      "review_images": [
+        "b017_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S082",
+      "case": "b017_s082",
+      "expected_terminator": "0x4b0eb6",
+      "observed_terminators": [
+        "0x4b0eb6"
+      ],
+      "native_read_complete": true,
+      "captures": 391,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 390,
+      "review_images": [
+        "b017_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S083",
+      "case": "b017_s083",
+      "expected_terminator": "0x4b0ef4",
+      "observed_terminators": [
+        "0x4b0ef4"
+      ],
+      "native_read_complete": true,
+      "captures": 563,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 562,
+      "review_images": [
+        "b017_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S084",
+      "case": "b017_s084",
+      "expected_terminator": "0x4b0f36",
+      "observed_terminators": [
+        "0x4b0f36"
+      ],
+      "native_read_complete": true,
+      "captures": 599,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 598,
+      "review_images": [
+        "b017_s084_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S085",
+      "case": "b017_s085",
+      "expected_terminator": "0x4b0f7e",
+      "observed_terminators": [
+        "0x4b0f7e"
+      ],
+      "native_read_complete": true,
+      "captures": 653,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 652,
+      "review_images": [
+        "b017_s085_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S086",
+      "case": "b017_s086",
+      "expected_terminator": "0x4b0fc4",
+      "observed_terminators": [
+        "0x4b0fc4"
+      ],
+      "native_read_complete": true,
+      "captures": 637,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 636,
+      "review_images": [
+        "b017_s086_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S087",
+      "case": "b017_s087",
+      "expected_terminator": "0x4b1004",
+      "observed_terminators": [
+        "0x4b1004"
+      ],
+      "native_read_complete": true,
+      "captures": 552,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 551,
+      "review_images": [
+        "b017_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S088",
+      "case": "b017_s088",
+      "expected_terminator": "0x4b102f",
+      "observed_terminators": [
+        "0x4b102f"
+      ],
+      "native_read_complete": true,
+      "captures": 363,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 362,
+      "review_images": [
+        "b017_s088_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S089",
+      "case": "b017_s089",
+      "expected_terminator": "0x4b106b",
+      "observed_terminators": [
+        "0x4b106b"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 515,
+      "review_images": [
+        "b017_s089_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S090",
+      "case": "b017_s090",
+      "expected_terminator": "0x4b1091",
+      "observed_terminators": [
+        "0x4b1091"
+      ],
+      "native_read_complete": true,
+      "captures": 319,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 318,
+      "review_images": [
+        "b017_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S091",
+      "case": "b017_s091",
+      "expected_terminator": "0x4b10d7",
+      "observed_terminators": [
+        "0x4b10d7"
+      ],
+      "native_read_complete": true,
+      "captures": 606,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 605,
+      "review_images": [
+        "b017_s091_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S092",
+      "case": "b017_s092",
+      "expected_terminator": "0x4b10fc",
+      "observed_terminators": [
+        "0x4b10fc"
+      ],
+      "native_read_complete": true,
+      "captures": 309,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 308,
+      "review_images": [
+        "b017_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S093",
+      "case": "b017_s093",
+      "expected_terminator": "0x4b111b",
+      "observed_terminators": [
+        "0x4b111b"
+      ],
+      "native_read_complete": true,
+      "captures": 257,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 256,
+      "review_images": [
+        "b017_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S095",
+      "case": "b017_s095",
+      "expected_terminator": "0x4b114b",
+      "observed_terminators": [
+        "0x4b114b"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b017_s095_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S097",
+      "case": "b017_s097",
+      "expected_terminator": "0x4b1189",
+      "observed_terminators": [
+        "0x4b1189"
+      ],
+      "native_read_complete": true,
+      "captures": 545,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 544,
+      "review_images": [
+        "b017_s097_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S098",
+      "case": "b017_s098",
+      "expected_terminator": "0x4b11bf",
+      "observed_terminators": [
+        "0x4b11bf"
+      ],
+      "native_read_complete": true,
+      "captures": 490,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 489,
+      "review_images": [
+        "b017_s098_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S099",
+      "case": "b017_s099",
+      "expected_terminator": "0x4b120b",
+      "observed_terminators": [
+        "0x4b120b"
+      ],
+      "native_read_complete": true,
+      "captures": 689,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 688,
+      "review_images": [
+        "b017_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S100",
+      "case": "b017_s100",
+      "expected_terminator": "0x4b1251",
+      "observed_terminators": [
+        "0x4b1251"
+      ],
+      "native_read_complete": true,
+      "captures": 635,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 634,
+      "review_images": [
+        "b017_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S101",
+      "case": "b017_s101",
+      "expected_terminator": "0x4b126c",
+      "observed_terminators": [
+        "0x4b126c"
+      ],
+      "native_read_complete": true,
+      "captures": 248,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 247,
+      "review_images": [
+        "b017_s101_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S102",
+      "case": "b017_s102",
+      "expected_terminator": "0x4b1298",
+      "observed_terminators": [
+        "0x4b1298"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b017_s102_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S103",
+      "case": "b017_s103",
+      "expected_terminator": "0x4b12d7",
+      "observed_terminators": [
+        "0x4b12d7"
+      ],
+      "native_read_complete": true,
+      "captures": 573,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 572,
+      "review_images": [
+        "b017_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S104",
+      "case": "b017_s104",
+      "expected_terminator": "0x4b1320",
+      "observed_terminators": [
+        "0x4b1320"
+      ],
+      "native_read_complete": true,
+      "captures": 633,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 632,
+      "review_images": [
+        "b017_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S105",
+      "case": "b017_s105",
+      "expected_terminator": "0x4b1359",
+      "observed_terminators": [
+        "0x4b1359"
+      ],
+      "native_read_complete": true,
+      "captures": 489,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 488,
+      "review_images": [
+        "b017_s105_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S106",
+      "case": "b017_s106",
+      "expected_terminator": "0x4b1399",
+      "observed_terminators": [
+        "0x4b1399"
+      ],
+      "native_read_complete": true,
+      "captures": 552,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 551,
+      "review_images": [
+        "b017_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S107",
+      "case": "b017_s107",
+      "expected_terminator": "0x4b13e5",
+      "observed_terminators": [
+        "0x4b13e5"
+      ],
+      "native_read_complete": true,
+      "captures": 660,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 659,
+      "review_images": [
+        "b017_s107_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S108",
+      "case": "b017_s108",
+      "expected_terminator": "0x4b1428",
+      "observed_terminators": [
+        "0x4b1428"
+      ],
+      "native_read_complete": true,
+      "captures": 579,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 578,
+      "review_images": [
+        "b017_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S109",
+      "case": "b017_s109",
+      "expected_terminator": "0x4b146f",
+      "observed_terminators": [
+        "0x4b146f"
+      ],
+      "native_read_complete": true,
+      "captures": 616,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 615,
+      "review_images": [
+        "b017_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S110",
+      "case": "b017_s110",
+      "expected_terminator": "0x4b148d",
+      "observed_terminators": [
+        "0x4b148d"
+      ],
+      "native_read_complete": true,
+      "captures": 247,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 246,
+      "review_images": [
+        "b017_s110_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S111",
+      "case": "b017_s111",
+      "expected_terminator": "0x4b14c4",
+      "observed_terminators": [
+        "0x4b14c4"
+      ],
+      "native_read_complete": true,
+      "captures": 474,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 473,
+      "review_images": [
+        "b017_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S112",
+      "case": "b017_s112",
+      "expected_terminator": "0x4b14e7",
+      "observed_terminators": [
+        "0x4b14e7"
+      ],
+      "native_read_complete": true,
+      "captures": 292,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 291,
+      "review_images": [
+        "b017_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S113",
+      "case": "b017_s113",
+      "expected_terminator": "0x4b152d",
+      "observed_terminators": [
+        "0x4b152d"
+      ],
+      "native_read_complete": true,
+      "captures": 634,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 633,
+      "review_images": [
+        "b017_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S114",
+      "case": "b017_s114",
+      "expected_terminator": "0x4b1545",
+      "observed_terminators": [
+        "0x4b1545"
+      ],
+      "native_read_complete": true,
+      "captures": 221,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 220,
+      "review_images": [
+        "b017_s114_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S115",
+      "case": "b017_s115",
+      "expected_terminator": "0x4b1572",
+      "observed_terminators": [
+        "0x4b1572"
+      ],
+      "native_read_complete": true,
+      "captures": 409,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 408,
+      "review_images": [
+        "b017_s115_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S116",
+      "case": "b017_s116",
+      "expected_terminator": "0x4b15ad",
+      "observed_terminators": [
+        "0x4b15ad"
+      ],
+      "native_read_complete": true,
+      "captures": 536,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 535,
+      "review_images": [
+        "b017_s116_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S117",
+      "case": "b017_s117",
+      "expected_terminator": "0x4b15f7",
+      "observed_terminators": [
+        "0x4b15f7"
+      ],
+      "native_read_complete": true,
+      "captures": 671,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 670,
+      "review_images": [
+        "b017_s117_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S118",
+      "case": "b017_s118",
+      "expected_terminator": "0x4b1641",
+      "observed_terminators": [
+        "0x4b1641"
+      ],
+      "native_read_complete": true,
+      "captures": 671,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 670,
+      "review_images": [
+        "b017_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S119",
+      "case": "b017_s119",
+      "expected_terminator": "0x4b1650",
+      "observed_terminators": [
+        "0x4b1650"
+      ],
+      "native_read_complete": true,
+      "captures": 140,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 139,
+      "review_images": [
+        "b017_s119_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S120",
+      "case": "b017_s120",
+      "expected_terminator": "0x4b1668",
+      "observed_terminators": [
+        "0x4b1668"
+      ],
+      "native_read_complete": true,
+      "captures": 221,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 220,
+      "review_images": [
+        "b017_s120_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S121",
+      "case": "b017_s121",
+      "expected_terminator": "0x4b16aa",
+      "observed_terminators": [
+        "0x4b16aa"
+      ],
+      "native_read_complete": true,
+      "captures": 570,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 569,
+      "review_images": [
+        "b017_s121_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S122",
+      "case": "b017_s122",
+      "expected_terminator": "0x4b16cf",
+      "observed_terminators": [
+        "0x4b16cf"
+      ],
+      "native_read_complete": true,
+      "captures": 309,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 308,
+      "review_images": [
+        "b017_s122_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S123",
+      "case": "b017_s123",
+      "expected_terminator": "0x4b16f5",
+      "observed_terminators": [
+        "0x4b16f5"
+      ],
+      "native_read_complete": true,
+      "captures": 318,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 317,
+      "review_images": [
+        "b017_s123_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S124",
+      "case": "b017_s124",
+      "expected_terminator": "0x4b1716",
+      "observed_terminators": [
+        "0x4b1716"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 272,
+      "review_images": [
+        "b017_s124_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S125",
+      "case": "b017_s125",
+      "expected_terminator": "0x4b1752",
+      "observed_terminators": [
+        "0x4b1752"
+      ],
+      "native_read_complete": true,
+      "captures": 518,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 517,
+      "review_images": [
+        "b017_s125_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S126",
+      "case": "b017_s126",
+      "expected_terminator": "0x4b1788",
+      "observed_terminators": [
+        "0x4b1788"
+      ],
+      "native_read_complete": true,
+      "captures": 462,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 461,
+      "review_images": [
+        "b017_s126_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S129",
+      "case": "b017_s129",
+      "expected_terminator": "0x4b17c6",
+      "observed_terminators": [
+        "0x4b17c6"
+      ],
+      "native_read_complete": true,
+      "captures": 527,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 526,
+      "review_images": [
+        "b017_s129_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S130",
+      "case": "b017_s130",
+      "expected_terminator": "0x4b17e6",
+      "observed_terminators": [
+        "0x4b17e6"
+      ],
+      "native_read_complete": true,
+      "captures": 292,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 291,
+      "review_images": [
+        "b017_s130_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S131",
+      "case": "b017_s131",
+      "expected_terminator": "0x4b1823",
+      "observed_terminators": [
+        "0x4b1823"
+      ],
+      "native_read_complete": true,
+      "captures": 553,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 552,
+      "review_images": [
+        "b017_s131_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S132",
+      "case": "b017_s132",
+      "expected_terminator": "0x4b1864",
+      "observed_terminators": [
+        "0x4b1864"
+      ],
+      "native_read_complete": true,
+      "captures": 590,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 589,
+      "review_images": [
+        "b017_s132_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S133",
+      "case": "b017_s133",
+      "expected_terminator": "0x4b18a7",
+      "observed_terminators": [
+        "0x4b18a7"
+      ],
+      "native_read_complete": true,
+      "captures": 608,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 607,
+      "review_images": [
+        "b017_s133_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S134",
+      "case": "b017_s134",
+      "expected_terminator": "0x4b18cc",
+      "observed_terminators": [
+        "0x4b18cc"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b017_s134_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S135",
+      "case": "b017_s135",
+      "expected_terminator": "0x4b18f9",
+      "observed_terminators": [
+        "0x4b18f9"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 409,
+      "review_images": [
+        "b017_s135_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S136",
+      "case": "b017_s136",
+      "expected_terminator": "0x4b1947",
+      "observed_terminators": [
+        "0x4b1947"
+      ],
+      "native_read_complete": true,
+      "captures": 681,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 680,
+      "review_images": [
+        "b017_s136_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S137",
+      "case": "b017_s137",
+      "expected_terminator": "0x4b197c",
+      "observed_terminators": [
+        "0x4b197c"
+      ],
+      "native_read_complete": true,
+      "captures": 453,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 452,
+      "review_images": [
+        "b017_s137_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S138",
+      "case": "b017_s138",
+      "expected_terminator": "0x4b19b5",
+      "observed_terminators": [
+        "0x4b19b5"
+      ],
+      "native_read_complete": true,
+      "captures": 489,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 488,
+      "review_images": [
+        "b017_s138_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S139",
+      "case": "b017_s139",
+      "expected_terminator": "0x4b19dc",
+      "observed_terminators": [
+        "0x4b19dc"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 326,
+      "review_images": [
+        "b017_s139_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S140",
+      "case": "b017_s140",
+      "expected_terminator": "0x4b1a19",
+      "observed_terminators": [
+        "0x4b1a19"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 525,
+      "review_images": [
+        "b017_s140_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S141",
+      "case": "b017_s141",
+      "expected_terminator": "0x4b1a3a",
+      "observed_terminators": [
+        "0x4b1a3a"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 272,
+      "review_images": [
+        "b017_s141_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S142",
+      "case": "b017_s142",
+      "expected_terminator": "0x4b1a63",
+      "observed_terminators": [
+        "0x4b1a63"
+      ],
+      "native_read_complete": true,
+      "captures": 348,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 347,
+      "review_images": [
+        "b017_s142_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S143",
+      "case": "b017_s143",
+      "expected_terminator": "0x4b1aa0",
+      "observed_terminators": [
+        "0x4b1aa0"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 525,
+      "review_images": [
+        "b017_s143_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S144",
+      "case": "b017_s144",
+      "expected_terminator": "0x4b1ac5",
+      "observed_terminators": [
+        "0x4b1ac5"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b017_s144_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S145",
+      "case": "b017_s145",
+      "expected_terminator": "0x4b1af3",
+      "observed_terminators": [
+        "0x4b1af3"
+      ],
+      "native_read_complete": true,
+      "captures": 419,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 418,
+      "review_images": [
+        "b017_s145_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S146",
+      "case": "b017_s146",
+      "expected_terminator": "0x4b1b1f",
+      "observed_terminators": [
+        "0x4b1b1f"
+      ],
+      "native_read_complete": true,
+      "captures": 400,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 399,
+      "review_images": [
+        "b017_s146_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S147",
+      "case": "b017_s147",
+      "expected_terminator": "0x4b1b35",
+      "observed_terminators": [
+        "0x4b1b35"
+      ],
+      "native_read_complete": true,
+      "captures": 202,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 201,
+      "review_images": [
+        "b017_s147_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S148",
+      "case": "b017_s148",
+      "expected_terminator": "0x4b1b7c",
+      "observed_terminators": [
+        "0x4b1b7c"
+      ],
+      "native_read_complete": true,
+      "captures": 647,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 646,
+      "review_images": [
+        "b017_s148_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S149",
+      "case": "b017_s149",
+      "expected_terminator": "0x4b1ba2",
+      "observed_terminators": [
+        "0x4b1ba2"
+      ],
+      "native_read_complete": true,
+      "captures": 347,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 346,
+      "review_images": [
+        "b017_s149_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S150",
+      "case": "b017_s150",
+      "expected_terminator": "0x4b1bc9",
+      "observed_terminators": [
+        "0x4b1bc9"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 355,
+      "review_images": [
+        "b017_s150_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S151",
+      "case": "b017_s151",
+      "expected_terminator": "0x4b1bf6",
+      "observed_terminators": [
+        "0x4b1bf6"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 409,
+      "review_images": [
+        "b017_s151_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S152",
+      "case": "b017_s152",
+      "expected_terminator": "0x4b1c22",
+      "observed_terminators": [
+        "0x4b1c22"
+      ],
+      "native_read_complete": true,
+      "captures": 403,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 402,
+      "review_images": [
+        "b017_s152_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S153",
+      "case": "b017_s153",
+      "expected_terminator": "0x4b1c4f",
+      "observed_terminators": [
+        "0x4b1c4f"
+      ],
+      "native_read_complete": true,
+      "captures": 411,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 410,
+      "review_images": [
+        "b017_s153_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S154",
+      "case": "b017_s154",
+      "expected_terminator": "0x4b1c6c",
+      "observed_terminators": [
+        "0x4b1c6c"
+      ],
+      "native_read_complete": true,
+      "captures": 239,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 238,
+      "review_images": [
+        "b017_s154_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S155",
+      "case": "b017_s155",
+      "expected_terminator": "0x4b1c8f",
+      "observed_terminators": [
+        "0x4b1c8f"
+      ],
+      "native_read_complete": true,
+      "captures": 291,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 290,
+      "review_images": [
+        "b017_s155_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S156",
+      "case": "b017_s156",
+      "expected_terminator": "0x4b1cbc",
+      "observed_terminators": [
+        "0x4b1cbc"
+      ],
+      "native_read_complete": true,
+      "captures": 381,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 380,
+      "review_images": [
+        "b017_s156_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S157",
+      "case": "b017_s157",
+      "expected_terminator": "0x4b1cfb",
+      "observed_terminators": [
+        "0x4b1cfb"
+      ],
+      "native_read_complete": true,
+      "captures": 543,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 542,
+      "review_images": [
+        "b017_s157_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S158",
+      "case": "b017_s158",
+      "expected_terminator": "0x4b1d41",
+      "observed_terminators": [
+        "0x4b1d41"
+      ],
+      "native_read_complete": true,
+      "captures": 607,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 606,
+      "review_images": [
+        "b017_s158_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S159",
+      "case": "b017_s159",
+      "expected_terminator": "0x4b1d89",
+      "observed_terminators": [
+        "0x4b1d89"
+      ],
+      "native_read_complete": true,
+      "captures": 624,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 623,
+      "review_images": [
+        "b017_s159_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S161",
+      "case": "b017_s161",
+      "expected_terminator": "0x4b1dc9",
+      "observed_terminators": [
+        "0x4b1dc9"
+      ],
+      "native_read_complete": true,
+      "captures": 563,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 562,
+      "review_images": [
+        "b017_s161_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S162",
+      "case": "b017_s162",
+      "expected_terminator": "0x4b1df9",
+      "observed_terminators": [
+        "0x4b1df9"
+      ],
+      "native_read_complete": true,
+      "captures": 437,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 436,
+      "review_images": [
+        "b017_s162_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S163",
+      "case": "b017_s163",
+      "expected_terminator": "0x4b1e3d",
+      "observed_terminators": [
+        "0x4b1e3d"
+      ],
+      "native_read_complete": true,
+      "captures": 616,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 615,
+      "review_images": [
+        "b017_s163_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S165",
+      "case": "b017_s165",
+      "expected_terminator": "0x4b1e89",
+      "observed_terminators": [
+        "0x4b1e89"
+      ],
+      "native_read_complete": true,
+      "captures": 671,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 670,
+      "review_images": [
+        "b017_s165_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S166",
+      "case": "b017_s166",
+      "expected_terminator": "0x4b1ed4",
+      "observed_terminators": [
+        "0x4b1ed4"
+      ],
+      "native_read_complete": true,
+      "captures": 680,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 679,
+      "review_images": [
+        "b017_s166_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S167",
+      "case": "b017_s167",
+      "expected_terminator": "0x4b1f0f",
+      "observed_terminators": [
+        "0x4b1f0f"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 537,
+      "review_images": [
+        "b017_s167_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S168",
+      "case": "b017_s168",
+      "expected_terminator": "0x4b1f3e",
+      "observed_terminators": [
+        "0x4b1f3e"
+      ],
+      "native_read_complete": true,
+      "captures": 399,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 398,
+      "review_images": [
+        "b017_s168_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S169",
+      "case": "b017_s169",
+      "expected_terminator": "0x4b1f7a",
+      "observed_terminators": [
+        "0x4b1f7a"
+      ],
+      "native_read_complete": true,
+      "captures": 516,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 515,
+      "review_images": [
+        "b017_s169_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S170",
+      "case": "b017_s170",
+      "expected_terminator": "0x4b1fb5",
+      "observed_terminators": [
+        "0x4b1fb5"
+      ],
+      "native_read_complete": true,
+      "captures": 507,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 506,
+      "review_images": [
+        "b017_s170_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S171",
+      "case": "b017_s171",
+      "expected_terminator": "0x4b1ff4",
+      "observed_terminators": [
+        "0x4b1ff4"
+      ],
+      "native_read_complete": true,
+      "captures": 543,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 542,
+      "review_images": [
+        "b017_s171_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S172",
+      "case": "b017_s172",
+      "expected_terminator": "0x4b2018",
+      "observed_terminators": [
+        "0x4b2018"
+      ],
+      "native_read_complete": true,
+      "captures": 300,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 299,
+      "review_images": [
+        "b017_s172_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S174",
+      "case": "b017_s174",
+      "expected_terminator": "0x4b2040",
+      "observed_terminators": [
+        "0x4b2040"
+      ],
+      "native_read_complete": true,
+      "captures": 318,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 317,
+      "review_images": [
+        "b017_s174_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S176",
+      "case": "b017_s176",
+      "expected_terminator": "0x4b2066",
+      "observed_terminators": [
+        "0x4b2066"
+      ],
+      "native_read_complete": true,
+      "captures": 302,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 301,
+      "review_images": [
+        "b017_s176_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S177",
+      "case": "b017_s177",
+      "expected_terminator": "0x4b2088",
+      "observed_terminators": [
+        "0x4b2088"
+      ],
+      "native_read_complete": true,
+      "captures": 310,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 309,
+      "review_images": [
+        "b017_s177_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S178",
+      "case": "b017_s178",
+      "expected_terminator": "0x4b20ac",
+      "observed_terminators": [
+        "0x4b20ac"
+      ],
+      "native_read_complete": true,
+      "captures": 328,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 327,
+      "review_images": [
+        "b017_s178_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S179",
+      "case": "b017_s179",
+      "expected_terminator": "0x4b20ea",
+      "observed_terminators": [
+        "0x4b20ea"
+      ],
+      "native_read_complete": true,
+      "captures": 562,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 561,
+      "review_images": [
+        "b017_s179_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S180",
+      "case": "b017_s180",
+      "expected_terminator": "0x4b2108",
+      "observed_terminators": [
+        "0x4b2108"
+      ],
+      "native_read_complete": true,
+      "captures": 275,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 274,
+      "review_images": [
+        "b017_s180_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S181",
+      "case": "b017_s181",
+      "expected_terminator": "0x4b2146",
+      "observed_terminators": [
+        "0x4b2146"
+      ],
+      "native_read_complete": true,
+      "captures": 563,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 562,
+      "review_images": [
+        "b017_s181_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S182",
+      "case": "b017_s182",
+      "expected_terminator": "0x4b2187",
+      "observed_terminators": [
+        "0x4b2187"
+      ],
+      "native_read_complete": true,
+      "captures": 591,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 590,
+      "review_images": [
+        "b017_s182_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S183",
+      "case": "b017_s183",
+      "expected_terminator": "0x4b21ce",
+      "observed_terminators": [
+        "0x4b21ce"
+      ],
+      "native_read_complete": true,
+      "captures": 644,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 643,
+      "review_images": [
+        "b017_s183_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S184",
+      "case": "b017_s184",
+      "expected_terminator": "0x4b21e0",
+      "observed_terminators": [
+        "0x4b21e0"
+      ],
+      "native_read_complete": true,
+      "captures": 167,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 166,
+      "review_images": [
+        "b017_s184_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S185",
+      "case": "b017_s185",
+      "expected_terminator": "0x4b2213",
+      "observed_terminators": [
+        "0x4b2213"
+      ],
+      "native_read_complete": true,
+      "captures": 438,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 437,
+      "review_images": [
+        "b017_s185_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S186",
+      "case": "b017_s186",
+      "expected_terminator": "0x4b225d",
+      "observed_terminators": [
+        "0x4b225d"
+      ],
+      "native_read_complete": true,
+      "captures": 642,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 641,
+      "review_images": [
+        "b017_s186_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S188",
+      "case": "b017_s188",
+      "expected_terminator": "0x4b2298",
+      "observed_terminators": [
+        "0x4b2298"
+      ],
+      "native_read_complete": true,
+      "captures": 489,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 488,
+      "review_images": [
+        "b017_s188_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B017-S190",
+      "case": "b017_s190",
+      "expected_terminator": "0x4b22b9",
+      "observed_terminators": [
+        "0x4b22b9"
+      ],
+      "native_read_complete": true,
+      "captures": 255,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 254,
+      "review_images": [
+        "b017_s190_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S001",
+      "case": "b018_s001",
+      "expected_terminator": "0x4b2322",
+      "observed_terminators": [
+        "0x4b2322"
+      ],
+      "native_read_complete": true,
+      "captures": 679,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 678,
+      "review_images": [
+        "b018_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S002",
+      "case": "b018_s002",
+      "expected_terminator": "0x4b2367",
+      "observed_terminators": [
+        "0x4b2367"
+      ],
+      "native_read_complete": true,
+      "captures": 626,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 625,
+      "review_images": [
+        "b018_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S003",
+      "case": "b018_s003",
+      "expected_terminator": "0x4b23a3",
+      "observed_terminators": [
+        "0x4b23a3"
+      ],
+      "native_read_complete": true,
+      "captures": 546,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 545,
+      "review_images": [
+        "b018_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S004",
+      "case": "b018_s004",
+      "expected_terminator": "0x4b23ea",
+      "observed_terminators": [
+        "0x4b23ea"
+      ],
+      "native_read_complete": true,
+      "captures": 644,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 643,
+      "review_images": [
+        "b018_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S006",
+      "case": "b018_s006",
+      "expected_terminator": "0x4b2418",
+      "observed_terminators": [
+        "0x4b2418"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b018_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S007",
+      "case": "b018_s007",
+      "expected_terminator": "0x4b244f",
+      "observed_terminators": [
+        "0x4b244f"
+      ],
+      "native_read_complete": true,
+      "captures": 500,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 499,
+      "review_images": [
+        "b018_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S008",
+      "case": "b018_s008",
+      "expected_terminator": "0x4b2498",
+      "observed_terminators": [
+        "0x4b2498"
+      ],
+      "native_read_complete": true,
+      "captures": 633,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 632,
+      "review_images": [
+        "b018_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S010",
+      "case": "b018_s010",
+      "expected_terminator": "0x4b24d2",
+      "observed_terminators": [
+        "0x4b24d2"
+      ],
+      "native_read_complete": true,
+      "captures": 481,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 480,
+      "review_images": [
+        "b018_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S011",
+      "case": "b018_s011",
+      "expected_terminator": "0x4b24f5",
+      "observed_terminators": [
+        "0x4b24f5"
+      ],
+      "native_read_complete": true,
+      "captures": 291,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 290,
+      "review_images": [
+        "b018_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S012",
+      "case": "b018_s012",
+      "expected_terminator": "0x4b2548",
+      "observed_terminators": [
+        "0x4b2548"
+      ],
+      "native_read_complete": true,
+      "captures": 723,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 722,
+      "review_images": [
+        "b018_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S013",
+      "case": "b018_s013",
+      "expected_terminator": "0x4b256d",
+      "observed_terminators": [
+        "0x4b256d"
+      ],
+      "native_read_complete": true,
+      "captures": 309,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 308,
+      "review_images": [
+        "b018_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S014",
+      "case": "b018_s014",
+      "expected_terminator": "0x4b259c",
+      "observed_terminators": [
+        "0x4b259c"
+      ],
+      "native_read_complete": true,
+      "captures": 399,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 398,
+      "review_images": [
+        "b018_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S015",
+      "case": "b018_s015",
+      "expected_terminator": "0x4b25be",
+      "observed_terminators": [
+        "0x4b25be"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b018_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S016",
+      "case": "b018_s016",
+      "expected_terminator": "0x4b25e9",
+      "observed_terminators": [
+        "0x4b25e9"
+      ],
+      "native_read_complete": true,
+      "captures": 365,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 364,
+      "review_images": [
+        "b018_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S017",
+      "case": "b018_s017",
+      "expected_terminator": "0x4b2604",
+      "observed_terminators": [
+        "0x4b2604"
+      ],
+      "native_read_complete": true,
+      "captures": 248,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 247,
+      "review_images": [
+        "b018_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S018",
+      "case": "b018_s018",
+      "expected_terminator": "0x4b262c",
+      "observed_terminators": [
+        "0x4b262c"
+      ],
+      "native_read_complete": true,
+      "captures": 365,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 364,
+      "review_images": [
+        "b018_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S019",
+      "case": "b018_s019",
+      "expected_terminator": "0x4b2658",
+      "observed_terminators": [
+        "0x4b2658"
+      ],
+      "native_read_complete": true,
+      "captures": 400,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 399,
+      "review_images": [
+        "b018_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S020",
+      "case": "b018_s020",
+      "expected_terminator": "0x4b268a",
+      "observed_terminators": [
+        "0x4b268a"
+      ],
+      "native_read_complete": true,
+      "captures": 455,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 454,
+      "review_images": [
+        "b018_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S021",
+      "case": "b018_s021",
+      "expected_terminator": "0x4b26a6",
+      "observed_terminators": [
+        "0x4b26a6"
+      ],
+      "native_read_complete": true,
+      "captures": 257,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 256,
+      "review_images": [
+        "b018_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S022",
+      "case": "b018_s022",
+      "expected_terminator": "0x4b26c5",
+      "observed_terminators": [
+        "0x4b26c5"
+      ],
+      "native_read_complete": true,
+      "captures": 286,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 285,
+      "review_images": [
+        "b018_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S025",
+      "case": "b018_s025",
+      "expected_terminator": "0x4b26f6",
+      "observed_terminators": [
+        "0x4b26f6"
+      ],
+      "native_read_complete": true,
+      "captures": 411,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 410,
+      "review_images": [
+        "b018_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S026",
+      "case": "b018_s026",
+      "expected_terminator": "0x4b270e",
+      "observed_terminators": [
+        "0x4b270e"
+      ],
+      "native_read_complete": true,
+      "captures": 222,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 221,
+      "review_images": [
+        "b018_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S028",
+      "case": "b018_s028",
+      "expected_terminator": "0x4b2735",
+      "observed_terminators": [
+        "0x4b2735"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b018_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S029",
+      "case": "b018_s029",
+      "expected_terminator": "0x4b275e",
+      "observed_terminators": [
+        "0x4b275e"
+      ],
+      "native_read_complete": true,
+      "captures": 374,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 373,
+      "review_images": [
+        "b018_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S030",
+      "case": "b018_s030",
+      "expected_terminator": "0x4b2772",
+      "observed_terminators": [
+        "0x4b2772"
+      ],
+      "native_read_complete": true,
+      "captures": 185,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 184,
+      "review_images": [
+        "b018_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S031",
+      "case": "b018_s031",
+      "expected_terminator": "0x4b279a",
+      "observed_terminators": [
+        "0x4b279a"
+      ],
+      "native_read_complete": true,
+      "captures": 336,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 335,
+      "review_images": [
+        "b018_s031_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S033",
+      "case": "b018_s033",
+      "expected_terminator": "0x4b27c0",
+      "observed_terminators": [
+        "0x4b27c0"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b018_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S034",
+      "case": "b018_s034",
+      "expected_terminator": "0x4b27ef",
+      "observed_terminators": [
+        "0x4b27ef"
+      ],
+      "native_read_complete": true,
+      "captures": 428,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 427,
+      "review_images": [
+        "b018_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S035",
+      "case": "b018_s035",
+      "expected_terminator": "0x4b2826",
+      "observed_terminators": [
+        "0x4b2826"
+      ],
+      "native_read_complete": true,
+      "captures": 502,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 501,
+      "review_images": [
+        "b018_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S036",
+      "case": "b018_s036",
+      "expected_terminator": "0x4b2854",
+      "observed_terminators": [
+        "0x4b2854"
+      ],
+      "native_read_complete": true,
+      "captures": 419,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 418,
+      "review_images": [
+        "b018_s036_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S037",
+      "case": "b018_s037",
+      "expected_terminator": "0x4b2867",
+      "observed_terminators": [
+        "0x4b2867"
+      ],
+      "native_read_complete": true,
+      "captures": 177,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 176,
+      "review_images": [
+        "b018_s037_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S038",
+      "case": "b018_s038",
+      "expected_terminator": "0x4b28b3",
+      "observed_terminators": [
+        "0x4b28b3"
+      ],
+      "native_read_complete": true,
+      "captures": 690,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 689,
+      "review_images": [
+        "b018_s038_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S039",
+      "case": "b018_s039",
+      "expected_terminator": "0x4b28e2",
+      "observed_terminators": [
+        "0x4b28e2"
+      ],
+      "native_read_complete": true,
+      "captures": 429,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 428,
+      "review_images": [
+        "b018_s039_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S040",
+      "case": "b018_s040",
+      "expected_terminator": "0x4b2920",
+      "observed_terminators": [
+        "0x4b2920"
+      ],
+      "native_read_complete": true,
+      "captures": 563,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 562,
+      "review_images": [
+        "b018_s040_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S041",
+      "case": "b018_s041",
+      "expected_terminator": "0x4b297b",
+      "observed_terminators": [
+        "0x4b297b"
+      ],
+      "native_read_complete": true,
+      "captures": 795,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 794,
+      "review_images": [
+        "b018_s041_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S042",
+      "case": "b018_s042",
+      "expected_terminator": "0x4b29bc",
+      "observed_terminators": [
+        "0x4b29bc"
+      ],
+      "native_read_complete": true,
+      "captures": 561,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 560,
+      "review_images": [
+        "b018_s042_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S043",
+      "case": "b018_s043",
+      "expected_terminator": "0x4b29ea",
+      "observed_terminators": [
+        "0x4b29ea"
+      ],
+      "native_read_complete": true,
+      "captures": 391,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 390,
+      "review_images": [
+        "b018_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S044",
+      "case": "b018_s044",
+      "expected_terminator": "0x4b2a0e",
+      "observed_terminators": [
+        "0x4b2a0e"
+      ],
+      "native_read_complete": true,
+      "captures": 300,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 299,
+      "review_images": [
+        "b018_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S046",
+      "case": "b018_s046",
+      "expected_terminator": "0x4b2a28",
+      "observed_terminators": [
+        "0x4b2a28"
+      ],
+      "native_read_complete": true,
+      "captures": 193,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 192,
+      "review_images": [
+        "b018_s046_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S047",
+      "case": "b018_s047",
+      "expected_terminator": "0x4b2a65",
+      "observed_terminators": [
+        "0x4b2a65"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 525,
+      "review_images": [
+        "b018_s047_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S049",
+      "case": "b018_s049",
+      "expected_terminator": "0x4b2a92",
+      "observed_terminators": [
+        "0x4b2a92"
+      ],
+      "native_read_complete": true,
+      "captures": 393,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 392,
+      "review_images": [
+        "b018_s049_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S051",
+      "case": "b018_s051",
+      "expected_terminator": "0x4b2ab8",
+      "observed_terminators": [
+        "0x4b2ab8"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b018_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S052",
+      "case": "b018_s052",
+      "expected_terminator": "0x4b2adf",
+      "observed_terminators": [
+        "0x4b2adf"
+      ],
+      "native_read_complete": true,
+      "captures": 355,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 354,
+      "review_images": [
+        "b018_s052_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S053",
+      "case": "b018_s053",
+      "expected_terminator": "0x4b2b21",
+      "observed_terminators": [
+        "0x4b2b21"
+      ],
+      "native_read_complete": true,
+      "captures": 599,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 598,
+      "review_images": [
+        "b018_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S056",
+      "case": "b018_s056",
+      "expected_terminator": "0x4b2b4c",
+      "observed_terminators": [
+        "0x4b2b4c"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 355,
+      "review_images": [
+        "b018_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S057",
+      "case": "b018_s057",
+      "expected_terminator": "0x4b2b7a",
+      "observed_terminators": [
+        "0x4b2b7a"
+      ],
+      "native_read_complete": true,
+      "captures": 419,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 418,
+      "review_images": [
+        "b018_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S058",
+      "case": "b018_s058",
+      "expected_terminator": "0x4b2ba6",
+      "observed_terminators": [
+        "0x4b2ba6"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b018_s058_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S059",
+      "case": "b018_s059",
+      "expected_terminator": "0x4b2bd3",
+      "observed_terminators": [
+        "0x4b2bd3"
+      ],
+      "native_read_complete": true,
+      "captures": 410,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 409,
+      "review_images": [
+        "b018_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S060",
+      "case": "b018_s060",
+      "expected_terminator": "0x4b2bef",
+      "observed_terminators": [
+        "0x4b2bef"
+      ],
+      "native_read_complete": true,
+      "captures": 258,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 257,
+      "review_images": [
+        "b018_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S062",
+      "case": "b018_s062",
+      "expected_terminator": "0x4b2c20",
+      "observed_terminators": [
+        "0x4b2c20"
+      ],
+      "native_read_complete": true,
+      "captures": 399,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 398,
+      "review_images": [
+        "b018_s062_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S063",
+      "case": "b018_s063",
+      "expected_terminator": "0x4b2c5f",
+      "observed_terminators": [
+        "0x4b2c5f"
+      ],
+      "native_read_complete": true,
+      "captures": 545,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 544,
+      "review_images": [
+        "b018_s063_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S065",
+      "case": "b018_s065",
+      "expected_terminator": "0x4b2cae",
+      "observed_terminators": [
+        "0x4b2cae"
+      ],
+      "native_read_complete": true,
+      "captures": 698,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 697,
+      "review_images": [
+        "b018_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S066",
+      "case": "b018_s066",
+      "expected_terminator": "0x4b2cf0",
+      "observed_terminators": [
+        "0x4b2cf0"
+      ],
+      "native_read_complete": true,
+      "captures": 599,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 598,
+      "review_images": [
+        "b018_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S067",
+      "case": "b018_s067",
+      "expected_terminator": "0x4b2d16",
+      "observed_terminators": [
+        "0x4b2d16"
+      ],
+      "native_read_complete": true,
+      "captures": 347,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 346,
+      "review_images": [
+        "b018_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S068",
+      "case": "b018_s068",
+      "expected_terminator": "0x4b2d4b",
+      "observed_terminators": [
+        "0x4b2d4b"
+      ],
+      "native_read_complete": true,
+      "captures": 482,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 481,
+      "review_images": [
+        "b018_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S069",
+      "case": "b018_s069",
+      "expected_terminator": "0x4b2d76",
+      "observed_terminators": [
+        "0x4b2d76"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b018_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S070",
+      "case": "b018_s070",
+      "expected_terminator": "0x4b2d98",
+      "observed_terminators": [
+        "0x4b2d98"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b018_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S073",
+      "case": "b018_s073",
+      "expected_terminator": "0x4b2dbe",
+      "observed_terminators": [
+        "0x4b2dbe"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b018_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S074",
+      "case": "b018_s074",
+      "expected_terminator": "0x4b2de2",
+      "observed_terminators": [
+        "0x4b2de2"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b018_s074_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S077",
+      "case": "b018_s077",
+      "expected_terminator": "0x4b2e01",
+      "observed_terminators": [
+        "0x4b2e01"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 218,
+      "review_images": [
+        "b018_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S078",
+      "case": "b018_s078",
+      "expected_terminator": "0x4b2e2e",
+      "observed_terminators": [
+        "0x4b2e2e"
+      ],
+      "native_read_complete": true,
+      "captures": 381,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 380,
+      "review_images": [
+        "b018_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S079",
+      "case": "b018_s079",
+      "expected_terminator": "0x4b2e62",
+      "observed_terminators": [
+        "0x4b2e62"
+      ],
+      "native_read_complete": true,
+      "captures": 444,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 443,
+      "review_images": [
+        "b018_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S080",
+      "case": "b018_s080",
+      "expected_terminator": "0x4b2e8c",
+      "observed_terminators": [
+        "0x4b2e8c"
+      ],
+      "native_read_complete": true,
+      "captures": 355,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 354,
+      "review_images": [
+        "b018_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S081",
+      "case": "b018_s081",
+      "expected_terminator": "0x4b2eac",
+      "observed_terminators": [
+        "0x4b2eac"
+      ],
+      "native_read_complete": true,
+      "captures": 293,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 292,
+      "review_images": [
+        "b018_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S082",
+      "case": "b018_s082",
+      "expected_terminator": "0x4b2ef7",
+      "observed_terminators": [
+        "0x4b2ef7"
+      ],
+      "native_read_complete": true,
+      "captures": 680,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 679,
+      "review_images": [
+        "b018_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S084",
+      "case": "b018_s084",
+      "expected_terminator": "0x4b2f3e",
+      "observed_terminators": [
+        "0x4b2f3e"
+      ],
+      "native_read_complete": true,
+      "captures": 625,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 624,
+      "review_images": [
+        "b018_s084_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S086",
+      "case": "b018_s086",
+      "expected_terminator": "0x4b2f61",
+      "observed_terminators": [
+        "0x4b2f61"
+      ],
+      "native_read_complete": true,
+      "captures": 302,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 301,
+      "review_images": [
+        "b018_s086_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S087",
+      "case": "b018_s087",
+      "expected_terminator": "0x4b2f95",
+      "observed_terminators": [
+        "0x4b2f95"
+      ],
+      "native_read_complete": true,
+      "captures": 473,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 472,
+      "review_images": [
+        "b018_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S088",
+      "case": "b018_s088",
+      "expected_terminator": "0x4b2fd9",
+      "observed_terminators": [
+        "0x4b2fd9"
+      ],
+      "native_read_complete": true,
+      "captures": 618,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 617,
+      "review_images": [
+        "b018_s088_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S090",
+      "case": "b018_s090",
+      "expected_terminator": "0x4b2fff",
+      "observed_terminators": [
+        "0x4b2fff"
+      ],
+      "native_read_complete": true,
+      "captures": 330,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 329,
+      "review_images": [
+        "b018_s090_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S091",
+      "case": "b018_s091",
+      "expected_terminator": "0x4b3031",
+      "observed_terminators": [
+        "0x4b3031"
+      ],
+      "native_read_complete": true,
+      "captures": 427,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 426,
+      "review_images": [
+        "b018_s091_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S092",
+      "case": "b018_s092",
+      "expected_terminator": "0x4b305c",
+      "observed_terminators": [
+        "0x4b305c"
+      ],
+      "native_read_complete": true,
+      "captures": 363,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 362,
+      "review_images": [
+        "b018_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S093",
+      "case": "b018_s093",
+      "expected_terminator": "0x4b3087",
+      "observed_terminators": [
+        "0x4b3087"
+      ],
+      "native_read_complete": true,
+      "captures": 363,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 362,
+      "review_images": [
+        "b018_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S094",
+      "case": "b018_s094",
+      "expected_terminator": "0x4b30a1",
+      "observed_terminators": [
+        "0x4b30a1"
+      ],
+      "native_read_complete": true,
+      "captures": 210,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 209,
+      "review_images": [
+        "b018_s094_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S097",
+      "case": "b018_s097",
+      "expected_terminator": "0x4b30ec",
+      "observed_terminators": [
+        "0x4b30ec"
+      ],
+      "native_read_complete": true,
+      "captures": 643,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 642,
+      "review_images": [
+        "b018_s097_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S099",
+      "case": "b018_s099",
+      "expected_terminator": "0x4b312b",
+      "observed_terminators": [
+        "0x4b312b"
+      ],
+      "native_read_complete": true,
+      "captures": 553,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 552,
+      "review_images": [
+        "b018_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S100",
+      "case": "b018_s100",
+      "expected_terminator": "0x4b316b",
+      "observed_terminators": [
+        "0x4b316b"
+      ],
+      "native_read_complete": true,
+      "captures": 581,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 580,
+      "review_images": [
+        "b018_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S102",
+      "case": "b018_s102",
+      "expected_terminator": "0x4b3197",
+      "observed_terminators": [
+        "0x4b3197"
+      ],
+      "native_read_complete": true,
+      "captures": 383,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 382,
+      "review_images": [
+        "b018_s102_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S103",
+      "case": "b018_s103",
+      "expected_terminator": "0x4b31a6",
+      "observed_terminators": [
+        "0x4b31a6"
+      ],
+      "native_read_complete": true,
+      "captures": 140,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 139,
+      "review_images": [
+        "b018_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S104",
+      "case": "b018_s104",
+      "expected_terminator": "0x4b31e2",
+      "observed_terminators": [
+        "0x4b31e2"
+      ],
+      "native_read_complete": true,
+      "captures": 545,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 544,
+      "review_images": [
+        "b018_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S105",
+      "case": "b018_s105",
+      "expected_terminator": "0x4b321d",
+      "observed_terminators": [
+        "0x4b321d"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 537,
+      "review_images": [
+        "b018_s105_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S106",
+      "case": "b018_s106",
+      "expected_terminator": "0x4b326c",
+      "observed_terminators": [
+        "0x4b326c"
+      ],
+      "native_read_complete": true,
+      "captures": 687,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 686,
+      "review_images": [
+        "b018_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S108",
+      "case": "b018_s108",
+      "expected_terminator": "0x4b32b8",
+      "observed_terminators": [
+        "0x4b32b8"
+      ],
+      "native_read_complete": true,
+      "captures": 642,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 641,
+      "review_images": [
+        "b018_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S109",
+      "case": "b018_s109",
+      "expected_terminator": "0x4b32f8",
+      "observed_terminators": [
+        "0x4b32f8"
+      ],
+      "native_read_complete": true,
+      "captures": 554,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 553,
+      "review_images": [
+        "b018_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S110",
+      "case": "b018_s110",
+      "expected_terminator": "0x4b333a",
+      "observed_terminators": [
+        "0x4b333a"
+      ],
+      "native_read_complete": true,
+      "captures": 570,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 569,
+      "review_images": [
+        "b018_s110_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S111",
+      "case": "b018_s111",
+      "expected_terminator": "0x4b3373",
+      "observed_terminators": [
+        "0x4b3373"
+      ],
+      "native_read_complete": true,
+      "captures": 489,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 488,
+      "review_images": [
+        "b018_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S112",
+      "case": "b018_s112",
+      "expected_terminator": "0x4b33b9",
+      "observed_terminators": [
+        "0x4b33b9"
+      ],
+      "native_read_complete": true,
+      "captures": 608,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 607,
+      "review_images": [
+        "b018_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S113",
+      "case": "b018_s113",
+      "expected_terminator": "0x4b33f8",
+      "observed_terminators": [
+        "0x4b33f8"
+      ],
+      "native_read_complete": true,
+      "captures": 572,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 571,
+      "review_images": [
+        "b018_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S114",
+      "case": "b018_s114",
+      "expected_terminator": "0x4b341a",
+      "observed_terminators": [
+        "0x4b341a"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b018_s114_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S116",
+      "case": "b018_s116",
+      "expected_terminator": "0x4b3444",
+      "observed_terminators": [
+        "0x4b3444"
+      ],
+      "native_read_complete": true,
+      "captures": 365,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 364,
+      "review_images": [
+        "b018_s116_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S117",
+      "case": "b018_s117",
+      "expected_terminator": "0x4b349e",
+      "observed_terminators": [
+        "0x4b349e"
+      ],
+      "native_read_complete": true,
+      "captures": 816,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 815,
+      "review_images": [
+        "b018_s117_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S118",
+      "case": "b018_s118",
+      "expected_terminator": "0x4b34cc",
+      "observed_terminators": [
+        "0x4b34cc"
+      ],
+      "native_read_complete": true,
+      "captures": 420,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 419,
+      "review_images": [
+        "b018_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S119",
+      "case": "b018_s119",
+      "expected_terminator": "0x4b34f3",
+      "observed_terminators": [
+        "0x4b34f3"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 355,
+      "review_images": [
+        "b018_s119_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S120",
+      "case": "b018_s120",
+      "expected_terminator": "0x4b3528",
+      "observed_terminators": [
+        "0x4b3528"
+      ],
+      "native_read_complete": true,
+      "captures": 482,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 481,
+      "review_images": [
+        "b018_s120_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B018-S121",
+      "case": "b018_s121",
+      "expected_terminator": "0x4b3540",
+      "observed_terminators": [
+        "0x4b3540"
+      ],
+      "native_read_complete": true,
+      "captures": 223,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "passed",
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 222,
+      "review_images": [
+        "b018_s121_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 303,
+  "visual_review": {
+    "status": "passed",
+    "reviewed_text_images": 303,
+    "reviewed_system_images": 5,
+    "sheets_reviewed": 9,
+    "method": "Manual inspection of all selected native images: first 108 in early sheets 0–2, remaining images in final sheets 3–8; selected PNGs verified byte-identical to native source captures. Five full system images inspected.",
+    "findings": "No overflow, missing glyphs or wholly blank final text pages. All 266 notices keep their source row separation. Native pauses can produce partial or repeated pages; exact native terminator verified separately.",
+    "limits": "Staged window rendering is separate from natural event and calendar-view integration."
+  }
+}

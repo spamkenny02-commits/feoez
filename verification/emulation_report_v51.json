@@ -1,0 +1,97 @@
+{
+  "version": "V51",
+  "core": "Snes9x 1.63 1bcc369",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "modified_rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "patch_sha256": "7c3d9efa3c9819ccfb6dfea2630f5cc5e893ff1c6f449b0f515340072124caee",
+  "integrated_entries": 4987,
+  "baseline_entries_preserved": 4687,
+  "new_changed_entries": 300,
+  "new_dialogue_event_messages": 34,
+  "new_calendar_notices": 266,
+  "native_reads": 6028,
+  "font_checks": 16,
+  "storage_checks": 14,
+  "startup_text_occurrences": 32,
+  "startup_regression": "startup_regression_v51.json",
+  "standard_runs": [
+    {
+      "run": "fr_v51_final51",
+      "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v51_navigation_final51",
+      "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v51_check_ab_final51",
+      "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "fr_v50_corrected50",
+      "rom_sha256": "e94f7f4dab0ac39e01de7c640d676f674a0d8a81e8e2ed5bc6d3f926950c9603",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    },
+    {
+      "run": "v50_navigation_corrected50",
+      "rom_sha256": "e94f7f4dab0ac39e01de7c640d676f674a0d8a81e8e2ed5bc6d3f926950c9603",
+      "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+      "version": "1.63 1bcc369"
+    }
+  ],
+  "calendar_opening_sample": "calendar_v51/report.json",
+  "inline_terminator_check": "inline_terminator_check_v51.json",
+  "diagnostic_core_sha256": "5b7675c9c643db53930ea488d962d663040f8f39e26d02cc0ea0faea9d9dae6d",
+  "capture_selection": "last text-bearing frame per page before automatic closure",
+  "targeted_checks": 300,
+  "selected_text_captures": 303,
+  "capture_report": "scenes_v51/render_report.json",
+  "visual_review": {
+    "status": "passed",
+    "reviewed_text_images": 303,
+    "reviewed_system_images": 5,
+    "sheets_reviewed": 9,
+    "method": "Manual inspection of all selected native images: first 108 in early sheets 0–2, remaining images in final sheets 3–8; selected PNGs verified byte-identical to native source captures. Five full system images inspected.",
+    "findings": "No overflow, missing glyphs or wholly blank final text pages. All 266 notices keep their source row separation. Native pauses can produce partial or repeated pages; exact native terminator verified separately.",
+    "limits": "Staged window rendering is separate from natural event and calendar-view integration."
+  },
+  "navigation": [
+    {
+      "file": "main_menu.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "settings.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    },
+    {
+      "file": "region_map.png",
+      "bbox": null,
+      "identical": true,
+      "identical_outside_clock": true
+    }
+  ],
+  "fixed_frame_comparison": {
+    "identical": 85,
+    "different": 0,
+    "details": "comparison_v50_v51.json"
+  },
+  "limits": [
+    "Staged dialogue rendering does not validate natural event progression or calendar integration in every calendar view and at actual dates.",
+    "Calendar only partially translated. Historical claims and dates reproduced from the game without historical verification.",
+    "Remaining special variables, selectors, effects, menus and debug messages retain source bytes. Block 42 outside bounded inventory excluded.",
+    "Snes9x 1.60 and physical hardware not tested.",
+    "Bounded inventory includes menus, empty entries and debug; not a dialogue-only completion count."
+  ]
+}

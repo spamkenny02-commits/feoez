@@ -794,3 +794,15 @@ aux traditions, sans masquer leurs réticences envers Higan.
 
 - V50 : les choix gardent aussi leur première ligne anglaise et leur pagination ;
   quelques lignes vides compensent les formulations françaises plus courtes.
+
+## V51 — Prédictions, effets de terrain et notices du calendrier
+
+- Soar : Envol, provisoire ; Split : Scission ; Float : Flottaison.
+- Réutiliser flûte Mandala, précieux coffret, bourse d'or et château d'Or.
+- Les anecdotes du calendrier sont traduites telles qu'elles figurent dans le jeu,
+  sans révision historique. Conserver les deux lignes, même vides, les index et
+  les séparateurs ; chaque ligne doit tenir dans les 216 pixels de la police native.
+- Les noms japonais et titres Tengai Makyou sont conservés. Les abréviations
+  ponctuelles servent à garder les notices dans leurs deux lignes d'origine.
+- Envol est un effet de terrain ; les vues du calendrier et les événements ne sont
+  pas réputés validés par le seul rendu ciblé en fenêtre de dialogue.

@@ -1,3 +1,22 @@
+# État actuel — V51
+
+Lot 45 : 300 nouveaux textes, total 4 987 entrées.
+34 messages de dialogue/événements et 266 notices du calendrier.
+Les 4 687 anciennes entrées et 32 modifications initiales sont préservées.
+Preuves : final51 ; référence V50 : corrected50.
+6028 lectures natives, 300 rendus ciblés, 303 captures de texte relues.
+85 captures fixes et navigation identiques à V50.
+
+Prochaine reprise : lire HEAD et inventaires ; ne pas dupliquer lot45.
+Calendrier : bloc 17 non vide traité ; bloc 18 partiel (voir inventaire).
+Il reste des dialogues à variables 05–07, effets, chansons et formats spéciaux.
+Traiter les dialogues/événements avant les menus. Les notices ont deux lignes
+préservées, mais les vues naturelles du calendrier restent à tester.
+Inventaire borné : 4051 entrées restantes, y compris menus, vides et debug.
+Ce n'est pas un pourcentage de dialogues. Bloc 42 non borné exclu.
+
+## Historique
+
 # État actuel — V50
 
 Lot 44 : 300 nouveaux textes, total 4 687 entrées.

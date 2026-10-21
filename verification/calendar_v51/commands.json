@@ -1,0 +1,82 @@
+[
+  {
+    "load": "@FULL_RUN_DIR@/field_verified.state",
+    "frame": 64342,
+    "frames": 60,
+    "screenshot": "field_start"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "B"
+    ]
+  },
+  {
+    "frames": 60
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "X"
+    ]
+  },
+  {
+    "frames": 180,
+    "screenshot": "main_menu"
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Right"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Down"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "Down"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 12,
+    "buttons": [
+      "A"
+    ]
+  },
+  {
+    "frames": 30
+  },
+  {
+    "frames": 180,
+    "screenshot": "almanac_open"
+  },
+  {
+    "save": "calendar_open.state"
+  },
+  {
+    "quit": true
+  }
+]

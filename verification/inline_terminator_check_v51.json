@@ -1,0 +1,33 @@
+{
+  "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "diagnostic_core_sha256": "5b7675c9c643db53930ea488d962d663040f8f39e26d02cc0ea0faea9d9dae6d",
+  "state_sha256": "e349f16990662c0e9941e21b70fb5d184ade2165a9e45154ac4eb08e2da2194a",
+  "entry": "B029-S051",
+  "original_hook_result": "Wrong following-dialogue terminator 0x425ccd; rejected.",
+  "extended_hook_result": {
+    "entry": "B029-S051",
+    "case": "probe",
+    "expected_terminator": "0x40f184",
+    "observed_terminators": [
+      "0x40f184"
+    ],
+    "native_read_complete": true,
+    "captures": 552,
+    "native_reader_sites": [
+      "4d3d8d"
+    ],
+    "visual_review": "pending",
+    "images": [
+      "/workspace/scratch/48cc30b3a152/emulator/runs/v51_probe_verified/probe/page_00_0551.png"
+    ],
+    "capture_selection": "last text-bearing frame per native page, before automatic closure",
+    "intermediate_frames_removed": 551
+  },
+  "source_instruction": {
+    "cpu_address": "4d3d8d",
+    "source_file_offset": "6d3d8d",
+    "source_bytes": "a78fe68f",
+    "meaning": "LDA [$8F] followed by INC $8F in the pinned English patch x5 handler."
+  },
+  "scope": "Observe an additional native zero read; no ROM/CPU/renderer mutation. Preserve source PNG before automatic window closure."
+}

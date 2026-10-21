@@ -1,0 +1,2108 @@
+{
+  "entries": 300,
+  "dialogue_event_messages": 34,
+  "calendar_notices": 266,
+  "calendar_layout": "Two source rows retained verbatim; no automatic wrap.",
+  "checks": [
+    {
+      "entry": "B029-S051",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 210,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S052",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 210,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S053",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 210,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S054",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 210,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S055",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 213,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S056",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 204,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S057",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 204,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S058",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 193,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S059",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S060",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 195,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S061",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 210,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S062",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 215,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S063",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 203,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S064",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 211,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S065",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 189,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B029-S066",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S003",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 118,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S004",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 215,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S005",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 166,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S006",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 207,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S007",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 211,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S008",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 202,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S009",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 215,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S010",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 171,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S011",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S012",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S024",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 172,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S025",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B033-S027",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 212,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B091-S026",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 202,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B095-S046",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 214,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B202-S009",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 172,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B202-S010",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 209,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B221-S022",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 198,
+      "calendar_source_line_count_preserved": false
+    },
+    {
+      "entry": "B017-S001",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 162,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S002",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S003",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 183,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S004",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 178,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S006",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 192,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S007",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 152,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S008",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S009",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S010",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 155,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S011",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S012",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S013",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 167,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S014",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 206,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S015",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S016",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 161,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S017",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 195,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S019",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 197,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S020",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 179,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S021",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 172,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S022",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 160,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S023",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 203,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S024",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 131,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S025",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 173,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S026",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 169,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S027",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 159,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S028",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S029",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 167,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S030",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 171,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S031",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 168,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S033",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S034",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S035",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S036",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 143,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S037",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 130,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S038",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 194,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S039",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S040",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 173,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S041",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 180,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S042",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 157,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S043",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 175,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S044",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 190,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S045",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S046",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 165,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S047",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 216,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S048",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 157,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S050",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 115,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S051",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 121,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S052",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 194,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S053",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 189,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S054",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 146,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S055",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 152,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S056",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 172,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S058",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 98,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S059",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 145,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S060",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 178,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S061",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 65,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S065",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 191,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S066",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 192,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S067",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 113,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S068",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 188,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S069",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 115,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S071",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 160,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S072",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 199,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S073",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 181,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S074",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 188,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S075",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 158,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S076",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 104,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S077",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 170,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S078",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 92,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S079",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 173,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S080",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 185,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S081",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S082",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S083",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S084",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 150,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S085",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 207,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S086",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 160,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S087",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 168,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S088",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 183,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S089",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 158,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S090",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S091",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 176,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S092",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S093",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 132,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S095",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 209,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S097",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 199,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S098",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S099",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 198,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S100",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 171,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S101",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 123,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S102",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 189,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S103",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 153,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S104",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 175,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S105",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 146,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S106",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S107",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 209,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S108",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 151,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S109",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 177,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S110",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 133,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S111",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 140,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S112",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 152,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S113",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 155,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S114",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 100,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S115",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 194,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S116",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 142,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S117",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 161,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S118",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S119",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 65,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S120",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 101,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S121",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 176,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S122",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 165,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S123",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S124",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 146,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S125",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 168,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S126",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 121,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S129",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S130",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 139,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S131",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S132",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 182,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S133",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 173,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S134",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S135",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 199,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S136",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 185,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S137",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S138",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S139",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 162,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S140",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S141",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 142,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S142",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 169,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S143",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 148,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S144",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 159,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S145",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 203,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S146",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 110,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S147",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 92,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S148",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 209,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S149",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 170,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S150",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 171,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S151",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 192,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S152",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 192,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S153",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 196,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S154",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 133,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S155",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 157,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S156",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 198,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S157",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 194,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S158",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 214,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S159",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 198,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S161",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 144,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S162",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 129,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S163",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 203,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S165",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 168,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S166",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 180,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S167",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 164,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S168",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 202,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S169",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 180,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S170",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 188,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S171",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S172",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 151,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S174",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 163,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S176",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 153,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S177",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 152,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S178",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 155,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S179",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 175,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S180",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 128,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S181",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S182",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 212,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S183",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 187,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S184",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 77,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S185",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 135,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S186",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 170,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S188",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 165,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B017-S190",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 133,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S001",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 202,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S002",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 196,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S003",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 170,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S004",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 207,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S006",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 104,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S007",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 132,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S008",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 182,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S010",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 179,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S011",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 151,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S012",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 199,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S013",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 162,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S014",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 114,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S015",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 144,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S016",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 193,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S017",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 117,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S018",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 168,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S019",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S020",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 131,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S021",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 122,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S022",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 134,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S025",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 192,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S026",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 104,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S028",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 154,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S029",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 177,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S030",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 86,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S031",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 173,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S033",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 147,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S034",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 206,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S035",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 134,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S036",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 125,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S037",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 78,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S038",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 191,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S039",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 112,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S040",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 158,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S041",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 216,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S042",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 178,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S043",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 204,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S044",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 149,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S046",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 104,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S047",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 131,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S049",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 197,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S051",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 155,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S052",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 160,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S053",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 151,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S056",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 167,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S057",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 206,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S058",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 189,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S059",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 193,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S060",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 123,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S062",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 200,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S063",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 186,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S065",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 179,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S066",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 191,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S067",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 177,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S068",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S069",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S070",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 149,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S073",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 156,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S074",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 149,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S077",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 112,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S078",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 194,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S079",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 131,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S080",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 184,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S081",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 143,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S082",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 183,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S084",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 207,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S086",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 136,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S087",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 126,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S088",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 209,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S090",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 160,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S091",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 198,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S092",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 183,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S093",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 185,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S094",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 109,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S097",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 170,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S099",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 187,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S100",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 179,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S102",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 179,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S103",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 59,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S104",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 175,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S105",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 180,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S106",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 183,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S108",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 172,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S109",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 161,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S110",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 185,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S111",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 154,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S112",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 166,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S113",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 188,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S114",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 145,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S116",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 166,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S117",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 202,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S118",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 199,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S119",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 171,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S120",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 117,
+      "calendar_source_line_count_preserved": true
+    },
+    {
+      "entry": "B018-S121",
+      "markers_preserved": true,
+      "nonempty_changed": true,
+      "max_line_pixels": 99,
+      "calendar_source_line_count_preserved": true
+    }
+  ]
+}

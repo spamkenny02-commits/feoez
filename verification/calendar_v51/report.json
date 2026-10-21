@@ -1,0 +1,12 @@
+{
+  "scope": "Open the real Almanac through controller input from a same-ROM field state. Observed date 1995-12-22. This date notice remains English, outside this lot; not a translated-calendar-date validation.",
+  "rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "real_almanac_opened": true,
+  "visual_review": "passed for opening and layout only",
+  "excluded_extra_attempts": [
+    "An alternate-date startup replay did not reach the Almanac.",
+    "A V50 replay displayed 1995-12-23, so no same-date pixel comparison was claimed."
+  ],
+  "limits": "Translated calendar dates, other views, date boundaries and natural event progression remain unvalidated."
+}

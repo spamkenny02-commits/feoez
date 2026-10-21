@@ -1,9 +1,9 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "e94f7f4dab0ac39e01de7c640d676f674a0d8a81e8e2ed5bc6d3f926950c9603",
-  "translated_entries": 4687,
+  "output_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "translated_entries": 4987,
   "new_entries": 300,
-  "previously_integrated": 4387,
+  "previously_integrated": 4687,
   "new_nonempty_texts": 300,
   "new_changed_entries": 300,
   "new_passthrough_entries": 0,
@@ -302,14 +302,92 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 4687,
+  "integrated_entries": 4987,
   "blocks": [
+    {
+      "block_ids": [
+        17
+      ],
+      "source": "0x604de8",
+      "destination": "0x6b0000",
+      "old_size": 8225,
+      "new_size": 8894,
+      "translated": 171,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0018",
+        "0x030D",
+        "0x05B2",
+        "0x0927",
+        "0x0AC2",
+        "0x0D9C",
+        "0x1065",
+        "0x13C4",
+        "0x1615",
+        "0x1917",
+        "0x1BAB",
+        "0x1E1D"
+      ],
+      "new_relative_offsets": [
+        24,
+        776,
+        1485,
+        2376,
+        2804,
+        3660,
+        4430,
+        5352,
+        6029,
+        6854,
+        7564,
+        8295
+      ]
+    },
+    {
+      "block_ids": [
+        18
+      ],
+      "source": "0x606e09",
+      "destination": "0x6b22c0",
+      "old_size": 6778,
+      "new_size": 7157,
+      "translated": 95,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0018",
+        "0x02FB",
+        "0x048E",
+        "0x0731",
+        "0x0921",
+        "0x0B1D",
+        "0x0D03",
+        "0x0FB3",
+        "0x120E",
+        "0x144B",
+        "0x1650",
+        "0x1865"
+      ],
+      "new_relative_offsets": [
+        24,
+        810,
+        1245,
+        1960,
+        2466,
+        3021,
+        3558,
+        4346,
+        5001,
+        5574,
+        6091,
+        6624
+      ]
+    },
     {
       "block_ids": [
         30
       ],
       "source": "0x610c5d",
-      "destination": "0x6b0000",
+      "destination": "0x6b3ec0",
       "old_size": 183,
       "new_size": 213,
       "translated": 7,
@@ -328,8 +406,8 @@
       "source": "0x611399",
       "destination": "0x611399",
       "old_size": 5224,
-      "new_size": 4454,
-      "translated": 11,
+      "new_size": 4490,
+      "translated": 24,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0004",
@@ -337,7 +415,7 @@
       ],
       "new_relative_offsets": [
         4,
-        1677
+        1706
       ]
     },
     {
@@ -561,7 +639,7 @@
         132
       ],
       "source": "0x6616a7",
-      "destination": "0x6b00e0",
+      "destination": "0x6b3fa0",
       "old_size": 20540,
       "new_size": 20706,
       "translated": 145,
@@ -676,8 +754,8 @@
       "source": "0x646b60",
       "destination": "0x646b60",
       "old_size": 26292,
-      "new_size": 25393,
-      "translated": 179,
+      "new_size": 25395,
+      "translated": 180,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x001A",
@@ -698,16 +776,16 @@
         26,
         2607,
         5124,
-        6999,
-        9053,
-        10584,
-        12463,
-        15055,
-        16770,
-        18564,
-        20136,
-        21375,
-        24070
+        7001,
+        9055,
+        10586,
+        12465,
+        15057,
+        16772,
+        18566,
+        20138,
+        21377,
+        24072
       ]
     },
     {
@@ -718,8 +796,8 @@
       "source": "0x641659",
       "destination": "0x641659",
       "old_size": 4088,
-      "new_size": 3467,
-      "translated": 31,
+      "new_size": 3470,
+      "translated": 32,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -729,7 +807,7 @@
       "new_relative_offsets": [
         6,
         1430,
-        3060
+        3063
       ]
     },
     {
@@ -775,7 +853,7 @@
         1
       ],
       "source": "0x600000",
-      "destination": "0x6b51d0",
+      "destination": "0x6b9090",
       "old_size": 49,
       "new_size": 64,
       "translated": 5,
@@ -794,8 +872,8 @@
       "source": "0x60d738",
       "destination": "0x60d738",
       "old_size": 13605,
-      "new_size": 11938,
-      "translated": 78,
+      "new_size": 11719,
+      "translated": 94,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0010",
@@ -812,10 +890,10 @@
         984,
         3942,
         6345,
-        7867,
-        9399,
-        10785,
-        11688
+        7678,
+        9180,
+        10566,
+        11469
       ]
     },
     {
@@ -899,7 +977,7 @@
         51
       ],
       "source": "0x6296ce",
-      "destination": "0x6b5210",
+      "destination": "0x6b90d0",
       "old_size": 147,
       "new_size": 165,
       "translated": 2,
@@ -933,7 +1011,7 @@
         53
       ],
       "source": "0x629c03",
-      "destination": "0x6b52c0",
+      "destination": "0x6b9180",
       "old_size": 460,
       "new_size": 470,
       "translated": 5,
@@ -950,7 +1028,7 @@
         54
       ],
       "source": "0x629dcf",
-      "destination": "0x6b54a0",
+      "destination": "0x6b9360",
       "old_size": 1164,
       "new_size": 1203,
       "translated": 8,
@@ -984,7 +1062,7 @@
         57
       ],
       "source": "0x62b2af",
-      "destination": "0x6b5960",
+      "destination": "0x6b9820",
       "old_size": 621,
       "new_size": 669,
       "translated": 9,
@@ -1037,7 +1115,7 @@
         60
       ],
       "source": "0x62cf69",
-      "destination": "0x6b5c00",
+      "destination": "0x6b9ac0",
       "old_size": 876,
       "new_size": 881,
       "translated": 8,
@@ -1197,7 +1275,7 @@
         71
       ],
       "source": "0x6357d2",
-      "destination": "0x6b5f80",
+      "destination": "0x6b9e40",
       "old_size": 3114,
       "new_size": 3165,
       "translated": 29,
@@ -1294,7 +1372,7 @@
         76
       ],
       "source": "0x63aa37",
-      "destination": "0x6b6be0",
+      "destination": "0x6baaa0",
       "old_size": 432,
       "new_size": 458,
       "translated": 4,
@@ -1331,7 +1409,7 @@
         79
       ],
       "source": "0x63b6a4",
-      "destination": "0x6b6db0",
+      "destination": "0x6bac70",
       "old_size": 1521,
       "new_size": 1582,
       "translated": 15,
@@ -1368,7 +1446,7 @@
         82
       ],
       "source": "0x63c683",
-      "destination": "0x6b73e0",
+      "destination": "0x6bb2a0",
       "old_size": 90,
       "new_size": 97,
       "translated": 2,
@@ -1404,7 +1482,7 @@
         84
       ],
       "source": "0x63d064",
-      "destination": "0x6b7450",
+      "destination": "0x6bb310",
       "old_size": 3366,
       "new_size": 3375,
       "translated": 16,
@@ -1663,7 +1741,7 @@
         105
       ],
       "source": "0x656b39",
-      "destination": "0x6b8180",
+      "destination": "0x6bc040",
       "old_size": 341,
       "new_size": 343,
       "translated": 5,
@@ -1862,7 +1940,7 @@
         118
       ],
       "source": "0x65b191",
-      "destination": "0x6b82e0",
+      "destination": "0x6bc1a0",
       "old_size": 3003,
       "new_size": 3101,
       "translated": 27,
@@ -1882,7 +1960,7 @@
         120
       ],
       "source": "0x65bd4c",
-      "destination": "0x6b8f00",
+      "destination": "0x6bcdc0",
       "old_size": 765,
       "new_size": 780,
       "translated": 5,
@@ -1899,7 +1977,7 @@
         121
       ],
       "source": "0x65c049",
-      "destination": "0x6b9210",
+      "destination": "0x6bd0d0",
       "old_size": 1180,
       "new_size": 1194,
       "translated": 9,
@@ -1933,7 +2011,7 @@
         123
       ],
       "source": "0x65cd1f",
-      "destination": "0x6b96c0",
+      "destination": "0x6bd580",
       "old_size": 403,
       "new_size": 434,
       "translated": 2,
@@ -1988,7 +2066,7 @@
         126
       ],
       "source": "0x65e336",
-      "destination": "0x6b9880",
+      "destination": "0x6bd740",
       "old_size": 1241,
       "new_size": 1265,
       "translated": 9,
@@ -2005,7 +2083,7 @@
         127
       ],
       "source": "0x65e80f",
-      "destination": "0x6b9d80",
+      "destination": "0x6bdc40",
       "old_size": 2387,
       "new_size": 2420,
       "translated": 20,
@@ -2289,7 +2367,7 @@
         148
       ],
       "source": "0x66d6ef",
-      "destination": "0x6ba700",
+      "destination": "0x6be5c0",
       "old_size": 76,
       "new_size": 90,
       "translated": 1,
@@ -2323,7 +2401,7 @@
         150
       ],
       "source": "0x66e1f8",
-      "destination": "0x6ba760",
+      "destination": "0x6be620",
       "old_size": 214,
       "new_size": 234,
       "translated": 4,
@@ -2417,7 +2495,7 @@
         156
       ],
       "source": "0x6721cf",
-      "destination": "0x6ba850",
+      "destination": "0x6be710",
       "old_size": 1784,
       "new_size": 1811,
       "translated": 12,
@@ -2434,7 +2512,7 @@
         157
       ],
       "source": "0x6728c7",
-      "destination": "0x6baf70",
+      "destination": "0x6bee30",
       "old_size": 2378,
       "new_size": 2379,
       "translated": 11,
@@ -2451,7 +2529,7 @@
         158
       ],
       "source": "0x673211",
-      "destination": "0x6bb8c0",
+      "destination": "0x6bf780",
       "old_size": 1121,
       "new_size": 1187,
       "translated": 14,
@@ -2510,7 +2588,7 @@
         161
       ],
       "source": "0x6765cf",
-      "destination": "0x6bbd70",
+      "destination": "0x6bfc30",
       "old_size": 1919,
       "new_size": 1925,
       "translated": 11,
@@ -2620,7 +2698,7 @@
         167
       ],
       "source": "0x67bef1",
-      "destination": "0x6bc500",
+      "destination": "0x6c03c0",
       "old_size": 3323,
       "new_size": 3335,
       "translated": 32,
@@ -2639,7 +2717,7 @@
         168
       ],
       "source": "0x67cbec",
-      "destination": "0x6bd210",
+      "destination": "0x6c10d0",
       "old_size": 60,
       "new_size": 62,
       "translated": 1,
@@ -2692,7 +2770,7 @@
         171
       ],
       "source": "0x67de5d",
-      "destination": "0x6bd250",
+      "destination": "0x6c1110",
       "old_size": 2230,
       "new_size": 2262,
       "translated": 22,
@@ -2711,7 +2789,7 @@
         172
       ],
       "source": "0x67e713",
-      "destination": "0x6bdb30",
+      "destination": "0x6c19f0",
       "old_size": 2267,
       "new_size": 2270,
       "translated": 20,
@@ -3049,7 +3127,7 @@
         193
       ],
       "source": "0x6885bf",
-      "destination": "0x6be410",
+      "destination": "0x6c22d0",
       "old_size": 527,
       "new_size": 578,
       "translated": 15,
@@ -3158,8 +3236,8 @@
       "source": "0x68a90a",
       "destination": "0x68a90a",
       "old_size": 3148,
-      "new_size": 2889,
-      "translated": 32,
+      "new_size": 2909,
+      "translated": 34,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3168,8 +3246,8 @@
       ],
       "new_relative_offsets": [
         6,
-        1489,
-        2739
+        1509,
+        2759
       ]
     },
     {
@@ -3441,7 +3519,7 @@
         219
       ],
       "source": "0x6985ec",
-      "destination": "0x6be660",
+      "destination": "0x6c2520",
       "old_size": 262,
       "new_size": 289,
       "translated": 4,
@@ -3477,8 +3555,8 @@
       "source": "0x69878c",
       "destination": "0x69878c",
       "old_size": 14107,
-      "new_size": 12438,
-      "translated": 54,
+      "new_size": 12422,
+      "translated": 55,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0008",
@@ -3489,8 +3567,8 @@
       "new_relative_offsets": [
         8,
         6799,
-        9658,
-        11601
+        9642,
+        11585
       ]
     },
     {
@@ -3837,7 +3915,7 @@
         243
       ],
       "source": "0x6a9bad",
-      "destination": "0x6be790",
+      "destination": "0x6c2650",
       "old_size": 121,
       "new_size": 125,
       "translated": 1,
@@ -3909,7 +3987,7 @@
         251
       ],
       "source": "0x6aa340",
-      "destination": "0x6be810",
+      "destination": "0x6c26d0",
       "old_size": 49,
       "new_size": 52,
       "translated": 1,
@@ -3968,7 +4046,7 @@
       ]
     }
   ],
-  "engine_checks": 5644,
+  "engine_checks": 6028,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -3979,11 +4057,11 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v50.json",
-  "allocation_end": "0x6be850",
-  "free_bytes": 71600,
+  "runtime_validation": "see emulation_report_v51.json",
+  "allocation_end": "0x6c2710",
+  "free_bytes": 55536,
   "in_place_blocks": 154,
-  "relocated_blocks": 34,
+  "relocated_blocks": 36,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
@@ -4083,7 +4161,6 @@
       39,
       44,
       45,
-      46,
       50,
       51,
       54,
@@ -4093,7 +4170,6 @@
     "91": [
       1,
       2,
-      26,
       35
     ],
     "99": [
@@ -4170,17 +4246,13 @@
     "201": [],
     "202": [
       5,
-      8,
-      9,
-      10
+      8
     ],
     "205": [],
     "212": [
       18
     ],
-    "221": [
-      22
-    ],
+    "221": [],
     "225": [
       12
     ],
@@ -4207,22 +4279,6 @@
       10,
       11,
       21,
-      51,
-      52,
-      53,
-      54,
-      55,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      62,
-      63,
-      64,
-      65,
-      66,
       84,
       87,
       88,
@@ -4245,21 +4301,8 @@
     "33": [
       1,
       2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
       13,
-      24,
-      25,
-      26,
-      27
+      26
     ],
     "35": [],
     "38": [
@@ -4335,6 +4378,128 @@
       141,
       142,
       144
+    ],
+    "17": [
+      5,
+      18,
+      32,
+      49,
+      57,
+      62,
+      63,
+      64,
+      70,
+      94,
+      96,
+      127,
+      128,
+      160,
+      164,
+      173,
+      175,
+      187,
+      189,
+      191,
+      192
+    ],
+    "18": [
+      5,
+      9,
+      23,
+      24,
+      27,
+      32,
+      45,
+      48,
+      50,
+      54,
+      55,
+      61,
+      64,
+      71,
+      72,
+      75,
+      76,
+      83,
+      85,
+      89,
+      95,
+      96,
+      98,
+      101,
+      107,
+      115,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192
     ]
   },
   "deferred_block97_entries": [

@@ -21,9 +21,14 @@ hook=r'''
                     fprintf(stderr, "FEOE_DIAGNOSTIC string=%d\n", feoeString);
                 } else if (feoePhase == 2 && Registers.PB == 0xc3 && Registers.PCw == 0x2a22) {
                     feoePhase = 3;
-                } else if (feoePhase == 3 && Registers.PB == 0xc0 && Registers.PCw == 0x2c6e) {
+                } else if (feoePhase == 3 && ((Registers.PB == 0xc0 && Registers.PCw == 0x2c6e) ||
+                           (Registers.PB == 0x4d && Registers.PCw == 0x3d8d))) {
+                    // The pinned English patch's x5 handler reads an inline byte
+                    // at 4D:3D8D after closing the window, outside C0:2C6E.
+                    // Observe the same zero fetch without modifying CPU or ROM.
                     uint32 cursor = Memory.RAM[0x8f] | (Memory.RAM[0x90]<<8) | (Memory.RAM[0x91]<<16);
                     if (S9xGetByte(cursor) == 0) {
+                        fprintf(stderr, "FEOE_DIAGNOSTIC reader=%02x%04x\n", Registers.PB, Registers.PCw);
                         fprintf(stderr, "FEOE_DIAGNOSTIC terminator=%06x\n", cursor);
                         feoePhase = 4;
                     }

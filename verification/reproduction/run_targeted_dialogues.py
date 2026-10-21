@@ -6,7 +6,9 @@ Checks that the native reader reaches the exact target terminator; captures ever
 """
 import argparse,json,subprocess,sys,os,hashlib,re,concurrent.futures
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--cases',type=Path);p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--workers',type=int,choices=range(1,5),default=1);p.add_argument('--compact',action='store_true',help='Retain only the last screenshot of each page after a case passes');a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--cases',type=Path);p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--workers',type=int,choices=range(1,5),default=1);p.add_argument('--compact',action='store_true',help='Retain only the last screenshot of each page after a case passes');p.add_argument('--auto-close-captures',action='store_true',help='With --compact, retain text-bearing frames before automatic window closure');a=p.parse_args()
+if a.auto_close_captures and not a.compact:p.error('--auto-close-captures requires --compact')
+from capture_selection import selected_pages
 root=Path(__file__).resolve().parents[2];sys.path.insert(0,str(root/'tools'))
 from cpu65816_probe import CPU
 rom=a.rom.read_bytes();cases=[(136,10,'pierre_grue'),(138,7,'lettre_puits'),(139,37,'remise_20'),(141,1,'omine_poche'),(141,12,'omine_sauvetage'),(140,3,'sara_accueil'),(140,8,'sara_nom'),(140,17,'tenjin_rejoint'),(140,35,'parchemins'),(140,42,'tenjin_presentation'),(143,1,'statue_sara'),(146,1,'statue_alias')]
@@ -17,13 +19,14 @@ def run_case(case):
  bid,idx,name=case
  cpu=CPU(rom);cpu.load_block(bid);start=cpu.select(idx);raw=cpu.string();expected_end=start+len(raw)
  out=a.out/name;out.mkdir(exist_ok=True);env=dict(os.environ,FEOE_TEST_BLOCK=str(bid),FEOE_TEST_STRING=str(idx));proc=subprocess.Popen([sys.executable,str(Path(__file__).parent/'libretro_runner.py'),'--core',str(a.core.resolve()),'--rom',str(a.rom.resolve()),'--out',str(out.resolve()),'--history-every','50'],stdin=subprocess.PIPE,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,env=env,bufsize=1)
- log=[];terminators=[]
+ log=[];terminators=[];reader_sites=[]
  def send(cmd):
   proc.stdin.write(json.dumps(cmd)+'\n');proc.stdin.flush()
   while True:
    line=proc.stdout.readline()
    if not line:raise RuntimeError('Runner stopped: '+''.join(log[-5:]))
    log.append(line)
+   for m in re.finditer(r'FEOE_DIAGNOSTIC reader=([0-9a-f]+)',line):reader_sites.append(m[1])
    for m in re.finditer(r'FEOE_DIAGNOSTIC terminator=([0-9a-f]+)',line):terminators.append(int(m[1],16))
    try:r=json.loads(line)
    except ValueError:continue
@@ -42,12 +45,17 @@ def run_case(case):
   if terminators:break
   send({'frames':1,'buttons':['A']})
  send({'quit':True});proc.stdin.close();proc.wait(timeout=10);(out/'console.log').write_text(''.join(log))
- passed=terminators==[expected_end];result={'entry':f'B{bid:03}-S{idx:03}','case':name,'expected_terminator':hex(expected_end),'observed_terminators':[hex(x) for x in terminators],'native_read_complete':passed,'captures':len(frames),'visual_review':'pending','images':[r['image']['path'] for r in frames]}
+ passed=terminators==[expected_end];result={'entry':f'B{bid:03}-S{idx:03}','case':name,'expected_terminator':hex(expected_end),'observed_terminators':[hex(x) for x in terminators],'native_read_complete':passed,'captures':len(frames),'native_reader_sites':reader_sites,'visual_review':'pending','images':[r['image']['path'] for r in frames]}
  if not passed:raise AssertionError(result)
  if a.compact:
   # Exactly the same per-page selection used by collect_evidence.py.
   last={}
-  for filename in result['images']:last[Path(filename).stem.split('_')[1]]=filename
+  if a.auto_close_captures:
+   assert rom[0x6d3d8d:0x6d3d91]==bytes.fromhex('a7 8f e6 8f')
+   last=selected_pages(result['images'])
+   result['capture_selection']='last text-bearing frame per native page, before automatic closure'
+  else:
+   for filename in result['images']:last[Path(filename).stem.split('_')[1]]=filename
   keep=set(last.values())
   for filename in result['images']:
    if filename not in keep:Path(filename).unlink()
