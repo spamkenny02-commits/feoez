@@ -1,0 +1,31 @@
+{
+  "version": "V52",
+  "lot": 46,
+  "phase": 1,
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "ips_sha256": "633989729423429d5b5d85736debf36ac660f1b705a57ddf1091f7ad0a927ff2",
+  "tag": "lot46p400b",
+  "staged_cases": 488,
+  "unique_text_captures": 561,
+  "visual_review": "reviewed",
+  "scenario": "fresh standard-core startup, navigation and A/reset/B completed",
+  "regression": [
+    "startup_regression_v52.json",
+    "navigation_regression_v52.json"
+  ],
+  "natural_calendar": "calendar_lot46_400/report.json",
+  "native_build_reads": 6365,
+  "additional_lot_source_output_reads": 788,
+  "reports": [
+    "item_catalog_lot46.json",
+    "fortune_catalog_lot46.json",
+    "numeric_producer_lot46.json",
+    "text_modes_lot46.json",
+    "calendar_ui_lot46_checks.json",
+    "lot46_checkpoint_checks.json",
+    "relecture_v52.json"
+  ],
+  "scope": "Staged renders prove native reading/display under finite synthetic slot fixtures. Actual event producers, choices, effects, music and dates beyond the observed Almanac are not validated.",
+  "distributed_private_resources": false
+}

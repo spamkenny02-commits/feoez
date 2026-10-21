@@ -1,0 +1,86 @@
+{
+  "fortune_108": {
+    "label_entry": "B040-S108",
+    "slots": {
+      "1": "5b165e646162205257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_109": {
+    "label_entry": "B040-S109",
+    "slots": {
+      "1": "5b54205f505e5d205257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_110": {
+    "label_entry": "B040-S110",
+    "slots": {
+      "1": "5b502056616454205257505d5254646254"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_111": {
+    "label_entry": "B040-S111",
+    "slots": {
+      "1": "5b5020635e61636454205257505d5254646254"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_112": {
+    "label_entry": "B040-S112",
+    "slots": {
+      "1": "5b5420525758545d205257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_113": {
+    "label_entry": "B040-S113",
+    "slots": {
+      "1": "5b5420536150565e5d205257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_114": {
+    "label_entry": "B040-S114",
+    "slots": {
+      "1": "5b165e646162205c505b5257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_115": {
+    "label_entry": "B040-S115",
+    "slots": {
+      "1": "5b54205f505e5d205c505b5257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_116": {
+    "label_entry": "B040-S116",
+    "slots": {
+      "1": "5b502056616454205c505b5257505d5254646254"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_117": {
+    "label_entry": "B040-S117",
+    "slots": {
+      "1": "5b5020635e61636454205c505b5257505d5254646254"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_118": {
+    "label_entry": "B040-S118",
+    "slots": {
+      "1": "5b5420525758545d205c505b5257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  },
+  "fortune_119": {
+    "label_entry": "B040-S119",
+    "slots": {
+      "1": "5b5420536150565e5d205c505b5257505d52546467"
+    },
+    "scope": "Synthetic fixture from the proven native finite catalog, not natural event progression."
+  }
+}

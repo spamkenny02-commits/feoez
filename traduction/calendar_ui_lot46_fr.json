@@ -1,0 +1,37 @@
+[
+  {
+    "id": "CALUI-01",
+    "english": "Biorhythm",
+    "french": "Biorythme"
+  },
+  {
+    "id": "CALUI-02",
+    "english": " What day is it today?",
+    "french": " Quel jour est-on ?"
+  },
+  {
+    "id": "CALUI-03",
+    "english": " On this day in history:",
+    "french": " Ce jour dans le passé :"
+  },
+  {
+    "id": "CALUI-04",
+    "english": "Body",
+    "french": "Phys."
+  },
+  {
+    "id": "CALUI-05",
+    "english": "Wisdom",
+    "french": "Esprit"
+  },
+  {
+    "id": "CALUI-06",
+    "english": "Feelings",
+    "french": "Humeur"
+  },
+  {
+    "id": "CALUI-07",
+    "english": "Notable Days",
+    "french": "Dates clés"
+  }
+]

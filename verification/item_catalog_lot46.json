@@ -1,0 +1,1959 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "candidate_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "catalog_occurrences": 243,
+  "distinct_new_catalog_sources": 242,
+  "aliases": {
+    "B002-S074": "B002-S073"
+  },
+  "maximum_encoded_bytes": 31,
+  "maximum_pixels": 144,
+  "copier_executions": 1944,
+  "cases": [
+    {
+      "id": "B002-S001",
+      "encoded_bytes": 19,
+      "french": "la lettre de Momoko",
+      "pixels": 89,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S002",
+      "encoded_bytes": 26,
+      "french": "la première lettre d'amour",
+      "pixels": 116,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S003",
+      "encoded_bytes": 21,
+      "french": "une lettre passionnée",
+      "pixels": 96,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S004",
+      "encoded_bytes": 26,
+      "french": "une lettre pleine de désir",
+      "pixels": 112,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S005",
+      "encoded_bytes": 24,
+      "french": "une lettre au cœur brisé",
+      "pixels": 110,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S006",
+      "encoded_bytes": 20,
+      "french": "une lettre solitaire",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S007",
+      "encoded_bytes": 28,
+      "french": "une lettre pleine de chagrin",
+      "pixels": 122,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S008",
+      "encoded_bytes": 22,
+      "french": "une lettre malheureuse",
+      "pixels": 103,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S009",
+      "encoded_bytes": 21,
+      "french": "une lettre de rancœur",
+      "pixels": 100,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S010",
+      "encoded_bytes": 18,
+      "french": "une lettre d'adieu",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S011",
+      "encoded_bytes": 11,
+      "french": "un sac à or",
+      "pixels": 49,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S012",
+      "encoded_bytes": 19,
+      "french": "un sac à or déchiré",
+      "pixels": 84,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S013",
+      "encoded_bytes": 14,
+      "french": "un lingot d'or",
+      "pixels": 58,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S014",
+      "encoded_bytes": 30,
+      "french": "une Pilule du Seigneur céleste",
+      "pixels": 132,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S015",
+      "encoded_bytes": 18,
+      "french": "une Pilule de soin",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S016",
+      "encoded_bytes": 19,
+      "french": "l'huile de massette",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S017",
+      "encoded_bytes": 19,
+      "french": "le manju Bouddhiste",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S018",
+      "encoded_bytes": 17,
+      "french": "le manju Carapace",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S019",
+      "encoded_bytes": 23,
+      "french": "le manju aux châtaignes",
+      "pixels": 103,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S020",
+      "encoded_bytes": 8,
+      "french": "le manju",
+      "pixels": 35,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S021",
+      "encoded_bytes": 13,
+      "french": "le kusa dango",
+      "pixels": 59,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S022",
+      "encoded_bytes": 20,
+      "french": "une Pilule du Joueur",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S023",
+      "encoded_bytes": 23,
+      "french": "une Pilule de la Tortue",
+      "pixels": 102,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S024",
+      "encoded_bytes": 12,
+      "french": "l'Eau de vie",
+      "pixels": 48,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S025",
+      "encoded_bytes": 19,
+      "french": "une Lumière solaire",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S026",
+      "encoded_bytes": 19,
+      "french": "une Lumière lunaire",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S027",
+      "encoded_bytes": 21,
+      "french": "une Lumière stellaire",
+      "pixels": 93,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S028",
+      "encoded_bytes": 26,
+      "french": "une Pilule toute-puissante",
+      "pixels": 118,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S029",
+      "encoded_bytes": 17,
+      "french": "une Pilule Souple",
+      "pixels": 74,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S030",
+      "encoded_bytes": 20,
+      "french": "une Pilule relaxante",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S031",
+      "encoded_bytes": 11,
+      "french": "un myosotis",
+      "pixels": 51,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S032",
+      "encoded_bytes": 18,
+      "french": "un maillet en bois",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S033",
+      "encoded_bytes": 20,
+      "french": "une Pilule de wasabi",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S034",
+      "encoded_bytes": 18,
+      "french": "une Pilule solaire",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S035",
+      "encoded_bytes": 11,
+      "french": "un antidote",
+      "pixels": 50,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S036",
+      "encoded_bytes": 22,
+      "french": "la Liqueur miraculeuse",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S037",
+      "encoded_bytes": 14,
+      "french": "le Saké de vie",
+      "pixels": 60,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S038",
+      "encoded_bytes": 17,
+      "french": "un Bento amoureux",
+      "pixels": 83,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S039",
+      "encoded_bytes": 21,
+      "french": "un Sourire affectueux",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S040",
+      "encoded_bytes": 18,
+      "french": "un peu de chocolat",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S041",
+      "encoded_bytes": 18,
+      "french": "un Biscuit d'amour",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S042",
+      "encoded_bytes": 15,
+      "french": "le Bonbon blanc",
+      "pixels": 68,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S043",
+      "encoded_bytes": 22,
+      "french": "le Breuvage revigorant",
+      "pixels": 102,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S044",
+      "encoded_bytes": 21,
+      "french": "le Breuvage d'essence",
+      "pixels": 97,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S045",
+      "encoded_bytes": 26,
+      "french": "le Breuvage tourbillonnant",
+      "pixels": 118,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S046",
+      "encoded_bytes": 23,
+      "french": "le Breuvage de l'esprit",
+      "pixels": 100,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S047",
+      "encoded_bytes": 22,
+      "french": "le Breuvage du sorcier",
+      "pixels": 100,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S048",
+      "encoded_bytes": 19,
+      "french": "le Breuvage occulte",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S049",
+      "encoded_bytes": 18,
+      "french": "une pierre d'envol",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S050",
+      "encoded_bytes": 20,
+      "french": "une pierre de retour",
+      "pixels": 91,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S051",
+      "encoded_bytes": 19,
+      "french": "un Tambour agréable",
+      "pixels": 93,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S052",
+      "encoded_bytes": 18,
+      "french": "un Tambour agaçant",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S053",
+      "encoded_bytes": 21,
+      "french": "une Clochette du Chat",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S054",
+      "encoded_bytes": 18,
+      "french": "un Remède puissant",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S055",
+      "encoded_bytes": 18,
+      "french": "un Remède fortifié",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S056",
+      "encoded_bytes": 16,
+      "french": "un Remède rapide",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S057",
+      "encoded_bytes": 19,
+      "french": "le Parfum Étouffant",
+      "pixels": 91,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S058",
+      "encoded_bytes": 19,
+      "french": "le Parfum envoûtant",
+      "pixels": 91,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S059",
+      "encoded_bytes": 17,
+      "french": "le Parfum du soir",
+      "pixels": 76,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S060",
+      "encoded_bytes": 15,
+      "french": "la Lune ardente",
+      "pixels": 70,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S061",
+      "encoded_bytes": 19,
+      "french": "la Lune du souvenir",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S062",
+      "encoded_bytes": 16,
+      "french": "la Lune fondante",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S063",
+      "encoded_bytes": 22,
+      "french": "la Poudre de faiblesse",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S064",
+      "encoded_bytes": 20,
+      "french": "la Poudre de chagrin",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S065",
+      "encoded_bytes": 20,
+      "french": "la Poudre de sommeil",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S066",
+      "encoded_bytes": 19,
+      "french": "la Poudre d'idiotie",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S067",
+      "encoded_bytes": 19,
+      "french": "un Talisman de bois",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S068",
+      "encoded_bytes": 17,
+      "french": "un Talisman rouge",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S069",
+      "encoded_bytes": 17,
+      "french": "un Talisman blanc",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S070",
+      "encoded_bytes": 16,
+      "french": "un Talisman noir",
+      "pixels": 72,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S071",
+      "encoded_bytes": 16,
+      "french": "un Talisman bleu",
+      "pixels": 73,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S072",
+      "encoded_bytes": 18,
+      "french": "un Talisman violet",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S073",
+      "encoded_bytes": 13,
+      "french": "un pot ardent",
+      "pixels": 61,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S074",
+      "encoded_bytes": 13,
+      "french": "un pot ardent",
+      "pixels": 61,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S075",
+      "encoded_bytes": 8,
+      "french": "un yo-yo",
+      "pixels": 39,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S076",
+      "encoded_bytes": 18,
+      "french": "un Bouclier ourson",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S077",
+      "encoded_bytes": 22,
+      "french": "un Éclat d'arc-en-ciel",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S078",
+      "encoded_bytes": 16,
+      "french": "la flûte Mandala",
+      "pixels": 73,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S079",
+      "encoded_bytes": 19,
+      "french": "un précieux coffret",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S080",
+      "encoded_bytes": 20,
+      "french": "l'Essence corporelle",
+      "pixels": 89,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S081",
+      "encoded_bytes": 22,
+      "french": "l'Essence de technique",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S082",
+      "encoded_bytes": 18,
+      "french": "l'Essence de force",
+      "pixels": 81,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S083",
+      "encoded_bytes": 18,
+      "french": "l'Essence de garde",
+      "pixels": 81,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S084",
+      "encoded_bytes": 20,
+      "french": "l'Essence de vitesse",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S085",
+      "encoded_bytes": 19,
+      "french": "l'Essence de chance",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S086",
+      "encoded_bytes": 19,
+      "french": "les Croquettes Tête",
+      "pixels": 93,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S087",
+      "encoded_bytes": 20,
+      "french": "les Croquettes Corps",
+      "pixels": 96,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S088",
+      "encoded_bytes": 20,
+      "french": "les Croquettes Coeur",
+      "pixels": 96,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S089",
+      "encoded_bytes": 18,
+      "french": "les Croquettes Pet",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S090",
+      "encoded_bytes": 22,
+      "french": "les Croquettes Mystère",
+      "pixels": 108,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S091",
+      "encoded_bytes": 21,
+      "french": "la clé de l'Amour uni",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S092",
+      "encoded_bytes": 24,
+      "french": "une poupée en abricotier",
+      "pixels": 108,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S093",
+      "encoded_bytes": 20,
+      "french": "une poupée mécanique",
+      "pixels": 94,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S094",
+      "encoded_bytes": 19,
+      "french": "une boîte à musique",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S095",
+      "encoded_bytes": 17,
+      "french": "une poêle fleurie",
+      "pixels": 74,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S096",
+      "encoded_bytes": 13,
+      "french": "un sac fleuri",
+      "pixels": 56,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S097",
+      "encoded_bytes": 18,
+      "french": "un futon de plumes",
+      "pixels": 83,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S098",
+      "encoded_bytes": 19,
+      "french": "la Flamme éternelle",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S099",
+      "encoded_bytes": 20,
+      "french": "la corne de l'ermite",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S100",
+      "encoded_bytes": 16,
+      "french": "la larme du Paon",
+      "pixels": 72,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S101",
+      "encoded_bytes": 14,
+      "french": "la clé de Juri",
+      "pixels": 57,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S102",
+      "encoded_bytes": 22,
+      "french": "le cœur du Chien divin",
+      "pixels": 95,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S103",
+      "encoded_bytes": 28,
+      "french": "le nid des insectes mange-or",
+      "pixels": 126,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S104",
+      "encoded_bytes": 9,
+      "french": "une batée",
+      "pixels": 43,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S105",
+      "encoded_bytes": 14,
+      "french": "la poudre d'or",
+      "pixels": 61,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S106",
+      "encoded_bytes": 11,
+      "french": "un bon d'or",
+      "pixels": 48,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S107",
+      "encoded_bytes": 10,
+      "french": "un sablier",
+      "pixels": 43,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S108",
+      "encoded_bytes": 26,
+      "french": "une Pilule rafraîchissante",
+      "pixels": 116,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B002-S109",
+      "encoded_bytes": 17,
+      "french": "une Pilule du Sot",
+      "pixels": 74,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S001",
+      "encoded_bytes": 17,
+      "french": "une épée rouillée",
+      "pixels": 74,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S002",
+      "encoded_bytes": 23,
+      "french": "l'épée de l'Ours de Feu",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S003",
+      "encoded_bytes": 25,
+      "french": "l'épée de la Grue blanche",
+      "pixels": 109,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S004",
+      "encoded_bytes": 13,
+      "french": "l'épée d'Agni",
+      "pixels": 53,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S005",
+      "encoded_bytes": 15,
+      "french": "l'épée de Higan",
+      "pixels": 64,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S006",
+      "encoded_bytes": 15,
+      "french": "l'orbe de Hisui",
+      "pixels": 61,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S007",
+      "encoded_bytes": 16,
+      "french": "l'orbe du Dragon",
+      "pixels": 72,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S008",
+      "encoded_bytes": 19,
+      "french": "l'orbe de la Tortue",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S009",
+      "encoded_bytes": 16,
+      "french": "l'orbe de Subaru",
+      "pixels": 72,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S010",
+      "encoded_bytes": 18,
+      "french": "le miroir du Temps",
+      "pixels": 81,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S011",
+      "encoded_bytes": 19,
+      "french": "le miroir de Mizuki",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S012",
+      "encoded_bytes": 20,
+      "french": "le miroir de l'Arche",
+      "pixels": 83,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S013",
+      "encoded_bytes": 19,
+      "french": "le miroir de Tenjin",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S014",
+      "encoded_bytes": 15,
+      "french": "une Lame éclair",
+      "pixels": 68,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S015",
+      "encoded_bytes": 20,
+      "french": "une Dague d'étreinte",
+      "pixels": 91,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S016",
+      "encoded_bytes": 16,
+      "french": "le Katana sombre",
+      "pixels": 76,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S017",
+      "encoded_bytes": 18,
+      "french": "une Lance perçante",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S018",
+      "encoded_bytes": 25,
+      "french": "un Katana du Dragon rouge",
+      "pixels": 119,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S019",
+      "encoded_bytes": 19,
+      "french": "le katana de Mizuki",
+      "pixels": 84,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S020",
+      "encoded_bytes": 31,
+      "french": "une Épée longue du Dragon royal",
+      "pixels": 142,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S021",
+      "encoded_bytes": 16,
+      "french": "un Katana Ashura",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S022",
+      "encoded_bytes": 27,
+      "french": "une Épée longue étincelante",
+      "pixels": 122,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S023",
+      "encoded_bytes": 20,
+      "french": "un Katana décapiteur",
+      "pixels": 94,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S024",
+      "encoded_bytes": 19,
+      "french": "une Lame rugissante",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S025",
+      "encoded_bytes": 27,
+      "french": "une Épée à double tranchant",
+      "pixels": 125,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S026",
+      "encoded_bytes": 26,
+      "french": "une Épée longue de la Grue",
+      "pixels": 117,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S027",
+      "encoded_bytes": 19,
+      "french": "un Katana salvateur",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S028",
+      "encoded_bytes": 16,
+      "french": "un Éventail doré",
+      "pixels": 71,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S029",
+      "encoded_bytes": 20,
+      "french": "une Dague des larmes",
+      "pixels": 94,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S030",
+      "encoded_bytes": 17,
+      "french": "une Lame de glace",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S031",
+      "encoded_bytes": 20,
+      "french": "une Lame du tonnerre",
+      "pixels": 96,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S032",
+      "encoded_bytes": 21,
+      "french": "un Fouet de princesse",
+      "pixels": 96,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S033",
+      "encoded_bytes": 19,
+      "french": "une Lame de tempête",
+      "pixels": 92,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S034",
+      "encoded_bytes": 23,
+      "french": "les cisailles de jardin",
+      "pixels": 92,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S035",
+      "encoded_bytes": 20,
+      "french": "une Dague de l'Égide",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S036",
+      "encoded_bytes": 27,
+      "french": "un Katana de pluie nocturne",
+      "pixels": 123,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S037",
+      "encoded_bytes": 23,
+      "french": "une Dague assoupissante",
+      "pixels": 109,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S038",
+      "encoded_bytes": 17,
+      "french": "un râteau d'acier",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S039",
+      "encoded_bytes": 21,
+      "french": "un couteau à découper",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S040",
+      "encoded_bytes": 15,
+      "french": "un Katana tordu",
+      "pixels": 72,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S041",
+      "encoded_bytes": 24,
+      "french": "un Couteau tout-puissant",
+      "pixels": 115,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S042",
+      "encoded_bytes": 15,
+      "french": "la hache à bois",
+      "pixels": 64,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S043",
+      "encoded_bytes": 16,
+      "french": "un Katana noirci",
+      "pixels": 71,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S044",
+      "encoded_bytes": 14,
+      "french": "une Dague vive",
+      "pixels": 64,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S045",
+      "encoded_bytes": 17,
+      "french": "une Lance de bois",
+      "pixels": 77,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S046",
+      "encoded_bytes": 17,
+      "french": "un Katana de bois",
+      "pixels": 77,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S047",
+      "encoded_bytes": 20,
+      "french": "un Katana du Bushido",
+      "pixels": 93,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S048",
+      "encoded_bytes": 23,
+      "french": "un Katana à coup unique",
+      "pixels": 105,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S049",
+      "encoded_bytes": 23,
+      "french": "un Katana du halètement",
+      "pixels": 109,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S050",
+      "encoded_bytes": 17,
+      "french": "une Lame souillée",
+      "pixels": 76,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S051",
+      "encoded_bytes": 16,
+      "french": "un Katana Yaksha",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S052",
+      "encoded_bytes": 15,
+      "french": "un Katana jouet",
+      "pixels": 70,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S053",
+      "encoded_bytes": 21,
+      "french": "une Lame de l'Abeille",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S054",
+      "encoded_bytes": 17,
+      "french": "l'Armure de lames",
+      "pixels": 77,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S055",
+      "encoded_bytes": 29,
+      "french": "une Robe d'étoiles précieuses",
+      "pixels": 129,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S056",
+      "encoded_bytes": 21,
+      "french": "l'Armure miroir d'eau",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S057",
+      "encoded_bytes": 19,
+      "french": "une Robe de lumière",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S058",
+      "encoded_bytes": 24,
+      "french": "l'Armure du Dragon royal",
+      "pixels": 110,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S059",
+      "encoded_bytes": 19,
+      "french": "un Kimono angélique",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S060",
+      "encoded_bytes": 21,
+      "french": "un Manteau de terrain",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S061",
+      "encoded_bytes": 25,
+      "french": "une Robe de rosée du soir",
+      "pixels": 113,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S062",
+      "encoded_bytes": 17,
+      "french": "l'Armure renommée",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S063",
+      "encoded_bytes": 31,
+      "french": "un Manteau de poussière d'astre",
+      "pixels": 144,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S064",
+      "encoded_bytes": 18,
+      "french": "une Robe du zéphyr",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S065",
+      "encoded_bytes": 21,
+      "french": "un Kimono du souvenir",
+      "pixels": 95,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S066",
+      "encoded_bytes": 27,
+      "french": "l'Armure du soleil couchant",
+      "pixels": 119,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S067",
+      "encoded_bytes": 17,
+      "french": "une Robe de brume",
+      "pixels": 81,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S068",
+      "encoded_bytes": 22,
+      "french": "les Vêtements d'argent",
+      "pixels": 103,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S069",
+      "encoded_bytes": 15,
+      "french": "une Robe miroir",
+      "pixels": 67,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S070",
+      "encoded_bytes": 26,
+      "french": "les Vêtements de princesse",
+      "pixels": 121,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S071",
+      "encoded_bytes": 22,
+      "french": "une Robe de brouillard",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S072",
+      "encoded_bytes": 29,
+      "french": "un Manteau de feuilles vertes",
+      "pixels": 133,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S073",
+      "encoded_bytes": 17,
+      "french": "l'Armure obstinée",
+      "pixels": 77,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S074",
+      "encoded_bytes": 13,
+      "french": "l'Armure d'or",
+      "pixels": 57,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S075",
+      "encoded_bytes": 23,
+      "french": "un Manteau de feuillage",
+      "pixels": 105,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S076",
+      "encoded_bytes": 17,
+      "french": "une Robe pare-feu",
+      "pixels": 83,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S077",
+      "encoded_bytes": 22,
+      "french": "l'Armure d'étain rouge",
+      "pixels": 97,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S078",
+      "encoded_bytes": 24,
+      "french": "un Kimono de jeune fille",
+      "pixels": 102,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S079",
+      "encoded_bytes": 19,
+      "french": "l'Armure champignon",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S080",
+      "encoded_bytes": 18,
+      "french": "un Kimono vaillant",
+      "pixels": 78,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S081",
+      "encoded_bytes": 20,
+      "french": "une Robe sacerdotale",
+      "pixels": 95,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S082",
+      "encoded_bytes": 20,
+      "french": "un Kimono de mailles",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S083",
+      "encoded_bytes": 26,
+      "french": "les Vêtements transparents",
+      "pixels": 126,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S084",
+      "encoded_bytes": 24,
+      "french": "les Vêtements de shinobi",
+      "pixels": 108,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S085",
+      "encoded_bytes": 16,
+      "french": "la robe de Hisui",
+      "pixels": 67,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S086",
+      "encoded_bytes": 16,
+      "french": "l'Armure de cuir",
+      "pixels": 70,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S087",
+      "encoded_bytes": 24,
+      "french": "les Vêtements de chanvre",
+      "pixels": 114,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S088",
+      "encoded_bytes": 12,
+      "french": "les haillons",
+      "pixels": 49,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S089",
+      "encoded_bytes": 20,
+      "french": "l'Armure Breakalegor",
+      "pixels": 94,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S090",
+      "encoded_bytes": 18,
+      "french": "un Manteau importé",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S091",
+      "encoded_bytes": 24,
+      "french": "une Robe à douze couches",
+      "pixels": 113,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S092",
+      "encoded_bytes": 17,
+      "french": "une Robe chinoise",
+      "pixels": 76,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S093",
+      "encoded_bytes": 18,
+      "french": "un Manteau assorti",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S094",
+      "encoded_bytes": 16,
+      "french": "l'Armure mortier",
+      "pixels": 73,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S095",
+      "encoded_bytes": 24,
+      "french": "l'Armure de bois étrange",
+      "pixels": 108,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S096",
+      "encoded_bytes": 26,
+      "french": "la pierre de l'Ours de Feu",
+      "pixels": 112,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S097",
+      "encoded_bytes": 17,
+      "french": "la pierre du Paon",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S098",
+      "encoded_bytes": 20,
+      "french": "la pierre de la Grue",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S099",
+      "encoded_bytes": 22,
+      "french": "la pierre de la Tortue",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S100",
+      "encoded_bytes": 24,
+      "french": "la pierre du Chien divin",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S101",
+      "encoded_bytes": 19,
+      "french": "la pierre du Dragon",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S102",
+      "encoded_bytes": 15,
+      "french": "une Poche d'air",
+      "pixels": 66,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S103",
+      "encoded_bytes": 18,
+      "french": "la Robe de la Grue",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S104",
+      "encoded_bytes": 15,
+      "french": "un insigne d'or",
+      "pixels": 62,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S105",
+      "encoded_bytes": 20,
+      "french": "une Capuche violette",
+      "pixels": 92,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S106",
+      "encoded_bytes": 17,
+      "french": "une Capuche noire",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S107",
+      "encoded_bytes": 17,
+      "french": "une Capuche rouge",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S108",
+      "encoded_bytes": 30,
+      "french": "une Capuche à oreilles de chat",
+      "pixels": 134,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S109",
+      "encoded_bytes": 23,
+      "french": "une Capuche du désastre",
+      "pixels": 110,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S110",
+      "encoded_bytes": 16,
+      "french": "un Masque louche",
+      "pixels": 77,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S111",
+      "encoded_bytes": 14,
+      "french": "un Beau masque",
+      "pixels": 68,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S112",
+      "encoded_bytes": 19,
+      "french": "un Masque grimaçant",
+      "pixels": 92,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S113",
+      "encoded_bytes": 16,
+      "french": "un Masque hideux",
+      "pixels": 76,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S114",
+      "encoded_bytes": 18,
+      "french": "un Masque de merde",
+      "pixels": 88,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S115",
+      "encoded_bytes": 12,
+      "french": "une Couronne",
+      "pixels": 59,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S116",
+      "encoded_bytes": 18,
+      "french": "un Chapeau de soie",
+      "pixels": 82,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S117",
+      "encoded_bytes": 21,
+      "french": "un Pot de poudre d'or",
+      "pixels": 95,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S118",
+      "encoded_bytes": 16,
+      "french": "un Casque de fer",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S119",
+      "encoded_bytes": 17,
+      "french": "un Casque de vent",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S120",
+      "encoded_bytes": 19,
+      "french": "un Casque de foudre",
+      "pixels": 90,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S121",
+      "encoded_bytes": 16,
+      "french": "un Casque de feu",
+      "pixels": 75,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S122",
+      "encoded_bytes": 15,
+      "french": "un Casque d'eau",
+      "pixels": 69,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S123",
+      "encoded_bytes": 18,
+      "french": "un Casque d'oiseau",
+      "pixels": 81,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S124",
+      "encoded_bytes": 18,
+      "french": "un Casque de crabe",
+      "pixels": 85,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S125",
+      "encoded_bytes": 18,
+      "french": "un Casque de merde",
+      "pixels": 86,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S126",
+      "encoded_bytes": 22,
+      "french": "un Casque d'abricotier",
+      "pixels": 98,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S127",
+      "encoded_bytes": 30,
+      "french": "une Épingle à cheveux de pêche",
+      "pixels": 135,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S128",
+      "encoded_bytes": 31,
+      "french": "une Épingle à cheveux de sakura",
+      "pixels": 140,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S129",
+      "encoded_bytes": 29,
+      "french": "une Épingle à cheveux glycine",
+      "pixels": 127,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S130",
+      "encoded_bytes": 19,
+      "french": "un Peigne d'automne",
+      "pixels": 87,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S131",
+      "encoded_bytes": 18,
+      "french": "un Peigne d'érable",
+      "pixels": 79,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S132",
+      "encoded_bytes": 17,
+      "french": "un Bonnet de sage",
+      "pixels": 80,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S133",
+      "encoded_bytes": 22,
+      "french": "un Pendentif de pierre",
+      "pixels": 99,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    },
+    {
+      "id": "B003-S134",
+      "encoded_bytes": 21,
+      "french": "un Pendentif d'étoile",
+      "pixels": 91,
+      "source_four_slots_passed": true,
+      "candidate_four_slots_passed": true
+    }
+  ],
+  "scope": "Finite catalog slot-copy bounds and encoding only. No claim of natural item acquisition, menu layout, all-item coverage or event binding. No numeric 56px bound reused for names."
+}

@@ -6,7 +6,7 @@ Use FEOE_TEST_BLOCK and FEOE_TEST_STRING; never use this core for progression cl
 """
 import argparse,subprocess,shutil
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--enable-slot-fixtures',action='store_true',help='Opt-in synthetic WRAM text slots for staged rendering only');a=p.parse_args()
 f=a.source/'cpuexec.cpp';lib=a.source/'libretro/snes9x_libretro.so';original=f.read_bytes();normal=lib.read_bytes()
 hook=r'''
             static const int feoeBlock = getenv("FEOE_TEST_BLOCK") ? atoi(getenv("FEOE_TEST_BLOCK")) : 0;
@@ -35,8 +35,39 @@ hook=r'''
                 }
             }
 '''
+if a.enable_slot_fixtures:
+ fixture_hook=r'''
+                    // Explicit synthetic fixture; never a natural-event proof.
+                    for (int slot=0; slot<4; slot++) {
+                        char key[40]; snprintf(key, sizeof(key), "FEOE_TEST_SLOT%d_HEX", slot);
+                        const char *hex = getenv(key);
+                        if (!hex) continue;
+                        size_t len = strlen(hex);
+                        if (len == 0 || len > 62 || len % 2) abort();
+                        memset(Memory.RAM + 0x32aa + 32*slot, 0, 32);
+                        for (size_t n=0; n<len; n+=2) {
+                            if (!isxdigit((unsigned char)hex[n]) || !isxdigit((unsigned char)hex[n+1])) abort();
+                            char pair[3] = {hex[n],hex[n+1],0};
+                            unsigned long value = strtoul(pair, NULL, 16);
+                            if (value < 0x10 || value >= 0xe0) abort();
+                            Memory.RAM[0x32aa + 32*slot + n/2] = (uint8)value;
+                        }
+                        fprintf(stderr, "FEOE_DIAGNOSTIC synthetic_slot=%d hex=%s\n", slot, hex);
+                    }
+'''
+ hook=hook.replace('feoePhase = 3;', 'feoePhase = 3;'+fixture_hook)
+ consumed_hook=r'''
+                } else if (feoePhase == 3 && Registers.PB == 0xc3 &&
+                           (Registers.PCw == 0x2e60 || Registers.PCw == 0x2e64 || Registers.PCw == 0x2e68 || Registers.PCw == 0x2e6c)) {
+                    int slot=(Registers.PCw-0x2e60)/4;
+                    fprintf(stderr, "FEOE_DIAGNOSTIC consumed_slot=%d hex=", slot);
+                    for (int n=0; n<32 && Memory.RAM[0x32aa+32*slot+n]; n++)
+                        fprintf(stderr, "%02x", Memory.RAM[0x32aa+32*slot+n]);
+                    fprintf(stderr, "\n");
+'''
+ hook=hook.replace('                } else if (feoePhase == 3 &&', consumed_hook+'                } else if (feoePhase == 3 &&',1)
 try:
- s=original.decode().replace('#include "snes9x.h"','#include "snes9x.h"\n#include <cstdlib>\n#include <cstdio>')
+ s=original.decode().replace('#include "snes9x.h"','#include "snes9x.h"\n#include <cstdlib>\n#include <cstdio>\n#include <cstring>\n#include <cctype>')
  token='\t\t\tuint8\t\t\t\tOp;';assert s.count(token)==1
  f.write_text(s.replace(token,hook+'\n'+token))
  subprocess.run(['make','-C',str(a.source/'libretro'),'-j4'],check=True)

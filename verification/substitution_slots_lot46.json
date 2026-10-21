@@ -1,0 +1,78 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "scope": "Restricted execution of command leaf handlers; static reader-stride assertions. No runtime display or width validation.",
+  "handlers": [
+    {
+      "command": "04",
+      "handler": "0xc32e60",
+      "slot": 0,
+      "cursor_initial": 0,
+      "trace": [
+        "0xc32e60",
+        "0xc32e62",
+        "0xc32e6e",
+        "0xc32e71",
+        "0xc32e74",
+        "0xc32e77",
+        "0xc32e7b"
+      ]
+    },
+    {
+      "command": "05",
+      "handler": "0xc32e64",
+      "slot": 1,
+      "cursor_initial": 0,
+      "trace": [
+        "0xc32e64",
+        "0xc32e66",
+        "0xc32e6e",
+        "0xc32e71",
+        "0xc32e74",
+        "0xc32e77",
+        "0xc32e7b"
+      ]
+    },
+    {
+      "command": "06",
+      "handler": "0xc32e68",
+      "slot": 2,
+      "cursor_initial": 0,
+      "trace": [
+        "0xc32e68",
+        "0xc32e6a",
+        "0xc32e6e",
+        "0xc32e71",
+        "0xc32e74",
+        "0xc32e77",
+        "0xc32e7b"
+      ]
+    },
+    {
+      "command": "07",
+      "handler": "0xc32e6c",
+      "slot": 3,
+      "cursor_initial": 0,
+      "trace": [
+        "0xc32e6c",
+        "0xc32e6e",
+        "0xc32e71",
+        "0xc32e74",
+        "0xc32e77",
+        "0xc32e7b"
+      ]
+    }
+  ],
+  "slot_stride_bytes": 32,
+  "reader_value_remap": {
+    "input_range": "21..2A",
+    "output_hex": "1f2f2122232425262728",
+    "table_cpu": "4F:1FD0"
+  },
+  "reader_address_expression": "7E:32AA + ((slot * 32) OR cursor)",
+  "limitations": [
+    "32-byte spacing is not a proven maximum producer length.",
+    "String copy producers at C3:2AA4 and C3:2ABC copy until zero without a local length check.",
+    "Actual event producers, values, glyph widths and 05–07 fixtures still require validation.",
+    "No 96-pixel width reservation is inferred from command 04."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "status": "integrated_and_fresh_captures_reviewed",
+  "corrections": 20,
+  "entries": {
+    "B029-S087": {
+      "before": "<06> unités de poudre d'or valent <07>0 ryo.<0D> Ça vous convient ?",
+      "after": "Quantité de poudre d'or : <06>. Valeur : <07>0 ryo.<0D> Ça vous convient ?",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B029-S090": {
+      "before": "<06> unités d'or valent <07>000 ryo !<0D> Ça vous convient ?",
+      "after": "Quantité d'or : <06>. Valeur : <07>000 ryo !<0D> Ça vous convient ?",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B029-S096": {
+      "before": "<06> unités d'or valent <07> bons d'or.<0D> Ça vous convient ?",
+      "after": "Quantité d'or : <06>. Valeur en bons d'or : <07>.<0D> Ça vous convient ?",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B029-S097": {
+      "before": "<17>Le groupe de Higan reçoit <07> bons d'or !<18>x5",
+      "after": "<17>Bons d'or reçus par le groupe de Higan : <07> !<18>x5",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B029-S106": {
+      "before": "Il faut <06> bons d'or pour la Liqueur miracle.\n\n",
+      "after": "Le prix en bons d'or est de <06> pour la Liqueur miraculeuse.\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B029-S107": {
+      "before": "Il faut <06> bons d'or pour le coffre de l'Araignée du monde de glace.\n\n",
+      "after": "Le prix en bons d'or est de <06> pour le coffre de l'Araignée du monde de glace.\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S015": {
+      "before": "Il est dans la couveuse depuis <06> heures et <05> minutes.<0D>\n\nVeux-tu faire éclore cet œuf ?",
+      "after": "Il est dans la couveuse depuis <06> h et <05> min.<0D>\n\nVeux-tu faire éclore cet œuf ?",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S030": {
+      "before": "<17>Cet œuf est dans la couveuse depuis <05> heures et <06> minutes.<18>",
+      "after": "<17>Cet œuf est dans la couveuse depuis <05> h et <06> min.<18>",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S072": {
+      "before": "Durée de vie<29> <05> jours, <06> heures, <07> minutes",
+      "after": "Durée de vie<29> <05> j, <06> h, <07> min",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S073": {
+      "before": "Durée de vie<29> <06> heures, <07> minutes",
+      "after": "Durée de vie<29> <06> h, <07> min",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S074": {
+      "before": "Durée de vie<29> <07> minutes",
+      "after": "Durée de vie<29> <07> min",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S084": {
+      "before": "<17>Manto récupère <05> points de santé !<18>",
+      "after": "<17>Santé rendue à Manto : <05> !<18>",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B041-S086": {
+      "before": "<17>La santé de Manto baisse de <05> points !<18>",
+      "after": "<17>Baisse de la santé de Manto : <05> !<18>",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B097-S023": {
+      "before": "T'as trouvé <05> médailles !\n\n\nPff,<0D> t'as encore du chemin à faire,<0D> mon vieux !<0D> Fais un petit effort la prochaine fois,<0D> hein !?<0D> Tiens,<0D> prends cette Pilule de soin et file !",
+      "after": "Ton total de médailles : <05> !\n\n\nPff,<0D> t'as encore du chemin à faire,<0D> mon vieux !<0D> Fais un petit effort la prochaine fois,<0D> hein !?<0D> Tiens,<0D> prends cette Pilule de soin et file !",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B097-S025": {
+      "before": "T'as ramassé <05> médailles ?\n\n\nC'est pas mal,<0D> j'imagine !<0D> Assez pour te valoir un bibelot protecteur,<0D> mon vieux !\n\n",
+      "after": "Ton total de médailles est de <05> ?\n\n\nC'est pas mal,<0D> j'imagine !<0D> Assez pour te valoir un bibelot protecteur,<0D> mon vieux !\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B097-S026": {
+      "before": "Ooooh,<0D> t'as <05> médailles ! C'est rudement bien,<0D> si tu veux mon avis !<0D> Ça a pas dû être facile !<0D> Voilà ton prix ! C'est une clochette de statue de chat !<0D> Avec ça, on s'éclate !\n\n",
+      "after": "Ooooh,<0D> ton total de médailles est de <05> ! C'est rudement bien,<0D> si tu veux mon avis !<0D> Ça a pas dû être facile !<0D> Voilà ton prix ! C'est une clochette de statue de chat !<0D> Avec ça, on s'éclate !\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B097-S027": {
+      "before": "T'as trouvé <05> médailles,<0D> hein ?\n\n\nEh ben, dis donc !<0D> T'es devenu un as de la chasse aux médailles !<0D> Et voilà ta récompense,<0D> pour être aussi doué !<0D> C'est un éclat d'arc-en-ciel !<0D> Tous les champions visent l'arc-en-ciel,<0D> tu vois ce que je veux dire ?\n\n",
+      "after": "Ton total de médailles : <05> !<0D> Hein ?\n\n\nEh ben, dis donc !<0D> T'es devenu un as de la chasse aux médailles !<0D> Et voilà ta récompense,<0D> pour être aussi doué !<0D> C'est un éclat d'arc-en-ciel !<0D> Tous les champions visent l'arc-en-ciel,<0D> tu vois ce que je veux dire ?\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1. Reformulation après chevauchement observé avec les profils longs ; le mécanisme interne du chevauchement n’est pas prétendu résolu."
+    },
+    "B097-S028": {
+      "before": "Hein... !?<0D> Tu te FICHES de moi ! C'est... <05> médailles d'or !?\n\nMe dis pas que t'es un pro !?<0D> Enfin,<0D> bon...<0D> T'as gagné à la loyale !<0D> La Liqueur miracle est à toi ! Qu'elle te protège, toi et tes amis !\n\n\n",
+      "after": "Hein... !?<0D> Tu te FICHES de moi ! Ton total de médailles d'or est de... <05> !?\n\nMe dis pas que t'es un pro !?<0D> Enfin,<0D> bon...<0D> T'as gagné à la loyale !<0D> La Liqueur miraculeuse est à toi ! Qu'elle te protège, toi et tes amis !\n\n\n",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B186-S015": {
+      "before": "Dans <04> minutes et <05> secondes,<0D> ce sera...<0D>",
+      "after": "Dans <04> min et <05> s,<0D> ce sera...<0D>",
+      "reason": "Accord invariant pour les valeurs numériques, notamment 1."
+    },
+    "B018-S122": {
+      "before": "Démarrage du 1er réacteur nucléaire japonais\nJournée du nucléaire",
+      "after": "Démarrage de la 1re centrale nucléaire au Japon\nJournée du nucléaire",
+      "reason": "Fidélité à nuclear power plant ; aucun fait historique ajouté."
+    }
+  },
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "evidence": "relecture_v52.json"
+}

@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "plain",
+      "cases": "cases_lot46_400_plain.json",
+      "core_filename": "snes9x_libretro_diagnostic_v51.so",
+      "core_sha256": "5b7675c9c643db53930ea488d962d663040f8f39e26d02cc0ea0faea9d9dae6d"
+    },
+    {
+      "name": "numeric",
+      "cases": "cases_lot46_400_numeric.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot46_slots.so",
+      "core_sha256": "4a5f81f6052ebecc994ccd42a734e3863e18d5ef57babd7fca15c8c63b8edafc",
+      "slot_fixtures": "fixtures_lot46_400_numeric.json"
+    },
+    {
+      "name": "fortune",
+      "cases": "cases_lot46_400_fortune.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot46_slots.so",
+      "core_sha256": "4a5f81f6052ebecc994ccd42a734e3863e18d5ef57babd7fca15c8c63b8edafc",
+      "slot_fixtures": "fixtures_lot46_400_fortune.json"
+    },
+    {
+      "name": "items",
+      "cases": "cases_lot46_400_items.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot46_slots.so",
+      "core_sha256": "4a5f81f6052ebecc994ccd42a734e3863e18d5ef57babd7fca15c8c63b8edafc",
+      "slot_fixtures": "fixtures_lot46_400_items.json"
+    }
+  ],
+  "scope": "All new bounded texts and finite catalog substitutions; synthetic fixtures are not natural events."
+}

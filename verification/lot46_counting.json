@@ -1,0 +1,2261 @@
+{
+  "distinct_new_texts": 400,
+  "bounded_occurrences": 394,
+  "distinct_bounded_sources": 393,
+  "native_ui_sources": 7,
+  "alias_occurrences_excluded": {
+    "B002-S074": {
+      "canonical": "B002-S073",
+      "reason": "Identical source label for two flaming-pot item forms. Translate both occurrences; count once."
+    }
+  },
+  "corrections_to_acquired_83_not_counted": 20,
+  "already_translated_source_texts_recounted": 0,
+  "empty_sources": 0,
+  "debug_or_diagnostic_added": 0,
+  "counter_scope": "Distinct source texts. Captures, synthetic profiles, corrections and the flaming-pot label alias are excluded. Menu names/descriptions related to the substitution catalog are not counted by this work.",
+  "entries": [
+    {
+      "id": "B018-S122",
+      "source_text_sha256": "6388e7ef909a1264f0303881a5804719925fce53a064447da68b7e4b635c7b68",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S124",
+      "source_text_sha256": "cf533886783d65e6da53544dc7b38f7d75967b370920fc73a54c015d0b9c7c9b",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S125",
+      "source_text_sha256": "46891c9efd64e6644e941a64bec4065aa408d4439208ad90533e665fb9dc78fe",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S126",
+      "source_text_sha256": "ffcb062836096ba20bdf50b4ca4b22a76f646f20df6b42222002f15316493cf3",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S127",
+      "source_text_sha256": "ebb1f7a5c0ba13c61f20d15fd053ba3c20ba49039bbd5e6cb8d8d48faf4e7401",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S129",
+      "source_text_sha256": "de7ab3b479eafa9ab7a02e29e7d96cb7adb169fbae255e7ef16bb990fba384c0",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S131",
+      "source_text_sha256": "317d37bc68a383b78dbc1d053f84c0c47668247196e3523f79df8cf2507107fc",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S132",
+      "source_text_sha256": "5ac243bac84e8d072f3374d90aa1f717c2e27b36260a27415d2ee4f6da9558ec",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S134",
+      "source_text_sha256": "903cdb0ae6bbf2c02ec120ae1c50874182137597b22e346c087a3aaef4eace40",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S135",
+      "source_text_sha256": "5725d4b28f8d19f4dd6cb897412a53e70214ae474b00a45ac099ac7d45eb68c5",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S136",
+      "source_text_sha256": "4a16d804b09a6e32ca5dbdf61674f90f64ca94a9ea2db0830c9e5c5896b6f8b8",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S137",
+      "source_text_sha256": "8b8a5ff11735b0ed084eb6a2704213449cea8238d1c7c1ed8c548352fdc25835",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S138",
+      "source_text_sha256": "ee45d8b08d72fabc706415423afc89f784952b5d0d1148bbb49bf955e1ed939b",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S139",
+      "source_text_sha256": "1edf6152318f015d6d6be27b4efd7fe8853dfe16671244c89b998eb764be60cc",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S140",
+      "source_text_sha256": "243bc3febc8bb812bcdd1f04652ef272af8f72c1343e304a23b45a093187c8cf",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S142",
+      "source_text_sha256": "d9c83dc7402084b99a214739020e6477fac7acbfd3a1f211f496ce720e1e7650",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S143",
+      "source_text_sha256": "ef88fbc3911b0936e335e8df7e454fbf4092f8a694e104751f1afa02fb34ec47",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S144",
+      "source_text_sha256": "f2411dfccd7629896897a1eb2c33ab93cf2bf61b065d0bb0d873f1c972f8895d",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S145",
+      "source_text_sha256": "33667157b8f34fb71eae06b162a57e75a59f3a05624c20f494b56e080e639dc7",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S146",
+      "source_text_sha256": "627efe548841e0ad640cdb649ad83a3476aac8a81fe58f80170e7b6354cd8a87",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S147",
+      "source_text_sha256": "8ae4e99da13c3008983ceb44f60d71b8073241aad09f3e7c08d1d2bed6d4d442",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S150",
+      "source_text_sha256": "517e1041bbc3c6592d7de63c2cef2f905a8237db5bdcc2bee66a6cfb0127a540",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S151",
+      "source_text_sha256": "65c6d511c64f4150bf2b0c5fea81048facbf270bab0614eefcaa5cdf218d691a",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S153",
+      "source_text_sha256": "d025692a14df70a64e2eef800b31ff0a6bde1d1e968df7b7d1e19791ad95aa85",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S154",
+      "source_text_sha256": "a7053e778dd26b70d10812ce73b4e7e1f9024c71725b3abd8c70ee7c22d018aa",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S155",
+      "source_text_sha256": "e016afbe39b562bfe769a74e90edb6db16586c416241dbff6e62dec5d340ce27",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S156",
+      "source_text_sha256": "d5dff2f8493c8a617539929d391892e4cc9d42a3bcff2361ae4d2fad69c999f9",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S157",
+      "source_text_sha256": "2f6b90b7a2be1f36e601cfd6fb59e734afc395772389a7949cf7d498e8efa83b",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S158",
+      "source_text_sha256": "3d16399672786288bd9fd58c9cd7ab586cc62adb5c8267c40d192f2c6e0f0241",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S161",
+      "source_text_sha256": "529e84bb8371335a5c9d9981810c7b35ff09afab31366e0e32e5170323232fb3",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S162",
+      "source_text_sha256": "5d2b443957e8d2d2f1d5895ef8f0e3d41b26b619779067cbe8475aee26f7bd57",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S163",
+      "source_text_sha256": "ff315f57704e60270482635aa13377fcd7dc6a92d8dec2c237bcb158b48562d3",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S164",
+      "source_text_sha256": "59caf988ffe0dc861aa52828a61e3b991e0b9668c49d1de481bb2ad63b950879",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S165",
+      "source_text_sha256": "229732501ba6260b3d52a0fe43a4473b6eaf97f7c0e98d5f3304f817f67b5ebf",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S167",
+      "source_text_sha256": "e48750b58716ab1a22ef2b083f443fa621985f25147596da9d57717a13f25d33",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S168",
+      "source_text_sha256": "c215302b05e4607a45222f60a843d3daf9a4b46a42672ca0ad4c232130ee2c03",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S169",
+      "source_text_sha256": "f9748ba970a5f6b072498014bdf927215b329ba85b8287fbd8915b587f484f40",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S170",
+      "source_text_sha256": "845389181c68c382c249036df37d1345aef5e2e8e4587d3119e895d30e6b6800",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S171",
+      "source_text_sha256": "f8940cd1e135537371e98f04f8d674e57d3832ece6c555e41f0bec516d6cbef3",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S172",
+      "source_text_sha256": "8dc89fdeb80f353bf0860c4de415622b1c8b2494068a8673feb41b24d2548010",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S174",
+      "source_text_sha256": "cc0fa82c29de02f5c42e3bcf8b9c6953eb050689b953e0a11d51276b8ee8ebb4",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S176",
+      "source_text_sha256": "fa8f9cf1eb7bcbbbf2149884b57c87831e681a1204dfc0d06f73616852056be2",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S177",
+      "source_text_sha256": "fa46c7602fc02a2fe72ef5b35a85db96151c42f81203cbb8833220d617474d72",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S178",
+      "source_text_sha256": "a7e566bfc45c259b0cc581249a130a21f6f2c45d9eb02511007273e4b4c749a9",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S179",
+      "source_text_sha256": "b06a48757dfe2141023d7d7a66617bc130430961c9149d11e7b43aad0e42b6b3",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S181",
+      "source_text_sha256": "62e280e4bea4cfddb6874bb7ded1eb0df29fd8e27d40512559dfb098697006d9",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S182",
+      "source_text_sha256": "e3c5bc937b87199ff54db1486b2a1032d567800eb368df0b4f05cfed0ac5d117",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S183",
+      "source_text_sha256": "0899976fd2ab7077d7dc19462bda754658572227cd310de1d000e59d6008b911",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S184",
+      "source_text_sha256": "e4f0825772a357e4a5655b4c274dd13eb21223344af28f7a2ce65ecda4f204b0",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S185",
+      "source_text_sha256": "cbd60161e3e860d4b737d126cb5fa103fe0b3d586d258a201b963673ecc6616c",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S190",
+      "source_text_sha256": "51ffa62c576314a8deb799e4d4514aa3a6a912011bb3e8425b32b831ced71e61",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B018-S191",
+      "source_text_sha256": "440f81a3850b09dfc5f86a6a32e826555175c7617a8f7136d59f21b5573e2e64",
+      "category": "calendar_notice"
+    },
+    {
+      "id": "B029-S087",
+      "source_text_sha256": "12d888823082d1ae2a0e26c23c4f2d50cc9e50cb05c39507e0021ed69f1439be",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S088",
+      "source_text_sha256": "99a6bf42b8447c8a2e75b99c40a785e2409f13bf8d77ed99f172b93e3ff0dd32",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S090",
+      "source_text_sha256": "72c6661bb3d5fb68c5c5c1de93d9e09151f7e5c74c271380aff55c6cfc47f53b",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S091",
+      "source_text_sha256": "267f42c752bae90a46ce1c8b26ab008e29a055542be71bb8ea49365d8d3571a1",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S096",
+      "source_text_sha256": "d2123165f1d2a837c62c8a7250c348f7b0e41ec8545a918078e296292503f91d",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S097",
+      "source_text_sha256": "39de4e7ab1f3146fc6f6331e2050e9b6c9844b49e8cc2c9e2c731b9dafa3215b",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S106",
+      "source_text_sha256": "7d9872af0034276d8404c90544dacad1b8a671ba9d481523add8da9f39965f1d",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B029-S107",
+      "source_text_sha256": "c4e76c89ec9698975032a1b1959a85ddc707de5833596666a921ef5e5a5fbc67",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B037-S012",
+      "source_text_sha256": "da46a75879766f14f27011b9d0874b9ad81c7b5e92cca5cb9a7fe999ebff6528",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B037-S013",
+      "source_text_sha256": "42eb339ebd5506bc7c5faf30d74af170afb8700ca6e847cd2737fa0d2be3f961",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B037-S014",
+      "source_text_sha256": "5cd08623c296f1f05798fee65de4cf1f47f8e788b6a11d326c1263623a9b73d8",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B037-S015",
+      "source_text_sha256": "77494dc62fea2fbba856f336d3c3b5b321a6fb15966b5815c127351ad494d24e",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B037-S009",
+      "source_text_sha256": "23f3608c908cb438daccc9c76572211e092c663f1fa13dc0a51f0b9aecb5bc53",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B038-S003",
+      "source_text_sha256": "765ffd1149ad6a537376666bda3dc9f79f81a46433087a5f7fdf5544a727458a",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B038-S013",
+      "source_text_sha256": "d3b892d88024bd0bc81e5f1f0063bf4d12d2f4fba4588a6565b09dad29b9fa7c",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S054",
+      "source_text_sha256": "62c0996eac27d4e6d513e19792ca9820763fc9769f626e9296092807d8de27d9",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S108",
+      "source_text_sha256": "661b253148e96a3daffa1f80392f178934f81c09f7ed89f9be03f4282c737e55",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S109",
+      "source_text_sha256": "a7d28644a6ac176013acb6428f701f13db6eb034184bbcbac3cf9a9fb76ef091",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S110",
+      "source_text_sha256": "b08b46c774e792a253e5ba13de38056604046b4a6f12b5248c90e604f1fbcc38",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S111",
+      "source_text_sha256": "6ccf41c46dc9654ef9d07370cec387e6fa65fe7731aaa0e91c321a11738ddea5",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S112",
+      "source_text_sha256": "088a9735bfa4f2463aca2b6e1eeba915991a291025aa90bc3c97f68e9432f19b",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S113",
+      "source_text_sha256": "433fb9e4871ac01123e59c466d87d8e44da5641ccee41fdfbc5e00bc9ec92969",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S114",
+      "source_text_sha256": "2686a2ee64d7aeb91ce9ae3e296bd1f4ca2fa83163bdb4447ce1510525b37b75",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S115",
+      "source_text_sha256": "8516874343d414ca1914fb7361b07c2f5b943980a14e4d30641102f7161904e0",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S116",
+      "source_text_sha256": "04d380059e48daede353e50ae58ee92b52d872043990937ff598f2730cdca682",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S117",
+      "source_text_sha256": "9e2a976cc0b73f4bf02a45f33144980914a730e54c22886c4ecbcc822b1a40eb",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S118",
+      "source_text_sha256": "c75afae752cd69dbea476bd38315b84920392618ac358371a5d313501cdf7329",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S119",
+      "source_text_sha256": "e5591968d38d7d78769e6066a42cc000503596251f0c927580218dcd1b90274b",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S120",
+      "source_text_sha256": "c9d094b74be3b1fa2837c6b62a475f8a65cb7a805e4ae15474993122e31c5e05",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B040-S154",
+      "source_text_sha256": "7dede8a3c855cf97c4919aee743e1af9e78712813075c772130042b039b194f1",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S015",
+      "source_text_sha256": "729dab3f421ae6ecfdb5ab1a6a0103015382eb251a164915370727ffc30ede8d",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S030",
+      "source_text_sha256": "87a876e02f55cd633253a600d7f519f5739ba5048b89de8340ff6a5185e12f29",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S072",
+      "source_text_sha256": "ffbae69d2f51498b8b0dbce8547ca3d7032efb6548250c4d1dcf3cc1e8cff7fc",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S073",
+      "source_text_sha256": "2da16f3b4d10f9a383595cbea1b0e1f428a863a8f7c481b25ab0ac7ca36caa37",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S074",
+      "source_text_sha256": "7f8df30d362de3e8d9e7e0b1d1d188db7105e6e4f903ce74505bc7220a1b872c",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S084",
+      "source_text_sha256": "10af8c53c81b28eb499290d5fda016ac636658fd6e64ba8f6c702f6dffd085d9",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B041-S086",
+      "source_text_sha256": "ae2f7ccec72bf4495df18925c180af7c5d6277b939cf0117d5cbea68adc66b48",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S023",
+      "source_text_sha256": "dec6ab7c8bf7407d8af0b615fbc7ff0629ecaa7228c56712d1a95e02cb988ddb",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S025",
+      "source_text_sha256": "5f5442c06704fc0bb5f4ef4d58edff061b8989a8e92c96a795e37479f3638096",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S026",
+      "source_text_sha256": "4ab2b6c39402e2a04a36c8be64a99935b363f14cbb78b48a7b1bf570b744aa54",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S027",
+      "source_text_sha256": "0aa28cb6791cce7b6a8ad867d550143ca5ce9d5bf7706b7bb7f4e982f49309bc",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S028",
+      "source_text_sha256": "8914d291da5d0ad2f31209674598a73667527a8651cbc990189d6f7ff55e4b8a",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S104",
+      "source_text_sha256": "f4f8b318526fd3f7fc5a0bce185d00dc9be3c4bf8191444b0bb3a04fe1e8b7fc",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S024",
+      "source_text_sha256": "d3050289128537e152584652575056af2a65e113e82c5fe1dfa483a27d6631b0",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S058",
+      "source_text_sha256": "5bae82999b9551a1574c773e42560183a4c9989b2fcb17e1fd16ed6eed14c4e3",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S107",
+      "source_text_sha256": "a891adff39aa303a6935dadbfd5e81b45c66e5a8ca9bc7eba18c25e030ce69d1",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B097-S109",
+      "source_text_sha256": "04644671c0f83fb1fe494f710817d637c33e69a2ca0f4255650c640d022ff331",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B186-S015",
+      "source_text_sha256": "7533a53a199f4b2d1746d5a59443f3bd0814f4281cc82beaf23bd812f3d7d87a",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B202-S005",
+      "source_text_sha256": "2fde507c955847fead386fff832027fb4bb53661db6c334d7412d8ef24348224",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B202-S008",
+      "source_text_sha256": "6687ec09f3db966ba437bcf17910ac1a120e6542e9cc6163486fc2882dad4c55",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B039-S049",
+      "source_text_sha256": "f74c8adb90c5abb2885bb14836301c55531b6a7dae004fc3cde3b9f15b9ddb74",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B056-S012",
+      "source_text_sha256": "8d9a73dcb94ddc15db798fd348e732d8d702375658600f32de88546a73baa5fc",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B132-S099",
+      "source_text_sha256": "b03efd2e1ddeb71a7b10e9f8a6383911a4d96d2fab8a71a2e51f073a6088168f",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B080-S021",
+      "source_text_sha256": "38fd066b8d5cd1901ae060d6a84200c0625bc0d6445b2130dfe6c78b9f1f0cbf",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B088-S001",
+      "source_text_sha256": "24baf2a7d314c022e8d2b7d056c4b5d1f5ab76d9815b1df656d65f44882b7e2c",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B088-S002",
+      "source_text_sha256": "08785195fe23061962729c3141e99af044f4d90130e55720d84b6abbdaf4e785",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B088-S006",
+      "source_text_sha256": "e40214cbc351028a1c16cf9466cea3643b274c0fbc68e6b4d376a39b9a27b6bd",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B091-S035",
+      "source_text_sha256": "4cd36e6d46fec91089e7dd1dc7390c14b7f8fa91688825a615251f3adfcb24a2",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B095-S184",
+      "source_text_sha256": "875f64951596b8e3af9ef73658bfab7971556a48d20ddfc6150e299abffd85ec",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B125-S003",
+      "source_text_sha256": "79adc07af4fd67305682a0058301935c0f869d333c32a6e6f263241b3a456158",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B140-S002",
+      "source_text_sha256": "07aff46556f1a188fb7a7cb5dd3369dbede20118ab71c48fe74fa3f2fe6f27ed",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B140-S022",
+      "source_text_sha256": "3486b36303ba959fdeca50fe1090648bcf9f335242d39202f64ec75bac673475",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B140-S027",
+      "source_text_sha256": "8994efdb09d13b134509857e6e5986344c908b1d7b9e73afc3f44edfe72658f8",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B149-S001",
+      "source_text_sha256": "4addbd266528e7e9bc863a6e61a2f2978bb4cd1d5a7955a4c7b9c9de409c357f",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B149-S006",
+      "source_text_sha256": "c7f2c92df1fb4d6afb546bddd5eec29d0ebb856bd7356a9e817d45d7f54a14c9",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B225-S012",
+      "source_text_sha256": "0c6aaced5fb7a19ae37fc244128a2eaf2c34e8ac999960a6d9962d3270d15768",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B231-S032",
+      "source_text_sha256": "a501662827dbb2f5ee26fb8c6ddd7b0589cd65177c9c4603ca0bd8285b7320da",
+      "category": "dialogue_or_event"
+    },
+    {
+      "id": "B013-S003",
+      "source_text_sha256": "fde261702cde814432cde8869260f1cff7194dc66e424215a5a9f712347e5665",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S004",
+      "source_text_sha256": "be2f75985c7eadf6331b42b2de78fc87390d8a520393f209835f334903645116",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S005",
+      "source_text_sha256": "c5066a804518cc7d9b149a56c6b7aeafa9a6573134db12f0ead767805c228ea9",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S006",
+      "source_text_sha256": "9e87037d3acd18fc16078851dae79ae4842d66e93ad009ef89d128e54ecf44d1",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S007",
+      "source_text_sha256": "ffed0b615bf191cb69579aec87e29deced5173bb69845a7c24321f0bbe4106d4",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S008",
+      "source_text_sha256": "a3e3802d31fe4035c5feba75e4abeff556891dedde4093d9588165159dcd32a7",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S009",
+      "source_text_sha256": "c61d6c92b3b2f9cd7c22ba41bd15b1d9eb585c3385c51a29632fee5b5eb1dd0e",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S010",
+      "source_text_sha256": "e8c0a4bad7d88ffab85b832ebb76e9a856a2a0bd82e8ebca45d16cec5249e3aa",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S011",
+      "source_text_sha256": "5bddd997e1eace2f8bb1fbe03c8519a4ad396b124ed003faa131190784f1e41b",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S012",
+      "source_text_sha256": "4ee0f480e0aedf4f1b5a37501f4d7fb4feecc27b16b0d479004c7a1c3a8d252a",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S013",
+      "source_text_sha256": "e80d8e15f5313c45a72732dd5838365b84e0b3f0930a9cf1d7dd2d1dc8f000c5",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S014",
+      "source_text_sha256": "5616ad0b6ff6d73478ccbecf71a3bd16c730b796aeaa6b15b801bfad0b18f88b",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S015",
+      "source_text_sha256": "9ca6f867e9e4b220e3f5925d1cc3ad4bb8b644f394cee66b97aa80e252517de1",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S016",
+      "source_text_sha256": "ddd3f8ad82e7b6d316274057f40d295be75276008e99923ff1ad0ffbb9e74a83",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S017",
+      "source_text_sha256": "aa1af838333c4934f19254519a6e25dbba588b6cb270a57463d2b4ca56e0adc5",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S018",
+      "source_text_sha256": "7946a8e0d8c6efa79a26b9fe8fac3b0fb09fee33bced3c569eae990d00ec0149",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S019",
+      "source_text_sha256": "bbf66c31405eb0e2905a108a8a41bbfc4f4f77339e2898989daf779278cf26c6",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S020",
+      "source_text_sha256": "d230e13e184475704bdb8248abf9875a198431f4f5b99c0278d280857da2664f",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S021",
+      "source_text_sha256": "fb7c4c14288e2cad4734acb47d78e1a43356b20af4c469379c0b514ec0e3e73a",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S022",
+      "source_text_sha256": "aafcc2bb8886175f41d16b4c6dfd9638539cdf2f19d6ebabcd7b6d53f3a1f2d1",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S023",
+      "source_text_sha256": "a968d55b85101db78923a847cc969dd6972ca8e342b6457603b4efe207517789",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S024",
+      "source_text_sha256": "080654bd593f1a68407733e10312c0ea491f005349299c05bdb357744c2992a2",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S025",
+      "source_text_sha256": "e16485fa41ba54b86ef2b3316fc68ac565b773ca51edbfad79ab93084a0b759e",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S026",
+      "source_text_sha256": "283f06c1796503671adf54e46fdd71806044673a91410b8a8021baf9e957c30f",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S027",
+      "source_text_sha256": "519479752fd5cb5fd7f37b8649b919f1049e176fb9525617e584224e76aa6aad",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S028",
+      "source_text_sha256": "85025a8eb790e8a388f175b3c0050e1538e8e4d751f22d8d8887b838d9a404f5",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S029",
+      "source_text_sha256": "880bbc2a2176922347719978038fcdd247cf29af4b2346f446e8503b8629f6c3",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S030",
+      "source_text_sha256": "082ba4a049f9bcecb40c8cd025b01ab738942050388bdfd288d5c753ce7fd82a",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S031",
+      "source_text_sha256": "6abbc110ca3dcf3d54adaddb22e5deeb5892ba8cf6bc61076a1331f853e634c9",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S032",
+      "source_text_sha256": "3bd70a831b4a6436be7f6f60e17591c2c1cbe34d62aaf9ea0c1709d2e1888359",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S033",
+      "source_text_sha256": "32946fcdd165f79c6fdb5acb82db7a3b9a4060655bcc1419c4ab4bc1cc8c1e26",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B013-S034",
+      "source_text_sha256": "4a40c6d3da960c307726daf90f7b8a26faa9a7eaab74f2b2cb40a938e11405f3",
+      "category": "calendar_label"
+    },
+    {
+      "id": "B002-S001",
+      "source_text_sha256": "fcb342c120b6fe6d786cb62b3814874af2270a70b4c0e5ed612fe7254e68d3d1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S001"
+    },
+    {
+      "id": "B002-S002",
+      "source_text_sha256": "4957648aa4c91c2945d6017de679dae5dc8a56e6b342b274bfd338984a1b791e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S002"
+    },
+    {
+      "id": "B002-S003",
+      "source_text_sha256": "040c165330c8327aee7d556516700cd89a4d21a41f6b4099aa5390cf87b07477",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S003"
+    },
+    {
+      "id": "B002-S004",
+      "source_text_sha256": "2a028cd0df9dff4733b377ef1a1a8819bcc9aa5c4a9cb5c0dd32b89879a9f60a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S004"
+    },
+    {
+      "id": "B002-S005",
+      "source_text_sha256": "3d82b20733612ba1bf1bf293a3ce92e51f8a6cd018442508c03410bddf5808ed",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S005"
+    },
+    {
+      "id": "B002-S006",
+      "source_text_sha256": "cea1c7aa250c7908279bb9cd5a0e41b1b5d6929db45b1e52c6b419a65df41e4c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S006"
+    },
+    {
+      "id": "B002-S007",
+      "source_text_sha256": "c021a0e436f2f6ab84cdcaf8e2487f9bc85ccee4241dacd0cd8185987e666975",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S007"
+    },
+    {
+      "id": "B002-S008",
+      "source_text_sha256": "ba458de7e17f02cb24b4ffd216a1a1ff7bb79af57b9f930ddda2ed537b6b0010",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S008"
+    },
+    {
+      "id": "B002-S009",
+      "source_text_sha256": "f5bce89034b04d8076c4dd0a4947e3ae3165963594768574911f43dce9df74f7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S009"
+    },
+    {
+      "id": "B002-S010",
+      "source_text_sha256": "d40232aa84c7460a69833bb5804cffe97ff74161efef06dbd9ea4b1e1a93eacc",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S010"
+    },
+    {
+      "id": "B002-S011",
+      "source_text_sha256": "eba64649a665f363bae4dc63f8eb412b2f67da49d5f4647eeee2f05e96207268",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S011"
+    },
+    {
+      "id": "B002-S012",
+      "source_text_sha256": "3d03811cf384f9df82fcdebf049a21e7dac17e5ab871098081f3972a08897b07",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S012"
+    },
+    {
+      "id": "B002-S013",
+      "source_text_sha256": "d59288bb2ba8c2af5cfa6da45014d26ef6a631d9d3360da0247099937db39cd4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S013"
+    },
+    {
+      "id": "B002-S014",
+      "source_text_sha256": "4c960c6b8a871dba3cef4f9dcdee79fd4f0789b560fd6922fd82d82b85d3f07b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S014"
+    },
+    {
+      "id": "B002-S015",
+      "source_text_sha256": "754cfec1870d6d4fb4e38ad748e13deeae0855b3434b1e92e164a8fe922296a4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S015"
+    },
+    {
+      "id": "B002-S016",
+      "source_text_sha256": "e071918422b744c3921082be5375030d74963bc1f5fb74e3788fc5e9ca23dae9",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S016"
+    },
+    {
+      "id": "B002-S017",
+      "source_text_sha256": "1f2d524a31a3c54fc1efc1a27bfb50e48e3cbcccd76b4486a4b349a257479c5e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S017"
+    },
+    {
+      "id": "B002-S018",
+      "source_text_sha256": "57b75bbcb93587b0808f28a7fb77973e0f5e579f1a4a70d588ec42716efb3aca",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S018"
+    },
+    {
+      "id": "B002-S019",
+      "source_text_sha256": "2aa855c85fa5082505df6bb498a0c625bd90018414697bf75d56c53f18b911f1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S019"
+    },
+    {
+      "id": "B002-S020",
+      "source_text_sha256": "c3d91d195420a47ed94855e03325c633c7bcd798a406c5f9489fbec17e5bdb5b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S020"
+    },
+    {
+      "id": "B002-S021",
+      "source_text_sha256": "331006b6cf948b54c93cffe046892fdcd04bad2a4f9ad014fb0e8648fe30c0a9",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S021"
+    },
+    {
+      "id": "B002-S022",
+      "source_text_sha256": "d7c2d84cec3ad4416ef2905c53591206d58ae543fd7c948650a4b1e11d175365",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S022"
+    },
+    {
+      "id": "B002-S023",
+      "source_text_sha256": "f4e85107fc3f657099fba8aa88cde4abaada6e1df6601018fb3d7eda56afe916",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S023"
+    },
+    {
+      "id": "B002-S024",
+      "source_text_sha256": "d75e3f4a91d0020d6699e88b908944ac7f3ee6ad8aacbd7191d77f51cefca37f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S024"
+    },
+    {
+      "id": "B002-S025",
+      "source_text_sha256": "285c695d13139a085eaefdcb067ae961b1a813113b2e744a9a4d51cd79d63dfa",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S025"
+    },
+    {
+      "id": "B002-S026",
+      "source_text_sha256": "d08d0661267cdbc463a724981c74b6548f33d9b1832cca0846b4fbd3615f6362",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S026"
+    },
+    {
+      "id": "B002-S027",
+      "source_text_sha256": "fdb1d5c2f6de4650eb87ccf0103c3b0ddca3cc8b7292348b66c96ab21860c54a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S027"
+    },
+    {
+      "id": "B002-S028",
+      "source_text_sha256": "80e364ae7cee353ec86fe380302fca7d8f83cad4c20367ce4cfd669ad03cf1c6",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S028"
+    },
+    {
+      "id": "B002-S029",
+      "source_text_sha256": "86529f5fbdab476dd3ac21bf8bf11eb6ea547ac445e019eddccf34bbd6962628",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S029"
+    },
+    {
+      "id": "B002-S030",
+      "source_text_sha256": "89c027a0db34731d9f07a26847636a99142ae4373a3ac34f1afc4a166f061157",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S030"
+    },
+    {
+      "id": "B002-S031",
+      "source_text_sha256": "4c60ebe21aa2f35946483cd9a24a3137afa671bb72b985fdfe5f83d41dddef3c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S031"
+    },
+    {
+      "id": "B002-S032",
+      "source_text_sha256": "a2f39529d5434ced30790f2c8ba91ebf4c6c279050eaac875cc7cee6073aa1ae",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S032"
+    },
+    {
+      "id": "B002-S033",
+      "source_text_sha256": "79ad3cf888f08ad56c22fffca14c33b63069b2776466926ef8b6aa746f2cf047",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S033"
+    },
+    {
+      "id": "B002-S034",
+      "source_text_sha256": "729e82dc3c59751cb1d16264c967109a2adb79b7791f2697c8894c6cf7b7a561",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S034"
+    },
+    {
+      "id": "B002-S035",
+      "source_text_sha256": "a0e4f86e4fe0b385ddbb73cc1b18ee9bfcabf2ca2a880f9b37ee6fbce8e0f85f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S035"
+    },
+    {
+      "id": "B002-S036",
+      "source_text_sha256": "75dee266ef5822974cf103d2f76b6c11d1ea788176728be7a948e6fa93f2730a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S036"
+    },
+    {
+      "id": "B002-S037",
+      "source_text_sha256": "40f7236216d5232a5b8550eb66387b2b61816c9cc0e576378b57fe06d851adf2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S037"
+    },
+    {
+      "id": "B002-S038",
+      "source_text_sha256": "d8d5c7b2f19330cb937fdc1b235b5c6d5488be5333792849b60c761e873afa3c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S038"
+    },
+    {
+      "id": "B002-S039",
+      "source_text_sha256": "86d36aa73e665a4096f52c3dab390f282385061a827b2da4eb96717630baeed8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S039"
+    },
+    {
+      "id": "B002-S040",
+      "source_text_sha256": "4a96e822e1c86ac041000b4babcc488e17c90fc95e7b3c9372e265b3fbc17925",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S040"
+    },
+    {
+      "id": "B002-S041",
+      "source_text_sha256": "21ca8256b75f491b870e49ef9df12d2598d6e9d4470b77a078156006e5f3f494",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S041"
+    },
+    {
+      "id": "B002-S042",
+      "source_text_sha256": "21796994f3601d98aa51e9cfffbb69b31c4a45ba4f438074e6f8c9a0bbc69f05",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S042"
+    },
+    {
+      "id": "B002-S043",
+      "source_text_sha256": "7bd94982e4fc13a51d105acf82794e5d6a5e34be0b8fa5cddac0bdf9f72197cf",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S043"
+    },
+    {
+      "id": "B002-S044",
+      "source_text_sha256": "3853d50fd2a534f5f6c1b59691c388c84d4128e09ee493ff03362b83a37ef05e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S044"
+    },
+    {
+      "id": "B002-S045",
+      "source_text_sha256": "5894ec9abe11d7ab421b719ec38f8c0483b386365f3feabc18e68db75ab4a082",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S045"
+    },
+    {
+      "id": "B002-S046",
+      "source_text_sha256": "b65cbf9ad2556416e9ef05ba210b489844cf83a643b24ebf1e34ec2fc1478f56",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S046"
+    },
+    {
+      "id": "B002-S047",
+      "source_text_sha256": "9ee3ffbbee81af505674ee420d3d33f05b12fd9ec55a2d870ff91a1685cfa16c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S047"
+    },
+    {
+      "id": "B002-S048",
+      "source_text_sha256": "4b6241a3a5a91e944e781102ac6ee79814b05eae35cec8fee6f38753f434c7a4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S048"
+    },
+    {
+      "id": "B002-S049",
+      "source_text_sha256": "c80898bcea7f87f5975361466d25a430ade3b47f297fa465957ad81fbd658884",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S049"
+    },
+    {
+      "id": "B002-S050",
+      "source_text_sha256": "7289cf0455a0268318640a7b1f175ad19bf030f417ac4e423e41b3d8a7033f90",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S050"
+    },
+    {
+      "id": "B002-S051",
+      "source_text_sha256": "29ff7f403fe2d9a351e9d7097203ad2b85ffd0e385ca294c089873c5c7983927",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S051"
+    },
+    {
+      "id": "B002-S052",
+      "source_text_sha256": "19dccf03c9fc611933476e1a99431de6d574a50b9e4848d028ef080695a71381",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S052"
+    },
+    {
+      "id": "B002-S053",
+      "source_text_sha256": "bdcf78a2d44bc80579f4ea98d2c5b77876c38f635593f1278c0208cd3bf67956",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S053"
+    },
+    {
+      "id": "B002-S054",
+      "source_text_sha256": "2aa46a5f08089e6d287a6509d5b45ab8d5406c3b489306ba04609f8682089c7a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S054"
+    },
+    {
+      "id": "B002-S055",
+      "source_text_sha256": "20be41d54990b832a3c8e309d807406e2c12d454f6083dd39c8e69209e6cbda0",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S055"
+    },
+    {
+      "id": "B002-S056",
+      "source_text_sha256": "57300fde13eb53bfc7d6654ce0215157d00be463e8c8060d2777dfb505206824",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S056"
+    },
+    {
+      "id": "B002-S057",
+      "source_text_sha256": "a34455de0f30e030d00269f2b5c34f713eb79e2a1eb7919747393b0e50309f94",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S057"
+    },
+    {
+      "id": "B002-S058",
+      "source_text_sha256": "faaf6b11d06a51f7d070a3e05cf13e81a423e8fb5f5dc81ef50906d951b425b4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S058"
+    },
+    {
+      "id": "B002-S059",
+      "source_text_sha256": "d5d7e8445b960b85f97c0717adf034641e16981835638bba17f52b8ab0c1f466",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S059"
+    },
+    {
+      "id": "B002-S060",
+      "source_text_sha256": "2f2d1cd257b3905748b68027d35e5da52d9cd584940db313e62f61e747bdfc3a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S060"
+    },
+    {
+      "id": "B002-S061",
+      "source_text_sha256": "0250367d5946d12c612261ec24c54bf4503fb694aa15116ec722858132f54913",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S061"
+    },
+    {
+      "id": "B002-S062",
+      "source_text_sha256": "2414e599b5f4411cfb35d2d21295d8864e34755891b4444650e29ba223839e67",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S062"
+    },
+    {
+      "id": "B002-S063",
+      "source_text_sha256": "868914872c5b82f74fdacb9b07f17991014f4dbdcc3f6a889906d136d773932b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S063"
+    },
+    {
+      "id": "B002-S064",
+      "source_text_sha256": "40cb2401198493b9a5a4f9843a3f86d8b57361d50aeacd2c5b0fe3cf6cc28d78",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S064"
+    },
+    {
+      "id": "B002-S065",
+      "source_text_sha256": "4ce74120780d5639d13952e852ad844ee5ca2cb42c24788a6e5928325d184721",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S065"
+    },
+    {
+      "id": "B002-S066",
+      "source_text_sha256": "f07721a3de47697863f0ca2195f6e6dd313dff793ec7c261337ec408f73f2eb8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S066"
+    },
+    {
+      "id": "B002-S067",
+      "source_text_sha256": "bb38660cf18505cf01157acd9204e589d012f4e5032a83539af1c9d8d7c52ea7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S067"
+    },
+    {
+      "id": "B002-S068",
+      "source_text_sha256": "0304d7adce503158f704b8db510cb15ad3752623fd8ed8152ae331627b9469f1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S068"
+    },
+    {
+      "id": "B002-S069",
+      "source_text_sha256": "cc01dd44a4c4f1de86b68e8cb2e210d822d598a0508d5cb58892d2a09539ce9e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S069"
+    },
+    {
+      "id": "B002-S070",
+      "source_text_sha256": "15ebc6ad4504df62c82ff7b8881e7029624f24fdcc490169dbadaa15789f3bb7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S070"
+    },
+    {
+      "id": "B002-S071",
+      "source_text_sha256": "44ca4223f270dfca5c2f4efb85107328f424099e18118f3dc939644acd4064e6",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S071"
+    },
+    {
+      "id": "B002-S072",
+      "source_text_sha256": "2ed941cb5dccee7d96fd8102b969e6aa827097cba7ff77bf81790b9a4697ffef",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S072"
+    },
+    {
+      "id": "B002-S073",
+      "source_text_sha256": "4bad10c0abdb22a278e8bfacd260ecd4a95d9c109ce04972dd6188d1935deb79",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S073"
+    },
+    {
+      "id": "B002-S075",
+      "source_text_sha256": "23a3856e5291af34f9b2c39054c3270188051f48b39a1cdd6f2f0aad136c4ade",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S075"
+    },
+    {
+      "id": "B002-S076",
+      "source_text_sha256": "1f1b062b5db8c498d80932a31cff6feea20e9eaaed9e72d3f8a07ea18b30e3bd",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S076"
+    },
+    {
+      "id": "B002-S077",
+      "source_text_sha256": "800702f75a3a304a8422163c9144fc16a5559e33e4abeab5a351c48c502ddfa0",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S077"
+    },
+    {
+      "id": "B002-S078",
+      "source_text_sha256": "a986138bdd73437dfce9932a0ca2341273da8dab41ee72e0be932e8abf8d42e8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S078"
+    },
+    {
+      "id": "B002-S079",
+      "source_text_sha256": "96aade9f8e785241be8af1195958b853b34e5a1600a3b8c5714e59c6b70377ea",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S079"
+    },
+    {
+      "id": "B002-S080",
+      "source_text_sha256": "ceadcb63b7207a196b80df2ca06699edd02cadc4b5faea6e78437de555509e80",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S080"
+    },
+    {
+      "id": "B002-S081",
+      "source_text_sha256": "8af033edc0fa8ffdabe187dc8ed4bad9c5f960b5c370c6badc933264bdfc9233",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S081"
+    },
+    {
+      "id": "B002-S082",
+      "source_text_sha256": "57b4d77f6d30c166ed98f2114b53f0cec7bde5575e9353a13a4030dcab20ae11",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S082"
+    },
+    {
+      "id": "B002-S083",
+      "source_text_sha256": "2cd782f644326a71cebd4669cf269c8285a2daacf87e075ec741817415a38eeb",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S083"
+    },
+    {
+      "id": "B002-S084",
+      "source_text_sha256": "dee15cd9609061956736bbfaa508638d99398b7fdc88bf818962337521d70066",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S084"
+    },
+    {
+      "id": "B002-S085",
+      "source_text_sha256": "e0f7bf5643ce30caf7965d0841b032634b190bbd7a148f01dcebf66d7cc2be4f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S085"
+    },
+    {
+      "id": "B002-S086",
+      "source_text_sha256": "00eb6c2c2e2640f761f1c794dff7698e4fb916cf9732aa0be42f526e5e507495",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S086"
+    },
+    {
+      "id": "B002-S087",
+      "source_text_sha256": "ea5428720a9177f04c7698256e0d5e9eee27bab73662fa7088a6965601027f99",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S087"
+    },
+    {
+      "id": "B002-S088",
+      "source_text_sha256": "6b1a803e8439459a023c7249d617059cae47eabf171d091ec09f3ca52877c4fa",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S088"
+    },
+    {
+      "id": "B002-S089",
+      "source_text_sha256": "5b3a264d17e1523f3f6db19361e819a2686144d4dc3e4c406096f6d5ac9d3b83",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S089"
+    },
+    {
+      "id": "B002-S090",
+      "source_text_sha256": "de3401626a225dfaf7b22bb17796a91b1fcc772bd0ae160d5005a31aaa6c8274",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S090"
+    },
+    {
+      "id": "B002-S091",
+      "source_text_sha256": "c60511e18a1526bd3dfed8f752f9f7dae8091039a2c183ea33398f645f3a93bf",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S091"
+    },
+    {
+      "id": "B002-S092",
+      "source_text_sha256": "ba1b4d18dfa38524cf732ed5fba6c2793ad9876aa94a2ec771d50932c66f8b31",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S092"
+    },
+    {
+      "id": "B002-S093",
+      "source_text_sha256": "74d445706762e61a33011ccf01ad9ee57fee7aaff7cff1d23b50b7add20b7fe8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S093"
+    },
+    {
+      "id": "B002-S094",
+      "source_text_sha256": "885c435ee298193fffd0f8dbd4ddd0a6091ce65f5323fab58a09f7f0d314f993",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S094"
+    },
+    {
+      "id": "B002-S095",
+      "source_text_sha256": "07afda4393b3f530b1e4dcc03316825af446559131e471aac31c8987a0dc4544",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S095"
+    },
+    {
+      "id": "B002-S096",
+      "source_text_sha256": "5d2df899e7b1b8cf9d576b36365e39b319acb88091059f9eaa714e97b0e66e81",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S096"
+    },
+    {
+      "id": "B002-S097",
+      "source_text_sha256": "01a519f4d873c7da38bd780be618311559d779972e1699c3e9c3f9180e21a8d1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S097"
+    },
+    {
+      "id": "B002-S098",
+      "source_text_sha256": "cc44697244b7c6977d74e1b3b7410d80c049d8ab46400f8668bab0c77c6a6629",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S098"
+    },
+    {
+      "id": "B002-S099",
+      "source_text_sha256": "dc9b3480653aa6cfa9506942e63f4f28872569c94c1c9c636f1a65b95ca0d0d1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S099"
+    },
+    {
+      "id": "B002-S100",
+      "source_text_sha256": "5107f9d44d58ef1fb9a6388e6aef447400160dcf2469cc44bc72e52df7cd7c4a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S100"
+    },
+    {
+      "id": "B002-S101",
+      "source_text_sha256": "37773ae0d6792844eb31d1877b9d0335a9779655a522b7b9d3f8ce78cf7f4f0d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S101"
+    },
+    {
+      "id": "B002-S102",
+      "source_text_sha256": "fbb8d8ff5eb634da6936d85619bfbcb46d607dc1892bb73a8e26c43d5ce71c29",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S102"
+    },
+    {
+      "id": "B002-S103",
+      "source_text_sha256": "f28a8cc29c1e09746d873ea044674c6db1420f024f6b20743b455c3361fd71c8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S103"
+    },
+    {
+      "id": "B002-S104",
+      "source_text_sha256": "8c764aa44a6b67a6b9167f238d2c9874737f6402ddef5d23c70cb9d55c58f4c1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S104"
+    },
+    {
+      "id": "B002-S105",
+      "source_text_sha256": "39ed78f5f522868ccdf1139c43ac653305b16b221a43a88373dffb88ca5d4c93",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S105"
+    },
+    {
+      "id": "B002-S106",
+      "source_text_sha256": "d31f011eba2780518a1c97c3ab7492971d0b35003598f65b4e1cfdf4bad05710",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S106"
+    },
+    {
+      "id": "B002-S107",
+      "source_text_sha256": "372a988295c30864039a0253c913ad6172f3cc2e8a6efe7113057577ea9a7f59",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S107"
+    },
+    {
+      "id": "B002-S108",
+      "source_text_sha256": "ad70df2adf91047a327d705ccc9eacf1c739504c2c568636b73a2b111c5d15ef",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S108"
+    },
+    {
+      "id": "B002-S109",
+      "source_text_sha256": "61182ee584d4efae6701cb384347e22612de928c3f29f0095ccb551224f36a43",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B008-S109"
+    },
+    {
+      "id": "B003-S001",
+      "source_text_sha256": "10cd5590efa2647d90a5731427daaa6c1b32d0f8043a5624115e8d31af5af4c1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S001"
+    },
+    {
+      "id": "B003-S002",
+      "source_text_sha256": "73959400e78c0475ff39f80ced461f6e709827eb50265b86f75ff23fb8e69327",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S002"
+    },
+    {
+      "id": "B003-S003",
+      "source_text_sha256": "72a2d8f0726958f1566ab76563f78ef72f01b6cec9b5d0de926c6828a2a12c49",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S003"
+    },
+    {
+      "id": "B003-S004",
+      "source_text_sha256": "63f40094d058040d1760bc6217242370209fdcbe057cad94d40d30af4c74fa22",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S004"
+    },
+    {
+      "id": "B003-S005",
+      "source_text_sha256": "72490ff7690350f474d45f8804562b0a4b2d9510f58a13948b6e24097ba44475",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S005"
+    },
+    {
+      "id": "B003-S006",
+      "source_text_sha256": "92881a72dd345bfb7acee50ae9c159116c21b7db17c6f3af527acb861633c7e7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S006"
+    },
+    {
+      "id": "B003-S007",
+      "source_text_sha256": "1326a39e3ef69c1fcbdc9ccf555734b39f31e6ae22348cc55d343a64ca6fd0d0",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S007"
+    },
+    {
+      "id": "B003-S008",
+      "source_text_sha256": "f918a44590b4e5ebdffdb488d9069fc69537bb51caf044dfb81d8b159daa1829",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S008"
+    },
+    {
+      "id": "B003-S009",
+      "source_text_sha256": "541aea02d6e0bf1a3de3e3dfc0078bd29aa7fceb6a68072c2fdf796e82d46983",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S009"
+    },
+    {
+      "id": "B003-S010",
+      "source_text_sha256": "4fe603c9b0488cf5a8e63a84fc9a519af736769d9df17f775dec5becc600eae1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S010"
+    },
+    {
+      "id": "B003-S011",
+      "source_text_sha256": "86c5bfeb51b29f174d16264ce819e50eaed25697cdd848ea3bccf40d7e96c030",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S011"
+    },
+    {
+      "id": "B003-S012",
+      "source_text_sha256": "7b9524e07842de3f138747bbbda405abbd6fb967ed1baadd0af2d36d6c172999",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S012"
+    },
+    {
+      "id": "B003-S013",
+      "source_text_sha256": "e23bc4fec5a87be3412b7c708aa7c3b8c582c37faf786af1cd795852f7c34003",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S013"
+    },
+    {
+      "id": "B003-S014",
+      "source_text_sha256": "512648201688bfc20358b1fceb60a7590b5f90e409c31c98cabc7f6b1b8853b5",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S014"
+    },
+    {
+      "id": "B003-S015",
+      "source_text_sha256": "6771647b475b04af5c75a73bada84254db0edc2e22311df405d225a24b04c61a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S015"
+    },
+    {
+      "id": "B003-S016",
+      "source_text_sha256": "15d38730d457fdd73233877cf97deab289931d6eeac4b4a22b317dcc7957b291",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S016"
+    },
+    {
+      "id": "B003-S017",
+      "source_text_sha256": "6c7a29210f33b8efc3eac8622f7275df6c60ebd6bb81426758270e0778582a9b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S017"
+    },
+    {
+      "id": "B003-S018",
+      "source_text_sha256": "b318a4ca26042bdf82b7334f0516167a9e64ffe9838dbc7f21082654602ecaf8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S018"
+    },
+    {
+      "id": "B003-S019",
+      "source_text_sha256": "2c45fc81e797389b6f00ace17351da1dbaa6ea8fe49941392addd49340090d87",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S019"
+    },
+    {
+      "id": "B003-S020",
+      "source_text_sha256": "403ee015a688650df20fe243d6eb46a614aa3f991552460be1e4da5d214966f8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S020"
+    },
+    {
+      "id": "B003-S021",
+      "source_text_sha256": "dfbe39a255158009b505fe7735ba0318047fba16e5950a6bfdceb9d90c23c9a4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S021"
+    },
+    {
+      "id": "B003-S022",
+      "source_text_sha256": "c388c370e5f2fdedaa9868350d088efb254e12f55adb0dc63f2df6299f812533",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S022"
+    },
+    {
+      "id": "B003-S023",
+      "source_text_sha256": "d602ffba16391911eb360eb28d42329c68798cffbca0bf9a5714c9a13b1ae02c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S023"
+    },
+    {
+      "id": "B003-S024",
+      "source_text_sha256": "aab5a8db7a4c38b52b845234a3fc9e098092063012fe282b2e2ea557c32c530e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S024"
+    },
+    {
+      "id": "B003-S025",
+      "source_text_sha256": "bfd87d72b9ef0d26c43c2f47907ba7b9256404b0445037085d24de567948ecb2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S025"
+    },
+    {
+      "id": "B003-S026",
+      "source_text_sha256": "741d5c7cb2316708f75cd0f9002ceef833cf762a3d5671a591f23f238934a34d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S026"
+    },
+    {
+      "id": "B003-S027",
+      "source_text_sha256": "ce2ff31777f838aa8a8d6f6ba3f7f8d660f36913b569b03961a9850fe3e69a30",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S027"
+    },
+    {
+      "id": "B003-S028",
+      "source_text_sha256": "8f92e09231e6dc920b5e81666f604cc2c6ffcaeaa7688f3f260cf27f50b4b2af",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S028"
+    },
+    {
+      "id": "B003-S029",
+      "source_text_sha256": "6f151bba2136f440587001423828523e91b430a0f82a766077a4af534014039d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S029"
+    },
+    {
+      "id": "B003-S030",
+      "source_text_sha256": "79c4a0dc135ae09d8eab1a4efc9d3f865a78e07f3501939a187cf74999635d33",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S030"
+    },
+    {
+      "id": "B003-S031",
+      "source_text_sha256": "1ddc96cc9254260e5b0617f74de751f5e4ceb19631ad7993eec298d816504ffe",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S031"
+    },
+    {
+      "id": "B003-S032",
+      "source_text_sha256": "a05506c435a3de46ca5fc324ddef44f7256f1ad2bf08ab426ae68a2be76eaf37",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S032"
+    },
+    {
+      "id": "B003-S033",
+      "source_text_sha256": "41be3e1d74a970ec89fb638e44a7260c7855a6005887d03a54c6389bda045515",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S033"
+    },
+    {
+      "id": "B003-S034",
+      "source_text_sha256": "a134d43f5a2b109bcc8c7a22fe8a43f13c3f595b6f73c74810660539a562d5fd",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S034"
+    },
+    {
+      "id": "B003-S035",
+      "source_text_sha256": "40a2351359acab06dee8cf709af9d06e9cc793d6c6d24832173c1b948c52feba",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S035"
+    },
+    {
+      "id": "B003-S036",
+      "source_text_sha256": "f59e04f25ab1367ec8ebfdbe3b02234e899b123c72905f13de6685576115eb96",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S036"
+    },
+    {
+      "id": "B003-S037",
+      "source_text_sha256": "cba8f1d02b125b56e11bd076d78fca2722ceb08a9615d8a7d9e1aac516351325",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S037"
+    },
+    {
+      "id": "B003-S038",
+      "source_text_sha256": "be174bcb4406d34808e9059a714ae502e92103e60072249ef20a96fa869f5db9",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S038"
+    },
+    {
+      "id": "B003-S039",
+      "source_text_sha256": "0576cd3e1e826fdff3484fcf3e9de62375ba2b866fde77bffabe1e00b8131878",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S039"
+    },
+    {
+      "id": "B003-S040",
+      "source_text_sha256": "cb593c50164d03d3d73a4e742ce88516b0e88d0a086c4b3d7abeea94977e98e4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S040"
+    },
+    {
+      "id": "B003-S041",
+      "source_text_sha256": "7a56832b9adeda00a414b65706637ee570175f6fff8f6af1d1cd8ea351d1cd6e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S041"
+    },
+    {
+      "id": "B003-S042",
+      "source_text_sha256": "f0e8a5caede9618036ad50f09d7f0a43830c9af2c0b1778ee15d97ac830710e6",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S042"
+    },
+    {
+      "id": "B003-S043",
+      "source_text_sha256": "7baaebbd176add0029c5df8b175e549a0eaad6eb9af4710e28a0b883a59649f4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S043"
+    },
+    {
+      "id": "B003-S044",
+      "source_text_sha256": "ea3fd44316f9e4a196636295ead1cb7dca700384269239bc921b9235fe0b252e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S044"
+    },
+    {
+      "id": "B003-S045",
+      "source_text_sha256": "00bc7e4ccb8bd4a43b796dd03c144089497ad22cab4e5293a040db18242a4f06",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S045"
+    },
+    {
+      "id": "B003-S046",
+      "source_text_sha256": "87c92fe418b3374e157bcdab5a8e33cb7a16910136582ee235825984534af7e2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S046"
+    },
+    {
+      "id": "B003-S047",
+      "source_text_sha256": "beeb41bf29188141ff2c9c6b07845740af6a0f4f1d4befaeebf45d1eb0e918d2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S047"
+    },
+    {
+      "id": "B003-S048",
+      "source_text_sha256": "636e34f17b497cc9a318230125231a786212ce01df9ca09226e3fdb79e1d9d93",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S048"
+    },
+    {
+      "id": "B003-S049",
+      "source_text_sha256": "1690e083b0b97d3ded2d682ac6ad62f02bc65bbeb460d3be5f56b454fed3f92d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S049"
+    },
+    {
+      "id": "B003-S050",
+      "source_text_sha256": "36762a4920114ec5883428ccabed995756f34cde39299efe27cc0c64dcb3e2ba",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S050"
+    },
+    {
+      "id": "B003-S051",
+      "source_text_sha256": "590f085436b09843adbef973cb7ee0025d6dce488aa9bfb5b01875670a0ed399",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S051"
+    },
+    {
+      "id": "B003-S052",
+      "source_text_sha256": "5b8e8ce3fabc6b966d303a1bbf6c2310a38c1ea3074b1be7c6f94dadc1aa6747",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S052"
+    },
+    {
+      "id": "B003-S053",
+      "source_text_sha256": "c56c86b6b47d0ca5bb4ad37b1e4d59981bf1a6e78f969ad3c522311461869a6d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S053"
+    },
+    {
+      "id": "B003-S054",
+      "source_text_sha256": "afe31d3970d675c93b071d7af4489ac17276ba4580710a9dc5b49f812b7a9978",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S054"
+    },
+    {
+      "id": "B003-S055",
+      "source_text_sha256": "5511887120d8d99b885faeb51102f0154a45c2899051a2ce03122ff24693c3ad",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S055"
+    },
+    {
+      "id": "B003-S056",
+      "source_text_sha256": "b1953862a48e718be1e882b3d38a4ccc303feaa84bb67a17600e53e11f68904a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S056"
+    },
+    {
+      "id": "B003-S057",
+      "source_text_sha256": "99ef058a1093d00c1287a818c43bd545afd46ed0c997a62202c955c1e86ac7c5",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S057"
+    },
+    {
+      "id": "B003-S058",
+      "source_text_sha256": "c8f295b96a1baee8c88a703255143069ac565d7d5447e19be67283370492195e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S058"
+    },
+    {
+      "id": "B003-S059",
+      "source_text_sha256": "87e176d1e2b9e7a3a0d07ef0d4f19d22e0676aec53fb6c8af91684e21a04843b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S059"
+    },
+    {
+      "id": "B003-S060",
+      "source_text_sha256": "ac3d9b5ca105d82b44e26abaa3e72ce1e3cce5f8d11ab54ed0f64b3cc3c925f4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S060"
+    },
+    {
+      "id": "B003-S061",
+      "source_text_sha256": "e8e601a153b61572f85fffbe85d23d7865d53cd38052847bab5639d5bbed62f4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S061"
+    },
+    {
+      "id": "B003-S062",
+      "source_text_sha256": "51f63856cfbbb42f4940a291281fa0d2e84b17c742c95b26af344b6df64ea54a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S062"
+    },
+    {
+      "id": "B003-S063",
+      "source_text_sha256": "fba0959d720c83a764d069a168430ece206a85bb80743a509f9da46799f25646",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S063"
+    },
+    {
+      "id": "B003-S064",
+      "source_text_sha256": "50067509791aecb2fbbdb5e2bb5868ad852dd2d816d5b630946c9977322ae506",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S064"
+    },
+    {
+      "id": "B003-S065",
+      "source_text_sha256": "d8f559867d250232350c65b455052013dcd65b7d638dd37d7d327de4b8019211",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S065"
+    },
+    {
+      "id": "B003-S066",
+      "source_text_sha256": "052e83072675d7feb03304f6ed6bda046ac6747efba6a677334ff70169732fae",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S066"
+    },
+    {
+      "id": "B003-S067",
+      "source_text_sha256": "14ff6aeb4ec8acba1ddf6666f07aa987f9b43f56917f42be72f27689570a0ce4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S067"
+    },
+    {
+      "id": "B003-S068",
+      "source_text_sha256": "0de6d15064de6be502897acac51d9a32870336598983d795041f3d56aa125b6b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S068"
+    },
+    {
+      "id": "B003-S069",
+      "source_text_sha256": "a3031d1a9c79e593b0df5ca8025f57f9b531b885e5b15f8436b001d57cbac105",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S069"
+    },
+    {
+      "id": "B003-S070",
+      "source_text_sha256": "9367f248f76abd355fe83d70105978c22036c29faf5685898ef7fe7ddebc388c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S070"
+    },
+    {
+      "id": "B003-S071",
+      "source_text_sha256": "73d1c937989d26f257f479aa26e903c4f32d6e0bf5b27b9040a2e2ab3c6428b8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S071"
+    },
+    {
+      "id": "B003-S072",
+      "source_text_sha256": "8bc5dbeaaefe92845f25b8ad025d9757892e14dc2e133e6033a9a9964ce42d10",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S072"
+    },
+    {
+      "id": "B003-S073",
+      "source_text_sha256": "9457e87e4235d40d3483cf88e23cbfe33ad5515e755c1e9efc8ee9d347fd4104",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S073"
+    },
+    {
+      "id": "B003-S074",
+      "source_text_sha256": "b2111e80e3cad0e7394eb78e450a1672a471b5c27a8932a9c984cc806ccbb78c",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S074"
+    },
+    {
+      "id": "B003-S075",
+      "source_text_sha256": "bd4de645b8fb37a06dc3e7709a1820868c6d3ad9fe9d3c0b8e57c81c60b2bc7e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S075"
+    },
+    {
+      "id": "B003-S076",
+      "source_text_sha256": "0e92155a90cfa1898ffd460964f42b69fe9b36bdabed3eb2c91771f065d76938",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S076"
+    },
+    {
+      "id": "B003-S077",
+      "source_text_sha256": "c3597041ba81858209c255be522ff69069be830c05d7623b99b1a443ab325f76",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S077"
+    },
+    {
+      "id": "B003-S078",
+      "source_text_sha256": "9bf88d1f0a1c2b47b55f649e518ea633a56ecc167bca0af6790b37e1ee3b6c6a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S078"
+    },
+    {
+      "id": "B003-S079",
+      "source_text_sha256": "ed68afdace4eddffdc73f797f812424573a294605b0a438d74e0abced6973f4f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S079"
+    },
+    {
+      "id": "B003-S080",
+      "source_text_sha256": "058be604dd6b537f70a5a38e5bf3f0cf3468c4b0e2b3608d6c9fd6c2a8f82719",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S080"
+    },
+    {
+      "id": "B003-S081",
+      "source_text_sha256": "5f24545ecf85402b5553aade83ae5a8786600781ad8acf2ca8003db621f9a567",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S081"
+    },
+    {
+      "id": "B003-S082",
+      "source_text_sha256": "0b8b07cbb5b22d6a45b7cb484e3f9d8a346ddf1014687d612e252671ff6d33d2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S082"
+    },
+    {
+      "id": "B003-S083",
+      "source_text_sha256": "bd379da7544d8df64474818e06dfdea964a7e2ed36b9f36b7d72df23fbbab358",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S083"
+    },
+    {
+      "id": "B003-S084",
+      "source_text_sha256": "00e313160f9200e592de483172d3965be159245e114f9e332fabafa61bc716b2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S084"
+    },
+    {
+      "id": "B003-S085",
+      "source_text_sha256": "e66d877d178936ec710aa90ec5ed740c43314712de18b14a2f96eabb3451bacd",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S085"
+    },
+    {
+      "id": "B003-S086",
+      "source_text_sha256": "88856826a1fa3e953937845482abc9b11be86eab036a015729d7131e2682261f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S086"
+    },
+    {
+      "id": "B003-S087",
+      "source_text_sha256": "c5112c3f63b271c3cd1bbe87ab59edf71cd34694bc5fa2c93819c42ac7b97fe8",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S087"
+    },
+    {
+      "id": "B003-S088",
+      "source_text_sha256": "b124b4d486aae454a3a6c4708bbbf2c4808992f1f2c467394ea4385510c5bd32",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S088"
+    },
+    {
+      "id": "B003-S089",
+      "source_text_sha256": "623ec8c81f0cce2e379dda28b0aaadc12449851678276473d865195b33172092",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S089"
+    },
+    {
+      "id": "B003-S090",
+      "source_text_sha256": "729a2b728e399a4b0f7f43ac635a472fc9e964e9823ee36407d38bff1d9a5305",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S090"
+    },
+    {
+      "id": "B003-S091",
+      "source_text_sha256": "78e43240fae300437f5cd148f5274c1f623e847f5070610559dff2fd2f17b8e7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S091"
+    },
+    {
+      "id": "B003-S092",
+      "source_text_sha256": "10b386dadfae0dca76b030412fc37165ae0551a658892233e13257cc9ef4c7ce",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S092"
+    },
+    {
+      "id": "B003-S093",
+      "source_text_sha256": "f483cc8a23ef62228990963fba2def37d129e758095d99d10e0aa4082d8d4668",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S093"
+    },
+    {
+      "id": "B003-S094",
+      "source_text_sha256": "ad197af6d90d6f258bd112a2fd5f5dc0ca44ef4448832968ff92a3054ef35c77",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S094"
+    },
+    {
+      "id": "B003-S095",
+      "source_text_sha256": "c362d1a82b301b1e2c6b50f06dda72f7dba83c7977fcb7d5adb581089ba18a05",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S095"
+    },
+    {
+      "id": "B003-S096",
+      "source_text_sha256": "6ec46bf1c61e38617b624d61deee5e177ba1e3b649946b5c2a6565fb2ff68da7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S096"
+    },
+    {
+      "id": "B003-S097",
+      "source_text_sha256": "e90265344dbb53c04193f9a86128f39f135ffb267df0ad44696ac340f8039aff",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S097"
+    },
+    {
+      "id": "B003-S098",
+      "source_text_sha256": "7fa46ff5216945772179bdf3863c42bf139ac72d19ea06264395f79ff0035af4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S098"
+    },
+    {
+      "id": "B003-S099",
+      "source_text_sha256": "d257e801358dd5cb555c8e1c080070974c4af3d69bf2117f5a7af387ba000120",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S099"
+    },
+    {
+      "id": "B003-S100",
+      "source_text_sha256": "7a7d4aa7f9408821f920f59276b44a81282f623551959cc0ff3bcf0f75af8c9a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S100"
+    },
+    {
+      "id": "B003-S101",
+      "source_text_sha256": "d302158c0fe3cd842a24094d69cb01e36fbf98e75ff92ab16aaa88ff0dddd63e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S101"
+    },
+    {
+      "id": "B003-S102",
+      "source_text_sha256": "4708cb9e689ac2a1ed01ff8b5ec4d1f76ff80880eff7c57526249c57b4118dd4",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S102"
+    },
+    {
+      "id": "B003-S103",
+      "source_text_sha256": "7e043c9bbab5939c66bd42c1abdd81e0577fc4ffc14779e4099412d6e74e9324",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S103"
+    },
+    {
+      "id": "B003-S104",
+      "source_text_sha256": "a282196fafad0f25584029d18805aa4a1c2571cddbe866fbdc6148d98412be3f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S104"
+    },
+    {
+      "id": "B003-S105",
+      "source_text_sha256": "0b2f00b895603b152db46464af3ce06c501043d3c95fba71bba098e0805e3950",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S105"
+    },
+    {
+      "id": "B003-S106",
+      "source_text_sha256": "8372d0395b02d93a4847b2ff397ea44b44d8da518c743458d66ff39d28c01682",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S106"
+    },
+    {
+      "id": "B003-S107",
+      "source_text_sha256": "639ae6e07840ac593e0bb48dd1b57f7455322d1c9bc3340a590921be364dc18e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S107"
+    },
+    {
+      "id": "B003-S108",
+      "source_text_sha256": "6d8d793568ed649bec0001c50dedbcc9205b7e8b3bc5ffee745ed5d64b6b9e4b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S108"
+    },
+    {
+      "id": "B003-S109",
+      "source_text_sha256": "dd9033dc163772b484ba0efa1ce4473ad430f9a9be6762666c472c5f0b4785f0",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S109"
+    },
+    {
+      "id": "B003-S110",
+      "source_text_sha256": "47a9e75ea50739ef0118a489c454d70733b979e70b0ed1f4d83300aea98082fc",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S110"
+    },
+    {
+      "id": "B003-S111",
+      "source_text_sha256": "cd2f086913a3ee8955ac64e86291a1174c8621a9b2a40824de1c9cf6cceffb8b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S111"
+    },
+    {
+      "id": "B003-S112",
+      "source_text_sha256": "f40afb54df798031236341ee21d75606c76ace7e1e7e7addb47b8a14f4b65f64",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S112"
+    },
+    {
+      "id": "B003-S113",
+      "source_text_sha256": "842fa778a325f97ed934f1585d0563305c0070449897ff59954ade744ba02db1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S113"
+    },
+    {
+      "id": "B003-S114",
+      "source_text_sha256": "d794cfdc97fc8d407e256feac328d6687dc644143165b059ca0bc13249ba4546",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S114"
+    },
+    {
+      "id": "B003-S115",
+      "source_text_sha256": "24d61c2ed784d0fb9cfed85f13ab07cf89a3c9d1de5b51e649f5557989e922a7",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S115"
+    },
+    {
+      "id": "B003-S116",
+      "source_text_sha256": "60db851d4033485a675242ab9eaf3178b7afdf83bab030faef986126a43c6f90",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S116"
+    },
+    {
+      "id": "B003-S117",
+      "source_text_sha256": "682e8b0b4e507d1aad1d782c675a3f3e83749cdd09cc2fb8568333984c377eea",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S117"
+    },
+    {
+      "id": "B003-S118",
+      "source_text_sha256": "c59fd2e9da2f6e604460def2147634dccdb7f474e46c213669c9633fe022589b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S118"
+    },
+    {
+      "id": "B003-S119",
+      "source_text_sha256": "d990984bc336371b0cb615d2d40d9082d1447534b8731c8a99040e978e77172e",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S119"
+    },
+    {
+      "id": "B003-S120",
+      "source_text_sha256": "78dc9c9a5a2877e4172eda7a8af518eeb8fed7c364aaa9b0e3749095197e3c4d",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S120"
+    },
+    {
+      "id": "B003-S121",
+      "source_text_sha256": "4e51ebc2c84e338e009a4820aafb0dd2a445ba7885e9ccfe2c8d19e80194c2ea",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S121"
+    },
+    {
+      "id": "B003-S122",
+      "source_text_sha256": "aee2adc5443e5372467ba437030e63e891960e885d66a125e512e60a91fad113",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S122"
+    },
+    {
+      "id": "B003-S123",
+      "source_text_sha256": "c7d7cd8add5205c34ed767a5bb8810f3a13dfcf066310e66e7bec4defb3ad8e5",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S123"
+    },
+    {
+      "id": "B003-S124",
+      "source_text_sha256": "1ab5a9aea4f57b7c68c0f6c0193c6918d6cca86f8ec5d6febb1459c999c41fcc",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S124"
+    },
+    {
+      "id": "B003-S125",
+      "source_text_sha256": "c61765be97fe8943bf02ddc6da72ce7cdfee3cac38eae11324d02485f0a58d6b",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S125"
+    },
+    {
+      "id": "B003-S126",
+      "source_text_sha256": "f514efc0fe8d2cc6c771d1c042102848c180f00bd665a87a1eae9efb9f281b64",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S126"
+    },
+    {
+      "id": "B003-S127",
+      "source_text_sha256": "7b9a5024047d53274c782e3c32464ec98ffe448fded99df16fcb31fb73d6f1ce",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S127"
+    },
+    {
+      "id": "B003-S128",
+      "source_text_sha256": "ad6c491de56ff7e289fd5f8244e2dc3d939e294c7c411e584dd413a8a136dfd1",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S128"
+    },
+    {
+      "id": "B003-S129",
+      "source_text_sha256": "073ce4cca6a04be227fc49c2c144055198900f4413e8218e7855dd5aa325bde2",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S129"
+    },
+    {
+      "id": "B003-S130",
+      "source_text_sha256": "0e715129d2a7016eb074c5d59a0bae707feeac540f9414bd7fd8f4f2fd869c9f",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S130"
+    },
+    {
+      "id": "B003-S131",
+      "source_text_sha256": "c4897f2f91f3cf8c745a47026870cd42a743b2c8c5ebe6a9ac9f779fbb843b24",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S131"
+    },
+    {
+      "id": "B003-S132",
+      "source_text_sha256": "823a90298e84ef401eb30b1bd53afc62bbf4c4d28afba600a637b30a93d8a9bc",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S132"
+    },
+    {
+      "id": "B003-S133",
+      "source_text_sha256": "6254c96d194a4c669b386386164bb076810a098806cd8bb7f80fec358edef441",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S133"
+    },
+    {
+      "id": "B003-S134",
+      "source_text_sha256": "3fa022ae79579df92afb45d389d7086d17165612087964df9c751afdd3e4411a",
+      "category": "dialogue_substitution_catalog",
+      "related_menu_entry_not_counted": "B009-S134"
+    },
+    {
+      "id": "CALUI-01",
+      "source_text_sha256": "23d75d50899eb5df351a2826978a3cc6278db20c724b5fe9d8915738f571cc49",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-02",
+      "source_text_sha256": "b0234a208735de88680255948ef1c67778c7f6f11e52e90575e219ad3c395b70",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-03",
+      "source_text_sha256": "89197fd96d4ad41b5e51a2ddc5d0e14bda68c4e091da8fa6efb6a0e5fb37790f",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-04",
+      "source_text_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-05",
+      "source_text_sha256": "834459084c92274c56c465ca9ced3c595a01a74dc85f6b5b63151b741f882521",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-06",
+      "source_text_sha256": "d539a94e4400cb1d2efdfe579af98700b52d8c2b729aa4c03ca9379d8f1afca3",
+      "category": "native_almanac_label"
+    },
+    {
+      "id": "CALUI-07",
+      "source_text_sha256": "3a17ed738cc923afdc7d5000655967f85b287c03cc97ca6f05f5451c6a576617",
+      "category": "native_almanac_label"
+    }
+  ]
+}

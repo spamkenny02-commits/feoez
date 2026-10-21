@@ -1,3 +1,19 @@
+# État actuel — V52, lot 46 complet
+
+400 nouveaux textes distincts : 393 sources bornées (394 occurrences dont un
+alias non recompté) et 7 libellés natifs de l’Almanach. 20 corrections au
+checkpoint 83, aucune ancienne entrée V51 modifiée. 5381 occurrences bornées
+intégrées, plus 7 libellés hors inventaire ; ce total n’est pas un pourcentage.
+Preuves fraîches : lot46p400b. Voir COMPTE_RENDU_V52.md, coverage_v52.json et
+lot46_progress.json. Ne pas dupliquer lot 46 ni repartir du checkpoint 83.
+
+Phase 1 continue : variables/choix/dates/formats difficiles, calendrier et
+liaisons naturelles. Phases 2 et 3 encore ouvertes, graphismes et bloc 42 compris.
+Inventaire borné restant : 3657 entrées, dont 2150 non vides, menus et debug
+compris. Les variantes de menu des noms de substitution restent à harmoniser.
+
+## Historique
+
 # État actuel — V51
 
 Lot 45 : 300 nouveaux textes, total 4 987 entrées.

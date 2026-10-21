@@ -1,0 +1,52 @@
+{
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "scope": "Lot46 only; not phase3 global relecture",
+  "bounded_occurrences": 394,
+  "distinct_bounded_sources": 393,
+  "native_ui_labels": 7,
+  "reviewed_groups": {
+    "plain": {
+      "cases": 105,
+      "unique_images": 134,
+      "sheets": 9,
+      "remarks": "All nine fresh sheets viewed; calendar line positions, accents, x5 closures and note/heart glyphs checked. B091-S035 rank 18 and B040-S154 cherché confirmed."
+    },
+    "fortune": {
+      "cases": 12,
+      "unique_images": 24,
+      "sheets": 2,
+      "remarks": "Both fresh sheets viewed; all twelve names, elisions/gender and message fit. Synthetic catalog slots, not natural fortune."
+    },
+    "numeric": {
+      "cases": 128,
+      "unique_images": 161,
+      "sheets": 11,
+      "remarks": "All eleven fresh sheets viewed. Four numeric profiles checked, quantity labels/abbreviations, pagination and long values fit. B097-S027 additionally rerun without compact selection; same PNG hashes and complete prefix seen throughout stable frames."
+    },
+    "items": {
+      "cases": 243,
+      "unique_images": 242,
+      "sheets": 16,
+      "remarks": "All sixteen fresh sheets viewed. 243 provider occurrences (one alias not recounted), two-line substitution message, accents, article agreement, longest labels and native box fit checked. Synthetic catalog copies, not acquisition."
+    }
+  },
+  "corrections_to_acquired_checkpoint83": 20,
+  "previous_V51_texts_changed": 0,
+  "known_limits": [
+    "Natural event producers, music synchronization, real choices, other dates and branches not validated by staged renders.",
+    "Phase2 exhaustive coverage and phase3 global relecture remain open."
+  ],
+  "final_corrections": [
+    "B097-S027 long-value overlap eliminated in all four fresh profiles.",
+    "B091-S035 rank18 restored; B040-S154 cherché confirmed."
+  ],
+  "images_manifest": "scenes_v52/render_report.json",
+  "system_captures_reviewed": [
+    "check_a.png",
+    "check_b.png",
+    "main_menu.png",
+    "settings.png",
+    "region_map.png"
+  ],
+  "supplementary_numeric_check": "B097-S027 zero and max24 rerun without compact capture selection; stable full prefix and byte-identical selected PNGs confirmed. No claim of a natural event."
+}

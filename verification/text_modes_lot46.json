@@ -1,0 +1,40 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "handlers": [
+    {
+      "command": "08",
+      "handler": "0xc32e7c",
+      "mode_bits": 0,
+      "original_values_tested": 256,
+      "writes": [
+        "000000",
+        "001c94"
+      ],
+      "cursor_or_slot_writes": false
+    },
+    {
+      "command": "09",
+      "handler": "0xc32e80",
+      "mode_bits": 4,
+      "original_values_tested": 256,
+      "writes": [
+        "000000",
+        "001c94"
+      ],
+      "cursor_or_slot_writes": false
+    },
+    {
+      "command": "0A",
+      "handler": "0xc32e84",
+      "mode_bits": 8,
+      "original_values_tested": 256,
+      "writes": [
+        "000000",
+        "001c94"
+      ],
+      "cursor_or_slot_writes": false
+    }
+  ],
+  "scope": "Native mode flag writes only; no horizontal cursor writes. Does not prove music sync, natural events, palette or graphic meaning.",
+  "rendering_required": true
+}

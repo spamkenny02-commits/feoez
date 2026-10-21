@@ -1,0 +1,35 @@
+{
+  "B040-S120": {
+    "widths": {
+      "05": 103
+    },
+    "producer_proof": "fortune_catalog_lot46.json",
+    "catalog": [
+      "B040-S108",
+      "B040-S109",
+      "B040-S110",
+      "B040-S111",
+      "B040-S112",
+      "B040-S113",
+      "B040-S114",
+      "B040-S115",
+      "B040-S116",
+      "B040-S117",
+      "B040-S118",
+      "B040-S119"
+    ],
+    "actual_natural_trigger": "not yet validated"
+  },
+  "B037-S009": {
+    "widths": {
+      "05": 144
+    },
+    "producer_proof": "item_catalog_lot46.json",
+    "catalog_blocks": [
+      2,
+      3
+    ],
+    "scope": "Finite translated item/equipment catalog; no numeric bound reused. Other not-yet-translated item labels still require validation.",
+    "actual_natural_trigger": "not yet validated"
+  }
+}

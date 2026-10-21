@@ -1,0 +1,50 @@
+{
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "labels": [
+    {
+      "id": "CALUI-01",
+      "pixels_with_padding": 47,
+      "field_limit_pixels": 48,
+      "next_cursor": "0xecea"
+    },
+    {
+      "id": "CALUI-02",
+      "pixels_with_padding": 102,
+      "field_limit_pixels": 104,
+      "next_cursor": "0xed07"
+    },
+    {
+      "id": "CALUI-03",
+      "pixels_with_padding": 103,
+      "field_limit_pixels": 104,
+      "next_cursor": "0xed24"
+    },
+    {
+      "id": "CALUI-04",
+      "pixels_with_padding": 24,
+      "field_limit_pixels": 24,
+      "next_cursor": "0xed2e"
+    },
+    {
+      "id": "CALUI-05",
+      "pixels_with_padding": 27,
+      "field_limit_pixels": 32,
+      "next_cursor": "0xed39"
+    },
+    {
+      "id": "CALUI-06",
+      "pixels_with_padding": 32,
+      "field_limit_pixels": 40,
+      "next_cursor": "0xed44"
+    },
+    {
+      "id": "CALUI-07",
+      "pixels_with_padding": 47,
+      "field_limit_pixels": 64,
+      "next_cursor": "0xed53"
+    }
+  ],
+  "continuation_descriptor": "0xed53",
+  "scope": "Parser alignment, literal labels and pixel field bounds. Natural display remains a separate test."
+}

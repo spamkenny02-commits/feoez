@@ -1,11 +1,94 @@
 {
+  "distinct_new_bounded_texts": 393,
+  "alias_occurrences_not_counted": {
+    "B002-S074": {
+      "canonical": "B002-S073",
+      "reason": "Identical source label for two flaming-pot item forms. Translate both occurrences; count once."
+    }
+  },
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
-  "translated_entries": 4987,
-  "new_entries": 300,
-  "previously_integrated": 4687,
-  "new_nonempty_texts": 300,
-  "new_changed_entries": 300,
+  "output_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "translated_entries": 5381,
+  "new_entries": 394,
+  "additional_native_ui_entries": 7,
+  "new_distinct_texts_total": 400,
+  "calendar_ui": {
+    "offset": "0xecdb",
+    "length": 120,
+    "used_bytes": 120,
+    "slack_bytes": 0,
+    "padding_bytes_in_strings": 6,
+    "rendered_labels": [
+      "Biorythme ",
+      " Quel jour est-on ?     ",
+      " Ce jour dans le passé :",
+      "Phys.",
+      "Esprit",
+      "Humeur",
+      "Dates clés"
+    ],
+    "field_widths_pixels": [
+      48,
+      104,
+      104,
+      24,
+      32,
+      40,
+      64
+    ],
+    "next_descriptor_offset": "0xed53",
+    "entries": [
+      {
+        "id": "CALUI-01",
+        "english": "Biorhythm",
+        "french": "Biorythme"
+      },
+      {
+        "id": "CALUI-02",
+        "english": " What day is it today?",
+        "french": " Quel jour est-on ?"
+      },
+      {
+        "id": "CALUI-03",
+        "english": " On this day in history:",
+        "french": " Ce jour dans le passé :"
+      },
+      {
+        "id": "CALUI-04",
+        "english": "Body",
+        "french": "Phys."
+      },
+      {
+        "id": "CALUI-05",
+        "english": "Wisdom",
+        "french": "Esprit"
+      },
+      {
+        "id": "CALUI-06",
+        "english": "Feelings",
+        "french": "Humeur"
+      },
+      {
+        "id": "CALUI-07",
+        "english": "Notable Days",
+        "french": "Dates clés"
+      }
+    ],
+    "headers_preserved": [
+      "fe020506",
+      "fe04120d",
+      "fe04170d",
+      "fe010803",
+      "fe010a04",
+      "fe010c05",
+      "fe020f08"
+    ],
+    "scope": "Sequential native label stream; display and placement require same-ROM Almanac test."
+  },
+  "previously_integrated": 4987,
+  "release_status": "complete_400_distinct_text_lot",
+  "new_nonempty_texts": 394,
+  "new_changed_entries": 394,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -302,14 +385,105 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 4987,
+  "integrated_entries": 5381,
   "blocks": [
+    {
+      "block_ids": [
+        2
+      ],
+      "source": "0x600031",
+      "destination": "0x6b0000",
+      "old_size": 1761,
+      "new_size": 2152,
+      "translated": 109,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0125",
+        "0x021D",
+        "0x0320",
+        "0x042A",
+        "0x0517",
+        "0x0618"
+      ],
+      "new_relative_offsets": [
+        14,
+        366,
+        668,
+        991,
+        1302,
+        1589,
+        1915
+      ]
+    },
+    {
+      "block_ids": [
+        3
+      ],
+      "source": "0x600712",
+      "destination": "0x6b0870",
+      "old_size": 3179,
+      "new_size": 3779,
+      "translated": 134,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x001A",
+        "0x011C",
+        "0x023F",
+        "0x0346",
+        "0x044F",
+        "0x0564",
+        "0x0679",
+        "0x0771",
+        "0x0856",
+        "0x0947",
+        "0x0A45",
+        "0x0B52",
+        "0x0C4A"
+      ],
+      "new_relative_offsets": [
+        26,
+        328,
+        685,
+        1012,
+        1361,
+        1709,
+        2046,
+        2368,
+        2689,
+        2975,
+        3229,
+        3498,
+        3746
+      ]
+    },
+    {
+      "block_ids": [
+        13
+      ],
+      "source": "0x603e4a",
+      "destination": "0x6b1740",
+      "old_size": 482,
+      "new_size": 542,
+      "translated": 32,
+      "storage": "relocated",
+      "old_relative_offsets": [
+        "0x0006",
+        "0x00F4",
+        "0x01C8"
+      ],
+      "new_relative_offsets": [
+        6,
+        266,
+        512
+      ]
+    },
     {
       "block_ids": [
         17
       ],
       "source": "0x604de8",
-      "destination": "0x6b0000",
+      "destination": "0x6b1960",
       "old_size": 8225,
       "new_size": 8894,
       "translated": 171,
@@ -348,10 +522,10 @@
         18
       ],
       "source": "0x606e09",
-      "destination": "0x6b22c0",
+      "destination": "0x6b3c20",
       "old_size": 6778,
-      "new_size": 7157,
-      "translated": 95,
+      "new_size": 7496,
+      "translated": 147,
       "storage": "relocated",
       "old_relative_offsets": [
         "0x0018",
@@ -376,10 +550,10 @@
         3021,
         3558,
         4346,
-        5001,
-        5574,
-        6091,
-        6624
+        5003,
+        5702,
+        6313,
+        6962
       ]
     },
     {
@@ -387,7 +561,7 @@
         30
       ],
       "source": "0x610c5d",
-      "destination": "0x6b3ec0",
+      "destination": "0x6b5970",
       "old_size": 183,
       "new_size": 213,
       "translated": 7,
@@ -442,8 +616,8 @@
       "source": "0x616ac0",
       "destination": "0x616ac0",
       "old_size": 1356,
-      "new_size": 1155,
-      "translated": 13,
+      "new_size": 1153,
+      "translated": 15,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0002"
@@ -459,8 +633,8 @@
       "source": "0x61f0bd",
       "destination": "0x61f0bd",
       "old_size": 12404,
-      "new_size": 11773,
-      "translated": 76,
+      "new_size": 11735,
+      "translated": 83,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0012",
@@ -475,14 +649,14 @@
       ],
       "new_relative_offsets": [
         18,
-        1963,
-        3373,
-        4943,
-        5597,
-        7268,
-        9375,
-        10733,
-        11521
+        1953,
+        3350,
+        4920,
+        5574,
+        7234,
+        9337,
+        10695,
+        11483
       ]
     },
     {
@@ -511,8 +685,8 @@
       "source": "0x612b18",
       "destination": "0x612b18",
       "old_size": 16296,
-      "new_size": 14395,
-      "translated": 105,
+      "new_size": 14414,
+      "translated": 110,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0010",
@@ -526,13 +700,13 @@
       ],
       "new_relative_offsets": [
         16,
-        499,
-        1352,
-        2693,
-        4291,
-        6001,
-        7421,
-        11928
+        518,
+        1371,
+        2712,
+        4310,
+        6020,
+        7440,
+        11947
       ]
     },
     {
@@ -542,8 +716,8 @@
       "source": "0x61700c",
       "destination": "0x61700c",
       "old_size": 6822,
-      "new_size": 6130,
-      "translated": 55,
+      "new_size": 6120,
+      "translated": 56,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0008",
@@ -565,8 +739,8 @@
       "source": "0x618ab2",
       "destination": "0x618ab2",
       "old_size": 26123,
-      "new_size": 23843,
-      "translated": 193,
+      "new_size": 23895,
+      "translated": 208,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x001C",
@@ -589,16 +763,16 @@
         1993,
         3237,
         4898,
-        6268,
-        8259,
-        10831,
-        11917,
-        12976,
-        14761,
-        16715,
-        18818,
-        21298,
-        22717
+        6280,
+        8271,
+        10843,
+        11955,
+        13053,
+        14838,
+        16767,
+        18870,
+        21350,
+        22769
       ]
     },
     {
@@ -639,10 +813,10 @@
         132
       ],
       "source": "0x6616a7",
-      "destination": "0x6b3fa0",
+      "destination": "0x6b5a50",
       "old_size": 20540,
-      "new_size": 20706,
-      "translated": 145,
+      "new_size": 20726,
+      "translated": 146,
       "storage": "relocated",
       "old_relative_offsets": [
         "0x0014",
@@ -664,9 +838,9 @@
         7677,
         9965,
         14048,
-        16057,
-        18295,
-        20161
+        16077,
+        18315,
+        20181
       ]
     },
     {
@@ -676,8 +850,8 @@
       "source": "0x62a32b",
       "destination": "0x62a32b",
       "old_size": 3972,
-      "new_size": 3800,
-      "translated": 31,
+      "new_size": 3805,
+      "translated": 32,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0004",
@@ -685,7 +859,7 @@
       ],
       "new_relative_offsets": [
         4,
-        1691
+        1696
       ]
     },
     {
@@ -737,8 +911,8 @@
       "source": "0x6407eb",
       "destination": "0x6407eb",
       "old_size": 2109,
-      "new_size": 2002,
-      "translated": 6,
+      "new_size": 1948,
+      "translated": 9,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0002"
@@ -754,8 +928,8 @@
       "source": "0x646b60",
       "destination": "0x646b60",
       "old_size": 26292,
-      "new_size": 25395,
-      "translated": 180,
+      "new_size": 25412,
+      "translated": 181,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x001A",
@@ -785,7 +959,7 @@
         18566,
         20138,
         21377,
-        24072
+        24089
       ]
     },
     {
@@ -796,8 +970,8 @@
       "source": "0x641659",
       "destination": "0x641659",
       "old_size": 4088,
-      "new_size": 3470,
-      "translated": 32,
+      "new_size": 3495,
+      "translated": 33,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -853,7 +1027,7 @@
         1
       ],
       "source": "0x600000",
-      "destination": "0x6b9090",
+      "destination": "0x6bab50",
       "old_size": 49,
       "new_size": 64,
       "translated": 5,
@@ -872,8 +1046,8 @@
       "source": "0x60d738",
       "destination": "0x60d738",
       "old_size": 13605,
-      "new_size": 11719,
-      "translated": 94,
+      "new_size": 11744,
+      "translated": 102,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0010",
@@ -892,8 +1066,8 @@
         6345,
         7678,
         9180,
-        10566,
-        11469
+        10568,
+        11494
       ]
     },
     {
@@ -977,7 +1151,7 @@
         51
       ],
       "source": "0x6296ce",
-      "destination": "0x6b90d0",
+      "destination": "0x6bab90",
       "old_size": 147,
       "new_size": 165,
       "translated": 2,
@@ -1011,7 +1185,7 @@
         53
       ],
       "source": "0x629c03",
-      "destination": "0x6b9180",
+      "destination": "0x6bac40",
       "old_size": 460,
       "new_size": 470,
       "translated": 5,
@@ -1028,7 +1202,7 @@
         54
       ],
       "source": "0x629dcf",
-      "destination": "0x6b9360",
+      "destination": "0x6bae20",
       "old_size": 1164,
       "new_size": 1203,
       "translated": 8,
@@ -1062,7 +1236,7 @@
         57
       ],
       "source": "0x62b2af",
-      "destination": "0x6b9820",
+      "destination": "0x6bb2e0",
       "old_size": 621,
       "new_size": 669,
       "translated": 9,
@@ -1115,7 +1289,7 @@
         60
       ],
       "source": "0x62cf69",
-      "destination": "0x6b9ac0",
+      "destination": "0x6bb580",
       "old_size": 876,
       "new_size": 881,
       "translated": 8,
@@ -1275,7 +1449,7 @@
         71
       ],
       "source": "0x6357d2",
-      "destination": "0x6b9e40",
+      "destination": "0x6bb900",
       "old_size": 3114,
       "new_size": 3165,
       "translated": 29,
@@ -1372,7 +1546,7 @@
         76
       ],
       "source": "0x63aa37",
-      "destination": "0x6baaa0",
+      "destination": "0x6bc560",
       "old_size": 432,
       "new_size": 458,
       "translated": 4,
@@ -1409,7 +1583,7 @@
         79
       ],
       "source": "0x63b6a4",
-      "destination": "0x6bac70",
+      "destination": "0x6bc730",
       "old_size": 1521,
       "new_size": 1582,
       "translated": 15,
@@ -1428,8 +1602,8 @@
       "source": "0x63bc95",
       "destination": "0x63bc95",
       "old_size": 2542,
-      "new_size": 2347,
-      "translated": 30,
+      "new_size": 2372,
+      "translated": 31,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0004",
@@ -1446,7 +1620,7 @@
         82
       ],
       "source": "0x63c683",
-      "destination": "0x6bb2a0",
+      "destination": "0x6bcd60",
       "old_size": 90,
       "new_size": 97,
       "translated": 2,
@@ -1482,7 +1656,7 @@
         84
       ],
       "source": "0x63d064",
-      "destination": "0x6bb310",
+      "destination": "0x6bcdd0",
       "old_size": 3366,
       "new_size": 3375,
       "translated": 16,
@@ -1659,8 +1833,8 @@
       "source": "0x64f6dd",
       "destination": "0x64f6dd",
       "old_size": 14931,
-      "new_size": 13698,
-      "translated": 98,
+      "new_size": 13757,
+      "translated": 108,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x000E",
@@ -1674,11 +1848,11 @@
       "new_relative_offsets": [
         14,
         2109,
-        4601,
-        6960,
-        8395,
-        10509,
-        12301
+        4691,
+        7050,
+        8463,
+        10577,
+        12369
       ]
     },
     {
@@ -1741,7 +1915,7 @@
         105
       ],
       "source": "0x656b39",
-      "destination": "0x6bc040",
+      "destination": "0x6bdb00",
       "old_size": 341,
       "new_size": 343,
       "translated": 5,
@@ -1940,7 +2114,7 @@
         118
       ],
       "source": "0x65b191",
-      "destination": "0x6bc1a0",
+      "destination": "0x6bdc60",
       "old_size": 3003,
       "new_size": 3101,
       "translated": 27,
@@ -1960,7 +2134,7 @@
         120
       ],
       "source": "0x65bd4c",
-      "destination": "0x6bcdc0",
+      "destination": "0x6be880",
       "old_size": 765,
       "new_size": 780,
       "translated": 5,
@@ -1977,7 +2151,7 @@
         121
       ],
       "source": "0x65c049",
-      "destination": "0x6bd0d0",
+      "destination": "0x6beb90",
       "old_size": 1180,
       "new_size": 1194,
       "translated": 9,
@@ -2011,7 +2185,7 @@
         123
       ],
       "source": "0x65cd1f",
-      "destination": "0x6bd580",
+      "destination": "0x6bf040",
       "old_size": 403,
       "new_size": 434,
       "translated": 2,
@@ -2051,8 +2225,8 @@
       "source": "0x65df0f",
       "destination": "0x65df0f",
       "old_size": 1063,
-      "new_size": 1026,
-      "translated": 6,
+      "new_size": 982,
+      "translated": 7,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0002"
@@ -2066,7 +2240,7 @@
         126
       ],
       "source": "0x65e336",
-      "destination": "0x6bd740",
+      "destination": "0x6bf200",
       "old_size": 1241,
       "new_size": 1265,
       "translated": 9,
@@ -2083,7 +2257,7 @@
         127
       ],
       "source": "0x65e80f",
-      "destination": "0x6bdc40",
+      "destination": "0x6bf700",
       "old_size": 2387,
       "new_size": 2420,
       "translated": 20,
@@ -2305,8 +2479,8 @@
       "source": "0x66b727",
       "destination": "0x66b727",
       "old_size": 6009,
-      "new_size": 5719,
-      "translated": 60,
+      "new_size": 5731,
+      "translated": 63,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0008",
@@ -2316,9 +2490,9 @@
       ],
       "new_relative_offsets": [
         8,
-        2092,
-        3107,
-        4533
+        2096,
+        3119,
+        4545
       ]
     },
     {
@@ -2367,7 +2541,7 @@
         148
       ],
       "source": "0x66d6ef",
-      "destination": "0x6be5c0",
+      "destination": "0x6c0080",
       "old_size": 76,
       "new_size": 90,
       "translated": 1,
@@ -2386,8 +2560,8 @@
       "source": "0x66d73b",
       "destination": "0x66d73b",
       "old_size": 2749,
-      "new_size": 2662,
-      "translated": 14,
+      "new_size": 2708,
+      "translated": 16,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0002"
@@ -2401,7 +2575,7 @@
         150
       ],
       "source": "0x66e1f8",
-      "destination": "0x6be620",
+      "destination": "0x6c00e0",
       "old_size": 214,
       "new_size": 234,
       "translated": 4,
@@ -2495,7 +2669,7 @@
         156
       ],
       "source": "0x6721cf",
-      "destination": "0x6be710",
+      "destination": "0x6c01d0",
       "old_size": 1784,
       "new_size": 1811,
       "translated": 12,
@@ -2512,7 +2686,7 @@
         157
       ],
       "source": "0x6728c7",
-      "destination": "0x6bee30",
+      "destination": "0x6c08f0",
       "old_size": 2378,
       "new_size": 2379,
       "translated": 11,
@@ -2529,7 +2703,7 @@
         158
       ],
       "source": "0x673211",
-      "destination": "0x6bf780",
+      "destination": "0x6c1240",
       "old_size": 1121,
       "new_size": 1187,
       "translated": 14,
@@ -2588,7 +2762,7 @@
         161
       ],
       "source": "0x6765cf",
-      "destination": "0x6bfc30",
+      "destination": "0x6c16f0",
       "old_size": 1919,
       "new_size": 1925,
       "translated": 11,
@@ -2698,7 +2872,7 @@
         167
       ],
       "source": "0x67bef1",
-      "destination": "0x6c03c0",
+      "destination": "0x6c1e80",
       "old_size": 3323,
       "new_size": 3335,
       "translated": 32,
@@ -2717,7 +2891,7 @@
         168
       ],
       "source": "0x67cbec",
-      "destination": "0x6c10d0",
+      "destination": "0x6c2b90",
       "old_size": 60,
       "new_size": 62,
       "translated": 1,
@@ -2770,7 +2944,7 @@
         171
       ],
       "source": "0x67de5d",
-      "destination": "0x6c1110",
+      "destination": "0x6c2bd0",
       "old_size": 2230,
       "new_size": 2262,
       "translated": 22,
@@ -2789,7 +2963,7 @@
         172
       ],
       "source": "0x67e713",
-      "destination": "0x6c19f0",
+      "destination": "0x6c34b0",
       "old_size": 2267,
       "new_size": 2270,
       "translated": 20,
@@ -3002,8 +3176,8 @@
       "source": "0x685c21",
       "destination": "0x685c21",
       "old_size": 2440,
-      "new_size": 2289,
-      "translated": 34,
+      "new_size": 2283,
+      "translated": 35,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3012,8 +3186,8 @@
       ],
       "new_relative_offsets": [
         6,
-        1356,
-        2132
+        1350,
+        2126
       ]
     },
     {
@@ -3127,7 +3301,7 @@
         193
       ],
       "source": "0x6885bf",
-      "destination": "0x6c22d0",
+      "destination": "0x6c3d90",
       "old_size": 527,
       "new_size": 578,
       "translated": 15,
@@ -3236,8 +3410,8 @@
       "source": "0x68a90a",
       "destination": "0x68a90a",
       "old_size": 3148,
-      "new_size": 2909,
-      "translated": 34,
+      "new_size": 2916,
+      "translated": 36,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3246,8 +3420,8 @@
       ],
       "new_relative_offsets": [
         6,
-        1509,
-        2759
+        1516,
+        2766
       ]
     },
     {
@@ -3519,7 +3693,7 @@
         219
       ],
       "source": "0x6985ec",
-      "destination": "0x6c2520",
+      "destination": "0x6c3fe0",
       "old_size": 262,
       "new_size": 289,
       "translated": 4,
@@ -3633,8 +3807,8 @@
       "source": "0x69e061",
       "destination": "0x69e061",
       "old_size": 5921,
-      "new_size": 5310,
-      "translated": 50,
+      "new_size": 5329,
+      "translated": 51,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0008",
@@ -3644,9 +3818,9 @@
       ],
       "new_relative_offsets": [
         8,
-        2010,
-        3016,
-        5079
+        2029,
+        3035,
+        5098
       ]
     },
     {
@@ -3729,8 +3903,8 @@
       "source": "0x6a0da5",
       "destination": "0x6a0da5",
       "old_size": 2968,
-      "new_size": 2585,
-      "translated": 34,
+      "new_size": 2593,
+      "translated": 35,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3740,7 +3914,7 @@
       "new_relative_offsets": [
         6,
         1132,
-        2292
+        2300
       ]
     },
     {
@@ -3915,7 +4089,7 @@
         243
       ],
       "source": "0x6a9bad",
-      "destination": "0x6c2650",
+      "destination": "0x6c4110",
       "old_size": 121,
       "new_size": 125,
       "translated": 1,
@@ -3987,7 +4161,7 @@
         251
       ],
       "source": "0x6aa340",
-      "destination": "0x6c26d0",
+      "destination": "0x6c4190",
       "old_size": 49,
       "new_size": 52,
       "translated": 1,
@@ -4046,7 +4220,7 @@
       ]
     }
   ],
-  "engine_checks": 6028,
+  "engine_checks": 6365,
   "all_markers_preserved": true,
   "maximum_measured_line_width": 216,
   "line_width_limit": 216,
@@ -4057,11 +4231,11 @@
   "relocated_source_blocks_preserved": true,
   "ips_roundtrip": true,
   "font_same_as_v06": true,
-  "runtime_validation": "see emulation_report_v51.json",
-  "allocation_end": "0x6c2710",
-  "free_bytes": 55536,
+  "runtime_validation": "see verification/emulation_report_v52.json",
+  "allocation_end": "0x6c41d0",
+  "free_bytes": 48688,
   "in_place_blocks": 154,
-  "relocated_blocks": 36,
+  "relocated_blocks": 39,
   "alignment_bytes": 16,
   "allocation_policy": "in place when fitting, otherwise free pool",
   "deferred_entries": {
@@ -4069,13 +4243,8 @@
       16
     ],
     "37": [
-      9,
       10,
       11,
-      12,
-      13,
-      14,
-      15,
       20,
       21,
       22,
@@ -4083,30 +4252,13 @@
       36,
       51
     ],
-    "39": [
-      49
-    ],
+    "39": [],
     "40": [
       25,
       26,
       29,
       36,
-      54,
-      108,
-      109,
-      110,
-      111,
-      112,
-      113,
-      114,
-      115,
-      116,
-      117,
-      118,
-      119,
-      120,
       147,
-      154,
       165,
       167,
       168,
@@ -4129,18 +4281,11 @@
     ],
     "132": [
       59,
-      99,
       122
     ],
-    "56": [
-      12
-    ],
+    "56": [],
     "235": [],
-    "88": [
-      1,
-      2,
-      6
-    ],
+    "88": [],
     "95": [
       11,
       14,
@@ -4164,13 +4309,11 @@
       50,
       51,
       54,
-      55,
-      184
+      55
     ],
     "91": [
       1,
-      2,
-      35
+      2
     ],
     "99": [
       1,
@@ -4210,9 +4353,7 @@
     "94": [
       4
     ],
-    "80": [
-      21
-    ],
+    "80": [],
     "210": [
       36,
       65,
@@ -4220,23 +4361,12 @@
       76,
       77
     ],
-    "125": [
-      3
-    ],
+    "125": [],
     "130": [],
-    "140": [
-      2,
-      22,
-      27
-    ],
-    "149": [
-      1,
-      6
-    ],
+    "140": [],
+    "149": [],
     "184": [],
-    "186": [
-      15
-    ],
+    "186": [],
     "189": [],
     "193": [
       4
@@ -4244,22 +4374,15 @@
     "194": [],
     "197": [],
     "201": [],
-    "202": [
-      5,
-      8
-    ],
+    "202": [],
     "205": [],
     "212": [
       18
     ],
     "221": [],
-    "225": [
-      12
-    ],
+    "225": [],
     "229": [],
-    "231": [
-      32
-    ],
+    "231": [],
     "234": [],
     "252": [
       98,
@@ -4280,15 +4403,7 @@
       11,
       21,
       84,
-      87,
-      88,
-      90,
-      91,
-      96,
-      97,
       105,
-      106,
-      107,
       114,
       115,
       116
@@ -4305,14 +4420,9 @@
       26
     ],
     "35": [],
-    "38": [
-      3,
-      13
-    ],
+    "38": [],
     "41": [
-      15,
       25,
-      30,
       36,
       37,
       38,
@@ -4339,15 +4449,10 @@
       69,
       70,
       71,
-      72,
-      73,
-      74,
       78,
       79,
       80,
       82,
-      84,
-      86,
       95,
       96,
       97,
@@ -4429,19 +4534,32 @@
       101,
       107,
       115,
-      122,
       123,
-      124,
-      125,
-      126,
-      127,
       128,
-      129,
       130,
-      131,
-      132,
       133,
-      134,
+      141,
+      148,
+      149,
+      152,
+      159,
+      160,
+      166,
+      173,
+      175,
+      180,
+      186,
+      187,
+      188,
+      189,
+      192
+    ],
+    "13": [
+      1,
+      2
+    ],
+    "2": [],
+    "3": [
       135,
       136,
       137,
@@ -4499,20 +4617,14 @@
       189,
       190,
       191,
-      192
+      192,
+      193,
+      194
     ]
   },
   "deferred_block97_entries": [
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    58,
-    98,
-    104,
-    107,
-    109
-  ]
+    98
+  ],
+  "version": "V52",
+  "ips_sha256": "633989729423429d5b5d85736debf36ac660f1b705a57ddf1091f7ad0a927ff2"
 }

@@ -56,18 +56,25 @@ def decode_fr(raw):
     inv={v:k for k,v in CHAR_TO_BYTE.items()}
     return ''.join('\n' if b==1 else inv.get(b,f'<{b:02X}>') for b in raw)
 
-def visible_width(text,rom):
+def visible_width(text,rom,dynamic_widths=None):
+    # 0A shares the 08/09 mode-flag handler: only flag bits change,
+    # no cursor writes (verification/text_modes_lot46.json). Glyphs remain
+    # measured individually; no claim of music synchronization is made.
     # The native 09..08 marker pair surrounding a heart is preserved and
     # assigned zero horizontal advance; effects are not interpreted here.
     # 0E is retained verbatim as a nonprinting flow command; its timing is
     # not reinterpreted by the inserter. 0C/0D are scene/pause markers. 04 is a dynamic name: reserve a conservative
-    # 96 pixels rather than counting it as an invisible character.
+    # 96 pixels rather than counting it as an invisible character. Explicit
+    # per-entry contracts can override 04 or admit 05..07; no implicit bound
+    # is assigned to these other substitution slots.
+    dynamic_widths={} if dynamic_widths is None else dynamic_widths
+    if any(k not in (4,5,6,7) or not isinstance(v,int) or v<0 for k,v in dynamic_widths.items()):raise ValueError('Invalid dynamic width contract')
     raw=encode_fr(text)
-    zero={1,8,9,0x0B,0x0C,0x0D,0x0E}
-    if any(b<0x10 and b not in zero|{4} for b in raw):raise ValueError('Unresolved layout command')
-    return sum(96 if b==4 else rom[WIDTHS+b] for b in raw if b not in zero)
+    zero={1,8,9,0x0A,0x0B,0x0C,0x0D,0x0E}
+    if any(b<0x10 and b not in zero|{4}|set(dynamic_widths) for b in raw):raise ValueError('Unresolved layout command')
+    return sum(dynamic_widths[b] if b in dynamic_widths else 96 if b==4 else rom[WIDTHS+b] for b in raw if b not in zero)
 
-def layout_fr(text,rom,limit=216):
+def layout_fr(text,rom,limit=216,dynamic_widths=None):
     # French punctuation stays with its preceding word. NBSP exists only
     # during layout, then becomes the native space glyph in encoded output.
     text=re.sub(r' +([!?;:])',lambda m:'\u00a0'+m[1],text)
@@ -77,13 +84,13 @@ def layout_fr(text,rom,limit=216):
         for word in paragraph.split(' '):
             candidate=(line+' '+word if line else word)
             measured=candidate.replace('\u00a0',' ')
-            if visible_width(measured,rom)>limit and line:
+            if visible_width(measured,rom,dynamic_widths)>limit and line:
                 lines.append(line.replace('\u00a0',' '));line=word
             else:line=candidate
-            if visible_width(line.replace('\u00a0',' '),rom)>limit:raise ValueError('Unbreakable word too wide')
+            if visible_width(line.replace('\u00a0',' '),rom,dynamic_widths)>limit:raise ValueError('Unbreakable word too wide')
         lines.append(line.replace('\u00a0',' '))
     result='\n'.join(lines)
-    assert all(visible_width(s,rom)<=limit for s in result.split('\n'))
+    assert all(visible_width(s,rom,dynamic_widths)<=limit for s in result.split('\n'))
     return result
 
 def atlas(rom,path):

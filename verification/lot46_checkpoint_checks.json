@@ -1,0 +1,4058 @@
+{
+  "additional_native_ui_entries": 7,
+  "new_distinct_texts_total": 400,
+  "new_bounded_occurrences": 394,
+  "aliases_not_counted": {
+    "B002-S074": {
+      "canonical": "B002-S073",
+      "reason": "Identical source label for two flaming-pot item forms. Translate both occurrences; count once."
+    }
+  },
+  "lot": 46,
+  "target": 400,
+  "new_distinct_texts": 393,
+  "corrections": 0,
+  "previous_entries_preserved": 4987,
+  "integrated_entries_checkpoint": 5381,
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "checks": [
+    {
+      "id": "B002-S001",
+      "widths": [
+        89
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S002",
+      "widths": [
+        116
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S003",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S004",
+      "widths": [
+        112
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S005",
+      "widths": [
+        110
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S006",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S007",
+      "widths": [
+        122
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S008",
+      "widths": [
+        103
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S009",
+      "widths": [
+        100
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S010",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S011",
+      "widths": [
+        49
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S012",
+      "widths": [
+        84
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S013",
+      "widths": [
+        58
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S014",
+      "widths": [
+        132
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S015",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S016",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S017",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S018",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S019",
+      "widths": [
+        103
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S020",
+      "widths": [
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S021",
+      "widths": [
+        59
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S022",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S023",
+      "widths": [
+        102
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S024",
+      "widths": [
+        48
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S025",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S026",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S027",
+      "widths": [
+        93
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S028",
+      "widths": [
+        118
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S029",
+      "widths": [
+        74
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S030",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S031",
+      "widths": [
+        51
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S032",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S033",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S034",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S035",
+      "widths": [
+        50
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S036",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S037",
+      "widths": [
+        60
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S038",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S039",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S040",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S041",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S042",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S043",
+      "widths": [
+        102
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S044",
+      "widths": [
+        97
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S045",
+      "widths": [
+        118
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S046",
+      "widths": [
+        100
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S047",
+      "widths": [
+        100
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S048",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S049",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S050",
+      "widths": [
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S051",
+      "widths": [
+        93
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S052",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S053",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S054",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S055",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S056",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S057",
+      "widths": [
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S058",
+      "widths": [
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S059",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S060",
+      "widths": [
+        70
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S061",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S062",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S063",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S064",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S065",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S066",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S067",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S068",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S069",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S070",
+      "widths": [
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S071",
+      "widths": [
+        73
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S072",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S073",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S074",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S075",
+      "widths": [
+        39
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S076",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S077",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S078",
+      "widths": [
+        73
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S079",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S080",
+      "widths": [
+        89
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S081",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S082",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S083",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S084",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S085",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S086",
+      "widths": [
+        93
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S087",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S088",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S089",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S090",
+      "widths": [
+        108
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S091",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S092",
+      "widths": [
+        108
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S093",
+      "widths": [
+        94
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S094",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S095",
+      "widths": [
+        74
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S096",
+      "widths": [
+        56
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S097",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S098",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S099",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S100",
+      "widths": [
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S101",
+      "widths": [
+        57
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S102",
+      "widths": [
+        95
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S103",
+      "widths": [
+        126
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S104",
+      "widths": [
+        43
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S105",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S106",
+      "widths": [
+        48
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S107",
+      "widths": [
+        43
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S108",
+      "widths": [
+        116
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B002-S109",
+      "widths": [
+        74
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S001",
+      "widths": [
+        74
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S002",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S003",
+      "widths": [
+        109
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S004",
+      "widths": [
+        53
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S005",
+      "widths": [
+        64
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S006",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S007",
+      "widths": [
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S008",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S009",
+      "widths": [
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S010",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S011",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S012",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S013",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S014",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S015",
+      "widths": [
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S016",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S017",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S018",
+      "widths": [
+        119
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S019",
+      "widths": [
+        84
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S020",
+      "widths": [
+        142
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S021",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S022",
+      "widths": [
+        122
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S023",
+      "widths": [
+        94
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S024",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S025",
+      "widths": [
+        125
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S026",
+      "widths": [
+        117
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S027",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S028",
+      "widths": [
+        71
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S029",
+      "widths": [
+        94
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S030",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S031",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S032",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S033",
+      "widths": [
+        92
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S034",
+      "widths": [
+        92
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S035",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S036",
+      "widths": [
+        123
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S037",
+      "widths": [
+        109
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S038",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S039",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S040",
+      "widths": [
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S041",
+      "widths": [
+        115
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S042",
+      "widths": [
+        64
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S043",
+      "widths": [
+        71
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S044",
+      "widths": [
+        64
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S045",
+      "widths": [
+        77
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S046",
+      "widths": [
+        77
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S047",
+      "widths": [
+        93
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S048",
+      "widths": [
+        105
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S049",
+      "widths": [
+        109
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S050",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S051",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S052",
+      "widths": [
+        70
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S053",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S054",
+      "widths": [
+        77
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S055",
+      "widths": [
+        129
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S056",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S057",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S058",
+      "widths": [
+        110
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S059",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S060",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S061",
+      "widths": [
+        113
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S062",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S063",
+      "widths": [
+        144
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S064",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S065",
+      "widths": [
+        95
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S066",
+      "widths": [
+        119
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S067",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S068",
+      "widths": [
+        103
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S069",
+      "widths": [
+        67
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S070",
+      "widths": [
+        121
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S071",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S072",
+      "widths": [
+        133
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S073",
+      "widths": [
+        77
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S074",
+      "widths": [
+        57
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S075",
+      "widths": [
+        105
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S076",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S077",
+      "widths": [
+        97
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S078",
+      "widths": [
+        102
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S079",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S080",
+      "widths": [
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S081",
+      "widths": [
+        95
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S082",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S083",
+      "widths": [
+        126
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S084",
+      "widths": [
+        108
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S085",
+      "widths": [
+        67
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S086",
+      "widths": [
+        70
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S087",
+      "widths": [
+        114
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S088",
+      "widths": [
+        49
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S089",
+      "widths": [
+        94
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S090",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S091",
+      "widths": [
+        113
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S092",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S093",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S094",
+      "widths": [
+        73
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S095",
+      "widths": [
+        108
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S096",
+      "widths": [
+        112
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S097",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S098",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S099",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S100",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S101",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S102",
+      "widths": [
+        66
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S103",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S104",
+      "widths": [
+        62
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S105",
+      "widths": [
+        92
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S106",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S107",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S108",
+      "widths": [
+        134
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S109",
+      "widths": [
+        110
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S110",
+      "widths": [
+        77
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S111",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S112",
+      "widths": [
+        92
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S113",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S114",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S115",
+      "widths": [
+        59
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S116",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S117",
+      "widths": [
+        95
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S118",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S119",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S120",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S121",
+      "widths": [
+        75
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S122",
+      "widths": [
+        69
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S123",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S124",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S125",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S126",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S127",
+      "widths": [
+        135
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S128",
+      "widths": [
+        140
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S129",
+      "widths": [
+        127
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S130",
+      "widths": [
+        87
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S131",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S132",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S133",
+      "widths": [
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B003-S134",
+      "widths": [
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S003",
+      "widths": [
+        48
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S004",
+      "widths": [
+        58
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S005",
+      "widths": [
+        53
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S006",
+      "widths": [
+        86
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S007",
+      "widths": [
+        46
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S008",
+      "widths": [
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S009",
+      "widths": [
+        48
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S010",
+      "widths": [
+        51
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S011",
+      "widths": [
+        85
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S012",
+      "widths": [
+        51
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S013",
+      "widths": [
+        84
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S014",
+      "widths": [
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S015",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S016",
+      "widths": [
+        80
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S017",
+      "widths": [
+        62
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S018",
+      "widths": [
+        56
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S019",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S020",
+      "widths": [
+        61
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S021",
+      "widths": [
+        65
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S022",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S023",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S024",
+      "widths": [
+        71
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S025",
+      "widths": [
+        62
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S026",
+      "widths": [
+        83
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S027",
+      "widths": [
+        56
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S028",
+      "widths": [
+        62
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S029",
+      "widths": [
+        69
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S030",
+      "widths": [
+        54
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S031",
+      "widths": [
+        57
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S032",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S033",
+      "widths": [
+        69
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B013-S034",
+      "widths": [
+        67
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S122",
+      "widths": [
+        213,
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S124",
+      "widths": [
+        123,
+        119
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S125",
+      "widths": [
+        162,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S126",
+      "widths": [
+        162,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S127",
+      "widths": [
+        161,
+        107
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S129",
+      "widths": [
+        159,
+        128
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S131",
+      "widths": [
+        161,
+        155
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S132",
+      "widths": [
+        95,
+        134
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S134",
+      "widths": [
+        0,
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S135",
+      "widths": [
+        151,
+        131
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S136",
+      "widths": [
+        111,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S137",
+      "widths": [
+        132,
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S138",
+      "widths": [
+        0,
+        156
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S139",
+      "widths": [
+        178,
+        153
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S140",
+      "widths": [
+        185,
+        142
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S142",
+      "widths": [
+        133,
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S143",
+      "widths": [
+        162,
+        151
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S144",
+      "widths": [
+        167,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S145",
+      "widths": [
+        123,
+        73
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S146",
+      "widths": [
+        0,
+        124
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S147",
+      "widths": [
+        154,
+        158
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S150",
+      "widths": [
+        178,
+        81
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S151",
+      "widths": [
+        0,
+        148
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S153",
+      "widths": [
+        159,
+        116
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S154",
+      "widths": [
+        152,
+        156
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S155",
+      "widths": [
+        160,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S156",
+      "widths": [
+        188,
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S157",
+      "widths": [
+        194,
+        150
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S158",
+      "widths": [
+        208,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S161",
+      "widths": [
+        208,
+        144
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S162",
+      "widths": [
+        176,
+        154
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S163",
+      "widths": [
+        0,
+        96
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S164",
+      "widths": [
+        199,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S165",
+      "widths": [
+        171,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S167",
+      "widths": [
+        179,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S168",
+      "widths": [
+        208,
+        173
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S169",
+      "widths": [
+        0,
+        156
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S170",
+      "widths": [
+        120,
+        151
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S171",
+      "widths": [
+        173,
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S172",
+      "widths": [
+        0,
+        148
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S174",
+      "widths": [
+        155,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S176",
+      "widths": [
+        0,
+        94
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S177",
+      "widths": [
+        165,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S178",
+      "widths": [
+        138,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S179",
+      "widths": [
+        175,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S181",
+      "widths": [
+        213,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S182",
+      "widths": [
+        201,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S183",
+      "widths": [
+        193,
+        165
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S184",
+      "widths": [
+        141,
+        59
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S185",
+      "widths": [
+        192,
+        119
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S190",
+      "widths": [
+        167,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B018-S191",
+      "widths": [
+        204,
+        143
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S087",
+      "widths": [
+        211,
+        170
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S088",
+      "widths": [
+        183,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S090",
+      "widths": [
+        165,
+        186
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S091",
+      "widths": [
+        197,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S096",
+      "widths": [
+        195,
+        171
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S097",
+      "widths": [
+        180,
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S106",
+      "widths": [
+        211,
+        90,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S107",
+      "widths": [
+        211,
+        173,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S009",
+      "widths": [
+        141,
+        153
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S012",
+      "widths": [
+        197
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S013",
+      "widths": [
+        175
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S014",
+      "widths": [
+        200,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S015",
+      "widths": [
+        200,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B038-S003",
+      "widths": [
+        0,
+        143
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B038-S013",
+      "widths": [
+        212,
+        112
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B039-S049",
+      "widths": [
+        135
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S054",
+      "widths": [
+        208,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S108",
+      "widths": [
+        68
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S109",
+      "widths": [
+        74
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S110",
+      "widths": [
+        79
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S111",
+      "widths": [
+        89
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S112",
+      "widths": [
+        76
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S113",
+      "widths": [
+        84
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S114",
+      "widths": [
+        82
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S115",
+      "widths": [
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S116",
+      "widths": [
+        93
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S117",
+      "widths": [
+        103
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S118",
+      "widths": [
+        90
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S119",
+      "widths": [
+        98
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S120",
+      "widths": [
+        211,
+        215,
+        39,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S154",
+      "widths": [
+        210,
+        78,
+        0,
+        201,
+        64,
+        0,
+        211,
+        192
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S015",
+      "widths": [
+        210,
+        75,
+        0,
+        141
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S030",
+      "widths": [
+        166,
+        159
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S072",
+      "widths": [
+        195,
+        72
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S073",
+      "widths": [
+        202
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S074",
+      "widths": [
+        132
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S084",
+      "widths": [
+        176
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S086",
+      "widths": [
+        202
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B056-S012",
+      "widths": [
+        152,
+        0,
+        0,
+        206,
+        186
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B080-S021",
+      "widths": [
+        190,
+        208,
+        215
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B088-S001",
+      "widths": [
+        193,
+        175,
+        123,
+        185,
+        0,
+        202,
+        99
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B088-S002",
+      "widths": [
+        193,
+        175,
+        123,
+        185,
+        0,
+        210,
+        137
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B088-S006",
+      "widths": [
+        204,
+        157,
+        0,
+        208,
+        206,
+        200,
+        149
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B091-S035",
+      "widths": [
+        206,
+        143,
+        198,
+        198,
+        91
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B095-S184",
+      "widths": [
+        192,
+        164,
+        186,
+        180,
+        185,
+        190,
+        200,
+        0,
+        210,
+        112
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S023",
+      "widths": [
+        169,
+        0,
+        0,
+        201,
+        198,
+        185
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S024",
+      "widths": [
+        212,
+        0,
+        0,
+        183,
+        207,
+        209,
+        214,
+        126
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S025",
+      "widths": [
+        198,
+        0,
+        0,
+        210,
+        135,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S026",
+      "widths": [
+        160,
+        200,
+        192,
+        199,
+        93,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S027",
+      "widths": [
+        199,
+        0,
+        0,
+        213,
+        214,
+        208,
+        216,
+        60,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S028",
+      "widths": [
+        194,
+        169,
+        0,
+        204,
+        208,
+        176,
+        0,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S058",
+      "widths": [
+        206,
+        206,
+        186,
+        28,
+        197,
+        189,
+        185,
+        96,
+        0,
+        199,
+        22
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S104",
+      "widths": [
+        168
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S107",
+      "widths": [
+        200,
+        197
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S109",
+      "widths": [
+        214,
+        190,
+        58,
+        194,
+        108
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B125-S003",
+      "widths": [
+        196,
+        210,
+        68,
+        212,
+        186
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B132-S099",
+      "widths": [
+        214,
+        205,
+        204,
+        78
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B140-S002",
+      "widths": [
+        202,
+        141,
+        0,
+        209,
+        117,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B140-S022",
+      "widths": [
+        208,
+        175,
+        206
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B140-S027",
+      "widths": [
+        202,
+        101
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B149-S001",
+      "widths": [
+        183,
+        186,
+        198,
+        194,
+        200,
+        159,
+        148,
+        216,
+        145
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B149-S006",
+      "widths": [
+        190,
+        197,
+        100,
+        216,
+        191,
+        109
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B186-S015",
+      "widths": [
+        192,
+        29
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "04",
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B202-S005",
+      "widths": [
+        81,
+        214,
+        22,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "04",
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B202-S008",
+      "widths": [
+        114,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B225-S012",
+      "widths": [
+        196,
+        189,
+        133,
+        177,
+        203,
+        33
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B231-S032",
+      "widths": [
+        214,
+        170,
+        52,
+        168
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    }
+  ],
+  "runtime_visual_validation": "Separate staged results; not asserted by this script.",
+  "remaining_phase1": "Variables 05–07, effects, songs and special formats; natural calendar dates still need validation.",
+  "corrections_scope": "No V51 baseline entry changed. Twenty corrections to the acquired83 lot46 draft are tracked separately in corrections_lot46_pending.json."
+}

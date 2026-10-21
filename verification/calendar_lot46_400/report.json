@@ -1,0 +1,17 @@
+{
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "field_state_sha256": "51abe0ae407d156af84f8bbed801b4111bf00199ba1bdc8c95d3a99c6f918221",
+  "scope": "Controller navigation to the real Almanac from a fresh same-ROM replay; no synthetic text-slot fixture.",
+  "visual_review": "reviewed",
+  "expected_replay_date": "1995-12-22",
+  "image": "almanac_1995_12_22.png",
+  "observed_date": "1995-12-22",
+  "observed": [
+    "Seven French native labels, Jour faste, Solstice d’hiver, B018-S182 French notice visible."
+  ],
+  "limits": [
+    "Only this replay date and screen were observed. Other dates, event effects and calendar branches remain unvalidated.",
+    "Date and weekday display format remains source."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "previous_checkpoint": "eadc99094335955336adad56d0e1091b5b59cddf",
+  "previous_rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "current_rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
+  "baseline_entries_preserved": 5039,
+  "compared_fields": [
+    "english",
+    "source_hex",
+    "source_offset",
+    "french",
+    "french_in_game"
+  ],
+  "new_entries": 31,
+  "lot_distinct_nonempty_english_sources": 83,
+  "all_preserved": true
+}

@@ -1,0 +1,16 @@
+{
+  "rejected": [
+    {
+      "candidate_sha256": "8c0753c2cad38a374974a4052926fe5f5b5dbeed32ded64fbea2b93467456e63",
+      "reason": "Native FE menu stream shortened by one byte; final 00 incorrectly treated as terminator, continuation descriptor at ED53 misaligned.",
+      "fix": "Pad literal labels with spaces within field pixel widths, reach ED53 exactly; separate guard and real-display checks."
+    },
+    {
+      "candidate_sha256": "538c09891eafb05cd659f1dd4eab15fa1f33f267c80be1886c029300d5d8445d",
+      "reason": "B097-S027 long synthetic values overlap preceding text. B091-S035 incorrectly interpreted rank #18 as a count of favorites.",
+      "fix": "Rephrase medal label and rank statement, preserving all source markers; rebuild and render again.",
+      "native_internal_cause_of_overlap": "not claimed"
+    }
+  ],
+  "scope": "Failed candidates are excluded from final release validation. None published on main."
+}

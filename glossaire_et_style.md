@@ -806,3 +806,25 @@ aux traditions, sans masquer leurs réticences envers Higan.
   ponctuelles servent à garder les notices dans leurs deux lignes d'origine.
 - Envol est un effet de terrain ; les vues du calendrier et les événements ne sont
   pas réputés validés par le seul rendu ciblé en fenêtre de dialogue.
+
+
+## V52 — Substitutions, Almanach et effets différés
+
+- Love lunchbox : Bento amoureux, distinct de Tender Lunchbox : Bento affectueux.
+- Floral pot / floral bag : poêle fleurie / sac fleuri ; Cat Bell : Clochette du Chat.
+- Guard Essence / Skill Essence : Essence de garde / Essence technique.
+- Choking Scent : Parfum Étouffant ; Miracle Wine : Liqueur miraculeuse.
+- Bee Blade : Lame de l’Abeille ; Breakalegor : nom propre conservé dans Armure Breakalegor.
+- Les noms des catalogues 2/3 sont les formes insérées dans les dialogues.
+  Les variantes des menus 8/9 devront être harmonisées sans les recompter.
+- Almanach : Biorythme, Phys., Esprit, Humeur, Dates clés, Quel jour est-on ?,
+  Ce jour dans le passé. Les abréviations répondent aux champs natifs ;
+  conserver les accents. Les sept enregistrements FE doivent aboutir exactement
+  à ED53, début du descripteur suivant. Un remplissage après la liste la décale.
+- Quantités variables : préférer un libellé de quantité ou h/min/j/s aux accords
+  supposant un pluriel. Les catalogues de noms et les nombres ont des contrats
+  de largeur distincts : 144, 103 et 56 pixels selon le producteur vérifié.
+- B091-S035 conserve le rang 18 de la chanson, pas un groupe de 18 chansons.
+  B040-S154 : « vous l’aurez bien cherché », avec l’ neutre.
+- Les modes 08/09/0A sont conservés ; les sondes de handlers ne prouvent pas
+  à elles seules leur sens visuel, la musique ou les effets des événements.

@@ -1,0 +1,25 @@
+{
+  "checkpoint": "lot46p83",
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
+  "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "scope": "Real Almanac opened through controller input from a fresh same-ROM field state.",
+  "date_observed": "1995-12-22",
+  "translated_notice": "B018-S182",
+  "notice_visible": "Premier gouvernement japonais dirigé par Itou",
+  "visual_review": "passed for this translated historical notice on this date",
+  "not_validated": [
+    "Other translated dates, date boundaries and calendar event behavior",
+    "Other calendar views and all event progression"
+  ],
+  "visible_english_remaining": [
+    "Winter Solstice",
+    "What day is it today?",
+    "On this day in history",
+    "Lucky Day",
+    "Biorhythm",
+    "Body",
+    "Wisdom",
+    "Feelings",
+    "Notable Days"
+  ]
+}

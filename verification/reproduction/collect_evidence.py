@@ -6,9 +6,9 @@ Never interprets staged rendering as normal quest progression.
 import argparse,collections,hashlib,json,shutil,sys
 from pathlib import Path
 from PIL import Image,ImageChops,ImageDraw
-p=argparse.ArgumentParser();p.add_argument('--version',required=True);p.add_argument('--previous',required=True);p.add_argument('--runs',type=Path,required=True);p.add_argument('--tag',default='final');p.add_argument('--previous-tag',default='corrected');p.add_argument('--cases',type=int,required=True);p.add_argument('--preview',type=Path,required=True);p.add_argument('--source',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--version',required=True);p.add_argument('--previous',required=True);p.add_argument('--runs',type=Path,required=True);p.add_argument('--tag',default='final');p.add_argument('--previous-tag',default='corrected');p.add_argument('--cases',type=int,required=True);p.add_argument('--preview',type=Path,required=True);p.add_argument('--source',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--build-report',type=Path,help='Explicit report for a checkpoint ROM');a=p.parse_args()
 repo=Path(__file__).resolve().parents[2];v=a.version.lower();prev=a.previous.lower();runs=a.runs.resolve();dest=repo/f'verification/scenes_{v}';dest.mkdir(exist_ok=True);a.preview.mkdir(parents=True,exist_ok=True)
-r=json.loads((runs/f'{v}_scenes_{a.tag}/results.json').read_text());rom=a.rom.read_bytes();build=json.loads((repo/'verification/build_report.json').read_text());assert hashlib.sha256(rom).hexdigest()==r['rom_sha256']==build['output_sha256'];assert len(r['cases'])==a.cases and all(c['native_read_complete'] for c in r['cases'])
+r=json.loads((runs/f'{v}_scenes_{a.tag}/results.json').read_text());rom=a.rom.read_bytes();build=json.loads((a.build_report.resolve() if a.build_report else repo/'verification/build_report.json').read_text());assert hashlib.sha256(rom).hexdigest()==r['rom_sha256']==build['output_sha256'];assert len(r['cases'])==a.cases and all(c['native_read_complete'] for c in r['cases'])
 for stale in dest.glob('*.png'):stale.unlink()
 tiles=[]
 for c in r['cases']:

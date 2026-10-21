@@ -1,0 +1,42 @@
+{
+  "rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "reference_rom_sha256": "ddfce7b8f4ad9425e37a636478b0774495f809efa23b42c2ddbe981f55e61c31",
+  "comparisons": [
+    {
+      "file": "command_menu.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "field_return.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "field_start.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "main_menu.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "map_return.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "region_map.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "settings.png",
+      "identical": true,
+      "bbox": null
+    }
+  ],
+  "all_identical": true
+}
