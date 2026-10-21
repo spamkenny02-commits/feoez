@@ -1,3 +1,26 @@
+# État actuel — V50
+
+Lot 44 : 300 nouveaux textes, total 4 687 entrées.
+Voyance, change, lettres, élevage, fêtes, salons et textes différés régionaux.
+4 387 anciennes entrées et 32 modifications initiales préservées.
+Preuves : corrected50 ; référence V49 : final49. 5 644 lectures natives,
+300 rendus ciblés, 582 captures de dialogue relues. 85 captures fixes et
+navigation identiques à V49. Services, choix, calendrier, élevage hors tension et musique non validés en progression naturelle.
+
+Prochaine reprise : lire HEAD et inventaires ; ne pas dupliquer lot44.
+Différés détaillés : deferred_reasons_v50.json et build_report.json.
+L'élevage et les services restent partiels : variables 05–07, formats et choix.
+Cinq fragments du karaoké seulement ; synchronisation musicale non validée.
+Dialogues/événements avant menus. Inventaire borné : 4351 entrées restantes,
+y compris menus, vides et debug ; pas un pourcentage de dialogues.
+Bloc 42 non borné exclu. Tous les différés restent préservés.
+
+Conserver service_layout_v50.py : positions horizontales et lignes des choix
+identiques à la source. Utiliser --compact-render pour ne conserver que les
+images de preuve après chaque cas réussi.
+
+## Historique
+
 # État actuel — V49
 
 Lot 43 : 300 nouveaux textes, total 4 387 entrées.

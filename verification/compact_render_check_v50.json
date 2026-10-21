@@ -1,0 +1,27 @@
+{
+  "rom_sha256": "4b33c496cbaa2f60966c49552d2dfc6065194215d996a387027ca21d2996cc38",
+  "scope": "Same-ROM, same-core, same-state comparison of compact capture retention with the earlier uncompact run; renderer behavior unchanged. This reference ROM precedes the service pagination correction.",
+  "case": "B029-S022",
+  "native_read_complete": true,
+  "original_frame_captures": 1080,
+  "retained_pages": 3,
+  "intermediate_frames_removed": 1077,
+  "all_selected_pngs_identical": true,
+  "checks": [
+    {
+      "page": "00",
+      "png_sha256": "1ce35406e0f241e90241d42c5ba4fd84140007cc2fff8cd3eba6e787abec4bb5",
+      "identical_to_uncompacted_run": true
+    },
+    {
+      "page": "01",
+      "png_sha256": "7bfb3fa7f5b81793c2710bec6071a85fade4954d56c0de3d9fcef5b54cf85ddb",
+      "identical_to_uncompacted_run": true
+    },
+    {
+      "page": "02",
+      "png_sha256": "aa7d8246ee02fd0f6c8fbb178360ec5b6eddc8ad8a41dc6fc5f7c15fc93c2774",
+      "identical_to_uncompacted_run": true
+    }
+  ]
+}

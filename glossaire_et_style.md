@@ -767,3 +767,30 @@ aux traditions, sans masquer leurs réticences envers Higan.
 - Prix, dates, commandes directionnelles, cinq lettres de voeu, cinq victoires
   et dix secondes du sablier : valeurs source conservées, sans prétendre
   valider le déroulement des événements par les rendus ciblés.
+
+## V50 — Voyance, lettres, services et élevage
+
+- Bons d'or, poudre d'or ; anneau de l'Âme ; Anneau de fortune (provisoire).
+  Icy World Spider reprend Araignée du monde de glace. Float : Flottaison.
+- T. Store, Kabuki, Ma-Djinn, Money-King III et les noms de lieux établis conservés.
+- Hatchy / Nursey : Éclosio / Nourricia, jeux de mots provisoires.
+- Pinchapine / Rabshroom / Viperoot / Octarrot : Porcépine / Champilapin /
+  Vipéracine / Octocarotte ; huit occurrences de noms et répliques associées.
+  Les autres fiches d'état restent partielles et peuvent encore afficher l'anglais.
+- Boar Deerfly / Gold Starfly / Kabuki-fly : Taon Sanglier / Mouche Étoile d'or /
+  Mouche Kabuki (provisoires). Wonder-fly reprend Papillon miracle.
+- Croquettes Tête, Corps, Coeur, Pet et Mystère ; ne pas corriger l'absurdité
+  volontaire de Fart Kibble. Quatre repas ; chrysalide 40–50 heures.
+- Santé : baisse d'un point par heure, même console éteinte ; maximum de Manto 255.
+  Sept créatures au plus ; incubation visée de 50 minutes, intervalle 45–60 minutes.
+  Conserver les seuils 500 heures et 60 heures exactement où la source les cite.
+- Karaoké : Néons éteints et Justice pour tous reprennent les titres établis.
+  Amitié traîtresse et Merci, Hanamaru ! complètent le choix des chansons.
+  Seuls cinq fragments supplémentaires des paroles sont traités ici.
+- Les prédictions, accusations du journal et lettres de Momoko gardent
+  la voix de leur auteur. Ne pas transformer une rumeur en fait confirmé.
+- Choix des services : colonnes anglaises mesurées à la police native,
+  coordonnées françaises à un pixel près ; validation des branches encore à faire.
+
+- V50 : les choix gardent aussi leur première ligne anglaise et leur pagination ;
+  quelques lignes vides compensent les formulations françaises plus courtes.

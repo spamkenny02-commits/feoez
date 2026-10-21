@@ -1,0 +1,5099 @@
+{
+  "workers": 4,
+  "rom_sha256": "e94f7f4dab0ac39e01de7c640d676f674a0d8a81e8e2ed5bc6d3f926950c9603",
+  "diagnostic_core_sha256": "d81ec95125835bbb768439f282135a104baa5856f996f003dc6bca8cf1af138f",
+  "state_sha256": "17aba27de6e94556c45c1ed8743cc106f6807cca126f5754ef8e74f7a38229bf",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B029-S012",
+      "case": "b029_s012",
+      "expected_terminator": "0x40d8fa",
+      "observed_terminators": [
+        "0x40d8fa"
+      ],
+      "native_read_complete": true,
+      "captures": 1115,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1113,
+      "review_images": [
+        "b029_s012_00.png",
+        "b029_s012_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S013",
+      "case": "b029_s013",
+      "expected_terminator": "0x40d9b5",
+      "observed_terminators": [
+        "0x40d9b5"
+      ],
+      "native_read_complete": true,
+      "captures": 1842,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1839,
+      "review_images": [
+        "b029_s013_00.png",
+        "b029_s013_01.png",
+        "b029_s013_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S014",
+      "case": "b029_s014",
+      "expected_terminator": "0x40da35",
+      "observed_terminators": [
+        "0x40da35"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 944,
+      "review_images": [
+        "b029_s014_00.png",
+        "b029_s014_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S015",
+      "case": "b029_s015",
+      "expected_terminator": "0x40dac0",
+      "observed_terminators": [
+        "0x40dac0"
+      ],
+      "native_read_complete": true,
+      "captures": 976,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 974,
+      "review_images": [
+        "b029_s015_00.png",
+        "b029_s015_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S016",
+      "case": "b029_s016",
+      "expected_terminator": "0x40db0f",
+      "observed_terminators": [
+        "0x40db0f"
+      ],
+      "native_read_complete": true,
+      "captures": 705,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 704,
+      "review_images": [
+        "b029_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S017",
+      "case": "b029_s017",
+      "expected_terminator": "0x40db83",
+      "observed_terminators": [
+        "0x40db83"
+      ],
+      "native_read_complete": true,
+      "captures": 1640,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1638,
+      "review_images": [
+        "b029_s017_00.png",
+        "b029_s017_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S018",
+      "case": "b029_s018",
+      "expected_terminator": "0x40dbc2",
+      "observed_terminators": [
+        "0x40dbc2"
+      ],
+      "native_read_complete": true,
+      "captures": 604,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 603,
+      "review_images": [
+        "b029_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S019",
+      "case": "b029_s019",
+      "expected_terminator": "0x40dc0f",
+      "observed_terminators": [
+        "0x40dc0f"
+      ],
+      "native_read_complete": true,
+      "captures": 778,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 777,
+      "review_images": [
+        "b029_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S020",
+      "case": "b029_s020",
+      "expected_terminator": "0x40dc67",
+      "observed_terminators": [
+        "0x40dc67"
+      ],
+      "native_read_complete": true,
+      "captures": 845,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 844,
+      "review_images": [
+        "b029_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S022",
+      "case": "b029_s022",
+      "expected_terminator": "0x40dded",
+      "observed_terminators": [
+        "0x40dded"
+      ],
+      "native_read_complete": true,
+      "captures": 1080,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1077,
+      "review_images": [
+        "b029_s022_00.png",
+        "b029_s022_01.png",
+        "b029_s022_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S023",
+      "case": "b029_s023",
+      "expected_terminator": "0x40debe",
+      "observed_terminators": [
+        "0x40debe"
+      ],
+      "native_read_complete": true,
+      "captures": 1024,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1022,
+      "review_images": [
+        "b029_s023_00.png",
+        "b029_s023_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S024",
+      "case": "b029_s024",
+      "expected_terminator": "0x40df7f",
+      "observed_terminators": [
+        "0x40df7f"
+      ],
+      "native_read_complete": true,
+      "captures": 2018,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2015,
+      "review_images": [
+        "b029_s024_00.png",
+        "b029_s024_01.png",
+        "b029_s024_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S025",
+      "case": "b029_s025",
+      "expected_terminator": "0x40e04e",
+      "observed_terminators": [
+        "0x40e04e"
+      ],
+      "native_read_complete": true,
+      "captures": 1033,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1031,
+      "review_images": [
+        "b029_s025_00.png",
+        "b029_s025_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S026",
+      "case": "b029_s026",
+      "expected_terminator": "0x40e13e",
+      "observed_terminators": [
+        "0x40e13e"
+      ],
+      "native_read_complete": true,
+      "captures": 974,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 972,
+      "review_images": [
+        "b029_s026_00.png",
+        "b029_s026_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S027",
+      "case": "b029_s027",
+      "expected_terminator": "0x40e209",
+      "observed_terminators": [
+        "0x40e209"
+      ],
+      "native_read_complete": true,
+      "captures": 1109,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1107,
+      "review_images": [
+        "b029_s027_00.png",
+        "b029_s027_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S028",
+      "case": "b029_s028",
+      "expected_terminator": "0x40e2f2",
+      "observed_terminators": [
+        "0x40e2f2"
+      ],
+      "native_read_complete": true,
+      "captures": 1240,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1237,
+      "review_images": [
+        "b029_s028_00.png",
+        "b029_s028_01.png",
+        "b029_s028_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S029",
+      "case": "b029_s029",
+      "expected_terminator": "0x40e3f6",
+      "observed_terminators": [
+        "0x40e3f6"
+      ],
+      "native_read_complete": true,
+      "captures": 1147,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1143,
+      "review_images": [
+        "b029_s029_00.png",
+        "b029_s029_01.png",
+        "b029_s029_02.png",
+        "b029_s029_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S030",
+      "case": "b029_s030",
+      "expected_terminator": "0x40e4fb",
+      "observed_terminators": [
+        "0x40e4fb"
+      ],
+      "native_read_complete": true,
+      "captures": 1154,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1150,
+      "review_images": [
+        "b029_s030_00.png",
+        "b029_s030_01.png",
+        "b029_s030_02.png",
+        "b029_s030_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S031",
+      "case": "b029_s031",
+      "expected_terminator": "0x40e5bf",
+      "observed_terminators": [
+        "0x40e5bf"
+      ],
+      "native_read_complete": true,
+      "captures": 1079,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1077,
+      "review_images": [
+        "b029_s031_00.png",
+        "b029_s031_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S032",
+      "case": "b029_s032",
+      "expected_terminator": "0x40e69d",
+      "observed_terminators": [
+        "0x40e69d"
+      ],
+      "native_read_complete": true,
+      "captures": 978,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 976,
+      "review_images": [
+        "b029_s032_00.png",
+        "b029_s032_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S033",
+      "case": "b029_s033",
+      "expected_terminator": "0x40e7af",
+      "observed_terminators": [
+        "0x40e7af"
+      ],
+      "native_read_complete": true,
+      "captures": 1075,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1072,
+      "review_images": [
+        "b029_s033_00.png",
+        "b029_s033_01.png",
+        "b029_s033_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S034",
+      "case": "b029_s034",
+      "expected_terminator": "0x40e7d2",
+      "observed_terminators": [
+        "0x40e7d2"
+      ],
+      "native_read_complete": true,
+      "captures": 320,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 319,
+      "review_images": [
+        "b029_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S035",
+      "case": "b029_s035",
+      "expected_terminator": "0x40e834",
+      "observed_terminators": [
+        "0x40e834"
+      ],
+      "native_read_complete": true,
+      "captures": 890,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 889,
+      "review_images": [
+        "b029_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S036",
+      "case": "b029_s036",
+      "expected_terminator": "0x40e8c8",
+      "observed_terminators": [
+        "0x40e8c8"
+      ],
+      "native_read_complete": true,
+      "captures": 2111,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2108,
+      "review_images": [
+        "b029_s036_00.png",
+        "b029_s036_01.png",
+        "b029_s036_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S037",
+      "case": "b029_s037",
+      "expected_terminator": "0x40e967",
+      "observed_terminators": [
+        "0x40e967"
+      ],
+      "native_read_complete": true,
+      "captures": 1061,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1059,
+      "review_images": [
+        "b029_s037_00.png",
+        "b029_s037_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S038",
+      "case": "b029_s038",
+      "expected_terminator": "0x40ea2c",
+      "observed_terminators": [
+        "0x40ea2c"
+      ],
+      "native_read_complete": true,
+      "captures": 2115,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2112,
+      "review_images": [
+        "b029_s038_00.png",
+        "b029_s038_01.png",
+        "b029_s038_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S039",
+      "case": "b029_s039",
+      "expected_terminator": "0x40eac1",
+      "observed_terminators": [
+        "0x40eac1"
+      ],
+      "native_read_complete": true,
+      "captures": 1044,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1042,
+      "review_images": [
+        "b029_s039_00.png",
+        "b029_s039_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S040",
+      "case": "b029_s040",
+      "expected_terminator": "0x40eb43",
+      "observed_terminators": [
+        "0x40eb43"
+      ],
+      "native_read_complete": true,
+      "captures": 1031,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1029,
+      "review_images": [
+        "b029_s040_00.png",
+        "b029_s040_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S041",
+      "case": "b029_s041",
+      "expected_terminator": "0x40ebf3",
+      "observed_terminators": [
+        "0x40ebf3"
+      ],
+      "native_read_complete": true,
+      "captures": 1949,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1946,
+      "review_images": [
+        "b029_s041_00.png",
+        "b029_s041_01.png",
+        "b029_s041_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S042",
+      "case": "b029_s042",
+      "expected_terminator": "0x40ec77",
+      "observed_terminators": [
+        "0x40ec77"
+      ],
+      "native_read_complete": true,
+      "captures": 923,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 921,
+      "review_images": [
+        "b029_s042_00.png",
+        "b029_s042_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S043",
+      "case": "b029_s043",
+      "expected_terminator": "0x40ed16",
+      "observed_terminators": [
+        "0x40ed16"
+      ],
+      "native_read_complete": true,
+      "captures": 1002,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1000,
+      "review_images": [
+        "b029_s043_00.png",
+        "b029_s043_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S044",
+      "case": "b029_s044",
+      "expected_terminator": "0x40ed86",
+      "observed_terminators": [
+        "0x40ed86"
+      ],
+      "native_read_complete": true,
+      "captures": 963,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 962,
+      "review_images": [
+        "b029_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S045",
+      "case": "b029_s045",
+      "expected_terminator": "0x40ee1e",
+      "observed_terminators": [
+        "0x40ee1e"
+      ],
+      "native_read_complete": true,
+      "captures": 1119,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1117,
+      "review_images": [
+        "b029_s045_00.png",
+        "b029_s045_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S046",
+      "case": "b029_s046",
+      "expected_terminator": "0x40eeda",
+      "observed_terminators": [
+        "0x40eeda"
+      ],
+      "native_read_complete": true,
+      "captures": 2074,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2071,
+      "review_images": [
+        "b029_s046_00.png",
+        "b029_s046_01.png",
+        "b029_s046_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S047",
+      "case": "b029_s047",
+      "expected_terminator": "0x40ef61",
+      "observed_terminators": [
+        "0x40ef61"
+      ],
+      "native_read_complete": true,
+      "captures": 923,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 921,
+      "review_images": [
+        "b029_s047_00.png",
+        "b029_s047_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S048",
+      "case": "b029_s048",
+      "expected_terminator": "0x40f000",
+      "observed_terminators": [
+        "0x40f000"
+      ],
+      "native_read_complete": true,
+      "captures": 2031,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2028,
+      "review_images": [
+        "b029_s048_00.png",
+        "b029_s048_01.png",
+        "b029_s048_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S049",
+      "case": "b029_s049",
+      "expected_terminator": "0x40f0a8",
+      "observed_terminators": [
+        "0x40f0a8"
+      ],
+      "native_read_complete": true,
+      "captures": 2021,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2018,
+      "review_images": [
+        "b029_s049_00.png",
+        "b029_s049_01.png",
+        "b029_s049_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S050",
+      "case": "b029_s050",
+      "expected_terminator": "0x40f147",
+      "observed_terminators": [
+        "0x40f147"
+      ],
+      "native_read_complete": true,
+      "captures": 1106,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1104,
+      "review_images": [
+        "b029_s050_00.png",
+        "b029_s050_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S067",
+      "case": "b029_s067",
+      "expected_terminator": "0x40f6d7",
+      "observed_terminators": [
+        "0x40f6d7"
+      ],
+      "native_read_complete": true,
+      "captures": 806,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 805,
+      "review_images": [
+        "b029_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S068",
+      "case": "b029_s068",
+      "expected_terminator": "0x40f74c",
+      "observed_terminators": [
+        "0x40f74c"
+      ],
+      "native_read_complete": true,
+      "captures": 946,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 945,
+      "review_images": [
+        "b029_s068_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S069",
+      "case": "b029_s069",
+      "expected_terminator": "0x40f7a2",
+      "observed_terminators": [
+        "0x40f7a2"
+      ],
+      "native_read_complete": true,
+      "captures": 766,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 765,
+      "review_images": [
+        "b029_s069_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S070",
+      "case": "b029_s070",
+      "expected_terminator": "0x40f808",
+      "observed_terminators": [
+        "0x40f808"
+      ],
+      "native_read_complete": true,
+      "captures": 929,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 928,
+      "review_images": [
+        "b029_s070_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S071",
+      "case": "b029_s071",
+      "expected_terminator": "0x40f873",
+      "observed_terminators": [
+        "0x40f873"
+      ],
+      "native_read_complete": true,
+      "captures": 975,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 974,
+      "review_images": [
+        "b029_s071_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S072",
+      "case": "b029_s072",
+      "expected_terminator": "0x40f8dd",
+      "observed_terminators": [
+        "0x40f8dd"
+      ],
+      "native_read_complete": true,
+      "captures": 917,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 916,
+      "review_images": [
+        "b029_s072_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S073",
+      "case": "b029_s073",
+      "expected_terminator": "0x40f94b",
+      "observed_terminators": [
+        "0x40f94b"
+      ],
+      "native_read_complete": true,
+      "captures": 958,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 957,
+      "review_images": [
+        "b029_s073_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S074",
+      "case": "b029_s074",
+      "expected_terminator": "0x40f9b5",
+      "observed_terminators": [
+        "0x40f9b5"
+      ],
+      "native_read_complete": true,
+      "captures": 903,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 902,
+      "review_images": [
+        "b029_s074_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S075",
+      "case": "b029_s075",
+      "expected_terminator": "0x40fa17",
+      "observed_terminators": [
+        "0x40fa17"
+      ],
+      "native_read_complete": true,
+      "captures": 876,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 875,
+      "review_images": [
+        "b029_s075_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S076",
+      "case": "b029_s076",
+      "expected_terminator": "0x40fa7a",
+      "observed_terminators": [
+        "0x40fa7a"
+      ],
+      "native_read_complete": true,
+      "captures": 901,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 900,
+      "review_images": [
+        "b029_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S077",
+      "case": "b029_s077",
+      "expected_terminator": "0x40fad6",
+      "observed_terminators": [
+        "0x40fad6"
+      ],
+      "native_read_complete": true,
+      "captures": 822,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 821,
+      "review_images": [
+        "b029_s077_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S078",
+      "case": "b029_s078",
+      "expected_terminator": "0x40fb35",
+      "observed_terminators": [
+        "0x40fb35"
+      ],
+      "native_read_complete": true,
+      "captures": 849,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 848,
+      "review_images": [
+        "b029_s078_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S079",
+      "case": "b029_s079",
+      "expected_terminator": "0x40fb91",
+      "observed_terminators": [
+        "0x40fb91"
+      ],
+      "native_read_complete": true,
+      "captures": 822,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 821,
+      "review_images": [
+        "b029_s079_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S080",
+      "case": "b029_s080",
+      "expected_terminator": "0x40fbee",
+      "observed_terminators": [
+        "0x40fbee"
+      ],
+      "native_read_complete": true,
+      "captures": 832,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 831,
+      "review_images": [
+        "b029_s080_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S081",
+      "case": "b029_s081",
+      "expected_terminator": "0x40fc57",
+      "observed_terminators": [
+        "0x40fc57"
+      ],
+      "native_read_complete": true,
+      "captures": 940,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 939,
+      "review_images": [
+        "b029_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S082",
+      "case": "b029_s082",
+      "expected_terminator": "0x40fccc",
+      "observed_terminators": [
+        "0x40fccc"
+      ],
+      "native_read_complete": true,
+      "captures": 960,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 959,
+      "review_images": [
+        "b029_s082_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S083",
+      "case": "b029_s083",
+      "expected_terminator": "0x40fd48",
+      "observed_terminators": [
+        "0x40fd48"
+      ],
+      "native_read_complete": true,
+      "captures": 924,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 923,
+      "review_images": [
+        "b029_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S085",
+      "case": "b029_s085",
+      "expected_terminator": "0x40fed1",
+      "observed_terminators": [
+        "0x40fed1"
+      ],
+      "native_read_complete": true,
+      "captures": 631,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 630,
+      "review_images": [
+        "b029_s085_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S086",
+      "case": "b029_s086",
+      "expected_terminator": "0x40ff20",
+      "observed_terminators": [
+        "0x40ff20"
+      ],
+      "native_read_complete": true,
+      "captures": 757,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 756,
+      "review_images": [
+        "b029_s086_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S089",
+      "case": "b029_s089",
+      "expected_terminator": "0x40ffcf",
+      "observed_terminators": [
+        "0x40ffcf"
+      ],
+      "native_read_complete": true,
+      "captures": 679,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 678,
+      "review_images": [
+        "b029_s089_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S092",
+      "case": "b029_s092",
+      "expected_terminator": "0x410084",
+      "observed_terminators": [
+        "0x410084"
+      ],
+      "native_read_complete": true,
+      "captures": 688,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 687,
+      "review_images": [
+        "b029_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S093",
+      "case": "b029_s093",
+      "expected_terminator": "0x4100ae",
+      "observed_terminators": [
+        "0x4100ae"
+      ],
+      "native_read_complete": true,
+      "captures": 358,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 357,
+      "review_images": [
+        "b029_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S094",
+      "case": "b029_s094",
+      "expected_terminator": "0x4100d1",
+      "observed_terminators": [
+        "0x4100d1"
+      ],
+      "native_read_complete": true,
+      "captures": 292,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 291,
+      "review_images": [
+        "b029_s094_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S095",
+      "case": "b029_s095",
+      "expected_terminator": "0x41011a",
+      "observed_terminators": [
+        "0x41011a"
+      ],
+      "native_read_complete": true,
+      "captures": 651,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 650,
+      "review_images": [
+        "b029_s095_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S098",
+      "case": "b029_s098",
+      "expected_terminator": "0x4101d5",
+      "observed_terminators": [
+        "0x4101d5"
+      ],
+      "native_read_complete": true,
+      "captures": 686,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 685,
+      "review_images": [
+        "b029_s098_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S099",
+      "case": "b029_s099",
+      "expected_terminator": "0x4101fc",
+      "observed_terminators": [
+        "0x4101fc"
+      ],
+      "native_read_complete": true,
+      "captures": 374,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 373,
+      "review_images": [
+        "b029_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S100",
+      "case": "b029_s100",
+      "expected_terminator": "0x410219",
+      "observed_terminators": [
+        "0x410219"
+      ],
+      "native_read_complete": true,
+      "captures": 282,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 281,
+      "review_images": [
+        "b029_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S101",
+      "case": "b029_s101",
+      "expected_terminator": "0x410238",
+      "observed_terminators": [
+        "0x410238"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b029_s101_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S102",
+      "case": "b029_s102",
+      "expected_terminator": "0x410294",
+      "observed_terminators": [
+        "0x410294"
+      ],
+      "native_read_complete": true,
+      "captures": 865,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 864,
+      "review_images": [
+        "b029_s102_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S103",
+      "case": "b029_s103",
+      "expected_terminator": "0x4102c3",
+      "observed_terminators": [
+        "0x4102c3"
+      ],
+      "native_read_complete": true,
+      "captures": 445,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 444,
+      "review_images": [
+        "b029_s103_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S104",
+      "case": "b029_s104",
+      "expected_terminator": "0x410300",
+      "observed_terminators": [
+        "0x410300"
+      ],
+      "native_read_complete": true,
+      "captures": 557,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 556,
+      "review_images": [
+        "b029_s104_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S108",
+      "case": "b029_s108",
+      "expected_terminator": "0x4103af",
+      "observed_terminators": [
+        "0x4103af"
+      ],
+      "native_read_complete": true,
+      "captures": 175,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 174,
+      "review_images": [
+        "b029_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S109",
+      "case": "b029_s109",
+      "expected_terminator": "0x410405",
+      "observed_terminators": [
+        "0x410405"
+      ],
+      "native_read_complete": true,
+      "captures": 782,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 781,
+      "review_images": [
+        "b029_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S110",
+      "case": "b029_s110",
+      "expected_terminator": "0x41045d",
+      "observed_terminators": [
+        "0x41045d"
+      ],
+      "native_read_complete": true,
+      "captures": 833,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 832,
+      "review_images": [
+        "b029_s110_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S111",
+      "case": "b029_s111",
+      "expected_terminator": "0x4104b0",
+      "observed_terminators": [
+        "0x4104b0"
+      ],
+      "native_read_complete": true,
+      "captures": 724,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 723,
+      "review_images": [
+        "b029_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S112",
+      "case": "b029_s112",
+      "expected_terminator": "0x4104df",
+      "observed_terminators": [
+        "0x4104df"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b029_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S113",
+      "case": "b029_s113",
+      "expected_terminator": "0x410521",
+      "observed_terminators": [
+        "0x410521"
+      ],
+      "native_read_complete": true,
+      "captures": 599,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 598,
+      "review_images": [
+        "b029_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S117",
+      "case": "b029_s117",
+      "expected_terminator": "0x410580",
+      "observed_terminators": [
+        "0x410580"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 326,
+      "review_images": [
+        "b029_s117_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S118",
+      "case": "b029_s118",
+      "expected_terminator": "0x4105d9",
+      "observed_terminators": [
+        "0x4105d9"
+      ],
+      "native_read_complete": true,
+      "captures": 822,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 821,
+      "review_images": [
+        "b029_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S001",
+      "case": "b030_s001",
+      "expected_terminator": "0x4b0017",
+      "observed_terminators": [
+        "0x4b0017"
+      ],
+      "native_read_complete": true,
+      "captures": 201,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 200,
+      "review_images": [
+        "b030_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S002",
+      "case": "b030_s002",
+      "expected_terminator": "0x4b0033",
+      "observed_terminators": [
+        "0x4b0033"
+      ],
+      "native_read_complete": true,
+      "captures": 273,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 272,
+      "review_images": [
+        "b030_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S003",
+      "case": "b030_s003",
+      "expected_terminator": "0x4b004a",
+      "observed_terminators": [
+        "0x4b004a"
+      ],
+      "native_read_complete": true,
+      "captures": 227,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 226,
+      "review_images": [
+        "b030_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S004",
+      "case": "b030_s004",
+      "expected_terminator": "0x4b006c",
+      "observed_terminators": [
+        "0x4b006c"
+      ],
+      "native_read_complete": true,
+      "captures": 342,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 341,
+      "review_images": [
+        "b030_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S005",
+      "case": "b030_s005",
+      "expected_terminator": "0x4b0086",
+      "observed_terminators": [
+        "0x4b0086"
+      ],
+      "native_read_complete": true,
+      "captures": 239,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 238,
+      "review_images": [
+        "b030_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S009",
+      "case": "b030_s009",
+      "expected_terminator": "0x4b00b6",
+      "observed_terminators": [
+        "0x4b00b6"
+      ],
+      "native_read_complete": true,
+      "captures": 276,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 275,
+      "review_images": [
+        "b030_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B030-S010",
+      "case": "b030_s010",
+      "expected_terminator": "0x4b00d4",
+      "observed_terminators": [
+        "0x4b00d4"
+      ],
+      "native_read_complete": true,
+      "captures": 276,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 275,
+      "review_images": [
+        "b030_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S014",
+      "case": "b031_s014",
+      "expected_terminator": "0x41125d",
+      "observed_terminators": [
+        "0x41125d"
+      ],
+      "native_read_complete": true,
+      "captures": 560,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 559,
+      "review_images": [
+        "b031_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S015",
+      "case": "b031_s015",
+      "expected_terminator": "0x4112b3",
+      "observed_terminators": [
+        "0x4112b3"
+      ],
+      "native_read_complete": true,
+      "captures": 785,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 784,
+      "review_images": [
+        "b031_s015_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S017",
+      "case": "b031_s017",
+      "expected_terminator": "0x411306",
+      "observed_terminators": [
+        "0x411306"
+      ],
+      "native_read_complete": true,
+      "captures": 1204,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1202,
+      "review_images": [
+        "b031_s017_00.png",
+        "b031_s017_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B031-S018",
+      "case": "b031_s018",
+      "expected_terminator": "0x41132a",
+      "observed_terminators": [
+        "0x41132a"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b031_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S014",
+      "case": "b033_s014",
+      "expected_terminator": "0x411750",
+      "observed_terminators": [
+        "0x411750"
+      ],
+      "native_read_complete": true,
+      "captures": 1222,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1216,
+      "review_images": [
+        "b033_s014_00.png",
+        "b033_s014_01.png",
+        "b033_s014_02.png",
+        "b033_s014_03.png",
+        "b033_s014_04.png",
+        "b033_s014_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S015",
+      "case": "b033_s015",
+      "expected_terminator": "0x4118cf",
+      "observed_terminators": [
+        "0x4118cf"
+      ],
+      "native_read_complete": true,
+      "captures": 1305,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1301,
+      "review_images": [
+        "b033_s015_00.png",
+        "b033_s015_01.png",
+        "b033_s015_02.png",
+        "b033_s015_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S016",
+      "case": "b033_s016",
+      "expected_terminator": "0x411a25",
+      "observed_terminators": [
+        "0x411a25"
+      ],
+      "native_read_complete": true,
+      "captures": 989,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 986,
+      "review_images": [
+        "b033_s016_00.png",
+        "b033_s016_01.png",
+        "b033_s016_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S017",
+      "case": "b033_s017",
+      "expected_terminator": "0x411b93",
+      "observed_terminators": [
+        "0x411b93"
+      ],
+      "native_read_complete": true,
+      "captures": 2608,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2603,
+      "review_images": [
+        "b033_s017_00.png",
+        "b033_s017_01.png",
+        "b033_s017_02.png",
+        "b033_s017_03.png",
+        "b033_s017_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S018",
+      "case": "b033_s018",
+      "expected_terminator": "0x411d35",
+      "observed_terminators": [
+        "0x411d35"
+      ],
+      "native_read_complete": true,
+      "captures": 1049,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1044,
+      "review_images": [
+        "b033_s018_00.png",
+        "b033_s018_01.png",
+        "b033_s018_02.png",
+        "b033_s018_03.png",
+        "b033_s018_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S019",
+      "case": "b033_s019",
+      "expected_terminator": "0x411e85",
+      "observed_terminators": [
+        "0x411e85"
+      ],
+      "native_read_complete": true,
+      "captures": 1134,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1130,
+      "review_images": [
+        "b033_s019_00.png",
+        "b033_s019_01.png",
+        "b033_s019_02.png",
+        "b033_s019_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S020",
+      "case": "b033_s020",
+      "expected_terminator": "0x411ff7",
+      "observed_terminators": [
+        "0x411ff7"
+      ],
+      "native_read_complete": true,
+      "captures": 1235,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1231,
+      "review_images": [
+        "b033_s020_00.png",
+        "b033_s020_01.png",
+        "b033_s020_02.png",
+        "b033_s020_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S021",
+      "case": "b033_s021",
+      "expected_terminator": "0x412163",
+      "observed_terminators": [
+        "0x412163"
+      ],
+      "native_read_complete": true,
+      "captures": 1262,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1258,
+      "review_images": [
+        "b033_s021_00.png",
+        "b033_s021_01.png",
+        "b033_s021_02.png",
+        "b033_s021_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S022",
+      "case": "b033_s022",
+      "expected_terminator": "0x412310",
+      "observed_terminators": [
+        "0x412310"
+      ],
+      "native_read_complete": true,
+      "captures": 1227,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1222,
+      "review_images": [
+        "b033_s022_00.png",
+        "b033_s022_01.png",
+        "b033_s022_02.png",
+        "b033_s022_03.png",
+        "b033_s022_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S023",
+      "case": "b033_s023",
+      "expected_terminator": "0x412478",
+      "observed_terminators": [
+        "0x412478"
+      ],
+      "native_read_complete": true,
+      "captures": 1142,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1138,
+      "review_images": [
+        "b033_s023_00.png",
+        "b033_s023_01.png",
+        "b033_s023_02.png",
+        "b033_s023_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B033-S028",
+      "case": "b033_s028",
+      "expected_terminator": "0x4124fe",
+      "observed_terminators": [
+        "0x4124fe"
+      ],
+      "native_read_complete": true,
+      "captures": 467,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 466,
+      "review_images": [
+        "b033_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B035-S001",
+      "case": "b035_s001",
+      "expected_terminator": "0x412a26",
+      "observed_terminators": [
+        "0x412a26"
+      ],
+      "native_read_complete": true,
+      "captures": 243,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 242,
+      "review_images": [
+        "b035_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S002",
+      "case": "b037_s002",
+      "expected_terminator": "0x412b85",
+      "observed_terminators": [
+        "0x412b85"
+      ],
+      "native_read_complete": true,
+      "captures": 320,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 319,
+      "review_images": [
+        "b037_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S003",
+      "case": "b037_s003",
+      "expected_terminator": "0x412ba5",
+      "observed_terminators": [
+        "0x412ba5"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b037_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S004",
+      "case": "b037_s004",
+      "expected_terminator": "0x412bbc",
+      "observed_terminators": [
+        "0x412bbc"
+      ],
+      "native_read_complete": true,
+      "captures": 248,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 247,
+      "review_images": [
+        "b037_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S005",
+      "case": "b037_s005",
+      "expected_terminator": "0x412bd5",
+      "observed_terminators": [
+        "0x412bd5"
+      ],
+      "native_read_complete": true,
+      "captures": 266,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 265,
+      "review_images": [
+        "b037_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S007",
+      "case": "b037_s007",
+      "expected_terminator": "0x412c1e",
+      "observed_terminators": [
+        "0x412c1e"
+      ],
+      "native_read_complete": true,
+      "captures": 501,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 500,
+      "review_images": [
+        "b037_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S008",
+      "case": "b037_s008",
+      "expected_terminator": "0x412c4f",
+      "observed_terminators": [
+        "0x412c4f"
+      ],
+      "native_read_complete": true,
+      "captures": 482,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 481,
+      "review_images": [
+        "b037_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S017",
+      "case": "b037_s017",
+      "expected_terminator": "0x412d29",
+      "observed_terminators": [
+        "0x412d29"
+      ],
+      "native_read_complete": true,
+      "captures": 319,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 318,
+      "review_images": [
+        "b037_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S018",
+      "case": "b037_s018",
+      "expected_terminator": "0x412d6a",
+      "observed_terminators": [
+        "0x412d6a"
+      ],
+      "native_read_complete": true,
+      "captures": 1328,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1326,
+      "review_images": [
+        "b037_s018_00.png",
+        "b037_s018_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S024",
+      "case": "b037_s024",
+      "expected_terminator": "0x412e6d",
+      "observed_terminators": [
+        "0x412e6d"
+      ],
+      "native_read_complete": true,
+      "captures": 498,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 497,
+      "review_images": [
+        "b037_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S026",
+      "case": "b037_s026",
+      "expected_terminator": "0x412ebd",
+      "observed_terminators": [
+        "0x412ebd"
+      ],
+      "native_read_complete": true,
+      "captures": 404,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 403,
+      "review_images": [
+        "b037_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S027",
+      "case": "b037_s027",
+      "expected_terminator": "0x412ef5",
+      "observed_terminators": [
+        "0x412ef5"
+      ],
+      "native_read_complete": true,
+      "captures": 494,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 493,
+      "review_images": [
+        "b037_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S029",
+      "case": "b037_s029",
+      "expected_terminator": "0x412f57",
+      "observed_terminators": [
+        "0x412f57"
+      ],
+      "native_read_complete": true,
+      "captures": 537,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 536,
+      "review_images": [
+        "b037_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S030",
+      "case": "b037_s030",
+      "expected_terminator": "0x412f80",
+      "observed_terminators": [
+        "0x412f80"
+      ],
+      "native_read_complete": true,
+      "captures": 325,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 324,
+      "review_images": [
+        "b037_s030_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S049",
+      "case": "b037_s049",
+      "expected_terminator": "0x4136d4",
+      "observed_terminators": [
+        "0x4136d4"
+      ],
+      "native_read_complete": true,
+      "captures": 1379,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1375,
+      "review_images": [
+        "b037_s049_00.png",
+        "b037_s049_01.png",
+        "b037_s049_02.png",
+        "b037_s049_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S093",
+      "case": "b037_s093",
+      "expected_terminator": "0x41467d",
+      "observed_terminators": [
+        "0x41467d"
+      ],
+      "native_read_complete": true,
+      "captures": 271,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 270,
+      "review_images": [
+        "b037_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S100",
+      "case": "b037_s100",
+      "expected_terminator": "0x4148c7",
+      "observed_terminators": [
+        "0x4148c7"
+      ],
+      "native_read_complete": true,
+      "captures": 538,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 537,
+      "review_images": [
+        "b037_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S104",
+      "case": "b037_s104",
+      "expected_terminator": "0x414c27",
+      "observed_terminators": [
+        "0x414c27"
+      ],
+      "native_read_complete": true,
+      "captures": 2117,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2110,
+      "review_images": [
+        "b037_s104_00.png",
+        "b037_s104_01.png",
+        "b037_s104_02.png",
+        "b037_s104_03.png",
+        "b037_s104_04.png",
+        "b037_s104_05.png",
+        "b037_s104_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S105",
+      "case": "b037_s105",
+      "expected_terminator": "0x414e57",
+      "observed_terminators": [
+        "0x414e57"
+      ],
+      "native_read_complete": true,
+      "captures": 2177,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2170,
+      "review_images": [
+        "b037_s105_00.png",
+        "b037_s105_01.png",
+        "b037_s105_02.png",
+        "b037_s105_03.png",
+        "b037_s105_04.png",
+        "b037_s105_05.png",
+        "b037_s105_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S106",
+      "case": "b037_s106",
+      "expected_terminator": "0x415016",
+      "observed_terminators": [
+        "0x415016"
+      ],
+      "native_read_complete": true,
+      "captures": 1085,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1080,
+      "review_images": [
+        "b037_s106_00.png",
+        "b037_s106_01.png",
+        "b037_s106_02.png",
+        "b037_s106_03.png",
+        "b037_s106_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S107",
+      "case": "b037_s107",
+      "expected_terminator": "0x4151a3",
+      "observed_terminators": [
+        "0x4151a3"
+      ],
+      "native_read_complete": true,
+      "captures": 1095,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1091,
+      "review_images": [
+        "b037_s107_00.png",
+        "b037_s107_01.png",
+        "b037_s107_02.png",
+        "b037_s107_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S108",
+      "case": "b037_s108",
+      "expected_terminator": "0x415328",
+      "observed_terminators": [
+        "0x415328"
+      ],
+      "native_read_complete": true,
+      "captures": 1133,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1128,
+      "review_images": [
+        "b037_s108_00.png",
+        "b037_s108_01.png",
+        "b037_s108_02.png",
+        "b037_s108_03.png",
+        "b037_s108_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S109",
+      "case": "b037_s109",
+      "expected_terminator": "0x4154cd",
+      "observed_terminators": [
+        "0x4154cd"
+      ],
+      "native_read_complete": true,
+      "captures": 1376,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1371,
+      "review_images": [
+        "b037_s109_00.png",
+        "b037_s109_01.png",
+        "b037_s109_02.png",
+        "b037_s109_03.png",
+        "b037_s109_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S110",
+      "case": "b037_s110",
+      "expected_terminator": "0x415653",
+      "observed_terminators": [
+        "0x415653"
+      ],
+      "native_read_complete": true,
+      "captures": 2150,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2144,
+      "review_images": [
+        "b037_s110_00.png",
+        "b037_s110_01.png",
+        "b037_s110_02.png",
+        "b037_s110_03.png",
+        "b037_s110_04.png",
+        "b037_s110_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S111",
+      "case": "b037_s111",
+      "expected_terminator": "0x4157d5",
+      "observed_terminators": [
+        "0x4157d5"
+      ],
+      "native_read_complete": true,
+      "captures": 1051,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1047,
+      "review_images": [
+        "b037_s111_00.png",
+        "b037_s111_01.png",
+        "b037_s111_02.png",
+        "b037_s111_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S112",
+      "case": "b037_s112",
+      "expected_terminator": "0x4159af",
+      "observed_terminators": [
+        "0x4159af"
+      ],
+      "native_read_complete": true,
+      "captures": 2173,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2167,
+      "review_images": [
+        "b037_s112_00.png",
+        "b037_s112_01.png",
+        "b037_s112_02.png",
+        "b037_s112_03.png",
+        "b037_s112_04.png",
+        "b037_s112_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S113",
+      "case": "b037_s113",
+      "expected_terminator": "0x415b6b",
+      "observed_terminators": [
+        "0x415b6b"
+      ],
+      "native_read_complete": true,
+      "captures": 1292,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1287,
+      "review_images": [
+        "b037_s113_00.png",
+        "b037_s113_01.png",
+        "b037_s113_02.png",
+        "b037_s113_03.png",
+        "b037_s113_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S114",
+      "case": "b037_s114",
+      "expected_terminator": "0x415d0d",
+      "observed_terminators": [
+        "0x415d0d"
+      ],
+      "native_read_complete": true,
+      "captures": 1036,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1032,
+      "review_images": [
+        "b037_s114_00.png",
+        "b037_s114_01.png",
+        "b037_s114_02.png",
+        "b037_s114_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S115",
+      "case": "b037_s115",
+      "expected_terminator": "0x415f2a",
+      "observed_terminators": [
+        "0x415f2a"
+      ],
+      "native_read_complete": true,
+      "captures": 1108,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1102,
+      "review_images": [
+        "b037_s115_00.png",
+        "b037_s115_01.png",
+        "b037_s115_02.png",
+        "b037_s115_03.png",
+        "b037_s115_04.png",
+        "b037_s115_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S116",
+      "case": "b037_s116",
+      "expected_terminator": "0x416163",
+      "observed_terminators": [
+        "0x416163"
+      ],
+      "native_read_complete": true,
+      "captures": 1224,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1216,
+      "review_images": [
+        "b037_s116_00.png",
+        "b037_s116_01.png",
+        "b037_s116_02.png",
+        "b037_s116_03.png",
+        "b037_s116_04.png",
+        "b037_s116_05.png",
+        "b037_s116_06.png",
+        "b037_s116_07.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S117",
+      "case": "b037_s117",
+      "expected_terminator": "0x416303",
+      "observed_terminators": [
+        "0x416303"
+      ],
+      "native_read_complete": true,
+      "captures": 2118,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2112,
+      "review_images": [
+        "b037_s117_00.png",
+        "b037_s117_01.png",
+        "b037_s117_02.png",
+        "b037_s117_03.png",
+        "b037_s117_04.png",
+        "b037_s117_05.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S118",
+      "case": "b037_s118",
+      "expected_terminator": "0x416352",
+      "observed_terminators": [
+        "0x416352"
+      ],
+      "native_read_complete": true,
+      "captures": 722,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 721,
+      "review_images": [
+        "b037_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S001",
+      "case": "b038_s001",
+      "expected_terminator": "0x416bae",
+      "observed_terminators": [
+        "0x416bae"
+      ],
+      "native_read_complete": true,
+      "captures": 1014,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1012,
+      "review_images": [
+        "b038_s001_00.png",
+        "b038_s001_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S002",
+      "case": "b038_s002",
+      "expected_terminator": "0x416bce",
+      "observed_terminators": [
+        "0x416bce"
+      ],
+      "native_read_complete": true,
+      "captures": 294,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 293,
+      "review_images": [
+        "b038_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S004",
+      "case": "b038_s004",
+      "expected_terminator": "0x416c1e",
+      "observed_terminators": [
+        "0x416c1e"
+      ],
+      "native_read_complete": true,
+      "captures": 517,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 516,
+      "review_images": [
+        "b038_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S005",
+      "case": "b038_s005",
+      "expected_terminator": "0x416c3d",
+      "observed_terminators": [
+        "0x416c3d"
+      ],
+      "native_read_complete": true,
+      "captures": 316,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 315,
+      "review_images": [
+        "b038_s005_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S006",
+      "case": "b038_s006",
+      "expected_terminator": "0x416c7e",
+      "observed_terminators": [
+        "0x416c7e"
+      ],
+      "native_read_complete": true,
+      "captures": 577,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 576,
+      "review_images": [
+        "b038_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S007",
+      "case": "b038_s007",
+      "expected_terminator": "0x416cb0",
+      "observed_terminators": [
+        "0x416cb0"
+      ],
+      "native_read_complete": true,
+      "captures": 474,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 473,
+      "review_images": [
+        "b038_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S008",
+      "case": "b038_s008",
+      "expected_terminator": "0x416cdf",
+      "observed_terminators": [
+        "0x416cdf"
+      ],
+      "native_read_complete": true,
+      "captures": 415,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 414,
+      "review_images": [
+        "b038_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S009",
+      "case": "b038_s009",
+      "expected_terminator": "0x416d3e",
+      "observed_terminators": [
+        "0x416d3e"
+      ],
+      "native_read_complete": true,
+      "captures": 879,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 878,
+      "review_images": [
+        "b038_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S010",
+      "case": "b038_s010",
+      "expected_terminator": "0x416d69",
+      "observed_terminators": [
+        "0x416d69"
+      ],
+      "native_read_complete": true,
+      "captures": 395,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 394,
+      "review_images": [
+        "b038_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S011",
+      "case": "b038_s011",
+      "expected_terminator": "0x416d75",
+      "observed_terminators": [
+        "0x416d75"
+      ],
+      "native_read_complete": true,
+      "captures": 84,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 83,
+      "review_images": [
+        "b038_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S012",
+      "case": "b038_s012",
+      "expected_terminator": "0x416dce",
+      "observed_terminators": [
+        "0x416dce"
+      ],
+      "native_read_complete": true,
+      "captures": 794,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 793,
+      "review_images": [
+        "b038_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S014",
+      "case": "b038_s014",
+      "expected_terminator": "0x416e42",
+      "observed_terminators": [
+        "0x416e42"
+      ],
+      "native_read_complete": true,
+      "captures": 443,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 442,
+      "review_images": [
+        "b038_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S015",
+      "case": "b038_s015",
+      "expected_terminator": "0x416f42",
+      "observed_terminators": [
+        "0x416f42"
+      ],
+      "native_read_complete": true,
+      "captures": 2137,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2133,
+      "review_images": [
+        "b038_s015_00.png",
+        "b038_s015_01.png",
+        "b038_s015_02.png",
+        "b038_s015_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S012",
+      "case": "b039_s012",
+      "expected_terminator": "0x4173a2",
+      "observed_terminators": [
+        "0x4173a2"
+      ],
+      "native_read_complete": true,
+      "captures": 904,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 903,
+      "review_images": [
+        "b039_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S013",
+      "case": "b039_s013",
+      "expected_terminator": "0x417492",
+      "observed_terminators": [
+        "0x417492"
+      ],
+      "native_read_complete": true,
+      "captures": 1514,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1510,
+      "review_images": [
+        "b039_s013_00.png",
+        "b039_s013_01.png",
+        "b039_s013_02.png",
+        "b039_s013_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S022",
+      "case": "b039_s022",
+      "expected_terminator": "0x4176b2",
+      "observed_terminators": [
+        "0x4176b2"
+      ],
+      "native_read_complete": true,
+      "captures": 827,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 826,
+      "review_images": [
+        "b039_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S024",
+      "case": "b039_s024",
+      "expected_terminator": "0x417815",
+      "observed_terminators": [
+        "0x417815"
+      ],
+      "native_read_complete": true,
+      "captures": 1001,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 999,
+      "review_images": [
+        "b039_s024_00.png",
+        "b039_s024_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S025",
+      "case": "b039_s025",
+      "expected_terminator": "0x41795b",
+      "observed_terminators": [
+        "0x41795b"
+      ],
+      "native_read_complete": true,
+      "captures": 1168,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1165,
+      "review_images": [
+        "b039_s025_00.png",
+        "b039_s025_01.png",
+        "b039_s025_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S029",
+      "case": "b039_s029",
+      "expected_terminator": "0x417b7d",
+      "observed_terminators": [
+        "0x417b7d"
+      ],
+      "native_read_complete": true,
+      "captures": 1884,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1881,
+      "review_images": [
+        "b039_s029_00.png",
+        "b039_s029_01.png",
+        "b039_s029_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S030",
+      "case": "b039_s030",
+      "expected_terminator": "0x417d85",
+      "observed_terminators": [
+        "0x417d85"
+      ],
+      "native_read_complete": true,
+      "captures": 1163,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1156,
+      "review_images": [
+        "b039_s030_00.png",
+        "b039_s030_01.png",
+        "b039_s030_02.png",
+        "b039_s030_03.png",
+        "b039_s030_04.png",
+        "b039_s030_05.png",
+        "b039_s030_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S034",
+      "case": "b039_s034",
+      "expected_terminator": "0x417f8e",
+      "observed_terminators": [
+        "0x417f8e"
+      ],
+      "native_read_complete": true,
+      "captures": 2115,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2112,
+      "review_images": [
+        "b039_s034_00.png",
+        "b039_s034_01.png",
+        "b039_s034_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S035",
+      "case": "b039_s035",
+      "expected_terminator": "0x4180c3",
+      "observed_terminators": [
+        "0x4180c3"
+      ],
+      "native_read_complete": true,
+      "captures": 2010,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2005,
+      "review_images": [
+        "b039_s035_00.png",
+        "b039_s035_01.png",
+        "b039_s035_02.png",
+        "b039_s035_03.png",
+        "b039_s035_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S039",
+      "case": "b039_s039",
+      "expected_terminator": "0x4182b1",
+      "observed_terminators": [
+        "0x4182b1"
+      ],
+      "native_read_complete": true,
+      "captures": 2032,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2029,
+      "review_images": [
+        "b039_s039_00.png",
+        "b039_s039_01.png",
+        "b039_s039_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S040",
+      "case": "b039_s040",
+      "expected_terminator": "0x418385",
+      "observed_terminators": [
+        "0x418385"
+      ],
+      "native_read_complete": true,
+      "captures": 1831,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1828,
+      "review_images": [
+        "b039_s040_00.png",
+        "b039_s040_01.png",
+        "b039_s040_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S043",
+      "case": "b039_s043",
+      "expected_terminator": "0x418463",
+      "observed_terminators": [
+        "0x418463"
+      ],
+      "native_read_complete": true,
+      "captures": 836,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 835,
+      "review_images": [
+        "b039_s043_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S044",
+      "case": "b039_s044",
+      "expected_terminator": "0x418499",
+      "observed_terminators": [
+        "0x418499"
+      ],
+      "native_read_complete": true,
+      "captures": 463,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 462,
+      "review_images": [
+        "b039_s044_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S045",
+      "case": "b039_s045",
+      "expected_terminator": "0x4184d0",
+      "observed_terminators": [
+        "0x4184d0"
+      ],
+      "native_read_complete": true,
+      "captures": 472,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 471,
+      "review_images": [
+        "b039_s045_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S046",
+      "case": "b039_s046",
+      "expected_terminator": "0x41855b",
+      "observed_terminators": [
+        "0x41855b"
+      ],
+      "native_read_complete": true,
+      "captures": 2106,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2103,
+      "review_images": [
+        "b039_s046_00.png",
+        "b039_s046_01.png",
+        "b039_s046_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S048",
+      "case": "b039_s048",
+      "expected_terminator": "0x4185d4",
+      "observed_terminators": [
+        "0x4185d4"
+      ],
+      "native_read_complete": true,
+      "captures": 756,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 755,
+      "review_images": [
+        "b039_s048_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S051",
+      "case": "b039_s051",
+      "expected_terminator": "0x41868f",
+      "observed_terminators": [
+        "0x41868f"
+      ],
+      "native_read_complete": true,
+      "captures": 802,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 801,
+      "review_images": [
+        "b039_s051_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S053",
+      "case": "b039_s053",
+      "expected_terminator": "0x418771",
+      "observed_terminators": [
+        "0x418771"
+      ],
+      "native_read_complete": true,
+      "captures": 429,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 428,
+      "review_images": [
+        "b039_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B039-S056",
+      "case": "b039_s056",
+      "expected_terminator": "0x4187fd",
+      "observed_terminators": [
+        "0x4187fd"
+      ],
+      "native_read_complete": true,
+      "captures": 581,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 580,
+      "review_images": [
+        "b039_s056_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S095",
+      "case": "b040_s095",
+      "expected_terminator": "0x41b41d",
+      "observed_terminators": [
+        "0x41b41d"
+      ],
+      "native_read_complete": true,
+      "captures": 2137,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2134,
+      "review_images": [
+        "b040_s095_00.png",
+        "b040_s095_01.png",
+        "b040_s095_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S102",
+      "case": "b040_s102",
+      "expected_terminator": "0x41b7ca",
+      "observed_terminators": [
+        "0x41b7ca"
+      ],
+      "native_read_complete": true,
+      "captures": 2796,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2792,
+      "review_images": [
+        "b040_s102_00.png",
+        "b040_s102_01.png",
+        "b040_s102_02.png",
+        "b040_s102_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S136",
+      "case": "b040_s136",
+      "expected_terminator": "0x41c135",
+      "observed_terminators": [
+        "0x41c135"
+      ],
+      "native_read_complete": true,
+      "captures": 532,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 531,
+      "review_images": [
+        "b040_s136_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S138",
+      "case": "b040_s138",
+      "expected_terminator": "0x41c20b",
+      "observed_terminators": [
+        "0x41c20b"
+      ],
+      "native_read_complete": true,
+      "captures": 606,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 605,
+      "review_images": [
+        "b040_s138_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S140",
+      "case": "b040_s140",
+      "expected_terminator": "0x41c2e4",
+      "observed_terminators": [
+        "0x41c2e4"
+      ],
+      "native_read_complete": true,
+      "captures": 940,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 938,
+      "review_images": [
+        "b040_s140_00.png",
+        "b040_s140_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S170",
+      "case": "b040_s170",
+      "expected_terminator": "0x41d0a0",
+      "observed_terminators": [
+        "0x41d0a0"
+      ],
+      "native_read_complete": true,
+      "captures": 936,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 934,
+      "review_images": [
+        "b040_s170_00.png",
+        "b040_s170_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S191",
+      "case": "b040_s191",
+      "expected_terminator": "0x41dd60",
+      "observed_terminators": [
+        "0x41dd60"
+      ],
+      "native_read_complete": true,
+      "captures": 937,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 934,
+      "review_images": [
+        "b040_s191_00.png",
+        "b040_s191_01.png",
+        "b040_s191_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S192",
+      "case": "b040_s192",
+      "expected_terminator": "0x41dde3",
+      "observed_terminators": [
+        "0x41dde3"
+      ],
+      "native_read_complete": true,
+      "captures": 2472,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2469,
+      "review_images": [
+        "b040_s192_00.png",
+        "b040_s192_01.png",
+        "b040_s192_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S193",
+      "case": "b040_s193",
+      "expected_terminator": "0x41de6f",
+      "observed_terminators": [
+        "0x41de6f"
+      ],
+      "native_read_complete": true,
+      "captures": 1546,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1543,
+      "review_images": [
+        "b040_s193_00.png",
+        "b040_s193_01.png",
+        "b040_s193_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S194",
+      "case": "b040_s194",
+      "expected_terminator": "0x41df10",
+      "observed_terminators": [
+        "0x41df10"
+      ],
+      "native_read_complete": true,
+      "captures": 1455,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1452,
+      "review_images": [
+        "b040_s194_00.png",
+        "b040_s194_01.png",
+        "b040_s194_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S195",
+      "case": "b040_s195",
+      "expected_terminator": "0x41dfa3",
+      "observed_terminators": [
+        "0x41dfa3"
+      ],
+      "native_read_complete": true,
+      "captures": 1491,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1488,
+      "review_images": [
+        "b040_s195_00.png",
+        "b040_s195_01.png",
+        "b040_s195_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S196",
+      "case": "b040_s196",
+      "expected_terminator": "0x41e040",
+      "observed_terminators": [
+        "0x41e040"
+      ],
+      "native_read_complete": true,
+      "captures": 1444,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1441,
+      "review_images": [
+        "b040_s196_00.png",
+        "b040_s196_01.png",
+        "b040_s196_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S197",
+      "case": "b040_s197",
+      "expected_terminator": "0x41e0e8",
+      "observed_terminators": [
+        "0x41e0e8"
+      ],
+      "native_read_complete": true,
+      "captures": 1399,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1396,
+      "review_images": [
+        "b040_s197_00.png",
+        "b040_s197_01.png",
+        "b040_s197_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S214",
+      "case": "b040_s214",
+      "expected_terminator": "0x41e561",
+      "observed_terminators": [
+        "0x41e561"
+      ],
+      "native_read_complete": true,
+      "captures": 2123,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2120,
+      "review_images": [
+        "b040_s214_00.png",
+        "b040_s214_01.png",
+        "b040_s214_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S215",
+      "case": "b040_s215",
+      "expected_terminator": "0x41e5cd",
+      "observed_terminators": [
+        "0x41e5cd"
+      ],
+      "native_read_complete": true,
+      "captures": 1700,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1698,
+      "review_images": [
+        "b040_s215_00.png",
+        "b040_s215_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S223",
+      "case": "b040_s223",
+      "expected_terminator": "0x41e7d4",
+      "observed_terminators": [
+        "0x41e7d4"
+      ],
+      "native_read_complete": true,
+      "captures": 931,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 930,
+      "review_images": [
+        "b040_s223_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S001",
+      "case": "b041_s001",
+      "expected_terminator": "0x41f189",
+      "observed_terminators": [
+        "0x41f189"
+      ],
+      "native_read_complete": true,
+      "captures": 1015,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1013,
+      "review_images": [
+        "b041_s001_00.png",
+        "b041_s001_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S002",
+      "case": "b041_s002",
+      "expected_terminator": "0x41f1d5",
+      "observed_terminators": [
+        "0x41f1d5"
+      ],
+      "native_read_complete": true,
+      "captures": 722,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 721,
+      "review_images": [
+        "b041_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S003",
+      "case": "b041_s003",
+      "expected_terminator": "0x41f216",
+      "observed_terminators": [
+        "0x41f216"
+      ],
+      "native_read_complete": true,
+      "captures": 624,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 623,
+      "review_images": [
+        "b041_s003_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S004",
+      "case": "b041_s004",
+      "expected_terminator": "0x41f28f",
+      "observed_terminators": [
+        "0x41f28f"
+      ],
+      "native_read_complete": true,
+      "captures": 925,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 924,
+      "review_images": [
+        "b041_s004_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S005",
+      "case": "b041_s005",
+      "expected_terminator": "0x41f340",
+      "observed_terminators": [
+        "0x41f340"
+      ],
+      "native_read_complete": true,
+      "captures": 2104,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2101,
+      "review_images": [
+        "b041_s005_00.png",
+        "b041_s005_01.png",
+        "b041_s005_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S006",
+      "case": "b041_s006",
+      "expected_terminator": "0x41f38e",
+      "observed_terminators": [
+        "0x41f38e"
+      ],
+      "native_read_complete": true,
+      "captures": 710,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 709,
+      "review_images": [
+        "b041_s006_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S007",
+      "case": "b041_s007",
+      "expected_terminator": "0x41f3cb",
+      "observed_terminators": [
+        "0x41f3cb"
+      ],
+      "native_read_complete": true,
+      "captures": 560,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 559,
+      "review_images": [
+        "b041_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S008",
+      "case": "b041_s008",
+      "expected_terminator": "0x41f408",
+      "observed_terminators": [
+        "0x41f408"
+      ],
+      "native_read_complete": true,
+      "captures": 562,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 561,
+      "review_images": [
+        "b041_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S009",
+      "case": "b041_s009",
+      "expected_terminator": "0x41f485",
+      "observed_terminators": [
+        "0x41f485"
+      ],
+      "native_read_complete": true,
+      "captures": 947,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 946,
+      "review_images": [
+        "b041_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S010",
+      "case": "b041_s010",
+      "expected_terminator": "0x41f4dd",
+      "observed_terminators": [
+        "0x41f4dd"
+      ],
+      "native_read_complete": true,
+      "captures": 803,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 802,
+      "review_images": [
+        "b041_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S011",
+      "case": "b041_s011",
+      "expected_terminator": "0x41f533",
+      "observed_terminators": [
+        "0x41f533"
+      ],
+      "native_read_complete": true,
+      "captures": 803,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 802,
+      "review_images": [
+        "b041_s011_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S012",
+      "case": "b041_s012",
+      "expected_terminator": "0x41f5d9",
+      "observed_terminators": [
+        "0x41f5d9"
+      ],
+      "native_read_complete": true,
+      "captures": 2117,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2114,
+      "review_images": [
+        "b041_s012_00.png",
+        "b041_s012_01.png",
+        "b041_s012_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S013",
+      "case": "b041_s013",
+      "expected_terminator": "0x41f76d",
+      "observed_terminators": [
+        "0x41f76d"
+      ],
+      "native_read_complete": true,
+      "captures": 1181,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1176,
+      "review_images": [
+        "b041_s013_00.png",
+        "b041_s013_01.png",
+        "b041_s013_02.png",
+        "b041_s013_03.png",
+        "b041_s013_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S014",
+      "case": "b041_s014",
+      "expected_terminator": "0x41f7ba",
+      "observed_terminators": [
+        "0x41f7ba"
+      ],
+      "native_read_complete": true,
+      "captures": 705,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 704,
+      "review_images": [
+        "b041_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S016",
+      "case": "b041_s016",
+      "expected_terminator": "0x41f867",
+      "observed_terminators": [
+        "0x41f867"
+      ],
+      "native_read_complete": true,
+      "captures": 761,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 760,
+      "review_images": [
+        "b041_s016_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S017",
+      "case": "b041_s017",
+      "expected_terminator": "0x41f885",
+      "observed_terminators": [
+        "0x41f885"
+      ],
+      "native_read_complete": true,
+      "captures": 290,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 289,
+      "review_images": [
+        "b041_s017_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S018",
+      "case": "b041_s018",
+      "expected_terminator": "0x41f8d4",
+      "observed_terminators": [
+        "0x41f8d4"
+      ],
+      "native_read_complete": true,
+      "captures": 779,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 778,
+      "review_images": [
+        "b041_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S019",
+      "case": "b041_s019",
+      "expected_terminator": "0x41f8ed",
+      "observed_terminators": [
+        "0x41f8ed"
+      ],
+      "native_read_complete": true,
+      "captures": 245,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 244,
+      "review_images": [
+        "b041_s019_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S020",
+      "case": "b041_s020",
+      "expected_terminator": "0x41f903",
+      "observed_terminators": [
+        "0x41f903"
+      ],
+      "native_read_complete": true,
+      "captures": 235,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 234,
+      "review_images": [
+        "b041_s020_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S021",
+      "case": "b041_s021",
+      "expected_terminator": "0x41f91b",
+      "observed_terminators": [
+        "0x41f91b"
+      ],
+      "native_read_complete": true,
+      "captures": 253,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 252,
+      "review_images": [
+        "b041_s021_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S022",
+      "case": "b041_s022",
+      "expected_terminator": "0x41f934",
+      "observed_terminators": [
+        "0x41f934"
+      ],
+      "native_read_complete": true,
+      "captures": 262,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 261,
+      "review_images": [
+        "b041_s022_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S023",
+      "case": "b041_s023",
+      "expected_terminator": "0x41f94e",
+      "observed_terminators": [
+        "0x41f94e"
+      ],
+      "native_read_complete": true,
+      "captures": 255,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 254,
+      "review_images": [
+        "b041_s023_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S024",
+      "case": "b041_s024",
+      "expected_terminator": "0x41f975",
+      "observed_terminators": [
+        "0x41f975"
+      ],
+      "native_read_complete": true,
+      "captures": 356,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 355,
+      "review_images": [
+        "b041_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S026",
+      "case": "b041_s026",
+      "expected_terminator": "0x41fa38",
+      "observed_terminators": [
+        "0x41fa38"
+      ],
+      "native_read_complete": true,
+      "captures": 959,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 958,
+      "review_images": [
+        "b041_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S027",
+      "case": "b041_s027",
+      "expected_terminator": "0x41facb",
+      "observed_terminators": [
+        "0x41facb"
+      ],
+      "native_read_complete": true,
+      "captures": 2001,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1998,
+      "review_images": [
+        "b041_s027_00.png",
+        "b041_s027_01.png",
+        "b041_s027_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S028",
+      "case": "b041_s028",
+      "expected_terminator": "0x41fb3c",
+      "observed_terminators": [
+        "0x41fb3c"
+      ],
+      "native_read_complete": true,
+      "captures": 942,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 941,
+      "review_images": [
+        "b041_s028_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S029",
+      "case": "b041_s029",
+      "expected_terminator": "0x41fb51",
+      "observed_terminators": [
+        "0x41fb51"
+      ],
+      "native_read_complete": true,
+      "captures": 169,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 168,
+      "review_images": [
+        "b041_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S031",
+      "case": "b041_s031",
+      "expected_terminator": "0x41fbdd",
+      "observed_terminators": [
+        "0x41fbdd"
+      ],
+      "native_read_complete": true,
+      "captures": 1290,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1288,
+      "review_images": [
+        "b041_s031_00.png",
+        "b041_s031_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S032",
+      "case": "b041_s032",
+      "expected_terminator": "0x41fde9",
+      "observed_terminators": [
+        "0x41fde9"
+      ],
+      "native_read_complete": true,
+      "captures": 2172,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2165,
+      "review_images": [
+        "b041_s032_00.png",
+        "b041_s032_01.png",
+        "b041_s032_02.png",
+        "b041_s032_03.png",
+        "b041_s032_04.png",
+        "b041_s032_05.png",
+        "b041_s032_06.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S033",
+      "case": "b041_s033",
+      "expected_terminator": "0x41fe30",
+      "observed_terminators": [
+        "0x41fe30"
+      ],
+      "native_read_complete": true,
+      "captures": 676,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 675,
+      "review_images": [
+        "b041_s033_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S034",
+      "case": "b041_s034",
+      "expected_terminator": "0x41fe4f",
+      "observed_terminators": [
+        "0x41fe4f"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b041_s034_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S035",
+      "case": "b041_s035",
+      "expected_terminator": "0x41fe75",
+      "observed_terminators": [
+        "0x41fe75"
+      ],
+      "native_read_complete": true,
+      "captures": 346,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 345,
+      "review_images": [
+        "b041_s035_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S057",
+      "case": "b041_s057",
+      "expected_terminator": "0x420610",
+      "observed_terminators": [
+        "0x420610"
+      ],
+      "native_read_complete": true,
+      "captures": 237,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 236,
+      "review_images": [
+        "b041_s057_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S059",
+      "case": "b041_s059",
+      "expected_terminator": "0x420634",
+      "observed_terminators": [
+        "0x420634"
+      ],
+      "native_read_complete": true,
+      "captures": 66,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 65,
+      "review_images": [
+        "b041_s059_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S060",
+      "case": "b041_s060",
+      "expected_terminator": "0x420640",
+      "observed_terminators": [
+        "0x420640"
+      ],
+      "native_read_complete": true,
+      "captures": 84,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 83,
+      "review_images": [
+        "b041_s060_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S061",
+      "case": "b041_s061",
+      "expected_terminator": "0x42064b",
+      "observed_terminators": [
+        "0x42064b"
+      ],
+      "native_read_complete": true,
+      "captures": 75,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 74,
+      "review_images": [
+        "b041_s061_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S062",
+      "case": "b041_s062",
+      "expected_terminator": "0x420657",
+      "observed_terminators": [
+        "0x420657"
+      ],
+      "native_read_complete": true,
+      "captures": 84,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 83,
+      "review_images": [
+        "b041_s062_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S064",
+      "case": "b041_s064",
+      "expected_terminator": "0x420699",
+      "observed_terminators": [
+        "0x420699"
+      ],
+      "native_read_complete": true,
+      "captures": 66,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 65,
+      "review_images": [
+        "b041_s064_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S065",
+      "case": "b041_s065",
+      "expected_terminator": "0x4206a5",
+      "observed_terminators": [
+        "0x4206a5"
+      ],
+      "native_read_complete": true,
+      "captures": 112,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 111,
+      "review_images": [
+        "b041_s065_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S066",
+      "case": "b041_s066",
+      "expected_terminator": "0x4206b0",
+      "observed_terminators": [
+        "0x4206b0"
+      ],
+      "native_read_complete": true,
+      "captures": 103,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 102,
+      "review_images": [
+        "b041_s066_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S067",
+      "case": "b041_s067",
+      "expected_terminator": "0x4206bc",
+      "observed_terminators": [
+        "0x4206bc"
+      ],
+      "native_read_complete": true,
+      "captures": 113,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 112,
+      "review_images": [
+        "b041_s067_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S068",
+      "case": "b041_s068",
+      "expected_terminator": "0x42074d",
+      "observed_terminators": [
+        "0x42074d"
+      ],
+      "native_read_complete": true,
+      "captures": 2104,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2101,
+      "review_images": [
+        "b041_s068_00.png",
+        "b041_s068_01.png",
+        "b041_s068_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S075",
+      "case": "b041_s075",
+      "expected_terminator": "0x42087e",
+      "observed_terminators": [
+        "0x42087e"
+      ],
+      "native_read_complete": true,
+      "captures": 1041,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1039,
+      "review_images": [
+        "b041_s075_00.png",
+        "b041_s075_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S076",
+      "case": "b041_s076",
+      "expected_terminator": "0x4208af",
+      "observed_terminators": [
+        "0x4208af"
+      ],
+      "native_read_complete": true,
+      "captures": 433,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 432,
+      "review_images": [
+        "b041_s076_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S077",
+      "case": "b041_s077",
+      "expected_terminator": "0x42097b",
+      "observed_terminators": [
+        "0x42097b"
+      ],
+      "native_read_complete": true,
+      "captures": 1269,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1266,
+      "review_images": [
+        "b041_s077_00.png",
+        "b041_s077_01.png",
+        "b041_s077_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S081",
+      "case": "b041_s081",
+      "expected_terminator": "0x420d42",
+      "observed_terminators": [
+        "0x420d42"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b041_s081_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S083",
+      "case": "b041_s083",
+      "expected_terminator": "0x420d87",
+      "observed_terminators": [
+        "0x420d87"
+      ],
+      "native_read_complete": true,
+      "captures": 427,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 426,
+      "review_images": [
+        "b041_s083_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S085",
+      "case": "b041_s085",
+      "expected_terminator": "0x420ece",
+      "observed_terminators": [
+        "0x420ece"
+      ],
+      "native_read_complete": true,
+      "captures": 1044,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1040,
+      "review_images": [
+        "b041_s085_00.png",
+        "b041_s085_01.png",
+        "b041_s085_02.png",
+        "b041_s085_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S087",
+      "case": "b041_s087",
+      "expected_terminator": "0x420f28",
+      "observed_terminators": [
+        "0x420f28"
+      ],
+      "native_read_complete": true,
+      "captures": 505,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 504,
+      "review_images": [
+        "b041_s087_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S088",
+      "case": "b041_s088",
+      "expected_terminator": "0x421084",
+      "observed_terminators": [
+        "0x421084"
+      ],
+      "native_read_complete": true,
+      "captures": 1073,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1069,
+      "review_images": [
+        "b041_s088_00.png",
+        "b041_s088_01.png",
+        "b041_s088_02.png",
+        "b041_s088_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S089",
+      "case": "b041_s089",
+      "expected_terminator": "0x4210c1",
+      "observed_terminators": [
+        "0x4210c1"
+      ],
+      "native_read_complete": true,
+      "captures": 544,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 543,
+      "review_images": [
+        "b041_s089_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S090",
+      "case": "b041_s090",
+      "expected_terminator": "0x42118b",
+      "observed_terminators": [
+        "0x42118b"
+      ],
+      "native_read_complete": true,
+      "captures": 1098,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1096,
+      "review_images": [
+        "b041_s090_00.png",
+        "b041_s090_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S091",
+      "case": "b041_s091",
+      "expected_terminator": "0x4212dd",
+      "observed_terminators": [
+        "0x4212dd"
+      ],
+      "native_read_complete": true,
+      "captures": 1125,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1121,
+      "review_images": [
+        "b041_s091_00.png",
+        "b041_s091_01.png",
+        "b041_s091_02.png",
+        "b041_s091_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S092",
+      "case": "b041_s092",
+      "expected_terminator": "0x42130b",
+      "observed_terminators": [
+        "0x42130b"
+      ],
+      "native_read_complete": true,
+      "captures": 424,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 423,
+      "review_images": [
+        "b041_s092_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S093",
+      "case": "b041_s093",
+      "expected_terminator": "0x421348",
+      "observed_terminators": [
+        "0x421348"
+      ],
+      "native_read_complete": true,
+      "captures": 544,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 543,
+      "review_images": [
+        "b041_s093_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S094",
+      "case": "b041_s094",
+      "expected_terminator": "0x4213f5",
+      "observed_terminators": [
+        "0x4213f5"
+      ],
+      "native_read_complete": true,
+      "captures": 1195,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1193,
+      "review_images": [
+        "b041_s094_00.png",
+        "b041_s094_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S099",
+      "case": "b041_s099",
+      "expected_terminator": "0x4215e7",
+      "observed_terminators": [
+        "0x4215e7"
+      ],
+      "native_read_complete": true,
+      "captures": 593,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 592,
+      "review_images": [
+        "b041_s099_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S100",
+      "case": "b041_s100",
+      "expected_terminator": "0x421623",
+      "observed_terminators": [
+        "0x421623"
+      ],
+      "native_read_complete": true,
+      "captures": 593,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 592,
+      "review_images": [
+        "b041_s100_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S101",
+      "case": "b041_s101",
+      "expected_terminator": "0x42167c",
+      "observed_terminators": [
+        "0x42167c"
+      ],
+      "native_read_complete": true,
+      "captures": 838,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 837,
+      "review_images": [
+        "b041_s101_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S102",
+      "case": "b041_s102",
+      "expected_terminator": "0x42175e",
+      "observed_terminators": [
+        "0x42175e"
+      ],
+      "native_read_complete": true,
+      "captures": 2109,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2106,
+      "review_images": [
+        "b041_s102_00.png",
+        "b041_s102_01.png",
+        "b041_s102_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S104",
+      "case": "b041_s104",
+      "expected_terminator": "0x421865",
+      "observed_terminators": [
+        "0x421865"
+      ],
+      "native_read_complete": true,
+      "captures": 982,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 980,
+      "review_images": [
+        "b041_s104_00.png",
+        "b041_s104_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S105",
+      "case": "b041_s105",
+      "expected_terminator": "0x4218a1",
+      "observed_terminators": [
+        "0x4218a1"
+      ],
+      "native_read_complete": true,
+      "captures": 566,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 565,
+      "review_images": [
+        "b041_s105_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S106",
+      "case": "b041_s106",
+      "expected_terminator": "0x4218dd",
+      "observed_terminators": [
+        "0x4218dd"
+      ],
+      "native_read_complete": true,
+      "captures": 567,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 566,
+      "review_images": [
+        "b041_s106_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S108",
+      "case": "b041_s108",
+      "expected_terminator": "0x4219a4",
+      "observed_terminators": [
+        "0x4219a4"
+      ],
+      "native_read_complete": true,
+      "captures": 567,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 566,
+      "review_images": [
+        "b041_s108_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S109",
+      "case": "b041_s109",
+      "expected_terminator": "0x4219df",
+      "observed_terminators": [
+        "0x4219df"
+      ],
+      "native_read_complete": true,
+      "captures": 556,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 555,
+      "review_images": [
+        "b041_s109_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S111",
+      "case": "b041_s111",
+      "expected_terminator": "0x421a37",
+      "observed_terminators": [
+        "0x421a37"
+      ],
+      "native_read_complete": true,
+      "captures": 618,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 617,
+      "review_images": [
+        "b041_s111_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S112",
+      "case": "b041_s112",
+      "expected_terminator": "0x421aa9",
+      "observed_terminators": [
+        "0x421aa9"
+      ],
+      "native_read_complete": true,
+      "captures": 952,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 951,
+      "review_images": [
+        "b041_s112_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S113",
+      "case": "b041_s113",
+      "expected_terminator": "0x421b08",
+      "observed_terminators": [
+        "0x421b08"
+      ],
+      "native_read_complete": true,
+      "captures": 908,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 907,
+      "review_images": [
+        "b041_s113_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S114",
+      "case": "b041_s114",
+      "expected_terminator": "0x421b72",
+      "observed_terminators": [
+        "0x421b72"
+      ],
+      "native_read_complete": true,
+      "captures": 997,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 996,
+      "review_images": [
+        "b041_s114_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S118",
+      "case": "b041_s118",
+      "expected_terminator": "0x421c3c",
+      "observed_terminators": [
+        "0x421c3c"
+      ],
+      "native_read_complete": true,
+      "captures": 271,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 270,
+      "review_images": [
+        "b041_s118_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S119",
+      "case": "b041_s119",
+      "expected_terminator": "0x421c5f",
+      "observed_terminators": [
+        "0x421c5f"
+      ],
+      "native_read_complete": true,
+      "captures": 307,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 306,
+      "review_images": [
+        "b041_s119_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S120",
+      "case": "b041_s120",
+      "expected_terminator": "0x421ca3",
+      "observed_terminators": [
+        "0x421ca3"
+      ],
+      "native_read_complete": true,
+      "captures": 604,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 603,
+      "review_images": [
+        "b041_s120_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S122",
+      "case": "b041_s122",
+      "expected_terminator": "0x421d0b",
+      "observed_terminators": [
+        "0x421d0b"
+      ],
+      "native_read_complete": true,
+      "captures": 271,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 270,
+      "review_images": [
+        "b041_s122_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S123",
+      "case": "b041_s123",
+      "expected_terminator": "0x421d79",
+      "observed_terminators": [
+        "0x421d79"
+      ],
+      "native_read_complete": true,
+      "captures": 974,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 973,
+      "review_images": [
+        "b041_s123_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S124",
+      "case": "b041_s124",
+      "expected_terminator": "0x421db0",
+      "observed_terminators": [
+        "0x421db0"
+      ],
+      "native_read_complete": true,
+      "captures": 490,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 489,
+      "review_images": [
+        "b041_s124_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S143",
+      "case": "b041_s143",
+      "expected_terminator": "0x421e8a",
+      "observed_terminators": [
+        "0x421e8a"
+      ],
+      "native_read_complete": true,
+      "captures": 266,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 265,
+      "review_images": [
+        "b041_s143_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S006",
+      "case": "b066_s006",
+      "expected_terminator": "0x42eda5",
+      "observed_terminators": [
+        "0x42eda5"
+      ],
+      "native_read_complete": true,
+      "captures": 1519,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1517,
+      "review_images": [
+        "b066_s006_00.png",
+        "b066_s006_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S007",
+      "case": "b066_s007",
+      "expected_terminator": "0x42edcf",
+      "observed_terminators": [
+        "0x42edcf"
+      ],
+      "native_read_complete": true,
+      "captures": 354,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 353,
+      "review_images": [
+        "b066_s007_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S008",
+      "case": "b066_s008",
+      "expected_terminator": "0x42ede1",
+      "observed_terminators": [
+        "0x42ede1"
+      ],
+      "native_read_complete": true,
+      "captures": 138,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 137,
+      "review_images": [
+        "b066_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S009",
+      "case": "b066_s009",
+      "expected_terminator": "0x42ee08",
+      "observed_terminators": [
+        "0x42ee08"
+      ],
+      "native_read_complete": true,
+      "captures": 327,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 326,
+      "review_images": [
+        "b066_s009_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S040",
+      "case": "b066_s040",
+      "expected_terminator": "0x4306db",
+      "observed_terminators": [
+        "0x4306db"
+      ],
+      "native_read_complete": true,
+      "captures": 2124,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2121,
+      "review_images": [
+        "b066_s040_00.png",
+        "b066_s040_01.png",
+        "b066_s040_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S111",
+      "case": "b066_s111",
+      "expected_terminator": "0x432a6c",
+      "observed_terminators": [
+        "0x432a6c"
+      ],
+      "native_read_complete": true,
+      "captures": 1248,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1245,
+      "review_images": [
+        "b066_s111_00.png",
+        "b066_s111_01.png",
+        "b066_s111_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S119",
+      "case": "b066_s119",
+      "expected_terminator": "0x432dd9",
+      "observed_terminators": [
+        "0x432dd9"
+      ],
+      "native_read_complete": true,
+      "captures": 1013,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1011,
+      "review_images": [
+        "b066_s119_00.png",
+        "b066_s119_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B066-S127",
+      "case": "b066_s127",
+      "expected_terminator": "0x4333f7",
+      "observed_terminators": [
+        "0x4333f7"
+      ],
+      "native_read_complete": true,
+      "captures": 2018,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2015,
+      "review_images": [
+        "b066_s127_00.png",
+        "b066_s127_01.png",
+        "b066_s127_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S056",
+      "case": "b095_s056",
+      "expected_terminator": "0x448b4d",
+      "observed_terminators": [
+        "0x448b4d"
+      ],
+      "native_read_complete": true,
+      "captures": 1148,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1145,
+      "review_images": [
+        "b095_s056_00.png",
+        "b095_s056_01.png",
+        "b095_s056_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B095-S180",
+      "case": "b095_s180",
+      "expected_terminator": "0x44c0e4",
+      "observed_terminators": [
+        "0x44c0e4"
+      ],
+      "native_read_complete": true,
+      "captures": 953,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 950,
+      "review_images": [
+        "b095_s180_00.png",
+        "b095_s180_01.png",
+        "b095_s180_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S020",
+      "case": "b096_s020",
+      "expected_terminator": "0x44e008",
+      "observed_terminators": [
+        "0x44e008"
+      ],
+      "native_read_complete": true,
+      "captures": 928,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 926,
+      "review_images": [
+        "b096_s020_00.png",
+        "b096_s020_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S024",
+      "case": "b096_s024",
+      "expected_terminator": "0x44e170",
+      "observed_terminators": [
+        "0x44e170"
+      ],
+      "native_read_complete": true,
+      "captures": 611,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 610,
+      "review_images": [
+        "b096_s024_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S025",
+      "case": "b096_s025",
+      "expected_terminator": "0x44e1ae",
+      "observed_terminators": [
+        "0x44e1ae"
+      ],
+      "native_read_complete": true,
+      "captures": 344,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 343,
+      "review_images": [
+        "b096_s025_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S026",
+      "case": "b096_s026",
+      "expected_terminator": "0x44e24c",
+      "observed_terminators": [
+        "0x44e24c"
+      ],
+      "native_read_complete": true,
+      "captures": 835,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 834,
+      "review_images": [
+        "b096_s026_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S027",
+      "case": "b096_s027",
+      "expected_terminator": "0x44e29c",
+      "observed_terminators": [
+        "0x44e29c"
+      ],
+      "native_read_complete": true,
+      "captures": 1152,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1151,
+      "review_images": [
+        "b096_s027_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B096-S029",
+      "case": "b096_s029",
+      "expected_terminator": "0x44e365",
+      "observed_terminators": [
+        "0x44e365"
+      ],
+      "native_read_complete": true,
+      "captures": 1382,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1380,
+      "review_images": [
+        "b096_s029_00.png",
+        "b096_s029_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B102-S001",
+      "case": "b102_s001",
+      "expected_terminator": "0x45520c",
+      "observed_terminators": [
+        "0x45520c"
+      ],
+      "native_read_complete": true,
+      "captures": 624,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 623,
+      "review_images": [
+        "b102_s001_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B102-S003",
+      "case": "b102_s003",
+      "expected_terminator": "0x455595",
+      "observed_terminators": [
+        "0x455595"
+      ],
+      "native_read_complete": true,
+      "captures": 519,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 517,
+      "review_images": [
+        "b102_s003_00.png",
+        "b102_s003_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B130-S019",
+      "case": "b130_s019",
+      "expected_terminator": "0x460c9b",
+      "observed_terminators": [
+        "0x460c9b"
+      ],
+      "native_read_complete": true,
+      "captures": 972,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 969,
+      "review_images": [
+        "b130_s019_00.png",
+        "b130_s019_01.png",
+        "b130_s019_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S095",
+      "case": "b132_s095",
+      "expected_terminator": "0x4b3750",
+      "observed_terminators": [
+        "0x4b3750"
+      ],
+      "native_read_complete": true,
+      "captures": 2111,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2108,
+      "review_images": [
+        "b132_s095_00.png",
+        "b132_s095_01.png",
+        "b132_s095_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S096",
+      "case": "b132_s096",
+      "expected_terminator": "0x4b37bf",
+      "observed_terminators": [
+        "0x4b37bf"
+      ],
+      "native_read_complete": true,
+      "captures": 894,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 893,
+      "review_images": [
+        "b132_s096_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B132-S126",
+      "case": "b132_s126",
+      "expected_terminator": "0x4b4463",
+      "observed_terminators": [
+        "0x4b4463"
+      ],
+      "native_read_complete": true,
+      "captures": 770,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 769,
+      "review_images": [
+        "b132_s126_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B184-S008",
+      "case": "b184_s008",
+      "expected_terminator": "0x4859a3",
+      "observed_terminators": [
+        "0x4859a3"
+      ],
+      "native_read_complete": true,
+      "captures": 1991,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1986,
+      "review_images": [
+        "b184_s008_00.png",
+        "b184_s008_01.png",
+        "b184_s008_02.png",
+        "b184_s008_03.png",
+        "b184_s008_04.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B184-S010",
+      "case": "b184_s010",
+      "expected_terminator": "0x485b52",
+      "observed_terminators": [
+        "0x485b52"
+      ],
+      "native_read_complete": true,
+      "captures": 535,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 533,
+      "review_images": [
+        "b184_s010_00.png",
+        "b184_s010_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S001",
+      "case": "b189_s001",
+      "expected_terminator": "0x487461",
+      "observed_terminators": [
+        "0x487461"
+      ],
+      "native_read_complete": true,
+      "captures": 1088,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1086,
+      "review_images": [
+        "b189_s001_00.png",
+        "b189_s001_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B189-S002",
+      "case": "b189_s002",
+      "expected_terminator": "0x487566",
+      "observed_terminators": [
+        "0x487566"
+      ],
+      "native_read_complete": true,
+      "captures": 2077,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2073,
+      "review_images": [
+        "b189_s002_00.png",
+        "b189_s002_01.png",
+        "b189_s002_02.png",
+        "b189_s002_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B194-S006",
+      "case": "b194_s006",
+      "expected_terminator": "0x488a80",
+      "observed_terminators": [
+        "0x488a80"
+      ],
+      "native_read_complete": true,
+      "captures": 2027,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2024,
+      "review_images": [
+        "b194_s006_00.png",
+        "b194_s006_01.png",
+        "b194_s006_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B194-S009",
+      "case": "b194_s009",
+      "expected_terminator": "0x488d6e",
+      "observed_terminators": [
+        "0x488d6e"
+      ],
+      "native_read_complete": true,
+      "captures": 631,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 627,
+      "review_images": [
+        "b194_s009_00.png",
+        "b194_s009_01.png",
+        "b194_s009_02.png",
+        "b194_s009_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S002",
+      "case": "b197_s002",
+      "expected_terminator": "0x4895b4",
+      "observed_terminators": [
+        "0x4895b4"
+      ],
+      "native_read_complete": true,
+      "captures": 881,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 880,
+      "review_images": [
+        "b197_s002_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S003",
+      "case": "b197_s003",
+      "expected_terminator": "0x48965b",
+      "observed_terminators": [
+        "0x48965b"
+      ],
+      "native_read_complete": true,
+      "captures": 2027,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 2024,
+      "review_images": [
+        "b197_s003_00.png",
+        "b197_s003_01.png",
+        "b197_s003_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S013",
+      "case": "b197_s013",
+      "expected_terminator": "0x489de7",
+      "observed_terminators": [
+        "0x489de7"
+      ],
+      "native_read_complete": true,
+      "captures": 160,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 159,
+      "review_images": [
+        "b197_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S014",
+      "case": "b197_s014",
+      "expected_terminator": "0x489e42",
+      "observed_terminators": [
+        "0x489e42"
+      ],
+      "native_read_complete": true,
+      "captures": 781,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 780,
+      "review_images": [
+        "b197_s014_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S018",
+      "case": "b197_s018",
+      "expected_terminator": "0x489f9b",
+      "observed_terminators": [
+        "0x489f9b"
+      ],
+      "native_read_complete": true,
+      "captures": 715,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 714,
+      "review_images": [
+        "b197_s018_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B197-S027",
+      "case": "b197_s027",
+      "expected_terminator": "0x48a33a",
+      "observed_terminators": [
+        "0x48a33a"
+      ],
+      "native_read_complete": true,
+      "captures": 928,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 925,
+      "review_images": [
+        "b197_s027_00.png",
+        "b197_s027_01.png",
+        "b197_s027_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B201-S006",
+      "case": "b201_s006",
+      "expected_terminator": "0x48a829",
+      "observed_terminators": [
+        "0x48a829"
+      ],
+      "native_read_complete": true,
+      "captures": 1065,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1063,
+      "review_images": [
+        "b201_s006_00.png",
+        "b201_s006_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B201-S008",
+      "case": "b201_s008",
+      "expected_terminator": "0x48a8c9",
+      "observed_terminators": [
+        "0x48a8c9"
+      ],
+      "native_read_complete": true,
+      "captures": 871,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 870,
+      "review_images": [
+        "b201_s008_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B205-S053",
+      "case": "b205_s053",
+      "expected_terminator": "0x48cb2e",
+      "observed_terminators": [
+        "0x48cb2e"
+      ],
+      "native_read_complete": true,
+      "captures": 923,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 922,
+      "review_images": [
+        "b205_s053_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B229-S012",
+      "case": "b229_s012",
+      "expected_terminator": "0x4a0096",
+      "observed_terminators": [
+        "0x4a0096"
+      ],
+      "native_read_complete": true,
+      "captures": 562,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 561,
+      "review_images": [
+        "b229_s012_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B231-S010",
+      "case": "b231_s010",
+      "expected_terminator": "0x4a104a",
+      "observed_terminators": [
+        "0x4a104a"
+      ],
+      "native_read_complete": true,
+      "captures": 886,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 885,
+      "review_images": [
+        "b231_s010_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B231-S013",
+      "case": "b231_s013",
+      "expected_terminator": "0x4a1106",
+      "observed_terminators": [
+        "0x4a1106"
+      ],
+      "native_read_complete": true,
+      "captures": 299,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 298,
+      "review_images": [
+        "b231_s013_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B231-S029",
+      "case": "b231_s029",
+      "expected_terminator": "0x4a15b1",
+      "observed_terminators": [
+        "0x4a15b1"
+      ],
+      "native_read_complete": true,
+      "captures": 192,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 191,
+      "review_images": [
+        "b231_s029_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B234-S050",
+      "case": "b234_s050",
+      "expected_terminator": "0x4a3cda",
+      "observed_terminators": [
+        "0x4a3cda"
+      ],
+      "native_read_complete": true,
+      "captures": 956,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 955,
+      "review_images": [
+        "b234_s050_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B235-S008",
+      "case": "b235_s008",
+      "expected_terminator": "0x4a523a",
+      "observed_terminators": [
+        "0x4a523a"
+      ],
+      "native_read_complete": true,
+      "captures": 1144,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1142,
+      "review_images": [
+        "b235_s008_00.png",
+        "b235_s008_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B252-S018",
+      "case": "b252_s018",
+      "expected_terminator": "0x4aaef0",
+      "observed_terminators": [
+        "0x4aaef0"
+      ],
+      "native_read_complete": true,
+      "captures": 1132,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1130,
+      "review_images": [
+        "b252_s018_00.png",
+        "b252_s018_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B252-S019",
+      "case": "b252_s019",
+      "expected_terminator": "0x4aafd7",
+      "observed_terminators": [
+        "0x4aafd7"
+      ],
+      "native_read_complete": true,
+      "captures": 1909,
+      "visual_review": "Reviewed selected captures from exact corrected V50 ROM: readable glyphs, no line overflow; preserved source choice rows/columns. Partial/repeated frames and short page endings retained.",
+      "intermediate_frames_removed": 1906,
+      "review_images": [
+        "b252_s019_00.png",
+        "b252_s019_01.png",
+        "b252_s019_02.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 582,
+  "visual_review": {
+    "status": "passed",
+    "dialogue_captures": 582,
+    "system_captures": 5,
+    "method": "All 17 final-ROM contact sheets and five full system images inspected. Choice columns match source within one pixel; first option row matches source exactly. All 300 exact native terminators pass.",
+    "observation": "No missing glyphs, line overflow or wholly blank final pages observed. Choice pagination corrected before this complete fresh replay. Short page endings and partial/repeated images remain. Staged 04 values sometimes contain Higan and do not validate real amounts, timers, selector branches, event progression or musical timing."
+  }
+}
