@@ -1,12 +1,12 @@
 {
   "lot": 46,
   "target": 400,
-  "new_distinct_texts": 52,
+  "new_distinct_texts": 83,
   "corrections": 0,
   "previous_entries_preserved": 4987,
-  "integrated_entries_checkpoint": 5039,
+  "integrated_entries_checkpoint": 5070,
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
   "checks": [
     {
       "id": "B018-S122",
@@ -14,7 +14,8 @@
         201,
         91
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -23,7 +24,8 @@
         123,
         119
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -32,7 +34,8 @@
         162,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -41,7 +44,8 @@
         162,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -50,7 +54,8 @@
         161,
         107
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -59,7 +64,8 @@
         159,
         128
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -68,7 +74,8 @@
         161,
         155
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -77,7 +84,8 @@
         95,
         134
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -86,7 +94,8 @@
         0,
         98
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -95,7 +104,8 @@
         151,
         131
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -104,7 +114,8 @@
         111,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -113,7 +124,8 @@
         132,
         72
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -122,7 +134,8 @@
         0,
         156
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -131,7 +144,8 @@
         178,
         153
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -140,7 +154,8 @@
         185,
         142
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -149,7 +164,8 @@
         133,
         88
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -158,7 +174,8 @@
         162,
         151
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -167,7 +184,8 @@
         167,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -176,7 +194,8 @@
         123,
         73
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -185,7 +204,8 @@
         0,
         124
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -194,7 +214,8 @@
         154,
         158
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -203,7 +224,8 @@
         178,
         81
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -212,7 +234,8 @@
         0,
         148
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -221,7 +244,8 @@
         159,
         116
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -230,7 +254,8 @@
         152,
         156
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -239,7 +264,8 @@
         160,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -248,7 +274,8 @@
         188,
         91
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -257,7 +284,8 @@
         194,
         150
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -266,7 +294,8 @@
         208,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -275,7 +304,8 @@
         208,
         144
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -284,7 +314,8 @@
         176,
         154
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -293,7 +324,8 @@
         0,
         96
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -302,7 +334,8 @@
         199,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -311,7 +344,8 @@
         171,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -320,7 +354,8 @@
         179,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -329,7 +364,8 @@
         208,
         173
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -338,7 +374,8 @@
         0,
         156
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -347,7 +384,8 @@
         120,
         151
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -356,7 +394,8 @@
         173,
         76
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -365,7 +404,8 @@
         0,
         148
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -374,7 +414,8 @@
         155,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -383,7 +424,8 @@
         0,
         94
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -392,7 +434,8 @@
         165,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -401,7 +444,8 @@
         138,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -410,7 +454,8 @@
         175,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -419,7 +464,8 @@
         213,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -428,7 +474,8 @@
         201,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -437,7 +484,8 @@
         193,
         165
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -446,7 +494,8 @@
         141,
         59
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -455,7 +504,8 @@
         192,
         119
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -464,7 +514,8 @@
         167,
         0
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
       "source_and_output_native_read": true
     },
     {
@@ -473,7 +524,609 @@
         204,
         143
       ],
-      "two_rows_and_empty_rows_preserved": true,
+      "calendar_two_rows_and_empty_rows_preserved": true,
+      "numeric_contract": null,
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S087",
+      "widths": [
+        183,
+        170
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S088",
+      "widths": [
+        183,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S090",
+      "widths": [
+        137,
+        186
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S091",
+      "widths": [
+        197,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S096",
+      "widths": [
+        196,
+        129
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S097",
+      "widths": [
+        199,
+        37
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S106",
+      "widths": [
+        200,
+        34,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B029-S107",
+      "widths": [
+        210,
+        127,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S012",
+      "widths": [
+        197
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S013",
+      "widths": [
+        175
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S014",
+      "widths": [
+        200,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B037-S015",
+      "widths": [
+        200,
+        35
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B038-S003",
+      "widths": [
+        0,
+        143
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B038-S013",
+      "widths": [
+        212,
+        112
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B040-S054",
+      "widths": [
+        208,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S015",
+      "widths": [
+        189,
+        141,
+        0,
+        141
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S030",
+      "widths": [
+        166,
+        204
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S072",
+      "widths": [
+        204,
+        128
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05",
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S073",
+      "widths": [
+        211,
+        33
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "06",
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S074",
+      "widths": [
+        152
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "07"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S084",
+      "widths": [
+        214
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B041-S086",
+      "widths": [
+        189,
+        36
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S023",
+      "widths": [
+        159,
+        0,
+        0,
+        201,
+        198,
+        185
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S025",
+      "widths": [
+        169,
+        0,
+        0,
+        210,
+        135,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S026",
+      "widths": [
+        182,
+        207,
+        210,
+        180,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S027",
+      "widths": [
+        186,
+        0,
+        0,
+        213,
+        214,
+        208,
+        216,
+        60,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S028",
+      "widths": [
+        169,
+        129,
+        0,
+        204,
+        208,
+        156,
+        0,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B097-S104",
+      "widths": [
+        168
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B186-S015",
+      "widths": [
+        188,
+        88
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "04",
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B202-S005",
+      "widths": [
+        81,
+        214,
+        22,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "04",
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
+      "source_and_output_native_read": true
+    },
+    {
+      "id": "B202-S008",
+      "widths": [
+        114,
+        0,
+        0
+      ],
+      "calendar_two_rows_and_empty_rows_preserved": "not_calendar",
+      "numeric_contract": {
+        "commands": [
+          "05"
+        ],
+        "reservation_pixels_per_numeric_slot": 56,
+        "producer_proof": "numeric_producer_lot46.json",
+        "expected_role": "unsigned numeric value according to the source text",
+        "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+      },
       "source_and_output_native_read": true
     }
   ],

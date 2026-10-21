@@ -1,0 +1,80 @@
+{
+  "scope": "Points réservés à la relecture linguistique et aux traces des événements ; aucune correction intégrée par ce registre.",
+  "corrections_integrated": 0,
+  "points": [
+    {
+      "entries": [
+        "B029-S087",
+        "B029-S088",
+        "B029-S090",
+        "B029-S091",
+        "B029-S096",
+        "B029-S097",
+        "B029-S106",
+        "B029-S107",
+        "B041-S015",
+        "B041-S030",
+        "B041-S072",
+        "B041-S073",
+        "B041-S074",
+        "B041-S084",
+        "B041-S086",
+        "B097-S023",
+        "B097-S025",
+        "B097-S026",
+        "B097-S027",
+        "B097-S028",
+        "B097-S104",
+        "B186-S015"
+      ],
+      "check": "Vérifier les accords singulier/pluriel si la valeur 1 est réellement atteignable dans chaque branche. Préférer des libellés de quantité ou des unités abrégées si le moteur ne permet pas de flexion.",
+      "status": "singular_agreement_defects_observed_in_synthetic_renders; actual_reachability_pending",
+      "synthetic_profile": "one",
+      "not_a_completion_claim": true
+    },
+    {
+      "entries": [
+        "B029-S087",
+        "B029-S088",
+        "B029-S090",
+        "B029-S091",
+        "B029-S096",
+        "B029-S097",
+        "B029-S106",
+        "B029-S107",
+        "B037-S012",
+        "B037-S013",
+        "B037-S014",
+        "B037-S015",
+        "B038-S003",
+        "B038-S013",
+        "B040-S054",
+        "B041-S015",
+        "B041-S030",
+        "B041-S072",
+        "B041-S073",
+        "B041-S074",
+        "B041-S084",
+        "B041-S086",
+        "B097-S023",
+        "B097-S025",
+        "B097-S026",
+        "B097-S027",
+        "B097-S028",
+        "B097-S104",
+        "B186-S015",
+        "B202-S005",
+        "B202-S008"
+      ],
+      "check": "Tracer la liaison de chaque substitution au producteur réel ; ne pas confondre les profils injectés avec des valeurs produites par les événements.",
+      "status": "pending_natural_paths"
+    },
+    {
+      "entries": [
+        "B018-S122"
+      ],
+      "check": "Relecture finale de fidélité : la source dit nuclear power plant ; vérifier le choix réacteur/centrale sans révision historique de la source.",
+      "status": "phase3_pending"
+    }
+  ]
+}

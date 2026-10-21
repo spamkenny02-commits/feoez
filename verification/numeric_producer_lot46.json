@@ -1,0 +1,23 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "routine": "C3:2AD3 including C1:0450 decimal conversion and C0:29A1 multiply",
+  "tested_values_per_slot": 535,
+  "slots": 4,
+  "executions_passed": 2140,
+  "input_range_supported": "unsigned 24-bit; tests cover all 8-bit values, decimal/binary boundaries and deterministic samples, not all 24-bit inputs",
+  "maximum_observed_digits": 8,
+  "maximum_observed_pixels": 53,
+  "eight_widest_digits_reservation_pixels": 56,
+  "widest_digit": "0",
+  "scope": "Numeric producer and slot write behavior only. IO multiplication is modeled without cycle timing. No actual event producer binding or natural gameplay claim.",
+  "cases_for_fixtures": {
+    "zero": 0,
+    "one": 1,
+    "max24": 16777215
+  },
+  "limitations": [
+    "A numeric width contract applies only to the selected entries whose source text calls for a number.",
+    "Actual event call paths must still be traced before a final validated release.",
+    "No numeric bound is applied to item names, character names, dates/ordinals, choices or other special formats."
+  ]
+}

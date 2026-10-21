@@ -6,19 +6,27 @@ Checks that the native reader reaches the exact target terminator; captures ever
 """
 import argparse,json,subprocess,sys,os,hashlib,re,concurrent.futures
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--cases',type=Path);p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--workers',type=int,choices=range(1,5),default=1);p.add_argument('--compact',action='store_true',help='Retain only the last screenshot of each page after a case passes');p.add_argument('--auto-close-captures',action='store_true',help='With --compact, retain text-bearing frames before automatic window closure');a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--cases',type=Path);p.add_argument('--core',type=Path,required=True);p.add_argument('--rom',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--workers',type=int,choices=range(1,5),default=1);p.add_argument('--compact',action='store_true',help='Retain only the last screenshot of each page after a case passes');p.add_argument('--auto-close-captures',action='store_true',help='With --compact, retain text-bearing frames before automatic window closure');p.add_argument('--slot-fixtures',type=Path,help='Synthetic text-slot hex by case name, opt-in diagnostic core only');a=p.parse_args()
 if a.auto_close_captures and not a.compact:p.error('--auto-close-captures requires --compact')
 from capture_selection import selected_pages
 root=Path(__file__).resolve().parents[2];sys.path.insert(0,str(root/'tools'))
 from cpu65816_probe import CPU
 rom=a.rom.read_bytes();cases=[(136,10,'pierre_grue'),(138,7,'lettre_puits'),(139,37,'remise_20'),(141,1,'omine_poche'),(141,12,'omine_sauvetage'),(140,3,'sara_accueil'),(140,8,'sara_nom'),(140,17,'tenjin_rejoint'),(140,35,'parchemins'),(140,42,'tenjin_presentation'),(143,1,'statue_sara'),(146,1,'statue_alias')]
 if a.cases:cases=json.loads(a.cases.read_text())
+fixtures=json.loads(a.slot_fixtures.read_text()) if a.slot_fixtures else {}
+assert set(fixtures)<=set(c[2] for c in cases)
 assert all(1<=b<=253 and 1<=i<=255 and re.fullmatch(r'[a-z0-9_]+',n) for b,i,n in cases)
 a.out.mkdir(parents=True,exist_ok=True);results=[]
 def run_case(case):
  bid,idx,name=case
  cpu=CPU(rom);cpu.load_block(bid);start=cpu.select(idx);raw=cpu.string();expected_end=start+len(raw)
- out=a.out/name;out.mkdir(exist_ok=True);env=dict(os.environ,FEOE_TEST_BLOCK=str(bid),FEOE_TEST_STRING=str(idx));proc=subprocess.Popen([sys.executable,str(Path(__file__).parent/'libretro_runner.py'),'--core',str(a.core.resolve()),'--rom',str(a.rom.resolve()),'--out',str(out.resolve()),'--history-every','50'],stdin=subprocess.PIPE,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,env=env,bufsize=1)
+ out=a.out/name;out.mkdir(exist_ok=True);env=dict(os.environ,FEOE_TEST_BLOCK=str(bid),FEOE_TEST_STRING=str(idx))
+ for slot in range(4):env.pop(f'FEOE_TEST_SLOT{slot}_HEX',None)
+ slot_fixture=fixtures.get(name,{})
+ for slot,raw_hex in slot_fixture.get('slots',{}).items():
+  assert slot in ('0','1','2','3') and re.fullmatch(r'(?:[0-9a-f]{2}){1,31}',raw_hex)
+  env[f'FEOE_TEST_SLOT{slot}_HEX']=raw_hex
+ proc=subprocess.Popen([sys.executable,str(Path(__file__).parent/'libretro_runner.py'),'--core',str(a.core.resolve()),'--rom',str(a.rom.resolve()),'--out',str(out.resolve()),'--history-every','50'],stdin=subprocess.PIPE,stdout=subprocess.PIPE,stderr=subprocess.STDOUT,text=True,env=env,bufsize=1)
  log=[];terminators=[];reader_sites=[]
  def send(cmd):
   proc.stdin.write(json.dumps(cmd)+'\n');proc.stdin.flush()
@@ -46,6 +54,12 @@ def run_case(case):
   send({'frames':1,'buttons':['A']})
  send({'quit':True});proc.stdin.close();proc.wait(timeout=10);(out/'console.log').write_text(''.join(log))
  passed=terminators==[expected_end];result={'entry':f'B{bid:03}-S{idx:03}','case':name,'expected_terminator':hex(expected_end),'observed_terminators':[hex(x) for x in terminators],'native_read_complete':passed,'captures':len(frames),'native_reader_sites':reader_sites,'visual_review':'pending','images':[r['image']['path'] for r in frames]}
+ if slot_fixture:
+  for slot,raw_hex in slot_fixture['slots'].items():
+   assert f'synthetic_slot={slot} hex={raw_hex}' in ''.join(log)
+   observed=re.findall(rf'consumed_slot={slot} hex=([0-9a-f]+)', ''.join(log))
+   assert observed and all(v==raw_hex for v in observed),(name,slot,raw_hex,observed)
+  result['synthetic_slot_fixture']=slot_fixture;result['event_values_validated']=False
  if not passed:raise AssertionError(result)
  if a.compact:
   # Exactly the same per-page selection used by collect_evidence.py.

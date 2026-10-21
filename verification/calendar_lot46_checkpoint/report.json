@@ -1,6 +1,6 @@
 {
-  "checkpoint": "lot46p52",
-  "rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "checkpoint": "lot46p83",
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
   "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
   "scope": "Real Almanac opened through controller input from a fresh same-ROM field state.",
   "date_observed": "1995-12-22",

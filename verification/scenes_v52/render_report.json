@@ -1,8 +1,8 @@
 {
   "workers": 4,
-  "rom_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
   "diagnostic_core_sha256": "5b7675c9c643db53930ea488d962d663040f8f39e26d02cc0ea0faea9d9dae6d",
-  "state_sha256": "f383850730b10e695525c53909ab6779dbb1f77dd0b9dfb32fbcaf28d1c3d4e9",
+  "state_sha256": "d1436e047acb5c43ce2593374f68dc8d82d44d58a48e69efacf18f603392c414",
   "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
   "cases": [
     {
@@ -17,7 +17,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 569,
       "review_images": [
@@ -37,7 +37,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 473,
       "review_images": [
@@ -57,7 +57,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 326,
       "review_images": [
@@ -77,7 +77,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 327,
       "review_images": [
@@ -97,7 +97,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 515,
       "review_images": [
@@ -117,7 +117,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 607,
       "review_images": [
@@ -137,7 +137,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 661,
       "review_images": [
@@ -157,7 +157,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 465,
       "review_images": [
@@ -177,7 +177,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 211,
       "review_images": [
@@ -197,7 +197,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 580,
       "review_images": [
@@ -217,7 +217,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 229,
       "review_images": [
@@ -237,7 +237,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 427,
       "review_images": [
@@ -257,7 +257,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 337,
       "review_images": [
@@ -277,7 +277,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 686,
       "review_images": [
@@ -297,7 +297,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 605,
       "review_images": [
@@ -317,7 +317,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 409,
       "review_images": [
@@ -337,7 +337,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 598,
       "review_images": [
@@ -357,7 +357,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 335,
       "review_images": [
@@ -377,7 +377,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 400,
       "review_images": [
@@ -397,7 +397,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 264,
       "review_images": [
@@ -417,7 +417,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 661,
       "review_images": [
@@ -437,7 +437,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 526,
       "review_images": [
@@ -457,7 +457,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 328,
       "review_images": [
@@ -477,7 +477,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 571,
       "review_images": [
@@ -497,7 +497,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 643,
       "review_images": [
@@ -517,7 +517,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 317,
       "review_images": [
@@ -537,7 +537,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 545,
       "review_images": [
@@ -557,7 +557,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 677,
       "review_images": [
@@ -577,7 +577,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 407,
       "review_images": [
@@ -597,7 +597,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 724,
       "review_images": [
@@ -617,7 +617,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 670,
       "review_images": [
@@ -637,7 +637,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 211,
       "review_images": [
@@ -657,7 +657,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 427,
       "review_images": [
@@ -677,7 +677,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 391,
       "review_images": [
@@ -697,7 +697,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 373,
       "review_images": [
@@ -717,7 +717,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 787,
       "review_images": [
@@ -737,7 +737,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 290,
       "review_images": [
@@ -757,7 +757,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 543,
       "review_images": [
@@ -777,7 +777,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 489,
       "review_images": [
@@ -797,7 +797,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 290,
       "review_images": [
@@ -817,7 +817,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 299,
       "review_images": [
@@ -837,7 +837,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 173,
       "review_images": [
@@ -857,7 +857,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 345,
       "review_images": [
@@ -877,7 +877,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 283,
       "review_images": [
@@ -897,7 +897,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 373,
       "review_images": [
@@ -917,7 +917,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 445,
       "review_images": [
@@ -937,7 +937,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 427,
       "review_images": [
@@ -957,7 +957,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 742,
       "review_images": [
@@ -977,7 +977,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 436,
       "review_images": [
@@ -997,7 +997,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 615,
       "review_images": [
@@ -1017,7 +1017,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 310,
       "review_images": [
@@ -1037,7 +1037,7 @@
       "native_reader_sites": [
         "c02c6e"
       ],
-      "visual_review": "passed: text, accents, two rows, preserved empty rows, no clipping in staged native window",
+      "visual_review": "52 fresh native calendar captures reviewed; no clipping observed",
       "capture_selection": "last text-bearing frame per native page, before automatic closure",
       "intermediate_frames_removed": 679,
       "review_images": [
@@ -1047,5 +1047,5 @@
     }
   ],
   "selected_captures": 52,
-  "visual_review": "52/52 selected native text captures reviewed"
+  "visual_review": "52/52 new-ROM native images inspected"
 }

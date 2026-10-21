@@ -1,0 +1,291 @@
+{
+  "B029-S087": {
+    "commands": [
+      "06",
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S088": {
+    "commands": [
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S090": {
+    "commands": [
+      "06",
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S091": {
+    "commands": [
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S096": {
+    "commands": [
+      "06",
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S097": {
+    "commands": [
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S106": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B029-S107": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B037-S012": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B037-S013": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B037-S014": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B037-S015": {
+    "commands": [
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B038-S003": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B038-S013": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B040-S054": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S015": {
+    "commands": [
+      "05",
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S030": {
+    "commands": [
+      "05",
+      "06"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S072": {
+    "commands": [
+      "05",
+      "06",
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S073": {
+    "commands": [
+      "06",
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S074": {
+    "commands": [
+      "07"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S084": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B041-S086": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S023": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S025": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S026": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S027": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S028": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B097-S104": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B186-S015": {
+    "commands": [
+      "04",
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B202-S005": {
+    "commands": [
+      "04",
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  },
+  "B202-S008": {
+    "commands": [
+      "05"
+    ],
+    "reservation_pixels_per_numeric_slot": 56,
+    "producer_proof": "numeric_producer_lot46.json",
+    "expected_role": "unsigned numeric value according to the source text",
+    "actual_event_producer_binding": "pending; synthetic fixtures do not prove it"
+  }
+}

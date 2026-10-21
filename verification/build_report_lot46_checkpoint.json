@@ -1,12 +1,12 @@
 {
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "8f7a7b7859047169a2390b45d797e4234d8cba352b146e220d3ae6a5f90153bd",
-  "translated_entries": 5039,
-  "new_entries": 52,
+  "output_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
+  "translated_entries": 5070,
+  "new_entries": 83,
   "previously_integrated": 4987,
   "release_status": "partial_checkpoint_requires_separate_runtime_report",
-  "new_nonempty_texts": 52,
-  "new_changed_entries": 52,
+  "new_nonempty_texts": 83,
+  "new_changed_entries": 83,
   "new_passthrough_entries": 0,
   "new_empty_entries_preserved": 0,
   "startup_text_occurrences": 32,
@@ -303,7 +303,7 @@
     }
   ],
   "internal_backup_signature_preserved": true,
-  "integrated_entries": 5039,
+  "integrated_entries": 5070,
   "blocks": [
     {
       "block_ids": [
@@ -443,8 +443,8 @@
       "source": "0x616ac0",
       "destination": "0x616ac0",
       "old_size": 1356,
-      "new_size": 1155,
-      "translated": 13,
+      "new_size": 1153,
+      "translated": 15,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0002"
@@ -460,8 +460,8 @@
       "source": "0x61f0bd",
       "destination": "0x61f0bd",
       "old_size": 12404,
-      "new_size": 11773,
-      "translated": 76,
+      "new_size": 11792,
+      "translated": 83,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0012",
@@ -476,14 +476,14 @@
       ],
       "new_relative_offsets": [
         18,
-        1963,
-        3373,
-        4943,
-        5597,
-        7268,
-        9375,
-        10733,
-        11521
+        1962,
+        3368,
+        4938,
+        5592,
+        7278,
+        9394,
+        10752,
+        11540
       ]
     },
     {
@@ -512,8 +512,8 @@
       "source": "0x612b18",
       "destination": "0x612b18",
       "old_size": 16296,
-      "new_size": 14395,
-      "translated": 105,
+      "new_size": 14410,
+      "translated": 109,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0010",
@@ -527,13 +527,13 @@
       ],
       "new_relative_offsets": [
         16,
-        499,
-        1352,
-        2693,
-        4291,
-        6001,
-        7421,
-        11928
+        514,
+        1367,
+        2708,
+        4306,
+        6016,
+        7436,
+        11943
       ]
     },
     {
@@ -566,8 +566,8 @@
       "source": "0x618ab2",
       "destination": "0x618ab2",
       "old_size": 26123,
-      "new_size": 23843,
-      "translated": 193,
+      "new_size": 23855,
+      "translated": 194,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x001C",
@@ -590,16 +590,16 @@
         1993,
         3237,
         4898,
-        6268,
-        8259,
-        10831,
-        11917,
-        12976,
-        14761,
-        16715,
-        18818,
-        21298,
-        22717
+        6280,
+        8271,
+        10843,
+        11929,
+        12988,
+        14773,
+        16727,
+        18830,
+        21310,
+        22729
       ]
     },
     {
@@ -873,8 +873,8 @@
       "source": "0x60d738",
       "destination": "0x60d738",
       "old_size": 13605,
-      "new_size": 11719,
-      "translated": 94,
+      "new_size": 11691,
+      "translated": 102,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0010",
@@ -893,8 +893,8 @@
         6345,
         7678,
         9180,
-        10566,
-        11469
+        10544,
+        11441
       ]
     },
     {
@@ -1660,8 +1660,8 @@
       "source": "0x64f6dd",
       "destination": "0x64f6dd",
       "old_size": 14931,
-      "new_size": 13698,
-      "translated": 98,
+      "new_size": 13724,
+      "translated": 104,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x000E",
@@ -1675,11 +1675,11 @@
       "new_relative_offsets": [
         14,
         2109,
-        4601,
-        6960,
-        8395,
-        10509,
-        12301
+        4623,
+        6982,
+        8417,
+        10531,
+        12323
       ]
     },
     {
@@ -3003,8 +3003,8 @@
       "source": "0x685c21",
       "destination": "0x685c21",
       "old_size": 2440,
-      "new_size": 2289,
-      "translated": 34,
+      "new_size": 2294,
+      "translated": 35,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3013,8 +3013,8 @@
       ],
       "new_relative_offsets": [
         6,
-        1356,
-        2132
+        1361,
+        2137
       ]
     },
     {
@@ -3237,8 +3237,8 @@
       "source": "0x68a90a",
       "destination": "0x68a90a",
       "old_size": 3148,
-      "new_size": 2909,
-      "translated": 34,
+      "new_size": 2916,
+      "translated": 36,
       "storage": "in_place",
       "old_relative_offsets": [
         "0x0006",
@@ -3247,8 +3247,8 @@
       ],
       "new_relative_offsets": [
         6,
-        1509,
-        2759
+        1516,
+        2766
       ]
     },
     {
@@ -4073,10 +4073,6 @@
       9,
       10,
       11,
-      12,
-      13,
-      14,
-      15,
       20,
       21,
       22,
@@ -4092,7 +4088,6 @@
       26,
       29,
       36,
-      54,
       108,
       109,
       110,
@@ -4235,9 +4230,7 @@
       6
     ],
     "184": [],
-    "186": [
-      15
-    ],
+    "186": [],
     "189": [],
     "193": [
       4
@@ -4245,10 +4238,7 @@
     "194": [],
     "197": [],
     "201": [],
-    "202": [
-      5,
-      8
-    ],
+    "202": [],
     "205": [],
     "212": [
       18
@@ -4281,15 +4271,7 @@
       11,
       21,
       84,
-      87,
-      88,
-      90,
-      91,
-      96,
-      97,
       105,
-      106,
-      107,
       114,
       115,
       116
@@ -4306,14 +4288,9 @@
       26
     ],
     "35": [],
-    "38": [
-      3,
-      13
-    ],
+    "38": [],
     "41": [
-      15,
       25,
-      30,
       36,
       37,
       38,
@@ -4340,15 +4317,10 @@
       69,
       70,
       71,
-      72,
-      73,
-      74,
       78,
       79,
       80,
       82,
-      84,
-      86,
       95,
       96,
       97,
@@ -4452,15 +4424,9 @@
     ]
   },
   "deferred_block97_entries": [
-    23,
     24,
-    25,
-    26,
-    27,
-    28,
     58,
     98,
-    104,
     107,
     109
   ]

@@ -111,6 +111,7 @@ def main():
         fr[bid]={**prior,**entries}
     for bid, entries in json.loads((ROOT/'traduction/corrections_v20.json').read_text()).items():
         fr[bid].update(entries)
+    numeric_contracts=json.loads((ROOT/'verification/numeric_contracts_lot46.json').read_text())
     prepared=[];rows=[];widths=[]
     for bid in BLOCKS:
         block=next(b for b in audit['blocks'] if bid in b['block_ids']);s=int(block['offset'],16)
@@ -118,10 +119,13 @@ def main():
         payload=bytearray(old);rr=relative[:];expected={}
         for key,text in sorted(fr[str(bid)].items(),key=lambda kv:int(kv[0])):
             idx=int(key);os,oe=position(old,relative,idx);raw=old[os:oe];english=decode(raw,True)
+            contract=numeric_contracts.get(f'B{bid:03}-S{idx:03}',{})
+            dynamic_widths={int(c,16):contract['reservation_pixels_per_numeric_slot'] for c in contract.get('commands',[])}
+            entry_safe=SAFE_LOW|set(dynamic_widths)
             assert markers(english)==markers(text),(bid,idx,'markers')
-            assert all(c>=0x10 or c in SAFE_LOW for c in raw),(bid,idx,'unknown source command')
+            assert all(c>=0x10 or c in entry_safe for c in raw),(bid,idx,'unknown source command')
             assert all(c<0xE0 for c in raw),(bid,idx,'dictionary requires a parser')
-            laid=text if (bid,idx) in ((99,5),(29,1),(93,40),(106,5),(106,34),(107,9),(117,3),(122,3),(130,16),(234,20),(234,21),(244,1),(210,57),(210,60)) else layout_fr(text,fontrom)
+            laid=text if (bid,idx) in ((99,5),(29,1),(93,40),(106,5),(106,34),(107,9),(117,3),(122,3),(130,16),(234,20),(234,21),(244,1),(210,57),(210,60)) else layout_fr(text,fontrom,dynamic_widths=dynamic_widths)
             if (bid,idx) in ((93,39),(217,13),(210,21),(73,4)):
                 prompt, choices=text.split('\n\n',1)
                 laid=layout_fr(prompt,fontrom)+'\n\n'+choices
@@ -136,10 +140,10 @@ def main():
             new=encode_fr(laid)
             assert markers(laid)==markers(english)
             assert encode_fr(decode_fr(new))==new
-            assert all(c>=0x10 or c in SAFE_LOW for c in new)
+            assert all(c>=0x10 or c in entry_safe for c in new)
             assert all(c<0xE0 for c in new)
-            widths.extend(visible_width(l,fontrom) for l in laid.split('\n'))
-            assert all(visible_width(l,fontrom)<=216 for l in laid.split('\n')), (bid,idx,'line width')
+            widths.extend(visible_width(l,fontrom,dynamic_widths) for l in laid.split('\n'))
+            assert all(visible_width(l,fontrom,dynamic_widths)<=216 for l in laid.split('\n')), (bid,idx,'line width')
             start,end=position(payload,rr,idx);delta=len(new)-(end-start)
             payload[start:end]=new;expected[idx]=new
             for n,v in enumerate(rr):
@@ -200,7 +204,10 @@ def main():
             **storage,'allocation_policy':'in place when fitting, otherwise free pool',
             'deferred_entries':{'31': [16], '37': [9, 10, 11, 12, 13, 14, 15, 20, 21, 22, 23, 36, 51], '39': [49], '40': [25, 26, 29, 36, 54, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 147, 154, 165, 167, 168, 169, 186, 187, 200, 207, 208, 212], '66': [10, 32, 33, 35, 36, 37, 67], '132': [59, 99, 122], '56': [12], '235': [], '88': [1, 2, 6], '95': [11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27, 31, 32, 38, 39, 44, 45, 50, 51, 54, 55, 184], '91': [1, 2, 35], '99': [1, 2, 3, 11, 14, 15, 16, 17, 18, 19], '102': [], '96': [23, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42], '86': [7, 8, 9], '94': [4], '80': [21], '210': [36, 65, 75, 76, 77], '125': [3], '130': [], '140': [2, 22, 27], '149': [1, 6], '184': [], '186': [15], '189': [], '193': [4], '194': [], '197': [], '201': [], '202': [5, 8], '205': [], '212': [18], '221': [], '225': [12], '229': [], '231': [32], '234': [], '252': [98, 99, 100, 101], '29': [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 21, 84, 87, 88, 90, 91, 96, 97, 105, 106, 107, 114, 115, 116], '30': [6, 7, 8], '33': [1, 2, 13, 26], '35': [], '38': [3, 13], '41': [15, 25, 30, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 58, 63, 69, 70, 71, 72, 73, 74, 78, 79, 80, 82, 84, 86, 95, 96, 97, 98, 103, 107, 110, 115, 116, 117, 121, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 144], '17': [5, 18, 32, 49, 57, 62, 63, 64, 70, 94, 96, 127, 128, 160, 164, 173, 175, 187, 189, 191, 192], '18': [5, 9, 23, 24, 27, 32, 45, 48, 50, 54, 55, 61, 64, 71, 72, 75, 76, 83, 85, 89, 95, 96, 98, 101, 107, 115, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192]},'deferred_block97_entries':[23,24,25,26,27,28,58,98,104,107,109]}
     for bid,entries in checkpoint_lot.items():
-        report['deferred_entries'][bid]=[i for i in report['deferred_entries'][bid] if str(i) not in entries]
+        if bid=='97':
+            report['deferred_block97_entries']=[i for i in report['deferred_block97_entries'] if str(i) not in entries]
+        else:
+            report['deferred_entries'][bid]=[i for i in report['deferred_entries'][bid] if str(i) not in entries]
     (ROOT/'verification/build_report_lot46_checkpoint.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(report,ensure_ascii=False,indent=2))
 if __name__=='__main__':main()

@@ -52,5 +52,52 @@
     "185": "Le Japon reprend la plus grande île d'Amami\nNoël <1E> Journée du patinage",
     "190": "Premier métro entre Ueno et Asakusa\n",
     "191": "Première diffusion du <11>Kouhaku Sing-off<11> NHK\nSaint-Sylvestre <1E> Fin de l'année"
+  },
+  "29": {
+    "87": "<06> unités de poudre d'or valent <07>0 ryo.<0D> Ça vous convient ?",
+    "88": "<17>Le groupe de Higan reçoit <07>0 ryo !<18>x5",
+    "90": "<06> unités d'or valent <07>000 ryo !<0D> Ça vous convient ?",
+    "91": "<17>Le groupe de Higan reçoit <07>000 ryo !<18>x5",
+    "96": "<06> unités d'or valent <07> bons d'or.<0D> Ça vous convient ?",
+    "97": "<17>Le groupe de Higan reçoit <07> bons d'or !<18>x5",
+    "106": "Il faut <06> bons d'or pour la Liqueur miracle.\n\n",
+    "107": "Il faut <06> bons d'or pour le coffre de l'Araignée du monde de glace.\n\n"
+  },
+  "37": {
+    "12": "<17>La commode contenait <06> ryo !<18>x5",
+    "13": "<17>Le pot contenait <06> ryo !<18>x5",
+    "14": "<17><04> a trouvé <06> ryo !<18>x5",
+    "15": "<17><04> a obtenu <06> ryo !<18>x5"
+  },
+  "38": {
+    "3": "\nTu vas miser <05> ryo ?",
+    "13": "Bien joué !<0D> Tu as décroché le gros lot !<0D> Voici ton prix de <05> ryo !"
+  },
+  "40": {
+    "54": "Ton nombre de haricots était de<29> <05>.\n"
+  },
+  "41": {
+    "15": "Il est dans la couveuse depuis <06> heures et <05> minutes.<0D>\n\nVeux-tu faire éclore cet œuf ?",
+    "30": "<17>Cet œuf est dans la couveuse depuis <05> heures et <06> minutes.<18>",
+    "72": "Durée de vie<29> <05> jours, <06> heures, <07> minutes",
+    "73": "Durée de vie<29> <06> heures, <07> minutes",
+    "74": "Durée de vie<29> <07> minutes",
+    "84": "<17>Manto récupère <05> points de santé !<18>",
+    "86": "<17>La santé de Manto baisse de <05> points !<18>"
+  },
+  "97": {
+    "23": "T'as trouvé <05> médailles !\n\n\nPff,<0D> t'as encore du chemin à faire,<0D> mon vieux !<0D> Fais un petit effort la prochaine fois,<0D> hein !?<0D> Tiens,<0D> prends cette Pilule de soin et file !",
+    "25": "T'as ramassé <05> médailles ?\n\n\nC'est pas mal,<0D> j'imagine !<0D> Assez pour te valoir un bibelot protecteur,<0D> mon vieux !\n\n",
+    "26": "Ooooh,<0D> t'as <05> médailles ! C'est rudement bien,<0D> si tu veux mon avis !<0D> Ça a pas dû être facile !<0D> Voilà ton prix ! C'est une clochette de statue de chat !<0D> Avec ça, on s'éclate !\n\n",
+    "27": "T'as trouvé <05> médailles,<0D> hein ?\n\n\nEh ben, dis donc !<0D> T'es devenu un as de la chasse aux médailles !<0D> Et voilà ta récompense,<0D> pour être aussi doué !<0D> C'est un éclat d'arc-en-ciel !<0D> Tous les champions visent l'arc-en-ciel,<0D> tu vois ce que je veux dire ?\n\n",
+    "28": "Hein... !?<0D> Tu te FICHES de moi ! C'est... <05> médailles d'or !?\n\nMe dis pas que t'es un pro !?<0D> Enfin,<0D> bon...<0D> T'as gagné à la loyale !<0D> La Liqueur miracle est à toi ! Qu'elle te protège, toi et tes amis !\n\n\n",
+    "104": "Higan ouvre le coffre <12><05> !<0E> "
+  },
+  "186": {
+    "15": "Dans <04> minutes et <05> secondes,<0D> ce sera...<0D>"
+  },
+  "202": {
+    "5": "<0C><04> fois !\nEt tu as gagné avec un parchemin...<0D> <05> fois !\n\n",
+    "8": "<0C>Donc... <05> fois !\n\n"
   }
 }

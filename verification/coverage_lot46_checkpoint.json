@@ -1,5 +1,5 @@
 {
-  "scope": "Relecture des 52 nouvelles notices, pas du français complet.",
+  "scope": "83 textes du lot46 : notices relues ; rendu numérique contrôlé, accords dynamiques et liaisons naturelles encore ouverts.",
   "entries": [
     {
       "id": "B018-S122",
@@ -364,6 +364,254 @@
       "spelling_and_accents_reviewed": true,
       "native_two_row_capture_reviewed": true,
       "natural_calendar_date_reviewed": false
+    },
+    {
+      "id": "B029-S087",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S088",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S090",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S091",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S096",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S097",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S106",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B029-S107",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B037-S012",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B037-S013",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B037-S014",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B037-S015",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B038-S003",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B038-S013",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B040-S054",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S015",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S030",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S072",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S073",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S074",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S084",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B041-S086",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S023",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S025",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S026",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S027",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S028",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B097-S104",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B186-S015",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B202-S005",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
+    },
+    {
+      "id": "B202-S008",
+      "source_sense_reviewed": true,
+      "native_numeric_profiles_rendered": 4,
+      "layout_reviewed": true,
+      "grammar_review": "issues_open_for_singular_values; see relecture_lot46_points.json",
+      "natural_event_values_reviewed": false
     }
   ],
   "corrections_to_prior_french": 0,

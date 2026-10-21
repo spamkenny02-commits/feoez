@@ -1,0 +1,12 @@
+{
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
+  "passed": 5,
+  "checks": [
+    "Default 04 reservation remains 96 pixels",
+    "05 without an explicit contract still rejected",
+    "Explicit numeric contract covers each separate slot",
+    "An unrelated control remains rejected",
+    "Producer, decimal conversion, multiply, reader and remap unchanged on candidate ROM"
+  ],
+  "event_binding": "pending"
+}

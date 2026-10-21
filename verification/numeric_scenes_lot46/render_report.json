@@ -1,0 +1,3844 @@
+{
+  "workers": 4,
+  "rom_sha256": "4ecf2c59ba3234df4ca1cbaaa72d4bb6461c2446304dc446cbdd1bc28872345d",
+  "diagnostic_core_sha256": "4a5f81f6052ebecc994ccd42a734e3863e18d5ef57babd7fca15c8c63b8edafc",
+  "state_sha256": "d1436e047acb5c43ce2593374f68dc8d82d44d58a48e69efacf18f603392c414",
+  "scope": "Staged native rendering, pagination and complete read; not event progression, NPC placement or rewards.",
+  "cases": [
+    {
+      "entry": "B029-S087",
+      "case": "b029_s087_zero",
+      "expected_terminator": "0x40fe80",
+      "observed_terminators": [
+        "0x40fe80"
+      ],
+      "native_read_complete": true,
+      "captures": 526,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21",
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 525,
+      "review_images": [
+        "b029_s087_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S087",
+      "case": "b029_s087_one",
+      "expected_terminator": "0x40fe80",
+      "observed_terminators": [
+        "0x40fe80"
+      ],
+      "native_read_complete": true,
+      "captures": 524,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22",
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 523,
+      "review_images": [
+        "b029_s087_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S087",
+      "case": "b029_s087_max24",
+      "expected_terminator": "0x40fe80",
+      "observed_terminators": [
+        "0x40fe80"
+      ],
+      "native_read_complete": true,
+      "captures": 652,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226",
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 651,
+      "review_images": [
+        "b029_s087_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S087",
+      "case": "b029_s087_wide24",
+      "expected_terminator": "0x40fe80",
+      "observed_terminators": [
+        "0x40fe80"
+      ],
+      "native_read_complete": true,
+      "captures": 653,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121",
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 652,
+      "review_images": [
+        "b029_s087_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S088",
+      "case": "b029_s088_zero",
+      "expected_terminator": "0x40fea7",
+      "observed_terminators": [
+        "0x40fea7"
+      ],
+      "native_read_complete": true,
+      "captures": 313,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 312,
+      "review_images": [
+        "b029_s088_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S088",
+      "case": "b029_s088_one",
+      "expected_terminator": "0x40fea7",
+      "observed_terminators": [
+        "0x40fea7"
+      ],
+      "native_read_complete": true,
+      "captures": 313,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 312,
+      "review_images": [
+        "b029_s088_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S088",
+      "case": "b029_s088_max24",
+      "expected_terminator": "0x40fea7",
+      "observed_terminators": [
+        "0x40fea7"
+      ],
+      "native_read_complete": true,
+      "captures": 376,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 375,
+      "review_images": [
+        "b029_s088_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S088",
+      "case": "b029_s088_wide24",
+      "expected_terminator": "0x40fea7",
+      "observed_terminators": [
+        "0x40fea7"
+      ],
+      "native_read_complete": true,
+      "captures": 376,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 375,
+      "review_images": [
+        "b029_s088_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S090",
+      "case": "b029_s090_zero",
+      "expected_terminator": "0x40ff23",
+      "observed_terminators": [
+        "0x40ff23"
+      ],
+      "native_read_complete": true,
+      "captures": 462,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21",
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 461,
+      "review_images": [
+        "b029_s090_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S090",
+      "case": "b029_s090_one",
+      "expected_terminator": "0x40ff23",
+      "observed_terminators": [
+        "0x40ff23"
+      ],
+      "native_read_complete": true,
+      "captures": 462,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22",
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 461,
+      "review_images": [
+        "b029_s090_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S090",
+      "case": "b029_s090_max24",
+      "expected_terminator": "0x40ff23",
+      "observed_terminators": [
+        "0x40ff23"
+      ],
+      "native_read_complete": true,
+      "captures": 588,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226",
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 587,
+      "review_images": [
+        "b029_s090_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S090",
+      "case": "b029_s090_wide24",
+      "expected_terminator": "0x40ff23",
+      "observed_terminators": [
+        "0x40ff23"
+      ],
+      "native_read_complete": true,
+      "captures": 588,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121",
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 587,
+      "review_images": [
+        "b029_s090_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S091",
+      "case": "b029_s091_zero",
+      "expected_terminator": "0x40ff4c",
+      "observed_terminators": [
+        "0x40ff4c"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b029_s091_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S091",
+      "case": "b029_s091_one",
+      "expected_terminator": "0x40ff4c",
+      "observed_terminators": [
+        "0x40ff4c"
+      ],
+      "native_read_complete": true,
+      "captures": 329,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 328,
+      "review_images": [
+        "b029_s091_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S091",
+      "case": "b029_s091_max24",
+      "expected_terminator": "0x40ff4c",
+      "observed_terminators": [
+        "0x40ff4c"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b029_s091_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S091",
+      "case": "b029_s091_wide24",
+      "expected_terminator": "0x40ff4c",
+      "observed_terminators": [
+        "0x40ff4c"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b029_s091_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S096",
+      "case": "b029_s096_zero",
+      "expected_terminator": "0x410067",
+      "observed_terminators": [
+        "0x410067"
+      ],
+      "native_read_complete": true,
+      "captures": 480,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21",
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 479,
+      "review_images": [
+        "b029_s096_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S096",
+      "case": "b029_s096_one",
+      "expected_terminator": "0x410067",
+      "observed_terminators": [
+        "0x410067"
+      ],
+      "native_read_complete": true,
+      "captures": 480,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22",
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 479,
+      "review_images": [
+        "b029_s096_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S096",
+      "case": "b029_s096_max24",
+      "expected_terminator": "0x410067",
+      "observed_terminators": [
+        "0x410067"
+      ],
+      "native_read_complete": true,
+      "captures": 606,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226",
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 605,
+      "review_images": [
+        "b029_s096_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S096",
+      "case": "b029_s096_wide24",
+      "expected_terminator": "0x410067",
+      "observed_terminators": [
+        "0x410067"
+      ],
+      "native_read_complete": true,
+      "captures": 608,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121",
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 607,
+      "review_images": [
+        "b029_s096_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S097",
+      "case": "b029_s097_zero",
+      "expected_terminator": "0x410093",
+      "observed_terminators": [
+        "0x410093"
+      ],
+      "native_read_complete": true,
+      "captures": 382,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 381,
+      "review_images": [
+        "b029_s097_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S097",
+      "case": "b029_s097_one",
+      "expected_terminator": "0x410093",
+      "observed_terminators": [
+        "0x410093"
+      ],
+      "native_read_complete": true,
+      "captures": 382,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 381,
+      "review_images": [
+        "b029_s097_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S097",
+      "case": "b029_s097_max24",
+      "expected_terminator": "0x410093",
+      "observed_terminators": [
+        "0x410093"
+      ],
+      "native_read_complete": true,
+      "captures": 445,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 444,
+      "review_images": [
+        "b029_s097_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S097",
+      "case": "b029_s097_wide24",
+      "expected_terminator": "0x410093",
+      "observed_terminators": [
+        "0x410093"
+      ],
+      "native_read_complete": true,
+      "captures": 445,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 444,
+      "review_images": [
+        "b029_s097_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S106",
+      "case": "b029_s106_zero",
+      "expected_terminator": "0x41025c",
+      "observed_terminators": [
+        "0x41025c"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s106_zero_00.png",
+        "b029_s106_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S106",
+      "case": "b029_s106_one",
+      "expected_terminator": "0x41025c",
+      "observed_terminators": [
+        "0x41025c"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s106_one_00.png",
+        "b029_s106_one_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S106",
+      "case": "b029_s106_max24",
+      "expected_terminator": "0x41025c",
+      "observed_terminators": [
+        "0x41025c"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s106_max24_00.png",
+        "b029_s106_max24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S106",
+      "case": "b029_s106_wide24",
+      "expected_terminator": "0x41025c",
+      "observed_terminators": [
+        "0x41025c"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s106_wide24_00.png",
+        "b029_s106_wide24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S107",
+      "case": "b029_s107_zero",
+      "expected_terminator": "0x4102a2",
+      "observed_terminators": [
+        "0x4102a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s107_zero_00.png",
+        "b029_s107_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S107",
+      "case": "b029_s107_one",
+      "expected_terminator": "0x4102a2",
+      "observed_terminators": [
+        "0x4102a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s107_one_00.png",
+        "b029_s107_one_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S107",
+      "case": "b029_s107_max24",
+      "expected_terminator": "0x4102a2",
+      "observed_terminators": [
+        "0x4102a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s107_max24_00.png",
+        "b029_s107_max24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B029-S107",
+      "case": "b029_s107_wide24",
+      "expected_terminator": "0x4102a2",
+      "observed_terminators": [
+        "0x4102a2"
+      ],
+      "native_read_complete": true,
+      "captures": 1182,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1180,
+      "review_images": [
+        "b029_s107_wide24_00.png",
+        "b029_s107_wide24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S012",
+      "case": "b037_s012_zero",
+      "expected_terminator": "0x412ca9",
+      "observed_terminators": [
+        "0x412ca9"
+      ],
+      "native_read_complete": true,
+      "captures": 286,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 285,
+      "review_images": [
+        "b037_s012_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S012",
+      "case": "b037_s012_one",
+      "expected_terminator": "0x412ca9",
+      "observed_terminators": [
+        "0x412ca9"
+      ],
+      "native_read_complete": true,
+      "captures": 286,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 285,
+      "review_images": [
+        "b037_s012_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S012",
+      "case": "b037_s012_max24",
+      "expected_terminator": "0x412ca9",
+      "observed_terminators": [
+        "0x412ca9"
+      ],
+      "native_read_complete": true,
+      "captures": 349,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 348,
+      "review_images": [
+        "b037_s012_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S012",
+      "case": "b037_s012_wide24",
+      "expected_terminator": "0x412ca9",
+      "observed_terminators": [
+        "0x412ca9"
+      ],
+      "native_read_complete": true,
+      "captures": 349,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 348,
+      "review_images": [
+        "b037_s012_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S013",
+      "case": "b037_s013_zero",
+      "expected_terminator": "0x412cc6",
+      "observed_terminators": [
+        "0x412cc6"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 218,
+      "review_images": [
+        "b037_s013_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S013",
+      "case": "b037_s013_one",
+      "expected_terminator": "0x412cc6",
+      "observed_terminators": [
+        "0x412cc6"
+      ],
+      "native_read_complete": true,
+      "captures": 219,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 218,
+      "review_images": [
+        "b037_s013_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S013",
+      "case": "b037_s013_max24",
+      "expected_terminator": "0x412cc6",
+      "observed_terminators": [
+        "0x412cc6"
+      ],
+      "native_read_complete": true,
+      "captures": 282,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 281,
+      "review_images": [
+        "b037_s013_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S013",
+      "case": "b037_s013_wide24",
+      "expected_terminator": "0x412cc6",
+      "observed_terminators": [
+        "0x412cc6"
+      ],
+      "native_read_complete": true,
+      "captures": 282,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 281,
+      "review_images": [
+        "b037_s013_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S014",
+      "case": "b037_s014_zero",
+      "expected_terminator": "0x412cdd",
+      "observed_terminators": [
+        "0x412cdd"
+      ],
+      "native_read_complete": true,
+      "captures": 202,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 201,
+      "review_images": [
+        "b037_s014_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S014",
+      "case": "b037_s014_one",
+      "expected_terminator": "0x412cdd",
+      "observed_terminators": [
+        "0x412cdd"
+      ],
+      "native_read_complete": true,
+      "captures": 202,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 201,
+      "review_images": [
+        "b037_s014_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S014",
+      "case": "b037_s014_max24",
+      "expected_terminator": "0x412cdd",
+      "observed_terminators": [
+        "0x412cdd"
+      ],
+      "native_read_complete": true,
+      "captures": 265,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 264,
+      "review_images": [
+        "b037_s014_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S014",
+      "case": "b037_s014_wide24",
+      "expected_terminator": "0x412cdd",
+      "observed_terminators": [
+        "0x412cdd"
+      ],
+      "native_read_complete": true,
+      "captures": 265,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 264,
+      "review_images": [
+        "b037_s014_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S015",
+      "case": "b037_s015_zero",
+      "expected_terminator": "0x412cf4",
+      "observed_terminators": [
+        "0x412cf4"
+      ],
+      "native_read_complete": true,
+      "captures": 202,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 201,
+      "review_images": [
+        "b037_s015_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S015",
+      "case": "b037_s015_one",
+      "expected_terminator": "0x412cf4",
+      "observed_terminators": [
+        "0x412cf4"
+      ],
+      "native_read_complete": true,
+      "captures": 202,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 201,
+      "review_images": [
+        "b037_s015_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S015",
+      "case": "b037_s015_max24",
+      "expected_terminator": "0x412cf4",
+      "observed_terminators": [
+        "0x412cf4"
+      ],
+      "native_read_complete": true,
+      "captures": 265,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 264,
+      "review_images": [
+        "b037_s015_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B037-S015",
+      "case": "b037_s015_wide24",
+      "expected_terminator": "0x412cf4",
+      "observed_terminators": [
+        "0x412cf4"
+      ],
+      "native_read_complete": true,
+      "captures": 265,
+      "native_reader_sites": [
+        "4d3d8d"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 264,
+      "review_images": [
+        "b037_s015_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S003",
+      "case": "b038_s003_zero",
+      "expected_terminator": "0x416be4",
+      "observed_terminators": [
+        "0x416be4"
+      ],
+      "native_read_complete": true,
+      "captures": 204,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 203,
+      "review_images": [
+        "b038_s003_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S003",
+      "case": "b038_s003_one",
+      "expected_terminator": "0x416be4",
+      "observed_terminators": [
+        "0x416be4"
+      ],
+      "native_read_complete": true,
+      "captures": 204,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 203,
+      "review_images": [
+        "b038_s003_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S003",
+      "case": "b038_s003_max24",
+      "expected_terminator": "0x416be4",
+      "observed_terminators": [
+        "0x416be4"
+      ],
+      "native_read_complete": true,
+      "captures": 266,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 265,
+      "review_images": [
+        "b038_s003_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S003",
+      "case": "b038_s003_wide24",
+      "expected_terminator": "0x416be4",
+      "observed_terminators": [
+        "0x416be4"
+      ],
+      "native_read_complete": true,
+      "captures": 266,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 265,
+      "review_images": [
+        "b038_s003_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S013",
+      "case": "b038_s013_zero",
+      "expected_terminator": "0x416e10",
+      "observed_terminators": [
+        "0x416e10"
+      ],
+      "native_read_complete": true,
+      "captures": 630,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 629,
+      "review_images": [
+        "b038_s013_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S013",
+      "case": "b038_s013_one",
+      "expected_terminator": "0x416e10",
+      "observed_terminators": [
+        "0x416e10"
+      ],
+      "native_read_complete": true,
+      "captures": 630,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 629,
+      "review_images": [
+        "b038_s013_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S013",
+      "case": "b038_s013_max24",
+      "expected_terminator": "0x416e10",
+      "observed_terminators": [
+        "0x416e10"
+      ],
+      "native_read_complete": true,
+      "captures": 693,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 692,
+      "review_images": [
+        "b038_s013_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B038-S013",
+      "case": "b038_s013_wide24",
+      "expected_terminator": "0x416e10",
+      "observed_terminators": [
+        "0x416e10"
+      ],
+      "native_read_complete": true,
+      "captures": 693,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 692,
+      "review_images": [
+        "b038_s013_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S054",
+      "case": "b040_s054_zero",
+      "expected_terminator": "0x419eea",
+      "observed_terminators": [
+        "0x419eea"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b040_s054_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S054",
+      "case": "b040_s054_one",
+      "expected_terminator": "0x419eea",
+      "observed_terminators": [
+        "0x419eea"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b040_s054_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S054",
+      "case": "b040_s054_max24",
+      "expected_terminator": "0x419eea",
+      "observed_terminators": [
+        "0x419eea"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b040_s054_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B040-S054",
+      "case": "b040_s054_wide24",
+      "expected_terminator": "0x419eea",
+      "observed_terminators": [
+        "0x419eea"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b040_s054_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S015",
+      "case": "b041_s015_zero",
+      "expected_terminator": "0x41f811",
+      "observed_terminators": [
+        "0x41f811"
+      ],
+      "native_read_complete": true,
+      "captures": 1452,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21",
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1450,
+      "review_images": [
+        "b041_s015_zero_00.png",
+        "b041_s015_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S015",
+      "case": "b041_s015_one",
+      "expected_terminator": "0x41f811",
+      "observed_terminators": [
+        "0x41f811"
+      ],
+      "native_read_complete": true,
+      "captures": 1452,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22",
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1450,
+      "review_images": [
+        "b041_s015_one_00.png",
+        "b041_s015_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S015",
+      "case": "b041_s015_max24",
+      "expected_terminator": "0x41f811",
+      "observed_terminators": [
+        "0x41f811"
+      ],
+      "native_read_complete": true,
+      "captures": 1452,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226",
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1450,
+      "review_images": [
+        "b041_s015_max24_00.png",
+        "b041_s015_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S015",
+      "case": "b041_s015_wide24",
+      "expected_terminator": "0x41f811",
+      "observed_terminators": [
+        "0x41f811"
+      ],
+      "native_read_complete": true,
+      "captures": 1452,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121",
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1450,
+      "review_images": [
+        "b041_s015_wide24_00.png",
+        "b041_s015_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S030",
+      "case": "b041_s030_zero",
+      "expected_terminator": "0x41fb8d",
+      "observed_terminators": [
+        "0x41fb8d"
+      ],
+      "native_read_complete": true,
+      "captures": 528,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21",
+          "2": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 527,
+      "review_images": [
+        "b041_s030_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S030",
+      "case": "b041_s030_one",
+      "expected_terminator": "0x41fb8d",
+      "observed_terminators": [
+        "0x41fb8d"
+      ],
+      "native_read_complete": true,
+      "captures": 528,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22",
+          "2": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 527,
+      "review_images": [
+        "b041_s030_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S030",
+      "case": "b041_s030_max24",
+      "expected_terminator": "0x41fb8d",
+      "observed_terminators": [
+        "0x41fb8d"
+      ],
+      "native_read_complete": true,
+      "captures": 654,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226",
+          "2": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 653,
+      "review_images": [
+        "b041_s030_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S030",
+      "case": "b041_s030_wide24",
+      "expected_terminator": "0x41fb8d",
+      "observed_terminators": [
+        "0x41fb8d"
+      ],
+      "native_read_complete": true,
+      "captures": 654,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121",
+          "2": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 653,
+      "review_images": [
+        "b041_s030_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S072",
+      "case": "b041_s072_zero",
+      "expected_terminator": "0x4207a5",
+      "observed_terminators": [
+        "0x4207a5"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21",
+          "2": "21",
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b041_s072_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S072",
+      "case": "b041_s072_one",
+      "expected_terminator": "0x4207a5",
+      "observed_terminators": [
+        "0x4207a5"
+      ],
+      "native_read_complete": true,
+      "captures": 392,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22",
+          "2": "22",
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 391,
+      "review_images": [
+        "b041_s072_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S072",
+      "case": "b041_s072_max24",
+      "expected_terminator": "0x4207a5",
+      "observed_terminators": [
+        "0x4207a5"
+      ],
+      "native_read_complete": true,
+      "captures": 581,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226",
+          "2": "2227282828232226",
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 580,
+      "review_images": [
+        "b041_s072_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S072",
+      "case": "b041_s072_wide24",
+      "expected_terminator": "0x4207a5",
+      "observed_terminators": [
+        "0x4207a5"
+      ],
+      "native_read_complete": true,
+      "captures": 581,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121",
+          "2": "2221212121212121",
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 580,
+      "review_images": [
+        "b041_s072_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S073",
+      "case": "b041_s073_zero",
+      "expected_terminator": "0x4207c7",
+      "observed_terminators": [
+        "0x4207c7"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "2": "21",
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b041_s073_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S073",
+      "case": "b041_s073_one",
+      "expected_terminator": "0x4207c7",
+      "observed_terminators": [
+        "0x4207c7"
+      ],
+      "native_read_complete": true,
+      "captures": 311,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "2": "22",
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 310,
+      "review_images": [
+        "b041_s073_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S073",
+      "case": "b041_s073_max24",
+      "expected_terminator": "0x4207c7",
+      "observed_terminators": [
+        "0x4207c7"
+      ],
+      "native_read_complete": true,
+      "captures": 437,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "2": "2227282828232226",
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 436,
+      "review_images": [
+        "b041_s073_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S073",
+      "case": "b041_s073_wide24",
+      "expected_terminator": "0x4207c7",
+      "observed_terminators": [
+        "0x4207c7"
+      ],
+      "native_read_complete": true,
+      "captures": 437,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "2": "2221212121212121",
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 436,
+      "review_images": [
+        "b041_s073_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S074",
+      "case": "b041_s074_zero",
+      "expected_terminator": "0x4207df",
+      "observed_terminators": [
+        "0x4207df"
+      ],
+      "native_read_complete": true,
+      "captures": 221,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "3": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 220,
+      "review_images": [
+        "b041_s074_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S074",
+      "case": "b041_s074_one",
+      "expected_terminator": "0x4207df",
+      "observed_terminators": [
+        "0x4207df"
+      ],
+      "native_read_complete": true,
+      "captures": 221,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "3": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 220,
+      "review_images": [
+        "b041_s074_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S074",
+      "case": "b041_s074_max24",
+      "expected_terminator": "0x4207df",
+      "observed_terminators": [
+        "0x4207df"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "3": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b041_s074_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S074",
+      "case": "b041_s074_wide24",
+      "expected_terminator": "0x4207df",
+      "observed_terminators": [
+        "0x4207df"
+      ],
+      "native_read_complete": true,
+      "captures": 284,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "3": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 283,
+      "review_images": [
+        "b041_s074_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S084",
+      "case": "b041_s084_zero",
+      "expected_terminator": "0x420db6",
+      "observed_terminators": [
+        "0x420db6"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b041_s084_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S084",
+      "case": "b041_s084_one",
+      "expected_terminator": "0x420db6",
+      "observed_terminators": [
+        "0x420db6"
+      ],
+      "native_read_complete": true,
+      "captures": 338,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 337,
+      "review_images": [
+        "b041_s084_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S084",
+      "case": "b041_s084_max24",
+      "expected_terminator": "0x420db6",
+      "observed_terminators": [
+        "0x420db6"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b041_s084_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S084",
+      "case": "b041_s084_wide24",
+      "expected_terminator": "0x420db6",
+      "observed_terminators": [
+        "0x420db6"
+      ],
+      "native_read_complete": true,
+      "captures": 401,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 400,
+      "review_images": [
+        "b041_s084_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S086",
+      "case": "b041_s086_zero",
+      "expected_terminator": "0x420f02",
+      "observed_terminators": [
+        "0x420f02"
+      ],
+      "native_read_complete": true,
+      "captures": 345,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 344,
+      "review_images": [
+        "b041_s086_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S086",
+      "case": "b041_s086_one",
+      "expected_terminator": "0x420f02",
+      "observed_terminators": [
+        "0x420f02"
+      ],
+      "native_read_complete": true,
+      "captures": 345,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 344,
+      "review_images": [
+        "b041_s086_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S086",
+      "case": "b041_s086_max24",
+      "expected_terminator": "0x420f02",
+      "observed_terminators": [
+        "0x420f02"
+      ],
+      "native_read_complete": true,
+      "captures": 408,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 407,
+      "review_images": [
+        "b041_s086_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B041-S086",
+      "case": "b041_s086_wide24",
+      "expected_terminator": "0x420f02",
+      "observed_terminators": [
+        "0x420f02"
+      ],
+      "native_read_complete": true,
+      "captures": 408,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 407,
+      "review_images": [
+        "b041_s086_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S023",
+      "case": "b097_s023_zero",
+      "expected_terminator": "0x450281",
+      "observed_terminators": [
+        "0x450281"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1022,
+      "review_images": [
+        "b097_s023_zero_00.png",
+        "b097_s023_zero_01.png",
+        "b097_s023_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S023",
+      "case": "b097_s023_one",
+      "expected_terminator": "0x450281",
+      "observed_terminators": [
+        "0x450281"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1022,
+      "review_images": [
+        "b097_s023_one_00.png",
+        "b097_s023_zero_01.png",
+        "b097_s023_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S023",
+      "case": "b097_s023_max24",
+      "expected_terminator": "0x450281",
+      "observed_terminators": [
+        "0x450281"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1022,
+      "review_images": [
+        "b097_s023_max24_00.png",
+        "b097_s023_zero_01.png",
+        "b097_s023_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S023",
+      "case": "b097_s023_wide24",
+      "expected_terminator": "0x450281",
+      "observed_terminators": [
+        "0x450281"
+      ],
+      "native_read_complete": true,
+      "captures": 1025,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1022,
+      "review_images": [
+        "b097_s023_wide24_00.png",
+        "b097_s023_zero_01.png",
+        "b097_s023_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S025",
+      "case": "b097_s025_zero",
+      "expected_terminator": "0x4503f7",
+      "observed_terminators": [
+        "0x4503f7"
+      ],
+      "native_read_complete": true,
+      "captures": 2266,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2263,
+      "review_images": [
+        "b097_s025_zero_00.png",
+        "b097_s025_zero_01.png",
+        "b097_s025_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S025",
+      "case": "b097_s025_one",
+      "expected_terminator": "0x4503f7",
+      "observed_terminators": [
+        "0x4503f7"
+      ],
+      "native_read_complete": true,
+      "captures": 2266,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2263,
+      "review_images": [
+        "b097_s025_one_00.png",
+        "b097_s025_zero_01.png",
+        "b097_s025_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S025",
+      "case": "b097_s025_max24",
+      "expected_terminator": "0x4503f7",
+      "observed_terminators": [
+        "0x4503f7"
+      ],
+      "native_read_complete": true,
+      "captures": 2179,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2176,
+      "review_images": [
+        "b097_s025_max24_00.png",
+        "b097_s025_zero_01.png",
+        "b097_s025_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S025",
+      "case": "b097_s025_wide24",
+      "expected_terminator": "0x4503f7",
+      "observed_terminators": [
+        "0x4503f7"
+      ],
+      "native_read_complete": true,
+      "captures": 2179,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2176,
+      "review_images": [
+        "b097_s025_wide24_00.png",
+        "b097_s025_zero_01.png",
+        "b097_s025_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S026",
+      "case": "b097_s026_zero",
+      "expected_terminator": "0x4504ad",
+      "observed_terminators": [
+        "0x4504ad"
+      ],
+      "native_read_complete": true,
+      "captures": 2049,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2046,
+      "review_images": [
+        "b097_s026_zero_00.png",
+        "b097_s026_zero_01.png",
+        "b097_s026_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S026",
+      "case": "b097_s026_one",
+      "expected_terminator": "0x4504ad",
+      "observed_terminators": [
+        "0x4504ad"
+      ],
+      "native_read_complete": true,
+      "captures": 2049,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2046,
+      "review_images": [
+        "b097_s026_one_00.png",
+        "b097_s026_one_01.png",
+        "b097_s026_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S026",
+      "case": "b097_s026_max24",
+      "expected_terminator": "0x4504ad",
+      "observed_terminators": [
+        "0x4504ad"
+      ],
+      "native_read_complete": true,
+      "captures": 1991,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1988,
+      "review_images": [
+        "b097_s026_max24_00.png",
+        "b097_s026_max24_01.png",
+        "b097_s026_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S026",
+      "case": "b097_s026_wide24",
+      "expected_terminator": "0x4504ad",
+      "observed_terminators": [
+        "0x4504ad"
+      ],
+      "native_read_complete": true,
+      "captures": 1991,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1988,
+      "review_images": [
+        "b097_s026_wide24_00.png",
+        "b097_s026_wide24_01.png",
+        "b097_s026_zero_02.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S027",
+      "case": "b097_s027_zero",
+      "expected_terminator": "0x4505af",
+      "observed_terminators": [
+        "0x4505af"
+      ],
+      "native_read_complete": true,
+      "captures": 2520,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2515,
+      "review_images": [
+        "b097_s027_zero_00.png",
+        "b097_s027_zero_01.png",
+        "b097_s027_zero_02.png",
+        "b097_s027_zero_03.png",
+        "b097_s027_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S027",
+      "case": "b097_s027_one",
+      "expected_terminator": "0x4505af",
+      "observed_terminators": [
+        "0x4505af"
+      ],
+      "native_read_complete": true,
+      "captures": 2520,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2515,
+      "review_images": [
+        "b097_s027_one_00.png",
+        "b097_s027_zero_01.png",
+        "b097_s027_zero_02.png",
+        "b097_s027_zero_03.png",
+        "b097_s027_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S027",
+      "case": "b097_s027_max24",
+      "expected_terminator": "0x4505af",
+      "observed_terminators": [
+        "0x4505af"
+      ],
+      "native_read_complete": true,
+      "captures": 2520,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2515,
+      "review_images": [
+        "b097_s027_max24_00.png",
+        "b097_s027_zero_01.png",
+        "b097_s027_zero_02.png",
+        "b097_s027_zero_03.png",
+        "b097_s027_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S027",
+      "case": "b097_s027_wide24",
+      "expected_terminator": "0x4505af",
+      "observed_terminators": [
+        "0x4505af"
+      ],
+      "native_read_complete": true,
+      "captures": 2520,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2515,
+      "review_images": [
+        "b097_s027_wide24_00.png",
+        "b097_s027_zero_01.png",
+        "b097_s027_zero_02.png",
+        "b097_s027_zero_03.png",
+        "b097_s027_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S028",
+      "case": "b097_s028_zero",
+      "expected_terminator": "0x450680",
+      "observed_terminators": [
+        "0x450680"
+      ],
+      "native_read_complete": true,
+      "captures": 2034,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2030,
+      "review_images": [
+        "b097_s028_zero_00.png",
+        "b097_s028_zero_01.png",
+        "b097_s028_zero_02.png",
+        "b097_s028_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S028",
+      "case": "b097_s028_one",
+      "expected_terminator": "0x450680",
+      "observed_terminators": [
+        "0x450680"
+      ],
+      "native_read_complete": true,
+      "captures": 2034,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2030,
+      "review_images": [
+        "b097_s028_one_00.png",
+        "b097_s028_zero_01.png",
+        "b097_s028_zero_02.png",
+        "b097_s028_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S028",
+      "case": "b097_s028_max24",
+      "expected_terminator": "0x450680",
+      "observed_terminators": [
+        "0x450680"
+      ],
+      "native_read_complete": true,
+      "captures": 2034,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2030,
+      "review_images": [
+        "b097_s028_max24_00.png",
+        "b097_s028_zero_01.png",
+        "b097_s028_zero_02.png",
+        "b097_s028_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S028",
+      "case": "b097_s028_wide24",
+      "expected_terminator": "0x450680",
+      "observed_terminators": [
+        "0x450680"
+      ],
+      "native_read_complete": true,
+      "captures": 2034,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 2030,
+      "review_images": [
+        "b097_s028_wide24_00.png",
+        "b097_s028_zero_01.png",
+        "b097_s028_zero_02.png",
+        "b097_s028_zero_03.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S104",
+      "case": "b097_s104_zero",
+      "expected_terminator": "0x452a6c",
+      "observed_terminators": [
+        "0x452a6c"
+      ],
+      "native_read_complete": true,
+      "captures": 1188,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1186,
+      "review_images": [
+        "b097_s104_zero_00.png",
+        "b097_s104_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S104",
+      "case": "b097_s104_one",
+      "expected_terminator": "0x452a6c",
+      "observed_terminators": [
+        "0x452a6c"
+      ],
+      "native_read_complete": true,
+      "captures": 1188,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1186,
+      "review_images": [
+        "b097_s104_one_00.png",
+        "b097_s104_one_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S104",
+      "case": "b097_s104_max24",
+      "expected_terminator": "0x452a6c",
+      "observed_terminators": [
+        "0x452a6c"
+      ],
+      "native_read_complete": true,
+      "captures": 1188,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1186,
+      "review_images": [
+        "b097_s104_max24_00.png",
+        "b097_s104_max24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B097-S104",
+      "case": "b097_s104_wide24",
+      "expected_terminator": "0x452a6c",
+      "observed_terminators": [
+        "0x452a6c"
+      ],
+      "native_read_complete": true,
+      "captures": 1188,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1186,
+      "review_images": [
+        "b097_s104_wide24_00.png",
+        "b097_s104_wide24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S015",
+      "case": "b186_s015_zero",
+      "expected_terminator": "0x486149",
+      "observed_terminators": [
+        "0x486149"
+      ],
+      "native_read_complete": true,
+      "captures": 397,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "0": "21",
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 396,
+      "review_images": [
+        "b186_s015_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S015",
+      "case": "b186_s015_one",
+      "expected_terminator": "0x486149",
+      "observed_terminators": [
+        "0x486149"
+      ],
+      "native_read_complete": true,
+      "captures": 398,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "0": "22",
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 397,
+      "review_images": [
+        "b186_s015_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S015",
+      "case": "b186_s015_max24",
+      "expected_terminator": "0x486149",
+      "observed_terminators": [
+        "0x486149"
+      ],
+      "native_read_complete": true,
+      "captures": 524,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "0": "2227282828232226",
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 523,
+      "review_images": [
+        "b186_s015_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B186-S015",
+      "case": "b186_s015_wide24",
+      "expected_terminator": "0x486149",
+      "observed_terminators": [
+        "0x486149"
+      ],
+      "native_read_complete": true,
+      "captures": 524,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "0": "2221212121212121",
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 523,
+      "review_images": [
+        "b186_s015_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S005",
+      "case": "b202_s005_zero",
+      "expected_terminator": "0x48ac40",
+      "observed_terminators": [
+        "0x48ac40"
+      ],
+      "native_read_complete": true,
+      "captures": 1183,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "0": "21",
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1181,
+      "review_images": [
+        "b202_s005_zero_00.png",
+        "b202_s005_zero_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S005",
+      "case": "b202_s005_one",
+      "expected_terminator": "0x48ac40",
+      "observed_terminators": [
+        "0x48ac40"
+      ],
+      "native_read_complete": true,
+      "captures": 1183,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "0": "22",
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1181,
+      "review_images": [
+        "b202_s005_one_00.png",
+        "b202_s005_one_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S005",
+      "case": "b202_s005_max24",
+      "expected_terminator": "0x48ac40",
+      "observed_terminators": [
+        "0x48ac40"
+      ],
+      "native_read_complete": true,
+      "captures": 1183,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "0": "2227282828232226",
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1181,
+      "review_images": [
+        "b202_s005_max24_00.png",
+        "b202_s005_max24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S005",
+      "case": "b202_s005_wide24",
+      "expected_terminator": "0x48ac40",
+      "observed_terminators": [
+        "0x48ac40"
+      ],
+      "native_read_complete": true,
+      "captures": 1183,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "0": "2221212121212121",
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 1181,
+      "review_images": [
+        "b202_s005_wide24_00.png",
+        "b202_s005_wide24_01.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S008",
+      "case": "b202_s008_zero",
+      "expected_terminator": "0x48acea",
+      "observed_terminators": [
+        "0x48acea"
+      ],
+      "native_read_complete": true,
+      "captures": 77,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "zero",
+        "numeric_value": 0,
+        "slots": {
+          "1": "21"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 76,
+      "review_images": [
+        "b202_s008_zero_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S008",
+      "case": "b202_s008_one",
+      "expected_terminator": "0x48acea",
+      "observed_terminators": [
+        "0x48acea"
+      ],
+      "native_read_complete": true,
+      "captures": 77,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "one",
+        "numeric_value": 1,
+        "slots": {
+          "1": "22"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 76,
+      "review_images": [
+        "b202_s008_one_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S008",
+      "case": "b202_s008_max24",
+      "expected_terminator": "0x48acea",
+      "observed_terminators": [
+        "0x48acea"
+      ],
+      "native_read_complete": true,
+      "captures": 112,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "max24",
+        "numeric_value": 16777215,
+        "slots": {
+          "1": "2227282828232226"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 111,
+      "review_images": [
+        "b202_s008_max24_00.png"
+      ],
+      "event_progression_validated": false
+    },
+    {
+      "entry": "B202-S008",
+      "case": "b202_s008_wide24",
+      "expected_terminator": "0x48acea",
+      "observed_terminators": [
+        "0x48acea"
+      ],
+      "native_read_complete": true,
+      "captures": 112,
+      "native_reader_sites": [
+        "c02c6e"
+      ],
+      "visual_review": "layout reviewed; linguistic agreement issues remain for synthetic value 1 where applicable",
+      "synthetic_slot_fixture": {
+        "profile": "wide24",
+        "numeric_value": 10000000,
+        "slots": {
+          "1": "2221212121212121"
+        },
+        "origin": "Produced by restricted execution of C3:2AD3 on the pinned source",
+        "event_binding_validated": false
+      },
+      "event_values_validated": false,
+      "capture_selection": "last text-bearing frame per native page, before automatic closure",
+      "intermediate_frames_removed": 111,
+      "review_images": [
+        "b202_s008_wide24_00.png"
+      ],
+      "event_progression_validated": false
+    }
+  ],
+  "selected_captures": 196,
+  "unique_capture_files": 155,
+  "visual_scope": "All 155 byte-distinct native images inspected, covering 196 selected images by exact PNG SHA256. Display/layout only; singular/plural issues and real event bindings remain open."
+}
