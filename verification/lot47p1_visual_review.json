@@ -1,0 +1,73 @@
+{
+  "lot": 47,
+  "candidate_sha256": "c4a6d5c350c4cebd7bc9e94a5ffd13cd30c45d3483a8208fcef67bfea46dfb38",
+  "case_count": 274,
+  "unique_images_actually_reviewed": 192,
+  "review": "All12 contact sheets actually opened and read at native2x crop; text area148..222; event/world outside crop not reviewed.",
+  "catalog_findings": "No clipping or corrupt glyphs observed in accessory/scroll/secret-technique/zodiac substitution captures. Group name reviewed but elision corrected afterward. This is only staged text rendering.",
+  "date_findings": "All12 month names correct, including October/November/December; first ordinal1er rendered. Birthday wording rejected: French date lacked jour and age1 displayed1ans. Draft corrected; new-ROM rerender required.",
+  "time_findings": "0/1/11/12/23 hour cases consumed correctly; source fixed minute suffix20/40/50 retained in sale notices; automatic pagination observed. No natural RTC or shop-event progression claim.",
+  "final_validation": false,
+  "sheets": [
+    {
+      "file": "catalog_date_00.png",
+      "sha256": "bfe2ba21a17a20b21f07951a1833bdd3a20635021124171a3c8d7331b70b448f",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_01.png",
+      "sha256": "76996e76f1f27c47c450426befca25943cdb7eca1753b3f8a37330c282c22ff6",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_02.png",
+      "sha256": "50a0557487697a602806eaaa9a933eb873b911b35d02e01a23a0ca7a887ce961",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_03.png",
+      "sha256": "5244ac4c56d59c912b880fb299c7ffde756a39bd65fa58f261f9b89ddd94fcc0",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_04.png",
+      "sha256": "68a64fbc472e4e2c60f2010c818d2563aaa0f385398565fcb8102fbe133b2f82",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_05.png",
+      "sha256": "ccc2e9d3e621110ea963886686a9ac26e98023b35a9fea465ba027f707dc9cd5",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_06.png",
+      "sha256": "861337271782f209ee9f224b63db0c7b7185b4581129cede8285b9d231a2538f",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_07.png",
+      "sha256": "d6ba42e17f7aa69b438e86d1786e0022caf86491f9c5fb0f803cc3941c421e49",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_08.png",
+      "sha256": "2ebd51c64c6f6d2520da9b6c03fb1b8739de8c2d7aa6835dcb60b61520ced3e8",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_09.png",
+      "sha256": "521bb4befe481ae393cd0db13d08494148c68c057129b3fa5b05256729b1588e",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_10.png",
+      "sha256": "67fb9a606319b06b958fbbd4ee21de05fe75b2bba6ccfb0be4670395d111a401",
+      "image_count": 16
+    },
+    {
+      "file": "catalog_date_11.png",
+      "sha256": "b903ea3014f1c17d6cae6de042b112ec17e6b42365f758bd513893225cb284f4",
+      "image_count": 16
+    }
+  ]
+}

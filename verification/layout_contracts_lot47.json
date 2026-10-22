@@ -1,0 +1,2052 @@
+{
+  "entries": {
+    "B029-S002": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S003": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S004": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S005": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S114": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S115": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S116": {
+      "widths": {},
+      "scope": "Fixed labels/selector; selector placement still needs dedicated audit",
+      "natural_event_path": "pending"
+    },
+    "B029-S006": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor and object/scroll/skill catalogs; no arbitrary custom name contract",
+      "natural_event_path": "pending"
+    },
+    "B029-S007": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor and object/scroll/skill catalogs; no arbitrary custom name contract",
+      "natural_event_path": "pending"
+    },
+    "B029-S008": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor and object/scroll/skill catalogs; no arbitrary custom name contract",
+      "natural_event_path": "pending"
+    },
+    "B029-S009": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor and object/scroll/skill catalogs; no arbitrary custom name contract",
+      "natural_event_path": "pending"
+    },
+    "B029-S010": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor and object/scroll/skill catalogs; no arbitrary custom name contract",
+      "natural_event_path": "pending"
+    },
+    "B029-S021": {
+      "widths": {
+        "06": 48
+      },
+      "scope": "Finite zodiac labels B012-S009..S020; Cancer remains source-identical and uncounted",
+      "natural_event_path": "pending"
+    },
+    "B029-S105": {
+      "widths": {
+        "06": 56,
+        "07": 144
+      },
+      "scope": "Explicit numeric quote and finite reward catalog",
+      "natural_event_path": "pending"
+    },
+    "B033-S002": {
+      "widths": {
+        "04": 80,
+        "07": 144
+      },
+      "scope": "Finite actor/item catalogs",
+      "natural_event_path": "pending"
+    },
+    "B033-S013": {
+      "widths": {
+        "05": 80,
+        "06": 76
+      },
+      "scope": "Fixed actor and Mandala flute, not an arbitrary name",
+      "natural_event_path": "pending"
+    },
+    "B033-S026": {
+      "widths": {
+        "05": 80
+      },
+      "scope": "Finite actor catalog",
+      "natural_event_path": "pending"
+    },
+    "B037-S010": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite item catalog",
+      "natural_event_path": "pending"
+    },
+    "B037-S011": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite item catalog",
+      "natural_event_path": "pending"
+    },
+    "B037-S020": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite item catalog",
+      "natural_event_path": "pending"
+    },
+    "B037-S021": {
+      "widths": {
+        "07": 144
+      },
+      "scope": "Finite food/item catalog; native effect markers preserved",
+      "natural_event_path": "pending"
+    },
+    "B037-S022": {
+      "widths": {
+        "07": 144
+      },
+      "scope": "Finite food/item catalog; native effect markers preserved",
+      "natural_event_path": "pending"
+    },
+    "B037-S023": {
+      "widths": {
+        "07": 144
+      },
+      "scope": "Finite food/item catalog; native effect markers preserved",
+      "natural_event_path": "pending"
+    },
+    "B040-S025": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite prize catalog",
+      "natural_event_path": "pending"
+    },
+    "B040-S029": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite prize catalog",
+      "natural_event_path": "pending"
+    },
+    "B040-S207": {
+      "widths": {
+        "05": 144
+      },
+      "scope": "Finite prize catalog",
+      "natural_event_path": "pending"
+    },
+    "B040-S026": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Explicit numeric round label; formatting does not establish real round range",
+      "natural_event_path": "pending"
+    },
+    "B040-S167": {
+      "widths": {},
+      "scope": "Native pause markers preserved; sound/animation context not claimed",
+      "natural_event_path": "pending"
+    },
+    "B040-S168": {
+      "widths": {},
+      "scope": "Native pause markers preserved; sound/animation context not claimed",
+      "natural_event_path": "pending"
+    },
+    "B040-S169": {
+      "widths": {},
+      "scope": "Native pause markers preserved; sound/animation context not claimed",
+      "natural_event_path": "pending"
+    },
+    "B040-S186": {
+      "widths": {},
+      "scope": "Native pause markers preserved; sound/animation context not claimed",
+      "natural_event_path": "pending"
+    },
+    "B040-S187": {
+      "widths": {},
+      "scope": "Native pause markers preserved; sound/animation context not claimed",
+      "natural_event_path": "pending"
+    },
+    "B041-S069": {
+      "widths": {},
+      "scope": "Visible breeding/service labels, not debug",
+      "natural_event_path": "pending"
+    },
+    "B041-S070": {
+      "widths": {},
+      "scope": "Visible breeding/service labels, not debug",
+      "natural_event_path": "pending"
+    },
+    "B041-S141": {
+      "widths": {},
+      "scope": "Visible breeding/service labels, not debug",
+      "natural_event_path": "pending"
+    },
+    "B041-S142": {
+      "widths": {},
+      "scope": "Visible breeding/service labels, not debug",
+      "natural_event_path": "pending"
+    },
+    "B041-S144": {
+      "widths": {},
+      "scope": "Visible breeding/service labels, not debug",
+      "natural_event_path": "pending"
+    },
+    "B041-S082": {
+      "widths": {
+        "06": 144
+      },
+      "scope": "Finite kibble/item catalog",
+      "natural_event_path": "pending"
+    },
+    "B041-S097": {
+      "widths": {
+        "07": 144
+      },
+      "scope": "Finite kibble/item catalog",
+      "natural_event_path": "pending"
+    },
+    "B041-S103": {
+      "widths": {
+        "07": 144
+      },
+      "scope": "Finite kibble/item catalog",
+      "natural_event_path": "pending"
+    },
+    "B041-S115": {
+      "widths": {
+        "05": 119,
+        "06": 119
+      },
+      "scope": "Finite skill catalogs",
+      "natural_event_path": "pending"
+    },
+    "B041-S116": {
+      "widths": {
+        "05": 119,
+        "06": 119
+      },
+      "scope": "Finite skill catalogs",
+      "natural_event_path": "pending"
+    },
+    "B041-S117": {
+      "widths": {
+        "05": 119,
+        "06": 119
+      },
+      "scope": "Finite skill catalogs",
+      "natural_event_path": "pending"
+    },
+    "B041-S121": {
+      "widths": {
+        "05": 119,
+        "06": 119
+      },
+      "scope": "Finite skill catalogs",
+      "natural_event_path": "pending"
+    },
+    "B086-S007": {
+      "widths": {
+        "05": 80
+      },
+      "scope": "Finite party actor catalog",
+      "natural_event_path": "pending"
+    },
+    "B086-S008": {
+      "widths": {
+        "06": 80
+      },
+      "scope": "Finite party actor catalog",
+      "natural_event_path": "pending"
+    },
+    "B086-S009": {
+      "widths": {
+        "07": 80
+      },
+      "scope": "Finite party actor catalog",
+      "natural_event_path": "pending"
+    },
+    "B095-S011": {
+      "widths": {
+        "05": 80,
+        "06": 80,
+        "07": 80
+      },
+      "scope": "Finite party members, not custom pet names",
+      "natural_event_path": "pending"
+    },
+    "B091-S001": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Explicit numeric price",
+      "natural_event_path": "pending"
+    },
+    "B091-S002": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Explicit numeric price",
+      "natural_event_path": "pending"
+    },
+    "B094-S004": {
+      "widths": {
+        "07": 56
+      },
+      "scope": "Explicit numeric price",
+      "natural_event_path": "pending"
+    },
+    "B193-S004": {
+      "widths": {
+        "04": 56,
+        "05": 56
+      },
+      "scope": "Explicit numeric countdown",
+      "natural_event_path": "pending"
+    },
+    "B099-S014": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B099-S015": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B099-S016": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B099-S017": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B099-S018": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B099-S019": {
+      "widths": {},
+      "scope": "Day-name components used by Basara time dialogue",
+      "natural_event_path": "pending"
+    },
+    "B210-S036": {
+      "widths": {
+        "04": 14,
+        "05": 14
+      },
+      "scope": "Native x2/x3 formatting; valid hour0..23 (zero maps to12)/minute0..59; actual event values pending",
+      "natural_event_path": "pending"
+    },
+    "B210-S075": {
+      "widths": {
+        "04": 14,
+        "05": 14
+      },
+      "scope": "Native x2/x3 formatting; valid hour0..23 (zero maps to12)/minute0..59; actual event values pending",
+      "natural_event_path": "pending"
+    },
+    "B210-S076": {
+      "widths": {
+        "04": 14,
+        "05": 14
+      },
+      "scope": "Native x2/x3 formatting; valid hour0..23 (zero maps to12)/minute0..59; actual event values pending",
+      "natural_event_path": "pending"
+    },
+    "B210-S077": {
+      "widths": {
+        "04": 14,
+        "05": 14
+      },
+      "scope": "Native x2/x3 formatting; valid hour0..23 (zero maps to12)/minute0..59; actual event values pending",
+      "natural_event_path": "pending"
+    },
+    "B212-S018": {
+      "widths": {
+        "04": 14,
+        "05": 14
+      },
+      "scope": "Native x2/x3 formatting; valid hour0..23 (zero maps to12)/minute0..59; actual event values pending",
+      "natural_event_path": "pending"
+    },
+    "B031-S016": {
+      "widths": {
+        "04": 56,
+        "05": 28,
+        "06": 56
+      },
+      "scope": "Native month1..12 and ordinal day1..31 with numeric age. Calendar domain probes pass; natural date pending",
+      "natural_event_path": "pending"
+    },
+    "B029-S011": {
+      "widths": {},
+      "scope": "Fixed anchored selector, source column coordinates retained; native selection remains to test.",
+      "natural_event_path": "pending"
+    },
+    "B041-S025": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S036": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S040": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S044": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S048": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S054": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S056": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S058": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "10-byte fixed pet-name native load: pet_name_bound_lot47_checks.json; generic paragraph pagination except three-row status headers.",
+      "natural_event_path": "pending"
+    },
+    "B041-S037": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S038": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S039": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S041": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S042": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S043": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S045": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S046": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S047": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S049": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S050": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S051": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S053": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S055": {
+      "widths": {
+        "05": 110,
+        "06": 56
+      },
+      "scope": "Pet-name110px from fixed native10-byte copy; quantity56px conservative numeric leaf bound; status headers retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S052": {
+      "widths": {
+        "05": 110,
+        "07": 100
+      },
+      "scope": "Native pet-name bound110px; finite Croquettes labels at most100px; source05/07 order retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S063": {
+      "widths": {
+        "05": 110,
+        "06": 65,
+        "07": 65
+      },
+      "scope": "Native10-byte pet name and finite species B041-S059..067; all substitution tokens retain order.",
+      "natural_event_path": "pending"
+    },
+    "B041-S078": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Fixed Manto header; numeric health, conservative56px, original three header rows retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S079": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Fixed Manto header; numeric health, conservative56px, original three header rows retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S080": {
+      "widths": {
+        "05": 56
+      },
+      "scope": "Fixed Manto header; numeric health, conservative56px, original three header rows retained.",
+      "natural_event_path": "pending"
+    },
+    "B041-S095": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "x4 feeding ordinal format; finite1..5 domain, formatter native probe. Full feeding progression remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S096": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "x4 feeding ordinal format; finite1..5 domain, formatter native probe. Full feeding progression remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S098": {
+      "widths": {
+        "05": 28,
+        "06": 28
+      },
+      "scope": "x4 feeding ordinal format; finite1..5 domain; preserves both token orders. Full feeding progression pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S107": {
+      "widths": {
+        "05": 56,
+        "06": 56
+      },
+      "scope": "Numeric elapsed hours/minutes56px; final Open/Quit anchored on original source grid.",
+      "natural_event_path": "pending"
+    },
+    "B041-S130": {
+      "widths": {
+        "05": 0,
+        "06": 0
+      },
+      "scope": "Native single-byte08/0A style slots; style_slots_lot47_checks.json; anchored original columns, actual cursor progression pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S135": {
+      "widths": {
+        "05": 0,
+        "06": 0
+      },
+      "scope": "Native single-byte08/0A style slots; style_slots_lot47_checks.json; anchored original columns, actual cursor progression pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S139": {
+      "widths": {
+        "05": 0,
+        "06": 0
+      },
+      "scope": "Native single-byte08/0A style slots; style_slots_lot47_checks.json; anchored original columns, actual cursor progression pending.",
+      "natural_event_path": "pending"
+    },
+    "B066-S035": {
+      "widths": {
+        "04": 0,
+        "05": 0,
+        "06": 0,
+        "07": 0
+      },
+      "scope": "Native08/0A style source32/33 with stacked operand calls; style_slots_lot47_checks.json; actual inventory/selection pending.",
+      "natural_event_path": "pending"
+    },
+    "B066-S036": {
+      "widths": {
+        "04": 0,
+        "05": 0,
+        "06": 0,
+        "07": 0
+      },
+      "scope": "Native08/0A style source32/33 with stacked operand calls; style_slots_lot47_checks.json; actual inventory/selection pending.",
+      "natural_event_path": "pending"
+    },
+    "B066-S037": {
+      "widths": {
+        "04": 0,
+        "05": 0,
+        "06": 0,
+        "07": 0
+      },
+      "scope": "Native08/0A style source32/33 with stacked operand calls; style_slots_lot47_checks.json; actual inventory/selection pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S014": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S015": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S016": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S017": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S018": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S019": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S020": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S021": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S022": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S023": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S026": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S027": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S031": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S032": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S038": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S044": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S050": {
+      "widths": {
+        "04": 56,
+        "05": 28
+      },
+      "scope": "Month and ordinal finite native formats; common date producer C8:962C and direct8B handlers; calendar_producers_lot47_checks.json; natural RTC pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S039": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S045": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B095-S051": {
+      "widths": {
+        "04": 26,
+        "05": 14,
+        "06": 14
+      },
+      "scope": "Finite AM/PM source labels and hour/minute native formats; full event clock source remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B099-S003": {
+      "widths": {
+        "04": 44,
+        "05": 26,
+        "06": 14,
+        "07": 14
+      },
+      "scope": "Finite weekday and AM/PM labels; x2/x3 native formatter domains hour0..23/minute0..59, natural Basara event pending.",
+      "natural_event_path": "pending"
+    },
+    "B099-S011": {
+      "widths": {
+        "04": 44,
+        "05": 26,
+        "06": 14,
+        "07": 14
+      },
+      "scope": "Finite weekday and AM/PM labels; x2/x3 native formatter domains hour0..23/minute0..59, natural Basara event pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S023": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S028": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S030": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S031": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S032": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S033": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S034": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S035": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S036": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S037": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S038": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S039": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S040": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S041": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B096-S042": {
+      "widths": {},
+      "scope": "Song speed commands0B/0C and delay0D native handlers: text_timing_lot47_checks.json; markers unchanged; music and natural event synchronization pending.",
+      "natural_event_path": "pending"
+    },
+    "B029-S084": {
+      "widths": {
+        "04": 56,
+        "05": 56
+      },
+      "scope": "Two numeric exchange-rate fields; native numeric producer56px; source arrows and both rate sections retained. Actual exchange arithmetic remains untested.",
+      "natural_event_path": "pending"
+    },
+    "B040-S147": {
+      "widths": {
+        "05": 110
+      },
+      "scope": "Empty FF name-editor insertion invariant10bytes; name_editor_bound_lot47_checks.json; source8A01301D after FD7AFF02. Full wish input/event pending.",
+      "natural_event_path": "pending"
+    },
+    "B040-S165": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "x4 lunar day ordinal1..31 formatter domain; text explicitly names day; actual lunar-date producer/branches remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B040-S200": {
+      "widths": {
+        "05": 144,
+        "06": 80
+      },
+      "scope": "Finite item labels<=144px; static stacked89 uses block12 for slot06 actor. Actual randomly selected item producer remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B040-S208": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "x4 ordinal formatter1..31, sumo sequence starts0525=0 and has increment/5 guards; exact natural match progression remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B040-S212": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "x4 ordinal formatter1..31, sumo sequence starts0525=0 and has increment/5 guards; exact natural match progression remains pending.",
+      "natural_event_path": "pending"
+    },
+    "B041-S071": {
+      "widths": {
+        "04": 56,
+        "05": 110,
+        "06": 65,
+        "07": 32
+      },
+      "scope": "Rank header reflowed into separate semantic rows; top3 loop counter052F, pet-name10byte copy through FE-B3 uses C1:730F/730C, finite species and living/dead labels69/70. Natural record-list flow pending.",
+      "natural_event_path": "pending"
+    },
+    "B097-S098": {
+      "widths": {
+        "05": 28
+      },
+      "scope": "Numeric selector FD1B02010001000F00 before8B010525 bounds chest prediction1..15; x4 native formatter; natural selector navigation pending.",
+      "natural_event_path": "pending"
+    },
+    "B013-S001": {
+      "widths": {},
+      "scope": "Bookmark UI header source native lookup C0:8DD1; French labels single-line<=128px. Actual native bookmark screen capture pending.",
+      "natural_event_path": "pending"
+    },
+    "B013-S002": {
+      "widths": {},
+      "scope": "Bookmark UI header source native lookup C0:8DD1; French labels single-line<=128px. Actual native bookmark screen capture pending.",
+      "natural_event_path": "pending"
+    },
+    "B014-S001": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S002": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S003": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S004": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S005": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S006": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S007": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S008": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S009": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S010": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S011": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S012": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S013": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S014": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S015": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S016": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S017": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S018": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S019": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S020": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S021": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S022": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S023": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S025": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S026": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S027": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S028": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S029": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S030": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S031": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S032": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S033": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S034": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S035": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S036": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S037": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S038": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S039": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S040": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S041": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S042": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S043": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S044": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S045": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S046": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S047": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S048": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S049": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S050": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S051": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S052": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S053": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S054": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S055": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S056": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S057": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S058": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S059": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S060": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S061": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S063": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S064": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S065": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S066": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S067": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S068": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S069": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S070": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S071": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S072": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S073": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S074": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S075": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S076": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S077": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S078": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S079": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S080": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S081": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S082": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S083": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S084": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S085": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S086": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S087": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S088": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B014-S089": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S001": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S002": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S003": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S004": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S005": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S006": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S007": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S008": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S009": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S010": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S011": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S012": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S013": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S014": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S015": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S016": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S017": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S018": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S019": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S020": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S021": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S022": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S023": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S025": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S026": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S027": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S028": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S029": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S030": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S031": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S032": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S033": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S034": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S035": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S036": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S037": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S038": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S039": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S040": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S041": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S042": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S043": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S044": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S045": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S046": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S047": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S048": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S049": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S050": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S051": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S052": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S053": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S054": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S055": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S056": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S057": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S058": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S059": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S060": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S061": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S063": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S064": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S065": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S066": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S067": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S068": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S069": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S070": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S071": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S072": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S073": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S074": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S075": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S076": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S077": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S078": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S079": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S080": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S081": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S082": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S083": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S084": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S085": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S086": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S087": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S088": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B015-S089": {
+      "widths": {},
+      "scope": "Fixed location label<=31bytes and180px, no inserted LF; actual native centering4D3E00 verified: location_centering_lot47_checks.json. Map/save consumers and complete scene layout remain to exercise.",
+      "natural_event_path": "pending"
+    },
+    "B016-S002": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S003": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S004": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S005": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S006": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S007": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S008": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S009": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S010": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S011": {
+      "widths": {},
+      "scope": "Visible progression title; native save consumer C0:993B loadsblock16 thenC0:786F with27tile requested field; French title single-line<=216px and45bytes. Actual save UI pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S012": {
+      "widths": {},
+      "scope": "Progression title; original block16 source, native text layout. Natural title sequence pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S013": {
+      "widths": {},
+      "scope": "Progression title; original block16 source, native text layout. Natural title sequence pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S016": {
+      "widths": {},
+      "scope": "Progression title; original block16 source, native text layout. Natural title sequence pending.",
+      "natural_event_path": "pending"
+    },
+    "B016-S017": {
+      "widths": {},
+      "scope": "Progression title; original block16 source, native text layout. Natural title sequence pending.",
+      "natural_event_path": "pending"
+    },
+    "B043-S001": {
+      "widths": {
+        "04": 56
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    },
+    "B043-S002": {
+      "widths": {
+        "04": 56
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    },
+    "B043-S003": {
+      "widths": {
+        "04": 31,
+        "05": 21
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    },
+    "B043-S004": {
+      "widths": {
+        "04": 31,
+        "05": 119
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    },
+    "B043-S005": {
+      "widths": {
+        "04": 144
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    },
+    "B043-S006": {
+      "widths": {
+        "04": 109
+      },
+      "scope": "FD8B result UI, one native line only; C078A1 stops at LF. Expanded width <=216px, buffer<=45bytes.",
+      "natural_event_path": "pending"
+    }
+  },
+  "pending_unapproved_forms": "Grid selectors, custom names, status screens, uncertain ordinal event domains, songs and remaining date fragments are drafted or still to translate, not silently admitted.",
+  "catalog_bounds": {
+    "item": 144,
+    "skill": 119,
+    "actor": 80,
+    "zodiac": 48
+  },
+  "expected_mutating_slots_note": "x1..x4 mutate their selected slot before the normal command consumes it. Fixtures must declare expected_consumed_slots from native leaf execution; input hex is checked separately.",
+  "domains_note": "Every contract is a finite layout bound, not proof of full natural event values or selectors. Explicit limitations retained per entry."
+}

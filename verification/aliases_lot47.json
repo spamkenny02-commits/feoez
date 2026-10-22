@@ -1,0 +1,758 @@
+{
+  "B006-S001": {
+    "canonical": "B004-S001",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S002": {
+    "canonical": "B004-S002",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S003": {
+    "canonical": "B004-S003",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S004": {
+    "canonical": "B004-S004",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S005": {
+    "canonical": "B004-S005",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S006": {
+    "canonical": "B004-S006",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S007": {
+    "canonical": "B004-S007",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S008": {
+    "canonical": "B004-S008",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S009": {
+    "canonical": "B004-S009",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S010": {
+    "canonical": "B004-S010",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S011": {
+    "canonical": "B004-S011",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S012": {
+    "canonical": "B004-S012",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S013": {
+    "canonical": "B004-S013",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S014": {
+    "canonical": "B004-S014",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S015": {
+    "canonical": "B004-S015",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S016": {
+    "canonical": "B004-S016",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S017": {
+    "canonical": "B004-S017",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S018": {
+    "canonical": "B004-S018",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S019": {
+    "canonical": "B004-S019",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S020": {
+    "canonical": "B004-S020",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S021": {
+    "canonical": "B004-S021",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S022": {
+    "canonical": "B004-S022",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S023": {
+    "canonical": "B004-S023",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S024": {
+    "canonical": "B004-S024",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S025": {
+    "canonical": "B004-S025",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S026": {
+    "canonical": "B004-S026",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S027": {
+    "canonical": "B004-S027",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S028": {
+    "canonical": "B004-S028",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S029": {
+    "canonical": "B004-S029",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S030": {
+    "canonical": "B004-S030",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S031": {
+    "canonical": "B004-S031",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S032": {
+    "canonical": "B004-S032",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S033": {
+    "canonical": "B004-S033",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S034": {
+    "canonical": "B004-S034",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S035": {
+    "canonical": "B004-S035",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S036": {
+    "canonical": "B004-S036",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S037": {
+    "canonical": "B004-S037",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S038": {
+    "canonical": "B004-S038",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S039": {
+    "canonical": "B004-S039",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S040": {
+    "canonical": "B004-S040",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S041": {
+    "canonical": "B004-S042",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S042": {
+    "canonical": "B004-S041",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S043": {
+    "canonical": "B004-S043",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S044": {
+    "canonical": "B004-S044",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S045": {
+    "canonical": "B004-S046",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S046": {
+    "canonical": "B004-S047",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S047": {
+    "canonical": "B004-S045",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S048": {
+    "canonical": "B004-S048",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S049": {
+    "canonical": "B004-S050",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S050": {
+    "canonical": "B004-S051",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S051": {
+    "canonical": "B004-S052",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B006-S052": {
+    "canonical": "B004-S049",
+    "reason": "Related catalog variant, not counted twice"
+  },
+  "B007-S001": {
+    "canonical": "B005-S001",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S002": {
+    "canonical": "B005-S002",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S003": {
+    "canonical": "B005-S003",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S004": {
+    "canonical": "B005-S004",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S005": {
+    "canonical": "B005-S005",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S006": {
+    "canonical": "B005-S006",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S007": {
+    "canonical": "B005-S007",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S008": {
+    "canonical": "B005-S008",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S009": {
+    "canonical": "B005-S009",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S010": {
+    "canonical": "B005-S010",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S011": {
+    "canonical": "B005-S011",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S012": {
+    "canonical": "B005-S012",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S013": {
+    "canonical": "B005-S013",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S014": {
+    "canonical": "B005-S014",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S015": {
+    "canonical": "B005-S015",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S016": {
+    "canonical": "B005-S016",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S017": {
+    "canonical": "B005-S017",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S018": {
+    "canonical": "B005-S018",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S019": {
+    "canonical": "B005-S019",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S020": {
+    "canonical": "B005-S020",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S021": {
+    "canonical": "B005-S021",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S022": {
+    "canonical": "B005-S022",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S023": {
+    "canonical": "B005-S023",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S024": {
+    "canonical": "B005-S024",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S025": {
+    "canonical": "B005-S025",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S026": {
+    "canonical": "B005-S026",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S027": {
+    "canonical": "B005-S027",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S028": {
+    "canonical": "B005-S028",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S029": {
+    "canonical": "B005-S029",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B007-S030": {
+    "canonical": "B005-S030",
+    "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+  },
+  "B040-S168": {
+    "canonical": "B040-S167",
+    "reason": "Identical source, not counted twice"
+  },
+  "B099-S011": {
+    "canonical": "B099-S003",
+    "reason": "Identical source, not counted twice"
+  },
+  "B095-S050": {
+    "canonical": "B095-S044",
+    "reason": "Identical source ignoring trailing whitespace; no second count"
+  },
+  "B095-S039": {
+    "canonical": "B095-S021",
+    "reason": "Identical source ignoring trailing whitespace; no second count"
+  },
+  "B095-S045": {
+    "canonical": "B095-S021",
+    "reason": "Identical source ignoring trailing whitespace; no second count"
+  },
+  "B095-S051": {
+    "canonical": "B095-S021",
+    "reason": "Identical source ignoring trailing whitespace; no second count"
+  },
+  "B015-S001": {
+    "canonical": "B014-S001",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S002": {
+    "canonical": "B014-S002",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S003": {
+    "canonical": "B014-S003",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S004": {
+    "canonical": "B014-S004",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S005": {
+    "canonical": "B014-S005",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S006": {
+    "canonical": "B014-S006",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S007": {
+    "canonical": "B014-S007",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S008": {
+    "canonical": "B014-S008",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S009": {
+    "canonical": "B014-S009",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S010": {
+    "canonical": "B014-S010",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S011": {
+    "canonical": "B014-S011",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S012": {
+    "canonical": "B014-S012",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S013": {
+    "canonical": "B014-S013",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S014": {
+    "canonical": "B014-S014",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S015": {
+    "canonical": "B014-S015",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S016": {
+    "canonical": "B014-S016",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S017": {
+    "canonical": "B014-S017",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S018": {
+    "canonical": "B014-S018",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S019": {
+    "canonical": "B014-S019",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S020": {
+    "canonical": "B014-S020",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S021": {
+    "canonical": "B014-S021",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S022": {
+    "canonical": "B014-S022",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S023": {
+    "canonical": "B014-S023",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S025": {
+    "canonical": "B014-S025",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S026": {
+    "canonical": "B014-S026",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S027": {
+    "canonical": "B014-S027",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S028": {
+    "canonical": "B014-S028",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S029": {
+    "canonical": "B014-S029",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S030": {
+    "canonical": "B014-S030",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S031": {
+    "canonical": "B014-S031",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S032": {
+    "canonical": "B014-S032",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S033": {
+    "canonical": "B014-S033",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S034": {
+    "canonical": "B014-S034",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S035": {
+    "canonical": "B014-S035",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S036": {
+    "canonical": "B014-S036",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S037": {
+    "canonical": "B014-S037",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S038": {
+    "canonical": "B014-S038",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S039": {
+    "canonical": "B014-S039",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S040": {
+    "canonical": "B014-S040",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S041": {
+    "canonical": "B014-S041",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S042": {
+    "canonical": "B014-S042",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S043": {
+    "canonical": "B014-S043",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S044": {
+    "canonical": "B014-S044",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S045": {
+    "canonical": "B014-S045",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S046": {
+    "canonical": "B014-S046",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S047": {
+    "canonical": "B014-S047",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S048": {
+    "canonical": "B014-S048",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S049": {
+    "canonical": "B014-S049",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S050": {
+    "canonical": "B014-S050",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S051": {
+    "canonical": "B014-S051",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S052": {
+    "canonical": "B014-S052",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S053": {
+    "canonical": "B014-S053",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S054": {
+    "canonical": "B014-S054",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S055": {
+    "canonical": "B014-S055",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S056": {
+    "canonical": "B014-S056",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S057": {
+    "canonical": "B014-S057",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S058": {
+    "canonical": "B014-S058",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S059": {
+    "canonical": "B014-S059",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S060": {
+    "canonical": "B014-S060",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S061": {
+    "canonical": "B014-S061",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S063": {
+    "canonical": "B014-S063",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S064": {
+    "canonical": "B014-S064",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S065": {
+    "canonical": "B014-S065",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S066": {
+    "canonical": "B014-S066",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S067": {
+    "canonical": "B014-S067",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S068": {
+    "canonical": "B014-S068",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S069": {
+    "canonical": "B014-S069",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S070": {
+    "canonical": "B014-S070",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S071": {
+    "canonical": "B014-S071",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S072": {
+    "canonical": "B014-S072",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S073": {
+    "canonical": "B014-S073",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S074": {
+    "canonical": "B014-S074",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S075": {
+    "canonical": "B014-S075",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S076": {
+    "canonical": "B014-S076",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S077": {
+    "canonical": "B014-S077",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S078": {
+    "canonical": "B014-S078",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S079": {
+    "canonical": "B014-S079",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S080": {
+    "canonical": "B014-S080",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S081": {
+    "canonical": "B014-S081",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S082": {
+    "canonical": "B014-S082",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S083": {
+    "canonical": "B014-S083",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S084": {
+    "canonical": "B014-S084",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S085": {
+    "canonical": "B014-S085",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S086": {
+    "canonical": "B014-S086",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S087": {
+    "canonical": "B014-S087",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S088": {
+    "canonical": "B014-S088",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B015-S089": {
+    "canonical": "B014-S089",
+    "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+  },
+  "B029-S114": {
+    "canonical": "B003-S146/B003-S147",
+    "reason": "Combined selector repeats the two accessory names newly translated in catalog3, not a new distinct text."
+  },
+  "B029-S115": {
+    "canonical": "B002-S036",
+    "reason": "Bare selector variant of the already translated miracle-liquor item label, not a new distinct text."
+  },
+  "B016-S008": {
+    "canonical": "B014-S039",
+    "reason": "Title variant of the same Phantom Castle label, no new distinct source counted."
+  },
+  "B041-S103": {
+    "canonical": "B041-S097",
+    "reason": "Same complete text; only native pause markers differ."
+  },
+  "B086-S008": {
+    "canonical": "B086-S007",
+    "reason": "Same badge notification; only party substitution slot differs."
+  },
+  "B086-S009": {
+    "canonical": "B086-S007",
+    "reason": "Same badge notification; only party substitution slot differs."
+  },
+  "B095-S019": {
+    "canonical": "B095-S017",
+    "reason": "Same complete deadline warning; only pauses and wrapping differ."
+  },
+  "B041-S082": {
+    "canonical": "B041-S052",
+    "reason": "Fixed-name Manto version of the same Higan-gives-pet-kibble notification."
+  },
+  "B041-S040": {
+    "canonical": "B041-S036",
+    "reason": "Same dead-creature status text; species name and health maximum are precomposed data variants."
+  },
+  "B041-S048": {
+    "canonical": "B041-S036",
+    "reason": "Same dead-creature status text; species name and health maximum are precomposed data variants."
+  },
+  "B041-S050": {
+    "canonical": "B041-S049",
+    "reason": "Same Octarrot grunt body with a different precomposed status field."
+  },
+  "B041-S051": {
+    "canonical": "B041-S049",
+    "reason": "Same Octarrot grunt family; state and repeated-cry count are not a new translation."
+  },
+  "B041-S042": {
+    "canonical": "B041-S041",
+    "reason": "Same Rabshroom voice; elongation, repetition and state variant not counted again."
+  },
+  "B041-S038": {
+    "canonical": "B041-S037",
+    "reason": "Same Pinchapine grumble voice with species-cry/state variation; conservatively excluded."
+  }
+}

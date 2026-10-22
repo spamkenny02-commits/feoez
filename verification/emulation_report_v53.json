@@ -1,0 +1,80 @@
+{
+  "version": "V53",
+  "lot": 47,
+  "phase": 1,
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "tag": "lot47p400d",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "ips_sha256": "0ac14f5583ba54ab3a7b00156a3dac61f4274b9fff14b0f9436c47713f7c9272",
+  "native_lookup_checks": 6756,
+  "allocation_checks": {
+    "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+    "passed": 14,
+    "checks": [
+      "Fitting block uses its own audited span",
+      "Both aliases 81/82 move together",
+      "Relocated block keeps its English source bytes",
+      "ROM length and allocation counts are correct",
+      "Overlapping source blocks rejected",
+      "Pool exhaustion rejected before output",
+      "Invalid group target rejected",
+      "Unrelated directory write rejected",
+      "Unverified source bytes rejected",
+      "Missing alias rejected",
+      "Unverified span length rejected",
+      "Occupied free pool rejected",
+      "Input ROM on disk unchanged after successes and rejections",
+      "All actual rebuilt blocks reproduce the tested ROM byte for byte with current allocator"
+    ],
+    "scope": "Allocation safety; actual rebuilt strings are exercised separately by native 65816 routines."
+  },
+  "independent_reproduction": {
+    "version": "V53",
+    "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+    "independent_build_v53_reproduction": true,
+    "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+    "ips_sha256": "0ac14f5583ba54ab3a7b00156a3dac61f4274b9fff14b0f9436c47713f7c9272",
+    "script": "tools/build_v53.py",
+    "source_and_output_roms_private": true
+  },
+  "runtime_suite_cases": 722,
+  "runtime_groups": {
+    "catalogs": 236,
+    "messages": 153,
+    "labels": 191,
+    "formats": 103,
+    "stress": 39
+  },
+  "all_native_reads_complete": true,
+  "visual_review": "619 text captures actually reviewed; five system views, real Almanac and21 changed regression pairs also opened.",
+  "regression_comparisons": {
+    "startup": {
+      "total": 85,
+      "identical": 69,
+      "changed": 16
+    },
+    "navigation": {
+      "total": 7,
+      "identical": 2,
+      "changed": 5
+    }
+  },
+  "checks_executed": [
+    "Pinned English standalone rebuild; checksum, IPS roundtrip, full previous5381 rows and authorized byte-span preservation.",
+    "14 allocator/storage checks,6756 native source/output/fallback lookup reads.",
+    "Fresh standard-core boot, A/reset/B, field replay, menu/settings/map navigation.",
+    "Fresh same-ROM diagnostic state,722 staged native fixtures, exact consumed slot validation and page capture.",
+    "447 finite native-lookup battle result expansions <=43bytes/196pixels.",
+    "Actual standard-core Almanac opening from new same-ROM replay."
+  ],
+  "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "diagnostic_core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394",
+  "scope_limits": [
+    "Some selected pause snapshots precede complete text; complete subsequent pages also reviewed.",
+    "No natural nursery/feeding/gift selector or music synchronization proof.",
+    "Location label dialogue fixtures do not prove every map/save-field placement; only actual Fire Bear region map revisited.",
+    "Result strings rendered with native dialogue fixtures and447 finite expansions; actual FD8B battle-result window not replayed.",
+    "General menus/settings, English Biorhythm graphic and weekday graphics remain; exhaustive phase2 and global phase3 are open."
+  ],
+  "event_progression_complete": false
+}

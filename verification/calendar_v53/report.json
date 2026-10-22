@@ -1,0 +1,9 @@
+{
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "field_state_sha256": "82bf5739c1340dba8b03a6ae79a13a9a536c120b16777d1db62d71102c9f5ccb",
+  "scope": "Controller navigation to the real Almanac from a fresh same-ROM replay; no synthetic text-slot fixture.",
+  "visual_review": "Full final-ROM capture opened: real22/12/1995 Almanac, seven French native labels, Jour faste, Solstice d’hiver and French B018-S182 notice visible; English Biorhythm and weekday graphics still pending phase2.",
+  "expected_replay_date": "1995-12-22",
+  "image": "almanac_open.png"
+}

@@ -58,7 +58,8 @@ def run_case(case):
   for slot,raw_hex in slot_fixture['slots'].items():
    assert f'synthetic_slot={slot} hex={raw_hex}' in ''.join(log)
    observed=re.findall(rf'consumed_slot={slot} hex=([0-9a-f]+)', ''.join(log))
-   assert observed and all(v==raw_hex for v in observed),(name,slot,raw_hex,observed)
+   expected=slot_fixture.get('expected_consumed_slots',{}).get(slot,[raw_hex])
+   assert observed and all(v in expected for v in observed),(name,slot,expected,observed)
   result['synthetic_slot_fixture']=slot_fixture;result['event_values_validated']=False
  if not passed:raise AssertionError(result)
  if a.compact:

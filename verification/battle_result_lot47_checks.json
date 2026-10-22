@@ -1,0 +1,2691 @@
+{
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "native_lookup_expansions": 447,
+  "maximum_bytes": 43,
+  "maximum_pixels": 196,
+  "scope": "Bound FD8B result messages; native lookup plus finite producer domains.\nNo battle progression, PPU drawing or UI pagination claim.\n",
+  "cases": [
+    {
+      "id": "B043-S001",
+      "expanded": "Gain : 2 ryo.",
+      "bytes": 13,
+      "pixels": 54
+    },
+    {
+      "id": "B043-S001",
+      "expanded": "Gain : 3 ryo.",
+      "bytes": 13,
+      "pixels": 54
+    },
+    {
+      "id": "B043-S001",
+      "expanded": "Gain : 38999437 ryo.",
+      "bytes": 20,
+      "pixels": 102
+    },
+    {
+      "id": "B043-S002",
+      "expanded": "Vertu gagnée : 2.",
+      "bytes": 17,
+      "pixels": 77
+    },
+    {
+      "id": "B043-S002",
+      "expanded": "Vertu gagnée : 3.",
+      "bytes": 17,
+      "pixels": 77
+    },
+    {
+      "id": "B043-S002",
+      "expanded": "Vertu gagnée : 38999437.",
+      "bytes": 24,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Higan : rang 3 !",
+      "bytes": 16,
+      "pixels": 66
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Higan : rang ;; !",
+      "bytes": 17,
+      "pixels": 66
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Higan : rang 477 !",
+      "bytes": 18,
+      "pixels": 81
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Subaru : rang 3 !",
+      "bytes": 17,
+      "pixels": 74
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Subaru : rang ;; !",
+      "bytes": 18,
+      "pixels": 74
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Subaru : rang 477 !",
+      "bytes": 19,
+      "pixels": 89
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Tenjin : rang 3 !",
+      "bytes": 17,
+      "pixels": 71
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Tenjin : rang ;; !",
+      "bytes": 18,
+      "pixels": 71
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Tenjin : rang 477 !",
+      "bytes": 19,
+      "pixels": 86
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Mizuki : rang 3 !",
+      "bytes": 17,
+      "pixels": 70
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Mizuki : rang ;; !",
+      "bytes": 18,
+      "pixels": 70
+    },
+    {
+      "id": "B043-S003",
+      "expanded": "Mizuki : rang 477 !",
+      "bytes": 19,
+      "pixels": 85
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Entaille ardente !",
+      "bytes": 32,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lame du tonnerre !",
+      "bytes": 32,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lame tonitruante !",
+      "bytes": 32,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lame de Sennin !",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lame de Basara !",
+      "bytes": 30,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lame du Dragon !",
+      "bytes": 30,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Éléphant ardent !",
+      "bytes": 31,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Silure électrique !",
+      "bytes": 33,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Faucon du vent !",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Lion d'acier !",
+      "bytes": 28,
+      "pixels": 119
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Araignée du monde de glace !",
+      "bytes": 42,
+      "pixels": 188
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Papillon miracle !",
+      "bytes": 32,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Taon Sanglier !",
+      "bytes": 29,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Mouche Étoile d'or !",
+      "bytes": 34,
+      "pixels": 150
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Mouche Kabuki !",
+      "bytes": 29,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Salto ardent !",
+      "bytes": 28,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Salto résonnant !",
+      "bytes": 31,
+      "pixels": 141
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Salto des Enfers !",
+      "bytes": 32,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Table renversée !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Salto de l'Hirondelle !",
+      "bytes": 37,
+      "pixels": 158
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Salto tournoyant !",
+      "bytes": 32,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir buccal !",
+      "bytes": 29,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir corporel !",
+      "bytes": 31,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir obscur !",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir des rêves !",
+      "bytes": 32,
+      "pixels": 142
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir lunaire !",
+      "bytes": 30,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Miroir du cœur !",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Poing colossal !",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Double gifle !",
+      "bytes": 28,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Higan apprend Adieu !",
+      "bytes": 21,
+      "pixels": 92
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Entaille ardente !",
+      "bytes": 33,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lame du tonnerre !",
+      "bytes": 33,
+      "pixels": 155
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lame tonitruante !",
+      "bytes": 33,
+      "pixels": 154
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lame de Sennin !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lame de Basara !",
+      "bytes": 31,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lame du Dragon !",
+      "bytes": 31,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Éléphant ardent !",
+      "bytes": 32,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Silure électrique !",
+      "bytes": 34,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Faucon du vent !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Lion d'acier !",
+      "bytes": 29,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Araignée du monde de glace !",
+      "bytes": 43,
+      "pixels": 196
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Papillon miracle !",
+      "bytes": 33,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Taon Sanglier !",
+      "bytes": 30,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Mouche Étoile d'or !",
+      "bytes": 35,
+      "pixels": 158
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Mouche Kabuki !",
+      "bytes": 30,
+      "pixels": 141
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Salto ardent !",
+      "bytes": 29,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Salto résonnant !",
+      "bytes": 32,
+      "pixels": 149
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Salto des Enfers !",
+      "bytes": 33,
+      "pixels": 152
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Table renversée !",
+      "bytes": 32,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Salto de l'Hirondelle !",
+      "bytes": 38,
+      "pixels": 166
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Salto tournoyant !",
+      "bytes": 33,
+      "pixels": 154
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir buccal !",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir corporel !",
+      "bytes": 32,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir obscur !",
+      "bytes": 30,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir des rêves !",
+      "bytes": 33,
+      "pixels": 150
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir lunaire !",
+      "bytes": 31,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Miroir du cœur !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Poing colossal !",
+      "bytes": 31,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Double gifle !",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Subaru apprend Adieu !",
+      "bytes": 22,
+      "pixels": 100
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Entaille ardente !",
+      "bytes": 33,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lame du tonnerre !",
+      "bytes": 33,
+      "pixels": 152
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lame tonitruante !",
+      "bytes": 33,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lame de Sennin !",
+      "bytes": 31,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lame de Basara !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lame du Dragon !",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Éléphant ardent !",
+      "bytes": 32,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Silure électrique !",
+      "bytes": 34,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Faucon du vent !",
+      "bytes": 31,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Lion d'acier !",
+      "bytes": 29,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Araignée du monde de glace !",
+      "bytes": 43,
+      "pixels": 193
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Papillon miracle !",
+      "bytes": 33,
+      "pixels": 142
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Taon Sanglier !",
+      "bytes": 30,
+      "pixels": 136
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Mouche Étoile d'or !",
+      "bytes": 35,
+      "pixels": 155
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Mouche Kabuki !",
+      "bytes": 30,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Salto ardent !",
+      "bytes": 29,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Salto résonnant !",
+      "bytes": 32,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Salto des Enfers !",
+      "bytes": 33,
+      "pixels": 149
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Table renversée !",
+      "bytes": 32,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Salto de l'Hirondelle !",
+      "bytes": 38,
+      "pixels": 163
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Salto tournoyant !",
+      "bytes": 33,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir buccal !",
+      "bytes": 30,
+      "pixels": 132
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir corporel !",
+      "bytes": 32,
+      "pixels": 142
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir obscur !",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir des rêves !",
+      "bytes": 33,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir lunaire !",
+      "bytes": 31,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Miroir du cœur !",
+      "bytes": 31,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Poing colossal !",
+      "bytes": 31,
+      "pixels": 136
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Double gifle !",
+      "bytes": 29,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Tenjin apprend Adieu !",
+      "bytes": 22,
+      "pixels": 97
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Entaille ardente !",
+      "bytes": 33,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lame du tonnerre !",
+      "bytes": 33,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lame tonitruante !",
+      "bytes": 33,
+      "pixels": 150
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lame de Sennin !",
+      "bytes": 31,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lame de Basara !",
+      "bytes": 31,
+      "pixels": 142
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lame du Dragon !",
+      "bytes": 31,
+      "pixels": 142
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Éléphant ardent !",
+      "bytes": 32,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Silure électrique !",
+      "bytes": 34,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Faucon du vent !",
+      "bytes": 31,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Lion d'acier !",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Araignée du monde de glace !",
+      "bytes": 43,
+      "pixels": 192
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Papillon miracle !",
+      "bytes": 33,
+      "pixels": 141
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Taon Sanglier !",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Mouche Étoile d'or !",
+      "bytes": 35,
+      "pixels": 154
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Mouche Kabuki !",
+      "bytes": 30,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Salto ardent !",
+      "bytes": 29,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Salto résonnant !",
+      "bytes": 32,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Salto des Enfers !",
+      "bytes": 33,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Table renversée !",
+      "bytes": 32,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Salto de l'Hirondelle !",
+      "bytes": 38,
+      "pixels": 162
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Salto tournoyant !",
+      "bytes": 33,
+      "pixels": 150
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir buccal !",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir corporel !",
+      "bytes": 32,
+      "pixels": 141
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir obscur !",
+      "bytes": 30,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir des rêves !",
+      "bytes": 33,
+      "pixels": 146
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir lunaire !",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Miroir du cœur !",
+      "bytes": 31,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Poing colossal !",
+      "bytes": 31,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Double gifle !",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S004",
+      "expanded": "Mizuki apprend Adieu !",
+      "bytes": 22,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : Parler.",
+      "bytes": 15,
+      "pixels": 64
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : Ouvrir fenêtre.",
+      "bytes": 23,
+      "pixels": 102
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : Fouiller.",
+      "bytes": 17,
+      "pixels": 68
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : Parler-Fouiller.",
+      "bytes": 24,
+      "pixels": 103
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : Carte complète.",
+      "bytes": 23,
+      "pixels": 103
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la lettre de Momoko.",
+      "bytes": 28,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la première lettre d'amour.",
+      "bytes": 35,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre passionnée.",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre pleine de désir.",
+      "bytes": 35,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre au cœur brisé.",
+      "bytes": 33,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre solitaire.",
+      "bytes": 29,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre pleine de chagrin.",
+      "bytes": 37,
+      "pixels": 157
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre malheureuse.",
+      "bytes": 31,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre de rancœur.",
+      "bytes": 30,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une lettre d'adieu.",
+      "bytes": 27,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un sac à or.",
+      "bytes": 20,
+      "pixels": 84
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un sac à or déchiré.",
+      "bytes": 28,
+      "pixels": 119
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un lingot d'or.",
+      "bytes": 23,
+      "pixels": 93
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule du Seigneur céleste.",
+      "bytes": 39,
+      "pixels": 167
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule de soin.",
+      "bytes": 27,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'huile de massette.",
+      "bytes": 28,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le manju Bouddhiste.",
+      "bytes": 28,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le manju Carapace.",
+      "bytes": 26,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le manju aux châtaignes.",
+      "bytes": 32,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le manju.",
+      "bytes": 17,
+      "pixels": 70
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le kusa dango.",
+      "bytes": 22,
+      "pixels": 94
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule du Joueur.",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule de la Tortue.",
+      "bytes": 32,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Eau de vie.",
+      "bytes": 21,
+      "pixels": 83
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lumière solaire.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lumière lunaire.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lumière stellaire.",
+      "bytes": 30,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule toute-puissante.",
+      "bytes": 35,
+      "pixels": 153
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule Souple.",
+      "bytes": 26,
+      "pixels": 109
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule relaxante.",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un myosotis.",
+      "bytes": 20,
+      "pixels": 86
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un maillet en bois.",
+      "bytes": 27,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule de wasabi.",
+      "bytes": 29,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule solaire.",
+      "bytes": 27,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un antidote.",
+      "bytes": 20,
+      "pixels": 85
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Liqueur miraculeuse.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Saké de vie.",
+      "bytes": 23,
+      "pixels": 95
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Bento amoureux.",
+      "bytes": 26,
+      "pixels": 118
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Sourire affectueux.",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un peu de chocolat.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Biscuit d'amour.",
+      "bytes": 27,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Bonbon blanc.",
+      "bytes": 24,
+      "pixels": 103
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage revigorant.",
+      "bytes": 31,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage d'essence.",
+      "bytes": 30,
+      "pixels": 132
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage tourbillonnant.",
+      "bytes": 35,
+      "pixels": 153
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage de l'esprit.",
+      "bytes": 32,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage du sorcier.",
+      "bytes": 31,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Breuvage occulte.",
+      "bytes": 28,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une pierre d'envol.",
+      "bytes": 27,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une pierre de retour.",
+      "bytes": 29,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Tambour agréable.",
+      "bytes": 28,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Tambour agaçant.",
+      "bytes": 27,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Clochette du Chat.",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Remède puissant.",
+      "bytes": 27,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Remède fortifié.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Remède rapide.",
+      "bytes": 25,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Parfum Étouffant.",
+      "bytes": 28,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Parfum envoûtant.",
+      "bytes": 28,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Parfum du soir.",
+      "bytes": 26,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Lune ardente.",
+      "bytes": 24,
+      "pixels": 105
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Lune du souvenir.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Lune fondante.",
+      "bytes": 25,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Poudre de faiblesse.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Poudre de chagrin.",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Poudre de sommeil.",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Poudre d'idiotie.",
+      "bytes": 28,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman de bois.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman rouge.",
+      "bytes": 26,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman blanc.",
+      "bytes": 26,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman noir.",
+      "bytes": 25,
+      "pixels": 107
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman bleu.",
+      "bytes": 25,
+      "pixels": 108
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Talisman violet.",
+      "bytes": 27,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pot ardent.",
+      "bytes": 22,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pot ardent.",
+      "bytes": 22,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un yo-yo.",
+      "bytes": 17,
+      "pixels": 74
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Bouclier ourson.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Éclat d'arc-en-ciel.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la flûte Mandala.",
+      "bytes": 25,
+      "pixels": 108
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un précieux coffret.",
+      "bytes": 28,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence corporelle.",
+      "bytes": 29,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence de technique.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence de force.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence de garde.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence de vitesse.",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Essence de chance.",
+      "bytes": 28,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Croquettes Tête.",
+      "bytes": 28,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Croquettes Corps.",
+      "bytes": 29,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Croquettes Coeur.",
+      "bytes": 29,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Croquettes Pet.",
+      "bytes": 27,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Croquettes Mystère.",
+      "bytes": 31,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la clé de l'Amour uni.",
+      "bytes": 30,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une poupée en abricotier.",
+      "bytes": 33,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une poupée mécanique.",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une boîte à musique.",
+      "bytes": 28,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une poêle fleurie.",
+      "bytes": 26,
+      "pixels": 109
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un sac fleuri.",
+      "bytes": 22,
+      "pixels": 91
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un futon de plumes.",
+      "bytes": 27,
+      "pixels": 118
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Flamme éternelle.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la corne de l'ermite.",
+      "bytes": 29,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la larme du Paon.",
+      "bytes": 25,
+      "pixels": 107
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la clé de Juri.",
+      "bytes": 23,
+      "pixels": 92
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le cœur du Chien divin.",
+      "bytes": 31,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le nid des insectes mange-or.",
+      "bytes": 37,
+      "pixels": 161
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une batée.",
+      "bytes": 18,
+      "pixels": 78
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la poudre d'or.",
+      "bytes": 23,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bon d'or.",
+      "bytes": 20,
+      "pixels": 83
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un sablier.",
+      "bytes": 19,
+      "pixels": 78
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule rafraîchissante.",
+      "bytes": 35,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Pilule du Sot.",
+      "bytes": 26,
+      "pixels": 109
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une épée rouillée.",
+      "bytes": 26,
+      "pixels": 109
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'épée de l'Ours de Feu.",
+      "bytes": 32,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'épée de la Grue blanche.",
+      "bytes": 34,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'épée d'Agni.",
+      "bytes": 22,
+      "pixels": 88
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'épée de Higan.",
+      "bytes": 24,
+      "pixels": 99
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'orbe de Hisui.",
+      "bytes": 24,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'orbe du Dragon.",
+      "bytes": 25,
+      "pixels": 107
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'orbe de la Tortue.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'orbe de Subaru.",
+      "bytes": 25,
+      "pixels": 107
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le miroir du Temps.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le miroir de Mizuki.",
+      "bytes": 28,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le miroir de l'Arche.",
+      "bytes": 29,
+      "pixels": 118
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le miroir de Tenjin.",
+      "bytes": 28,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame éclair.",
+      "bytes": 24,
+      "pixels": 103
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Dague d'étreinte.",
+      "bytes": 29,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le Katana sombre.",
+      "bytes": 25,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lance perçante.",
+      "bytes": 27,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana du Dragon rouge.",
+      "bytes": 34,
+      "pixels": 154
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le katana de Mizuki.",
+      "bytes": 28,
+      "pixels": 119
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épée longue du Dragon royal.",
+      "bytes": 40,
+      "pixels": 177
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana Ashura.",
+      "bytes": 25,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épée longue étincelante.",
+      "bytes": 36,
+      "pixels": 157
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana décapiteur.",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame rugissante.",
+      "bytes": 28,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épée à double tranchant.",
+      "bytes": 36,
+      "pixels": 160
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épée longue de la Grue.",
+      "bytes": 35,
+      "pixels": 152
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana salvateur.",
+      "bytes": 28,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Éventail doré.",
+      "bytes": 25,
+      "pixels": 106
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Dague des larmes.",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame de glace.",
+      "bytes": 26,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame du tonnerre.",
+      "bytes": 29,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Fouet de princesse.",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame de tempête.",
+      "bytes": 28,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les cisailles de jardin.",
+      "bytes": 32,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Dague de l'Égide.",
+      "bytes": 29,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana de pluie nocturne.",
+      "bytes": 36,
+      "pixels": 158
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Dague assoupissante.",
+      "bytes": 32,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un râteau d'acier.",
+      "bytes": 26,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un couteau à découper.",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana tordu.",
+      "bytes": 24,
+      "pixels": 107
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Couteau tout-puissant.",
+      "bytes": 33,
+      "pixels": 150
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la hache à bois.",
+      "bytes": 24,
+      "pixels": 99
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana noirci.",
+      "bytes": 25,
+      "pixels": 106
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Dague vive.",
+      "bytes": 23,
+      "pixels": 99
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lance de bois.",
+      "bytes": 26,
+      "pixels": 112
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana de bois.",
+      "bytes": 26,
+      "pixels": 112
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana du Bushido.",
+      "bytes": 29,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana à coup unique.",
+      "bytes": 32,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana du halètement.",
+      "bytes": 32,
+      "pixels": 144
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame souillée.",
+      "bytes": 26,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana Yaksha.",
+      "bytes": 25,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Katana jouet.",
+      "bytes": 24,
+      "pixels": 105
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Lame de l'Abeille.",
+      "bytes": 30,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure de lames.",
+      "bytes": 26,
+      "pixels": 112
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe d'étoiles précieuses.",
+      "bytes": 38,
+      "pixels": 164
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure miroir d'eau.",
+      "bytes": 30,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe de lumière.",
+      "bytes": 28,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure du Dragon royal.",
+      "bytes": 33,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Kimono angélique.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau de terrain.",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe de rosée du soir.",
+      "bytes": 34,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure renommée.",
+      "bytes": 26,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau de poussière d'astre.",
+      "bytes": 40,
+      "pixels": 179
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe du zéphyr.",
+      "bytes": 27,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Kimono du souvenir.",
+      "bytes": 30,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure du soleil couchant.",
+      "bytes": 36,
+      "pixels": 154
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe de brume.",
+      "bytes": 26,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Vêtements d'argent.",
+      "bytes": 31,
+      "pixels": 138
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe miroir.",
+      "bytes": 24,
+      "pixels": 102
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Vêtements de princesse.",
+      "bytes": 35,
+      "pixels": 156
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe de brouillard.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau de feuilles vertes.",
+      "bytes": 38,
+      "pixels": 168
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure obstinée.",
+      "bytes": 26,
+      "pixels": 112
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure d'or.",
+      "bytes": 22,
+      "pixels": 92
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau de feuillage.",
+      "bytes": 32,
+      "pixels": 140
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe pare-feu.",
+      "bytes": 26,
+      "pixels": 118
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure d'étain rouge.",
+      "bytes": 31,
+      "pixels": 132
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Kimono de jeune fille.",
+      "bytes": 33,
+      "pixels": 137
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure champignon.",
+      "bytes": 28,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Kimono vaillant.",
+      "bytes": 27,
+      "pixels": 113
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe sacerdotale.",
+      "bytes": 29,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Kimono de mailles.",
+      "bytes": 29,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Vêtements transparents.",
+      "bytes": 35,
+      "pixels": 161
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Vêtements de shinobi.",
+      "bytes": 33,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la robe de Hisui.",
+      "bytes": 25,
+      "pixels": 102
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure de cuir.",
+      "bytes": 25,
+      "pixels": 105
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les Vêtements de chanvre.",
+      "bytes": 33,
+      "pixels": 149
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les haillons.",
+      "bytes": 21,
+      "pixels": 84
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure Breakalegor.",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau importé.",
+      "bytes": 27,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe à douze couches.",
+      "bytes": 33,
+      "pixels": 148
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Robe chinoise.",
+      "bytes": 26,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Manteau assorti.",
+      "bytes": 27,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure mortier.",
+      "bytes": 25,
+      "pixels": 108
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'Armure de bois étrange.",
+      "bytes": 33,
+      "pixels": 143
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre de l'Ours de Feu.",
+      "bytes": 35,
+      "pixels": 147
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre du Paon.",
+      "bytes": 26,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre de la Grue.",
+      "bytes": 29,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre de la Tortue.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre du Chien divin.",
+      "bytes": 33,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la pierre du Dragon.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Poche d'air.",
+      "bytes": 24,
+      "pixels": 101
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la Robe de la Grue.",
+      "bytes": 27,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un insigne d'or.",
+      "bytes": 24,
+      "pixels": 97
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Capuche violette.",
+      "bytes": 29,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Capuche noire.",
+      "bytes": 26,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Capuche rouge.",
+      "bytes": 26,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Capuche à oreilles de chat.",
+      "bytes": 39,
+      "pixels": 169
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Capuche du désastre.",
+      "bytes": 32,
+      "pixels": 145
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Masque louche.",
+      "bytes": 25,
+      "pixels": 112
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Beau masque.",
+      "bytes": 23,
+      "pixels": 103
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Masque grimaçant.",
+      "bytes": 28,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Masque hideux.",
+      "bytes": 25,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Masque de merde.",
+      "bytes": 27,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Couronne.",
+      "bytes": 21,
+      "pixels": 94
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Chapeau de soie.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Pot de poudre d'or.",
+      "bytes": 30,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de fer.",
+      "bytes": 25,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de vent.",
+      "bytes": 26,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de foudre.",
+      "bytes": 28,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de feu.",
+      "bytes": 25,
+      "pixels": 110
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque d'eau.",
+      "bytes": 24,
+      "pixels": 104
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque d'oiseau.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de crabe.",
+      "bytes": 27,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque de merde.",
+      "bytes": 27,
+      "pixels": 121
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Casque d'abricotier.",
+      "bytes": 31,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épingle à cheveux de pêche.",
+      "bytes": 39,
+      "pixels": 170
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épingle à cheveux de sakura.",
+      "bytes": 40,
+      "pixels": 175
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une Épingle à cheveux glycine.",
+      "bytes": 38,
+      "pixels": 162
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Peigne d'automne.",
+      "bytes": 28,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Peigne d'érable.",
+      "bytes": 27,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Bonnet de sage.",
+      "bytes": 26,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Pendentif de pierre.",
+      "bytes": 31,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un Pendentif d'étoile.",
+      "bytes": 30,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pendentif fleuri.",
+      "bytes": 28,
+      "pixels": 118
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pendentif lunaire.",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pendentif de rêve.",
+      "bytes": 29,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un pendentif d'amour.",
+      "bytes": 29,
+      "pixels": 126
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les boucles d'oreilles fleuries.",
+      "bytes": 40,
+      "pixels": 165
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau du vent.",
+      "bytes": 26,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau du tonnerre.",
+      "bytes": 30,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau du feu.",
+      "bytes": 25,
+      "pixels": 109
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de l'eau.",
+      "bytes": 27,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau mécanique.",
+      "bytes": 28,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau du jugement.",
+      "bytes": 30,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de fortune.",
+      "bytes": 29,
+      "pixels": 129
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de l'Âme.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de perle.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de ruine.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de sérénité.",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau de tentation.",
+      "bytes": 31,
+      "pixels": 136
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un anneau vacillant.",
+      "bytes": 28,
+      "pixels": 119
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'anneau de Hisui.",
+      "bytes": 26,
+      "pixels": 106
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bracelet du vent.",
+      "bytes": 28,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bracelet de foudre.",
+      "bytes": 30,
+      "pixels": 132
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bracelet du feu.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bracelet de l'eau.",
+      "bytes": 29,
+      "pixels": 122
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bracelet du roi.",
+      "bytes": 27,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le bracelet du sabreur.",
+      "bytes": 31,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un gantelet à lame.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un gantelet à griffe.",
+      "bytes": 29,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le gantelet de force.",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la ceinture corporelle.",
+      "bytes": 31,
+      "pixels": 132
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la ceinture technique.",
+      "bytes": 30,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la ceinture de force.",
+      "bytes": 29,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : la ceinture de garde.",
+      "bytes": 29,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales ailées.",
+      "bytes": 28,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les souliers comète.",
+      "bytes": 28,
+      "pixels": 120
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales de pêche.",
+      "bytes": 30,
+      "pixels": 130
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales du vent.",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les chaussettes de soie.",
+      "bytes": 32,
+      "pixels": 139
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les chaussettes à la mode.",
+      "bytes": 34,
+      "pixels": 149
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales de voyage.",
+      "bytes": 31,
+      "pixels": 135
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales de paille.",
+      "bytes": 31,
+      "pixels": 128
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les bottes de contrefaçon.",
+      "bytes": 34,
+      "pixels": 152
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les socques de bois.",
+      "bytes": 28,
+      "pixels": 119
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les socques de fer.",
+      "bytes": 27,
+      "pixels": 117
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les escarpins de princesse.",
+      "bytes": 35,
+      "pixels": 151
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les bottes de sécurité.",
+      "bytes": 31,
+      "pixels": 134
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les sandales jumelles.",
+      "bytes": 30,
+      "pixels": 127
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les raquettes.",
+      "bytes": 22,
+      "pixels": 96
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les godasses de merde.",
+      "bytes": 30,
+      "pixels": 133
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un éventail d'acier.",
+      "bytes": 28,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un éventail de bois.",
+      "bytes": 28,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une écharpe blanche.",
+      "bytes": 28,
+      "pixels": 124
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une écharpe à bulles.",
+      "bytes": 29,
+      "pixels": 125
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : une écharpe jaune.",
+      "bytes": 26,
+      "pixels": 114
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un gratte-dos.",
+      "bytes": 22,
+      "pixels": 99
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bibelot protecteur.",
+      "bytes": 30,
+      "pixels": 131
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : un bibelot châtaigne.",
+      "bytes": 29,
+      "pixels": 123
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le pull tricoté.",
+      "bytes": 24,
+      "pixels": 97
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : le bonnet tricoté.",
+      "bytes": 26,
+      "pixels": 111
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : les gants tricotés.",
+      "bytes": 27,
+      "pixels": 116
+    },
+    {
+      "id": "B043-S005",
+      "expanded": "Butin : l'écharpe tricotée.",
+      "bytes": 27,
+      "pixels": 115
+    },
+    {
+      "id": "B043-S006",
+      "expanded": "Brisé : un Katana du halètement.",
+      "bytes": 32,
+      "pixels": 144
+    }
+  ]
+}

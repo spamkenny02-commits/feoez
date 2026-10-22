@@ -1,0 +1,132 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "native_copier_executions": 52,
+  "mode_catalogs": [
+    {
+      "source": "B041-S126",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S127",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S128",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S129",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S131",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S132",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S133",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S134",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S136",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S137",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B041-S138",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B066-S032",
+      "slot_payload": "08",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    },
+    {
+      "source": "B066-S033",
+      "slot_payload": "0a",
+      "pixel_advance": 0,
+      "proof": "Native08/0A mode flags, see text_modes_lot46.json"
+    }
+  ],
+  "static_grid_bindings": [
+    {
+      "offset": "0x64530",
+      "bytes": "887e010403887f01",
+      "scope": "Same block41 event region; feeds style slots05/06 before text130"
+    },
+    {
+      "offset": "0x6453d",
+      "bytes": "88800204038881020182",
+      "scope": "Same block41 event region; feeds style slots05/06 before text130"
+    },
+    {
+      "source": "B066-S032",
+      "common_lookup": "0xc7cb91",
+      "common_id": 1,
+      "routine": "0xc7cd6f",
+      "bytes": "0e203c2b050a09881b0200",
+      "binding": "Push style text index, post-increment052B, push old counter as slot;09 enables stack operands for88."
+    },
+    {
+      "source": "B066-S033",
+      "common_lookup": "0xc7cb91",
+      "common_id": 2,
+      "routine": "0xc7cd7a",
+      "bytes": "0e213c2b050a09881b0200",
+      "binding": "Push style text index, post-increment052B, push old counter as slot;09 enables stack operands for88."
+    },
+    {
+      "visible_grid": "B066-S035",
+      "text_call": "0x7cdd8",
+      "preceding_common_calls": "0104026202ffd0610804620104026202",
+      "proof": "Static same-event paths call01 or02 per inventory condition before this grid. Actual availability and selector branches remain untested."
+    },
+    {
+      "visible_grid": "B066-S036",
+      "text_call": "0x7ce08",
+      "preceding_common_calls": "0104026202ffd03b0804620104026202",
+      "proof": "Static same-event paths call01 or02 per inventory condition before this grid. Actual availability and selector branches remain untested."
+    },
+    {
+      "visible_grid": "B066-S037",
+      "text_call": "0x7ce2d",
+      "preceding_common_calls": "0104026202ffd03a0804620104026202",
+      "proof": "Static same-event paths call01 or02 per inventory condition before this grid. Actual availability and selector branches remain untested."
+    }
+  ],
+  "contract": "Slots carry zero-advance native08/0A commands, not quantities or names.",
+  "scope": "Finite native leaf copies and static event fragments, not full event interpretation or natural selectors."
+}

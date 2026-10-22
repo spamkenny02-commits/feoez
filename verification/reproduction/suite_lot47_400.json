@@ -1,0 +1,45 @@
+{
+  "lot": 47,
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "native_month_sources": 12,
+  "new_bounded_occurrences": 580,
+  "case_count": 722,
+  "scope": "Synthetic native text consumption/rendering; actual map/save UI, event branches, clock, selectors and music require separate evidence.",
+  "groups": [
+    {
+      "name": "catalogs",
+      "cases": "cases_lot47_400_catalogs.json",
+      "slot_fixtures": "fixtures_lot47_400_catalogs.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "messages",
+      "cases": "cases_lot47_400_messages.json",
+      "slot_fixtures": "fixtures_lot47_400_messages.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "labels",
+      "cases": "cases_lot47_400_labels.json",
+      "slot_fixtures": "fixtures_lot47_400_labels.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "formats",
+      "cases": "cases_lot47_400_formats.json",
+      "slot_fixtures": "fixtures_lot47_400_formats.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "stress",
+      "cases": "cases_lot47_400_stress.json",
+      "slot_fixtures": "fixtures_lot47_400_stress.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    }
+  ]
+}

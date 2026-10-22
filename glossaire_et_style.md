@@ -828,3 +828,25 @@ aux traditions, sans masquer leurs réticences envers Higan.
   B040-S154 : « vous l’aurez bien cherché », avec l’ neutre.
 - Les modes 08/09/0A sont conservés ; les sondes de handlers ne prouvent pas
   à elles seules leur sens visuel, la musique ou les effets des événements.
+
+
+## Lot47 en préparation — champs de terrain et formats
+
+- Les cataloguesB014/B015 désignent les mêmes lieux : une seule source
+  distincte par lieu, y compris le laboratoire dont les deux noms anglais
+  diffèrent légèrement. Mahamayuri et Ma-Djinn sont inchangés et non comptés.
+- Crête des Pétales, village du Saké et galerie du Trésor reprennent les
+  formulations déjà présentes dans les dialogues.
+- « Passage Grue-Tortue » est une étiquette compacte du passage de la Grue
+  et de la Tortue ; « Labo Or et Argent d’Akamaru » reprend le laboratoire
+  de recherche. Les libellés sont bornés à31 octets ; leur lecteur natif
+  de centrage est contrôlé séparément des menus de sauvegarde.
+- Les champs d’élevage conservent un nom de10 octets maximum, jusqu’à110px
+  conservateurs, sans remplacer cette borne par celle d’un nombre. Les
+  variables des choix de croquettes et cadeaux portent des commandes de
+  style08/0A, à avance nulle, et non des quantités.
+- Les mois deviennent janvier..décembre. x4 produit1er,2e..31e ; les dates
+  explicitent donc « jour ». Un âge variable est présenté avec le libellé
+  « Ton âge aujourd’hui » pour éviter un pluriel erroné à1.
+- Ces choix et sondes ne constituent pas une validation des parcours
+  naturels, des sélecteurs, de la musique ou de tous les menus.

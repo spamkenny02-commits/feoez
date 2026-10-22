@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CALMONTH-01",
+    "english": "January",
+    "french": "janvier"
+  },
+  {
+    "id": "CALMONTH-02",
+    "english": "February",
+    "french": "février"
+  },
+  {
+    "id": "CALMONTH-03",
+    "english": "March",
+    "french": "mars"
+  },
+  {
+    "id": "CALMONTH-04",
+    "english": "April",
+    "french": "avril"
+  },
+  {
+    "id": "CALMONTH-05",
+    "english": "May",
+    "french": "mai"
+  },
+  {
+    "id": "CALMONTH-06",
+    "english": "June",
+    "french": "juin"
+  },
+  {
+    "id": "CALMONTH-07",
+    "english": "July",
+    "french": "juillet"
+  },
+  {
+    "id": "CALMONTH-08",
+    "english": "August",
+    "french": "août"
+  },
+  {
+    "id": "CALMONTH-09",
+    "english": "September",
+    "french": "septembre"
+  },
+  {
+    "id": "CALMONTH-10",
+    "english": "October",
+    "french": "octobre"
+  },
+  {
+    "id": "CALMONTH-11",
+    "english": "November",
+    "french": "novembre"
+  },
+  {
+    "id": "CALMONTH-12",
+    "english": "December",
+    "french": "décembre"
+  }
+]

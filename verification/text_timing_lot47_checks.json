@@ -1,0 +1,409 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "speed_handler_executions": 66,
+  "delay_handler_executions": 3,
+  "commands": {
+    "0B": "speed index +1, saturating at10",
+    "0C": "speed index -1, saturating at0",
+    "0D": "write16 to per-thread delay counter and setY0"
+  },
+  "speed_case_results": [
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 0,
+      "output_speed": 1
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 1,
+      "output_speed": 2
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 2,
+      "output_speed": 3
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 3,
+      "output_speed": 4
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 4,
+      "output_speed": 5
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 5,
+      "output_speed": 6
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 6,
+      "output_speed": 7
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 7,
+      "output_speed": 8
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 8,
+      "output_speed": 9
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 9,
+      "output_speed": 10
+    },
+    {
+      "command": "0B",
+      "thread": 0,
+      "input_speed": 10,
+      "output_speed": 10
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 0,
+      "output_speed": 1
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 1,
+      "output_speed": 2
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 2,
+      "output_speed": 3
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 3,
+      "output_speed": 4
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 4,
+      "output_speed": 5
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 5,
+      "output_speed": 6
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 6,
+      "output_speed": 7
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 7,
+      "output_speed": 8
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 8,
+      "output_speed": 9
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 9,
+      "output_speed": 10
+    },
+    {
+      "command": "0B",
+      "thread": 3,
+      "input_speed": 10,
+      "output_speed": 10
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 0,
+      "output_speed": 1
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 1,
+      "output_speed": 2
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 2,
+      "output_speed": 3
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 3,
+      "output_speed": 4
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 4,
+      "output_speed": 5
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 5,
+      "output_speed": 6
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 6,
+      "output_speed": 7
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 7,
+      "output_speed": 8
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 8,
+      "output_speed": 9
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 9,
+      "output_speed": 10
+    },
+    {
+      "command": "0B",
+      "thread": 17,
+      "input_speed": 10,
+      "output_speed": 10
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 0,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 1,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 2,
+      "output_speed": 1
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 3,
+      "output_speed": 2
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 4,
+      "output_speed": 3
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 5,
+      "output_speed": 4
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 6,
+      "output_speed": 5
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 7,
+      "output_speed": 6
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 8,
+      "output_speed": 7
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 9,
+      "output_speed": 8
+    },
+    {
+      "command": "0C",
+      "thread": 0,
+      "input_speed": 10,
+      "output_speed": 9
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 0,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 1,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 2,
+      "output_speed": 1
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 3,
+      "output_speed": 2
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 4,
+      "output_speed": 3
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 5,
+      "output_speed": 4
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 6,
+      "output_speed": 5
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 7,
+      "output_speed": 6
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 8,
+      "output_speed": 7
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 9,
+      "output_speed": 8
+    },
+    {
+      "command": "0C",
+      "thread": 3,
+      "input_speed": 10,
+      "output_speed": 9
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 0,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 1,
+      "output_speed": 0
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 2,
+      "output_speed": 1
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 3,
+      "output_speed": 2
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 4,
+      "output_speed": 3
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 5,
+      "output_speed": 4
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 6,
+      "output_speed": 5
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 7,
+      "output_speed": 6
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 8,
+      "output_speed": 7
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 9,
+      "output_speed": 8
+    },
+    {
+      "command": "0C",
+      "thread": 17,
+      "input_speed": 10,
+      "output_speed": 9
+    }
+  ],
+  "scope": "Native handler register/RAM effects only. Delay-counter writes do not establish audio tempo, synchronization, natural karaoke triggers or full frame timing. No horizontal cursor writes in0B/0C."
+}

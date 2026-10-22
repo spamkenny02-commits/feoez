@@ -1,0 +1,14 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "native_name_loader": "C1:730C..732F",
+  "finite_storage_records_tested": 7,
+  "loader_executions": 98,
+  "history_record_loader_executions": 98,
+  "slot_copy_executions": 392,
+  "maximum_storage_bytes": 10,
+  "terminator_appended_at": "7E:1D3A",
+  "consumer_fragment": "C6:2FCC 8A 01 30 1D before B041-S025",
+  "maximum_native_glyph_advance": 11,
+  "conservative_pet_name_pixels": 110,
+  "scope": "Native fixed10-byte record load, explicit NUL and all four text slots. Does not validate keyboard alphabet, current pet selection, full events or natural nursery navigation."
+}

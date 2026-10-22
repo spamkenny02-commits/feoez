@@ -1,0 +1,4161 @@
+{
+  "lot": 47,
+  "base_main": "7bf7084989ff827f877f1efe4744eade706cc721",
+  "counting_state": "complete400 validated on final ROM; single main publication pending",
+  "distinct_prepared_sources": 400,
+  "bounded_occurrences_prepared": 580,
+  "bounded_canonical_sources": 388,
+  "native_month_labels": 12,
+  "canonical_sources": [
+    {
+      "id": "B003-S135",
+      "english": "a floral pendant",
+      "french": "un pendentif fleuri"
+    },
+    {
+      "id": "B003-S136",
+      "english": "a lunar pendant",
+      "french": "un pendentif lunaire"
+    },
+    {
+      "id": "B003-S137",
+      "english": "a dream pendant",
+      "french": "un pendentif de rêve"
+    },
+    {
+      "id": "B003-S138",
+      "english": "a love pendant",
+      "french": "un pendentif d'amour"
+    },
+    {
+      "id": "B003-S139",
+      "english": "the floral earrings",
+      "french": "les boucles d’oreilles fleuries"
+    },
+    {
+      "id": "B003-S140",
+      "english": "a wind ring",
+      "french": "un anneau du vent"
+    },
+    {
+      "id": "B003-S141",
+      "english": "a thunder ring",
+      "french": "un anneau du tonnerre"
+    },
+    {
+      "id": "B003-S142",
+      "english": "a fire ring",
+      "french": "un anneau du feu"
+    },
+    {
+      "id": "B003-S143",
+      "english": "a water ring",
+      "french": "un anneau de l’eau"
+    },
+    {
+      "id": "B003-S144",
+      "english": "a mechanical ring",
+      "french": "un anneau mécanique"
+    },
+    {
+      "id": "B003-S145",
+      "english": "a judgment ring",
+      "french": "un anneau du jugement"
+    },
+    {
+      "id": "B003-S146",
+      "english": "a fortune ring",
+      "french": "un anneau de fortune"
+    },
+    {
+      "id": "B003-S147",
+      "english": "a soul ring",
+      "french": "un anneau de l’Âme"
+    },
+    {
+      "id": "B003-S148",
+      "english": "a pearl ring",
+      "french": "un anneau de perle"
+    },
+    {
+      "id": "B003-S149",
+      "english": "a ruin ring",
+      "french": "un anneau de ruine"
+    },
+    {
+      "id": "B003-S150",
+      "english": "a tranquil ring",
+      "french": "un anneau de sérénité"
+    },
+    {
+      "id": "B003-S151",
+      "english": "a tempting ring",
+      "french": "un anneau de tentation"
+    },
+    {
+      "id": "B003-S152",
+      "english": "a wavering ring",
+      "french": "un anneau vacillant"
+    },
+    {
+      "id": "B003-S153",
+      "english": "Hisui's ring",
+      "french": "l’anneau de Hisui"
+    },
+    {
+      "id": "B003-S154",
+      "english": "a wind bracelet",
+      "french": "un bracelet du vent"
+    },
+    {
+      "id": "B003-S155",
+      "english": "a bolt bracelet",
+      "french": "un bracelet de foudre"
+    },
+    {
+      "id": "B003-S156",
+      "english": "a fire bracelet",
+      "french": "un bracelet du feu"
+    },
+    {
+      "id": "B003-S157",
+      "english": "a water bracelet",
+      "french": "un bracelet de l’eau"
+    },
+    {
+      "id": "B003-S158",
+      "english": "a king's bracelet",
+      "french": "un bracelet du roi"
+    },
+    {
+      "id": "B003-S159",
+      "english": "the swordsman's\nbracelet",
+      "french": "le bracelet du sabreur"
+    },
+    {
+      "id": "B003-S160",
+      "english": "a blade gauntlet",
+      "french": "un gantelet à lame"
+    },
+    {
+      "id": "B003-S161",
+      "english": "a claw gauntlet",
+      "french": "un gantelet à griffe"
+    },
+    {
+      "id": "B003-S162",
+      "english": "the power gauntlet",
+      "french": "le gantelet de force"
+    },
+    {
+      "id": "B003-S163",
+      "english": "the body sash",
+      "french": "la ceinture corporelle"
+    },
+    {
+      "id": "B003-S164",
+      "english": "the tech sash",
+      "french": "la ceinture technique"
+    },
+    {
+      "id": "B003-S165",
+      "english": "the power sash",
+      "french": "la ceinture de force"
+    },
+    {
+      "id": "B003-S166",
+      "english": "the defense sash",
+      "french": "la ceinture de garde"
+    },
+    {
+      "id": "B003-S167",
+      "english": "the winged sandals",
+      "french": "les sandales ailées"
+    },
+    {
+      "id": "B003-S168",
+      "english": "the comet shoes",
+      "french": "les souliers comète"
+    },
+    {
+      "id": "B003-S169",
+      "english": "the peach sandals",
+      "french": "les sandales de pêche"
+    },
+    {
+      "id": "B003-S170",
+      "english": "the gale sandals",
+      "french": "les sandales du vent"
+    },
+    {
+      "id": "B003-S171",
+      "english": "the silk socks",
+      "french": "les chaussettes de soie"
+    },
+    {
+      "id": "B003-S172",
+      "english": "the trendy socks",
+      "french": "les chaussettes à la mode"
+    },
+    {
+      "id": "B003-S173",
+      "english": "the travel sandals",
+      "french": "les sandales de voyage"
+    },
+    {
+      "id": "B003-S174",
+      "english": "the straw sandals",
+      "french": "les sandales de paille"
+    },
+    {
+      "id": "B003-S175",
+      "english": "the bootleg boots",
+      "french": "les bottes de contrefaçon"
+    },
+    {
+      "id": "B003-S176",
+      "english": "the wooden clogs",
+      "french": "les socques de bois"
+    },
+    {
+      "id": "B003-S177",
+      "english": "the iron clogs",
+      "french": "les socques de fer"
+    },
+    {
+      "id": "B003-S178",
+      "english": "the princess heels",
+      "french": "les escarpins de princesse"
+    },
+    {
+      "id": "B003-S179",
+      "english": "the safety boots",
+      "french": "les bottes de sécurité"
+    },
+    {
+      "id": "B003-S180",
+      "english": "the pair sandals",
+      "french": "les sandales jumelles"
+    },
+    {
+      "id": "B003-S181",
+      "english": "the snow shoes",
+      "french": "les raquettes"
+    },
+    {
+      "id": "B003-S182",
+      "english": "the shitty shoes",
+      "french": "les godasses de merde"
+    },
+    {
+      "id": "B003-S183",
+      "english": "a steel fan",
+      "french": "un éventail d’acier"
+    },
+    {
+      "id": "B003-S184",
+      "english": "a wooden fan",
+      "french": "un éventail de bois"
+    },
+    {
+      "id": "B003-S185",
+      "english": "a white scarf",
+      "french": "une écharpe blanche"
+    },
+    {
+      "id": "B003-S186",
+      "english": "a bubble scarf",
+      "french": "une écharpe à bulles"
+    },
+    {
+      "id": "B003-S187",
+      "english": "a yellow scarf",
+      "french": "une écharpe jaune"
+    },
+    {
+      "id": "B003-S188",
+      "english": "a backscratcher",
+      "french": "un gratte-dos"
+    },
+    {
+      "id": "B003-S189",
+      "english": "a warding curio",
+      "french": "un bibelot protecteur"
+    },
+    {
+      "id": "B003-S190",
+      "english": "a chestnut curio",
+      "french": "un bibelot châtaigne"
+    },
+    {
+      "id": "B003-S191",
+      "english": "the knit sweater",
+      "french": "le pull tricoté"
+    },
+    {
+      "id": "B003-S192",
+      "english": "the knit cap",
+      "french": "le bonnet tricoté"
+    },
+    {
+      "id": "B003-S193",
+      "english": "the knit gloves",
+      "french": "les gants tricotés"
+    },
+    {
+      "id": "B003-S194",
+      "english": "the knit muffler",
+      "french": "l’écharpe tricotée"
+    },
+    {
+      "id": "B004-S001",
+      "english": "Singe",
+      "french": "Brûlure"
+    },
+    {
+      "id": "B004-S002",
+      "english": "Sear",
+      "french": "Fournaise"
+    },
+    {
+      "id": "B004-S003",
+      "english": "Gush",
+      "french": "Jet"
+    },
+    {
+      "id": "B004-S004",
+      "english": "Spout",
+      "french": "Jaillissement"
+    },
+    {
+      "id": "B004-S005",
+      "english": "Gust",
+      "french": "Bourrasque"
+    },
+    {
+      "id": "B004-S006",
+      "english": "Blast",
+      "french": "Rafale"
+    },
+    {
+      "id": "B004-S007",
+      "english": "Jolt",
+      "french": "Foudre"
+    },
+    {
+      "id": "B004-S009",
+      "english": "Buck",
+      "french": "Ruade"
+    },
+    {
+      "id": "B004-S010",
+      "english": "Rock",
+      "french": "Roc"
+    },
+    {
+      "id": "B004-S011",
+      "english": "Swift",
+      "french": "Rapidité"
+    },
+    {
+      "id": "B004-S012",
+      "english": "Tone",
+      "french": "Ton"
+    },
+    {
+      "id": "B004-S013",
+      "english": "Steel",
+      "french": "Acier"
+    },
+    {
+      "id": "B004-S014",
+      "english": "Fleet",
+      "french": "Vif"
+    },
+    {
+      "id": "B004-S015",
+      "english": "Frail",
+      "french": "Frêle"
+    },
+    {
+      "id": "B004-S016",
+      "english": "Nude",
+      "french": "Nudité"
+    },
+    {
+      "id": "B004-S017",
+      "english": "Goof",
+      "french": "Balourdise"
+    },
+    {
+      "id": "B004-S018",
+      "english": "Vigor",
+      "french": "Vigueur"
+    },
+    {
+      "id": "B004-S019",
+      "english": "Zest",
+      "french": "Vitalité"
+    },
+    {
+      "id": "B004-S020",
+      "english": "Spirit",
+      "french": "Esprit"
+    },
+    {
+      "id": "B004-S021",
+      "english": "Allay",
+      "french": "Apaisement"
+    },
+    {
+      "id": "B004-S022",
+      "english": "Pure",
+      "french": "Pureté"
+    },
+    {
+      "id": "B004-S023",
+      "english": "Soar",
+      "french": "Envol"
+    },
+    {
+      "id": "B004-S024",
+      "english": "Split",
+      "french": "Scission"
+    },
+    {
+      "id": "B004-S025",
+      "english": "Soul",
+      "french": "Âme"
+    },
+    {
+      "id": "B004-S026",
+      "english": "Seal",
+      "french": "Sceau"
+    },
+    {
+      "id": "B004-S027",
+      "english": "Loon",
+      "french": "Folie"
+    },
+    {
+      "id": "B004-S028",
+      "english": "Sight",
+      "french": "Vue"
+    },
+    {
+      "id": "B004-S029",
+      "english": "Gulp",
+      "french": "Siphon"
+    },
+    {
+      "id": "B004-S030",
+      "english": "Soak",
+      "french": "Absorption"
+    },
+    {
+      "id": "B004-S031",
+      "english": "Float",
+      "french": "Flottaison"
+    },
+    {
+      "id": "B004-S032",
+      "english": "Sting",
+      "french": "Piqûre"
+    },
+    {
+      "id": "B004-S033",
+      "english": "Snort",
+      "french": "Grognement"
+    },
+    {
+      "id": "B004-S034",
+      "english": "Filter",
+      "french": "Filtre"
+    },
+    {
+      "id": "B004-S035",
+      "english": "Doze",
+      "french": "Somnolence"
+    },
+    {
+      "id": "B004-S036",
+      "english": "Spry",
+      "french": "Vivacité"
+    },
+    {
+      "id": "B004-S037",
+      "english": "Firefire",
+      "french": "Feu-Feu"
+    },
+    {
+      "id": "B004-S038",
+      "english": "Firewater",
+      "french": "Feu-Eau"
+    },
+    {
+      "id": "B004-S039",
+      "english": "Firewind",
+      "french": "Feu-Vent"
+    },
+    {
+      "id": "B004-S040",
+      "english": "Firebolt",
+      "french": "Feu-Foudre"
+    },
+    {
+      "id": "B004-S041",
+      "english": "Waterwater",
+      "french": "Eau-Eau"
+    },
+    {
+      "id": "B004-S042",
+      "english": "Waterfire",
+      "french": "Eau-Feu"
+    },
+    {
+      "id": "B004-S043",
+      "english": "Waterwind",
+      "french": "Eau-Vent"
+    },
+    {
+      "id": "B004-S044",
+      "english": "Waterbolt",
+      "french": "Eau-Foudre"
+    },
+    {
+      "id": "B004-S045",
+      "english": "Windwind",
+      "french": "Vent-Vent"
+    },
+    {
+      "id": "B004-S046",
+      "english": "Windfire",
+      "french": "Vent-Feu"
+    },
+    {
+      "id": "B004-S047",
+      "english": "Windwater",
+      "french": "Vent-Eau"
+    },
+    {
+      "id": "B004-S048",
+      "english": "Windbolt",
+      "french": "Vent-Foudre"
+    },
+    {
+      "id": "B004-S049",
+      "english": "Boltbolt",
+      "french": "Foudre-Foudre"
+    },
+    {
+      "id": "B004-S050",
+      "english": "Boltfire",
+      "french": "Foudre-Feu"
+    },
+    {
+      "id": "B004-S051",
+      "english": "Boltwater",
+      "french": "Foudre-Eau"
+    },
+    {
+      "id": "B004-S052",
+      "english": "Boltwind",
+      "french": "Foudre-Vent"
+    },
+    {
+      "id": "B005-S001",
+      "english": "Blazing Cutter",
+      "french": "Entaille ardente"
+    },
+    {
+      "id": "B005-S002",
+      "english": "Thunder Cutter",
+      "french": "Lame du tonnerre"
+    },
+    {
+      "id": "B005-S003",
+      "english": "Booming Cutter",
+      "french": "Lame tonitruante"
+    },
+    {
+      "id": "B005-S004",
+      "english": "Sennin Cutter",
+      "french": "Lame de Sennin"
+    },
+    {
+      "id": "B005-S005",
+      "english": "Basara Cutter",
+      "french": "Lame de Basara"
+    },
+    {
+      "id": "B005-S006",
+      "english": "Dragon Cutter",
+      "french": "Lame du Dragon"
+    },
+    {
+      "id": "B005-S007",
+      "english": "Blazing Elephant",
+      "french": "Éléphant ardent"
+    },
+    {
+      "id": "B005-S008",
+      "english": "Electric Catfish",
+      "french": "Silure électrique"
+    },
+    {
+      "id": "B005-S009",
+      "english": "Wind Falcon",
+      "french": "Faucon du vent"
+    },
+    {
+      "id": "B005-S010",
+      "english": "Steel Lion",
+      "french": "Lion d’acier"
+    },
+    {
+      "id": "B005-S011",
+      "english": "Icy World Spider",
+      "french": "Araignée du monde de glace"
+    },
+    {
+      "id": "B005-S012",
+      "english": "Wonder-fly",
+      "french": "Papillon miracle"
+    },
+    {
+      "id": "B005-S013",
+      "english": "Boar Deerfly",
+      "french": "Taon Sanglier"
+    },
+    {
+      "id": "B005-S014",
+      "english": "Gold Starfly",
+      "french": "Mouche Étoile d’or"
+    },
+    {
+      "id": "B005-S015",
+      "english": "Kabuki-fly",
+      "french": "Mouche Kabuki"
+    },
+    {
+      "id": "B005-S016",
+      "english": "Blazing Flip",
+      "french": "Salto ardent"
+    },
+    {
+      "id": "B005-S017",
+      "english": "Echoing Flip",
+      "french": "Salto résonnant"
+    },
+    {
+      "id": "B005-S018",
+      "english": "Hellbound Flip",
+      "french": "Salto des Enfers"
+    },
+    {
+      "id": "B005-S019",
+      "english": "Table Flip",
+      "french": "Table renversée"
+    },
+    {
+      "id": "B005-S020",
+      "english": "Swallow Flip",
+      "french": "Salto de l’Hirondelle"
+    },
+    {
+      "id": "B005-S021",
+      "english": "Twisting Flip",
+      "french": "Salto tournoyant"
+    },
+    {
+      "id": "B005-S022",
+      "english": "Mouth Mirror",
+      "french": "Miroir buccal"
+    },
+    {
+      "id": "B005-S023",
+      "english": "Body Mirror",
+      "french": "Miroir corporel"
+    },
+    {
+      "id": "B005-S024",
+      "english": "Dark Mirror",
+      "french": "Miroir obscur"
+    },
+    {
+      "id": "B005-S025",
+      "english": "Dream Mirror",
+      "french": "Miroir des rêves"
+    },
+    {
+      "id": "B005-S026",
+      "english": "Lunar Mirror",
+      "french": "Miroir lunaire"
+    },
+    {
+      "id": "B005-S027",
+      "english": "Heart Mirror",
+      "french": "Miroir du cœur"
+    },
+    {
+      "id": "B005-S028",
+      "english": "Massive Fist",
+      "french": "Poing colossal"
+    },
+    {
+      "id": "B005-S029",
+      "english": "Double Slap",
+      "french": "Double gifle"
+    },
+    {
+      "id": "B005-S030",
+      "english": "Farewell",
+      "french": "Adieu"
+    },
+    {
+      "id": "B029-S002",
+      "english": "Fire",
+      "french": "Feu"
+    },
+    {
+      "id": "B029-S003",
+      "english": "Water",
+      "french": "Eau"
+    },
+    {
+      "id": "B029-S004",
+      "english": "Wind",
+      "french": "Vent"
+    },
+    {
+      "id": "B029-S005",
+      "english": "Bolt",
+      "french": "Foudre"
+    },
+    {
+      "id": "B029-S006",
+      "english": "<0C><17><04> obtained the <07> scroll!<18>x5",
+      "french": "<0C><17><04> a obtenu le parchemin <07> !<18>x5"
+    },
+    {
+      "id": "B029-S007",
+      "english": "<0C><17><04> obtained a secret skill called the\n<07>.<18>x5",
+      "french": "<0C><17><04> a obtenu une technique secrète : <07>.<18>x5"
+    },
+    {
+      "id": "B029-S008",
+      "english": "<0C><17><04> obtained <07>.<18>x5",
+      "french": "<0C><17><04> a obtenu <07>.<18>x5"
+    },
+    {
+      "id": "B029-S009",
+      "english": "<0C><17><04> obtained the Fusion Scrolls of\n<07>!<18>x5",
+      "french": "<0C><17><04> a obtenu les parchemins de Fusion <07> !<18>x5"
+    },
+    {
+      "id": "B029-S010",
+      "english": "<0C><17><04> dropped <07>.<18>x5",
+      "french": "<0C><17><04> a jeté <07>.<18>x5"
+    },
+    {
+      "id": "B029-S011",
+      "english": "\n    Save and Stay              Stay\n    Save                            Quit",
+      "french": "\n    Sauver et dormir              Dormir\n    Sauver                            Quitter"
+    },
+    {
+      "id": "B029-S021",
+      "english": "You there!<0D> According to your date of birth,<0D>\nyou are protected by the stars of...\n<06>!",
+      "french": "Hé, vous !<0D> D’après votre date de naissance,<0D> vous êtes sous la protection des étoiles du signe...\n<06> !"
+    },
+    {
+      "id": "B029-S084",
+      "english": "We can swap out gold and gold dust for\ncurrency or gold vouchers here...\n\nThe currency exchange rate is<29>\nGold <2C> <04>,000 ryo\nGold dust <2C> <05>0 ryo\n The gold voucher exchange rate is<29>\n 1 unit of gold <2C> 2 gold vouchers\n 50 units of gold dust <2C> 1 gold voucher\nWill you be trading gold and gold dust for\ncurrency and gold vouchers?",
+      "french": "Ici, on échange l’or et la poudre d’or contre de l’argent ou des bons d’or...\n\nTaux de change en argent<29>\nOr <2C> <04> 000 ryo\nPoudre d’or <2C> <05>0 ryo\n Taux de change en bons d’or<29>\n 1 unité d’or <2C> 2 bons d’or\n 50 unités de poudre d’or <2C> 1 bon d’or\nVoulez-vous échanger votre or et votre poudre d’or contre de l’argent ou des bons d’or ?"
+    },
+    {
+      "id": "B029-S105",
+      "english": "That will be <06> gold vouchers\nfor <07>.\n",
+      "french": "Le prix en bons d’or est de <06> pour <07>.\n"
+    },
+    {
+      "id": "B029-S116",
+      "english": "Icy World Spider chest",
+      "french": "Coffret de l’Araignée du monde de glace"
+    },
+    {
+      "id": "B031-S016",
+      "english": "Today's x1<04> x4<05>!<0D> Happy birthday!<0D> \nYou're <06> years old today,<0D> huh?",
+      "french": "Nous sommes en x1<04>, au x4<05> jour !<0D> Joyeux anniversaire !<0D>\nTon âge aujourd’hui : <06>,<0D> hein ?"
+    },
+    {
+      "id": "B033-S002",
+      "english": "<17><04> used <07>!<18>x5",
+      "french": "<17><04> utilise <07> !<18>x5"
+    },
+    {
+      "id": "B033-S013",
+      "english": "<17><05> blew the <06>!<18>x5",
+      "french": "<17><05> joue de <06> !<18>x5"
+    },
+    {
+      "id": "B033-S026",
+      "english": "<17><05> cast Float!<18>x5",
+      "french": "<17><05> lance Flottaison !<18>x5"
+    },
+    {
+      "id": "B037-S010",
+      "english": "<17>The dresser held <05>!<18>x5",
+      "french": "<17>La commode contenait <05> !<18>x5"
+    },
+    {
+      "id": "B037-S011",
+      "english": "<17>The pot held <05>!<18>x5",
+      "french": "<17>Le pot contenait <05> !<18>x5"
+    },
+    {
+      "id": "B037-S020",
+      "english": "<17>Subaru found the <05>.<18>x5",
+      "french": "<17>Subaru a trouvé <05>.<18>x5"
+    },
+    {
+      "id": "B037-S021",
+      "english": "I recommend <07>!<0D>\nYou'll buy one,<0D> right?  <09><6E>  <08>",
+      "french": "Je te recommande <07> !<0D> Tu vas en acheter,<0D> hein ?  <09><6E>  <08>"
+    },
+    {
+      "id": "B037-S022",
+      "english": "How about <07>!?<0D> They're delicious! ",
+      "french": "Et si tu prenais <07> !?<0D> C’est délicieux ! "
+    },
+    {
+      "id": "B037-S023",
+      "english": "You should buy <07>!   <09><6E>  <08>\nYou'll buy some,<0D> yeah?  <09><6E>  <08>",
+      "french": "Tu devrais acheter <07> !   <09><6E>  <08>\nTu vas en prendre,<0D> hein ?  <09><6E>  <08>"
+    },
+    {
+      "id": "B040-S025",
+      "english": "\nHere's your prize!\nIt's <05>!\nCongratulations!",
+      "french": "\nVoici ton prix !\nC’est <05> !\nFélicitations !"
+    },
+    {
+      "id": "B040-S026",
+      "english": "Moving on!<0D> Will you try Round <05>?",
+      "french": "On continue !<0D> Tu tentes la manche <05> ?"
+    },
+    {
+      "id": "B040-S029",
+      "english": "\nHere's your prize!<0D> It's <05>!\nCongratulations!\n\nOkay,<0D> you can head back this way!<0D> \nDon't drop your prizes now!",
+      "french": "\nVoici ton prix !<0D> C’est <05> !\nFélicitations !\n\nBien,<0D> tu peux revenir par ici !<0D> Ne fais pas tomber tes prix !"
+    },
+    {
+      "id": "B040-S147",
+      "english": "Ohh!<0D> <05>!\nThat's quite a popular wish these days!<0D> \nWell,<0D> place your card on the bamboo grass!",
+      "french": "Oh !<0D> <05> !\nC’est un vœu très populaire en ce moment !<0D> Bien,<0D> accroche ta carte au bambou !"
+    },
+    {
+      "id": "B040-S165",
+      "english": "The moon's in its x4<05> day!<0D> \n\n\nOn the 15th,<0D> it'll be a full moon!<0D> Stop by and\nhave a look every day until then,<0D> yeah?",
+      "french": "La lune en est à son x4<05> jour !<0D>\n\n\nLe 15,<0D> ce sera la pleine lune !<0D> Passe la voir chaque jour d’ici là,<0D> d’accord ?"
+    },
+    {
+      "id": "B040-S167",
+      "english": "Awoooooo!<0D> Ow-ow,<0D> awooooo!",
+      "french": "Aouuuuuuh !<0D> Ou-ou,<0D> aouuuuuuh !"
+    },
+    {
+      "id": "B040-S169",
+      "english": "Wooooooooow!<0D> Whoooooooooa!",
+      "french": "Ouaaaaaaah !<0D> Ouaaaaaaah !"
+    },
+    {
+      "id": "B040-S186",
+      "english": "Boom!<0D> Bam!<0D> Kabooom!<0D> Kablaaam!<0D> Explosions!<0D>\nBakaboom!",
+      "french": "Boum !<0D> Bam !<0D> Kaboum !<0D> Kablaaam !<0D> Explosions !<0D> Boum-zan !"
+    },
+    {
+      "id": "B040-S200",
+      "english": "<17>Inside of <06>'s was\n<05>!<18>\nx5",
+      "french": "<17>Dans la part de <06>, il y avait <05> !<18>\nx5"
+    },
+    {
+      "id": "B040-S207",
+      "english": "Well,<0D> here is your prize!<0D>\nIt's <05>!\n\n",
+      "french": "Eh bien,<0D> voici ton prix !<0D> C’est <05> !\n\n"
+    },
+    {
+      "id": "B040-S208",
+      "english": "Victory goes to the east!<0D> \nThat's the x4<05> victory!",
+      "french": "Victoire à l’est !<0D> Voilà le x4<05> succès !"
+    },
+    {
+      "id": "B040-S212",
+      "english": "The x4<05> competitor!",
+      "french": "Le x4<05> concurrent !"
+    },
+    {
+      "id": "B041-S025",
+      "english": "<05>!\nA fine name,<0D> indeed!<0D> Alright then,<0D>\nI'll send it over to the nursery!",
+      "french": "<05> !\nUn beau nom,<0D> en effet !<0D> Bien,<0D> je l’envoie à la nurserie !"
+    },
+    {
+      "id": "B041-S052",
+      "english": "<17>Higan gave <05> <07>.<18>x5",
+      "french": "<17>Higan donne à <05> : <07>.<18>x5"
+    },
+    {
+      "id": "B041-S053",
+      "english": "<05> regained <06> health!",
+      "french": "Santé récupérée par <05> : <06> !"
+    },
+    {
+      "id": "B041-S054",
+      "english": "<05> fully regained its health!",
+      "french": "La santé de <05> est entièrement rétablie !"
+    },
+    {
+      "id": "B041-S055",
+      "english": "<05>'s health decreased by <06>!",
+      "french": "Baisse de la santé de <05> : <06> !"
+    },
+    {
+      "id": "B041-S056",
+      "english": "<17><05>'s health dropped to zero!<17>\n<17><05> died.<18>",
+      "french": "<17>La santé de <05> est tombée à zéro !<17>\n<17><05> est mort.<18>"
+    },
+    {
+      "id": "B041-S058",
+      "english": "<17>A change occurred in <05>!<18>",
+      "french": "<17>Un changement se produit chez <05> !<18>"
+    },
+    {
+      "id": "B041-S063",
+      "english": "<17>What's going on!?<18>\n<17><05> the <06>...\nIt changed into the <07>!<18>",
+      "french": "<17>Que se passe-t-il !?<18>\n<17><05>, de l’espèce <06>...\nIl se transforme en <07> !<18>"
+    },
+    {
+      "id": "B041-S069",
+      "english": "Alive",
+      "french": "En vie"
+    },
+    {
+      "id": "B041-S070",
+      "english": "Dead",
+      "french": "Mort"
+    },
+    {
+      "id": "B041-S071",
+      "english": "<17>Rank <12><04><18> Name<29> <05> Species<29> <06>\nStatus<29> <07>",
+      "french": "<17>Rang <12><04><18>\nNom<29> <05>\nEspèce<29> <06>\nÉtat<29> <07>"
+    },
+    {
+      "id": "B041-S095",
+      "english": "Alright,<0D> this will be the x4<05> feeding!<0D> \nWill you give this larva some kibble?",
+      "french": "Bien,<0D> voici le x4<05> repas !<0D> Veux-tu donner des croquettes à cette larve ?"
+    },
+    {
+      "id": "B041-S096",
+      "english": "Alright,<0D> it's time for the x4<05> feeding!<0D> \nWhat sort of kibble should you give it?<0D> \nThink it over!\nThere's Head Kibble,<0D> Body Kibble,<0D> Heart\nKibble,<0D> Fart Kibble,<0D> and Mystery Kibble!<0D> \nFive types in all!\nDecide on which type you want to give it,<0D> \nand then make your choice!\n",
+      "french": "Bien,<0D> c’est l’heure du x4<05> repas !<0D> Quelles croquettes vas-tu lui donner ?<0D> Réfléchis bien !\nIl y a les Croquettes Tête,<0D> Corps,<0D> Cœur,<0D> Pet<0D> et Mystère !<0D> Cinq sortes en tout !\nChoisis celles que tu veux lui donner,<0D> puis fais ton choix !\n"
+    },
+    {
+      "id": "B041-S097",
+      "english": "Okay,<0D> <07>?<0D>\nLeave it to me!",
+      "french": "Bien,<0D> <07> ?<0D>\nCompte sur moi !"
+    },
+    {
+      "id": "B041-S098",
+      "english": "The x4<05> feeding is done!<0D> Next up,<0D> the x4<06>\nfeeding!",
+      "french": "Le x4<05> repas est terminé !<0D> Le prochain,<0D> ce sera le x4<06> !"
+    },
+    {
+      "id": "B041-S107",
+      "english": "Oh!<0D> The pupa's been sleeping for <05> hours\nand <06> minutes!<0D> What would you like to do?\n\nWould you like to crack it open?\n\nOpen it       Quit",
+      "french": "Oh !<0D> La chrysalide dort depuis <05> h et <06> min !<0D> Que veux-tu faire ?\n\nVeux-tu la faire éclore ?\n\nOuvrir       Quitter"
+    },
+    {
+      "id": "B041-S115",
+      "english": "What about that <06> you have?\nWant this <05> instead?",
+      "french": "Tu as <06> ?\nTu veux <05> à la place ?"
+    },
+    {
+      "id": "B041-S116",
+      "english": "Okay then,<0D> I'll take the <06>!",
+      "french": "Très bien,<0D> je prends <06> !"
+    },
+    {
+      "id": "B041-S117",
+      "english": "<17>Subaru let go of the <06> skill!<18>\n\nAlright then,<0D> fairy of the Fire Clan!<0D> \nTake this,<0D> the <05>!",
+      "french": "<17>Subaru abandonne la technique <06> !<18>\n\nBien,<0D> fée du clan du Feu !<0D> Prends ceci,<0D> <05> !"
+    },
+    {
+      "id": "B041-S121",
+      "english": "Well then,<0D> fairy of the Fire Clan...<0D> Go ahead\nand take this,<0D> the <05>...",
+      "french": "Eh bien,<0D> fée du clan du Feu...<0D> Vas-y,<0D> prends <05>..."
+    },
+    {
+      "id": "B041-S130",
+      "english": "   <05> Head Kibble                    <06> Body Kibble",
+      "french": "   <05> Croquettes Tête                    <06> Croquettes Corps"
+    },
+    {
+      "id": "B041-S135",
+      "english": "   <05> Heart Kibble                   <06>Fart Kibble",
+      "french": "   <05> Croquettes Cœur                   <06>Croquettes Pet"
+    },
+    {
+      "id": "B041-S139",
+      "english": "    <05>Mystery Kibble               <06>Quit",
+      "french": "    <05>Croquettes Mystère               <06>Quitter"
+    },
+    {
+      "id": "B041-S141",
+      "english": "Scroll",
+      "french": "Parchemin"
+    },
+    {
+      "id": "B041-S142",
+      "english": "Tech Used<29> ",
+      "french": "Tech. utilisée<29> "
+    },
+    {
+      "id": "B041-S144",
+      "english": "Item",
+      "french": "Objet"
+    },
+    {
+      "id": "B041-S036",
+      "english": "Name<29> <05> Species<29> Pinchapine\nHealth<29> 0<1E>30\nCondition<29> Dead\n<17>...It's dead...<18>",
+      "french": "Nom<29><05> Type<29>Porcépine\nSanté<29> 0<1E>30\nÉtat<29> Mort\n<17>...Il est mort...<18>"
+    },
+    {
+      "id": "B041-S037",
+      "english": "Name<29> <05> Species<29> Pinchapine\nHealth<29> <06><1E>30\nCondition<29> Nearly dead\n<11>...<17>Grumble, grumble<18>...!<11>\n\n",
+      "french": "Nom<29><05> Type<29>Porcépine\nSanté<29> <06><1E>30\nÉtat<29> Mourant\n<11>...<17>Groum, groum<18>...!<11>\n\n"
+    },
+    {
+      "id": "B041-S039",
+      "english": "Name<29> <05> Species<29> Pinchapine\nHealth<29> <06><1E>30\nCondition<29> Healthy\n<11>Pincha! Pinchapine-o! Pincha-pincha!<11>\n\n",
+      "french": "Nom<29><05> Type<29>Porcépine\nSanté<29> <06><1E>30\nÉtat<29> En forme\n<11>Pincha ! Porcépine-o ! Pincha-pincha !<11>\n"
+    },
+    {
+      "id": "B041-S041",
+      "english": "Name<29> <05> Species<29> Rabshroom\nHealth<29> <06><1E>60\nCondition<29> Nearly dead\n<11>Kibble-oom... Kibble-oom...<11>\n\n",
+      "french": "Nom<29><05> Type<29>Champilapin\nSanté<29> <06><1E>60\nÉtat<29> Mourant\n<11>Croquet-boum... Croquet-boum...<11>\n"
+    },
+    {
+      "id": "B041-S043",
+      "english": "Name<29> <05> Species<29> Rabshroom\nHealth<29> <06><1E>60\nCondition<29> Healthy\n<11>Ooom, ooom! Ooompah pah! \nOompah! Ooompah! Ooompah pah!<11>\n",
+      "french": "Nom<29><05> Type<29>Champilapin\nSanté<29> <06><1E>60\nÉtat<29> En forme\n<11>Boum, boum ! Boum-pa-pa ! \nBoum-pa ! Boum-pa ! Boum-pa-pa !<11>\n"
+    },
+    {
+      "id": "B041-S044",
+      "english": "Name<29> <05> Species<29> Viperoot\nHealth<29> 0<1E>170\nCondition<29> Dead\n<17>The Viperoot is dead...<18>\nCurse you, Higan...\nYou murderer...",
+      "french": "Nom<29><05> Type<29>Vipéracine\nSanté<29> 0<1E>170\nÉtat<29> Mort\n<17>Le Vipéracine est mort...<18>\nSois maudit, Higan...\nAssassin..."
+    },
+    {
+      "id": "B041-S045",
+      "english": "Name<29> <05> Species<29> Viperoot\nHealth<29> <06><1E>170\nCondition<29> Nearly dead\n<11>Higan, kibble! Higan! Kibble! Kibble, kibble,\nkibble, kibble! Kibble, kibble, kibble, kibble!\nKibble, kibble, kibble, kibble! Kibble, kibble!<11><0D>",
+      "french": "Nom<29><05> Type<29>Vipéracine\nSanté<29> <06><1E>170\nÉtat<29> Mourant\n<11>Higan, croquettes! Higan! Croquettes! Croquettes, croquettes,\ncroquettes, croquettes! Croquettes, croquettes, croquettes, croquettes!\nCroquettes, croquettes, croquettes, croquettes! Croquettes, croquettes!<11><0D>"
+    },
+    {
+      "id": "B041-S046",
+      "english": "Name<29> <05> Species<29> Viperoot\nHealth<29> <06><1E>170\nCondition<29> Hungry\n<11>Higan! Bring me kibble! Higan! Let me eat it!\nHigan! I hunger for kibble!<11>\n",
+      "french": "Nom<29><05> Type<29>Vipéracine\nSanté<29> <06><1E>170\nÉtat<29> Affamé\n<11>Higan ! Apporte-moi des croquettes ! Higan ! Laisse-moi manger ! Higan ! Je veux mes croquettes !<11>\n"
+    },
+    {
+      "id": "B041-S047",
+      "english": "Name<29> <05> Species<29> Viperoot\nHealth<29> <06><1E>170\nCondition<29> Healthy\n<11>Viperoot! Viperoot! I'm a cute little Viperoot!\nI follow you! You feed me!<11>\n",
+      "french": "Nom<29><05> Type<29>Vipéracine\nSanté<29> <06><1E>170\nÉtat<29> En forme\n<11>Vipéracine ! Vipéracine ! Je suis un mignon petit Vipéracine ! Je te suis ! Tu me nourris !<11>\n"
+    },
+    {
+      "id": "B041-S049",
+      "english": "Name<29> <05> Species<29> Octarrot\nHealth<29> <06><1E>96\nCondition<29> Nearly dead\n<11>Ummph! Umph! Umph! Ummph! Umph! Umph!\nUmmph! Umph! Umph!<11>\n",
+      "french": "Nom<29><05> Type<29>Octocarotte\nSanté<29> <06><1E>96\nÉtat<29> Mourant\n<11>Oumpf ! Oumpf ! Oumpf ! Oumpf ! Oumpf ! Oumpf ! Oumpf ! Oumpf ! Oumpf !<11>\n"
+    },
+    {
+      "id": "B041-S078",
+      "english": "Name<29> Manto Species<29> Idiot\nHealth<29> <05><1E>255\nCondition<29> Nearly dead\nHey,<0D> hey,<0D> hey-hey,<0D> heeeeey!<0D> What kind of\nmaster are you?<0D> Are you really in the Fire\nClan!?<0D> \nAnd you're gonna starve me to death like\nthis!?<0D> I thought the Fire Clan swore some kinda\noath,<0D> y'know,<0D> to protect all living things...<0D>\nRight!?<0D> Or did I get that part wrong?<0D> \nYou gotta be kidding me!<0D> I'm Manto,<0D> the\nIndestructible!<0D> \nNow bring me some kibble on the double!<0D>",
+      "french": "Nom<29> Manto Espèce<29> Idiot\nSanté<29> <05><1E>255\nÉtat<29> Mourant\nHé,<0D> hé,<0D> hé-hé,<0D> héééé !<0D> Quel genre de maître es-tu ?<0D> Tu es vraiment du clan du Feu !?<0D> Et tu vas me laisser mourir de faim comme ça !?<0D> Je croyais que le clan du Feu avait fait un serment,<0D> tu sais,<0D> de protéger tous les êtres vivants...<0D> Pas vrai !?<0D> Ou j’ai mal compris ?<0D> Tu te fiches de moi !<0D> Je suis Manto,<0D> l’Indestructible !<0D> Apporte-moi des croquettes, et plus vite que ça !<0D>\n"
+    },
+    {
+      "id": "B041-S079",
+      "english": "Name<29> Manto Species<29> Idiot\nHealth<29> <05><1E>255\nCondition<29> Hungry\nHey! Master! Yeah,<0D> you!<0D> The numbskull from\nthe Fire Clan!<0D> My stomach's growling here!<0D> \n\nHurry up and bring me some kibble!<0D> Before my\nstomach starts to stick up against my back!<0D>\n",
+      "french": "Nom<29> Manto Espèce<29> Idiot\nSanté<29> <05><1E>255\nÉtat<29> Affamé\nHé ! Maître ! Oui,<0D> toi !<0D> L’abruti du clan du Feu !<0D> J’ai le ventre qui gargouille !<0D>\n\nDépêche-toi de m’apporter des croquettes !<0D> Avant que mon ventre ne se colle à mon dos !<0D>\n"
+    },
+    {
+      "id": "B041-S080",
+      "english": "Name<29> Manto Species<29> Idiot\nHealth<29> <05><1E>255\nCondition<29> Healthy\nYo,<0D> Master!<0D> How's that Fire Clan of yours\ndoing!?<0D> Doing alright?<0D> Well I,<0D> the Mighty\nManto,<0D> am living the good life here!<0D> \nI've been earning my keep,<0D> so keep bringing me\nkibble!<0D>\n",
+      "french": "Nom<29> Manto Espèce<29> Idiot\nSanté<29> <05><1E>255\nÉtat<29> En forme\nSalut,<0D> Maître !<0D> Comment va ton clan du Feu !?<0D> Tout va bien ?<0D> Eh bien moi,<0D> le grand Manto,<0D> je mène la belle vie ici !<0D>\nJe gagne mon pain,<0D> alors continue à m’apporter des croquettes !<0D>\n"
+    },
+    {
+      "id": "B066-S035",
+      "english": "<04>Shell Manju                  <05>Apricot Doll\n<06>Floral Earrings             <07>Feather Futon\n<08>                                   Next Page",
+      "french": "<04>Manju Carapace                  <05>Poupée abricotier\n<06>Boucles fleuries             <07>Futon de plumes\n<08>                                   Page suivante"
+    },
+    {
+      "id": "B066-S036",
+      "english": "<04>Floral Purse                 <05>Music Box\n<06>Choking Scent               <07>Evening Scent\n<08>Previous Page               Next Page",
+      "french": "<04>Sac fleuri                 <05>Boîte à musique\n<06>Parfum Étouffant               <07>Parfum du Soir\n<08>Page précédente               Page suivante"
+    },
+    {
+      "id": "B066-S037",
+      "english": "<04>Floral Pan                    <05>Mechanical Doll\n<06>Alluring Scent              <08>Nothing\nPrevious Page",
+      "french": "<04>Poêle fleurie                    <05>Poupée mécanique\n<06>Parfum Envoûtant              <08>Rien\nPage précédente"
+    },
+    {
+      "id": "B086-S007",
+      "english": "<17><05> had a golden badge pinned on!<18> <0E>",
+      "french": "<17>On épingle un insigne d’or à <05> !<18> <0E>"
+    },
+    {
+      "id": "B091-S001",
+      "english": "If you're here to collect gold dust,<0D> you're\ngoing to need a gold dust pan!<0D> Yes,<0D> I said a\nPAN,<0D> not a pot!\nI've got a pan here for <05> ryo!\nWould you like to buy it?",
+      "french": "Pour récolter la poudre d’or,<0D> il te faut une batée !<0D> Oui,<0D> une BATÉE,<0D> pas un pot !\nJ’en ai une pour <05> ryo !\nTu veux l’acheter ?"
+    },
+    {
+      "id": "B091-S002",
+      "english": "You don't even have a measly <05> ryo?<0D> \nCome back when you do,<0D> then!",
+      "french": "Tu n’as même pas <05> ryo ?<0D> Reviens quand tu les auras,<0D> alors !"
+    },
+    {
+      "id": "B094-S004",
+      "english": "If you're tired from working here at the gold\nmine,<0D> why not rest at the gold mine too!?<0D> \nOne night costs <07> ryo!\nWill you be staying here?<0E>",
+      "french": "Fatigué de travailler à la mine d’or ?<0D> Et si vous vous reposiez aussi à la mine d’or !?<0D> Une nuit coûte <07> ryo !\nVoulez-vous passer la nuit ici ?<0E>"
+    },
+    {
+      "id": "B095-S011",
+      "english": "Thank you!<0D> Let me pin them to your shirts.<0D>\nTAAAAAAAH!<0D>\n\n<17><05> got a golden badge pinned on!<18>\n<17><06> got a golden badge pinned on!<18>\n<17><07> got a golden badge pinned on!<18>\nNow you're eligible for the V.I.P. services!",
+      "french": "Merci !<0D> Je vais les épingler sur vos chemises.<0D> TAAAAAAH !<0D>\n\n<17>On épingle un insigne d’or à <05> !<18>\n<17>On épingle un insigne d’or à <06> !<18>\n<17>On épingle un insigne d’or à <07> !<18>\nVous avez maintenant droit aux services V.I.P. !"
+    },
+    {
+      "id": "B095-S014",
+      "english": "Princess heels!<0D> You must go and buy me a pair\nof princess heels!<0D> They're only sold at a store\ncalled <11>Skedaddle!<11><0D> They're VERY pricey!\nAnd I deserve only the top of the line goods!<0D> \nI have a SHORT temper!<0D> I won't stand for any\ndawdling!<0D> I will wait until...\nx1<04> x4<05>",
+      "french": "Des escarpins de princesse !<0D> Va m’acheter des escarpins de princesse !<0D> On n’en trouve que chez <11>Déguerpis !<11><0D> Ils coûtent TRÈS cher !\nEt je ne mérite que le meilleur !<0D> J’ai le caractère DIFFICILE !<0D> Je ne supporterai aucun retard !<0D> Je t’attendrai jusqu’en...\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S015",
+      "english": "x2<05><29>x3<06> <04>!\nYou have until then!\nIf you make me wait any longer than that,<0D> I will\nleave you!",
+      "french": "x2<05><29>x3<06> <04> !\nTu as jusqu’à cette heure-là !\nSi tu me fais attendre plus longtemps,<0D> je te quitte !"
+    },
+    {
+      "id": "B095-S016",
+      "english": "No,<0D> that is NOT going to cut it!<0D> Get out there\nand buy me the princess clothes!\n\nThey're only sold in a beautiful place where\nthe sakura bloom!<0D> Those clothes are fit for\nme alone!\nIf you don't bring them soon,<0D> you'll regret it!\nx1<04> x4<05>",
+      "french": "Non,<0D> ça ne va PAS du tout !<0D> Va donc m’acheter la tenue de princesse !\n\nOn ne la trouve que dans un bel endroit où fleurissent les cerisiers !<0D> Cette tenue n’est digne que de moi !\nSi tu ne la rapportes pas vite,<0D> tu le regretteras !\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S017",
+      "english": "x2<05><29>x3<06> <04>!\nYou have until then!<0D> I will wait no longer than\nthat!<0D> If you make me wait a second longer,<0D>\nI will leave you!<0D> You've been warned!",
+      "french": "x2<05><29>x3<06> <04> !\nTu as jusqu’à cette heure-là !<0D> Je n’attendrai pas davantage !<0D> Si tu me fais attendre une seconde de plus,<0D> je te quitte !<0D> Te voilà prévenu !"
+    },
+    {
+      "id": "B095-S018",
+      "english": "What!?<0D> The princess whip!<0D> \nYou still don't have the princess whip!?<0D> \nHurry up and buy it,<0D> already! \nThe princess whip is a high class item that \ncan only be bought in the Crane Nation!<0D> \nIt will be MY whip! \nx1<04> x4<05>",
+      "french": "Quoi !?<0D> Le fouet de princesse !<0D> Tu n’as toujours pas le fouet de princesse !?<0D> Dépêche-toi de l’acheter !\nLe fouet de princesse est un article de luxe qu’on ne trouve qu’au pays de la Grue !<0D> Ce sera MON fouet !<0D> \nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S020",
+      "english": "Do you hear me,<0D> SLAVE?x5 x1<04> x4<05>",
+      "french": "Tu m’entends,<0D> ESCLAVE ?x5 x1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S021",
+      "english": "x2<05><29>x3<06> <04>!x5 You will have to come and ask me if I\nneed anything before that time comes!\n\nIf you leave me alone any longer than that,<0D>\nI will leave you!<0D> You've been warned!<0D> You must\ncome with a little souvenir for me as well!\nA gift of 100,000 ryo!<0D> Do NOT forget to\nbring that.<0D> Do you hear me,<0D> SLAVE?",
+      "french": "x2<05><29>x3<06> <04> !x5 Avant cette heure-là, tu devras venir me demander si j’ai besoin de quelque chose !\n\nSi tu me laisses seule plus longtemps,<0D> je te quitte !<0D> Te voilà prévenu !<0D> Tu devras aussi m’apporter un petit souvenir !\nUn cadeau de 100 000 ryo !<0D> N’oublie SURTOUT PAS de l’apporter.<0D> Tu m’entends,<0D> ESCLAVE ?"
+    },
+    {
+      "id": "B095-S022",
+      "english": "Hooohohohoh!<0D> I am Miho,<0D> the most beautiful\nwoman in Jipang!<0D> If you want to be my SLAVE,<0D>\nyou'll have to prove yourself worthy!\nSo then,<0D> SLAVE...<0D> First,<0D> buy me a pair of\nprincess heels!<0D> They're only sold at a store\ncalled <11>Skedaddle!<11><0D> They're VERY pricey!\nAnd I deserve only the top of the line goods!<0D> \nI have a SHORT temper!<0D> I won't stand for any\ndawdling!<0D> I will wait forty-eight hours!\nx1<04> x4<05>",
+      "french": "Hohohohoho !<0D> Je suis Miho,<0D> la plus belle femme de Jipang !<0D> Si tu veux être mon ESCLAVE,<0D> tu devras t’en montrer digne !\nAlors,<0D> ESCLAVE...<0D> Pour commencer,<0D> achète-moi des escarpins de princesse !<0D> On n’en trouve que chez <11>Déguerpis !<11><0D> Ils coûtent TRÈS cher !\nEt je ne mérite que le meilleur !<0D> J’ai le caractère DIFFICILE !<0D> Je ne supporterai aucun retard !<0D> Je t’attendrai quarante-huit heures !\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S023",
+      "english": "x2<05><29>x3<06> <04>!\nYou have until then!\nAfter which I will leave you!<0D> \nYou've been warned!",
+      "french": "x2<05><29>x3<06> <04> !\nTu as jusqu’à cette heure-là !\nAprès quoi je te quitterai !<0D> Te voilà prévenu !"
+    },
+    {
+      "id": "B095-S026",
+      "english": "Hohohohohoho!<0D> These are a perfect fit for \nmy beautiful feet!<0D> My next demand,<0D> then!<0D> \nBuy me the princess clothes!\nThey can only be bought in a beautiful place\nwhere the sakura bloom!<0D> Those clothes seem\nto have been tailored specifically for me!\nYou should know by now...<0D> I have a SHORT\ntemper!<0D> I won't stand for any dawdling!<0D> \nI will wait forty-eight hours!\nx1<04> x4<05>",
+      "french": "Hohohohohoho !<0D> Ils vont parfaitement à mes jolis pieds !<0D> Ma prochaine exigence,<0D> donc !<0D> Achète-moi la tenue de princesse !\nOn ne la trouve que dans un bel endroit où fleurissent les cerisiers !<0D> Cette tenue semble avoir été taillée pour moi !\nTu devrais le savoir, maintenant...<0D> J’ai le caractère DIFFICILE !<0D> Je ne supporterai aucun retard !<0D> Je t’attendrai quarante-huit heures !\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S027",
+      "english": "x2<05><29>x3<06> <04>!\nYou have until then!\nIf you are late,<0D> I will leave you!<0D> \nYou've been warned!",
+      "french": "x2<05><29>x3<06> <04> !\nTu as jusqu’à cette heure-là !\nSi tu es en retard,<0D> je te quitte !<0D> Te voilà prévenu !"
+    },
+    {
+      "id": "B095-S031",
+      "english": "Next,<0D> I demand that you buy me the princess\nwhip!<0D> It's a pricey item that can only be found\nin the Crane Nation!\nThat whip was made for me!<0D> I won't be\nsatisfied until I have it!<0D> If you make me wait\nany longer,<0D> you will suffer the consequences!<0D>\nYou should know them by now!<0D> \nI will wait forty-eight hours!\n\nx1<04> x4<05>",
+      "french": "Maintenant,<0D> j’exige que tu m’achètes le fouet de princesse !<0D> C’est un article coûteux qu’on ne trouve qu’au pays de la Grue !\nCe fouet a été fait pour moi !<0D> Je ne serai satisfaite que quand je l’aurai !<0D> Si tu me fais encore attendre,<0D> tu en subiras les conséquences !<0D> Tu devrais les connaître, maintenant !<0D> Je t’attendrai quarante-huit heures !\n\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S032",
+      "english": "x2<05><29>x3<06> <04>!\nYou have until then!",
+      "french": "x2<05><29>x3<06> <04> !\nTu as jusqu’à cette heure-là !"
+    },
+    {
+      "id": "B095-S038",
+      "english": "If you wish to continue to be my SLAVE,<0D> \nthen do as I command you!<0D> \nYou have forty-eight hours!\nx1<04> x4<05>",
+      "french": "Si tu veux rester mon ESCLAVE,<0D> alors fais ce que je t’ordonne !<0D> Tu as quarante-huit heures !\nx1<04>, au x4<05> jour"
+    },
+    {
+      "id": "B095-S044",
+      "english": "If you want to remain my pet forever,<0D>\nSLAVE...<0D> Then you'll have to show me how\nmuch I mean to you!\nYou have forty-eight hours!\nx1<04> x4<05> ",
+      "french": "Si tu veux rester mon toutou pour toujours,<0D> ESCLAVE...<0D> Alors montre-moi combien je compte pour toi !\nTu as quarante-huit heures !\nx1<04>, au x4<05> jour "
+    },
+    {
+      "id": "B097-S098",
+      "english": "That's the x4<05>!<0D> You ready,<0D> then?",
+      "french": "C’est le x4<05> coffre !<0D> Tu es prêt,<0D> alors ?"
+    },
+    {
+      "id": "B099-S003",
+      "english": "<0C>What now?<0D> A young man of the Fire Clan?<0D> Why\nyes,<0D> I see that you are!<0D> I'm the Basara Hermit!<0D>\nWait a moment!<0D> What time is it now?\n<04>day, x2<06><29>x3<07> <05>?",
+      "french": "<0C>Quoi donc ?<0D> Un jeune homme du clan du Feu ?<0D> Mais oui,<0D> je vois ça !<0D> Je suis l’ermite Basara !<0D> Un instant !<0D> Quelle heure est-il ?\n<04>, x2<06><29>x3<07> <05> ?"
+    },
+    {
+      "id": "B099-S014",
+      "english": "Mon",
+      "french": "lun."
+    },
+    {
+      "id": "B099-S015",
+      "english": "Tues",
+      "french": "mar."
+    },
+    {
+      "id": "B099-S016",
+      "english": "Wednes",
+      "french": "mer."
+    },
+    {
+      "id": "B099-S017",
+      "english": "Thurs",
+      "french": "jeu."
+    },
+    {
+      "id": "B099-S018",
+      "english": "Fri",
+      "french": "ven."
+    },
+    {
+      "id": "B099-S019",
+      "english": "Satur",
+      "french": "sam."
+    },
+    {
+      "id": "B210-S036",
+      "english": "Ring-a-ding, ding...<0D> The time is now x2<04><29>x3<05>!\nRepeat,<0D> the time is now x2<04><29>x3<05>!\nAt the moment,<0D> the current ship is...",
+      "french": "Ding, ding, ding...<0D> Il est x2<04><29>x3<05> !\nJe répète,<0D> il est x2<04><29>x3<05> !\nPour le moment,<0D> le vaisseau en service est..."
+    },
+    {
+      "id": "B210-S075",
+      "english": "Welcome!<0D> We're going to be offering some\ngreat discounts!<0D> The discount time starts\nat x2<04><29>20!\nWould you like to buy something anyway?",
+      "french": "Bienvenue !<0D> Nous allons faire de belles réductions !<0D> Les soldes commencent à x2<04><29>20 !\nVoulez-vous acheter quelque chose malgré tout ?"
+    },
+    {
+      "id": "B210-S076",
+      "english": "Welcome!<0D> We're offering some great discounts!<0D>\nThe prices will go back up at x2<04><29>40!<0D> \nNow's your chance!\nYou'll buy something,<0D> right?",
+      "french": "Bienvenue !<0D> Nous proposons de belles réductions !<0D> Les prix remontent à x2<04><29>40 !<0D> C’est le moment d’en profiter !\nVous allez acheter,<0D> hein ?"
+    },
+    {
+      "id": "B210-S077",
+      "english": "Welcome!<0D> Right now,<0D> our store raised the\nprices of all our items!<0D> The prices will be\nhigh until x2<04><29>59!\nIf you buy something now,<0D> it'll really help us\nout here!",
+      "french": "Bienvenue !<0D> En ce moment,<0D> tous nos prix ont augmenté !<0D> Ils resteront élevés jusqu’à x2<04><29>59 !\nSi vous achetez maintenant,<0D> ça nous aidera beaucoup !"
+    },
+    {
+      "id": "B212-S018",
+      "english": "Ring-a-ding, ding...<0D> The time is now x2<04><29>x3<05>!\nRepeat,<0D> the time is now x2<04><29>x3<05>!",
+      "french": "Ding, ding, ding...<0D> Il est x2<04><29>x3<05> !\nJe répète,<0D> il est x2<04><29>x3<05> !"
+    },
+    {
+      "id": "B012-S009",
+      "english": "Aries",
+      "french": "Bélier"
+    },
+    {
+      "id": "B012-S010",
+      "english": "Taurus",
+      "french": "Taureau"
+    },
+    {
+      "id": "B012-S011",
+      "english": "Gemini",
+      "french": "Gémeaux"
+    },
+    {
+      "id": "B012-S013",
+      "english": "Leo",
+      "french": "Lion"
+    },
+    {
+      "id": "B012-S014",
+      "english": "Virgo",
+      "french": "Vierge"
+    },
+    {
+      "id": "B012-S015",
+      "english": "Libra",
+      "french": "Balance"
+    },
+    {
+      "id": "B012-S016",
+      "english": "Scorpio",
+      "french": "Scorpion"
+    },
+    {
+      "id": "B012-S017",
+      "english": "Sagittarius",
+      "french": "Sagittaire"
+    },
+    {
+      "id": "B012-S018",
+      "english": "Capricorn",
+      "french": "Capricorne"
+    },
+    {
+      "id": "B012-S019",
+      "english": "Aquarius",
+      "french": "Verseau"
+    },
+    {
+      "id": "B012-S020",
+      "english": "Pisces",
+      "french": "Poissons"
+    },
+    {
+      "id": "B012-S008",
+      "english": "Higan's party",
+      "french": "le groupe d’Higan"
+    },
+    {
+      "id": "B012-S025",
+      "english": "W <1A>  E",
+      "french": "O <1A>  E"
+    },
+    {
+      "id": "B096-S023",
+      "english": "<0D><0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0C> <0C>Have you <0D>gone and<0D> cast me aside?\n<0B><0D><0D><0D><0D><0D><0D><0D><0C> Have you, Canine?\n<0B><0D><0D><0D><0D><0C> How could you ever let this be?  <0B><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0D><0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0C> <0C>As-tu <0D>donc choisi<0D> de m’abandonner ?\n<0B><0D><0D><0D><0D><0D><0D><0D><0C> Toi, Chien divin ?\n<0B><0D><0D><0D><0D><0C> Comment as-tu pu faire ça ?  <0B><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S028",
+      "english": "<0A><CC>  <08><0C>The night is ending now,<0D><0D> it's six <0D>A.M.<0D> <0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C>La nuit s’achève,<0D><0D> il est six <0D>heures du matin.<0D> <0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S030",
+      "english": "<0D><0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D> <0C>We're all so happy in our home of\nHanamaru!<0D><0D> <0C>We've got the<0C> happiest\nlittle<0B><0B> home that you ever saw!",
+      "french": "<0D><0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D> <0C>On est tous si heureux chez nous, à Hanamaru !<0D><0D> <0C>Notre foyer,<0C> c’est le plus joli<0B><0B> de tous ceux que vous avez vus !"
+    },
+    {
+      "id": "B096-S031",
+      "english": "<0A><CC>  <08><0D>Ev<0D><0D><0C>ery day, we do our very best<0D> <0C>to make\nwhatever dough we can!<0D> Rakin' in the dough!<0D><0D>",
+      "french": "<0A><CC>  <08><0D>Cha<0D><0D><0C>que jour, on fait de notre mieux<0D> <0C>pour gagner autant d’argent que possible !<0D> On ramasse le pognon !<0D><0D>"
+    },
+    {
+      "id": "B096-S032",
+      "english": "<0A><CC>  <08><0C>How's <0D><0D>your business doin'?<0D><0D><0D> Well, <0D>we <0D>can't\n<0C>complain <0D><0D>here!<0D> <0D>But if <0D><0D><0D>you want a dis<0D><0D>count,\n<0D><0D><0D><0D>well, <0D><0D><0D><0C>the <0D>answer's no!<0B><0D><0D>",
+      "french": "<0A><CC>  <08><0C>Et <0D><0D>vos affaires, ça va ?<0D><0D><0D> Eh bien, <0D>nous, <0D>on ne peut\n<0C>pas se plaindre <0D><0D>ici !<0D> <0D>Mais si <0D><0D><0D>vous voulez une ré<0D><0D>duction,\n<0D><0D><0D><0D>eh bien, <0D><0D><0D><0C>la <0D>réponse est non !<0B><0D><0D>"
+    },
+    {
+      "id": "B096-S033",
+      "english": "<0D><0C><0A><CC>  <08><0D> Hanamaru <0D><0D>has a motto, <0D><0C>and the motto is\nthis<29><0D><0D> You gotta earn your dough now,<0D> if you\nexpect to live!<0D><0D> <0D><0D><0D>",
+      "french": "<0D><0C><0A><CC>  <08><0D> Hanamaru <0D><0D>a une devise, <0D><0C>et la voici<29><0D><0D> Gagne ton pognon dès maintenant,<0D> si tu veux vivre !<0D><0D> <0D><0D><0D>"
+    },
+    {
+      "id": "B096-S034",
+      "english": "<0C><0A><CC>  <08><0C>Hanamaru's <0B>waiting for you <0D><0C>all to come\nand <0D><0D>vis<0B><0D>it,<0D> <0C>and if we ever meet there...<0B><0D><0D> <0C>\nThe world's gonna be <0D><0B><0D><0D><0D>peachy keen!<0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0C><0A><CC>  <08><0C>Hanamaru <0B>vous attend <0D><0C>tous pour une <0D><0D>vi<0B><0D>site,<0D> <0C>et si on s’y rencontre un jour...<0B><0D><0D> <0C>\nTout ira <0D><0B><0D><0D><0D>pour le mieux !<0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S035",
+      "english": "<0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D> <0C><0C>Hey, there... <0D><0D>Did you just see? <0D><0D><0D><0D><0D><0D> \nHey, you...<0D> Could you <0D>have known?<0D><0D><0D><0D><0D> ",
+      "french": "<0A><CC>  <08><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D> <0C><0C>Hé, toi... <0D><0D>Tu as vu ça ? <0D><0D><0D><0D><0D><0D> \nHé, toi...<0D> Tu pouvais <0D>le savoir ?<0D><0D><0D><0D><0D> "
+    },
+    {
+      "id": "B096-S036",
+      "english": "<0A><CC>  <08><0D><0C><0C>Putting right what once was wrong, \nhe's our Money-King!<0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0D><0C><0C>Lui qui répare tous les torts, c’est notre Money-King !<0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S037",
+      "english": "<0A><CC>  <08><0C><0C>They are on the move!<0D><0D><0D> Yes, it's our enemy! <0D><0D><0D><0D><0D>\nNone but the Army of Fire!<0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C><0C>Les voilà qui avancent !<0D><0D><0D> Oui, voici notre ennemi ! <0D><0D><0D><0D><0D>\nNul autre que l’armée du Feu !<0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S038",
+      "english": "<0A><CC>  <08><0D><0D><0C><0C> Go now! <0D><0D>You can win!<0D><0D><0D> You are our hope! <0D><0D><0D>\nYou are the one that we look to!<0C> <0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0D><0D><0C><0C> Vas-y ! <0D><0D>Tu peux vaincre !<0D><0D><0D> Tu es notre espoir ! <0D><0D><0D>\nTu es notre seul recours !<0C> <0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S039",
+      "english": "<0A><CC>  <08><0C><0C> We all have <0D>justice on our side!<0D><0D><0D><0D><0D><0D><0D><0D><0D> \nWe'll be the victor in the end!<0C><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C><0C> Nous avons tous <0D>la justice de notre côté !<0D><0D><0D><0D><0D><0D><0D><0D><0D> \nÀ la fin, nous triompherons !<0C><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S040",
+      "english": "<0A><CC>  <08><0C><0C>Using the power <0D>of sci<0D>ence!<0D><0D> \nKicking up the power to the max!<0D><0D> <0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C><0C>Avec le pouvoir <0D>de la sci<0D>ence !<0D><0D> \nDéchaîne toute sa puissance !<0D><0D> <0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S041",
+      "english": "<0A><CC>  <08><0C><0C>Call out his name! <0D><0C> Money-<0B><0B>King!  <0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C><0C>Criez son nom ! <0D><0C> Money-<0B><0B>King !  <0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B096-S042",
+      "english": "<0A><CC>  <08><0C><0C>Super! <0D><0D>Super!<0D><0D><0D> <0C>\nSuper Money-King<0D><0D><0D><0D> <0B>the Third!<0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>",
+      "french": "<0A><CC>  <08><0C><0C>Super ! <0D><0D>Super !<0D><0D><0D> <0C>\nSuper Money-King<0D><0D><0D><0D> <0B>le Troisième !<0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D><0D>"
+    },
+    {
+      "id": "B013-S001",
+      "english": "Modify bookmark's name",
+      "french": "Renommer le signet"
+    },
+    {
+      "id": "B013-S002",
+      "english": "Select a bookmark",
+      "french": "Choisir un signet"
+    },
+    {
+      "id": "B014-S001",
+      "english": "Fire Bear Nation",
+      "french": "Pays de l’Ours de Feu"
+    },
+    {
+      "id": "B014-S002",
+      "english": "Fireshadow Village",
+      "french": "Village de l’Ombre du Feu"
+    },
+    {
+      "id": "B014-S003",
+      "english": "Yonder Mountain",
+      "french": "Mont Lointain"
+    },
+    {
+      "id": "B014-S004",
+      "english": "Coal Mine",
+      "french": "Mine de charbon"
+    },
+    {
+      "id": "B014-S005",
+      "english": "Hermit's Retreat",
+      "french": "Retraite de l’Ermite"
+    },
+    {
+      "id": "B014-S006",
+      "english": "Firepoint Village",
+      "french": "Village de la Pointe du Feu"
+    },
+    {
+      "id": "B014-S007",
+      "english": "Flame Shrine",
+      "french": "Sanctuaire de la Flamme"
+    },
+    {
+      "id": "B014-S008",
+      "english": "Fire Bear Shrine",
+      "french": "Sanctuaire de l’Ours de Feu"
+    },
+    {
+      "id": "B014-S009",
+      "english": "Ice Mountain",
+      "french": "Mont de Glace"
+    },
+    {
+      "id": "B014-S010",
+      "english": "Ice Mountain Village",
+      "french": "Village du Mont de Glace"
+    },
+    {
+      "id": "B014-S011",
+      "english": "Palace of Dreams",
+      "french": "Palais des Rêves"
+    },
+    {
+      "id": "B014-S012",
+      "english": "Life Forest",
+      "french": "Forêt de la Vie"
+    },
+    {
+      "id": "B014-S013",
+      "english": "Hisui's House",
+      "french": "Maison de Hisui"
+    },
+    {
+      "id": "B014-S014",
+      "english": "Ice Fang Castle                                              \n    ",
+      "french": "Château du Croc de Glace"
+    },
+    {
+      "id": "B014-S015",
+      "english": "Looker's Grotto",
+      "french": "Grotte des Belles"
+    },
+    {
+      "id": "B014-S016",
+      "english": "Spring of Temptation",
+      "french": "Source de la Tentation"
+    },
+    {
+      "id": "B014-S017",
+      "english": "Peacock Nation",
+      "french": "Pays du Paon"
+    },
+    {
+      "id": "B014-S018",
+      "english": "Peacock Shrine",
+      "french": "Sanctuaire du Paon"
+    },
+    {
+      "id": "B014-S019",
+      "english": "Open Market",
+      "french": "Marché en plein air"
+    },
+    {
+      "id": "B014-S020",
+      "english": "Valley of Stone",
+      "french": "Vallée de la Pierre"
+    },
+    {
+      "id": "B014-S021",
+      "english": "Rain Temple Village",
+      "french": "Village du Temple de la Pluie"
+    },
+    {
+      "id": "B014-S022",
+      "english": "Luck Luck Village",
+      "french": "Village Double-Chance"
+    },
+    {
+      "id": "B014-S023",
+      "english": "Peacock Palace",
+      "french": "Palais du Paon"
+    },
+    {
+      "id": "B014-S025",
+      "english": "Tower of Bloodshed",
+      "french": "Tour du Carnage"
+    },
+    {
+      "id": "B014-S026",
+      "english": "Crane Nation",
+      "french": "Pays de la Grue"
+    },
+    {
+      "id": "B014-S027",
+      "english": "Entrance Village",
+      "french": "Village de l’Entrée"
+    },
+    {
+      "id": "B014-S028",
+      "english": "Seaweed Village",
+      "french": "Village des Algues"
+    },
+    {
+      "id": "B014-S029",
+      "english": "Treasure Village",
+      "french": "Village du Trésor"
+    },
+    {
+      "id": "B014-S030",
+      "english": "Treasure Gallery",
+      "french": "Galerie du Trésor"
+    },
+    {
+      "id": "B014-S031",
+      "english": "Splendid Village",
+      "french": "Village Splendide"
+    },
+    {
+      "id": "B014-S032",
+      "english": "Exit Village",
+      "french": "Village de la Sortie"
+    },
+    {
+      "id": "B014-S033",
+      "english": "Beautiful Grotto",
+      "french": "Grotte de la Beauté"
+    },
+    {
+      "id": "B014-S034",
+      "english": "Crane Shrine",
+      "french": "Sanctuaire de la Grue"
+    },
+    {
+      "id": "B014-S035",
+      "english": "Liquor Village",
+      "french": "Village du Saké"
+    },
+    {
+      "id": "B014-S036",
+      "english": "Sara's Art Gallery",
+      "french": "Galerie d’art de Sara"
+    },
+    {
+      "id": "B014-S037",
+      "english": "Ripple Grotto",
+      "french": "Grotte du Clapotis"
+    },
+    {
+      "id": "B014-S038",
+      "english": "Rat Village",
+      "french": "Village des Rats"
+    },
+    {
+      "id": "B014-S039",
+      "english": "Phantom Castle",
+      "french": "Château Fantôme"
+    },
+    {
+      "id": "B014-S040",
+      "english": "Crane and Turtle Crossing",
+      "french": "Passage Grue-Tortue"
+    },
+    {
+      "id": "B014-S041",
+      "english": "Turtle Nation",
+      "french": "Pays de la Tortue"
+    },
+    {
+      "id": "B014-S042",
+      "english": "Woodlands 1",
+      "french": "Forêt 1"
+    },
+    {
+      "id": "B014-S043",
+      "english": "Woodlands 2",
+      "french": "Forêt 2"
+    },
+    {
+      "id": "B014-S044",
+      "english": "Woodlands 3",
+      "french": "Forêt 3"
+    },
+    {
+      "id": "B014-S045",
+      "english": "Turtle Shrine",
+      "french": "Sanctuaire de la Tortue"
+    },
+    {
+      "id": "B014-S046",
+      "english": "Head Mt. Village",
+      "french": "Village du Mont-Tête"
+    },
+    {
+      "id": "B014-S047",
+      "english": "Blue Lake Village",
+      "french": "Village du Lac bleu"
+    },
+    {
+      "id": "B014-S048",
+      "english": "Juri's Flower Garden",
+      "french": "Jardin fleuri de Juri"
+    },
+    {
+      "id": "B014-S049",
+      "english": "Cryptic Arbor Castle",
+      "french": "Château de l’Arbre mystérieux"
+    },
+    {
+      "id": "B014-S050",
+      "english": "Tortoise Castle",
+      "french": "Château de la Tortue"
+    },
+    {
+      "id": "B014-S051",
+      "english": "Canine Nation",
+      "french": "Pays du Chien"
+    },
+    {
+      "id": "B014-S052",
+      "english": "Fluttering Ridge",
+      "french": "Crête des Pétales"
+    },
+    {
+      "id": "B014-S053",
+      "english": "Gold Dust Village",
+      "french": "Village des Paillettes d’Or"
+    },
+    {
+      "id": "B014-S054",
+      "english": "Gold Mine",
+      "french": "Mine d’or"
+    },
+    {
+      "id": "B014-S055",
+      "english": "Golden Castle",
+      "french": "Château d’Or"
+    },
+    {
+      "id": "B014-S056",
+      "english": "Canine Shrine",
+      "french": "Sanctuaire du Chien"
+    },
+    {
+      "id": "B014-S057",
+      "english": "Big Tiger Town",
+      "french": "Ville du Grand Tigre"
+    },
+    {
+      "id": "B014-S058",
+      "english": "Flower Circle Town",
+      "french": "Ville du Cercle Fleuri"
+    },
+    {
+      "id": "B014-S059",
+      "english": "Akamaru Gold and Silver Research Lab",
+      "french": "Labo Or et Argent d’Akamaru"
+    },
+    {
+      "id": "B014-S060",
+      "english": "Djinn's Waterfall",
+      "french": "Cascade du Djinn"
+    },
+    {
+      "id": "B014-S061",
+      "english": "Djinn's Grotto",
+      "french": "Grotte du Djinn"
+    },
+    {
+      "id": "B014-S063",
+      "english": "Dragon Kingdom",
+      "french": "Royaume du Dragon"
+    },
+    {
+      "id": "B014-S064",
+      "english": "Dragon Mouth Village",
+      "french": "Village de la Gueule du Dragon"
+    },
+    {
+      "id": "B014-S065",
+      "english": "Dragon Eyes Village",
+      "french": "Village des Yeux du Dragon"
+    },
+    {
+      "id": "B014-S066",
+      "english": "Dragon Ears Village",
+      "french": "Village des Oreilles du Dragon"
+    },
+    {
+      "id": "B014-S067",
+      "english": "Dragon Shrine",
+      "french": "Sanctuaire du Dragon"
+    },
+    {
+      "id": "B014-S068",
+      "english": "Royal Dragon Town",
+      "french": "Ville royale du Dragon"
+    },
+    {
+      "id": "B014-S069",
+      "english": "Royal Dragon Castle",
+      "french": "Château royal du Dragon"
+    },
+    {
+      "id": "B014-S070",
+      "english": "Abyss",
+      "french": "Abîme"
+    },
+    {
+      "id": "B014-S071",
+      "english": "Hell",
+      "french": "Enfers"
+    },
+    {
+      "id": "B014-S072",
+      "english": "Gates of Hell",
+      "french": "Portes des Enfers"
+    },
+    {
+      "id": "B014-S073",
+      "english": "Sea of Darkness",
+      "french": "Mer des Ténèbres"
+    },
+    {
+      "id": "B014-S074",
+      "english": "Crab-Crab Cavern",
+      "french": "Caverne Crabe-Crabe"
+    },
+    {
+      "id": "B014-S075",
+      "english": "Takamagahara, the Heavens",
+      "french": "Takamagahara, les Cieux"
+    },
+    {
+      "id": "B014-S076",
+      "english": "Grand Shrine of the Heavens",
+      "french": "Grand sanctuaire des Cieux"
+    },
+    {
+      "id": "B014-S077",
+      "english": "Katana Village",
+      "french": "Village des Katanas"
+    },
+    {
+      "id": "B014-S078",
+      "english": "Conception Village",
+      "french": "Village de la Conception"
+    },
+    {
+      "id": "B014-S079",
+      "english": "Mirror Village",
+      "french": "Village du Miroir"
+    },
+    {
+      "id": "B014-S080",
+      "english": "Threshold of the Heavens",
+      "french": "Seuil des Cieux"
+    },
+    {
+      "id": "B014-S081",
+      "english": "Cloudy Grotto",
+      "french": "Grotte des Nuages"
+    },
+    {
+      "id": "B014-S082",
+      "english": "Hermit Grotto",
+      "french": "Grotte de l’Ermite"
+    },
+    {
+      "id": "B014-S083",
+      "english": "Festival Plaza",
+      "french": "Place des Fêtes"
+    },
+    {
+      "id": "B014-S084",
+      "english": "Ark of the Heavens",
+      "french": "Arche des Cieux"
+    },
+    {
+      "id": "B014-S085",
+      "english": "Higan's House",
+      "french": "Maison d’Higan"
+    },
+    {
+      "id": "B014-S086",
+      "english": "Harbor of the Blue Lake",
+      "french": "Port du Lac bleu"
+    },
+    {
+      "id": "B014-S087",
+      "english": "Tense Cavern",
+      "french": "Caverne de la Tension"
+    },
+    {
+      "id": "B014-S088",
+      "english": "White Thread Cavern",
+      "french": "Caverne du Fil blanc"
+    },
+    {
+      "id": "B014-S089",
+      "english": "Inside the Royal Dragon Castle",
+      "french": "Intérieur du château du Dragon"
+    },
+    {
+      "id": "B016-S002",
+      "english": "K.O. the Coal Hermit!",
+      "french": "À bas l’ermite du Charbon !"
+    },
+    {
+      "id": "B016-S003",
+      "english": "Hell's Army!",
+      "french": "L’armée des Enfers !"
+    },
+    {
+      "id": "B016-S004",
+      "english": "Zettai Reido, the Cold-Blooded Warrior!",
+      "french": "Zettai Reido, le guerrier au sang froid !"
+    },
+    {
+      "id": "B016-S005",
+      "english": "Here Comes Akamaru!",
+      "french": "Voici Akamaru !"
+    },
+    {
+      "id": "B016-S006",
+      "english": "Bloodshed at the Blood-red Tower!",
+      "french": "Massacre à la tour du Carnage !"
+    },
+    {
+      "id": "B016-S007",
+      "english": "A Challenge from Sara!",
+      "french": "Un défi de Sara !"
+    },
+    {
+      "id": "B016-S009",
+      "english": "A Challenge from Juri!",
+      "french": "Un défi de Juri !"
+    },
+    {
+      "id": "B016-S010",
+      "english": "The Giant Floral Castle!",
+      "french": "Le château fleuri géant !"
+    },
+    {
+      "id": "B016-S011",
+      "english": "Of Greed, Science and Souls...",
+      "french": "De l’avidité, de la science et des âmes..."
+    },
+    {
+      "id": "B016-S012",
+      "english": "Time is Money, and I am Gold and Silver.",
+      "french": "Le temps, c’est de l’argent. Moi, je suis Or et Argent."
+    },
+    {
+      "id": "B016-S013",
+      "english": "Shiranui, the Swordsman of Darkness",
+      "french": "Shiranui, le sabreur des ténèbres"
+    },
+    {
+      "id": "B016-S016",
+      "english": "Agni, the Fire Deity",
+      "french": "Agni, divinité du Feu"
+    },
+    {
+      "id": "B016-S017",
+      "english": "The Final Showdown!",
+      "french": "L’affrontement final !"
+    },
+    {
+      "id": "B043-S001",
+      "english": "Obtained <04> ryo.",
+      "french": "Gain : <04> ryo."
+    },
+    {
+      "id": "B043-S002",
+      "english": "Gained <04> virtue.",
+      "french": "Vertu gagnée : <04>."
+    },
+    {
+      "id": "B043-S003",
+      "english": "<04> reached rank <05>!",
+      "french": "<04> : rang <05> !"
+    },
+    {
+      "id": "B043-S004",
+      "english": "<04> remembered <05>!",
+      "french": "<04> apprend <05> !"
+    },
+    {
+      "id": "B043-S005",
+      "english": "Picked up <04>.",
+      "french": "Butin : <04>."
+    },
+    {
+      "id": "B043-S006",
+      "english": "<04> broke.",
+      "french": "Brisé : <04>."
+    }
+  ],
+  "excluded_from_new_count": [
+    {
+      "id": "B004-S008",
+      "reason": "Unchanged source/French",
+      "alias": null
+    },
+    {
+      "id": "B006-S001",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S001",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S002",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S002",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S003",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S003",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S004",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S004",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S005",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S005",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S006",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S006",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S007",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S007",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S008",
+      "reason": "Unchanged source/French",
+      "alias": {
+        "canonical": "B004-S008",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S009",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S009",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S010",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S010",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S011",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S011",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S012",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S012",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S013",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S013",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S014",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S014",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S015",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S015",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S016",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S016",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S017",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S017",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S018",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S018",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S019",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S019",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S020",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S020",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S021",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S021",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S022",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S022",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S023",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S023",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S024",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S024",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S025",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S025",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S026",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S026",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S027",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S027",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S028",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S028",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S029",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S029",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S030",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S030",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S031",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S031",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S032",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S032",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S033",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S033",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S034",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S034",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S035",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S035",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S036",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S036",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S037",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S037",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S038",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S038",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S039",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S039",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S040",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S040",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S041",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S042",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S042",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S041",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S043",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S043",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S044",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S044",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S045",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S046",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S046",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S047",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S047",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S045",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S048",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S048",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S049",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S050",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S050",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S051",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S051",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S052",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B006-S052",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B004-S049",
+        "reason": "Related catalog variant, not counted twice"
+      }
+    },
+    {
+      "id": "B007-S001",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S001",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S002",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S002",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S003",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S003",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S004",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S004",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S005",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S005",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S006",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S006",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S007",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S007",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S008",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S008",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S009",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S009",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S010",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S010",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S011",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S011",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S012",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S012",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S013",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S013",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S014",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S014",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S015",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S015",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S016",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S016",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S017",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S017",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S018",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S018",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S019",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S019",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S020",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S020",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S021",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S021",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S022",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S022",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S023",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S023",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S024",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S024",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S025",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S025",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S026",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S026",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S027",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S027",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S028",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S028",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S029",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S029",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B007-S030",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B005-S030",
+        "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+      }
+    },
+    {
+      "id": "B029-S114",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B003-S146/B003-S147",
+        "reason": "Combined selector repeats the two accessory names newly translated in catalog3, not a new distinct text."
+      }
+    },
+    {
+      "id": "B029-S115",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B002-S036",
+        "reason": "Bare selector variant of the already translated miracle-liquor item label, not a new distinct text."
+      }
+    },
+    {
+      "id": "B040-S036",
+      "reason": "Unchanged source/French",
+      "alias": null
+    },
+    {
+      "id": "B040-S168",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B040-S167",
+        "reason": "Identical source, not counted twice"
+      }
+    },
+    {
+      "id": "B040-S187",
+      "reason": "Exact English source already translated in V52",
+      "alias": null
+    },
+    {
+      "id": "B095-S050",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B095-S044",
+        "reason": "Identical source ignoring trailing whitespace; no second count"
+      }
+    },
+    {
+      "id": "B095-S039",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B095-S021",
+        "reason": "Identical source ignoring trailing whitespace; no second count"
+      }
+    },
+    {
+      "id": "B095-S045",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B095-S021",
+        "reason": "Identical source ignoring trailing whitespace; no second count"
+      }
+    },
+    {
+      "id": "B095-S051",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B095-S021",
+        "reason": "Identical source ignoring trailing whitespace; no second count"
+      }
+    },
+    {
+      "id": "B099-S011",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B099-S003",
+        "reason": "Identical source, not counted twice"
+      }
+    },
+    {
+      "id": "B193-S004",
+      "reason": "Exact English source already translated in V52",
+      "alias": null
+    },
+    {
+      "id": "B015-S001",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S001",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S002",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S002",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S003",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S003",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S004",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S004",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S005",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S005",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S006",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S006",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S007",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S007",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S008",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S008",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S009",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S009",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S010",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S010",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S011",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S011",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S012",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S012",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S013",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S013",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S014",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S014",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S015",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S015",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S016",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S016",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S017",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S017",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S018",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S018",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S019",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S019",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S020",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S020",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S021",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S021",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S022",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S022",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S023",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S023",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S025",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S025",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S026",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S026",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S027",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S027",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S028",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S028",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S029",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S029",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S030",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S030",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S031",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S031",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S032",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S032",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S033",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S033",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S034",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S034",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S035",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S035",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S036",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S036",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S037",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S037",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S038",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S038",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S039",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S039",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S040",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S040",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S041",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S041",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S042",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S042",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S043",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S043",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S044",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S044",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S045",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S045",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S046",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S046",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S047",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S047",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S048",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S048",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S049",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S049",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S050",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S050",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S051",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S051",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S052",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S052",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S053",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S053",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S054",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S054",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S055",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S055",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S056",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S056",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S057",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S057",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S058",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S058",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S059",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S059",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S060",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S060",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S061",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S061",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S063",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S063",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S064",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S064",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S065",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S065",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S066",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S066",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S067",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S067",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S068",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S068",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S069",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S069",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S070",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S070",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S071",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S071",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S072",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S072",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S073",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S073",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S074",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S074",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S075",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S075",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S076",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S076",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S077",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S077",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S078",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S078",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S079",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S079",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S080",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S080",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S081",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S081",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S082",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S082",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S083",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S083",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S084",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S084",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S085",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S085",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S086",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S086",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S087",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S087",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S088",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S088",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B015-S089",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S089",
+        "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+      }
+    },
+    {
+      "id": "B016-S008",
+      "reason": "Related/shared source variant",
+      "alias": {
+        "canonical": "B014-S039",
+        "reason": "Title variant of the same Phantom Castle label, no new distinct source counted."
+      }
+    }
+  ],
+  "corrections_to_published_v52": 0,
+  "scope": "Distinct whole source texts, finite field labels and actual native month labels. Related catalogs, unchanged proper names and already translated shared item selectors excluded. No unused/debug padding. Draft changes since preparatory checkpoints are not corrections to a released ROM.",
+  "strict_canonical_bounded_sources": 388,
+  "strict_prepared_distinct_total": 400,
+  "aliases_not_counted": {
+    "B006-S001": {
+      "canonical": "B004-S001",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S002": {
+      "canonical": "B004-S002",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S003": {
+      "canonical": "B004-S003",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S004": {
+      "canonical": "B004-S004",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S005": {
+      "canonical": "B004-S005",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S006": {
+      "canonical": "B004-S006",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S007": {
+      "canonical": "B004-S007",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S008": {
+      "canonical": "B004-S008",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S009": {
+      "canonical": "B004-S009",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S010": {
+      "canonical": "B004-S010",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S011": {
+      "canonical": "B004-S011",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S012": {
+      "canonical": "B004-S012",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S013": {
+      "canonical": "B004-S013",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S014": {
+      "canonical": "B004-S014",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S015": {
+      "canonical": "B004-S015",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S016": {
+      "canonical": "B004-S016",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S017": {
+      "canonical": "B004-S017",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S018": {
+      "canonical": "B004-S018",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S019": {
+      "canonical": "B004-S019",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S020": {
+      "canonical": "B004-S020",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S021": {
+      "canonical": "B004-S021",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S022": {
+      "canonical": "B004-S022",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S023": {
+      "canonical": "B004-S023",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S024": {
+      "canonical": "B004-S024",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S025": {
+      "canonical": "B004-S025",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S026": {
+      "canonical": "B004-S026",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S027": {
+      "canonical": "B004-S027",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S028": {
+      "canonical": "B004-S028",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S029": {
+      "canonical": "B004-S029",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S030": {
+      "canonical": "B004-S030",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S031": {
+      "canonical": "B004-S031",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S032": {
+      "canonical": "B004-S032",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S033": {
+      "canonical": "B004-S033",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S034": {
+      "canonical": "B004-S034",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S035": {
+      "canonical": "B004-S035",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S036": {
+      "canonical": "B004-S036",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S037": {
+      "canonical": "B004-S037",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S038": {
+      "canonical": "B004-S038",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S039": {
+      "canonical": "B004-S039",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S040": {
+      "canonical": "B004-S040",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S041": {
+      "canonical": "B004-S042",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S042": {
+      "canonical": "B004-S041",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S043": {
+      "canonical": "B004-S043",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S044": {
+      "canonical": "B004-S044",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S045": {
+      "canonical": "B004-S046",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S046": {
+      "canonical": "B004-S047",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S047": {
+      "canonical": "B004-S045",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S048": {
+      "canonical": "B004-S048",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S049": {
+      "canonical": "B004-S050",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S050": {
+      "canonical": "B004-S051",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S051": {
+      "canonical": "B004-S052",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B006-S052": {
+      "canonical": "B004-S049",
+      "reason": "Related catalog variant, not counted twice"
+    },
+    "B007-S001": {
+      "canonical": "B005-S001",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S002": {
+      "canonical": "B005-S002",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S003": {
+      "canonical": "B005-S003",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S004": {
+      "canonical": "B005-S004",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S005": {
+      "canonical": "B005-S005",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S006": {
+      "canonical": "B005-S006",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S007": {
+      "canonical": "B005-S007",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S008": {
+      "canonical": "B005-S008",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S009": {
+      "canonical": "B005-S009",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S010": {
+      "canonical": "B005-S010",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S011": {
+      "canonical": "B005-S011",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S012": {
+      "canonical": "B005-S012",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S013": {
+      "canonical": "B005-S013",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S014": {
+      "canonical": "B005-S014",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S015": {
+      "canonical": "B005-S015",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S016": {
+      "canonical": "B005-S016",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S017": {
+      "canonical": "B005-S017",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S018": {
+      "canonical": "B005-S018",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S019": {
+      "canonical": "B005-S019",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S020": {
+      "canonical": "B005-S020",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S021": {
+      "canonical": "B005-S021",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S022": {
+      "canonical": "B005-S022",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S023": {
+      "canonical": "B005-S023",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S024": {
+      "canonical": "B005-S024",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S025": {
+      "canonical": "B005-S025",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S026": {
+      "canonical": "B005-S026",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S027": {
+      "canonical": "B005-S027",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S028": {
+      "canonical": "B005-S028",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S029": {
+      "canonical": "B005-S029",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B007-S030": {
+      "canonical": "B005-S030",
+      "reason": "Same technique in related catalog, including Table/Dining Table and Farewell/Flee label variants; not counted twice"
+    },
+    "B040-S168": {
+      "canonical": "B040-S167",
+      "reason": "Identical source, not counted twice"
+    },
+    "B099-S011": {
+      "canonical": "B099-S003",
+      "reason": "Identical source, not counted twice"
+    },
+    "B095-S050": {
+      "canonical": "B095-S044",
+      "reason": "Identical source ignoring trailing whitespace; no second count"
+    },
+    "B095-S039": {
+      "canonical": "B095-S021",
+      "reason": "Identical source ignoring trailing whitespace; no second count"
+    },
+    "B095-S045": {
+      "canonical": "B095-S021",
+      "reason": "Identical source ignoring trailing whitespace; no second count"
+    },
+    "B095-S051": {
+      "canonical": "B095-S021",
+      "reason": "Identical source ignoring trailing whitespace; no second count"
+    },
+    "B015-S001": {
+      "canonical": "B014-S001",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S002": {
+      "canonical": "B014-S002",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S003": {
+      "canonical": "B014-S003",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S004": {
+      "canonical": "B014-S004",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S005": {
+      "canonical": "B014-S005",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S006": {
+      "canonical": "B014-S006",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S007": {
+      "canonical": "B014-S007",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S008": {
+      "canonical": "B014-S008",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S009": {
+      "canonical": "B014-S009",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S010": {
+      "canonical": "B014-S010",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S011": {
+      "canonical": "B014-S011",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S012": {
+      "canonical": "B014-S012",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S013": {
+      "canonical": "B014-S013",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S014": {
+      "canonical": "B014-S014",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S015": {
+      "canonical": "B014-S015",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S016": {
+      "canonical": "B014-S016",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S017": {
+      "canonical": "B014-S017",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S018": {
+      "canonical": "B014-S018",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S019": {
+      "canonical": "B014-S019",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S020": {
+      "canonical": "B014-S020",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S021": {
+      "canonical": "B014-S021",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S022": {
+      "canonical": "B014-S022",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S023": {
+      "canonical": "B014-S023",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S025": {
+      "canonical": "B014-S025",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S026": {
+      "canonical": "B014-S026",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S027": {
+      "canonical": "B014-S027",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S028": {
+      "canonical": "B014-S028",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S029": {
+      "canonical": "B014-S029",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S030": {
+      "canonical": "B014-S030",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S031": {
+      "canonical": "B014-S031",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S032": {
+      "canonical": "B014-S032",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S033": {
+      "canonical": "B014-S033",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S034": {
+      "canonical": "B014-S034",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S035": {
+      "canonical": "B014-S035",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S036": {
+      "canonical": "B014-S036",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S037": {
+      "canonical": "B014-S037",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S038": {
+      "canonical": "B014-S038",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S039": {
+      "canonical": "B014-S039",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S040": {
+      "canonical": "B014-S040",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S041": {
+      "canonical": "B014-S041",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S042": {
+      "canonical": "B014-S042",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S043": {
+      "canonical": "B014-S043",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S044": {
+      "canonical": "B014-S044",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S045": {
+      "canonical": "B014-S045",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S046": {
+      "canonical": "B014-S046",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S047": {
+      "canonical": "B014-S047",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S048": {
+      "canonical": "B014-S048",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S049": {
+      "canonical": "B014-S049",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S050": {
+      "canonical": "B014-S050",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S051": {
+      "canonical": "B014-S051",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S052": {
+      "canonical": "B014-S052",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S053": {
+      "canonical": "B014-S053",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S054": {
+      "canonical": "B014-S054",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S055": {
+      "canonical": "B014-S055",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S056": {
+      "canonical": "B014-S056",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S057": {
+      "canonical": "B014-S057",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S058": {
+      "canonical": "B014-S058",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S059": {
+      "canonical": "B014-S059",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S060": {
+      "canonical": "B014-S060",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S061": {
+      "canonical": "B014-S061",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S063": {
+      "canonical": "B014-S063",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S064": {
+      "canonical": "B014-S064",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S065": {
+      "canonical": "B014-S065",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S066": {
+      "canonical": "B014-S066",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S067": {
+      "canonical": "B014-S067",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S068": {
+      "canonical": "B014-S068",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S069": {
+      "canonical": "B014-S069",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S070": {
+      "canonical": "B014-S070",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S071": {
+      "canonical": "B014-S071",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S072": {
+      "canonical": "B014-S072",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S073": {
+      "canonical": "B014-S073",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S074": {
+      "canonical": "B014-S074",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S075": {
+      "canonical": "B014-S075",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S076": {
+      "canonical": "B014-S076",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S077": {
+      "canonical": "B014-S077",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S078": {
+      "canonical": "B014-S078",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S079": {
+      "canonical": "B014-S079",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S080": {
+      "canonical": "B014-S080",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S081": {
+      "canonical": "B014-S081",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S082": {
+      "canonical": "B014-S082",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S083": {
+      "canonical": "B014-S083",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S084": {
+      "canonical": "B014-S084",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S085": {
+      "canonical": "B014-S085",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S086": {
+      "canonical": "B014-S086",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S087": {
+      "canonical": "B014-S087",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S088": {
+      "canonical": "B014-S088",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B015-S089": {
+      "canonical": "B014-S089",
+      "reason": "Same displayed place label; related catalog variant including shorter laboratory English source, not counted twice."
+    },
+    "B029-S114": {
+      "canonical": "B003-S146/B003-S147",
+      "reason": "Combined selector repeats the two accessory names newly translated in catalog3, not a new distinct text."
+    },
+    "B029-S115": {
+      "canonical": "B002-S036",
+      "reason": "Bare selector variant of the already translated miracle-liquor item label, not a new distinct text."
+    },
+    "B016-S008": {
+      "canonical": "B014-S039",
+      "reason": "Title variant of the same Phantom Castle label, no new distinct source counted."
+    },
+    "B041-S103": {
+      "canonical": "B041-S097",
+      "reason": "Same complete text; only native pause markers differ."
+    },
+    "B086-S008": {
+      "canonical": "B086-S007",
+      "reason": "Same badge notification; only party substitution slot differs."
+    },
+    "B086-S009": {
+      "canonical": "B086-S007",
+      "reason": "Same badge notification; only party substitution slot differs."
+    },
+    "B095-S019": {
+      "canonical": "B095-S017",
+      "reason": "Same complete deadline warning; only pauses and wrapping differ."
+    },
+    "B041-S082": {
+      "canonical": "B041-S052",
+      "reason": "Fixed-name Manto version of the same Higan-gives-pet-kibble notification."
+    },
+    "B041-S040": {
+      "canonical": "B041-S036",
+      "reason": "Same dead-creature status text; species name and health maximum are precomposed data variants."
+    },
+    "B041-S048": {
+      "canonical": "B041-S036",
+      "reason": "Same dead-creature status text; species name and health maximum are precomposed data variants."
+    },
+    "B041-S050": {
+      "canonical": "B041-S049",
+      "reason": "Same Octarrot grunt body with a different precomposed status field."
+    },
+    "B041-S051": {
+      "canonical": "B041-S049",
+      "reason": "Same Octarrot grunt family; state and repeated-cry count are not a new translation."
+    },
+    "B041-S042": {
+      "canonical": "B041-S041",
+      "reason": "Same Rabshroom voice; elongation, repetition and state variant not counted again."
+    },
+    "B041-S038": {
+      "canonical": "B041-S037",
+      "reason": "Same Pinchapine grumble voice with species-cry/state variation; conservatively excluded."
+    }
+  },
+  "validation_status": "see emulation_report_v53, exact ROM hash",
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c"
+}

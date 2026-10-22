@@ -1,0 +1,14 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "native_insertions": 84,
+  "guard": "C0:93B6..93C3; cursor>=10 clamps to8 before two-byte write",
+  "writer": "C0:9423..9438",
+  "initial_empty_entry": "C0:92E8 STZ1D30, FF argument bypasses initial-name copy",
+  "static_calls": [
+    "C6:2FC2 vicinity FD7AFF05 pet name",
+    "C6:18FC vicinity FD7AFF02 Star Festival wish"
+  ],
+  "bound_bytes": 10,
+  "conservative_pixels": 110,
+  "scope": "Inductive insertion invariant from empty FF entry, all valid even cursors and four nonzero glyph pairs. No full keyboard alphabet, deletion, preset entries, event trigger or normal UI navigation claim."
+}

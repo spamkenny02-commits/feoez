@@ -4,9 +4,10 @@ At one dialogue lookup (source block 49), only the CPU arguments are redirected.
 ROM bytes, native lookup/selection/reader, font and renderer remain unchanged.
 Use FEOE_TEST_BLOCK and FEOE_TEST_STRING; never use this core for progression claims.
 """
-import argparse,subprocess,shutil
+import argparse,subprocess,shutil,hashlib,json
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--enable-slot-fixtures',action='store_true',help='Opt-in synthetic WRAM text slots for staged rendering only');a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--enable-slot-fixtures',action='store_true',help='Opt-in synthetic WRAM text slots for staged rendering only');p.add_argument('--enable-style-slot-fixtures',action='store_true',help='Permit only native08/0A in addition to printable synthetic slot bytes; requires --enable-slot-fixtures');a=p.parse_args()
+if a.enable_style_slot_fixtures and not a.enable_slot_fixtures:p.error('Style fixtures require --enable-slot-fixtures')
 f=a.source/'cpuexec.cpp';lib=a.source/'libretro/snes9x_libretro.so';original=f.read_bytes();normal=lib.read_bytes()
 hook=r'''
             static const int feoeBlock = getenv("FEOE_TEST_BLOCK") ? atoi(getenv("FEOE_TEST_BLOCK")) : 0;
@@ -55,6 +56,7 @@ if a.enable_slot_fixtures:
                         fprintf(stderr, "FEOE_DIAGNOSTIC synthetic_slot=%d hex=%s\n", slot, hex);
                     }
 '''
+ if a.enable_style_slot_fixtures:fixture_hook=fixture_hook.replace('value < 0x10 || value >= 0xe0','(value < 0x10 && value != 0x08 && value != 0x0a) || value >= 0xe0')
  hook=hook.replace('feoePhase = 3;', 'feoePhase = 3;'+fixture_hook)
  consumed_hook=r'''
                 } else if (feoePhase == 3 && Registers.PB == 0xc3 &&
@@ -74,3 +76,6 @@ try:
  a.out.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(lib,a.out)
 finally:
  f.write_bytes(original);lib.write_bytes(normal)
+
+assert f.read_bytes()==original and lib.read_bytes()==normal
+print(json.dumps({'diagnostic_core_sha256':hashlib.sha256(a.out.read_bytes()).hexdigest(),'source_cpp_sha256':hashlib.sha256(original).hexdigest(),'source_library_sha256':hashlib.sha256(normal).hexdigest(),'source_and_library_restored':True,'synthetic_style_slots_enabled':a.enable_style_slot_fixtures}))

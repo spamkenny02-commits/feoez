@@ -1,0 +1,1530 @@
+{
+  "b012s025": {
+    "slots": {},
+    "providers": [
+      "B012-S025"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b013s001": {
+    "slots": {},
+    "providers": [
+      "B013-S001"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b013s002": {
+    "slots": {},
+    "providers": [
+      "B013-S002"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s001": {
+    "slots": {},
+    "providers": [
+      "B014-S001"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s002": {
+    "slots": {},
+    "providers": [
+      "B014-S002"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s003": {
+    "slots": {},
+    "providers": [
+      "B014-S003"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s004": {
+    "slots": {},
+    "providers": [
+      "B014-S004"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s005": {
+    "slots": {},
+    "providers": [
+      "B014-S005"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s006": {
+    "slots": {},
+    "providers": [
+      "B014-S006"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s007": {
+    "slots": {},
+    "providers": [
+      "B014-S007"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s008": {
+    "slots": {},
+    "providers": [
+      "B014-S008"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s009": {
+    "slots": {},
+    "providers": [
+      "B014-S009"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s010": {
+    "slots": {},
+    "providers": [
+      "B014-S010"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s011": {
+    "slots": {},
+    "providers": [
+      "B014-S011"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s012": {
+    "slots": {},
+    "providers": [
+      "B014-S012"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s013": {
+    "slots": {},
+    "providers": [
+      "B014-S013"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s014": {
+    "slots": {},
+    "providers": [
+      "B014-S014"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s015": {
+    "slots": {},
+    "providers": [
+      "B014-S015"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s016": {
+    "slots": {},
+    "providers": [
+      "B014-S016"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s017": {
+    "slots": {},
+    "providers": [
+      "B014-S017"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s018": {
+    "slots": {},
+    "providers": [
+      "B014-S018"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s019": {
+    "slots": {},
+    "providers": [
+      "B014-S019"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s020": {
+    "slots": {},
+    "providers": [
+      "B014-S020"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s021": {
+    "slots": {},
+    "providers": [
+      "B014-S021"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s022": {
+    "slots": {},
+    "providers": [
+      "B014-S022"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s023": {
+    "slots": {},
+    "providers": [
+      "B014-S023"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s025": {
+    "slots": {},
+    "providers": [
+      "B014-S025"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s026": {
+    "slots": {},
+    "providers": [
+      "B014-S026"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s027": {
+    "slots": {},
+    "providers": [
+      "B014-S027"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s028": {
+    "slots": {},
+    "providers": [
+      "B014-S028"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s029": {
+    "slots": {},
+    "providers": [
+      "B014-S029"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s030": {
+    "slots": {},
+    "providers": [
+      "B014-S030"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s031": {
+    "slots": {},
+    "providers": [
+      "B014-S031"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s032": {
+    "slots": {},
+    "providers": [
+      "B014-S032"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s033": {
+    "slots": {},
+    "providers": [
+      "B014-S033"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s034": {
+    "slots": {},
+    "providers": [
+      "B014-S034"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s035": {
+    "slots": {},
+    "providers": [
+      "B014-S035"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s036": {
+    "slots": {},
+    "providers": [
+      "B014-S036"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s037": {
+    "slots": {},
+    "providers": [
+      "B014-S037"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s038": {
+    "slots": {},
+    "providers": [
+      "B014-S038"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s039": {
+    "slots": {},
+    "providers": [
+      "B014-S039"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s040": {
+    "slots": {},
+    "providers": [
+      "B014-S040"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s041": {
+    "slots": {},
+    "providers": [
+      "B014-S041"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s042": {
+    "slots": {},
+    "providers": [
+      "B014-S042"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s043": {
+    "slots": {},
+    "providers": [
+      "B014-S043"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s044": {
+    "slots": {},
+    "providers": [
+      "B014-S044"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s045": {
+    "slots": {},
+    "providers": [
+      "B014-S045"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s046": {
+    "slots": {},
+    "providers": [
+      "B014-S046"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s047": {
+    "slots": {},
+    "providers": [
+      "B014-S047"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s048": {
+    "slots": {},
+    "providers": [
+      "B014-S048"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s049": {
+    "slots": {},
+    "providers": [
+      "B014-S049"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s050": {
+    "slots": {},
+    "providers": [
+      "B014-S050"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s051": {
+    "slots": {},
+    "providers": [
+      "B014-S051"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s052": {
+    "slots": {},
+    "providers": [
+      "B014-S052"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s053": {
+    "slots": {},
+    "providers": [
+      "B014-S053"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s054": {
+    "slots": {},
+    "providers": [
+      "B014-S054"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s055": {
+    "slots": {},
+    "providers": [
+      "B014-S055"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s056": {
+    "slots": {},
+    "providers": [
+      "B014-S056"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s057": {
+    "slots": {},
+    "providers": [
+      "B014-S057"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s058": {
+    "slots": {},
+    "providers": [
+      "B014-S058"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s059": {
+    "slots": {},
+    "providers": [
+      "B014-S059"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s060": {
+    "slots": {},
+    "providers": [
+      "B014-S060"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s061": {
+    "slots": {},
+    "providers": [
+      "B014-S061"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s063": {
+    "slots": {},
+    "providers": [
+      "B014-S063"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s064": {
+    "slots": {},
+    "providers": [
+      "B014-S064"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s065": {
+    "slots": {},
+    "providers": [
+      "B014-S065"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s066": {
+    "slots": {},
+    "providers": [
+      "B014-S066"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s067": {
+    "slots": {},
+    "providers": [
+      "B014-S067"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s068": {
+    "slots": {},
+    "providers": [
+      "B014-S068"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s069": {
+    "slots": {},
+    "providers": [
+      "B014-S069"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s070": {
+    "slots": {},
+    "providers": [
+      "B014-S070"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s071": {
+    "slots": {},
+    "providers": [
+      "B014-S071"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s072": {
+    "slots": {},
+    "providers": [
+      "B014-S072"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s073": {
+    "slots": {},
+    "providers": [
+      "B014-S073"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s074": {
+    "slots": {},
+    "providers": [
+      "B014-S074"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s075": {
+    "slots": {},
+    "providers": [
+      "B014-S075"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s076": {
+    "slots": {},
+    "providers": [
+      "B014-S076"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s077": {
+    "slots": {},
+    "providers": [
+      "B014-S077"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s078": {
+    "slots": {},
+    "providers": [
+      "B014-S078"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s079": {
+    "slots": {},
+    "providers": [
+      "B014-S079"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s080": {
+    "slots": {},
+    "providers": [
+      "B014-S080"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s081": {
+    "slots": {},
+    "providers": [
+      "B014-S081"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s082": {
+    "slots": {},
+    "providers": [
+      "B014-S082"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s083": {
+    "slots": {},
+    "providers": [
+      "B014-S083"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s084": {
+    "slots": {},
+    "providers": [
+      "B014-S084"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s085": {
+    "slots": {},
+    "providers": [
+      "B014-S085"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s086": {
+    "slots": {},
+    "providers": [
+      "B014-S086"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s087": {
+    "slots": {},
+    "providers": [
+      "B014-S087"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s088": {
+    "slots": {},
+    "providers": [
+      "B014-S088"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b014s089": {
+    "slots": {},
+    "providers": [
+      "B014-S089"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s001": {
+    "slots": {},
+    "providers": [
+      "B015-S001"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s002": {
+    "slots": {},
+    "providers": [
+      "B015-S002"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s003": {
+    "slots": {},
+    "providers": [
+      "B015-S003"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s004": {
+    "slots": {},
+    "providers": [
+      "B015-S004"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s005": {
+    "slots": {},
+    "providers": [
+      "B015-S005"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s006": {
+    "slots": {},
+    "providers": [
+      "B015-S006"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s007": {
+    "slots": {},
+    "providers": [
+      "B015-S007"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s008": {
+    "slots": {},
+    "providers": [
+      "B015-S008"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s009": {
+    "slots": {},
+    "providers": [
+      "B015-S009"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s010": {
+    "slots": {},
+    "providers": [
+      "B015-S010"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s011": {
+    "slots": {},
+    "providers": [
+      "B015-S011"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s012": {
+    "slots": {},
+    "providers": [
+      "B015-S012"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s013": {
+    "slots": {},
+    "providers": [
+      "B015-S013"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s014": {
+    "slots": {},
+    "providers": [
+      "B015-S014"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s015": {
+    "slots": {},
+    "providers": [
+      "B015-S015"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s016": {
+    "slots": {},
+    "providers": [
+      "B015-S016"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s017": {
+    "slots": {},
+    "providers": [
+      "B015-S017"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s018": {
+    "slots": {},
+    "providers": [
+      "B015-S018"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s019": {
+    "slots": {},
+    "providers": [
+      "B015-S019"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s020": {
+    "slots": {},
+    "providers": [
+      "B015-S020"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s021": {
+    "slots": {},
+    "providers": [
+      "B015-S021"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s022": {
+    "slots": {},
+    "providers": [
+      "B015-S022"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s023": {
+    "slots": {},
+    "providers": [
+      "B015-S023"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s025": {
+    "slots": {},
+    "providers": [
+      "B015-S025"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s026": {
+    "slots": {},
+    "providers": [
+      "B015-S026"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s027": {
+    "slots": {},
+    "providers": [
+      "B015-S027"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s028": {
+    "slots": {},
+    "providers": [
+      "B015-S028"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s029": {
+    "slots": {},
+    "providers": [
+      "B015-S029"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s030": {
+    "slots": {},
+    "providers": [
+      "B015-S030"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s031": {
+    "slots": {},
+    "providers": [
+      "B015-S031"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s032": {
+    "slots": {},
+    "providers": [
+      "B015-S032"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s033": {
+    "slots": {},
+    "providers": [
+      "B015-S033"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s034": {
+    "slots": {},
+    "providers": [
+      "B015-S034"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s035": {
+    "slots": {},
+    "providers": [
+      "B015-S035"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s036": {
+    "slots": {},
+    "providers": [
+      "B015-S036"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s037": {
+    "slots": {},
+    "providers": [
+      "B015-S037"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s038": {
+    "slots": {},
+    "providers": [
+      "B015-S038"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s039": {
+    "slots": {},
+    "providers": [
+      "B015-S039"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s040": {
+    "slots": {},
+    "providers": [
+      "B015-S040"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s041": {
+    "slots": {},
+    "providers": [
+      "B015-S041"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s042": {
+    "slots": {},
+    "providers": [
+      "B015-S042"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s043": {
+    "slots": {},
+    "providers": [
+      "B015-S043"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s044": {
+    "slots": {},
+    "providers": [
+      "B015-S044"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s045": {
+    "slots": {},
+    "providers": [
+      "B015-S045"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s046": {
+    "slots": {},
+    "providers": [
+      "B015-S046"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s047": {
+    "slots": {},
+    "providers": [
+      "B015-S047"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s048": {
+    "slots": {},
+    "providers": [
+      "B015-S048"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s049": {
+    "slots": {},
+    "providers": [
+      "B015-S049"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s050": {
+    "slots": {},
+    "providers": [
+      "B015-S050"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s051": {
+    "slots": {},
+    "providers": [
+      "B015-S051"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s052": {
+    "slots": {},
+    "providers": [
+      "B015-S052"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s053": {
+    "slots": {},
+    "providers": [
+      "B015-S053"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s054": {
+    "slots": {},
+    "providers": [
+      "B015-S054"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s055": {
+    "slots": {},
+    "providers": [
+      "B015-S055"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s056": {
+    "slots": {},
+    "providers": [
+      "B015-S056"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s057": {
+    "slots": {},
+    "providers": [
+      "B015-S057"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s058": {
+    "slots": {},
+    "providers": [
+      "B015-S058"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s059": {
+    "slots": {},
+    "providers": [
+      "B015-S059"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s060": {
+    "slots": {},
+    "providers": [
+      "B015-S060"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s061": {
+    "slots": {},
+    "providers": [
+      "B015-S061"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s063": {
+    "slots": {},
+    "providers": [
+      "B015-S063"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s064": {
+    "slots": {},
+    "providers": [
+      "B015-S064"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s065": {
+    "slots": {},
+    "providers": [
+      "B015-S065"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s066": {
+    "slots": {},
+    "providers": [
+      "B015-S066"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s067": {
+    "slots": {},
+    "providers": [
+      "B015-S067"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s068": {
+    "slots": {},
+    "providers": [
+      "B015-S068"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s069": {
+    "slots": {},
+    "providers": [
+      "B015-S069"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s070": {
+    "slots": {},
+    "providers": [
+      "B015-S070"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s071": {
+    "slots": {},
+    "providers": [
+      "B015-S071"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s072": {
+    "slots": {},
+    "providers": [
+      "B015-S072"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s073": {
+    "slots": {},
+    "providers": [
+      "B015-S073"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s074": {
+    "slots": {},
+    "providers": [
+      "B015-S074"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s075": {
+    "slots": {},
+    "providers": [
+      "B015-S075"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s076": {
+    "slots": {},
+    "providers": [
+      "B015-S076"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s077": {
+    "slots": {},
+    "providers": [
+      "B015-S077"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s078": {
+    "slots": {},
+    "providers": [
+      "B015-S078"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s079": {
+    "slots": {},
+    "providers": [
+      "B015-S079"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s080": {
+    "slots": {},
+    "providers": [
+      "B015-S080"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s081": {
+    "slots": {},
+    "providers": [
+      "B015-S081"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s082": {
+    "slots": {},
+    "providers": [
+      "B015-S082"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s083": {
+    "slots": {},
+    "providers": [
+      "B015-S083"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s084": {
+    "slots": {},
+    "providers": [
+      "B015-S084"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s085": {
+    "slots": {},
+    "providers": [
+      "B015-S085"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s086": {
+    "slots": {},
+    "providers": [
+      "B015-S086"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s087": {
+    "slots": {},
+    "providers": [
+      "B015-S087"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s088": {
+    "slots": {},
+    "providers": [
+      "B015-S088"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b015s089": {
+    "slots": {},
+    "providers": [
+      "B015-S089"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s002": {
+    "slots": {},
+    "providers": [
+      "B016-S002"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s003": {
+    "slots": {},
+    "providers": [
+      "B016-S003"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s004": {
+    "slots": {},
+    "providers": [
+      "B016-S004"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s005": {
+    "slots": {},
+    "providers": [
+      "B016-S005"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s006": {
+    "slots": {},
+    "providers": [
+      "B016-S006"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s007": {
+    "slots": {},
+    "providers": [
+      "B016-S007"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s008": {
+    "slots": {},
+    "providers": [
+      "B016-S008"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s009": {
+    "slots": {},
+    "providers": [
+      "B016-S009"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s010": {
+    "slots": {},
+    "providers": [
+      "B016-S010"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s011": {
+    "slots": {},
+    "providers": [
+      "B016-S011"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s012": {
+    "slots": {},
+    "providers": [
+      "B016-S012"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s013": {
+    "slots": {},
+    "providers": [
+      "B016-S013"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s016": {
+    "slots": {},
+    "providers": [
+      "B016-S016"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  },
+  "b016s017": {
+    "slots": {},
+    "providers": [
+      "B016-S017"
+    ],
+    "scope": "Synthetic native text fixture, not a natural event or selector.",
+    "layout_stress": false
+  }
+}

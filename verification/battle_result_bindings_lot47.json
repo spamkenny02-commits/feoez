@@ -1,0 +1,20 @@
+{
+  "result_message_calls": {
+    "B043-S001": "0x65250",
+    "B043-S002": "0x65267",
+    "B043-S003": "0x652a4",
+    "B043-S004": "0x65325",
+    "B043-S005": "0x6534f",
+    "B043-S006": "0x653a7"
+  },
+  "native_consumer": "FD8B -> C0:7722 -> C0:77AF, 28-tile field; C0:78A1 terminates at LF",
+  "bindings": {
+    "001": "24-bit ryo 7E194B through8D slot04",
+    "002": "24-bit virtue 7E1950 through8D slot04",
+    "003": "actor block12 indices1..4, rankbyte43BD through8B slot05",
+    "004": "actor slot04, block5 learned technique slot05",
+    "005": "item block/index1956/1955 through89 slot04",
+    "006": "fixed89 block3 index49, un Katana du halètement"
+  },
+  "scope": "Pinned source byte assertions and producer audit; no battle progression or PPU result-box proof."
+}

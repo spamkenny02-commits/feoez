@@ -1,0 +1,11 @@
+{
+  "lot": 47,
+  "identical_canonical_french_aliases_checked": 175,
+  "semantic_exclusions": [
+    "B029-S114 combinesB003-S146/S147 ring selectors",
+    "B029-S115 is the existingB002-S036 miracle-liquor item label",
+    "B016-S008 is a title variant ofB014-S039 Phantom Castle"
+  ],
+  "all_aliases_excluded_from_new_count": true,
+  "scope": "Source identity/counting and canonical French consistency; not natural menu access."
+}

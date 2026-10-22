@@ -1,0 +1,1064 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "formatter_only_candidate_sha256": "b49537a4ee8431a7a37367eaf01cae0c4bdc0a280d45025d59b9fc4feb4e93b4",
+  "native_executions": 1016,
+  "slots": 4,
+  "domains": {
+    "month": "1..12 decimal glyphs",
+    "ordinal": "1..31",
+    "hour12": "0..23; zero maps to12,13..23 unchanged",
+    "minute": "0..59"
+  },
+  "registers_stack_flags_dbr_preserved": true,
+  "slot_canaries_preserved": true,
+  "read_pointer_advanced_one": true,
+  "changed_bytes": 109,
+  "patch": {
+    "months": [
+      {
+        "id": "CALMONTH-01",
+        "english": "January",
+        "french": "janvier"
+      },
+      {
+        "id": "CALMONTH-02",
+        "english": "February",
+        "french": "février"
+      },
+      {
+        "id": "CALMONTH-03",
+        "english": "March",
+        "french": "mars"
+      },
+      {
+        "id": "CALMONTH-04",
+        "english": "April",
+        "french": "avril"
+      },
+      {
+        "id": "CALMONTH-05",
+        "english": "May",
+        "french": "mai"
+      },
+      {
+        "id": "CALMONTH-06",
+        "english": "June",
+        "french": "juin"
+      },
+      {
+        "id": "CALMONTH-07",
+        "english": "July",
+        "french": "juillet"
+      },
+      {
+        "id": "CALMONTH-08",
+        "english": "August",
+        "french": "août"
+      },
+      {
+        "id": "CALMONTH-09",
+        "english": "September",
+        "french": "septembre"
+      },
+      {
+        "id": "CALMONTH-10",
+        "english": "October",
+        "french": "octobre"
+      },
+      {
+        "id": "CALMONTH-11",
+        "english": "November",
+        "french": "novembre"
+      },
+      {
+        "id": "CALMONTH-12",
+        "english": "December",
+        "french": "décembre"
+      }
+    ],
+    "ordinal_forms": [
+      {
+        "value": 1,
+        "english": "st",
+        "french": "er"
+      },
+      {
+        "value": 2,
+        "english": "nd",
+        "french": "e "
+      },
+      {
+        "value": 3,
+        "english": "rd",
+        "french": "e "
+      },
+      {
+        "value": 4,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 5,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 6,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 7,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 8,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 9,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 10,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 11,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 12,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 13,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 14,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 15,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 16,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 17,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 18,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 19,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 20,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 21,
+        "english": "st",
+        "french": "e "
+      },
+      {
+        "value": 22,
+        "english": "nd",
+        "french": "e "
+      },
+      {
+        "value": 23,
+        "english": "rd",
+        "french": "e "
+      },
+      {
+        "value": 24,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 25,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 26,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 27,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 28,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 29,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 30,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 31,
+        "english": "st",
+        "french": "e "
+      }
+    ],
+    "counting": "12 month source strings; ordinal-format variants and the code repair are not counted as new texts.",
+    "changed_spans": [
+      [
+        "0x6f1f00",
+        "0x6f1f10"
+      ],
+      [
+        "0x6f1f10",
+        "0x6f1f20"
+      ],
+      [
+        "0x6f1f20",
+        "0x6f1f30"
+      ],
+      [
+        "0x6f1f30",
+        "0x6f1f40"
+      ],
+      [
+        "0x6f1f40",
+        "0x6f1f50"
+      ],
+      [
+        "0x6f1f50",
+        "0x6f1f60"
+      ],
+      [
+        "0x6f1f60",
+        "0x6f1f70"
+      ],
+      [
+        "0x6f1f70",
+        "0x6f1f80"
+      ],
+      [
+        "0x6f1f80",
+        "0x6f1f90"
+      ],
+      [
+        "0x6f1f90",
+        "0x6f1fa0"
+      ],
+      [
+        "0x6f1fa0",
+        "0x6f1fb0"
+      ],
+      [
+        "0x6f1fb0",
+        "0x6f1fc0"
+      ],
+      [
+        "0x6d3c16",
+        "0x6d3c17"
+      ],
+      [
+        "0x6f1e70",
+        "0x6f1eae"
+      ]
+    ],
+    "month_bug": "Original decimal10/11/12 all read November; two-digit arm now reads its second digit.",
+    "scope": "Leaf formatting under valid calendar domains only. Producer binding, actual dates and event timing require separate validation."
+  },
+  "cases": [
+    {
+      "mode": "month",
+      "value": 1,
+      "source_hex": "39505d64506168",
+      "localized_hex": "59505d65585461"
+    },
+    {
+      "mode": "month",
+      "value": 2,
+      "source_hex": "3554516164506168",
+      "localized_hex": "55a96561585461"
+    },
+    {
+      "mode": "month",
+      "value": 3,
+      "source_hex": "3c50615257",
+      "localized_hex": "5c506162"
+    },
+    {
+      "mode": "month",
+      "value": 4,
+      "source_hex": "305f61585b",
+      "localized_hex": "506561585b"
+    },
+    {
+      "mode": "month",
+      "value": 5,
+      "source_hex": "3c5068",
+      "localized_hex": "5c5058"
+    },
+    {
+      "mode": "month",
+      "value": 6,
+      "source_hex": "39645d54",
+      "localized_hex": "5964585d"
+    },
+    {
+      "mode": "month",
+      "value": 7,
+      "source_hex": "39645b68",
+      "localized_hex": "5964585b5b5463"
+    },
+    {
+      "mode": "month",
+      "value": 8,
+      "source_hex": "306456646263",
+      "localized_hex": "505ea363"
+    },
+    {
+      "mode": "month",
+      "value": 9,
+      "source_hex": "42545f63545c515461",
+      "localized_hex": "62545f63545c516154"
+    },
+    {
+      "mode": "month",
+      "value": 10,
+      "source_hex": "3d5e65545c515461",
+      "localized_hex": "5e52635e516154"
+    },
+    {
+      "mode": "month",
+      "value": 11,
+      "source_hex": "3d5e65545c515461",
+      "localized_hex": "5d5e65545c516154"
+    },
+    {
+      "mode": "month",
+      "value": 12,
+      "source_hex": "3d5e65545c515461",
+      "localized_hex": "53a952545c516154"
+    },
+    {
+      "mode": "ordinal",
+      "value": 1,
+      "source_hex": "226263",
+      "localized_hex": "225461"
+    },
+    {
+      "mode": "ordinal",
+      "value": 2,
+      "source_hex": "235d53",
+      "localized_hex": "235420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 3,
+      "source_hex": "246153",
+      "localized_hex": "245420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 4,
+      "source_hex": "256357",
+      "localized_hex": "255420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 5,
+      "source_hex": "266357",
+      "localized_hex": "265420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 6,
+      "source_hex": "276357",
+      "localized_hex": "275420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 7,
+      "source_hex": "286357",
+      "localized_hex": "285420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 8,
+      "source_hex": "296357",
+      "localized_hex": "295420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 9,
+      "source_hex": "2a6357",
+      "localized_hex": "2a5420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 10,
+      "source_hex": "22216357",
+      "localized_hex": "22215420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 11,
+      "source_hex": "22226357",
+      "localized_hex": "22225420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 12,
+      "source_hex": "22236357",
+      "localized_hex": "22235420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 13,
+      "source_hex": "22246357",
+      "localized_hex": "22245420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 14,
+      "source_hex": "22256357",
+      "localized_hex": "22255420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 15,
+      "source_hex": "22266357",
+      "localized_hex": "22265420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 16,
+      "source_hex": "22276357",
+      "localized_hex": "22275420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 17,
+      "source_hex": "22286357",
+      "localized_hex": "22285420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 18,
+      "source_hex": "22296357",
+      "localized_hex": "22295420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 19,
+      "source_hex": "222a6357",
+      "localized_hex": "222a5420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 20,
+      "source_hex": "23216357",
+      "localized_hex": "23215420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 21,
+      "source_hex": "23226263",
+      "localized_hex": "23225420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 22,
+      "source_hex": "23235d53",
+      "localized_hex": "23235420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 23,
+      "source_hex": "23246153",
+      "localized_hex": "23245420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 24,
+      "source_hex": "23256357",
+      "localized_hex": "23255420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 25,
+      "source_hex": "23266357",
+      "localized_hex": "23265420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 26,
+      "source_hex": "23276357",
+      "localized_hex": "23275420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 27,
+      "source_hex": "23286357",
+      "localized_hex": "23285420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 28,
+      "source_hex": "23296357",
+      "localized_hex": "23295420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 29,
+      "source_hex": "232a6357",
+      "localized_hex": "232a5420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 30,
+      "source_hex": "24216357",
+      "localized_hex": "24215420"
+    },
+    {
+      "mode": "ordinal",
+      "value": 31,
+      "source_hex": "24226263",
+      "localized_hex": "24225420"
+    },
+    {
+      "mode": "hour12",
+      "value": 0,
+      "source_hex": "2223",
+      "localized_hex": "2223"
+    },
+    {
+      "mode": "hour12",
+      "value": 1,
+      "source_hex": "22",
+      "localized_hex": "22"
+    },
+    {
+      "mode": "hour12",
+      "value": 2,
+      "source_hex": "23",
+      "localized_hex": "23"
+    },
+    {
+      "mode": "hour12",
+      "value": 3,
+      "source_hex": "24",
+      "localized_hex": "24"
+    },
+    {
+      "mode": "hour12",
+      "value": 4,
+      "source_hex": "25",
+      "localized_hex": "25"
+    },
+    {
+      "mode": "hour12",
+      "value": 5,
+      "source_hex": "26",
+      "localized_hex": "26"
+    },
+    {
+      "mode": "hour12",
+      "value": 6,
+      "source_hex": "27",
+      "localized_hex": "27"
+    },
+    {
+      "mode": "hour12",
+      "value": 7,
+      "source_hex": "28",
+      "localized_hex": "28"
+    },
+    {
+      "mode": "hour12",
+      "value": 8,
+      "source_hex": "29",
+      "localized_hex": "29"
+    },
+    {
+      "mode": "hour12",
+      "value": 9,
+      "source_hex": "2a",
+      "localized_hex": "2a"
+    },
+    {
+      "mode": "hour12",
+      "value": 10,
+      "source_hex": "2221",
+      "localized_hex": "2221"
+    },
+    {
+      "mode": "hour12",
+      "value": 11,
+      "source_hex": "2222",
+      "localized_hex": "2222"
+    },
+    {
+      "mode": "hour12",
+      "value": 12,
+      "source_hex": "2223",
+      "localized_hex": "2223"
+    },
+    {
+      "mode": "hour12",
+      "value": 13,
+      "source_hex": "2224",
+      "localized_hex": "2224"
+    },
+    {
+      "mode": "hour12",
+      "value": 14,
+      "source_hex": "2225",
+      "localized_hex": "2225"
+    },
+    {
+      "mode": "hour12",
+      "value": 15,
+      "source_hex": "2226",
+      "localized_hex": "2226"
+    },
+    {
+      "mode": "hour12",
+      "value": 16,
+      "source_hex": "2227",
+      "localized_hex": "2227"
+    },
+    {
+      "mode": "hour12",
+      "value": 17,
+      "source_hex": "2228",
+      "localized_hex": "2228"
+    },
+    {
+      "mode": "hour12",
+      "value": 18,
+      "source_hex": "2229",
+      "localized_hex": "2229"
+    },
+    {
+      "mode": "hour12",
+      "value": 19,
+      "source_hex": "222a",
+      "localized_hex": "222a"
+    },
+    {
+      "mode": "hour12",
+      "value": 20,
+      "source_hex": "2321",
+      "localized_hex": "2321"
+    },
+    {
+      "mode": "hour12",
+      "value": 21,
+      "source_hex": "2322",
+      "localized_hex": "2322"
+    },
+    {
+      "mode": "hour12",
+      "value": 22,
+      "source_hex": "2323",
+      "localized_hex": "2323"
+    },
+    {
+      "mode": "hour12",
+      "value": 23,
+      "source_hex": "2324",
+      "localized_hex": "2324"
+    },
+    {
+      "mode": "minute",
+      "value": 0,
+      "source_hex": "2121",
+      "localized_hex": "2121"
+    },
+    {
+      "mode": "minute",
+      "value": 1,
+      "source_hex": "2122",
+      "localized_hex": "2122"
+    },
+    {
+      "mode": "minute",
+      "value": 2,
+      "source_hex": "2123",
+      "localized_hex": "2123"
+    },
+    {
+      "mode": "minute",
+      "value": 3,
+      "source_hex": "2124",
+      "localized_hex": "2124"
+    },
+    {
+      "mode": "minute",
+      "value": 4,
+      "source_hex": "2125",
+      "localized_hex": "2125"
+    },
+    {
+      "mode": "minute",
+      "value": 5,
+      "source_hex": "2126",
+      "localized_hex": "2126"
+    },
+    {
+      "mode": "minute",
+      "value": 6,
+      "source_hex": "2127",
+      "localized_hex": "2127"
+    },
+    {
+      "mode": "minute",
+      "value": 7,
+      "source_hex": "2128",
+      "localized_hex": "2128"
+    },
+    {
+      "mode": "minute",
+      "value": 8,
+      "source_hex": "2129",
+      "localized_hex": "2129"
+    },
+    {
+      "mode": "minute",
+      "value": 9,
+      "source_hex": "212a",
+      "localized_hex": "212a"
+    },
+    {
+      "mode": "minute",
+      "value": 10,
+      "source_hex": "2221",
+      "localized_hex": "2221"
+    },
+    {
+      "mode": "minute",
+      "value": 11,
+      "source_hex": "2222",
+      "localized_hex": "2222"
+    },
+    {
+      "mode": "minute",
+      "value": 12,
+      "source_hex": "2223",
+      "localized_hex": "2223"
+    },
+    {
+      "mode": "minute",
+      "value": 13,
+      "source_hex": "2224",
+      "localized_hex": "2224"
+    },
+    {
+      "mode": "minute",
+      "value": 14,
+      "source_hex": "2225",
+      "localized_hex": "2225"
+    },
+    {
+      "mode": "minute",
+      "value": 15,
+      "source_hex": "2226",
+      "localized_hex": "2226"
+    },
+    {
+      "mode": "minute",
+      "value": 16,
+      "source_hex": "2227",
+      "localized_hex": "2227"
+    },
+    {
+      "mode": "minute",
+      "value": 17,
+      "source_hex": "2228",
+      "localized_hex": "2228"
+    },
+    {
+      "mode": "minute",
+      "value": 18,
+      "source_hex": "2229",
+      "localized_hex": "2229"
+    },
+    {
+      "mode": "minute",
+      "value": 19,
+      "source_hex": "222a",
+      "localized_hex": "222a"
+    },
+    {
+      "mode": "minute",
+      "value": 20,
+      "source_hex": "2321",
+      "localized_hex": "2321"
+    },
+    {
+      "mode": "minute",
+      "value": 21,
+      "source_hex": "2322",
+      "localized_hex": "2322"
+    },
+    {
+      "mode": "minute",
+      "value": 22,
+      "source_hex": "2323",
+      "localized_hex": "2323"
+    },
+    {
+      "mode": "minute",
+      "value": 23,
+      "source_hex": "2324",
+      "localized_hex": "2324"
+    },
+    {
+      "mode": "minute",
+      "value": 24,
+      "source_hex": "2325",
+      "localized_hex": "2325"
+    },
+    {
+      "mode": "minute",
+      "value": 25,
+      "source_hex": "2326",
+      "localized_hex": "2326"
+    },
+    {
+      "mode": "minute",
+      "value": 26,
+      "source_hex": "2327",
+      "localized_hex": "2327"
+    },
+    {
+      "mode": "minute",
+      "value": 27,
+      "source_hex": "2328",
+      "localized_hex": "2328"
+    },
+    {
+      "mode": "minute",
+      "value": 28,
+      "source_hex": "2329",
+      "localized_hex": "2329"
+    },
+    {
+      "mode": "minute",
+      "value": 29,
+      "source_hex": "232a",
+      "localized_hex": "232a"
+    },
+    {
+      "mode": "minute",
+      "value": 30,
+      "source_hex": "2421",
+      "localized_hex": "2421"
+    },
+    {
+      "mode": "minute",
+      "value": 31,
+      "source_hex": "2422",
+      "localized_hex": "2422"
+    },
+    {
+      "mode": "minute",
+      "value": 32,
+      "source_hex": "2423",
+      "localized_hex": "2423"
+    },
+    {
+      "mode": "minute",
+      "value": 33,
+      "source_hex": "2424",
+      "localized_hex": "2424"
+    },
+    {
+      "mode": "minute",
+      "value": 34,
+      "source_hex": "2425",
+      "localized_hex": "2425"
+    },
+    {
+      "mode": "minute",
+      "value": 35,
+      "source_hex": "2426",
+      "localized_hex": "2426"
+    },
+    {
+      "mode": "minute",
+      "value": 36,
+      "source_hex": "2427",
+      "localized_hex": "2427"
+    },
+    {
+      "mode": "minute",
+      "value": 37,
+      "source_hex": "2428",
+      "localized_hex": "2428"
+    },
+    {
+      "mode": "minute",
+      "value": 38,
+      "source_hex": "2429",
+      "localized_hex": "2429"
+    },
+    {
+      "mode": "minute",
+      "value": 39,
+      "source_hex": "242a",
+      "localized_hex": "242a"
+    },
+    {
+      "mode": "minute",
+      "value": 40,
+      "source_hex": "2521",
+      "localized_hex": "2521"
+    },
+    {
+      "mode": "minute",
+      "value": 41,
+      "source_hex": "2522",
+      "localized_hex": "2522"
+    },
+    {
+      "mode": "minute",
+      "value": 42,
+      "source_hex": "2523",
+      "localized_hex": "2523"
+    },
+    {
+      "mode": "minute",
+      "value": 43,
+      "source_hex": "2524",
+      "localized_hex": "2524"
+    },
+    {
+      "mode": "minute",
+      "value": 44,
+      "source_hex": "2525",
+      "localized_hex": "2525"
+    },
+    {
+      "mode": "minute",
+      "value": 45,
+      "source_hex": "2526",
+      "localized_hex": "2526"
+    },
+    {
+      "mode": "minute",
+      "value": 46,
+      "source_hex": "2527",
+      "localized_hex": "2527"
+    },
+    {
+      "mode": "minute",
+      "value": 47,
+      "source_hex": "2528",
+      "localized_hex": "2528"
+    },
+    {
+      "mode": "minute",
+      "value": 48,
+      "source_hex": "2529",
+      "localized_hex": "2529"
+    },
+    {
+      "mode": "minute",
+      "value": 49,
+      "source_hex": "252a",
+      "localized_hex": "252a"
+    },
+    {
+      "mode": "minute",
+      "value": 50,
+      "source_hex": "2621",
+      "localized_hex": "2621"
+    },
+    {
+      "mode": "minute",
+      "value": 51,
+      "source_hex": "2622",
+      "localized_hex": "2622"
+    },
+    {
+      "mode": "minute",
+      "value": 52,
+      "source_hex": "2623",
+      "localized_hex": "2623"
+    },
+    {
+      "mode": "minute",
+      "value": 53,
+      "source_hex": "2624",
+      "localized_hex": "2624"
+    },
+    {
+      "mode": "minute",
+      "value": 54,
+      "source_hex": "2625",
+      "localized_hex": "2625"
+    },
+    {
+      "mode": "minute",
+      "value": 55,
+      "source_hex": "2626",
+      "localized_hex": "2626"
+    },
+    {
+      "mode": "minute",
+      "value": 56,
+      "source_hex": "2627",
+      "localized_hex": "2627"
+    },
+    {
+      "mode": "minute",
+      "value": 57,
+      "source_hex": "2628",
+      "localized_hex": "2628"
+    },
+    {
+      "mode": "minute",
+      "value": 58,
+      "source_hex": "2629",
+      "localized_hex": "2629"
+    },
+    {
+      "mode": "minute",
+      "value": 59,
+      "source_hex": "262a",
+      "localized_hex": "262a"
+    }
+  ],
+  "scope": "Restricted native formatter leafs, not full SNES timing, PPU, event producer paths or natural dates.",
+  "maximum_month_pixels": 46
+}

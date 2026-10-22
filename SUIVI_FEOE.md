@@ -1,3 +1,30 @@
+# État actuel — V53, lot47 complet
+
+400 nouveaux textes distincts :388 sources bornées et12 mois natifs,
+sur580 occurrences intégrées. Aucun texte V52 modifié ; ses5381 entrées
+sont préservées. Total5961 occurrences bornées, sans prétendre couvrir le jeu.
+Trois retouches du nouveau brouillon ne sont pas de nouveaux textes.
+Preuves finales :lot47p400d, ROMba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c.
+6756 lectures natives,722 cas frais,619 captures de texte réellement relues,
+A/reset/B, navigation, carte et Almanach réels sur cette ROM exacte.
+Voir COMPTE_RENDU_V53.md, coverage_v53.json, relecture_v53.json et lot47_progress.json.
+
+Prochaine reprise : lire HEAD distant, état local et rapports ; ne pas dupliquer
+lot47. Commencer lot48 à0/400 après vérification de la publication V53.
+Phase1 ouverte : formats/événements/calendrier et parcours naturels différés.
+Phases2/3 ouvertes : inventaire exhaustif, menus/graphismes/fins/bloc42, relecture
+globale par zones/écrans/branches. Reste borné3077 entrées dont1570 non vides,
+menus et debug compris. Ce compteur ne mesure pas la couverture du jeu.
+La carte réelle confirme son titre français et O+E ; les autres champs de
+lieu/sauvegarde ne sont pas validés par les fixtures de dialogue. L’Almanach
+réel au22/12/1995 est relu ; les autres dates, sélecteurs, échéances et chansons
+restent à contrôler en progression naturelle. Résultats FD8B : une ligne,
+43octets/196px au maximum dans les447 expansions contrôlées ; boîte réelle
+après combat non rejouée. Les21 écarts visuels avecV52 sont relus, sans
+revendiquer une régression entièrement identique au pixel près.
+
+## Historique
+
 # État actuel — V52, lot 46 complet
 
 400 nouveaux textes distincts : 393 sources bornées (394 occurrences dont un

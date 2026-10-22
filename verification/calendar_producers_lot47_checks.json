@@ -1,0 +1,208 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "event_opcode": "8B",
+  "handler": "0xc31de0",
+  "operand_bytes": 3,
+  "static_fragments": [
+    "C8:962C..965A month/day producer subroutine",
+    "C5:978A..9791 birthday month/day producer pair"
+  ],
+  "native_month_producer_executions": 24,
+  "native_formatter_executions": 48,
+  "cases": [
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 1,
+      "numeric_slot_hex": "22",
+      "source": "39505d64506168",
+      "localized": "59505d65585461"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 2,
+      "numeric_slot_hex": "23",
+      "source": "3554516164506168",
+      "localized": "55a96561585461"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 3,
+      "numeric_slot_hex": "24",
+      "source": "3c50615257",
+      "localized": "5c506162"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 4,
+      "numeric_slot_hex": "25",
+      "source": "305f61585b",
+      "localized": "506561585b"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 5,
+      "numeric_slot_hex": "26",
+      "source": "3c5068",
+      "localized": "5c5058"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 6,
+      "numeric_slot_hex": "27",
+      "source": "39645d54",
+      "localized": "5964585d"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 7,
+      "numeric_slot_hex": "28",
+      "source": "39645b68",
+      "localized": "5964585b5b5463"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 8,
+      "numeric_slot_hex": "29",
+      "source": "306456646263",
+      "localized": "505ea363"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 9,
+      "numeric_slot_hex": "2a",
+      "source": "42545f63545c515461",
+      "localized": "62545f63545c516154"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 10,
+      "numeric_slot_hex": "2221",
+      "source": "3d5e65545c515461",
+      "localized": "5e52635e516154"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 11,
+      "numeric_slot_hex": "2222",
+      "source": "3d5e65545c515461",
+      "localized": "5d5e65545c516154"
+    },
+    {
+      "path": "miho_month",
+      "ram": "0x525",
+      "month": 12,
+      "numeric_slot_hex": "2223",
+      "source": "3d5e65545c515461",
+      "localized": "53a952545c516154"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 1,
+      "numeric_slot_hex": "22",
+      "source": "39505d64506168",
+      "localized": "59505d65585461"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 2,
+      "numeric_slot_hex": "23",
+      "source": "3554516164506168",
+      "localized": "55a96561585461"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 3,
+      "numeric_slot_hex": "24",
+      "source": "3c50615257",
+      "localized": "5c506162"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 4,
+      "numeric_slot_hex": "25",
+      "source": "305f61585b",
+      "localized": "506561585b"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 5,
+      "numeric_slot_hex": "26",
+      "source": "3c5068",
+      "localized": "5c5058"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 6,
+      "numeric_slot_hex": "27",
+      "source": "39645d54",
+      "localized": "5964585d"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 7,
+      "numeric_slot_hex": "28",
+      "source": "39645b68",
+      "localized": "5964585b5b5463"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 8,
+      "numeric_slot_hex": "29",
+      "source": "306456646263",
+      "localized": "505ea363"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 9,
+      "numeric_slot_hex": "2a",
+      "source": "42545f63545c515461",
+      "localized": "62545f63545c516154"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 10,
+      "numeric_slot_hex": "2221",
+      "source": "3d5e65545c515461",
+      "localized": "5e52635e516154"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 11,
+      "numeric_slot_hex": "2222",
+      "source": "3d5e65545c515461",
+      "localized": "5d5e65545c516154"
+    },
+    {
+      "path": "birthday_month",
+      "ram": "0x526",
+      "month": 12,
+      "numeric_slot_hex": "2223",
+      "source": "3d5e65545c515461",
+      "localized": "53a952545c516154"
+    }
+  ],
+  "scope": "Static instruction fragments plus exact native numeric producer/formatter leafs. The FE clock/birthday extraction, full VM branches, RTC progression and natural event triggers were not executed.",
+  "natural_validation": "pending"
+}

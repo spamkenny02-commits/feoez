@@ -1,0 +1,69 @@
+{
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "reference_rom_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
+  "comparisons": [
+    {
+      "file": "command_menu.png",
+      "identical": false,
+      "bbox": [
+        40,
+        0,
+        214,
+        183
+      ]
+    },
+    {
+      "file": "field_return.png",
+      "identical": false,
+      "bbox": [
+        40,
+        0,
+        215,
+        183
+      ]
+    },
+    {
+      "file": "field_start.png",
+      "identical": false,
+      "bbox": [
+        40,
+        24,
+        198,
+        158
+      ]
+    },
+    {
+      "file": "main_menu.png",
+      "identical": true,
+      "bbox": null
+    },
+    {
+      "file": "map_return.png",
+      "identical": false,
+      "bbox": [
+        40,
+        8,
+        154,
+        159
+      ]
+    },
+    {
+      "file": "region_map.png",
+      "identical": false,
+      "bbox": [
+        113,
+        18,
+        227,
+        59
+      ]
+    },
+    {
+      "file": "settings.png",
+      "identical": true,
+      "bbox": null
+    }
+  ],
+  "all_identical": false,
+  "changed_captures_actually_reviewed": true,
+  "visual_findings": "All changed V52/V53 pairs actually opened. Differences show animation/NPC positions, page-arrow blink and translated map title/compass. No obvious corrupt tile/overflow observed; cause of each timing-phase difference was not traced. Not pixel-identical regression."
+}

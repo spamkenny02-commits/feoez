@@ -1,0 +1,210 @@
+{
+  "status": "static anchors measured; native captures/real selectors still pending",
+  "entries": [
+    {
+      "id": "B029-S011",
+      "layout": "\n    Sauver et dormir          Dormir\n    Sauver                         Quitter",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Save and Stay",
+          "french": "Sauver et dormir",
+          "source_x": 12,
+          "french_x": 12
+        },
+        {
+          "english": "Stay",
+          "french": "Dormir",
+          "source_x": 117,
+          "french_x": 117
+        },
+        {
+          "english": "Save",
+          "french": "Sauver",
+          "source_x": 12,
+          "french_x": 12
+        },
+        {
+          "english": "Quit",
+          "french": "Quitter",
+          "source_x": 117,
+          "french_x": 118
+        }
+      ]
+    },
+    {
+      "id": "B041-S130",
+      "layout": "   <05> Croquettes Tête            <06>Croquettes Corps",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Head Kibble",
+          "french": "Croquettes Tête",
+          "source_x": 12,
+          "french_x": 12
+        },
+        {
+          "english": "Body Kibble",
+          "french": "Croquettes Corps",
+          "source_x": 125,
+          "french_x": 125
+        }
+      ]
+    },
+    {
+      "id": "B041-S135",
+      "layout": "   <05> Croquettes Cœur           <06>Croquettes Pet",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Heart Kibble",
+          "french": "Croquettes Cœur",
+          "source_x": 12,
+          "french_x": 12
+        },
+        {
+          "english": "Fart Kibble",
+          "french": "Croquettes Pet",
+          "source_x": 124,
+          "french_x": 123
+        }
+      ]
+    },
+    {
+      "id": "B041-S139",
+      "layout": "    <05>Croquettes Mystère       <06>Quitter",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Mystery Kibble",
+          "french": "Croquettes Mystère",
+          "source_x": 12,
+          "french_x": 12
+        },
+        {
+          "english": "Quit",
+          "french": "Quitter",
+          "source_x": 124,
+          "french_x": 125
+        }
+      ]
+    },
+    {
+      "id": "B066-S035",
+      "layout": "<04>Manju Carapace            <05>Poupée abricotier\n<06>Boucles fleuries           <07>Futon de plumes\n<08>                                   Page suivante",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Shell Manju",
+          "french": "Manju Carapace",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Apricot Doll",
+          "french": "Poupée abricotier",
+          "source_x": 105,
+          "french_x": 106
+        },
+        {
+          "english": "Floral Earrings",
+          "french": "Boucles fleuries",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Feather Futon",
+          "french": "Futon de plumes",
+          "source_x": 105,
+          "french_x": 105
+        },
+        {
+          "english": "Next Page",
+          "french": "Page suivante",
+          "source_x": 105,
+          "french_x": 105
+        }
+      ]
+    },
+    {
+      "id": "B066-S036",
+      "layout": "<04>Sac fleuri                     <05>Boîte à musique\n<06>Parfum Étouffant         <07>Parfum du Soir\n<08>Page précédente           Page suivante",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Floral Purse",
+          "french": "Sac fleuri",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Music Box",
+          "french": "Boîte à musique",
+          "source_x": 106,
+          "french_x": 107
+        },
+        {
+          "english": "Choking Scent",
+          "french": "Parfum Étouffant",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Evening Scent",
+          "french": "Parfum du Soir",
+          "source_x": 107,
+          "french_x": 107
+        },
+        {
+          "english": "Previous Page",
+          "french": "Page précédente",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Next Page",
+          "french": "Page suivante",
+          "source_x": 107,
+          "french_x": 107
+        }
+      ]
+    },
+    {
+      "id": "B066-S037",
+      "layout": "<04>Poêle fleurie                <05>Poupée mécanique\n<06>Parfum Envoûtant        <08>Rien\nPage précédente",
+      "kind": "anchored_grid",
+      "anchors": [
+        {
+          "english": "Floral Pan",
+          "french": "Poêle fleurie",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Mechanical Doll",
+          "french": "Poupée mécanique",
+          "source_x": 105,
+          "french_x": 105
+        },
+        {
+          "english": "Alluring Scent",
+          "french": "Parfum Envoûtant",
+          "source_x": 0,
+          "french_x": 0
+        },
+        {
+          "english": "Nothing",
+          "french": "Rien",
+          "source_x": 105,
+          "french_x": 104
+        },
+        {
+          "english": "Previous Page",
+          "french": "Page précédente",
+          "source_x": 0,
+          "french_x": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": "V53",
+  "rom_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "independent_build_v53_reproduction": true,
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "ips_sha256": "0ac14f5583ba54ab3a7b00156a3dac61f4274b9fff14b0f9436c47713f7c9272",
+  "script": "tools/build_v53.py",
+  "source_and_output_roms_private": true
+}

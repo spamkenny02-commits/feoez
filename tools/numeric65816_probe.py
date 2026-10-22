@@ -8,7 +8,7 @@ from cpu65816_probe import ProbeError
 class NumericCPU:
     allowed_ranges=((0xc32ad3,0xc32b0e),(0xc10450,0xc10586),(0xc029a1,0xc029bb))
     def __init__(self,rom):
-        self.rom=rom;self.ram=bytearray(65536);self.A=self.X=self.Y=0;self.P=0x30;self.S=0x1ff;self.PC=0;self.depth=0;self.reads=[];self.trace=[]
+        self.rom=rom;self.ram=bytearray(65536);self.A=self.X=self.Y=0;self.P=0x30;self.S=0x1ff;self.PC=0;self.depth=0;self.DBR=0;self.reads=[];self.trace=[]
     def mapped(self,address):
         address&=0xffffff;bank=address>>16;offset=address&0xffff
         if 0x40<=bank<=0x4f:return address+0x200000
@@ -59,7 +59,13 @@ class NumericCPU:
             pc=self.PC
             if not any(start<=pc<end for start,end in self.allowed_ranges):raise ProbeError(f'Execution left allowed routines: {pc:06X}')
             self.trace.append(pc);op=self.fetch();mw=self.mw;xw=self.xw
-            if op==0xc2:self.P&=~self.fetch()
+            if op==0x08:self.push(self.P,1)
+            elif op==0x28:
+                self.P=self.pop(1)
+                if self.P&0x10:self.X&=255;self.Y&=255
+            elif op==0x8b:self.push(self.DBR,1)
+            elif op==0xab:self.DBR=self.pop(1);self.nz(self.DBR,1)
+            elif op==0xc2:self.P&=~self.fetch()
             elif op==0xe2:
                 self.P|=self.fetch()
                 if self.P&0x10:self.X&=255;self.Y&=255
@@ -88,8 +94,12 @@ class NumericCPU:
             elif op==0xa2:self.X=self.fetch(xw);self.nz(self.X,xw)
             elif op==0xa0:self.Y=self.fetch(xw);self.nz(self.Y,xw)
             elif op==0xa6:self.X=self.read(self.fetch(),xw);self.nz(self.X,xw)
+            elif op==0xae:self.X=self.read(self.fetch(2),xw);self.nz(self.X,xw)
             elif op==0x64:self.write(self.fetch(),0,mw)
             elif op==0xe5:self.adc(self.read(self.fetch(),mw)^((1<<(8*mw))-1))
+            elif op==0xe9:self.adc(self.fetch(mw)^((1<<(8*mw))-1))
+            elif op==0x79:self.adc(self.read(self.fetch(2)+self.Y,mw))
+            elif op==0x7d:self.adc(self.read(self.fetch(2)+self.X,mw))
             elif op in (0xbd,0xb9):self.set_a(self.read(self.fetch(2)+(self.X if op==0xbd else self.Y),mw))
             elif op in (0x9d,0x99):self.write(self.fetch(2)+(self.X if op==0x9d else self.Y),self.A,mw)
             elif op==0x9f:self.write(self.fetch(3)+self.X,self.A,mw)

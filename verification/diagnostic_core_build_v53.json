@@ -1,0 +1,10 @@
+{
+  "diagnostic_core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394",
+  "source_cpp_sha256": "37b2f4ece0ff797b616fbeee6084c42a6198d477a08eb1837b5445abacd2c56b",
+  "source_library_sha256": "84e3633d70d4edf13416101296c75ab48e1dd49ee8fdfe635242910ba0979f15",
+  "source_and_library_restored": true,
+  "synthetic_style_slots_enabled": true,
+  "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "source_revision": "1bcc369e",
+  "scope": "Private diagnostic build with opt-in text-slot08/0A injection; source CPP/library restored, distributed standard core untouched. This core never proves natural progression."
+}
