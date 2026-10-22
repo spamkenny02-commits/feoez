@@ -1,0 +1,2702 @@
+{
+  "lot": 48,
+  "new_distinct_sources": 400,
+  "new_occurrences": 573,
+  "canonical_sources": [
+    {
+      "id": "B008-S001",
+      "english": "Letter <17>Momoko's Request<18>",
+      "french": "Lettre <17>Demande de Momoko<18>"
+    },
+    {
+      "id": "B008-S003",
+      "english": "The first letter from Momoko",
+      "french": "Première lettre de Momoko"
+    },
+    {
+      "id": "B008-S004",
+      "english": "The second letter from Momoko",
+      "french": "Deuxième lettre de Momoko"
+    },
+    {
+      "id": "B008-S005",
+      "english": "The third letter from Momoko",
+      "french": "Troisième lettre de Momoko"
+    },
+    {
+      "id": "B008-S006",
+      "english": "The fourth letter from Momoko",
+      "french": "Quatrième lettre de Momoko"
+    },
+    {
+      "id": "B008-S007",
+      "english": "The fifth letter from Momoko",
+      "french": "Cinquième lettre de Momoko"
+    },
+    {
+      "id": "B008-S008",
+      "english": "The sixth letter from Momoko",
+      "french": "Sixième lettre de Momoko"
+    },
+    {
+      "id": "B008-S009",
+      "english": "The seventh letter from Momoko",
+      "french": "Septième lettre de Momoko"
+    },
+    {
+      "id": "B008-S010",
+      "english": "The eighth letter from Momoko",
+      "french": "Huitième lettre de Momoko"
+    },
+    {
+      "id": "B008-S011",
+      "english": "A bag for carrying around gold",
+      "french": "Sac pour transporter l’or"
+    },
+    {
+      "id": "B008-S013",
+      "english": "Traded for ryo<1E>gold vouchers",
+      "french": "À échanger contre ryôs<1E>bons d’or"
+    },
+    {
+      "id": "B008-S014",
+      "english": "Restores health to the max",
+      "french": "Rend toute la vitalité"
+    },
+    {
+      "id": "B008-S015",
+      "english": "Restores 200 points of health",
+      "french": "Rend 200 points de vitalité"
+    },
+    {
+      "id": "B008-S016",
+      "english": "Restores 50 points of health",
+      "french": "Rend 50 points de vitalité"
+    },
+    {
+      "id": "B008-S017",
+      "english": "Restores 100 points of health",
+      "french": "Rend 100 points de vitalité"
+    },
+    {
+      "id": "B008-S018",
+      "english": "A souvenir item",
+      "french": "Un souvenir"
+    },
+    {
+      "id": "B008-S019",
+      "english": "Restores 60 points of health",
+      "french": "Rend 60 points de vitalité"
+    },
+    {
+      "id": "B008-S020",
+      "english": "Restores 30 points of health",
+      "french": "Rend 30 points de vitalité"
+    },
+    {
+      "id": "B008-S021",
+      "english": "Restores 15 points of health",
+      "french": "Rend 15 points de vitalité"
+    },
+    {
+      "id": "B008-S022",
+      "english": "Fully restores or halves health",
+      "french": "Rend toute la vie ou la divise par 2"
+    },
+    {
+      "id": "B008-S023",
+      "english": "Medicine used for healing",
+      "french": "Remède pour se soigner"
+    },
+    {
+      "id": "B008-S024",
+      "english": "Crane Nation's phantom water <17>full heal<18>",
+      "french": "Eau spectrale de la Grue <17>soin total<18>"
+    },
+    {
+      "id": "B008-S025",
+      "english": "Fully restores technique",
+      "french": "Rend toute la technique"
+    },
+    {
+      "id": "B008-S026",
+      "english": "Restores 100 technique",
+      "french": "Rend 100 points de technique"
+    },
+    {
+      "id": "B008-S027",
+      "english": "Restores 50 technique",
+      "french": "Rend 50 points de technique"
+    },
+    {
+      "id": "B008-S028",
+      "english": "Cures all ailments",
+      "french": "Guérit tous les troubles"
+    },
+    {
+      "id": "B008-S029",
+      "english": "Cures someone's petrification",
+      "french": "Guérit la pétrification"
+    },
+    {
+      "id": "B008-S030",
+      "english": "Cures someone's paralysis",
+      "french": "Guérit la paralysie"
+    },
+    {
+      "id": "B008-S031",
+      "english": "Cures someone's forgetfulness",
+      "french": "Guérit l’amnésie"
+    },
+    {
+      "id": "B008-S032",
+      "english": "Cures someone's confusion",
+      "french": "Guérit la confusion"
+    },
+    {
+      "id": "B008-S033",
+      "english": "Wakes someone up",
+      "french": "Réveille un allié"
+    },
+    {
+      "id": "B008-S034",
+      "english": "Cures someone who's in a haze",
+      "french": "Dissipe l’hébétude"
+    },
+    {
+      "id": "B008-S035",
+      "english": "Cures someone who's poisoned",
+      "french": "Guérit le poison"
+    },
+    {
+      "id": "B008-S036",
+      "english": "Fully cures all party members",
+      "french": "Soigne entièrement tous les alliés"
+    },
+    {
+      "id": "B008-S037",
+      "english": "Revives someone from a K.O.",
+      "french": "Relève un allié K.O."
+    },
+    {
+      "id": "B008-S039",
+      "english": "Restores health and condition",
+      "french": "Rend vitalité et bonne santé"
+    },
+    {
+      "id": "B008-S040",
+      "english": "Restores technique",
+      "french": "Rend de la technique"
+    },
+    {
+      "id": "B008-S043",
+      "english": "Heals any ailment... Sometimes...",
+      "french": "Guérit tout... Parfois..."
+    },
+    {
+      "id": "B008-S049",
+      "english": "Fly to any visited village",
+      "french": "Vol vers un village déjà visité"
+    },
+    {
+      "id": "B008-S050",
+      "english": "Escape from an infested area",
+      "french": "Sort d’une zone infestée"
+    },
+    {
+      "id": "B008-S051",
+      "english": "Enemies keep their distance",
+      "french": "Éloigne les ennemis"
+    },
+    {
+      "id": "B008-S052",
+      "english": "Enemies draw in closer",
+      "french": "Attire les ennemis"
+    },
+    {
+      "id": "B008-S053",
+      "english": "Call out for enemies",
+      "french": "Appelle les ennemis"
+    },
+    {
+      "id": "B008-S054",
+      "english": "Raises attack power",
+      "french": "Augmente l’attaque"
+    },
+    {
+      "id": "B008-S055",
+      "english": "Raises defensive power",
+      "french": "Augmente la défense"
+    },
+    {
+      "id": "B008-S056",
+      "english": "Raises speed",
+      "french": "Augmente la vitesse"
+    },
+    {
+      "id": "B008-S060",
+      "english": "Burning love with Ran <17>fire spell<18>",
+      "french": "Amour ardent de Ran <17>sort de feu<18>"
+    },
+    {
+      "id": "B008-S061",
+      "english": "Miki's loving memories <17>wind spell<18>",
+      "french": "Souvenirs de Miki <17>sort de vent<18>"
+    },
+    {
+      "id": "B008-S062",
+      "english": "Suu's melting love <17>water spell<18>",
+      "french": "Amour fondant de Suu <17>sort d’eau<18>"
+    },
+    {
+      "id": "B008-S063",
+      "english": "Lowers an enemy's attack",
+      "french": "Réduit l’attaque d’un ennemi"
+    },
+    {
+      "id": "B008-S064",
+      "english": "Hard hit <17>all enemies<18>!",
+      "french": "Coup puissant <17>tous les ennemis<18> !"
+    },
+    {
+      "id": "B008-S065",
+      "english": "Puts the user to sleep",
+      "french": "Endort l’utilisateur"
+    },
+    {
+      "id": "B008-S066",
+      "english": "Confuses enemies and friends",
+      "french": "Sème la confusion dans les deux camps"
+    },
+    {
+      "id": "B008-S067",
+      "english": "Holds the power of Singe",
+      "french": "Pouvoir de Brûlure"
+    },
+    {
+      "id": "B008-S068",
+      "english": "Holds the power of Jolt",
+      "french": "Pouvoir de Foudre"
+    },
+    {
+      "id": "B008-S069",
+      "english": "Holds the power of Watt",
+      "french": "Pouvoir de Watt"
+    },
+    {
+      "id": "B008-S070",
+      "english": "Holds the power of Spout",
+      "french": "Pouvoir de Jaillissement"
+    },
+    {
+      "id": "B008-S071",
+      "english": "Hits all enemies",
+      "french": "Frappe tous les ennemis"
+    },
+    {
+      "id": "B008-S072",
+      "english": "Holds the power of Spry",
+      "french": "Pouvoir de Vivacité"
+    },
+    {
+      "id": "B008-S073",
+      "english": "An explosive pot, made by Bakuzan",
+      "french": "Pot explosif fabriqué par Bakuzan"
+    },
+    {
+      "id": "B008-S075",
+      "english": "Deals 1<1E>2, 1x, or 2x damage",
+      "french": "Dégâts multipliés par 1<1E>2, 1 ou 2"
+    },
+    {
+      "id": "B008-S076",
+      "english": "Fends off damage <17>one time<18>",
+      "french": "Bloque les dégâts <17>une fois<18>"
+    },
+    {
+      "id": "B008-S077",
+      "english": "Heals everyone... Sometimes...",
+      "french": "Soigne tout le monde... Parfois..."
+    },
+    {
+      "id": "B008-S079",
+      "english": "Mitsuko's treasure chest",
+      "french": "Le coffre de Mitsuko"
+    },
+    {
+      "id": "B008-S080",
+      "english": "Raises core health",
+      "french": "Augmente la vitalité de base"
+    },
+    {
+      "id": "B008-S081",
+      "english": "Raises core technique",
+      "french": "Augmente la technique de base"
+    },
+    {
+      "id": "B008-S082",
+      "english": "Raises core attack",
+      "french": "Augmente l’attaque de base"
+    },
+    {
+      "id": "B008-S083",
+      "english": "Raises core defense",
+      "french": "Augmente la défense de base"
+    },
+    {
+      "id": "B008-S084",
+      "english": "Raises core speed",
+      "french": "Augmente la vitesse de base"
+    },
+    {
+      "id": "B008-S085",
+      "english": "Raises core luck",
+      "french": "Augmente la chance de base"
+    },
+    {
+      "id": "B008-S086",
+      "english": "Pet food",
+      "french": "Nourriture pour animaux"
+    },
+    {
+      "id": "B008-S091",
+      "english": "Key, requested by Rie",
+      "french": "Clé demandée par Rie"
+    },
+    {
+      "id": "B008-S099",
+      "english": "The Thunder Hermit's horn",
+      "french": "Cor du Sennin du Tonnerre"
+    },
+    {
+      "id": "B008-S100",
+      "english": "The key to the Mahamayuri",
+      "french": "Clé de Mahamayuri"
+    },
+    {
+      "id": "B008-S101",
+      "english": "The key to Juri's room",
+      "french": "Clé de la chambre de Juri"
+    },
+    {
+      "id": "B008-S102",
+      "english": "The Ma-Djinn's key",
+      "french": "Clé du Ma-Djinn"
+    },
+    {
+      "id": "B008-S103",
+      "english": "A nest full of goldkin bugs",
+      "french": "Nid de scarabées dorés"
+    },
+    {
+      "id": "B008-S104",
+      "english": "Used for gathering gold dust",
+      "french": "Sert à recueillir la poudre d’or"
+    },
+    {
+      "id": "B008-S106",
+      "english": "Exchange for great prizes",
+      "french": "À échanger contre de beaux prix"
+    },
+    {
+      "id": "B010-S001",
+      "english": "Fire attack <17>hits one<1E>all enemies<18>",
+      "french": "Attaque de feu <17>un<1E>tous les ennemis<18>"
+    },
+    {
+      "id": "B010-S003",
+      "english": "Water attack <17>hits one<1E>all enemies<18>",
+      "french": "Attaque d’eau <17>un<1E>tous les ennemis<18>"
+    },
+    {
+      "id": "B010-S005",
+      "english": "Wind attack <17>hits one<1E>all enemies<18>",
+      "french": "Attaque de vent <17>un<1E>tous les ennemis<18>"
+    },
+    {
+      "id": "B010-S007",
+      "english": "Bolt attack <17>hits one<1E>all enemies<18>",
+      "french": "Attaque de foudre <17>un<1E>tous ennemis<18>"
+    },
+    {
+      "id": "B010-S009",
+      "english": "Raises an ally's attack",
+      "french": "Augmente l’attaque d’un allié"
+    },
+    {
+      "id": "B010-S010",
+      "english": "Raises an ally's defense",
+      "french": "Augmente la défense d’un allié"
+    },
+    {
+      "id": "B010-S011",
+      "english": "Raises an ally's speed",
+      "french": "Augmente la vitesse d’un allié"
+    },
+    {
+      "id": "B010-S012",
+      "english": "Raises all allies' attack",
+      "french": "Augmente l’attaque de tous les alliés"
+    },
+    {
+      "id": "B010-S013",
+      "english": "Raises all allies' defense",
+      "french": "Augmente la défense de tous les alliés"
+    },
+    {
+      "id": "B010-S014",
+      "english": "Raises all allies' speed",
+      "french": "Augmente la vitesse de tous les alliés"
+    },
+    {
+      "id": "B010-S015",
+      "english": "Lowers all enemies' attack",
+      "french": "Réduit l’attaque de tous les ennemis"
+    },
+    {
+      "id": "B010-S016",
+      "english": "Lowers all enemies' defense",
+      "french": "Réduit la défense de tous les ennemis"
+    },
+    {
+      "id": "B010-S017",
+      "english": "Lowers all enemies' speed",
+      "french": "Réduit la vitesse de tous les ennemis"
+    },
+    {
+      "id": "B010-S018",
+      "english": "Restores health <17>1<18> <17>one<1E>all allies<18>",
+      "french": "Rend vitalité <17>1<18> <17>un<1E>tous les alliés<18>"
+    },
+    {
+      "id": "B010-S021",
+      "english": "Cures an ally of anything but poison",
+      "french": "Guérit un allié, sauf du poison"
+    },
+    {
+      "id": "B010-S022",
+      "english": "Cures the party of all ailments",
+      "french": "Guérit les troubles de toute l’équipe"
+    },
+    {
+      "id": "B010-S025",
+      "english": "Brings an ally back to life",
+      "french": "Ressuscite un allié"
+    },
+    {
+      "id": "B010-S026",
+      "english": "Locks away an enemy's spells",
+      "french": "Scelle les sorts d’un ennemi"
+    },
+    {
+      "id": "B010-S027",
+      "english": "Confuses an enemy",
+      "french": "Trouble un ennemi"
+    },
+    {
+      "id": "B010-S028",
+      "english": "Shows an enemy's weaknesses",
+      "french": "Révèle les faiblesses d’un ennemi"
+    },
+    {
+      "id": "B010-S029",
+      "english": "Steals the health of an enemy",
+      "french": "Vole la vitalité d’un ennemi"
+    },
+    {
+      "id": "B010-S030",
+      "english": "Steals an enemy's technique",
+      "french": "Vole la technique d’un ennemi"
+    },
+    {
+      "id": "B010-S031",
+      "english": "Avoid poison swamps, etc.",
+      "french": "Évite marais toxiques et autres"
+    },
+    {
+      "id": "B010-S032",
+      "english": "Drops defense, raises attack",
+      "french": "Baisse la défense, hausse l’attaque"
+    },
+    {
+      "id": "B010-S033",
+      "english": "Drops one stat <17>random target<18>",
+      "french": "Réduit une stat <17>cible au hasard<18>"
+    },
+    {
+      "id": "B010-S034",
+      "english": "Cures an ally of poison",
+      "french": "Guérit un allié du poison"
+    },
+    {
+      "id": "B010-S035",
+      "english": "Caster falls asleep, fully heals",
+      "french": "Endort le lanceur, soin complet"
+    },
+    {
+      "id": "B010-S036",
+      "english": "Allows the use of chain attacks",
+      "french": "Permet les attaques enchaînées"
+    },
+    {
+      "id": "B010-S037",
+      "english": "Fusion of fire and fire",
+      "french": "Fusion feu et feu"
+    },
+    {
+      "id": "B010-S038",
+      "english": "Fusion of fire and water",
+      "french": "Fusion feu et eau"
+    },
+    {
+      "id": "B010-S039",
+      "english": "Fusion of fire and wind",
+      "french": "Fusion feu et vent"
+    },
+    {
+      "id": "B010-S040",
+      "english": "Fusion of fire and bolt",
+      "french": "Fusion feu et foudre"
+    },
+    {
+      "id": "B010-S043",
+      "english": "Fusion of water and wind",
+      "french": "Fusion eau et vent"
+    },
+    {
+      "id": "B010-S044",
+      "english": "Fusion of water and bolt",
+      "french": "Fusion eau et foudre"
+    },
+    {
+      "id": "B010-S048",
+      "english": "Fusion of wind and bolt",
+      "french": "Fusion vent et foudre"
+    },
+    {
+      "id": "B011-S001",
+      "english": "Does a double chain attack to the enemy",
+      "french": "Double attaque enchaînée sur l’ennemi"
+    },
+    {
+      "id": "B011-S002",
+      "english": "Stores up power and hits an enemy hard",
+      "french": "Charge puis frappe fort un ennemi"
+    },
+    {
+      "id": "B011-S003",
+      "english": "Sacrifices health to hit all enemies",
+      "french": "Sacrifie la vie, frappe tous les ennemis"
+    },
+    {
+      "id": "B011-S004",
+      "english": "Calls the Sword Hermit to strike all",
+      "french": "Le Sennin du Sabre frappe tout ennemi"
+    },
+    {
+      "id": "B011-S005",
+      "english": "Calls the battle god to arms",
+      "french": "Appelle le dieu du combat"
+    },
+    {
+      "id": "B011-S006",
+      "english": "Uses Shiranui's killer sword skill",
+      "french": "Art du sabre mortel de Shiranui"
+    },
+    {
+      "id": "B011-S007",
+      "english": "110 points of fire damage",
+      "french": "110 points de dégâts de feu"
+    },
+    {
+      "id": "B011-S008",
+      "english": "130 points of bolt damage",
+      "french": "130 points de dégâts de foudre"
+    },
+    {
+      "id": "B011-S009",
+      "english": "150 points of wind damage",
+      "french": "150 points de dégâts de vent"
+    },
+    {
+      "id": "B011-S010",
+      "english": "Hits as hard as three melee attacks",
+      "french": "Puissance de trois coups au corps à corps"
+    },
+    {
+      "id": "B011-S011",
+      "english": "250 points of water damage",
+      "french": "250 points de dégâts d’eau"
+    },
+    {
+      "id": "B011-S012",
+      "english": "500 points of defense-piercing damage",
+      "french": "500 dégâts ignorant la défense"
+    },
+    {
+      "id": "B011-S013",
+      "english": "20 points of defense-piercing damage",
+      "french": "20 dégâts ignorant la défense"
+    },
+    {
+      "id": "B011-S014",
+      "english": "Boosts the team's luck",
+      "french": "Augmente la chance de l’équipe"
+    },
+    {
+      "id": "B011-S015",
+      "english": "Makes enemies drop gold and run",
+      "french": "Les ennemis lâchent l’or et fuient"
+    },
+    {
+      "id": "B011-S016",
+      "english": "Saves up power for a critical hit",
+      "french": "Charge pour un coup critique"
+    },
+    {
+      "id": "B011-S017",
+      "english": "Hits back with double damage taken",
+      "french": "Rend le double des dégâts subis"
+    },
+    {
+      "id": "B011-S018",
+      "english": "Sends the enemy to Hell in one blow",
+      "french": "Envoie l’ennemi en Enfer d’un coup"
+    },
+    {
+      "id": "B011-S019",
+      "english": "Deals big damage to all enemies",
+      "french": "Gros dégâts sur tous les ennemis"
+    },
+    {
+      "id": "B011-S020",
+      "english": "Deals 1<1E>2 damage taken <17>all enemies<18>",
+      "french": "Inflige 1<1E>2 dégâts reçus <17>tous ennemis<18>"
+    },
+    {
+      "id": "B011-S021",
+      "english": "Mizuki's sacrificial move",
+      "french": "Technique sacrificielle de Mizuki"
+    },
+    {
+      "id": "B011-S022",
+      "english": "Absorbs an ally's technique",
+      "french": "Absorbe la technique d’un allié"
+    },
+    {
+      "id": "B011-S023",
+      "english": "Split an enemy in two <17>each weaker<18>",
+      "french": "Divise l’ennemi en deux <17>affaiblis<18>"
+    },
+    {
+      "id": "B011-S024",
+      "english": "Nullifies a enemy's skill <17>once<18>",
+      "french": "Annule un art ennemi <17>une fois<18>"
+    },
+    {
+      "id": "B011-S025",
+      "english": "Reflects an enemy's skill <17>once<18>",
+      "french": "Renvoie un art ennemi <17>une fois<18>"
+    },
+    {
+      "id": "B011-S026",
+      "english": "Refills technique when hit by skills",
+      "french": "Les arts reçus rendent de la technique"
+    },
+    {
+      "id": "B011-S027",
+      "english": "Makes every scroll castable",
+      "french": "Permet de lancer tous les parchemins"
+    },
+    {
+      "id": "B011-S028",
+      "english": "Killer knuckles deliver a critical hit",
+      "french": "Coup critique des Poings mortels"
+    },
+    {
+      "id": "B011-S029",
+      "english": "Deals a rapid slap combo",
+      "french": "Enchaînement de gifles rapides"
+    },
+    {
+      "id": "B011-S030",
+      "english": "Flee from the battle",
+      "french": "Fuit le combat"
+    },
+    {
+      "id": "B009-S005",
+      "english": "Hits all enemies, can't miss",
+      "french": "Frappe tous les ennemis sans rater"
+    },
+    {
+      "id": "B009-S015",
+      "english": "Sometimes gets critical hits",
+      "french": "Coups critiques occasionnels"
+    },
+    {
+      "id": "B009-S016",
+      "english": "Gets two strikes in one turn",
+      "french": "Frappe deux fois par tour"
+    },
+    {
+      "id": "B009-S017",
+      "english": "Increased critical hit rate",
+      "french": "Augmente le taux de coups critiques"
+    },
+    {
+      "id": "B009-S018",
+      "english": "Red Dragon Katana, Sear effect",
+      "french": "Katana Dragon rouge, effet Fournaise"
+    },
+    {
+      "id": "B009-S019",
+      "english": "Watt effect",
+      "french": "Effet Watt"
+    },
+    {
+      "id": "B009-S021",
+      "english": "Attacks may cause poison",
+      "french": "Les coups peuvent empoisonner"
+    },
+    {
+      "id": "B009-S023",
+      "english": "Beheading Katana, may get critical hits",
+      "french": "Katana Décapiteur, coups critiques"
+    },
+    {
+      "id": "B009-S026",
+      "english": "Gruidae Longsword, Zest effect",
+      "french": "Sabre des Grues, effet Vitalité"
+    },
+    {
+      "id": "B009-S027",
+      "english": "Life-saving Katana, takes 30<14> of damage",
+      "french": "Katana salvateur, subit 30<14> des dégâts"
+    },
+    {
+      "id": "B009-S035",
+      "english": "Rock effect",
+      "french": "Effet Roc"
+    },
+    {
+      "id": "B009-S037",
+      "english": "May cause drowsiness",
+      "french": "Peut endormir"
+    },
+    {
+      "id": "B009-S047",
+      "english": "Attacks enemies and allies",
+      "french": "Frappe ennemis et alliés"
+    },
+    {
+      "id": "B009-S048",
+      "english": "One-Strike Katana, <17><1A>10 to <1A>200 attack<18>",
+      "french": "Katana unique, <17><1A>10 à <1A>200 en attaque<18>"
+    },
+    {
+      "id": "B009-S049",
+      "english": "It might break at any time!",
+      "french": "Peut se briser à tout moment !"
+    },
+    {
+      "id": "B009-S052",
+      "english": "Frail effect",
+      "french": "Effet Frêle"
+    },
+    {
+      "id": "B009-S053",
+      "english": "30<14> instant kill <17>as an item<18>",
+      "french": "30<14> de mort subite <17>comme objet<18>"
+    },
+    {
+      "id": "B009-S061",
+      "english": "Evening Dew Robe, Frail effect",
+      "french": "Robe Rosée du soir, effet Frêle"
+    },
+    {
+      "id": "B009-S070",
+      "english": "Princess Clothes, boosts coolness",
+      "french": "Tenue de princesse, ajoute du charme"
+    },
+    {
+      "id": "B009-S078",
+      "english": "Maiden's Kimono, Vigor effect",
+      "french": "Kimono de jeune fille, effet Vigueur"
+    },
+    {
+      "id": "B009-S079",
+      "english": "Mushroom Armor, Sting effect",
+      "french": "Armure champignon, effet Piqûre"
+    },
+    {
+      "id": "B009-S080",
+      "english": "Boosts coolness by 1",
+      "french": "Ajoute 1 point de charme"
+    },
+    {
+      "id": "B009-S081",
+      "english": "Reduces tech consumed by 5<14>",
+      "french": "Réduit la technique consommée de 5<14>"
+    },
+    {
+      "id": "B009-S083",
+      "english": "See-through Clothes, boosts dodge rate",
+      "french": "Tenue transparente, augmente l’esquive"
+    },
+    {
+      "id": "B009-S089",
+      "english": "Breakalegor Armor, baffles attackers",
+      "french": "Armure Breakalegor, trouble l’ennemi"
+    },
+    {
+      "id": "B009-S090",
+      "english": "Imported Coat, boosts coolness",
+      "french": "Manteau importé, ajoute du charme"
+    },
+    {
+      "id": "B009-S093",
+      "english": "Sometimes triggers doubled attacks",
+      "french": "Déclenche parfois une double attaque"
+    },
+    {
+      "id": "B009-S096",
+      "english": "Fire Bear Stone, attacks won't miss",
+      "french": "Pierre Ours de Feu, coups infaillibles"
+    },
+    {
+      "id": "B009-S097",
+      "english": "Peacock Stone, reduces tech consumption",
+      "french": "Pierre du Paon, économise la technique"
+    },
+    {
+      "id": "B009-S098",
+      "english": "Crane Stone, cures health<1E>tech in battle",
+      "french": "Pierre Grue, soin vie<1E>tech au combat"
+    },
+    {
+      "id": "B009-S099",
+      "english": "Turtle Stone, doubles the money earned",
+      "french": "Pierre Tortue, double l’argent gagné"
+    },
+    {
+      "id": "B009-S100",
+      "english": "Canine God Stone, random counter-attacks",
+      "french": "Pierre canine, ripostes au hasard"
+    },
+    {
+      "id": "B009-S101",
+      "english": "Dragon Stone, raises all parameters",
+      "french": "Pierre Dragon, hausse toutes stats"
+    },
+    {
+      "id": "B009-S102",
+      "english": "Spend more time underwater",
+      "french": "Permet de rester plus sous l’eau"
+    },
+    {
+      "id": "B009-S103",
+      "english": "Reveals the Phantom Castle",
+      "french": "Révèle le Château fantôme"
+    },
+    {
+      "id": "B009-S104",
+      "english": "The V.I.P. membership ID",
+      "french": "Carte de membre V.I.P."
+    },
+    {
+      "id": "B009-S108",
+      "english": "Boosts dodge rate",
+      "french": "Augmente l’esquive"
+    },
+    {
+      "id": "B009-S110",
+      "english": "Confuses enemy attackers",
+      "french": "Trouble les ennemis qui frappent"
+    },
+    {
+      "id": "B009-S111",
+      "english": "Raises luck",
+      "french": "Augmente la chance"
+    },
+    {
+      "id": "B009-S116",
+      "english": "Boosts coolness",
+      "french": "Augmente le charme"
+    },
+    {
+      "id": "B009-S119",
+      "english": "Strong against the wind",
+      "french": "Résiste au vent"
+    },
+    {
+      "id": "B009-S120",
+      "english": "Strong against lightning bolts",
+      "french": "Résiste à la foudre"
+    },
+    {
+      "id": "B009-S121",
+      "english": "Strong against fire",
+      "french": "Résiste au feu"
+    },
+    {
+      "id": "B009-S122",
+      "english": "Strong against water",
+      "french": "Résiste à l’eau"
+    },
+    {
+      "id": "B009-S123",
+      "english": "May poison enemy attackers",
+      "french": "Peut empoisonner les assaillants"
+    },
+    {
+      "id": "B009-S130",
+      "english": "Restores 50 health after battle",
+      "french": "Rend 50 de vitalité après le combat"
+    },
+    {
+      "id": "B009-S131",
+      "english": "Restores 50 tech after battle",
+      "french": "Rend 50 de technique après le combat"
+    },
+    {
+      "id": "B009-S132",
+      "english": "Reduces technique consumption",
+      "french": "Réduit la technique consommée"
+    },
+    {
+      "id": "B009-S133",
+      "english": "Wards off petrifying attacks",
+      "french": "Protège contre la pétrification"
+    },
+    {
+      "id": "B009-S134",
+      "english": "Wards off amnesia attacks",
+      "french": "Protège contre l’amnésie"
+    },
+    {
+      "id": "B009-S135",
+      "english": "Wards off poison attacks",
+      "french": "Protège contre le poison"
+    },
+    {
+      "id": "B009-S136",
+      "english": "Wards off stun<1E>haze attacks",
+      "french": "Protège de paralysie<1E>hébétude"
+    },
+    {
+      "id": "B009-S137",
+      "english": "Wards off sleep<1E>confusion",
+      "french": "Protège du sommeil<1E>de la confusion"
+    },
+    {
+      "id": "B009-S138",
+      "english": "Wards off all ailments",
+      "french": "Protège de tous les troubles"
+    },
+    {
+      "id": "B009-S140",
+      "english": "Raises wind spell potency",
+      "french": "Renforce les sorts de vent"
+    },
+    {
+      "id": "B009-S141",
+      "english": "Raises bolt spell potency",
+      "french": "Renforce les sorts de foudre"
+    },
+    {
+      "id": "B009-S142",
+      "english": "Raises fire spell potency",
+      "french": "Renforce les sorts de feu"
+    },
+    {
+      "id": "B009-S143",
+      "english": "Raises water spell potency",
+      "french": "Renforce les sorts d’eau"
+    },
+    {
+      "id": "B009-S144",
+      "english": "Has a 20<14> chance of reflecting skills",
+      "french": "20<14> de chances de renvoyer les arts"
+    },
+    {
+      "id": "B009-S146",
+      "english": "Restores health<1E>tech on foot",
+      "french": "Rend vie<1E>technique en marchant"
+    },
+    {
+      "id": "B009-S147",
+      "english": "Avoid a knock-out <17>once<18>",
+      "french": "Évite le K.O. <17>une fois<18>"
+    },
+    {
+      "id": "B009-S150",
+      "english": "Attacks may cause drowsiness",
+      "french": "Les coups peuvent endormir"
+    },
+    {
+      "id": "B009-S151",
+      "english": "Attacks may cause confusion",
+      "french": "Les coups peuvent semer la confusion"
+    },
+    {
+      "id": "B009-S152",
+      "english": "Attacks may cause haze",
+      "french": "Les coups peuvent hébéter"
+    },
+    {
+      "id": "B009-S153",
+      "english": "A ring from Hisui",
+      "french": "Une bague offerte par Hisui"
+    },
+    {
+      "id": "B009-S154",
+      "english": "Absorbs 1<1E>5 of wind damage",
+      "french": "Absorbe 1<1E>5 des dégâts de vent"
+    },
+    {
+      "id": "B009-S155",
+      "english": "Absorbs 1<1E>5 of bolt damage",
+      "french": "Absorbe 1<1E>5 des dégâts de foudre"
+    },
+    {
+      "id": "B009-S156",
+      "english": "Absorbs 1<1E>5 of fire damage",
+      "french": "Absorbe 1<1E>5 des dégâts de feu"
+    },
+    {
+      "id": "B009-S157",
+      "english": "Absorbs 1<1E>5 of water damage",
+      "french": "Absorbe 1<1E>5 des dégâts d’eau"
+    },
+    {
+      "id": "B009-S158",
+      "english": "Absorbs 1<1E>5 of elemental attack damage",
+      "french": "Absorbe 1<1E>5 des dégâts élémentaires"
+    },
+    {
+      "id": "B009-S159",
+      "english": "Swordsman's Bracelet, memento of Gramps",
+      "french": "Bracelet d’épéiste, souvenir de Papi"
+    },
+    {
+      "id": "B009-S163",
+      "english": "Raises core health by 50",
+      "french": "Ajoute 50 à la vitalité de base"
+    },
+    {
+      "id": "B009-S164",
+      "english": "Raises core technique by 50",
+      "french": "Ajoute 50 à la technique de base"
+    },
+    {
+      "id": "B009-S175",
+      "english": "Causes confusion",
+      "french": "Sème la confusion"
+    },
+    {
+      "id": "B009-S178",
+      "english": "Attacks boost the drop rate by 20<14>",
+      "french": "Coups : taux de butin accru de 20<14>"
+    },
+    {
+      "id": "B009-S179",
+      "english": "Nullify damage in poison swamps",
+      "french": "Annule les dégâts des marais toxiques"
+    },
+    {
+      "id": "B009-S180",
+      "english": "Attack twice <17>damage halved<18>",
+      "french": "Frappe deux fois <17>dégâts divisés par 2<18>"
+    },
+    {
+      "id": "B009-S181",
+      "english": "Freely walk over ice",
+      "french": "Marche sur la glace sans glisser"
+    },
+    {
+      "id": "B009-S183",
+      "english": "Has a 20<14> chance of reflecting 2x damage",
+      "french": "20<14> de chances de riposte double"
+    },
+    {
+      "id": "B009-S184",
+      "english": "Has a 20<14> chance of reflecting damage",
+      "french": "20<14> de chances de riposter"
+    },
+    {
+      "id": "B009-S186",
+      "english": "Boosts dodge rate against skills",
+      "french": "Augmente l’esquive face aux arts"
+    },
+    {
+      "id": "B009-S187",
+      "english": "Boosts dodge rate <17>attacks and skills<18>",
+      "french": "Augmente l’esquive <17>coups et arts<18>"
+    },
+    {
+      "id": "B009-S189",
+      "english": "Reduces encounter rate <17>stackable<18>",
+      "french": "Réduit les combats <17>effets cumulables<18>"
+    },
+    {
+      "id": "B009-S191",
+      "english": "Sweater that Marina made",
+      "french": "Pull confectionné par Marina"
+    },
+    {
+      "id": "B009-S192",
+      "english": "Cap that Akina knit",
+      "french": "Bonnet tricoté par Akina"
+    },
+    {
+      "id": "B009-S193",
+      "english": "Gloves that Marina knit",
+      "french": "Gants tricotés par Marina"
+    },
+    {
+      "id": "B009-S194",
+      "english": "Muffler that Marina knit",
+      "french": "Écharpe tricotée par Marina"
+    },
+    {
+      "id": "B019-S001",
+      "english": "Chomp Attack",
+      "french": "Morsure"
+    },
+    {
+      "id": "B019-S002",
+      "english": "Blaze",
+      "french": "Brasier"
+    },
+    {
+      "id": "B019-S003",
+      "english": "Earthly Echo",
+      "french": "Écho terrestre"
+    },
+    {
+      "id": "B019-S004",
+      "english": "Mo!",
+      "french": "Meuh !"
+    },
+    {
+      "id": "B019-S005",
+      "english": "Poison Attack",
+      "french": "Attaque empoisonnée"
+    },
+    {
+      "id": "B019-S006",
+      "english": "Whirling Sickles",
+      "french": "Faux tournoyantes"
+    },
+    {
+      "id": "B019-S007",
+      "english": "Icicle Launch!",
+      "french": "Jet de stalactites !"
+    },
+    {
+      "id": "B019-S008",
+      "english": "Blue Fangs",
+      "french": "Crocs bleus"
+    },
+    {
+      "id": "B019-S009",
+      "english": "Prelude to a Blizzard",
+      "french": "Prélude au blizzard"
+    },
+    {
+      "id": "B019-S010",
+      "english": "Help me!",
+      "french": "À l’aide !"
+    },
+    {
+      "id": "B019-S011",
+      "english": "I'll get you for this!",
+      "french": "Tu me le paieras !"
+    },
+    {
+      "id": "B019-S012",
+      "english": "Split-Up",
+      "french": "Division"
+    },
+    {
+      "id": "B019-S013",
+      "english": "Splash",
+      "french": "Éclaboussure"
+    },
+    {
+      "id": "B019-S014",
+      "english": "Icy Eyes",
+      "french": "Yeux de glace"
+    },
+    {
+      "id": "B019-S015",
+      "english": "Healing!",
+      "french": "Guérison !"
+    },
+    {
+      "id": "B019-S016",
+      "english": "Chilly Sigh",
+      "french": "Soupir glacial"
+    },
+    {
+      "id": "B019-S017",
+      "english": "Sleep Attack",
+      "french": "Attaque soporifique"
+    },
+    {
+      "id": "B019-S018",
+      "english": "Prickly Flip",
+      "french": "Saut épineux"
+    },
+    {
+      "id": "B019-S019",
+      "english": "Sap Strength",
+      "french": "Drain de force"
+    },
+    {
+      "id": "B019-S020",
+      "english": "Seal Scrolls",
+      "french": "Sceau des parchemins"
+    },
+    {
+      "id": "B019-S021",
+      "english": "Drop Accuracy",
+      "french": "Baisse de précision"
+    },
+    {
+      "id": "B019-S022",
+      "english": "Otter Vixen's Tears",
+      "french": "Larmes de la Loutre renarde"
+    },
+    {
+      "id": "B019-S023",
+      "english": "Step right up!",
+      "french": "Approchez !"
+    },
+    {
+      "id": "B019-S024",
+      "english": "I'll be seeing you!",
+      "french": "À la prochaine !"
+    },
+    {
+      "id": "B019-S025",
+      "english": "Super Electromagnetic Laser",
+      "french": "Laser électromagnétique suprême"
+    },
+    {
+      "id": "B019-S026",
+      "english": "Lu Xia Attack",
+      "french": "Attaque de Lu Xia"
+    },
+    {
+      "id": "B019-S027",
+      "english": "Ook-eek!",
+      "french": "Ouh-ik !"
+    },
+    {
+      "id": "B019-S030",
+      "english": "Teddy Bolt",
+      "french": "Foudre de nounours"
+    },
+    {
+      "id": "B019-S031",
+      "english": "Buzz - Zap - Crackle",
+      "french": "Bzzz, zap, crac !"
+    },
+    {
+      "id": "B019-S032",
+      "english": "We shall meet again!",
+      "french": "Nous nous reverrons !"
+    },
+    {
+      "id": "B019-S033",
+      "english": "Alms for the Poor",
+      "french": "L’aumône aux pauvres"
+    },
+    {
+      "id": "B019-S034",
+      "english": "Red Hot Hell",
+      "french": "Enfer incandescent"
+    },
+    {
+      "id": "B019-S035",
+      "english": "Tornado",
+      "french": "Tornade"
+    },
+    {
+      "id": "B019-S036",
+      "english": "Fall-in!",
+      "french": "Rassemblement !"
+    },
+    {
+      "id": "B019-S037",
+      "english": "Confusion Attack",
+      "french": "Attaque troublante"
+    },
+    {
+      "id": "B019-S038",
+      "english": "Reflection!",
+      "french": "Réflexion !"
+    },
+    {
+      "id": "B019-S039",
+      "english": "Prayer to the Dearly Departed",
+      "french": "Prière pour les défunts"
+    },
+    {
+      "id": "B019-S040",
+      "english": "<11>The Prince of Yamato<11> Symphony",
+      "french": "Symphonie <11>Prince de Yamato<11>"
+    },
+    {
+      "id": "B019-S041",
+      "english": "Wild Wild Winds",
+      "french": "Vents déchaînés"
+    },
+    {
+      "id": "B019-S042",
+      "english": "Let me hold your stuff for a bit!",
+      "french": "Je garde tes affaires !"
+    },
+    {
+      "id": "B019-S043",
+      "english": "Rustle, rustle...",
+      "french": "Frou, frou..."
+    },
+    {
+      "id": "B019-S044",
+      "english": "Time to skedaddle!",
+      "french": "Il est temps de filer !"
+    },
+    {
+      "id": "B019-S045",
+      "english": "I'll help myself to this!",
+      "french": "Je vais me servir !"
+    },
+    {
+      "id": "B019-S046",
+      "english": "Heh heh heh!",
+      "french": "Hé hé hé !"
+    },
+    {
+      "id": "B019-S047",
+      "english": "Self-defense Instinct",
+      "french": "Instinct de survie"
+    },
+    {
+      "id": "B019-S049",
+      "english": "Numbing Attack",
+      "french": "Attaque paralysante"
+    },
+    {
+      "id": "B019-S050",
+      "english": "Wha-BAM!",
+      "french": "Boum !"
+    },
+    {
+      "id": "B019-S051",
+      "english": "Prayer for a Big Catch",
+      "french": "Prière pour la pêche"
+    },
+    {
+      "id": "B019-S052",
+      "english": "Rippling Shock",
+      "french": "Onde de choc"
+    },
+    {
+      "id": "B019-S053",
+      "english": "Splorp!",
+      "french": "Splortch !"
+    },
+    {
+      "id": "B019-S054",
+      "english": "I'm taking you doooown a level!",
+      "french": "Je te fais perdre un niveau !"
+    },
+    {
+      "id": "B019-S055",
+      "english": "Seashore Guitar",
+      "french": "Guitare du rivage"
+    },
+    {
+      "id": "B019-S056",
+      "english": "Snooty Whistle",
+      "french": "Sifflet hautain"
+    },
+    {
+      "id": "B019-S057",
+      "english": "No Holds Barred!",
+      "french": "Tous les coups sont permis !"
+    },
+    {
+      "id": "B019-S058",
+      "english": "Coral Sway",
+      "french": "Balancement du corail"
+    },
+    {
+      "id": "B019-S059",
+      "english": "Creeper's Lap Pillow",
+      "french": "Les genoux de la Liane"
+    },
+    {
+      "id": "B019-S060",
+      "english": "Summer Scent's Daze",
+      "french": "Ivresse du Parfum d’été"
+    },
+    {
+      "id": "B019-S061",
+      "english": "Winter Scent's Slave",
+      "french": "Esclave du Parfum d’hiver"
+    },
+    {
+      "id": "B019-S062",
+      "english": "Sweet Water",
+      "french": "Eau douce"
+    },
+    {
+      "id": "B019-S063",
+      "english": "Call of the Forest",
+      "french": "Appel de la forêt"
+    },
+    {
+      "id": "B019-S064",
+      "english": "Rage of the Forest",
+      "french": "Rage de la forêt"
+    },
+    {
+      "id": "B019-S065",
+      "english": "Naturally-caused Fire!",
+      "french": "Incendie naturel !"
+    },
+    {
+      "id": "B019-S066",
+      "english": "Snoozing...",
+      "french": "Petit somme..."
+    },
+    {
+      "id": "B019-S067",
+      "english": "Twilight Zephyr",
+      "french": "Zéphyr du crépuscule"
+    },
+    {
+      "id": "B019-S068",
+      "english": "My, how the flowers bloom!",
+      "french": "Que de fleurs épanouies !"
+    },
+    {
+      "id": "B019-S069",
+      "english": "Phwaaah!",
+      "french": "Pfffouah !"
+    },
+    {
+      "id": "B019-S070",
+      "english": "Suicide Bomb",
+      "french": "Explosion suicide"
+    },
+    {
+      "id": "B019-S071",
+      "english": "Technique Absorb",
+      "french": "Absorption de technique"
+    },
+    {
+      "id": "B019-S072",
+      "english": "Blazing Hell",
+      "french": "Enfer ardent"
+    },
+    {
+      "id": "B019-S073",
+      "english": "The Brief Life of a Cicada",
+      "french": "Brève vie d’une cigale"
+    },
+    {
+      "id": "B019-S074",
+      "english": "Everybody!",
+      "french": "Tout le monde !"
+    },
+    {
+      "id": "B019-S075",
+      "english": "The Flap of an Angel's Wings",
+      "french": "Battement d’ailes d’ange"
+    },
+    {
+      "id": "B019-S076",
+      "english": "Golden Radiance",
+      "french": "Éclat doré"
+    },
+    {
+      "id": "B019-S077",
+      "english": "The world is NOT that simple!",
+      "french": "Le monde n’est PAS si simple !"
+    },
+    {
+      "id": "B019-S078",
+      "english": "Stone Hail",
+      "french": "Grêle de pierres"
+    },
+    {
+      "id": "B019-S079",
+      "english": "Hardened Heart",
+      "french": "Cœur endurci"
+    },
+    {
+      "id": "B019-S080",
+      "english": "Sparkling Eyes",
+      "french": "Yeux étincelants"
+    },
+    {
+      "id": "B019-S081",
+      "english": "Garnetta's Tears",
+      "french": "Larmes de Garnetta"
+    },
+    {
+      "id": "B019-S082",
+      "english": "Scissors, Paper, Rock!",
+      "french": "Ciseaux, papier, pierre !"
+    },
+    {
+      "id": "B019-S083",
+      "english": "Pappy's Hand",
+      "french": "La main de Papi"
+    },
+    {
+      "id": "B019-S086",
+      "english": "Peeling-off Veneer",
+      "french": "Vernis écaillé"
+    },
+    {
+      "id": "B019-S087",
+      "english": "Gleaming Veneer",
+      "french": "Vernis brillant"
+    },
+    {
+      "id": "B019-S088",
+      "english": "Scattering Stones",
+      "french": "Pierres dispersées"
+    },
+    {
+      "id": "B019-S089",
+      "english": "A Flame-like Woman",
+      "french": "Une femme de feu"
+    },
+    {
+      "id": "B019-S090",
+      "english": "A Dangerous Woman",
+      "french": "Une femme dangereuse"
+    },
+    {
+      "id": "B019-S091",
+      "english": "A Single Rose",
+      "french": "Une seule rose"
+    },
+    {
+      "id": "B019-S092",
+      "english": "Zealous Alumen",
+      "french": "Alumen le fervent"
+    },
+    {
+      "id": "B019-S093",
+      "english": "The Left Arm of Flames",
+      "french": "Bras gauche des flammes"
+    },
+    {
+      "id": "B019-S094",
+      "english": "The Right Arm of Storms",
+      "french": "Bras droit des tempêtes"
+    },
+    {
+      "id": "B019-S095",
+      "english": "The Power Within",
+      "french": "Puissance intérieure"
+    },
+    {
+      "id": "B019-S096",
+      "english": "I'm gonna squash you!",
+      "french": "Je vais t’écraser !"
+    },
+    {
+      "id": "B019-S097",
+      "english": "No more...",
+      "french": "Ça suffit..."
+    },
+    {
+      "id": "B019-S098",
+      "english": "How could this be!?",
+      "french": "Comment est-ce possible !?"
+    },
+    {
+      "id": "B019-S099",
+      "english": "Flickering Flames",
+      "french": "Flammes vacillantes"
+    },
+    {
+      "id": "B019-S100",
+      "english": "Three, two, one...",
+      "french": "Trois, deux, un..."
+    },
+    {
+      "id": "B019-S101",
+      "english": "Burn-out...",
+      "french": "Consumation..."
+    },
+    {
+      "id": "B019-S102",
+      "english": "Drop Attack Power",
+      "french": "Baisse d’attaque"
+    },
+    {
+      "id": "B019-S103",
+      "english": "Night of the Full Moon",
+      "french": "Nuit de pleine lune"
+    },
+    {
+      "id": "B019-S104",
+      "english": "Resurrection!",
+      "french": "Résurrection !"
+    },
+    {
+      "id": "B019-S105",
+      "english": "Crescent Moon",
+      "french": "Croissant de lune"
+    },
+    {
+      "id": "B019-S106",
+      "english": "Medication",
+      "french": "Médication"
+    },
+    {
+      "id": "B019-S107",
+      "english": "Nutrients",
+      "french": "Nutriments"
+    },
+    {
+      "id": "B019-S108",
+      "english": "Natural Disaster",
+      "french": "Catastrophe naturelle"
+    },
+    {
+      "id": "B019-S109",
+      "english": "Zwoooomph!",
+      "french": "Vrouuum !"
+    },
+    {
+      "id": "B019-S110",
+      "english": "Hee hee hee... Heeheeheehee!",
+      "french": "Hi hi hi... Hihihihi !"
+    },
+    {
+      "id": "B019-S112",
+      "english": "Sparkling Heavens",
+      "french": "Cieux étincelants"
+    },
+    {
+      "id": "B019-S113",
+      "english": "Raging Heavens",
+      "french": "Cieux déchaînés"
+    },
+    {
+      "id": "B019-S114",
+      "english": "Eeek, eeek!",
+      "french": "Hiii, hiii !"
+    },
+    {
+      "id": "B019-S115",
+      "english": "Don's Hospitality",
+      "french": "Hospitalité du Don"
+    },
+    {
+      "id": "B019-S116",
+      "english": "Don's Nomination",
+      "french": "Désignation du Don"
+    },
+    {
+      "id": "B019-S117",
+      "english": "Don's Kindness",
+      "french": "Bonté du Don"
+    },
+    {
+      "id": "B019-S118",
+      "english": "Dark Mist",
+      "french": "Brume sombre"
+    },
+    {
+      "id": "B019-S119",
+      "english": "A grudge, I do bear...",
+      "french": "J’ai tant de rancœur..."
+    },
+    {
+      "id": "B019-S120",
+      "english": "It hurts so much...",
+      "french": "Ça fait si mal..."
+    },
+    {
+      "id": "B019-S121",
+      "english": "Nap-time",
+      "french": "L’heure de la sieste"
+    },
+    {
+      "id": "B019-S122",
+      "english": "Big Yawn",
+      "french": "Grand bâillement"
+    },
+    {
+      "id": "B019-S123",
+      "english": "Slippery-sloops",
+      "french": "Glissade gluante"
+    },
+    {
+      "id": "B019-S124",
+      "english": "Noomph!",
+      "french": "Nompf !"
+    },
+    {
+      "id": "B019-S125",
+      "english": "Foot binding",
+      "french": "Pieds bandés"
+    },
+    {
+      "id": "B019-S126",
+      "english": "Talking",
+      "french": "Bavardage"
+    },
+    {
+      "id": "B019-S127",
+      "english": "Baptism in the Darkness",
+      "french": "Baptême des ténèbres"
+    },
+    {
+      "id": "B019-S128",
+      "english": "Droplets of Darkness",
+      "french": "Gouttes de ténèbres"
+    },
+    {
+      "id": "B019-S130",
+      "english": "I'm gonna eat you up!",
+      "french": "Je vais te dévorer !"
+    },
+    {
+      "id": "B019-S131",
+      "english": "Voodoo Doll",
+      "french": "Poupée vaudou"
+    },
+    {
+      "id": "B019-S132",
+      "english": "Communing with the Dead",
+      "french": "Communion avec les morts"
+    },
+    {
+      "id": "B019-S133",
+      "english": "Tranquil Beelze",
+      "french": "Beelze le paisible"
+    },
+    {
+      "id": "B019-S134",
+      "english": "Beelze's Sigh",
+      "french": "Soupir de Beelze"
+    },
+    {
+      "id": "B019-S135",
+      "english": "Flutter of Fear",
+      "french": "Frisson d’effroi"
+    },
+    {
+      "id": "B019-S136",
+      "english": "Beelze's Gift",
+      "french": "Don de Beelze"
+    },
+    {
+      "id": "B019-S137",
+      "english": "Intrepid Ash",
+      "french": "Ash l’intrépide"
+    },
+    {
+      "id": "B019-S138",
+      "english": "Ash's Rage",
+      "french": "Rage d’Ash"
+    },
+    {
+      "id": "B019-S139",
+      "english": "The Indomitable Libeza",
+      "french": "Libeza l’indomptable"
+    },
+    {
+      "id": "B019-S140",
+      "english": "The Moment Fear Strikes",
+      "french": "L’instant de la peur"
+    },
+    {
+      "id": "B019-S141",
+      "english": "Libeza's Judgment",
+      "french": "Jugement de Libeza"
+    },
+    {
+      "id": "B019-S142",
+      "english": "Sneering Dusa",
+      "french": "Dusa la railleuse"
+    },
+    {
+      "id": "B019-S143",
+      "english": "Terrifying Gaze",
+      "french": "Regard terrifiant"
+    },
+    {
+      "id": "B019-S144",
+      "english": "Dusa's Tears",
+      "french": "Larmes de Dusa"
+    },
+    {
+      "id": "B019-S145",
+      "english": "Silent Lucifel",
+      "french": "Lucifel le silencieux"
+    },
+    {
+      "id": "B019-S146",
+      "english": "Frightening Fingertip",
+      "french": "Doigt de l’effroi"
+    },
+    {
+      "id": "B019-S147",
+      "english": "Lucifel's Rampage",
+      "french": "Carnage de Lucifel"
+    },
+    {
+      "id": "B019-S153",
+      "english": "Spikes",
+      "french": "Pointes"
+    },
+    {
+      "id": "B019-S154",
+      "english": "Wall of Ice",
+      "french": "Mur de glace"
+    },
+    {
+      "id": "B019-S155",
+      "english": "Reido's Droplets",
+      "french": "Gouttes de Reido"
+    },
+    {
+      "id": "B019-S156",
+      "english": "Flames of the Beyond",
+      "french": "Flammes de l’au-delà"
+    },
+    {
+      "id": "B019-S157",
+      "english": "Flinging Poisoned Needles",
+      "french": "Jet d’aiguilles empoisonnées"
+    },
+    {
+      "id": "B019-S158",
+      "english": "Kick Combo",
+      "french": "Coups de pied enchaînés"
+    },
+    {
+      "id": "B019-S159",
+      "english": "Akamaru's Serpent",
+      "french": "Serpent d’Akamaru"
+    },
+    {
+      "id": "B019-S160",
+      "english": "Black Water",
+      "french": "Eau noire"
+    },
+    {
+      "id": "B019-S161",
+      "english": "Missile Water Current",
+      "french": "Courant d’eau missile"
+    },
+    {
+      "id": "B019-S163",
+      "english": "Stats are so unsightly, aren't they?",
+      "french": "Les stats, quelle laideur !"
+    },
+    {
+      "id": "B019-S164",
+      "english": "I am a gourmand!",
+      "french": "Je suis un gourmet !"
+    },
+    {
+      "id": "B019-S165",
+      "english": "Magic Skill Dance",
+      "french": "Danse des arts magiques"
+    },
+    {
+      "id": "B019-S166",
+      "english": "You should know it by now!",
+      "french": "Tu devrais le savoir !"
+    },
+    {
+      "id": "B019-S167",
+      "english": "Meaningless Noise",
+      "french": "Bruit dénué de sens"
+    },
+    {
+      "id": "B019-S170",
+      "english": "Pink Soap",
+      "french": "Savon rose"
+    },
+    {
+      "id": "B019-S171",
+      "english": "Purple Soap",
+      "french": "Savon violet"
+    },
+    {
+      "id": "B019-S172",
+      "english": "Black Soap",
+      "french": "Savon noir"
+    },
+    {
+      "id": "B019-S173",
+      "english": "Star Mine",
+      "french": "Mine étoilée"
+    },
+    {
+      "id": "B019-S174",
+      "english": "Red Fireworks",
+      "french": "Feux rouges"
+    },
+    {
+      "id": "B019-S175",
+      "english": "Yellow Fireworks",
+      "french": "Feux jaunes"
+    },
+    {
+      "id": "B019-S176",
+      "english": "Thunder",
+      "french": "Tonnerre"
+    },
+    {
+      "id": "B019-S178",
+      "english": "Right Hand Strike!",
+      "french": "Coup de main droite !"
+    },
+    {
+      "id": "B019-S179",
+      "english": "Hell Sealing Cutter",
+      "french": "Lame qui scelle l’Enfer"
+    },
+    {
+      "id": "B019-S180",
+      "english": "Hell-raising Cutter",
+      "french": "Lame qui déchaîne l’Enfer"
+    },
+    {
+      "id": "B019-S181",
+      "english": "Dark Express",
+      "french": "Express des ténèbres"
+    },
+    {
+      "id": "B019-S182",
+      "english": "Shadow Self",
+      "french": "Double de l’ombre"
+    },
+    {
+      "id": "B019-S183",
+      "english": "Empty Blade",
+      "french": "Lame du vide"
+    },
+    {
+      "id": "B016-S001",
+      "english": "This file is broken.",
+      "french": "Ce fichier est endommagé."
+    },
+    {
+      "id": "B016-S014",
+      "english": "The Ruler of Hell",
+      "french": "Le Souverain des Enfers"
+    }
+  ],
+  "aliases_excluded": {
+    "B009-S001": {
+      "canonical": "B003-S001",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S002": {
+      "canonical": "B003-S002",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S003": {
+      "canonical": "B003-S003",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S004": {
+      "canonical": "B003-S004",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S006": {
+      "canonical": "B003-S006",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S007": {
+      "canonical": "B003-S007",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S008": {
+      "canonical": "B003-S008",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S010": {
+      "canonical": "B003-S010",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S011": {
+      "canonical": "B003-S011",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S012": {
+      "canonical": "B003-S012",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S014": {
+      "canonical": "B003-S014",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S020": {
+      "canonical": "B003-S020",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S022": {
+      "canonical": "B003-S022",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S024": {
+      "canonical": "B003-S024",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S025": {
+      "canonical": "B003-S025",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S028": {
+      "canonical": "B003-S028",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S029": {
+      "canonical": "B003-S029",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S030": {
+      "canonical": "B003-S030",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S031": {
+      "canonical": "B003-S031",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S032": {
+      "canonical": "B003-S032",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S033": {
+      "canonical": "B003-S033",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S034": {
+      "canonical": "B003-S034",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S036": {
+      "canonical": "B003-S036",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S038": {
+      "canonical": "B003-S038",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S039": {
+      "canonical": "B003-S039",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S040": {
+      "canonical": "B003-S040",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S041": {
+      "canonical": "B003-S041",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S042": {
+      "canonical": "B003-S042",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S043": {
+      "canonical": "B003-S043",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S044": {
+      "canonical": "B003-S044",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S045": {
+      "canonical": "B003-S045",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S046": {
+      "canonical": "B003-S046",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S050": {
+      "canonical": "B003-S050",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S051": {
+      "canonical": "B003-S051",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S054": {
+      "canonical": "B003-S054",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S055": {
+      "canonical": "B003-S055",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S056": {
+      "canonical": "B003-S056",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S057": {
+      "canonical": "B003-S057",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S058": {
+      "canonical": "B003-S058",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S059": {
+      "canonical": "B003-S059",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S060": {
+      "canonical": "B003-S060",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S062": {
+      "canonical": "B003-S062",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S063": {
+      "canonical": "B003-S063",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S064": {
+      "canonical": "B003-S064",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S065": {
+      "canonical": "B003-S065",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S066": {
+      "canonical": "B003-S066",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S067": {
+      "canonical": "B003-S067",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S068": {
+      "canonical": "B003-S068",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S069": {
+      "canonical": "B003-S069",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S071": {
+      "canonical": "B003-S071",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S072": {
+      "canonical": "B003-S072",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S073": {
+      "canonical": "B003-S073",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S074": {
+      "canonical": "B003-S074",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S075": {
+      "canonical": "B003-S075",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S076": {
+      "canonical": "B003-S076",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S077": {
+      "canonical": "B003-S077",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S082": {
+      "canonical": "B003-S082",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S084": {
+      "canonical": "B003-S084",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S085": {
+      "canonical": "B003-S085",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S086": {
+      "canonical": "B003-S086",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S087": {
+      "canonical": "B003-S087",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S088": {
+      "canonical": "B003-S088",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S091": {
+      "canonical": "B003-S091",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S092": {
+      "canonical": "B003-S092",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S094": {
+      "canonical": "B003-S094",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S095": {
+      "canonical": "B003-S095",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S109": {
+      "canonical": "B003-S109",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S114": {
+      "canonical": "B003-S114",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S115": {
+      "canonical": "B003-S115",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S117": {
+      "canonical": "B003-S117",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S124": {
+      "canonical": "B003-S124",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S125": {
+      "canonical": "B003-S125",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S145": {
+      "canonical": "B003-S145",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S148": {
+      "canonical": "B003-S148",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S182": {
+      "canonical": "B003-S182",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B009-S190": {
+      "canonical": "B003-S190",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B016-S015": {
+      "canonical": "B014-S075",
+      "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+    },
+    "B008-S012": {
+      "canonical": "B008-S011",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S041": {
+      "canonical": "B008-S037",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S044": {
+      "canonical": "B008-S043",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S045": {
+      "canonical": "B008-S043",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S046": {
+      "canonical": "B008-S043",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S047": {
+      "canonical": "B008-S043",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S048": {
+      "canonical": "B008-S043",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S057": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S058": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S059": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S074": {
+      "canonical": "B008-S073",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S087": {
+      "canonical": "B008-S086",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S088": {
+      "canonical": "B008-S086",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S089": {
+      "canonical": "B008-S086",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S090": {
+      "canonical": "B008-S086",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S092": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S093": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S094": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S095": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S096": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S097": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B008-S105": {
+      "canonical": "B008-S013",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S002": {
+      "canonical": "B010-S001",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S004": {
+      "canonical": "B010-S003",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S006": {
+      "canonical": "B010-S005",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S008": {
+      "canonical": "B010-S007",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S023": {
+      "canonical": "B008-S049",
+      "reason": "Repeated source text, counted once."
+    },
+    "B010-S024": {
+      "canonical": "B008-S050",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S009": {
+      "canonical": "B009-S005",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S013": {
+      "canonical": "B009-S005",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S106": {
+      "canonical": "B009-S105",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S107": {
+      "canonical": "B009-S105",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S112": {
+      "canonical": "B009-S111",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S113": {
+      "canonical": "B009-S111",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S118": {
+      "canonical": "B009-S105",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S127": {
+      "canonical": "B009-S120",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S128": {
+      "canonical": "B009-S121",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S129": {
+      "canonical": "B009-S122",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S139": {
+      "canonical": "B008-S018",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S149": {
+      "canonical": "B009-S021",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S160": {
+      "canonical": "B008-S054",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S161": {
+      "canonical": "B008-S054",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S162": {
+      "canonical": "B008-S054",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S165": {
+      "canonical": "B008-S054",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S166": {
+      "canonical": "B009-S105",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S167": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S168": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S169": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S170": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S171": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S172": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S173": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S174": {
+      "canonical": "B008-S056",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S176": {
+      "canonical": "B009-S116",
+      "reason": "Repeated source text, counted once."
+    },
+    "B009-S188": {
+      "canonical": "B009-S111",
+      "reason": "Repeated source text, counted once."
+    },
+    "B019-S148": {
+      "canonical": "B005-S001",
+      "reason": "Exact source already translated; catalog/help/attack variant excluded."
+    },
+    "B019-S149": {
+      "canonical": "B005-S002",
+      "reason": "Exact source already translated; catalog/help/attack variant excluded."
+    },
+    "B019-S150": {
+      "canonical": "B005-S003",
+      "reason": "Exact source already translated; catalog/help/attack variant excluded."
+    },
+    "B019-S151": {
+      "canonical": "B005-S005",
+      "reason": "Exact source already translated; catalog/help/attack variant excluded."
+    },
+    "B019-S168": {
+      "canonical": "B008-S078",
+      "reason": "Repeated source text, counted once."
+    },
+    "B019-S204": {
+      "canonical": "B019-S104",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B008-S002": {
+      "canonical": "B008-S001",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B008-S038": {
+      "canonical": "B008-S014",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B008-S042": {
+      "canonical": "B008-S028",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B009-S105": {
+      "canonical": "B008-S055",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B009-S126": {
+      "canonical": "B009-S119",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B009-S177": {
+      "canonical": "B009-S017",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B009-S185": {
+      "canonical": "B009-S108",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S019": {
+      "canonical": "B010-S018",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S020": {
+      "canonical": "B010-S018",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S041": {
+      "canonical": "B010-S037",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S042": {
+      "canonical": "B010-S038",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S045": {
+      "canonical": "B010-S037",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S046": {
+      "canonical": "B010-S039",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S047": {
+      "canonical": "B010-S043",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S049": {
+      "canonical": "B010-S037",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S050": {
+      "canonical": "B010-S040",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S051": {
+      "canonical": "B010-S044",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B010-S052": {
+      "canonical": "B010-S048",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B019-S028": {
+      "canonical": "B019-S027",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B019-S029": {
+      "canonical": "B019-S027",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B019-S084": {
+      "canonical": "B019-S082",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B019-S085": {
+      "canonical": "B019-S082",
+      "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+    },
+    "B019-S162": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B008-S078": {
+      "canonical": "B002-S078",
+      "reason": "Existing source family after article/case/line normalization; excluded."
+    },
+    "B008-S098": {
+      "canonical": "B002-S098",
+      "reason": "Existing source family after article/case/line normalization; excluded."
+    },
+    "B008-S107": {
+      "canonical": "B002-S107",
+      "reason": "Existing source family after article/case/line normalization; excluded."
+    },
+    "B008-S108": {
+      "canonical": "B002-S108",
+      "reason": "Existing source family after article/case/line normalization; excluded."
+    },
+    "B008-S109": {
+      "canonical": "B002-S109",
+      "reason": "Existing source family after article/case/line normalization; excluded."
+    },
+    "B019-S048": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S111": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S129": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S152": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S169": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S177": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    },
+    "B019-S187": {
+      "canonical": "unchanged_international_label",
+      "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+    }
+  },
+  "status": "400 distinct newly translated gameplay sources:233 help/save labels and167 ordinary battle action captions; shared variants and unchanged labels excluded. Native consumers and staged PPU paths validated separately from natural branch coverage."
+}

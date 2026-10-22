@@ -1,0 +1,5016 @@
+{
+  "version": "V54_CHECKPOINT",
+  "release_status": "incomplete_lot48_not_published",
+  "input_files_sha256": {
+    "traduction/lot48_fr.json": "409f9fdfd8119140adade2d827df732f6a812e99e8632e02045b7fc9d47f8977",
+    "verification/aliases_lot48.json": "d82b3bff652929ffa5a45ed09100049e85d01856207af0ed722c9daf00f296d4",
+    "verification/layout_contracts_lot48.json": "7f735797205419d84cc566a8bd5d51d46dd8bf59e43f847b4f969f5308ee722b",
+    "tools/build_lot48_checkpoint.py": "7e1f3b2db8d5c0e1a0b4b37ac9a37a6d5867af93d29ff57b41e4b75f3cde0395"
+  },
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "output_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "baseline_v53_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "baseline_rows_preserved": 5961,
+  "v53_outside_authorized_spans_preserved": true,
+  "new_bounded_occurrences": 573,
+  "new_distinct_bounded_sources": 400,
+  "native_month_sources": 0,
+  "new_distinct_texts_total_prepared": 400,
+  "runtime_validation": "pending",
+  "engine_checks": 7363,
+  "native_lookup_validation": "passed",
+  "ips_roundtrip": true,
+  "ips_sha256": "7442194a8404d490f1a3f8bf10999492df10ab91d6ecaf8cd902558acb3eec72",
+  "calendar_formats": {
+    "months": [
+      {
+        "id": "CALMONTH-01",
+        "english": "January",
+        "french": "janvier"
+      },
+      {
+        "id": "CALMONTH-02",
+        "english": "February",
+        "french": "février"
+      },
+      {
+        "id": "CALMONTH-03",
+        "english": "March",
+        "french": "mars"
+      },
+      {
+        "id": "CALMONTH-04",
+        "english": "April",
+        "french": "avril"
+      },
+      {
+        "id": "CALMONTH-05",
+        "english": "May",
+        "french": "mai"
+      },
+      {
+        "id": "CALMONTH-06",
+        "english": "June",
+        "french": "juin"
+      },
+      {
+        "id": "CALMONTH-07",
+        "english": "July",
+        "french": "juillet"
+      },
+      {
+        "id": "CALMONTH-08",
+        "english": "August",
+        "french": "août"
+      },
+      {
+        "id": "CALMONTH-09",
+        "english": "September",
+        "french": "septembre"
+      },
+      {
+        "id": "CALMONTH-10",
+        "english": "October",
+        "french": "octobre"
+      },
+      {
+        "id": "CALMONTH-11",
+        "english": "November",
+        "french": "novembre"
+      },
+      {
+        "id": "CALMONTH-12",
+        "english": "December",
+        "french": "décembre"
+      }
+    ],
+    "ordinal_forms": [
+      {
+        "value": 1,
+        "english": "st",
+        "french": "er"
+      },
+      {
+        "value": 2,
+        "english": "nd",
+        "french": "e "
+      },
+      {
+        "value": 3,
+        "english": "rd",
+        "french": "e "
+      },
+      {
+        "value": 4,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 5,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 6,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 7,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 8,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 9,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 10,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 11,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 12,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 13,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 14,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 15,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 16,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 17,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 18,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 19,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 20,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 21,
+        "english": "st",
+        "french": "e "
+      },
+      {
+        "value": 22,
+        "english": "nd",
+        "french": "e "
+      },
+      {
+        "value": 23,
+        "english": "rd",
+        "french": "e "
+      },
+      {
+        "value": 24,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 25,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 26,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 27,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 28,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 29,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 30,
+        "english": "th",
+        "french": "e "
+      },
+      {
+        "value": 31,
+        "english": "st",
+        "french": "e "
+      }
+    ],
+    "counting": "12 month source strings; ordinal-format variants and the code repair are not counted as new texts.",
+    "changed_spans": [
+      [
+        "0x6f1f00",
+        "0x6f1f10"
+      ],
+      [
+        "0x6f1f10",
+        "0x6f1f20"
+      ],
+      [
+        "0x6f1f20",
+        "0x6f1f30"
+      ],
+      [
+        "0x6f1f30",
+        "0x6f1f40"
+      ],
+      [
+        "0x6f1f40",
+        "0x6f1f50"
+      ],
+      [
+        "0x6f1f50",
+        "0x6f1f60"
+      ],
+      [
+        "0x6f1f60",
+        "0x6f1f70"
+      ],
+      [
+        "0x6f1f70",
+        "0x6f1f80"
+      ],
+      [
+        "0x6f1f80",
+        "0x6f1f90"
+      ],
+      [
+        "0x6f1f90",
+        "0x6f1fa0"
+      ],
+      [
+        "0x6f1fa0",
+        "0x6f1fb0"
+      ],
+      [
+        "0x6f1fb0",
+        "0x6f1fc0"
+      ],
+      [
+        "0x6d3c16",
+        "0x6d3c17"
+      ],
+      [
+        "0x6f1e70",
+        "0x6f1eae"
+      ]
+    ],
+    "month_bug": "Original decimal10/11/12 all read November; two-digit arm now reads its second digit.",
+    "scope": "Leaf formatting under valid calendar domains only. Producer binding, actual dates and event timing require separate validation."
+  },
+  "calendar_ui": {
+    "offset": "0xecdb",
+    "length": 120,
+    "used_bytes": 120,
+    "slack_bytes": 0,
+    "padding_bytes_in_strings": 6,
+    "rendered_labels": [
+      "Biorythme ",
+      " Quel jour est-on ?     ",
+      " Ce jour dans le passé :",
+      "Phys.",
+      "Esprit",
+      "Humeur",
+      "Dates clés"
+    ],
+    "field_widths_pixels": [
+      48,
+      104,
+      104,
+      24,
+      32,
+      40,
+      64
+    ],
+    "next_descriptor_offset": "0xed53",
+    "entries": [
+      {
+        "id": "CALUI-01",
+        "english": "Biorhythm",
+        "french": "Biorythme"
+      },
+      {
+        "id": "CALUI-02",
+        "english": " What day is it today?",
+        "french": " Quel jour est-on ?"
+      },
+      {
+        "id": "CALUI-03",
+        "english": " On this day in history:",
+        "french": " Ce jour dans le passé :"
+      },
+      {
+        "id": "CALUI-04",
+        "english": "Body",
+        "french": "Phys."
+      },
+      {
+        "id": "CALUI-05",
+        "english": "Wisdom",
+        "french": "Esprit"
+      },
+      {
+        "id": "CALUI-06",
+        "english": "Feelings",
+        "french": "Humeur"
+      },
+      {
+        "id": "CALUI-07",
+        "english": "Notable Days",
+        "french": "Dates clés"
+      }
+    ],
+    "headers_preserved": [
+      "fe020506",
+      "fe04120d",
+      "fe04170d",
+      "fe010803",
+      "fe010a04",
+      "fe010c05",
+      "fe020f08"
+    ],
+    "scope": "Sequential native label stream; display and placement require same-ROM Almanac test."
+  },
+  "startup_edits": [
+    {
+      "offset": "0xf140",
+      "length": 30,
+      "encoding": "ascii",
+      "english": "THE BACKUP DATA ISN'T WORKING.",
+      "french": "SAUVEGARDE INUTILISABLE.",
+      "source_hex": "544845204241434b555020444154412049534e275420574f524b494e472e",
+      "modified_hex": "5341555645474152444520494e5554494c495341424c452e202020202020"
+    },
+    {
+      "offset": "0xf160",
+      "length": 19,
+      "encoding": "ascii",
+      "english": "PRESS THE A BUTTON.",
+      "french": "APPUYEZ SUR A.",
+      "source_hex": "505245535320544845204120425554544f4e2e",
+      "modified_hex": "4150505559455a2053555220412e2020202020"
+    },
+    {
+      "offset": "0xf175",
+      "length": 19,
+      "encoding": "ascii",
+      "english": "PRESS THE B BUTTON.",
+      "french": "APPUYEZ SUR B.",
+      "source_hex": "505245535320544845204220425554544f4e2e",
+      "modified_hex": "4150505559455a2053555220422e2020202020"
+    },
+    {
+      "offset": "0xf18a",
+      "length": 17,
+      "encoding": "ascii",
+      "english": "RESET THE SYSTEM.",
+      "french": "REINITIALISEZ.",
+      "source_hex": "5245534554205448452053595354454d2e",
+      "modified_hex": "5245494e495449414c4953455a2e202020"
+    },
+    {
+      "offset": "0xff022",
+      "length": 26,
+      "encoding": "ascii",
+      "english": "SPC7110 CHECK PROGRAM V2.2",
+      "french": "SPC7110 CONTROLE MEM. V2.2",
+      "source_hex": "5350433731313020434845434b2050524f4752414d2056322e32",
+      "modified_hex": "5350433731313020434f4e54524f4c45204d454d2e2056322e32"
+    },
+    {
+      "offset": "0xff044",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "REG INIT",
+      "french": "INIT REG",
+      "source_hex": "52454720494e4954",
+      "modified_hex": "494e495420524547"
+    },
+    {
+      "offset": "0xff04d",
+      "length": 14,
+      "encoding": "ascii",
+      "english": "S-RAM DATA BUS",
+      "french": "SRAM BUS DONN.",
+      "source_hex": "532d52414d204441544120425553",
+      "modified_hex": "5352414d2042555320444f4e4e2e"
+    },
+    {
+      "offset": "0xff05c",
+      "length": 14,
+      "encoding": "ascii",
+      "english": "S-RAM ADDR BUS",
+      "french": "SRAM BUS ADR.",
+      "source_hex": "532d52414d204144445220425553",
+      "modified_hex": "5352414d20425553204144522e20"
+    },
+    {
+      "offset": "0xff06b",
+      "length": 9,
+      "encoding": "ascii",
+      "english": "S-RAM R/W",
+      "french": "SRAM L/E",
+      "source_hex": "532d52414d20522f57",
+      "modified_hex": "5352414d204c2f4520"
+    },
+    {
+      "offset": "0xff075",
+      "length": 10,
+      "encoding": "ascii",
+      "english": "D-PORT ACC",
+      "french": "ACC.PORT D",
+      "source_hex": "442d504f525420414343",
+      "modified_hex": "4143432e504f52542044"
+    },
+    {
+      "offset": "0xff088",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "C-LENGTH",
+      "french": "LONGUEUR",
+      "source_hex": "432d4c454e475448",
+      "modified_hex": "4c4f4e4755455552"
+    },
+    {
+      "offset": "0xff091",
+      "length": 12,
+      "encoding": "ascii",
+      "english": "D-PORT B+O+S",
+      "french": "PORT D B+O+S",
+      "source_hex": "442d504f525420422b4f2b53",
+      "modified_hex": "504f5254204420422b4f2b53"
+    },
+    {
+      "offset": "0xff09e",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "RTC TIME",
+      "french": "H. RTC",
+      "source_hex": "5254432054494d45",
+      "modified_hex": "482e205254432020"
+    },
+    {
+      "offset": "0xff0ae",
+      "length": 10,
+      "encoding": "ascii",
+      "english": "RTC BACKUP",
+      "french": "SAUV. RTC",
+      "source_hex": "525443204241434b5550",
+      "modified_hex": "534155562e2052544320"
+    },
+    {
+      "offset": "0xff0b9",
+      "length": 12,
+      "encoding": "ascii",
+      "english": "S-RAM BACKUP",
+      "french": "SAUV. SRAM",
+      "source_hex": "532d52414d204241434b5550",
+      "modified_hex": "534155562e205352414d2020"
+    },
+    {
+      "offset": "0xff0c6",
+      "length": 7,
+      "encoding": "ascii",
+      "english": "ON TEST",
+      "french": "EN TEST",
+      "source_hex": "4f4e2054455354",
+      "modified_hex": "454e2054455354"
+    },
+    {
+      "offset": "0xff0ce",
+      "length": 8,
+      "encoding": "ascii",
+      "english": "COMPLETE",
+      "french": "TERMINE",
+      "source_hex": "434f4d504c455445",
+      "modified_hex": "5445524d494e4520"
+    },
+    {
+      "offset": "0xff0d7",
+      "length": 9,
+      "encoding": "ascii",
+      "english": "ID DETECT",
+      "french": "DETECT ID",
+      "source_hex": "494420444554454354",
+      "modified_hex": "444554454354204944"
+    },
+    {
+      "offset": "0xff0e4",
+      "length": 2,
+      "encoding": "ascii",
+      "english": "NG",
+      "french": "KO",
+      "source_hex": "4e47",
+      "modified_hex": "4b4f"
+    },
+    {
+      "offset": "0xeb25",
+      "length": 13,
+      "encoding": "native",
+      "english": "Is this okay?",
+      "french": "C'est bon ?",
+      "source_hex": "38622063575862205e5a50682e",
+      "modified_hex": "321654626320515e5d202e2020"
+    },
+    {
+      "offset": "0xeb37",
+      "length": 3,
+      "encoding": "native",
+      "english": "Yes",
+      "french": "Oui",
+      "source_hex": "485462",
+      "modified_hex": "3e6458"
+    },
+    {
+      "offset": "0xf1d4",
+      "length": 33,
+      "encoding": "native",
+      "english": "Enter your birthday and the year.",
+      "french": "Date de naissance (mois-jour-an)",
+      "source_hex": "345d63546120685e646120515861635753506820505d532063575420685450611d",
+      "modified_hex": "33506354205354205d50586262505d525420175c5e58621c595e64611c505d1820"
+    },
+    {
+      "offset": "0xf1fd",
+      "length": 38,
+      "encoding": "native",
+      "english": "Press up and down on the direction pad",
+      "french": "Utilise les directions Haut et Bas",
+      "source_hex": "3f6154626220645f20505d5320535e665d205e5d2063575420535861545263585e5d205f5053",
+      "modified_hex": "4463585b586254205b546220535861545263585e5d6220375064632054632031506220202020"
+    },
+    {
+      "offset": "0xf228",
+      "length": 21,
+      "encoding": "native",
+      "english": "to change the number.",
+      "french": "pour le modifier.",
+      "source_hex": "635e205257505d565420635754205d645c5154611d",
+      "modified_hex": "5f5e6461205b54205c5e5358555854611d20202020"
+    },
+    {
+      "offset": "0xf242",
+      "length": 30,
+      "encoding": "native",
+      "english": "Press the A Button to confirm.",
+      "french": "Appuie sur A pour valider.",
+      "source_hex": "3f6154626220635754203020316463635e5d20635e20525e5d5558615c1d",
+      "modified_hex": "305f5f645854206264612030205f5e64612065505b585354611d20202020"
+    },
+    {
+      "offset": "0x6d2511",
+      "length": 32,
+      "encoding": "native",
+      "english": "Enter the current date and time.",
+      "french": "Règle la date et l'heure.",
+      "source_hex": "345d635461206357542052646161545d63205350635420505d532063585c541d",
+      "modified_hex": "41aa565b54205b502053506354205463205b1657546461541d20202020202020"
+    },
+    {
+      "offset": "0x6d2536",
+      "length": 38,
+      "encoding": "native",
+      "english": "(Month, day, year, and A.M./P.M. time)",
+      "french": "(Mois, jour, année ; heure AM/PM)",
+      "source_hex": "173c5e5d63571b205350681b20685450611b20505d5320301d3c1d1e3f1d3c1d2063585c5418",
+      "modified_hex": "173c5e58621b20595e64611b20505d5da954202a20575464615420303c1e3f3c182020202020"
+    },
+    {
+      "offset": "0x6d2561",
+      "length": 38,
+      "encoding": "native",
+      "english": "Press up and down on the direction pad",
+      "french": "Utilise les directions Haut et Bas",
+      "source_hex": "3f6154626220645f20505d5320535e665d205e5d2063575420535861545263585e5d205f5053",
+      "modified_hex": "4463585b586254205b546220535861545263585e5d6220375064632054632031506220202020"
+    },
+    {
+      "offset": "0x6d258c",
+      "length": 21,
+      "encoding": "native",
+      "english": "to change the number.",
+      "french": "pour le modifier.",
+      "source_hex": "635e205257505d565420635754205d645c5154611d",
+      "modified_hex": "5f5e6461205b54205c5e5358555854611d20202020"
+    },
+    {
+      "offset": "0x6d25a6",
+      "length": 30,
+      "encoding": "native",
+      "english": "Press the A Button to confirm.",
+      "french": "Appuie sur A pour valider.",
+      "source_hex": "3f6154626220635754203020316463635e5d20635e20525e5d5558615c1d",
+      "modified_hex": "305f5f645854206264612030205f5e64612065505b585354611d20202020"
+    },
+    {
+      "offset": "0xeb3f",
+      "length": 4,
+      "encoding": "native",
+      "english": "No",
+      "french": "Non",
+      "source_hex": "3d5e00ff",
+      "modified_hex": "3d5e5d00",
+      "note": "Consumes one verified FF padding byte; following list terminator stays FF."
+    },
+    {
+      "offset": "0xfe286",
+      "length": 12,
+      "encoding": "diagnostic_tile_stream",
+      "english": "ALL OK",
+      "french": "TOUT OK",
+      "source_hex": "a6a7c2c3c2c31010c400c70d",
+      "modified_hex": "20202020544f5554204f4bff",
+      "note": "Existing ASCII tiles; four leading spaces center the single-row result. No font or executable change."
+    }
+  ],
+  "blocks": [
+    {
+      "block_ids": [
+        2
+      ],
+      "source": "0x600031",
+      "destination": "0x6b0000",
+      "storage": "relocated",
+      "old_size": 1761,
+      "new_size": 2152,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0125",
+        "0x021D",
+        "0x0320",
+        "0x042A",
+        "0x0517",
+        "0x0618"
+      ],
+      "new_relative_offsets": [
+        14,
+        366,
+        668,
+        991,
+        1302,
+        1589,
+        1915
+      ],
+      "translated": 109
+    },
+    {
+      "block_ids": [
+        3
+      ],
+      "source": "0x600712",
+      "destination": "0x6b0870",
+      "storage": "relocated",
+      "old_size": 3179,
+      "new_size": 4067,
+      "old_relative_offsets": [
+        "0x001A",
+        "0x011C",
+        "0x023F",
+        "0x0346",
+        "0x044F",
+        "0x0564",
+        "0x0679",
+        "0x0771",
+        "0x0856",
+        "0x0947",
+        "0x0A45",
+        "0x0B52",
+        "0x0C4A"
+      ],
+      "new_relative_offsets": [
+        26,
+        328,
+        685,
+        1012,
+        1361,
+        1709,
+        2046,
+        2368,
+        2689,
+        3032,
+        3358,
+        3712,
+        4029
+      ],
+      "translated": 194
+    },
+    {
+      "block_ids": [
+        13
+      ],
+      "source": "0x603e4a",
+      "destination": "0x6b1860",
+      "storage": "relocated",
+      "old_size": 482,
+      "new_size": 538,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x00F4",
+        "0x01C8"
+      ],
+      "new_relative_offsets": [
+        6,
+        262,
+        508
+      ],
+      "translated": 34
+    },
+    {
+      "block_ids": [
+        17
+      ],
+      "source": "0x604de8",
+      "destination": "0x6b1a80",
+      "storage": "relocated",
+      "old_size": 8225,
+      "new_size": 8894,
+      "old_relative_offsets": [
+        "0x0018",
+        "0x030D",
+        "0x05B2",
+        "0x0927",
+        "0x0AC2",
+        "0x0D9C",
+        "0x1065",
+        "0x13C4",
+        "0x1615",
+        "0x1917",
+        "0x1BAB",
+        "0x1E1D"
+      ],
+      "new_relative_offsets": [
+        24,
+        776,
+        1485,
+        2376,
+        2804,
+        3660,
+        4430,
+        5352,
+        6029,
+        6854,
+        7564,
+        8295
+      ],
+      "translated": 171
+    },
+    {
+      "block_ids": [
+        18
+      ],
+      "source": "0x606e09",
+      "destination": "0x6b3d40",
+      "storage": "relocated",
+      "old_size": 6778,
+      "new_size": 7496,
+      "old_relative_offsets": [
+        "0x0018",
+        "0x02FB",
+        "0x048E",
+        "0x0731",
+        "0x0921",
+        "0x0B1D",
+        "0x0D03",
+        "0x0FB3",
+        "0x120E",
+        "0x144B",
+        "0x1650",
+        "0x1865"
+      ],
+      "new_relative_offsets": [
+        24,
+        810,
+        1245,
+        1960,
+        2466,
+        3021,
+        3558,
+        4346,
+        5003,
+        5702,
+        6313,
+        6962
+      ],
+      "translated": 147
+    },
+    {
+      "block_ids": [
+        30
+      ],
+      "source": "0x610c5d",
+      "destination": "0x6b5a90",
+      "storage": "relocated",
+      "old_size": 183,
+      "new_size": 213,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        33
+      ],
+      "source": "0x611399",
+      "destination": "0x611399",
+      "storage": "in_place",
+      "old_size": 5224,
+      "new_size": 4501,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x075D"
+      ],
+      "new_relative_offsets": [
+        4,
+        1710
+      ],
+      "translated": 27
+    },
+    {
+      "block_ids": [
+        35
+      ],
+      "source": "0x6129df",
+      "destination": "0x6129df",
+      "storage": "in_place",
+      "old_size": 72,
+      "new_size": 72,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        38
+      ],
+      "source": "0x616ac0",
+      "destination": "0x616ac0",
+      "storage": "in_place",
+      "old_size": 1356,
+      "new_size": 1153,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 15
+    },
+    {
+      "block_ids": [
+        41
+      ],
+      "source": "0x61f0bd",
+      "destination": "0x61f0bd",
+      "storage": "in_place",
+      "old_size": 12404,
+      "new_size": 11654,
+      "old_relative_offsets": [
+        "0x0012",
+        "0x0894",
+        "0x0EAE",
+        "0x14C9",
+        "0x1753",
+        "0x1E0C",
+        "0x26C9",
+        "0x2C65",
+        "0x2F76"
+      ],
+      "new_relative_offsets": [
+        18,
+        1953,
+        3340,
+        4876,
+        5604,
+        7244,
+        9309,
+        10656,
+        11396
+      ],
+      "translated": 130
+    },
+    {
+      "block_ids": [
+        31
+      ],
+      "source": "0x610d14",
+      "destination": "0x610d14",
+      "storage": "in_place",
+      "old_size": 1612,
+      "new_size": 1582,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0616"
+      ],
+      "new_relative_offsets": [
+        4,
+        1531
+      ],
+      "translated": 18
+    },
+    {
+      "block_ids": [
+        37
+      ],
+      "source": "0x612b18",
+      "destination": "0x612b18",
+      "storage": "in_place",
+      "old_size": 16296,
+      "new_size": 14447,
+      "old_relative_offsets": [
+        "0x0010",
+        "0x020F",
+        "0x05B1",
+        "0x0B96",
+        "0x1241",
+        "0x195F",
+        "0x1F24",
+        "0x3416"
+      ],
+      "new_relative_offsets": [
+        16,
+        528,
+        1404,
+        2745,
+        4343,
+        6053,
+        7473,
+        11980
+      ],
+      "translated": 116
+    },
+    {
+      "block_ids": [
+        39
+      ],
+      "source": "0x61700c",
+      "destination": "0x61700c",
+      "storage": "in_place",
+      "old_size": 6822,
+      "new_size": 6120,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x053A",
+        "0x0F27",
+        "0x1831"
+      ],
+      "new_relative_offsets": [
+        8,
+        1265,
+        3580,
+        5577
+      ],
+      "translated": 56
+    },
+    {
+      "block_ids": [
+        40
+      ],
+      "source": "0x618ab2",
+      "destination": "0x618ab2",
+      "storage": "in_place",
+      "old_size": 26123,
+      "new_size": 23909,
+      "old_relative_offsets": [
+        "0x001C",
+        "0x083E",
+        "0x0D43",
+        "0x1438",
+        "0x19CE",
+        "0x2208",
+        "0x2CE6",
+        "0x31A8",
+        "0x3640",
+        "0x3DBA",
+        "0x4633",
+        "0x4F8F",
+        "0x5A7B",
+        "0x615D"
+      ],
+      "new_relative_offsets": [
+        28,
+        1993,
+        3239,
+        4900,
+        6282,
+        8273,
+        10845,
+        11957,
+        13055,
+        14840,
+        16765,
+        18873,
+        21359,
+        22783
+      ],
+      "translated": 222
+    },
+    {
+      "block_ids": [
+        66
+      ],
+      "source": "0x62eb33",
+      "destination": "0x62eb33",
+      "storage": "in_place",
+      "old_size": 20153,
+      "new_size": 19541,
+      "old_relative_offsets": [
+        "0x0012",
+        "0x0E02",
+        "0x1941",
+        "0x2063",
+        "0x28A5",
+        "0x328B",
+        "0x3A0D",
+        "0x40D5",
+        "0x4C10"
+      ],
+      "new_relative_offsets": [
+        18,
+        3413,
+        6255,
+        8019,
+        10157,
+        12622,
+        14600,
+        16271,
+        18913
+      ],
+      "translated": 128
+    },
+    {
+      "block_ids": [
+        132
+      ],
+      "source": "0x6616a7",
+      "destination": "0x6b5b70",
+      "storage": "relocated",
+      "old_size": 20540,
+      "new_size": 20726,
+      "old_relative_offsets": [
+        "0x0014",
+        "0x0923",
+        "0x0E1A",
+        "0x14C4",
+        "0x1E56",
+        "0x26F8",
+        "0x35B7",
+        "0x3D51",
+        "0x469E",
+        "0x4E1A"
+      ],
+      "new_relative_offsets": [
+        20,
+        2349,
+        3598,
+        5202,
+        7677,
+        9965,
+        14048,
+        16077,
+        18315,
+        20181
+      ],
+      "translated": 146
+    },
+    {
+      "block_ids": [
+        56
+      ],
+      "source": "0x62a32b",
+      "destination": "0x62a32b",
+      "storage": "in_place",
+      "old_size": 3972,
+      "new_size": 3805,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x071C"
+      ],
+      "new_relative_offsets": [
+        4,
+        1696
+      ],
+      "translated": 32
+    },
+    {
+      "block_ids": [
+        235
+      ],
+      "source": "0x6a4b93",
+      "destination": "0x6a4b93",
+      "storage": "in_place",
+      "old_size": 8767,
+      "new_size": 8564,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x0A5E",
+        "0x1474",
+        "0x1FFC"
+      ],
+      "new_relative_offsets": [
+        8,
+        2591,
+        5094,
+        7981
+      ],
+      "translated": 56
+    },
+    {
+      "block_ids": [
+        236
+      ],
+      "source": "0x6a6dd2",
+      "destination": "0x6a6dd2",
+      "storage": "in_place",
+      "old_size": 1809,
+      "new_size": 1708,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x06B5"
+      ],
+      "new_relative_offsets": [
+        4,
+        1621
+      ],
+      "translated": 17
+    },
+    {
+      "block_ids": [
+        88
+      ],
+      "source": "0x6407eb",
+      "destination": "0x6407eb",
+      "storage": "in_place",
+      "old_size": 2109,
+      "new_size": 1948,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        95
+      ],
+      "source": "0x646b60",
+      "destination": "0x646b60",
+      "storage": "in_place",
+      "old_size": 26292,
+      "new_size": 25666,
+      "old_relative_offsets": [
+        "0x001A",
+        "0x0A6F",
+        "0x143E",
+        "0x1B93",
+        "0x2415",
+        "0x2A64",
+        "0x3219",
+        "0x3CD0",
+        "0x442B",
+        "0x4BC8",
+        "0x51A8",
+        "0x56A7",
+        "0x6179"
+      ],
+      "new_relative_offsets": [
+        26,
+        2643,
+        5330,
+        7237,
+        9309,
+        10840,
+        12719,
+        15311,
+        17026,
+        18820,
+        20392,
+        21631,
+        24343
+      ],
+      "translated": 202
+    },
+    {
+      "block_ids": [
+        91,
+        92
+      ],
+      "source": "0x641659",
+      "destination": "0x641659",
+      "storage": "in_place",
+      "old_size": 4088,
+      "new_size": 3455,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0685",
+        "0x0E50"
+      ],
+      "new_relative_offsets": [
+        6,
+        1390,
+        3023
+      ],
+      "translated": 35
+    },
+    {
+      "block_ids": [
+        99
+      ],
+      "source": "0x6533ec",
+      "destination": "0x6533ec",
+      "storage": "in_place",
+      "old_size": 2534,
+      "new_size": 2174,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x097A"
+      ],
+      "new_relative_offsets": [
+        4,
+        2097
+      ],
+      "translated": 18
+    },
+    {
+      "block_ids": [
+        102
+      ],
+      "source": "0x6551c6",
+      "destination": "0x6551c6",
+      "storage": "in_place",
+      "old_size": 6515,
+      "new_size": 5969,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x1565"
+      ],
+      "new_relative_offsets": [
+        4,
+        4927
+      ],
+      "translated": 20
+    },
+    {
+      "block_ids": [
+        1
+      ],
+      "source": "0x600000",
+      "destination": "0x6bac70",
+      "storage": "relocated",
+      "old_size": 49,
+      "new_size": 64,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        29
+      ],
+      "source": "0x60d738",
+      "destination": "0x60d738",
+      "storage": "in_place",
+      "old_size": 13605,
+      "new_size": 11804,
+      "old_relative_offsets": [
+        "0x0010",
+        "0x045E",
+        "0x1282",
+        "0x1DEE",
+        "0x23F7",
+        "0x2A91",
+        "0x3053",
+        "0x342E"
+      ],
+      "new_relative_offsets": [
+        16,
+        990,
+        3965,
+        6368,
+        7701,
+        9203,
+        10593,
+        11521
+      ],
+      "translated": 118
+    },
+    {
+      "block_ids": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "source": "0x6221e9",
+      "destination": "0x6221e9",
+      "storage": "in_place",
+      "old_size": 12381,
+      "new_size": 11894,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x0CB0",
+        "0x14C2",
+        "0x1DA2",
+        "0x2805",
+        "0x303C"
+      ],
+      "new_relative_offsets": [
+        12,
+        3111,
+        5157,
+        7260,
+        9826,
+        11857
+      ],
+      "translated": 81
+    },
+    {
+      "block_ids": [
+        49
+      ],
+      "source": "0x625246",
+      "destination": "0x625246",
+      "storage": "in_place",
+      "old_size": 13947,
+      "new_size": 13317,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0A08",
+        "0x115F",
+        "0x1733",
+        "0x1E1E",
+        "0x2216",
+        "0x2A75"
+      ],
+      "new_relative_offsets": [
+        14,
+        2460,
+        4211,
+        5736,
+        7499,
+        8453,
+        10460
+      ],
+      "translated": 108
+    },
+    {
+      "block_ids": [
+        50
+      ],
+      "source": "0x6288c1",
+      "destination": "0x6288c1",
+      "storage": "in_place",
+      "old_size": 3597,
+      "new_size": 3293,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 15
+    },
+    {
+      "block_ids": [
+        51
+      ],
+      "source": "0x6296ce",
+      "destination": "0x6bacb0",
+      "storage": "relocated",
+      "old_size": 147,
+      "new_size": 165,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 2
+    },
+    {
+      "block_ids": [
+        52
+      ],
+      "source": "0x629761",
+      "destination": "0x629761",
+      "storage": "in_place",
+      "old_size": 1186,
+      "new_size": 1121,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        53
+      ],
+      "source": "0x629c03",
+      "destination": "0x6bad60",
+      "storage": "relocated",
+      "old_size": 460,
+      "new_size": 470,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        54
+      ],
+      "source": "0x629dcf",
+      "destination": "0x6baf40",
+      "storage": "relocated",
+      "old_size": 1164,
+      "new_size": 1203,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        55
+      ],
+      "source": "0x62a25b",
+      "destination": "0x62a25b",
+      "storage": "in_place",
+      "old_size": 208,
+      "new_size": 201,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        57
+      ],
+      "source": "0x62b2af",
+      "destination": "0x6bb400",
+      "storage": "relocated",
+      "old_size": 621,
+      "new_size": 669,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        58
+      ],
+      "source": "0x62b51c",
+      "destination": "0x62b51c",
+      "storage": "in_place",
+      "old_size": 4767,
+      "new_size": 4322,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0AE6"
+      ],
+      "new_relative_offsets": [
+        4,
+        2505
+      ],
+      "translated": 29
+    },
+    {
+      "block_ids": [
+        59
+      ],
+      "source": "0x62c7bb",
+      "destination": "0x62c7bb",
+      "storage": "in_place",
+      "old_size": 1966,
+      "new_size": 1849,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 12
+    },
+    {
+      "block_ids": [
+        60
+      ],
+      "source": "0x62cf69",
+      "destination": "0x6bb6a0",
+      "storage": "relocated",
+      "old_size": 876,
+      "new_size": 881,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        61
+      ],
+      "source": "0x62d2d5",
+      "destination": "0x62d2d5",
+      "storage": "in_place",
+      "old_size": 1737,
+      "new_size": 1541,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        62
+      ],
+      "source": "0x62d99e",
+      "destination": "0x62d99e",
+      "storage": "in_place",
+      "old_size": 160,
+      "new_size": 157,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 2
+    },
+    {
+      "block_ids": [
+        63
+      ],
+      "source": "0x62da3e",
+      "destination": "0x62da3e",
+      "storage": "in_place",
+      "old_size": 904,
+      "new_size": 819,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        64,
+        65
+      ],
+      "source": "0x62ddc6",
+      "destination": "0x62ddc6",
+      "storage": "in_place",
+      "old_size": 3437,
+      "new_size": 3247,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0851"
+      ],
+      "new_relative_offsets": [
+        4,
+        1929
+      ],
+      "translated": 26
+    },
+    {
+      "block_ids": [
+        67
+      ],
+      "source": "0x6339ec",
+      "destination": "0x6339ec",
+      "storage": "in_place",
+      "old_size": 4571,
+      "new_size": 4048,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x06E8",
+        "0x0F0D"
+      ],
+      "new_relative_offsets": [
+        6,
+        1561,
+        3458
+      ],
+      "translated": 36
+    },
+    {
+      "block_ids": [
+        68
+      ],
+      "source": "0x634bc7",
+      "destination": "0x634bc7",
+      "storage": "in_place",
+      "old_size": 1088,
+      "new_size": 962,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        69
+      ],
+      "source": "0x635007",
+      "destination": "0x635007",
+      "storage": "in_place",
+      "old_size": 1573,
+      "new_size": 1467,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 13
+    },
+    {
+      "block_ids": [
+        70
+      ],
+      "source": "0x63562c",
+      "destination": "0x63562c",
+      "storage": "in_place",
+      "old_size": 422,
+      "new_size": 372,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        71
+      ],
+      "source": "0x6357d2",
+      "destination": "0x6bba20",
+      "storage": "relocated",
+      "old_size": 3114,
+      "new_size": 3165,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0564"
+      ],
+      "new_relative_offsets": [
+        4,
+        1396
+      ],
+      "translated": 29
+    },
+    {
+      "block_ids": [
+        72
+      ],
+      "source": "0x6363fc",
+      "destination": "0x6363fc",
+      "storage": "in_place",
+      "old_size": 3132,
+      "new_size": 3065,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0C16"
+      ],
+      "new_relative_offsets": [
+        4,
+        3026
+      ],
+      "translated": 17
+    },
+    {
+      "block_ids": [
+        73
+      ],
+      "source": "0x637038",
+      "destination": "0x637038",
+      "storage": "in_place",
+      "old_size": 4777,
+      "new_size": 4174,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 12
+    },
+    {
+      "block_ids": [
+        74
+      ],
+      "source": "0x6382e1",
+      "destination": "0x6382e1",
+      "storage": "in_place",
+      "old_size": 3755,
+      "new_size": 3693,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0C50"
+      ],
+      "new_relative_offsets": [
+        4,
+        3108
+      ],
+      "translated": 19
+    },
+    {
+      "block_ids": [
+        75
+      ],
+      "source": "0x63918c",
+      "destination": "0x63918c",
+      "storage": "in_place",
+      "old_size": 6315,
+      "new_size": 6231,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x072D",
+        "0x0DD7",
+        "0x14DE"
+      ],
+      "new_relative_offsets": [
+        8,
+        1887,
+        3590,
+        5339
+      ],
+      "translated": 59
+    },
+    {
+      "block_ids": [
+        76
+      ],
+      "source": "0x63aa37",
+      "destination": "0x6bc680",
+      "storage": "relocated",
+      "old_size": 432,
+      "new_size": 458,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        77,
+        78
+      ],
+      "source": "0x63abe7",
+      "destination": "0x63abe7",
+      "storage": "in_place",
+      "old_size": 2749,
+      "new_size": 2591,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x08BF"
+      ],
+      "new_relative_offsets": [
+        4,
+        2150
+      ],
+      "translated": 25
+    },
+    {
+      "block_ids": [
+        79
+      ],
+      "source": "0x63b6a4",
+      "destination": "0x6bc850",
+      "storage": "relocated",
+      "old_size": 1521,
+      "new_size": 1582,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 15
+    },
+    {
+      "block_ids": [
+        80
+      ],
+      "source": "0x63bc95",
+      "destination": "0x63bc95",
+      "storage": "in_place",
+      "old_size": 2542,
+      "new_size": 2372,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x049C"
+      ],
+      "new_relative_offsets": [
+        4,
+        1121
+      ],
+      "translated": 31
+    },
+    {
+      "block_ids": [
+        81,
+        82
+      ],
+      "source": "0x63c683",
+      "destination": "0x6bce80",
+      "storage": "relocated",
+      "old_size": 90,
+      "new_size": 97,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 2
+    },
+    {
+      "block_ids": [
+        83
+      ],
+      "source": "0x63c6dd",
+      "destination": "0x63c6dd",
+      "storage": "in_place",
+      "old_size": 2439,
+      "new_size": 2405,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x05D0"
+      ],
+      "new_relative_offsets": [
+        4,
+        1491
+      ],
+      "translated": 24
+    },
+    {
+      "block_ids": [
+        84
+      ],
+      "source": "0x63d064",
+      "destination": "0x6bcef0",
+      "storage": "relocated",
+      "old_size": 3366,
+      "new_size": 3375,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 16
+    },
+    {
+      "block_ids": [
+        85
+      ],
+      "source": "0x63dd8a",
+      "destination": "0x63dd8a",
+      "storage": "in_place",
+      "old_size": 3222,
+      "new_size": 2969,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        86
+      ],
+      "source": "0x63ea20",
+      "destination": "0x63ea20",
+      "storage": "in_place",
+      "old_size": 4926,
+      "new_size": 4040,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0822",
+        "0x0F49"
+      ],
+      "new_relative_offsets": [
+        6,
+        1645,
+        3169
+      ],
+      "translated": 44
+    },
+    {
+      "block_ids": [
+        87
+      ],
+      "source": "0x63fd5e",
+      "destination": "0x63fd5e",
+      "storage": "in_place",
+      "old_size": 2701,
+      "new_size": 2597,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 15
+    },
+    {
+      "block_ids": [
+        89
+      ],
+      "source": "0x641028",
+      "destination": "0x641028",
+      "storage": "in_place",
+      "old_size": 404,
+      "new_size": 386,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        90
+      ],
+      "source": "0x6411bc",
+      "destination": "0x6411bc",
+      "storage": "in_place",
+      "old_size": 1181,
+      "new_size": 1133,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        93
+      ],
+      "source": "0x642651",
+      "destination": "0x642651",
+      "storage": "in_place",
+      "old_size": 14623,
+      "new_size": 13972,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x086C",
+        "0x0F4E",
+        "0x1D64",
+        "0x26CF",
+        "0x33C9"
+      ],
+      "new_relative_offsets": [
+        12,
+        2067,
+        3899,
+        7120,
+        9416,
+        12619
+      ],
+      "translated": 92
+    },
+    {
+      "block_ids": [
+        94
+      ],
+      "source": "0x645f70",
+      "destination": "0x645f70",
+      "storage": "in_place",
+      "old_size": 3056,
+      "new_size": 2533,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x081F"
+      ],
+      "new_relative_offsets": [
+        4,
+        1692
+      ],
+      "translated": 24
+    },
+    {
+      "block_ids": [
+        96
+      ],
+      "source": "0x64d214",
+      "destination": "0x64d214",
+      "storage": "in_place",
+      "old_size": 9417,
+      "new_size": 7963,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x0E8E",
+        "0x16AD",
+        "0x1D11"
+      ],
+      "new_relative_offsets": [
+        8,
+        2880,
+        4876,
+        6410
+      ],
+      "translated": 64
+    },
+    {
+      "block_ids": [
+        97
+      ],
+      "source": "0x64f6dd",
+      "destination": "0x64f6dd",
+      "storage": "in_place",
+      "old_size": 14931,
+      "new_size": 13766,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0904",
+        "0x131B",
+        "0x1DAD",
+        "0x23D2",
+        "0x2CB2",
+        "0x3491"
+      ],
+      "new_relative_offsets": [
+        14,
+        2109,
+        4691,
+        7050,
+        8463,
+        10577,
+        12369
+      ],
+      "translated": 109
+    },
+    {
+      "block_ids": [
+        98
+      ],
+      "source": "0x653130",
+      "destination": "0x653130",
+      "storage": "in_place",
+      "old_size": 700,
+      "new_size": 641,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        100
+      ],
+      "source": "0x653dd2",
+      "destination": "0x653dd2",
+      "storage": "in_place",
+      "old_size": 2398,
+      "new_size": 2358,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0812"
+      ],
+      "new_relative_offsets": [
+        4,
+        2020
+      ],
+      "translated": 18
+    },
+    {
+      "block_ids": [
+        101
+      ],
+      "source": "0x654730",
+      "destination": "0x654730",
+      "storage": "in_place",
+      "old_size": 2710,
+      "new_size": 2354,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        103,
+        104,
+        105
+      ],
+      "source": "0x656b39",
+      "destination": "0x6bdc20",
+      "storage": "relocated",
+      "old_size": 341,
+      "new_size": 343,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        106
+      ],
+      "source": "0x656c8e",
+      "destination": "0x656c8e",
+      "storage": "in_place",
+      "old_size": 3373,
+      "new_size": 3133,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x05E5",
+        "0x0CEB"
+      ],
+      "new_relative_offsets": [
+        6,
+        1416,
+        3075
+      ],
+      "translated": 34
+    },
+    {
+      "block_ids": [
+        107
+      ],
+      "source": "0x6579bb",
+      "destination": "0x6579bb",
+      "storage": "in_place",
+      "old_size": 2764,
+      "new_size": 2509,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x08D5"
+      ],
+      "new_relative_offsets": [
+        4,
+        2053
+      ],
+      "translated": 25
+    },
+    {
+      "block_ids": [
+        108
+      ],
+      "source": "0x658487",
+      "destination": "0x658487",
+      "storage": "in_place",
+      "old_size": 3172,
+      "new_size": 3013,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0621",
+        "0x0A64"
+      ],
+      "new_relative_offsets": [
+        6,
+        1472,
+        2528
+      ],
+      "translated": 37
+    },
+    {
+      "block_ids": [
+        109
+      ],
+      "source": "0x6590eb",
+      "destination": "0x6590eb",
+      "storage": "in_place",
+      "old_size": 1078,
+      "new_size": 959,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        110
+      ],
+      "source": "0x659521",
+      "destination": "0x659521",
+      "storage": "in_place",
+      "old_size": 1118,
+      "new_size": 1001,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        111
+      ],
+      "source": "0x65997f",
+      "destination": "0x65997f",
+      "storage": "in_place",
+      "old_size": 903,
+      "new_size": 859,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        112
+      ],
+      "source": "0x659d06",
+      "destination": "0x659d06",
+      "storage": "in_place",
+      "old_size": 1929,
+      "new_size": 1773,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 14
+    },
+    {
+      "block_ids": [
+        113,
+        114
+      ],
+      "source": "0x65a48f",
+      "destination": "0x65a48f",
+      "storage": "in_place",
+      "old_size": 1304,
+      "new_size": 1226,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 12
+    },
+    {
+      "block_ids": [
+        115,
+        116
+      ],
+      "source": "0x65a9a7",
+      "destination": "0x65a9a7",
+      "storage": "in_place",
+      "old_size": 243,
+      "new_size": 239,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        117
+      ],
+      "source": "0x65aa9a",
+      "destination": "0x65aa9a",
+      "storage": "in_place",
+      "old_size": 1783,
+      "new_size": 1779,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        118
+      ],
+      "source": "0x65b191",
+      "destination": "0x6bdd80",
+      "storage": "relocated",
+      "old_size": 3003,
+      "new_size": 3101,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0620"
+      ],
+      "new_relative_offsets": [
+        4,
+        1582
+      ],
+      "translated": 27
+    },
+    {
+      "block_ids": [
+        119,
+        120
+      ],
+      "source": "0x65bd4c",
+      "destination": "0x6be9a0",
+      "storage": "relocated",
+      "old_size": 765,
+      "new_size": 780,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        121
+      ],
+      "source": "0x65c049",
+      "destination": "0x6becb0",
+      "storage": "relocated",
+      "old_size": 1180,
+      "new_size": 1194,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        122
+      ],
+      "source": "0x65c4e5",
+      "destination": "0x65c4e5",
+      "storage": "in_place",
+      "old_size": 2106,
+      "new_size": 2063,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 13
+    },
+    {
+      "block_ids": [
+        123
+      ],
+      "source": "0x65cd1f",
+      "destination": "0x6bf160",
+      "storage": "relocated",
+      "old_size": 403,
+      "new_size": 434,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 2
+    },
+    {
+      "block_ids": [
+        124
+      ],
+      "source": "0x65ceb2",
+      "destination": "0x65ceb2",
+      "storage": "in_place",
+      "old_size": 4189,
+      "new_size": 4017,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x06CE",
+        "0x0DFA"
+      ],
+      "new_relative_offsets": [
+        6,
+        1682,
+        3443
+      ],
+      "translated": 37
+    },
+    {
+      "block_ids": [
+        125
+      ],
+      "source": "0x65df0f",
+      "destination": "0x65df0f",
+      "storage": "in_place",
+      "old_size": 1063,
+      "new_size": 982,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        126
+      ],
+      "source": "0x65e336",
+      "destination": "0x6bf320",
+      "storage": "relocated",
+      "old_size": 1241,
+      "new_size": 1265,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        127
+      ],
+      "source": "0x65e80f",
+      "destination": "0x6bf820",
+      "storage": "relocated",
+      "old_size": 2387,
+      "new_size": 2420,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0616"
+      ],
+      "new_relative_offsets": [
+        4,
+        1640
+      ],
+      "translated": 20
+    },
+    {
+      "block_ids": [
+        128
+      ],
+      "source": "0x65f162",
+      "destination": "0x65f162",
+      "storage": "in_place",
+      "old_size": 1442,
+      "new_size": 1383,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 14
+    },
+    {
+      "block_ids": [
+        129
+      ],
+      "source": "0x65f704",
+      "destination": "0x65f704",
+      "storage": "in_place",
+      "old_size": 2154,
+      "new_size": 2091,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0805"
+      ],
+      "new_relative_offsets": [
+        4,
+        1992
+      ],
+      "translated": 17
+    },
+    {
+      "block_ids": [
+        130
+      ],
+      "source": "0x65ff6e",
+      "destination": "0x65ff6e",
+      "storage": "in_place",
+      "old_size": 3853,
+      "new_size": 3574,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0839"
+      ],
+      "new_relative_offsets": [
+        4,
+        1952
+      ],
+      "translated": 22
+    },
+    {
+      "block_ids": [
+        131
+      ],
+      "source": "0x660e7b",
+      "destination": "0x660e7b",
+      "storage": "in_place",
+      "old_size": 2092,
+      "new_size": 1988,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 13
+    },
+    {
+      "block_ids": [
+        133
+      ],
+      "source": "0x6666e3",
+      "destination": "0x6666e3",
+      "storage": "in_place",
+      "old_size": 3282,
+      "new_size": 3132,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x04C1"
+      ],
+      "new_relative_offsets": [
+        4,
+        1157
+      ],
+      "translated": 31
+    },
+    {
+      "block_ids": [
+        134
+      ],
+      "source": "0x6673b5",
+      "destination": "0x6673b5",
+      "storage": "in_place",
+      "old_size": 1290,
+      "new_size": 1213,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        135
+      ],
+      "source": "0x6678bf",
+      "destination": "0x6678bf",
+      "storage": "in_place",
+      "old_size": 1957,
+      "new_size": 1879,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        136
+      ],
+      "source": "0x668064",
+      "destination": "0x668064",
+      "storage": "in_place",
+      "old_size": 4027,
+      "new_size": 3639,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0E45"
+      ],
+      "new_relative_offsets": [
+        4,
+        3335
+      ],
+      "translated": 17
+    },
+    {
+      "block_ids": [
+        137
+      ],
+      "source": "0x66901f",
+      "destination": "0x66901f",
+      "storage": "in_place",
+      "old_size": 1169,
+      "new_size": 1072,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        138
+      ],
+      "source": "0x6694b0",
+      "destination": "0x6694b0",
+      "storage": "in_place",
+      "old_size": 1167,
+      "new_size": 1073,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        139
+      ],
+      "source": "0x66993f",
+      "destination": "0x66993f",
+      "storage": "in_place",
+      "old_size": 7656,
+      "new_size": 6674,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x09B1",
+        "0x0EE1",
+        "0x16FA"
+      ],
+      "new_relative_offsets": [
+        8,
+        2080,
+        3180,
+        5089
+      ],
+      "translated": 59
+    },
+    {
+      "block_ids": [
+        140
+      ],
+      "source": "0x66b727",
+      "destination": "0x66b727",
+      "storage": "in_place",
+      "old_size": 6009,
+      "new_size": 5731,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x0883",
+        "0x0C76",
+        "0x1252"
+      ],
+      "new_relative_offsets": [
+        8,
+        2096,
+        3119,
+        4545
+      ],
+      "translated": 63
+    },
+    {
+      "block_ids": [
+        141,
+        142
+      ],
+      "source": "0x66cea0",
+      "destination": "0x66cea0",
+      "storage": "in_place",
+      "old_size": 2046,
+      "new_size": 1821,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0516"
+      ],
+      "new_relative_offsets": [
+        4,
+        1139
+      ],
+      "translated": 21
+    },
+    {
+      "block_ids": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "source": "0x66d69e",
+      "destination": "0x66d69e",
+      "storage": "in_place",
+      "old_size": 81,
+      "new_size": 63,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        147,
+        148
+      ],
+      "source": "0x66d6ef",
+      "destination": "0x6c01a0",
+      "storage": "relocated",
+      "old_size": 76,
+      "new_size": 90,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        149
+      ],
+      "source": "0x66d73b",
+      "destination": "0x66d73b",
+      "storage": "in_place",
+      "old_size": 2749,
+      "new_size": 2708,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 16
+    },
+    {
+      "block_ids": [
+        150
+      ],
+      "source": "0x66e1f8",
+      "destination": "0x6c0200",
+      "storage": "relocated",
+      "old_size": 214,
+      "new_size": 234,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        151
+      ],
+      "source": "0x66e2ce",
+      "destination": "0x66e2ce",
+      "storage": "in_place",
+      "old_size": 933,
+      "new_size": 862,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 5
+    },
+    {
+      "block_ids": [
+        152
+      ],
+      "source": "0x66e673",
+      "destination": "0x66e673",
+      "storage": "in_place",
+      "old_size": 9913,
+      "new_size": 8897,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0CCA",
+        "0x1F4F"
+      ],
+      "new_relative_offsets": [
+        6,
+        3022,
+        7265
+      ],
+      "translated": 38
+    },
+    {
+      "block_ids": [
+        153
+      ],
+      "source": "0x670d2c",
+      "destination": "0x670d2c",
+      "storage": "in_place",
+      "old_size": 4628,
+      "new_size": 4255,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0678",
+        "0x0AA5"
+      ],
+      "new_relative_offsets": [
+        6,
+        1562,
+        2540
+      ],
+      "translated": 47
+    },
+    {
+      "block_ids": [
+        154
+      ],
+      "source": "0x671f40",
+      "destination": "0x671f40",
+      "storage": "in_place",
+      "old_size": 655,
+      "new_size": 617,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        155,
+        156
+      ],
+      "source": "0x6721cf",
+      "destination": "0x6c02f0",
+      "storage": "relocated",
+      "old_size": 1784,
+      "new_size": 1811,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 12
+    },
+    {
+      "block_ids": [
+        157
+      ],
+      "source": "0x6728c7",
+      "destination": "0x6c0a10",
+      "storage": "relocated",
+      "old_size": 2378,
+      "new_size": 2379,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        158
+      ],
+      "source": "0x673211",
+      "destination": "0x6c1360",
+      "storage": "relocated",
+      "old_size": 1121,
+      "new_size": 1187,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 14
+    },
+    {
+      "block_ids": [
+        159
+      ],
+      "source": "0x673672",
+      "destination": "0x673672",
+      "storage": "in_place",
+      "old_size": 9465,
+      "new_size": 9435,
+      "old_relative_offsets": [
+        "0x000A",
+        "0x0B5C",
+        "0x14F7",
+        "0x1A77",
+        "0x1FE1"
+      ],
+      "new_relative_offsets": [
+        10,
+        2817,
+        5206,
+        6714,
+        8114
+      ],
+      "translated": 73
+    },
+    {
+      "block_ids": [
+        160
+      ],
+      "source": "0x675b6b",
+      "destination": "0x675b6b",
+      "storage": "in_place",
+      "old_size": 2660,
+      "new_size": 2556,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 15
+    },
+    {
+      "block_ids": [
+        161
+      ],
+      "source": "0x6765cf",
+      "destination": "0x6c1810",
+      "storage": "relocated",
+      "old_size": 1919,
+      "new_size": 1925,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        162
+      ],
+      "source": "0x676d4e",
+      "destination": "0x676d4e",
+      "storage": "in_place",
+      "old_size": 3206,
+      "new_size": 3160,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x06DE"
+      ],
+      "new_relative_offsets": [
+        4,
+        1758
+      ],
+      "translated": 24
+    },
+    {
+      "block_ids": [
+        163
+      ],
+      "source": "0x6779d4",
+      "destination": "0x6779d4",
+      "storage": "in_place",
+      "old_size": 3448,
+      "new_size": 3252,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0825"
+      ],
+      "new_relative_offsets": [
+        4,
+        1917
+      ],
+      "translated": 21
+    },
+    {
+      "block_ids": [
+        164
+      ],
+      "source": "0x67874c",
+      "destination": "0x67874c",
+      "storage": "in_place",
+      "old_size": 4701,
+      "new_size": 4491,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0A16"
+      ],
+      "new_relative_offsets": [
+        4,
+        2439
+      ],
+      "translated": 32
+    },
+    {
+      "block_ids": [
+        165
+      ],
+      "source": "0x6799a9",
+      "destination": "0x6799a9",
+      "storage": "in_place",
+      "old_size": 3970,
+      "new_size": 3669,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0762"
+      ],
+      "new_relative_offsets": [
+        4,
+        1749
+      ],
+      "translated": 28
+    },
+    {
+      "block_ids": [
+        166
+      ],
+      "source": "0x67a92b",
+      "destination": "0x67a92b",
+      "storage": "in_place",
+      "old_size": 5574,
+      "new_size": 4980,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 13
+    },
+    {
+      "block_ids": [
+        167
+      ],
+      "source": "0x67bef1",
+      "destination": "0x6c1fa0",
+      "storage": "relocated",
+      "old_size": 3323,
+      "new_size": 3335,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x04D3"
+      ],
+      "new_relative_offsets": [
+        4,
+        1272
+      ],
+      "translated": 32
+    },
+    {
+      "block_ids": [
+        168
+      ],
+      "source": "0x67cbec",
+      "destination": "0x6c2cb0",
+      "storage": "relocated",
+      "old_size": 60,
+      "new_size": 62,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        169
+      ],
+      "source": "0x67cc28",
+      "destination": "0x67cc28",
+      "storage": "in_place",
+      "old_size": 2152,
+      "new_size": 2119,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        170
+      ],
+      "source": "0x67d490",
+      "destination": "0x67d490",
+      "storage": "in_place",
+      "old_size": 2509,
+      "new_size": 2461,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x067A"
+      ],
+      "new_relative_offsets": [
+        4,
+        1640
+      ],
+      "translated": 24
+    },
+    {
+      "block_ids": [
+        171
+      ],
+      "source": "0x67de5d",
+      "destination": "0x6c2cf0",
+      "storage": "relocated",
+      "old_size": 2230,
+      "new_size": 2262,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0507"
+      ],
+      "new_relative_offsets": [
+        4,
+        1331
+      ],
+      "translated": 22
+    },
+    {
+      "block_ids": [
+        172
+      ],
+      "source": "0x67e713",
+      "destination": "0x6c35d0",
+      "storage": "relocated",
+      "old_size": 2267,
+      "new_size": 2270,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0657"
+      ],
+      "new_relative_offsets": [
+        4,
+        1614
+      ],
+      "translated": 20
+    },
+    {
+      "block_ids": [
+        173,
+        174
+      ],
+      "source": "0x67efee",
+      "destination": "0x67efee",
+      "storage": "in_place",
+      "old_size": 9210,
+      "new_size": 8782,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x092B",
+        "0x107B",
+        "0x14F7",
+        "0x1B49",
+        "0x2391"
+      ],
+      "new_relative_offsets": [
+        12,
+        2194,
+        3915,
+        5100,
+        6600,
+        8688
+      ],
+      "translated": 82
+    },
+    {
+      "block_ids": [
+        175
+      ],
+      "source": "0x6813e8",
+      "destination": "0x6813e8",
+      "storage": "in_place",
+      "old_size": 1269,
+      "new_size": 1209,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0440"
+      ],
+      "new_relative_offsets": [
+        4,
+        1030
+      ],
+      "translated": 19
+    },
+    {
+      "block_ids": [
+        176
+      ],
+      "source": "0x6818dd",
+      "destination": "0x6818dd",
+      "storage": "in_place",
+      "old_size": 123,
+      "new_size": 117,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        177
+      ],
+      "source": "0x681958",
+      "destination": "0x681958",
+      "storage": "in_place",
+      "old_size": 3373,
+      "new_size": 3102,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x053F"
+      ],
+      "new_relative_offsets": [
+        4,
+        1303
+      ],
+      "translated": 27
+    },
+    {
+      "block_ids": [
+        178
+      ],
+      "source": "0x682685",
+      "destination": "0x682685",
+      "storage": "in_place",
+      "old_size": 4503,
+      "new_size": 4223,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x04D7",
+        "0x09E8"
+      ],
+      "new_relative_offsets": [
+        6,
+        1272,
+        2438
+      ],
+      "translated": 44
+    },
+    {
+      "block_ids": [
+        179
+      ],
+      "source": "0x68381c",
+      "destination": "0x68381c",
+      "storage": "in_place",
+      "old_size": 2372,
+      "new_size": 2186,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 16
+    },
+    {
+      "block_ids": [
+        180
+      ],
+      "source": "0x684160",
+      "destination": "0x684160",
+      "storage": "in_place",
+      "old_size": 101,
+      "new_size": 87,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        181
+      ],
+      "source": "0x6841c5",
+      "destination": "0x6841c5",
+      "storage": "in_place",
+      "old_size": 667,
+      "new_size": 664,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 14
+    },
+    {
+      "block_ids": [
+        182
+      ],
+      "source": "0x684460",
+      "destination": "0x684460",
+      "storage": "in_place",
+      "old_size": 2943,
+      "new_size": 2795,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x06BC"
+      ],
+      "new_relative_offsets": [
+        4,
+        1583
+      ],
+      "translated": 31
+    },
+    {
+      "block_ids": [
+        184,
+        185
+      ],
+      "source": "0x6852ff",
+      "destination": "0x6852ff",
+      "storage": "in_place",
+      "old_size": 2338,
+      "new_size": 2132,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        186
+      ],
+      "source": "0x685c21",
+      "destination": "0x685c21",
+      "storage": "in_place",
+      "old_size": 2440,
+      "new_size": 2283,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x05D8",
+        "0x08F7"
+      ],
+      "new_relative_offsets": [
+        6,
+        1350,
+        2126
+      ],
+      "translated": 35
+    },
+    {
+      "block_ids": [
+        187
+      ],
+      "source": "0x6865a9",
+      "destination": "0x6865a9",
+      "storage": "in_place",
+      "old_size": 1289,
+      "new_size": 1172,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 7
+    },
+    {
+      "block_ids": [
+        188
+      ],
+      "source": "0x686ab2",
+      "destination": "0x686ab2",
+      "storage": "in_place",
+      "old_size": 2315,
+      "new_size": 2176,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x062E"
+      ],
+      "new_relative_offsets": [
+        4,
+        1479
+      ],
+      "translated": 25
+    },
+    {
+      "block_ids": [
+        189
+      ],
+      "source": "0x6873bd",
+      "destination": "0x6873bd",
+      "storage": "in_place",
+      "old_size": 3648,
+      "new_size": 3408,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x09BD"
+      ],
+      "new_relative_offsets": [
+        4,
+        2315
+      ],
+      "translated": 23
+    },
+    {
+      "block_ids": [
+        190
+      ],
+      "source": "0x6881fd",
+      "destination": "0x6881fd",
+      "storage": "in_place",
+      "old_size": 640,
+      "new_size": 528,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        191
+      ],
+      "source": "0x68847d",
+      "destination": "0x68847d",
+      "storage": "in_place",
+      "old_size": 168,
+      "new_size": 160,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 2
+    },
+    {
+      "block_ids": [
+        192
+      ],
+      "source": "0x688525",
+      "destination": "0x688525",
+      "storage": "in_place",
+      "old_size": 154,
+      "new_size": 152,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        193
+      ],
+      "source": "0x6885bf",
+      "destination": "0x6c3eb0",
+      "storage": "relocated",
+      "old_size": 527,
+      "new_size": 572,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 16
+    },
+    {
+      "block_ids": [
+        194
+      ],
+      "source": "0x6887ce",
+      "destination": "0x6887ce",
+      "storage": "in_place",
+      "old_size": 1561,
+      "new_size": 1553,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 11
+    },
+    {
+      "block_ids": [
+        195
+      ],
+      "source": "0x688de7",
+      "destination": "0x688de7",
+      "storage": "in_place",
+      "old_size": 884,
+      "new_size": 753,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 6
+    },
+    {
+      "block_ids": [
+        196
+      ],
+      "source": "0x68915b",
+      "destination": "0x68915b",
+      "storage": "in_place",
+      "old_size": 945,
+      "new_size": 846,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        197,
+        198,
+        199,
+        200
+      ],
+      "source": "0x68950c",
+      "destination": "0x68950c",
+      "storage": "in_place",
+      "old_size": 3998,
+      "new_size": 3631,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0AE0"
+      ],
+      "new_relative_offsets": [
+        4,
+        2543
+      ],
+      "translated": 27
+    },
+    {
+      "block_ids": [
+        201
+      ],
+      "source": "0x68a4aa",
+      "destination": "0x68a4aa",
+      "storage": "in_place",
+      "old_size": 1120,
+      "new_size": 1056,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        202
+      ],
+      "source": "0x68a90a",
+      "destination": "0x68a90a",
+      "storage": "in_place",
+      "old_size": 3148,
+      "new_size": 2916,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0656",
+        "0x0BA2"
+      ],
+      "new_relative_offsets": [
+        6,
+        1516,
+        2766
+      ],
+      "translated": 36
+    },
+    {
+      "block_ids": [
+        203,
+        204
+      ],
+      "source": "0x68b556",
+      "destination": "0x68b556",
+      "storage": "in_place",
+      "old_size": 1370,
+      "new_size": 1221,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 14
+    },
+    {
+      "block_ids": [
+        205
+      ],
+      "source": "0x68bab0",
+      "destination": "0x68bab0",
+      "storage": "in_place",
+      "old_size": 5048,
+      "new_size": 4760,
+      "old_relative_offsets": [
+        "0x000A",
+        "0x03D3",
+        "0x08F8",
+        "0x0FDD",
+        "0x13A1"
+      ],
+      "new_relative_offsets": [
+        10,
+        929,
+        2154,
+        3791,
+        4746
+      ],
+      "translated": 65
+    },
+    {
+      "block_ids": [
+        206,
+        207
+      ],
+      "source": "0x68ce68",
+      "destination": "0x68ce68",
+      "storage": "in_place",
+      "old_size": 7083,
+      "new_size": 6289,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0949",
+        "0x14C9"
+      ],
+      "new_relative_offsets": [
+        6,
+        2196,
+        4706
+      ],
+      "translated": 46
+    },
+    {
+      "block_ids": [
+        208
+      ],
+      "source": "0x68ea13",
+      "destination": "0x68ea13",
+      "storage": "in_place",
+      "old_size": 4016,
+      "new_size": 3511,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0C67"
+      ],
+      "new_relative_offsets": [
+        4,
+        2749
+      ],
+      "translated": 23
+    },
+    {
+      "block_ids": [
+        209
+      ],
+      "source": "0x68f9c3",
+      "destination": "0x68f9c3",
+      "storage": "in_place",
+      "old_size": 6686,
+      "new_size": 5880,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x0326",
+        "0x0C23",
+        "0x13FE"
+      ],
+      "new_relative_offsets": [
+        8,
+        778,
+        2811,
+        4597
+      ],
+      "translated": 56
+    },
+    {
+      "block_ids": [
+        210
+      ],
+      "source": "0x6913e1",
+      "destination": "0x6913e1",
+      "storage": "in_place",
+      "old_size": 12232,
+      "new_size": 10240,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x0AF7",
+        "0x0FA1",
+        "0x173F",
+        "0x1B1A",
+        "0x2B25"
+      ],
+      "new_relative_offsets": [
+        12,
+        2382,
+        3430,
+        5046,
+        5865,
+        9250
+      ],
+      "translated": 88
+    },
+    {
+      "block_ids": [
+        211
+      ],
+      "source": "0x6943a9",
+      "destination": "0x6943a9",
+      "storage": "in_place",
+      "old_size": 3473,
+      "new_size": 2897,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0757"
+      ],
+      "new_relative_offsets": [
+        4,
+        1562
+      ],
+      "translated": 28
+    },
+    {
+      "block_ids": [
+        212
+      ],
+      "source": "0x69513a",
+      "destination": "0x69513a",
+      "storage": "in_place",
+      "old_size": 4271,
+      "new_size": 3640,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x04A1",
+        "0x0B59"
+      ],
+      "new_relative_offsets": [
+        6,
+        1002,
+        2535
+      ],
+      "translated": 40
+    },
+    {
+      "block_ids": [
+        213
+      ],
+      "source": "0x6961e9",
+      "destination": "0x6961e9",
+      "storage": "in_place",
+      "old_size": 676,
+      "new_size": 603,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 6
+    },
+    {
+      "block_ids": [
+        214
+      ],
+      "source": "0x69648d",
+      "destination": "0x69648d",
+      "storage": "in_place",
+      "old_size": 922,
+      "new_size": 826,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        215
+      ],
+      "source": "0x696827",
+      "destination": "0x696827",
+      "storage": "in_place",
+      "old_size": 4430,
+      "new_size": 4050,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x10DB"
+      ],
+      "new_relative_offsets": [
+        4,
+        3912
+      ],
+      "translated": 19
+    },
+    {
+      "block_ids": [
+        216
+      ],
+      "source": "0x697975",
+      "destination": "0x697975",
+      "storage": "in_place",
+      "old_size": 724,
+      "new_size": 678,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        217,
+        218
+      ],
+      "source": "0x697c49",
+      "destination": "0x697c49",
+      "storage": "in_place",
+      "old_size": 2467,
+      "new_size": 2217,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x04C7"
+      ],
+      "new_relative_offsets": [
+        4,
+        1119
+      ],
+      "translated": 27
+    },
+    {
+      "block_ids": [
+        219
+      ],
+      "source": "0x6985ec",
+      "destination": "0x6c40f0",
+      "storage": "relocated",
+      "old_size": 262,
+      "new_size": 289,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        220
+      ],
+      "source": "0x6986f2",
+      "destination": "0x6986f2",
+      "storage": "in_place",
+      "old_size": 154,
+      "new_size": 129,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        221
+      ],
+      "source": "0x69878c",
+      "destination": "0x69878c",
+      "storage": "in_place",
+      "old_size": 14107,
+      "new_size": 12422,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x1DC4",
+        "0x2A37",
+        "0x32F2"
+      ],
+      "new_relative_offsets": [
+        8,
+        6799,
+        9642,
+        11585
+      ],
+      "translated": 55
+    },
+    {
+      "block_ids": [
+        222
+      ],
+      "source": "0x69bea7",
+      "destination": "0x69bea7",
+      "storage": "in_place",
+      "old_size": 2657,
+      "new_size": 2228,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x08D6"
+      ],
+      "new_relative_offsets": [
+        4,
+        1885
+      ],
+      "translated": 21
+    },
+    {
+      "block_ids": [
+        223
+      ],
+      "source": "0x69c908",
+      "destination": "0x69c908",
+      "storage": "in_place",
+      "old_size": 4148,
+      "new_size": 3424,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x09E1"
+      ],
+      "new_relative_offsets": [
+        4,
+        2015
+      ],
+      "translated": 31
+    },
+    {
+      "block_ids": [
+        224
+      ],
+      "source": "0x69d93c",
+      "destination": "0x69d93c",
+      "storage": "in_place",
+      "old_size": 1829,
+      "new_size": 1525,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 12
+    },
+    {
+      "block_ids": [
+        225
+      ],
+      "source": "0x69e061",
+      "destination": "0x69e061",
+      "storage": "in_place",
+      "old_size": 5921,
+      "new_size": 5329,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x08C8",
+        "0x0CE3",
+        "0x1621"
+      ],
+      "new_relative_offsets": [
+        8,
+        2029,
+        3035,
+        5098
+      ],
+      "translated": 51
+    },
+    {
+      "block_ids": [
+        226,
+        227
+      ],
+      "source": "0x69f782",
+      "destination": "0x69f782",
+      "storage": "in_place",
+      "old_size": 257,
+      "new_size": 254,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        228
+      ],
+      "source": "0x69f883",
+      "destination": "0x69f883",
+      "storage": "in_place",
+      "old_size": 551,
+      "new_size": 425,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        229
+      ],
+      "source": "0x69faaa",
+      "destination": "0x69faaa",
+      "storage": "in_place",
+      "old_size": 4504,
+      "new_size": 3940,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0838",
+        "0x0F9B"
+      ],
+      "new_relative_offsets": [
+        6,
+        1836,
+        3466
+      ],
+      "translated": 35
+    },
+    {
+      "block_ids": [
+        230
+      ],
+      "source": "0x6a0c42",
+      "destination": "0x6a0c42",
+      "storage": "in_place",
+      "old_size": 355,
+      "new_size": 342,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        231
+      ],
+      "source": "0x6a0da5",
+      "destination": "0x6a0da5",
+      "storage": "in_place",
+      "old_size": 2968,
+      "new_size": 2593,
+      "old_relative_offsets": [
+        "0x0006",
+        "0x0506",
+        "0x0A8C"
+      ],
+      "new_relative_offsets": [
+        6,
+        1132,
+        2300
+      ],
+      "translated": 35
+    },
+    {
+      "block_ids": [
+        232
+      ],
+      "source": "0x6a193d",
+      "destination": "0x6a193d",
+      "storage": "in_place",
+      "old_size": 940,
+      "new_size": 802,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 8
+    },
+    {
+      "block_ids": [
+        233
+      ],
+      "source": "0x6a1ce9",
+      "destination": "0x6a1ce9",
+      "storage": "in_place",
+      "old_size": 2615,
+      "new_size": 2153,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0770"
+      ],
+      "new_relative_offsets": [
+        4,
+        1580
+      ],
+      "translated": 20
+    },
+    {
+      "block_ids": [
+        234
+      ],
+      "source": "0x6a2720",
+      "destination": "0x6a2720",
+      "storage": "in_place",
+      "old_size": 9331,
+      "new_size": 7645,
+      "old_relative_offsets": [
+        "0x000A",
+        "0x06E4",
+        "0x12ED",
+        "0x1959",
+        "0x21E3"
+      ],
+      "new_relative_offsets": [
+        10,
+        1429,
+        3915,
+        5319,
+        7105
+      ],
+      "translated": 72
+    },
+    {
+      "block_ids": [
+        237
+      ],
+      "source": "0x6a74e3",
+      "destination": "0x6a74e3",
+      "storage": "in_place",
+      "old_size": 2827,
+      "new_size": 2338,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0A5B"
+      ],
+      "new_relative_offsets": [
+        4,
+        2174
+      ],
+      "translated": 21
+    },
+    {
+      "block_ids": [
+        238
+      ],
+      "source": "0x6a7fee",
+      "destination": "0x6a7fee",
+      "storage": "in_place",
+      "old_size": 4759,
+      "new_size": 3952,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0B0F"
+      ],
+      "new_relative_offsets": [
+        4,
+        2446
+      ],
+      "translated": 28
+    },
+    {
+      "block_ids": [
+        239
+      ],
+      "source": "0x6a9285",
+      "destination": "0x6a9285",
+      "storage": "in_place",
+      "old_size": 1223,
+      "new_size": 964,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        240
+      ],
+      "source": "0x6a974c",
+      "destination": "0x6a974c",
+      "storage": "in_place",
+      "old_size": 411,
+      "new_size": 355,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        241
+      ],
+      "source": "0x6a98e7",
+      "destination": "0x6a98e7",
+      "storage": "in_place",
+      "old_size": 260,
+      "new_size": 198,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 3
+    },
+    {
+      "block_ids": [
+        242
+      ],
+      "source": "0x6a99eb",
+      "destination": "0x6a99eb",
+      "storage": "in_place",
+      "old_size": 450,
+      "new_size": 336,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 4
+    },
+    {
+      "block_ids": [
+        243
+      ],
+      "source": "0x6a9bad",
+      "destination": "0x6c4220",
+      "storage": "relocated",
+      "old_size": 121,
+      "new_size": 125,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        244,
+        245
+      ],
+      "source": "0x6a9c26",
+      "destination": "0x6a9c26",
+      "storage": "in_place",
+      "old_size": 137,
+      "new_size": 134,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        246
+      ],
+      "source": "0x6a9caf",
+      "destination": "0x6a9caf",
+      "storage": "in_place",
+      "old_size": 864,
+      "new_size": 816,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        247,
+        248
+      ],
+      "source": "0x6aa00f",
+      "destination": "0x6aa00f",
+      "storage": "in_place",
+      "old_size": 817,
+      "new_size": 768,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 9
+    },
+    {
+      "block_ids": [
+        249,
+        250,
+        251
+      ],
+      "source": "0x6aa340",
+      "destination": "0x6c42a0",
+      "storage": "relocated",
+      "old_size": 49,
+      "new_size": 52,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 1
+    },
+    {
+      "block_ids": [
+        252
+      ],
+      "source": "0x6aa371",
+      "destination": "0x6aa371",
+      "storage": "in_place",
+      "old_size": 11828,
+      "new_size": 10628,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x0C18",
+        "0x1776",
+        "0x1D27",
+        "0x20DD",
+        "0x2556",
+        "0x2CA5"
+      ],
+      "new_relative_offsets": [
+        14,
+        2687,
+        5297,
+        6605,
+        7467,
+        8557,
+        10228
+      ],
+      "translated": 97
+    },
+    {
+      "block_ids": [
+        253
+      ],
+      "source": "0x6ad1a5",
+      "destination": "0x6ad1a5",
+      "storage": "in_place",
+      "old_size": 898,
+      "new_size": 817,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 10
+    },
+    {
+      "block_ids": [
+        4
+      ],
+      "source": "0x60137d",
+      "destination": "0x6c42e0",
+      "storage": "relocated",
+      "old_size": 358,
+      "new_size": 442,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x005F",
+        "0x00B7",
+        "0x0141"
+      ],
+      "new_relative_offsets": [
+        8,
+        120,
+        244,
+        394
+      ],
+      "translated": 52
+    },
+    {
+      "block_ids": [
+        5
+      ],
+      "source": "0x6014e3",
+      "destination": "0x6c44a0",
+      "storage": "relocated",
+      "old_size": 402,
+      "new_size": 479,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x00E2"
+      ],
+      "new_relative_offsets": [
+        4,
+        266
+      ],
+      "translated": 30
+    },
+    {
+      "block_ids": [
+        6
+      ],
+      "source": "0x601675",
+      "destination": "0x6c4680",
+      "storage": "relocated",
+      "old_size": 358,
+      "new_size": 442,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x005F",
+        "0x00B7",
+        "0x0141"
+      ],
+      "new_relative_offsets": [
+        8,
+        120,
+        244,
+        394
+      ],
+      "translated": 52
+    },
+    {
+      "block_ids": [
+        7
+      ],
+      "source": "0x6017db",
+      "destination": "0x6c4840",
+      "storage": "relocated",
+      "old_size": 405,
+      "new_size": 479,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x00E2"
+      ],
+      "new_relative_offsets": [
+        4,
+        266
+      ],
+      "translated": 30
+    },
+    {
+      "block_ids": [
+        12
+      ],
+      "source": "0x603d98",
+      "destination": "0x6c4a20",
+      "storage": "relocated",
+      "old_size": 178,
+      "new_size": 191,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x0075"
+      ],
+      "new_relative_offsets": [
+        4,
+        129
+      ],
+      "translated": 13
+    },
+    {
+      "block_ids": [
+        14
+      ],
+      "source": "0x60402c",
+      "destination": "0x6c4ae0",
+      "storage": "relocated",
+      "old_size": 1537,
+      "new_size": 1738,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x0140",
+        "0x023B",
+        "0x0336",
+        "0x0447",
+        "0x055D"
+      ],
+      "new_relative_offsets": [
+        12,
+        345,
+        641,
+        922,
+        1239,
+        1563
+      ],
+      "translated": 87
+    },
+    {
+      "block_ids": [
+        15
+      ],
+      "source": "0x60462d",
+      "destination": "0x6c51b0",
+      "storage": "relocated",
+      "old_size": 1535,
+      "new_size": 1738,
+      "old_relative_offsets": [
+        "0x000C",
+        "0x0140",
+        "0x023B",
+        "0x0336",
+        "0x0445",
+        "0x055B"
+      ],
+      "new_relative_offsets": [
+        12,
+        345,
+        641,
+        922,
+        1239,
+        1563
+      ],
+      "translated": 87
+    },
+    {
+      "block_ids": [
+        16
+      ],
+      "source": "0x604c2c",
+      "destination": "0x6c5880",
+      "storage": "relocated",
+      "old_size": 444,
+      "new_size": 478,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x01A8"
+      ],
+      "new_relative_offsets": [
+        4,
+        455
+      ],
+      "translated": 17
+    },
+    {
+      "block_ids": [
+        43
+      ],
+      "source": "0x622131",
+      "destination": "0x622131",
+      "storage": "in_place",
+      "old_size": 95,
+      "new_size": 87,
+      "old_relative_offsets": [
+        "0x0002"
+      ],
+      "new_relative_offsets": [
+        2
+      ],
+      "translated": 6
+    },
+    {
+      "block_ids": [
+        8
+      ],
+      "source": "0x601970",
+      "destination": "0x601970",
+      "storage": "in_place",
+      "old_size": 2669,
+      "new_size": 2641,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x01E2",
+        "0x0393",
+        "0x0557",
+        "0x06D8",
+        "0x086C",
+        "0x095F"
+      ],
+      "new_relative_offsets": [
+        14,
+        443,
+        849,
+        1229,
+        1605,
+        2016,
+        2357
+      ],
+      "translated": 109
+    },
+    {
+      "block_ids": [
+        9
+      ],
+      "source": "0x6023dd",
+      "destination": "0x6c5a60",
+      "storage": "relocated",
+      "old_size": 4130,
+      "new_size": 4616,
+      "old_relative_offsets": [
+        "0x001A",
+        "0x0146",
+        "0x02A3",
+        "0x03AC",
+        "0x04BE",
+        "0x05D8",
+        "0x0736",
+        "0x08C8",
+        "0x09EF",
+        "0x0B9C",
+        "0x0D36",
+        "0x0E3F",
+        "0x0FF1"
+      ],
+      "new_relative_offsets": [
+        26,
+        368,
+        761,
+        1046,
+        1379,
+        1730,
+        2123,
+        2557,
+        2842,
+        3292,
+        3746,
+        4085,
+        4562
+      ],
+      "translated": 194
+    },
+    {
+      "block_ids": [
+        10
+      ],
+      "source": "0x6033ff",
+      "destination": "0x6c6c70",
+      "storage": "relocated",
+      "old_size": 1485,
+      "new_size": 1538,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x01EF",
+        "0x03CD",
+        "0x056C"
+      ],
+      "new_relative_offsets": [
+        8,
+        585,
+        1095,
+        1450
+      ],
+      "translated": 52
+    },
+    {
+      "block_ids": [
+        11
+      ],
+      "source": "0x6039cc",
+      "destination": "0x6c7280",
+      "storage": "relocated",
+      "old_size": 972,
+      "new_size": 988,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x020E"
+      ],
+      "new_relative_offsets": [
+        4,
+        526
+      ],
+      "translated": 30
+    },
+    {
+      "block_ids": [
+        19
+      ],
+      "source": "0x608883",
+      "destination": "0x6c7660",
+      "storage": "relocated",
+      "old_size": 3680,
+      "new_size": 3911,
+      "old_relative_offsets": [
+        "0x001C",
+        "0x00DD",
+        "0x01DC",
+        "0x0307",
+        "0x0418",
+        "0x0534",
+        "0x0664",
+        "0x0773",
+        "0x0861",
+        "0x0967",
+        "0x0A5E",
+        "0x0B60",
+        "0x0C51",
+        "0x0D54"
+      ],
+      "new_relative_offsets": [
+        28,
+        249,
+        540,
+        829,
+        1134,
+        1434,
+        1757,
+        2043,
+        2305,
+        2583,
+        2857,
+        3113,
+        3383,
+        3643
+      ],
+      "translated": 185
+    }
+  ],
+  "deferred_source_entries": [
+    "B017-S005",
+    "B017-S018",
+    "B017-S032",
+    "B017-S049",
+    "B017-S057",
+    "B017-S062",
+    "B017-S063",
+    "B017-S064",
+    "B017-S070",
+    "B017-S094",
+    "B017-S096",
+    "B017-S127",
+    "B017-S128",
+    "B017-S160",
+    "B017-S164",
+    "B017-S173",
+    "B017-S175",
+    "B017-S187",
+    "B017-S189",
+    "B017-S191",
+    "B017-S192",
+    "B018-S005",
+    "B018-S009",
+    "B018-S023",
+    "B018-S024",
+    "B018-S027",
+    "B018-S032",
+    "B018-S045",
+    "B018-S048",
+    "B018-S050",
+    "B018-S054",
+    "B018-S055",
+    "B018-S061",
+    "B018-S064",
+    "B018-S071",
+    "B018-S072",
+    "B018-S075",
+    "B018-S076",
+    "B018-S083",
+    "B018-S085",
+    "B018-S089",
+    "B018-S095",
+    "B018-S096",
+    "B018-S098",
+    "B018-S101",
+    "B018-S107",
+    "B018-S115",
+    "B018-S123",
+    "B018-S128",
+    "B018-S130",
+    "B018-S133",
+    "B018-S141",
+    "B018-S148",
+    "B018-S149",
+    "B018-S152",
+    "B018-S159",
+    "B018-S160",
+    "B018-S166",
+    "B018-S173",
+    "B018-S175",
+    "B018-S180",
+    "B018-S186",
+    "B018-S187",
+    "B018-S188",
+    "B018-S189",
+    "B018-S192",
+    "B030-S006",
+    "B030-S007",
+    "B030-S008",
+    "B033-S001",
+    "B041-S110",
+    "B041-S125",
+    "B041-S126",
+    "B041-S127",
+    "B041-S128",
+    "B041-S129",
+    "B041-S131",
+    "B041-S132",
+    "B041-S133",
+    "B041-S134",
+    "B041-S136",
+    "B041-S137",
+    "B041-S138",
+    "B041-S140",
+    "B037-S036",
+    "B037-S051",
+    "B040-S036",
+    "B066-S010",
+    "B066-S032",
+    "B066-S033",
+    "B066-S067",
+    "B132-S059",
+    "B132-S122",
+    "B095-S054",
+    "B095-S055",
+    "B099-S001",
+    "B099-S002",
+    "B210-S065",
+    "B252-S098",
+    "B252-S099",
+    "B252-S100",
+    "B252-S101",
+    "B012-S001",
+    "B012-S002",
+    "B012-S003",
+    "B012-S004",
+    "B012-S005",
+    "B012-S006",
+    "B012-S007",
+    "B012-S012",
+    "B012-S021",
+    "B012-S022",
+    "B012-S023",
+    "B012-S024",
+    "B014-S024",
+    "B014-S062",
+    "B015-S024",
+    "B015-S062",
+    "B043-S007",
+    "B019-S184",
+    "B019-S185",
+    "B019-S186",
+    "B019-S188",
+    "B019-S189",
+    "B019-S190",
+    "B019-S191",
+    "B019-S192",
+    "B019-S193",
+    "B019-S194",
+    "B019-S195",
+    "B019-S196",
+    "B019-S197",
+    "B019-S198",
+    "B019-S199",
+    "B019-S200",
+    "B019-S201",
+    "B019-S202",
+    "B019-S203",
+    "B019-S205",
+    "B019-S206",
+    "B019-S207",
+    "B019-S208",
+    "B019-S209",
+    "B019-S210",
+    "B019-S211",
+    "B019-S212",
+    "B019-S213",
+    "B019-S214",
+    "B019-S215",
+    "B019-S216",
+    "B019-S217",
+    "B019-S218",
+    "B019-S219",
+    "B019-S220",
+    "B019-S221",
+    "B019-S222"
+  ],
+  "allocation_end": "0x6c85b0",
+  "free_bytes": 31312,
+  "in_place_blocks": 156,
+  "relocated_blocks": 51,
+  "alignment_bytes": 16
+}

@@ -1,3 +1,40 @@
+# État actuel — V54, lot48 complet
+
+400 nouveaux textes distincts sur573 occurrences :233 aides/libellés et167
+libellés d’actions de combat. Variantes, noms inchangés et sources partagées
+exclus. Les5961 anciennes entrées V53 sont préservées, total6534 occurrences.
+0 ancienne correction ;6 retouches du brouillon ne sont pas recomptées.
+ROM :5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7.
+
+7363 lectures natives ;573 copies/largeurs natives avec contrats distincts.
+573 rendus ciblés et185 rendus du vrai bandeau FD8B, soit694 captures de
+texte distinctes effectivement relues sur44 planches, pixels conservés.
+Démarrage A/reset/B et navigation ;85+7 captures identiques àV53.
+Parcours standard continu789commandes26953images-jeu jusqu’au premier combat,
+gains et butin ;397 captures identiques aux étapes exploratoires relues.
+Almanach22/12/1995 rouvert ; aide réelle Katana de bois en français.
+
+Le bloc19 utilise le chemin ordinaire0x653c1 :catalogue19 + RAM43BB -> FD8B.
+C077AF copie avecX0, calcule la largeur native à4D2C00 et centre dans28tuiles.
+Les185 bandeaux sont des fixtures de redirection du nom de cible B020 ; ils
+ne prouvent pas que chaque attaque a été déclenchée naturellement. Maximum
+149px sur ces nouveaux libellés, marge conservatrice192px, boîte224px.
+Les aides utilisent24tuiles192px ; les libellés de sauvegarde27tuiles216px.
+Les trois libellés B016 passent leur copie native, mais les lieux de fin et
+l’erreur réelle de sauvegarde restent à parcourir. Ne pas appliquer un contrat
+unique ni confondre catalogue ordinaire et couverture de toutes ses branches.
+
+Publication locale préparée pour le parent distant V53 a8a8d37 ; le HEAD
+GitHub et son arbre sont la preuve de publication, pas ce statut de rapport.
+Voir COMPTE_RENDU_V54.md et verification/lot48_progress.json.
+Ne dupliquer aucun lot45–48. Prochain lot49 :0/400 après vérification duHEAD.
+Phase1 encore ouverte ; phases2/3 restent ouvertes. Menus fixes, graphismes,
+B020, fin de B019, bloc42, fins/générique et relecture globale restent à faire.
+Reste borné2504 entrées dont997 non vides, menus/debug compris :pas un taux.
+Les indices de glyphes/code du bloc42 ne sont pas une preuve de contenu dormant.
+
+## Historique
+
 # État actuel — V53, lot47 complet
 
 400 nouveaux textes distincts :388 sources bornées et12 mois natifs,

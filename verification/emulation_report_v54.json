@@ -1,0 +1,51 @@
+{
+  "version": "V54",
+  "lot": 48,
+  "phase": 1,
+  "tag": "lot48p400c",
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "ips_sha256": "7442194a8404d490f1a3f8bf10999492df10ab91d6ecaf8cd902558acb3eec72",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "new_distinct_texts": 400,
+  "new_bounded_occurrences": 573,
+  "old_french_corrections": 0,
+  "draft_wording_retouches": 6,
+  "native_lookup_checks": 7363,
+  "native_consumer_copy_width_checks": {
+    "help": 385,
+    "save_labels": 3,
+    "battle_banners": 185
+  },
+  "storage_checks": 14,
+  "ips_roundtrip": true,
+  "independent_build_exact_same_rom": true,
+  "fresh_runtime": {
+    "standard_boot_reset_A_B": "passed",
+    "navigation": "passed",
+    "field_fixture_cases": 573,
+    "field_unique_captures_reviewed": 510,
+    "battle_banner_fixture_cases": 185,
+    "battle_unique_crops_reviewed": 184,
+    "reviewed_sheets": 44,
+    "real_almanac": "passed22/12/1995",
+    "real_first_battle_and_rewards": "passed;789commands26953frames",
+    "actual_menu_help": "passedB009-S046; English fixed labels explicitly remain"
+  },
+  "regression_v53": {
+    "startup_frames_identical": 85,
+    "navigation_frames_identical": 7,
+    "scope": "Only these exact compared captures, no global pixel/time identity claim."
+  },
+  "natural_replay_against_exploratory_captures": {
+    "frames": 397,
+    "all_identical": true
+  },
+  "publication": "validated local payload;verify actual remoteHEAD and tree after expected-parent update",
+  "limitations": [
+    "Phase1 reste ouverte : derniers formats/événements et parcours naturels, synchronisation des chansons, dates/branches et sélecteurs.",
+    "B019 fin du catalogue encore anglaise ; noms ennemis B020 et menus fixes/graphismes à traiter.",
+    "Bloc42 non borné : suites d’indices de glyphes puis code, périmètre/consommateur non résolus ; aucune couverture complète déduite.",
+    "Phase2 : audit exhaustif hors inventaire, objets/compétences/combats/fins/épilogue/générique et graphismes.",
+    "Phase3 : grosse relecture globale par zones/écrans/branches et contrôles d’affichage."
+  ]
+}

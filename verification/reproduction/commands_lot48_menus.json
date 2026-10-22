@@ -1,0 +1,99 @@
+[
+  {
+    "load": "@FULL_RUN_DIR@/field_verified.state",
+    "frames": 60
+  },
+  {
+    "buttons": [
+      "X"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 80,
+    "screenshot": "01_main"
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 30
+  },
+  {
+    "buttons": [
+      "A"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "02_inventory"
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 30,
+    "screenshot": "03_inventory_down"
+  },
+  {
+    "buttons": [
+      "B"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 45
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 30
+  },
+  {
+    "buttons": [
+      "A"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "04_equipment"
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 30,
+    "screenshot": "05_equipment_down"
+  },
+  {
+    "buttons": [
+      "A"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "06_equipment_open"
+  },
+  {
+    "save": "menus_end"
+  },
+  {
+    "quit": true
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "version": "V54",
+  "lot": 48,
+  "phase": 1,
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "new_distinct_texts": 400,
+  "new_bounded_occurrences": 573,
+  "bounded_occurrences_total": 6534,
+  "previous_v53_rows_preserved": 5961,
+  "canonical_by_block": {
+    "B008": 79,
+    "B010": 35,
+    "B011": 30,
+    "B009": 87,
+    "B019": 167,
+    "B016": 2
+  },
+  "bounded_remaining": 2504,
+  "bounded_nonempty_remaining": 997,
+  "bounded_count_is_game_coverage": false,
+  "phases_complete": {
+    "1": false,
+    "2": false,
+    "3": false
+  },
+  "new_source_classification": "Ordinary help/save/action catalogs with distinct native consumers; no empty/debug/diagnostic additions counted. See ordinary_consumers_lot48.json.",
+  "natural_coverage": [
+    "Fresh standard boot/reset/A/B and menu/map navigation.",
+    "Real Almanac22/12/1995, labels/Jour faste/Solstice d’hiver/Itou notice.",
+    "Controller-only village -> mont Lointain -> friends join -> mine -> first Woody#1 battle ->6ryo/3virtue/kusa dango ->field.",
+    "Actual inventory Katana de bois help; fixed names/menu graphics still English."
+  ],
+  "staged_coverage": {
+    "field_cases": 573,
+    "field_unique_captures": 510,
+    "battle_banner_cases": 185,
+    "battle_unique_captures": 184,
+    "native_copy_width_cases": 573
+  },
+  "not_proven": [
+    "All special attacks naturally triggered, every date/selector/final save label or save error.",
+    "All shops/items/menu fields or pixel identity outside the compared frames.",
+    "Complete game/ending coverage or global French reread."
+  ],
+  "remaining": [
+    "Phase1 reste ouverte : derniers formats/événements et parcours naturels, synchronisation des chansons, dates/branches et sélecteurs.",
+    "B019 fin du catalogue encore anglaise ; noms ennemis B020 et menus fixes/graphismes à traiter.",
+    "Bloc42 non borné : suites d’indices de glyphes puis code, périmètre/consommateur non résolus ; aucune couverture complète déduite.",
+    "Phase2 : audit exhaustif hors inventaire, objets/compétences/combats/fins/épilogue/générique et graphismes.",
+    "Phase3 : grosse relecture globale par zones/écrans/branches et contrôles d’affichage."
+  ]
+}

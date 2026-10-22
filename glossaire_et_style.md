@@ -850,3 +850,13 @@ aux traditions, sans masquer leurs réticences envers Higan.
   « Ton âge aujourd’hui » pour éviter un pluriel erroné à1.
 - Ces choix et sondes ne constituent pas une validation des parcours
   naturels, des sélecteurs, de la musique ou de tous les menus.
+
+## Lot48 — aides et bandeaux de combat
+
+Chomp Attack → Morsure ; Blaze → Brasier ; Earthly Echo → Écho terrestre ;
+Poison Attack → Attaque empoisonnée ; Sleep Attack → Attaque soporifique.
+Frail → Frêle dans les propriétés d’équipement ; technique garde le sens des
+points de technique. Les cris/variantes sans nouvelle traduction ne sont pas
+recomptés. Les marqueurs11 de citation restent dans les intitulés concernés.
+Aides, libellés de sauvegarde et bandeaux de combat ont trois contrats natifs
+différents ; les menus en petite police et graphismes anglais restent distincts.

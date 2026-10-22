@@ -1,0 +1,34 @@
+{
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "scope": "Ordinary consumer classification, not exhaustive per-event reachability.",
+  "help": {
+    "catalogs": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "C071F6 catalog+6,24tiles; source consumer C07880/C078A1/4D3900",
+    "native_cases": 385,
+    "normal_ui_proof": "Actual B009-S046 French help in inventory; other helps staged/native copied."
+  },
+  "save_labels": {
+    "catalog": 16,
+    "source": "C0993D reads7E2505 or corrupt entry1;X27",
+    "native_cases": 3,
+    "natural_final_slot_and_error": "not exercised"
+  },
+  "action_labels": {
+    "catalog": 19,
+    "ordinary_vm_script_offset": "0x653c1",
+    "ordinary_vm_bytes": "0e 13 12 bb 43 09 fd 8b 1b 02",
+    "meaning": "Push catalog19 and action-label index fromRAM43BB; call ordinary FD8B banner. Adjacent0E14 path displays catalog20 target names, observed in the actual first battle.",
+    "consumer": "FD8B vectorC30DBC -> C07722; centered28tile banner C077AF, X0 copy and4D2C00 native width",
+    "native_copy_width_cases": 185,
+    "staged_ppu_cases": 185,
+    "new_canonical_sources": 167,
+    "natural_special_attack_branches": "not all traversed; target-name redirection fixtures are explicitly synthetic"
+  },
+  "debug_or_dormant_padding_added": false,
+  "unbounded42": "Unresolved glyph-index runs/code boundary, not classified dormant and not counted."
+}

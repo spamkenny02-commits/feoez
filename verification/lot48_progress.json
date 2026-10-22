@@ -1,0 +1,25 @@
+{
+  "lot": 48,
+  "target": 400,
+  "completed_distinct_new_texts": 400,
+  "new_bounded_occurrences": 573,
+  "old_french_corrections": 0,
+  "new_draft_retouches": 6,
+  "status": "validated_complete_lot_ready_for_expected_parent_publication",
+  "main_expected_parent": "a8a8d37dacf1301a226eca9c78c2399b13eaa119",
+  "version": "V54",
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "ips_sha256": "7442194a8404d490f1a3f8bf10999492df10ab91d6ecaf8cd902558acb3eec72",
+  "next_lot": 49,
+  "next_counter": 0,
+  "phase": 1,
+  "all_phases_complete": false,
+  "resume": "Verify actual remoteHEAD/tree, preserve checkpoints and do not duplicate lot48. Only begin49 after confirming V54 publication.",
+  "reports": [
+    "emulation_report_v54.json",
+    "coverage_v54.json",
+    "relecture_v54.json",
+    "shared_sources_strict_lot48.json",
+    "ordinary_consumers_lot48.json"
+  ]
+}

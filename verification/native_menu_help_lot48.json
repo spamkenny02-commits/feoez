@@ -1,0 +1,2706 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "candidate_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "native_executions": 385,
+  "consumer": "C0:71F6 help catalog+6,24tiles; C07880/C078A1 then4D3900",
+  "width_pixels": 192,
+  "maximum_bytes": 45,
+  "cases": [
+    {
+      "id": "B008-S001",
+      "bytes": 26,
+      "pixels": 129,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S002",
+      "bytes": 28,
+      "pixels": 138,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S003",
+      "bytes": 25,
+      "pixels": 120,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S004",
+      "bytes": 25,
+      "pixels": 120,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S005",
+      "bytes": 26,
+      "pixels": 124,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S006",
+      "bytes": 26,
+      "pixels": 126,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S007",
+      "bytes": 26,
+      "pixels": 122,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S008",
+      "bytes": 24,
+      "pixels": 112,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S009",
+      "bytes": 25,
+      "pixels": 120,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S010",
+      "bytes": 25,
+      "pixels": 117,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S011",
+      "bytes": 25,
+      "pixels": 115,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S012",
+      "bytes": 25,
+      "pixels": 115,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S013",
+      "bytes": 32,
+      "pixels": 151,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S014",
+      "bytes": 22,
+      "pixels": 95,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S015",
+      "bytes": 27,
+      "pixels": 122,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S016",
+      "bytes": 26,
+      "pixels": 115,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S017",
+      "bytes": 27,
+      "pixels": 120,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S018",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S019",
+      "bytes": 26,
+      "pixels": 116,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S020",
+      "bytes": 26,
+      "pixels": 115,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S021",
+      "bytes": 26,
+      "pixels": 112,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S022",
+      "bytes": 36,
+      "pixels": 153,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S023",
+      "bytes": 22,
+      "pixels": 103,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S024",
+      "bytes": 37,
+      "pixels": 163,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S025",
+      "bytes": 23,
+      "pixels": 105,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S026",
+      "bytes": 28,
+      "pixels": 130,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S027",
+      "bytes": 27,
+      "pixels": 125,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S028",
+      "bytes": 24,
+      "pixels": 108,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S029",
+      "bytes": 23,
+      "pixels": 98,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S030",
+      "bytes": 19,
+      "pixels": 82,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S031",
+      "bytes": 16,
+      "pixels": 69,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S032",
+      "bytes": 19,
+      "pixels": 84,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S033",
+      "bytes": 17,
+      "pixels": 68,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S034",
+      "bytes": 18,
+      "pixels": 78,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S035",
+      "bytes": 16,
+      "pixels": 69,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S036",
+      "bytes": 34,
+      "pixels": 149,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S037",
+      "bytes": 20,
+      "pixels": 85,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S038",
+      "bytes": 22,
+      "pixels": 95,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S039",
+      "bytes": 28,
+      "pixels": 125,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S040",
+      "bytes": 20,
+      "pixels": 90,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S041",
+      "bytes": 20,
+      "pixels": 85,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S042",
+      "bytes": 19,
+      "pixels": 85,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S043",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S044",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S045",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S046",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S047",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S048",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S049",
+      "bytes": 31,
+      "pixels": 129,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S050",
+      "bytes": 24,
+      "pixels": 109,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S051",
+      "bytes": 19,
+      "pixels": 82,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S052",
+      "bytes": 18,
+      "pixels": 80,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S053",
+      "bytes": 19,
+      "pixels": 84,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S054",
+      "bytes": 18,
+      "pixels": 85,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S055",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S056",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S057",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S058",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S059",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S060",
+      "bytes": 33,
+      "pixels": 154,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S061",
+      "bytes": 32,
+      "pixels": 143,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S062",
+      "bytes": 33,
+      "pixels": 153,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S063",
+      "bytes": 28,
+      "pixels": 122,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S064",
+      "bytes": 34,
+      "pixels": 149,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S065",
+      "bytes": 20,
+      "pixels": 85,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S066",
+      "bytes": 37,
+      "pixels": 169,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S067",
+      "bytes": 18,
+      "pixels": 83,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S068",
+      "bytes": 17,
+      "pixels": 79,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S069",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S070",
+      "bytes": 24,
+      "pixels": 105,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S071",
+      "bytes": 23,
+      "pixels": 105,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S072",
+      "bytes": 19,
+      "pixels": 84,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S073",
+      "bytes": 33,
+      "pixels": 151,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S074",
+      "bytes": 33,
+      "pixels": 151,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S075",
+      "bytes": 33,
+      "pixels": 144,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S076",
+      "bytes": 28,
+      "pixels": 124,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S077",
+      "bytes": 34,
+      "pixels": 145,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S078",
+      "bytes": 13,
+      "pixels": 62,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S079",
+      "bytes": 20,
+      "pixels": 95,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S080",
+      "bytes": 28,
+      "pixels": 124,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S081",
+      "bytes": 29,
+      "pixels": 134,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S082",
+      "bytes": 26,
+      "pixels": 121,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S083",
+      "bytes": 27,
+      "pixels": 127,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S084",
+      "bytes": 27,
+      "pixels": 124,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S085",
+      "bytes": 26,
+      "pixels": 122,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S086",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S087",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S088",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S089",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S090",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S091",
+      "bytes": 20,
+      "pixels": 92,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S092",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S093",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S094",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S095",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S096",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S097",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S098",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S099",
+      "bytes": 25,
+      "pixels": 119,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S100",
+      "bytes": 17,
+      "pixels": 81,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S101",
+      "bytes": 25,
+      "pixels": 110,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S102",
+      "bytes": 15,
+      "pixels": 70,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S103",
+      "bytes": 22,
+      "pixels": 102,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S104",
+      "bytes": 32,
+      "pixels": 136,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S105",
+      "bytes": 32,
+      "pixels": 151,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S106",
+      "bytes": 31,
+      "pixels": 143,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S107",
+      "bytes": 7,
+      "pixels": 31,
+      "padded_bytes": 27,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S108",
+      "bytes": 22,
+      "pixels": 98,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B008-S109",
+      "bytes": 13,
+      "pixels": 56,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S001",
+      "bytes": 36,
+      "pixels": 166,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S002",
+      "bytes": 36,
+      "pixels": 166,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S003",
+      "bytes": 35,
+      "pixels": 160,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S004",
+      "bytes": 35,
+      "pixels": 160,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S005",
+      "bytes": 37,
+      "pixels": 171,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S006",
+      "bytes": 37,
+      "pixels": 171,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S007",
+      "bytes": 35,
+      "pixels": 165,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S008",
+      "bytes": 35,
+      "pixels": 165,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S009",
+      "bytes": 29,
+      "pixels": 126,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S010",
+      "bytes": 30,
+      "pixels": 132,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S011",
+      "bytes": 30,
+      "pixels": 129,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S012",
+      "bytes": 37,
+      "pixels": 163,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S013",
+      "bytes": 38,
+      "pixels": 169,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S014",
+      "bytes": 38,
+      "pixels": 166,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S015",
+      "bytes": 36,
+      "pixels": 159,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S016",
+      "bytes": 37,
+      "pixels": 165,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S017",
+      "bytes": 37,
+      "pixels": 162,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S018",
+      "bytes": 38,
+      "pixels": 160,
+      "padded_bytes": 42,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S019",
+      "bytes": 38,
+      "pixels": 162,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S020",
+      "bytes": 38,
+      "pixels": 162,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S021",
+      "bytes": 31,
+      "pixels": 131,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S022",
+      "bytes": 37,
+      "pixels": 161,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S023",
+      "bytes": 31,
+      "pixels": 129,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S024",
+      "bytes": 24,
+      "pixels": 109,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S025",
+      "bytes": 19,
+      "pixels": 82,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S026",
+      "bytes": 28,
+      "pixels": 122,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S027",
+      "bytes": 17,
+      "pixels": 80,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S028",
+      "bytes": 33,
+      "pixels": 144,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S029",
+      "bytes": 28,
+      "pixels": 116,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S030",
+      "bytes": 29,
+      "pixels": 126,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S031",
+      "bytes": 31,
+      "pixels": 139,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S032",
+      "bytes": 35,
+      "pixels": 156,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S033",
+      "bytes": 33,
+      "pixels": 146,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S034",
+      "bytes": 25,
+      "pixels": 105,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S035",
+      "bytes": 31,
+      "pixels": 137,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S036",
+      "bytes": 30,
+      "pixels": 143,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S037",
+      "bytes": 17,
+      "pixels": 76,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S038",
+      "bytes": 17,
+      "pixels": 76,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S039",
+      "bytes": 18,
+      "pixels": 81,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S040",
+      "bytes": 20,
+      "pixels": 91,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S041",
+      "bytes": 17,
+      "pixels": 76,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S042",
+      "bytes": 17,
+      "pixels": 76,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S043",
+      "bytes": 18,
+      "pixels": 81,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S044",
+      "bytes": 20,
+      "pixels": 91,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S045",
+      "bytes": 19,
+      "pixels": 86,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S046",
+      "bytes": 18,
+      "pixels": 81,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S047",
+      "bytes": 18,
+      "pixels": 81,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S048",
+      "bytes": 21,
+      "pixels": 96,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S049",
+      "bytes": 23,
+      "pixels": 106,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S050",
+      "bytes": 20,
+      "pixels": 91,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S051",
+      "bytes": 20,
+      "pixels": 91,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B010-S052",
+      "bytes": 21,
+      "pixels": 96,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S001",
+      "bytes": 37,
+      "pixels": 168,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S002",
+      "bytes": 33,
+      "pixels": 151,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S003",
+      "bytes": 40,
+      "pixels": 172,
+      "padded_bytes": 42,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S004",
+      "bytes": 37,
+      "pixels": 171,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S005",
+      "bytes": 25,
+      "pixels": 110,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S006",
+      "bytes": 31,
+      "pixels": 140,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S007",
+      "bytes": 27,
+      "pixels": 122,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S008",
+      "bytes": 30,
+      "pixels": 139,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S009",
+      "bytes": 28,
+      "pixels": 129,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S010",
+      "bytes": 41,
+      "pixels": 186,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S011",
+      "bytes": 26,
+      "pixels": 120,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S012",
+      "bytes": 30,
+      "pixels": 142,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S013",
+      "bytes": 29,
+      "pixels": 135,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S014",
+      "bytes": 30,
+      "pixels": 134,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S015",
+      "bytes": 34,
+      "pixels": 149,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S016",
+      "bytes": 28,
+      "pixels": 127,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S017",
+      "bytes": 31,
+      "pixels": 139,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S018",
+      "bytes": 34,
+      "pixels": 147,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S019",
+      "bytes": 32,
+      "pixels": 147,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S020",
+      "bytes": 39,
+      "pixels": 174,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S021",
+      "bytes": 33,
+      "pixels": 143,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S022",
+      "bytes": 31,
+      "pixels": 133,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S023",
+      "bytes": 35,
+      "pixels": 145,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S024",
+      "bytes": 31,
+      "pixels": 137,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S025",
+      "bytes": 32,
+      "pixels": 141,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S026",
+      "bytes": 38,
+      "pixels": 174,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S027",
+      "bytes": 36,
+      "pixels": 166,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S028",
+      "bytes": 32,
+      "pixels": 144,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S029",
+      "bytes": 30,
+      "pixels": 136,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B011-S030",
+      "bytes": 14,
+      "pixels": 62,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S005",
+      "bytes": 34,
+      "pixels": 156,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S009",
+      "bytes": 34,
+      "pixels": 156,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S013",
+      "bytes": 34,
+      "pixels": 156,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S015",
+      "bytes": 28,
+      "pixels": 126,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S016",
+      "bytes": 25,
+      "pixels": 114,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S017",
+      "bytes": 35,
+      "pixels": 159,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S018",
+      "bytes": 36,
+      "pixels": 169,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S019",
+      "bytes": 10,
+      "pixels": 51,
+      "padded_bytes": 27,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S021",
+      "bytes": 29,
+      "pixels": 138,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S023",
+      "bytes": 34,
+      "pixels": 155,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S026",
+      "bytes": 31,
+      "pixels": 140,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S027",
+      "bytes": 38,
+      "pixels": 179,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S035",
+      "bytes": 9,
+      "pixels": 44,
+      "padded_bytes": 27,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S037",
+      "bytes": 13,
+      "pixels": 62,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S047",
+      "bytes": 24,
+      "pixels": 105,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S048",
+      "bytes": 38,
+      "pixels": 180,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S049",
+      "bytes": 30,
+      "pixels": 135,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S052",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S053",
+      "bytes": 32,
+      "pixels": 151,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S061",
+      "bytes": 31,
+      "pixels": 140,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S070",
+      "bytes": 36,
+      "pixels": 167,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S078",
+      "bytes": 36,
+      "pixels": 156,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S079",
+      "bytes": 31,
+      "pixels": 145,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S080",
+      "bytes": 24,
+      "pixels": 108,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S081",
+      "bytes": 35,
+      "pixels": 163,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S083",
+      "bytes": 38,
+      "pixels": 178,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S089",
+      "bytes": 36,
+      "pixels": 164,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S090",
+      "bytes": 33,
+      "pixels": 155,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S093",
+      "bytes": 36,
+      "pixels": 166,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S096",
+      "bytes": 38,
+      "pixels": 163,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S097",
+      "bytes": 38,
+      "pixels": 170,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S098",
+      "bytes": 36,
+      "pixels": 163,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S099",
+      "bytes": 36,
+      "pixels": 164,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S100",
+      "bytes": 33,
+      "pixels": 147,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S101",
+      "bytes": 34,
+      "pixels": 159,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S102",
+      "bytes": 32,
+      "pixels": 145,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S103",
+      "bytes": 25,
+      "pixels": 118,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S104",
+      "bytes": 22,
+      "pixels": 100,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S105",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S106",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S107",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S108",
+      "bytes": 18,
+      "pixels": 82,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S110",
+      "bytes": 32,
+      "pixels": 146,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S111",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S112",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S113",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S116",
+      "bytes": 18,
+      "pixels": 87,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S118",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S119",
+      "bytes": 15,
+      "pixels": 69,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S120",
+      "bytes": 19,
+      "pixels": 85,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S121",
+      "bytes": 14,
+      "pixels": 64,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S122",
+      "bytes": 15,
+      "pixels": 64,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S123",
+      "bytes": 32,
+      "pixels": 144,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S126",
+      "bytes": 15,
+      "pixels": 69,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S127",
+      "bytes": 19,
+      "pixels": 85,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S128",
+      "bytes": 14,
+      "pixels": 64,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S129",
+      "bytes": 15,
+      "pixels": 64,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S130",
+      "bytes": 35,
+      "pixels": 158,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S131",
+      "bytes": 36,
+      "pixels": 168,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S132",
+      "bytes": 29,
+      "pixels": 134,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S133",
+      "bytes": 31,
+      "pixels": 139,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S134",
+      "bytes": 24,
+      "pixels": 110,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S135",
+      "bytes": 24,
+      "pixels": 110,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S136",
+      "bytes": 29,
+      "pixels": 138,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S137",
+      "bytes": 34,
+      "pixels": 156,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S138",
+      "bytes": 28,
+      "pixels": 129,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S139",
+      "bytes": 11,
+      "pixels": 51,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S140",
+      "bytes": 26,
+      "pixels": 121,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S141",
+      "bytes": 28,
+      "pixels": 131,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S142",
+      "bytes": 25,
+      "pixels": 116,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S143",
+      "bytes": 24,
+      "pixels": 110,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S144",
+      "bytes": 35,
+      "pixels": 166,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S146",
+      "bytes": 30,
+      "pixels": 141,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S147",
+      "bytes": 24,
+      "pixels": 101,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S149",
+      "bytes": 29,
+      "pixels": 138,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S150",
+      "bytes": 26,
+      "pixels": 123,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S151",
+      "bytes": 36,
+      "pixels": 167,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S152",
+      "bytes": 25,
+      "pixels": 120,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S153",
+      "bytes": 27,
+      "pixels": 123,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S154",
+      "bytes": 30,
+      "pixels": 142,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S155",
+      "bytes": 32,
+      "pixels": 152,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S156",
+      "bytes": 29,
+      "pixels": 137,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S157",
+      "bytes": 28,
+      "pixels": 131,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S158",
+      "bytes": 35,
+      "pixels": 165,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S159",
+      "bytes": 36,
+      "pixels": 158,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S160",
+      "bytes": 18,
+      "pixels": 85,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S161",
+      "bytes": 18,
+      "pixels": 85,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S162",
+      "bytes": 18,
+      "pixels": 85,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S163",
+      "bytes": 31,
+      "pixels": 135,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S164",
+      "bytes": 32,
+      "pixels": 145,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S165",
+      "bytes": 18,
+      "pixels": 85,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S166",
+      "bytes": 19,
+      "pixels": 91,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S167",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S168",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S169",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S170",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S171",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S172",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S173",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S174",
+      "bytes": 19,
+      "pixels": 88,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S175",
+      "bytes": 17,
+      "pixels": 78,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S176",
+      "bytes": 18,
+      "pixels": 87,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S177",
+      "bytes": 35,
+      "pixels": 159,
+      "padded_bytes": 39,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S178",
+      "bytes": 34,
+      "pixels": 157,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S179",
+      "bytes": 37,
+      "pixels": 167,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S180",
+      "bytes": 39,
+      "pixels": 173,
+      "padded_bytes": 41,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S181",
+      "bytes": 32,
+      "pixels": 144,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S183",
+      "bytes": 32,
+      "pixels": 150,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S184",
+      "bytes": 26,
+      "pixels": 124,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S185",
+      "bytes": 18,
+      "pixels": 82,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S186",
+      "bytes": 32,
+      "pixels": 146,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S187",
+      "bytes": 34,
+      "pixels": 154,
+      "padded_bytes": 38,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S188",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S189",
+      "bytes": 38,
+      "pixels": 174,
+      "padded_bytes": 40,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S191",
+      "bytes": 28,
+      "pixels": 128,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S192",
+      "bytes": 24,
+      "pixels": 110,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S193",
+      "bytes": 25,
+      "pixels": 117,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S194",
+      "bytes": 27,
+      "pixels": 126,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S001",
+      "bytes": 13,
+      "pixels": 56,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S002",
+      "bytes": 21,
+      "pixels": 94,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S003",
+      "bytes": 23,
+      "pixels": 104,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S004",
+      "bytes": 11,
+      "pixels": 48,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S006",
+      "bytes": 13,
+      "pixels": 58,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S007",
+      "bytes": 14,
+      "pixels": 69,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S008",
+      "bytes": 17,
+      "pixels": 82,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S010",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S011",
+      "bytes": 16,
+      "pixels": 70,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S012",
+      "bytes": 17,
+      "pixels": 74,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S014",
+      "bytes": 11,
+      "pixels": 50,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S020",
+      "bytes": 27,
+      "pixels": 124,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S022",
+      "bytes": 23,
+      "pixels": 104,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S024",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S025",
+      "bytes": 23,
+      "pixels": 107,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S028",
+      "bytes": 13,
+      "pixels": 58,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S029",
+      "bytes": 16,
+      "pixels": 76,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S030",
+      "bytes": 13,
+      "pixels": 61,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S031",
+      "bytes": 16,
+      "pixels": 78,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S032",
+      "bytes": 18,
+      "pixels": 83,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S033",
+      "bytes": 15,
+      "pixels": 74,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S034",
+      "bytes": 19,
+      "pixels": 77,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S036",
+      "bytes": 24,
+      "pixels": 110,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S038",
+      "bytes": 14,
+      "pixels": 63,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S039",
+      "bytes": 18,
+      "pixels": 87,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S040",
+      "bytes": 12,
+      "pixels": 59,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S041",
+      "bytes": 21,
+      "pixels": 102,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S042",
+      "bytes": 12,
+      "pixels": 54,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S043",
+      "bytes": 13,
+      "pixels": 58,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S044",
+      "bytes": 10,
+      "pixels": 46,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S045",
+      "bytes": 13,
+      "pixels": 59,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S046",
+      "bytes": 14,
+      "pixels": 64,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S050",
+      "bytes": 13,
+      "pixels": 58,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S051",
+      "bytes": 13,
+      "pixels": 65,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S054",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S055",
+      "bytes": 25,
+      "pixels": 111,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S056",
+      "bytes": 19,
+      "pixels": 85,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S057",
+      "bytes": 15,
+      "pixels": 68,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S058",
+      "bytes": 22,
+      "pixels": 105,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S059",
+      "bytes": 16,
+      "pixels": 72,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S060",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S062",
+      "bytes": 15,
+      "pixels": 77,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S063",
+      "bytes": 28,
+      "pixels": 131,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S064",
+      "bytes": 14,
+      "pixels": 67,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S065",
+      "bytes": 18,
+      "pixels": 82,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S066",
+      "bytes": 25,
+      "pixels": 114,
+      "padded_bytes": 34,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S067",
+      "bytes": 13,
+      "pixels": 63,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S068",
+      "bytes": 18,
+      "pixels": 87,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S069",
+      "bytes": 11,
+      "pixels": 49,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S071",
+      "bytes": 18,
+      "pixels": 80,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S072",
+      "bytes": 26,
+      "pixels": 120,
+      "padded_bytes": 35,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S073",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S074",
+      "bytes": 11,
+      "pixels": 52,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S075",
+      "bytes": 20,
+      "pixels": 92,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S076",
+      "bytes": 13,
+      "pixels": 65,
+      "padded_bytes": 28,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S077",
+      "bytes": 20,
+      "pixels": 92,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S082",
+      "bytes": 17,
+      "pixels": 74,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S084",
+      "bytes": 20,
+      "pixels": 92,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S085",
+      "bytes": 13,
+      "pixels": 57,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S086",
+      "bytes": 14,
+      "pixels": 65,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S087",
+      "bytes": 20,
+      "pixels": 98,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S088",
+      "bytes": 8,
+      "pixels": 34,
+      "padded_bytes": 27,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S091",
+      "bytes": 20,
+      "pixels": 95,
+      "padded_bytes": 32,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S092",
+      "bytes": 13,
+      "pixels": 58,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S094",
+      "bytes": 14,
+      "pixels": 68,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S095",
+      "bytes": 22,
+      "pixels": 103,
+      "padded_bytes": 33,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S109",
+      "bytes": 19,
+      "pixels": 92,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S114",
+      "bytes": 15,
+      "pixels": 75,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S115",
+      "bytes": 8,
+      "pixels": 41,
+      "padded_bytes": 26,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S117",
+      "bytes": 18,
+      "pixels": 82,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S124",
+      "bytes": 15,
+      "pixels": 72,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S125",
+      "bytes": 15,
+      "pixels": 73,
+      "padded_bytes": 29,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S145",
+      "bytes": 18,
+      "pixels": 86,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S148",
+      "bytes": 15,
+      "pixels": 70,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S182",
+      "bytes": 17,
+      "pixels": 83,
+      "padded_bytes": 30,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B009-S190",
+      "bytes": 17,
+      "pixels": 76,
+      "padded_bytes": 31,
+      "native_reader_passed": true
+    }
+  ],
+  "scope": "Exact fixed-line help copy and padding leaf; no native menu draw or battle window claim."
+}

@@ -1,0 +1,694 @@
+{
+  "B009-S001": {
+    "canonical": "B003-S001",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S002": {
+    "canonical": "B003-S002",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S003": {
+    "canonical": "B003-S003",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S004": {
+    "canonical": "B003-S004",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S006": {
+    "canonical": "B003-S006",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S007": {
+    "canonical": "B003-S007",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S008": {
+    "canonical": "B003-S008",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S010": {
+    "canonical": "B003-S010",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S011": {
+    "canonical": "B003-S011",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S012": {
+    "canonical": "B003-S012",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S014": {
+    "canonical": "B003-S014",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S020": {
+    "canonical": "B003-S020",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S022": {
+    "canonical": "B003-S022",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S024": {
+    "canonical": "B003-S024",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S025": {
+    "canonical": "B003-S025",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S028": {
+    "canonical": "B003-S028",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S029": {
+    "canonical": "B003-S029",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S030": {
+    "canonical": "B003-S030",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S031": {
+    "canonical": "B003-S031",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S032": {
+    "canonical": "B003-S032",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S033": {
+    "canonical": "B003-S033",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S034": {
+    "canonical": "B003-S034",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S036": {
+    "canonical": "B003-S036",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S038": {
+    "canonical": "B003-S038",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S039": {
+    "canonical": "B003-S039",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S040": {
+    "canonical": "B003-S040",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S041": {
+    "canonical": "B003-S041",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S042": {
+    "canonical": "B003-S042",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S043": {
+    "canonical": "B003-S043",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S044": {
+    "canonical": "B003-S044",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S045": {
+    "canonical": "B003-S045",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S046": {
+    "canonical": "B003-S046",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S050": {
+    "canonical": "B003-S050",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S051": {
+    "canonical": "B003-S051",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S054": {
+    "canonical": "B003-S054",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S055": {
+    "canonical": "B003-S055",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S056": {
+    "canonical": "B003-S056",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S057": {
+    "canonical": "B003-S057",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S058": {
+    "canonical": "B003-S058",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S059": {
+    "canonical": "B003-S059",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S060": {
+    "canonical": "B003-S060",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S062": {
+    "canonical": "B003-S062",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S063": {
+    "canonical": "B003-S063",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S064": {
+    "canonical": "B003-S064",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S065": {
+    "canonical": "B003-S065",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S066": {
+    "canonical": "B003-S066",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S067": {
+    "canonical": "B003-S067",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S068": {
+    "canonical": "B003-S068",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S069": {
+    "canonical": "B003-S069",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S071": {
+    "canonical": "B003-S071",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S072": {
+    "canonical": "B003-S072",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S073": {
+    "canonical": "B003-S073",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S074": {
+    "canonical": "B003-S074",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S075": {
+    "canonical": "B003-S075",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S076": {
+    "canonical": "B003-S076",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S077": {
+    "canonical": "B003-S077",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S082": {
+    "canonical": "B003-S082",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S084": {
+    "canonical": "B003-S084",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S085": {
+    "canonical": "B003-S085",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S086": {
+    "canonical": "B003-S086",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S087": {
+    "canonical": "B003-S087",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S088": {
+    "canonical": "B003-S088",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S091": {
+    "canonical": "B003-S091",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S092": {
+    "canonical": "B003-S092",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S094": {
+    "canonical": "B003-S094",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S095": {
+    "canonical": "B003-S095",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S109": {
+    "canonical": "B003-S109",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S114": {
+    "canonical": "B003-S114",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S115": {
+    "canonical": "B003-S115",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S117": {
+    "canonical": "B003-S117",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S124": {
+    "canonical": "B003-S124",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S125": {
+    "canonical": "B003-S125",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S145": {
+    "canonical": "B003-S145",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S148": {
+    "canonical": "B003-S148",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S182": {
+    "canonical": "B003-S182",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B009-S190": {
+    "canonical": "B003-S190",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B016-S015": {
+    "canonical": "B014-S075",
+    "reason": "Same displayed source family, catalog variant or equivalent wording; excluded from new-source count."
+  },
+  "B008-S012": {
+    "canonical": "B008-S011",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S041": {
+    "canonical": "B008-S037",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S044": {
+    "canonical": "B008-S043",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S045": {
+    "canonical": "B008-S043",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S046": {
+    "canonical": "B008-S043",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S047": {
+    "canonical": "B008-S043",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S048": {
+    "canonical": "B008-S043",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S057": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S058": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S059": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S074": {
+    "canonical": "B008-S073",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S087": {
+    "canonical": "B008-S086",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S088": {
+    "canonical": "B008-S086",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S089": {
+    "canonical": "B008-S086",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S090": {
+    "canonical": "B008-S086",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S092": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S093": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S094": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S095": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S096": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S097": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B008-S105": {
+    "canonical": "B008-S013",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S002": {
+    "canonical": "B010-S001",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S004": {
+    "canonical": "B010-S003",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S006": {
+    "canonical": "B010-S005",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S008": {
+    "canonical": "B010-S007",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S023": {
+    "canonical": "B008-S049",
+    "reason": "Repeated source text, counted once."
+  },
+  "B010-S024": {
+    "canonical": "B008-S050",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S009": {
+    "canonical": "B009-S005",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S013": {
+    "canonical": "B009-S005",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S106": {
+    "canonical": "B009-S105",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S107": {
+    "canonical": "B009-S105",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S112": {
+    "canonical": "B009-S111",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S113": {
+    "canonical": "B009-S111",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S118": {
+    "canonical": "B009-S105",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S127": {
+    "canonical": "B009-S120",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S128": {
+    "canonical": "B009-S121",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S129": {
+    "canonical": "B009-S122",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S139": {
+    "canonical": "B008-S018",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S149": {
+    "canonical": "B009-S021",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S160": {
+    "canonical": "B008-S054",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S161": {
+    "canonical": "B008-S054",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S162": {
+    "canonical": "B008-S054",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S165": {
+    "canonical": "B008-S054",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S166": {
+    "canonical": "B009-S105",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S167": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S168": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S169": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S170": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S171": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S172": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S173": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S174": {
+    "canonical": "B008-S056",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S176": {
+    "canonical": "B009-S116",
+    "reason": "Repeated source text, counted once."
+  },
+  "B009-S188": {
+    "canonical": "B009-S111",
+    "reason": "Repeated source text, counted once."
+  },
+  "B019-S148": {
+    "canonical": "B005-S001",
+    "reason": "Exact source already translated; catalog/help/attack variant excluded."
+  },
+  "B019-S149": {
+    "canonical": "B005-S002",
+    "reason": "Exact source already translated; catalog/help/attack variant excluded."
+  },
+  "B019-S150": {
+    "canonical": "B005-S003",
+    "reason": "Exact source already translated; catalog/help/attack variant excluded."
+  },
+  "B019-S151": {
+    "canonical": "B005-S005",
+    "reason": "Exact source already translated; catalog/help/attack variant excluded."
+  },
+  "B019-S168": {
+    "canonical": "B008-S078",
+    "reason": "Repeated source text, counted once."
+  },
+  "B019-S204": {
+    "canonical": "B019-S104",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B008-S002": {
+    "canonical": "B008-S001",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B008-S038": {
+    "canonical": "B008-S014",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B008-S042": {
+    "canonical": "B008-S028",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B009-S105": {
+    "canonical": "B008-S055",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B009-S126": {
+    "canonical": "B009-S119",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B009-S177": {
+    "canonical": "B009-S017",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B009-S185": {
+    "canonical": "B009-S108",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S019": {
+    "canonical": "B010-S018",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S020": {
+    "canonical": "B010-S018",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S041": {
+    "canonical": "B010-S037",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S042": {
+    "canonical": "B010-S038",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S045": {
+    "canonical": "B010-S037",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S046": {
+    "canonical": "B010-S039",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S047": {
+    "canonical": "B010-S043",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S049": {
+    "canonical": "B010-S037",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S050": {
+    "canonical": "B010-S040",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S051": {
+    "canonical": "B010-S044",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B010-S052": {
+    "canonical": "B010-S048",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B019-S028": {
+    "canonical": "B019-S027",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B019-S029": {
+    "canonical": "B019-S027",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B019-S084": {
+    "canonical": "B019-S082",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B019-S085": {
+    "canonical": "B019-S082",
+    "reason": "Conservative shared family: formatting, order, repetition, intensity or equivalent effect wording is not a new translation."
+  },
+  "B019-S162": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B008-S078": {
+    "canonical": "B002-S078",
+    "reason": "Existing source family after article/case/line normalization; excluded."
+  },
+  "B008-S098": {
+    "canonical": "B002-S098",
+    "reason": "Existing source family after article/case/line normalization; excluded."
+  },
+  "B008-S107": {
+    "canonical": "B002-S107",
+    "reason": "Existing source family after article/case/line normalization; excluded."
+  },
+  "B008-S108": {
+    "canonical": "B002-S108",
+    "reason": "Existing source family after article/case/line normalization; excluded."
+  },
+  "B008-S109": {
+    "canonical": "B002-S109",
+    "reason": "Existing source family after article/case/line normalization; excluded."
+  },
+  "B019-S048": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S111": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S129": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S152": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S169": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S177": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  },
+  "B019-S187": {
+    "canonical": "unchanged_international_label",
+    "reason": "No lexical translation; unchanged French/international label or punctuation-only adjustment is excluded."
+  }
+}

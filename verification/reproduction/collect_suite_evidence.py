@@ -23,6 +23,12 @@ if suite.get('lot')==47:
  assert required<=covered,sorted(required-covered)
  report['canonical_provider_ids_exercised']=sorted(required)
  report['canonical_new_texts_exercised']=len(required)
+if suite.get('lot')==48:
+ required={x['id'] for x in json.loads((repo/'verification/lot48_counting.json').read_text())['canonical_sources']}
+ covered={c['entry'] for g in report['groups'].values() for c in g['cases']}
+ assert len(required)==400 and required<=covered,sorted(required-covered)
+ report['canonical_provider_ids_exercised']=sorted(required)
+ report['canonical_new_texts_exercised']=len(required)
 for source,name in [(a.runs/f'{v}_check_ab_{a.tag}/check_a.png','check_a.png'),(a.runs/f'{v}_check_ab_{a.tag}/check_b_20.png','check_b.png')]+[(a.runs/f'{v}_navigation_{a.tag}'/n,n) for n in ['main_menu.png','settings.png','region_map.png']]:
  shutil.copyfile(source,dest/name);report['images'][name]={'sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'source':str(source.relative_to(a.runs))}
 

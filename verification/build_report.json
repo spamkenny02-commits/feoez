@@ -1,25 +1,26 @@
 {
-  "version": "V53",
-  "release_status": "complete_lot47_build_and_staged_validation",
+  "version": "V54",
+  "release_status": "complete_lot_build_requires_separate_runtime_report",
   "input_files_sha256": {
-    "traduction/lot47_fr.json": "940fbd2292958554c1055d64fb2bd29fc916851611b5445c1204d504aa89b9b1",
-    "verification/aliases_lot47.json": "90763c86b3fe9ca3c2489980471ace013c3cff034086ce420a652a3bc5ad12ca",
-    "verification/layout_contracts_lot47.json": "c04ce81c9f5ecee3855882b0dd84cc5cb24e0fbe80d1a96ae7242d8bbbbc91bc",
-    "tools/build_lot47_checkpoint.py": "d87f2c3d89876eebe23d2ffb9436b4b67ab0097948f7ee5a406689111fa2ac61"
+    "traduction/lot48_fr.json": "409f9fdfd8119140adade2d827df732f6a812e99e8632e02045b7fc9d47f8977",
+    "verification/aliases_lot48.json": "d82b3bff652929ffa5a45ed09100049e85d01856207af0ed722c9daf00f296d4",
+    "verification/layout_contracts_lot48.json": "7f735797205419d84cc566a8bd5d51d46dd8bf59e43f847b4f969f5308ee722b",
+    "tools/build_lot48_checkpoint.py": "7e1f3b2db8d5c0e1a0b4b37ac9a37a6d5867af93d29ff57b41e4b75f3cde0395"
   },
   "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
-  "output_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
-  "baseline_v52_sha256": "d74ba2aaff5e9f01dacde9c630e6e8c34495b7aba5a6a5f5256f6e72d6a4f862",
-  "baseline_rows_preserved": 5381,
-  "v52_outside_authorized_spans_preserved": true,
-  "new_bounded_occurrences": 580,
-  "new_distinct_bounded_sources": 388,
-  "native_month_sources": 12,
+  "output_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "baseline_v53_sha256": "ba2b468c2ba2f05ba542d421213c1564861fed7e35018704b88038608dcc2f7c",
+  "baseline_rows_preserved": 5961,
+  "v53_outside_authorized_spans_preserved": true,
+  "new_bounded_occurrences": 573,
+  "new_distinct_bounded_sources": 400,
+  "native_month_sources": 0,
   "new_distinct_texts_total_prepared": 400,
-  "runtime_validation": "verification/emulation_report_v53.json, exact SHA required",
-  "engine_checks": 6756,
+  "runtime_validation": "see verification/emulation_report_v54.json; verify exact ROM hash",
+  "engine_checks": 7363,
+  "native_lookup_validation": "passed",
   "ips_roundtrip": true,
-  "ips_sha256": "0ac14f5583ba54ab3a7b00156a3dac61f4274b9fff14b0f9436c47713f7c9272",
+  "ips_sha256": "7442194a8404d490f1a3f8bf10999492df10ab91d6ecaf8cd902558acb3eec72",
   "calendar_formats": {
     "months": [
       {
@@ -4665,16 +4666,16 @@
       "destination": "0x6c5880",
       "storage": "relocated",
       "old_size": 444,
-      "new_size": 475,
+      "new_size": 478,
       "old_relative_offsets": [
         "0x0004",
         "0x01A8"
       ],
       "new_relative_offsets": [
         4,
-        452
+        455
       ],
-      "translated": 14
+      "translated": 17
     },
     {
       "block_ids": [
@@ -4692,6 +4693,161 @@
         2
       ],
       "translated": 6
+    },
+    {
+      "block_ids": [
+        8
+      ],
+      "source": "0x601970",
+      "destination": "0x601970",
+      "storage": "in_place",
+      "old_size": 2669,
+      "new_size": 2641,
+      "old_relative_offsets": [
+        "0x000E",
+        "0x01E2",
+        "0x0393",
+        "0x0557",
+        "0x06D8",
+        "0x086C",
+        "0x095F"
+      ],
+      "new_relative_offsets": [
+        14,
+        443,
+        849,
+        1229,
+        1605,
+        2016,
+        2357
+      ],
+      "translated": 109
+    },
+    {
+      "block_ids": [
+        9
+      ],
+      "source": "0x6023dd",
+      "destination": "0x6c5a60",
+      "storage": "relocated",
+      "old_size": 4130,
+      "new_size": 4616,
+      "old_relative_offsets": [
+        "0x001A",
+        "0x0146",
+        "0x02A3",
+        "0x03AC",
+        "0x04BE",
+        "0x05D8",
+        "0x0736",
+        "0x08C8",
+        "0x09EF",
+        "0x0B9C",
+        "0x0D36",
+        "0x0E3F",
+        "0x0FF1"
+      ],
+      "new_relative_offsets": [
+        26,
+        368,
+        761,
+        1046,
+        1379,
+        1730,
+        2123,
+        2557,
+        2842,
+        3292,
+        3746,
+        4085,
+        4562
+      ],
+      "translated": 194
+    },
+    {
+      "block_ids": [
+        10
+      ],
+      "source": "0x6033ff",
+      "destination": "0x6c6c70",
+      "storage": "relocated",
+      "old_size": 1485,
+      "new_size": 1538,
+      "old_relative_offsets": [
+        "0x0008",
+        "0x01EF",
+        "0x03CD",
+        "0x056C"
+      ],
+      "new_relative_offsets": [
+        8,
+        585,
+        1095,
+        1450
+      ],
+      "translated": 52
+    },
+    {
+      "block_ids": [
+        11
+      ],
+      "source": "0x6039cc",
+      "destination": "0x6c7280",
+      "storage": "relocated",
+      "old_size": 972,
+      "new_size": 988,
+      "old_relative_offsets": [
+        "0x0004",
+        "0x020E"
+      ],
+      "new_relative_offsets": [
+        4,
+        526
+      ],
+      "translated": 30
+    },
+    {
+      "block_ids": [
+        19
+      ],
+      "source": "0x608883",
+      "destination": "0x6c7660",
+      "storage": "relocated",
+      "old_size": 3680,
+      "new_size": 3911,
+      "old_relative_offsets": [
+        "0x001C",
+        "0x00DD",
+        "0x01DC",
+        "0x0307",
+        "0x0418",
+        "0x0534",
+        "0x0664",
+        "0x0773",
+        "0x0861",
+        "0x0967",
+        "0x0A5E",
+        "0x0B60",
+        "0x0C51",
+        "0x0D54"
+      ],
+      "new_relative_offsets": [
+        28,
+        249,
+        540,
+        829,
+        1134,
+        1434,
+        1757,
+        2043,
+        2305,
+        2583,
+        2857,
+        3113,
+        3383,
+        3643
+      ],
+      "translated": 185
     }
   ],
   "deferred_source_entries": [
@@ -4813,14 +4969,48 @@
     "B014-S062",
     "B015-S024",
     "B015-S062",
-    "B016-S001",
-    "B016-S014",
-    "B016-S015",
-    "B043-S007"
+    "B043-S007",
+    "B019-S184",
+    "B019-S185",
+    "B019-S186",
+    "B019-S188",
+    "B019-S189",
+    "B019-S190",
+    "B019-S191",
+    "B019-S192",
+    "B019-S193",
+    "B019-S194",
+    "B019-S195",
+    "B019-S196",
+    "B019-S197",
+    "B019-S198",
+    "B019-S199",
+    "B019-S200",
+    "B019-S201",
+    "B019-S202",
+    "B019-S203",
+    "B019-S205",
+    "B019-S206",
+    "B019-S207",
+    "B019-S208",
+    "B019-S209",
+    "B019-S210",
+    "B019-S211",
+    "B019-S212",
+    "B019-S213",
+    "B019-S214",
+    "B019-S215",
+    "B019-S216",
+    "B019-S217",
+    "B019-S218",
+    "B019-S219",
+    "B019-S220",
+    "B019-S221",
+    "B019-S222"
   ],
-  "allocation_end": "0x6c5a60",
-  "free_bytes": 42400,
-  "in_place_blocks": 155,
-  "relocated_blocks": 47,
+  "allocation_end": "0x6c85b0",
+  "free_bytes": 31312,
+  "in_place_blocks": 156,
+  "relocated_blocks": 51,
   "alignment_bytes": 16
 }

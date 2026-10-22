@@ -1,0 +1,9 @@
+{
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "field_state_sha256": "c7d6906a1d451419858e2ed4691145e9c77af6a5170aab8be14cb804063b5e67",
+  "scope": "Controller navigation to the real Almanac from a fresh same-ROM replay; no synthetic text-slot fixture.",
+  "visual_review": "Actually opened/read exact candidatec Almanac: seven French labels, Jour faste, Solstice d’hiver and B018-S182 Itou notice; does not validate other dates.",
+  "expected_replay_date": "1995-12-22",
+  "image": "almanac_open.png"
+}

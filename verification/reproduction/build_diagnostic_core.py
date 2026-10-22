@@ -6,9 +6,9 @@ Use FEOE_TEST_BLOCK and FEOE_TEST_STRING; never use this core for progression cl
 """
 import argparse,subprocess,shutil,hashlib,json
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--enable-slot-fixtures',action='store_true',help='Opt-in synthetic WRAM text slots for staged rendering only');p.add_argument('--enable-style-slot-fixtures',action='store_true',help='Permit only native08/0A in addition to printable synthetic slot bytes; requires --enable-slot-fixtures');a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--trigger-block',type=int,default=49,choices=range(1,256),metavar='1..255',help='Opt-in source lookup to redirect for staged rendering; default49.20 is a battle target-name fixture, never normal progression');p.add_argument('--enable-slot-fixtures',action='store_true',help='Opt-in synthetic WRAM text slots for staged rendering only');p.add_argument('--enable-style-slot-fixtures',action='store_true',help='Permit only native08/0A in addition to printable synthetic slot bytes; requires --enable-slot-fixtures');a=p.parse_args()
 if a.enable_style_slot_fixtures and not a.enable_slot_fixtures:p.error('Style fixtures require --enable-slot-fixtures')
-f=a.source/'cpuexec.cpp';lib=a.source/'libretro/snes9x_libretro.so';original=f.read_bytes();normal=lib.read_bytes()
+f=a.source/'cpuexec.cpp';lib=a.source/'libretro/snes9x_libretro.so';original=f.read_bytes();normal=lib.read_bytes();objects={p:p.read_bytes() for p in a.source.rglob('*.o')}
 hook=r'''
             static const int feoeBlock = getenv("FEOE_TEST_BLOCK") ? atoi(getenv("FEOE_TEST_BLOCK")) : 0;
             static const int feoeString = getenv("FEOE_TEST_STRING") ? atoi(getenv("FEOE_TEST_STRING")) : 0;
@@ -36,6 +36,7 @@ hook=r'''
                 }
             }
 '''
+hook=hook.replace('Registers.AL == 49',f'Registers.AL == {a.trigger_block}')
 if a.enable_slot_fixtures:
  fixture_hook=r'''
                     // Explicit synthetic fixture; never a natural-event proof.
@@ -76,6 +77,7 @@ try:
  a.out.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(lib,a.out)
 finally:
  f.write_bytes(original);lib.write_bytes(normal)
+ for p,b in objects.items():p.write_bytes(b)
 
 assert f.read_bytes()==original and lib.read_bytes()==normal
-print(json.dumps({'diagnostic_core_sha256':hashlib.sha256(a.out.read_bytes()).hexdigest(),'source_cpp_sha256':hashlib.sha256(original).hexdigest(),'source_library_sha256':hashlib.sha256(normal).hexdigest(),'source_and_library_restored':True,'synthetic_style_slots_enabled':a.enable_style_slot_fixtures}))
+print(json.dumps({'diagnostic_core_sha256':hashlib.sha256(a.out.read_bytes()).hexdigest(),'source_cpp_sha256':hashlib.sha256(original).hexdigest(),'source_library_sha256':hashlib.sha256(normal).hexdigest(),'source_and_library_restored':True,'synthetic_style_slots_enabled':a.enable_style_slot_fixtures,'trigger_block':a.trigger_block}))

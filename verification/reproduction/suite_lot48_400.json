@@ -1,0 +1,26 @@
+{
+  "lot": 48,
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "case_count": 573,
+  "groups": [
+    {
+      "name": "help",
+      "cases": "cases_lot48_400_help.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "labels",
+      "cases": "cases_lot48_400_labels.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    },
+    {
+      "name": "actions",
+      "cases": "cases_lot48_400_actions.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot47_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    }
+  ],
+  "scope": "Native dialogue-window fixtures only. Native help copier width proofs and actual menu navigation are separate. No actual battle progression, event availability, timing or debug classification proof."
+}

@@ -1,0 +1,62 @@
+{
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "commands_sha256": "ff3991804bcecc174086d28d07426351005ade351325edaa0e9a176bf4cc64b3",
+  "source_field_state_sha256": "c7d6906a1d451419858e2ed4691145e9c77af6a5170aab8be14cb804063b5e67",
+  "controller_only": true,
+  "observe_only_core": false,
+  "visual_review": "Actually read friends scene, Mine de charbon, battle, gain6ryo/virtue3 and kusa dango loot;397 continuous standard-core frames identical to the previously read exploration frames.",
+  "images": {
+    "mont_arrivee.png": {
+      "sha256": "19e445d931a04abe8a7d35a10fcd7dc7effda213d06d6ecca0612ba15bae6d4c",
+      "source_capture": "mountain_arrival.png",
+      "reviewed": true
+    },
+    "amis_dialogue.png": {
+      "sha256": "4d9bf4f2e608f56f43ee88e1719f65fd5d152c3359141451051cb5651517ea91",
+      "source_capture": "yonder_scene_talk02.png",
+      "reviewed": true
+    },
+    "amis_rejoignent.png": {
+      "sha256": "a7e4f560736fcfe3e97e1a58c2057fe1a338468d0572621d7da46bd46f312220",
+      "source_capture": "yonder_scene_talk13.png",
+      "reviewed": true
+    },
+    "mine_entree.png": {
+      "sha256": "6d298e2fccf597235fd1e91ddf66470603f2b043783166a33868915c1cfc4eb8",
+      "source_capture": "mine_final_walk02.png",
+      "reviewed": true
+    },
+    "premier_combat.png": {
+      "sha256": "ba394b371c7219d2a75685c479fce2ad9939c0ea1d4ed72929722f5a08beeb9f",
+      "source_capture": "floor2_end_walk09.png",
+      "reviewed": true
+    },
+    "gain_ryo.png": {
+      "sha256": "e4a1b1d0be8b14254c0e344d3272b50f3d8fff89870a79ddd3c13bd2e68bf7a1",
+      "source_capture": "battle_round_b04_2.png",
+      "reviewed": true
+    },
+    "gain_vertu.png": {
+      "sha256": "5fa9408d9797b9e86636ffa029c46f8e716fd6e99ce81abda611b77262a777a7",
+      "source_capture": "battle_round_b05_0.png",
+      "reviewed": true
+    },
+    "butin.png": {
+      "sha256": "2640add2bf84da81659aa9159575c92489c77e90a731271da94be5adb091f423",
+      "source_capture": "battle_round_b06_0.png",
+      "reviewed": true
+    },
+    "retour_terrain.png": {
+      "sha256": "58fe2460bdfa856c6b0c44d31b2d27c18bb2b0a996554ca1e41bc051ab3bdd27",
+      "source_capture": "natural_replay_final.png",
+      "reviewed": true
+    }
+  },
+  "controller_commands": 789,
+  "game_frames": 26953,
+  "scope": "Single continuous controller-only replay from a fresh same-ROM field checkpoint to the first normal battle and rewards; no ROM, CPU or WRAM redirection.",
+  "staged_special_attack_branches_validated": false,
+  "comparison_count": 397,
+  "all_compared_pixels_identical": true
+}

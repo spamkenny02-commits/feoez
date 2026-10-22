@@ -1,0 +1,35 @@
+{
+  "scope": "Six wording corrections within new lot48 draft only; zero pre-existing V53 texts changed and no new translations counted.",
+  "fixes": [
+    {
+      "id": "B009-S052",
+      "before": "Effet Fragilité",
+      "after": "Effet Frêle"
+    },
+    {
+      "id": "B009-S178",
+      "before": "Les coups ajoutent 20<14> aux butins",
+      "after": "Coups : taux de butin accru de 20<14>"
+    },
+    {
+      "id": "B011-S003",
+      "before": "Sacrifie la vie pour frapper tous",
+      "after": "Sacrifie la vie, frappe tous les ennemis"
+    },
+    {
+      "id": "B011-S004",
+      "before": "Le Sennin du Sabre frappe tous",
+      "after": "Le Sennin du Sabre frappe tout ennemi"
+    },
+    {
+      "id": "B011-S026",
+      "before": "Rend technique sous les arts ennemis",
+      "after": "Les arts reçus rendent de la technique"
+    },
+    {
+      "id": "B019-S161",
+      "before": "Courant missile",
+      "after": "Courant d’eau missile"
+    }
+  ]
+}

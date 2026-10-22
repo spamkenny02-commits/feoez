@@ -1,0 +1,17 @@
+{
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "core_sha256": "2e9344a6d54f44c4c2fa10f4adc78a2648bf242a275d2a90c4f524f689e9ea6a",
+  "scope": "Actual controller navigation with read-only lookup logging, no redirected text arguments.",
+  "images": {
+    "02_inventory.png": {
+      "sha256": "c0241cdd4168e9cd333fb74d94e6ca1d45a244bc5a0cb8b41c7834c75fcea7ac",
+      "reviewed": true
+    },
+    "06_equipment_open.png": {
+      "sha256": "a42daf37dd17174ff81afa77f59f7339ef4aef50d8b3e0a1578dde11914a0986",
+      "reviewed": true
+    }
+  },
+  "observed": "B009-S046 Katana de bois help is French; Wooden Katana, Rags, Straw Sandals and general menu graphics remain English.",
+  "whole_menus_complete": false
+}

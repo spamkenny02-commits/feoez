@@ -1,0 +1,4546 @@
+{
+  "rom_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "standard_core_sha256": "826bdab012551be45dcdca92a4823a43caf556f7e480e3e8a613a7fae9afd210",
+  "diagnostic_core_sha256": "ee68469a9f9c3def4e138b3cdde41e1e9b85f4645fce2ffb214a7adc910fa658",
+  "natural_commands_sha256": "ff3991804bcecc174086d28d07426351005ade351325edaa0e9a176bf4cc64b3",
+  "fixture": "B020 target-name lookup redirected to B019; native FD8B reader, formatting, centering and PPU unchanged.",
+  "ordinary_action_producer": {
+    "script_offset": "0x653c1",
+    "bytes": "0e1312bb4309fd8b1b02",
+    "selector": "RAM43BB",
+    "consumer": "FD8B -> C07722 -> C077AF (X0 copy) -> C07880/C078A1 ->4D2C00 width and C17702 drawing",
+    "maximum_banner_tiles": 28
+  },
+  "case_count": 185,
+  "visual_review": "All184 unique banner crops actually opened/read on12 sheets. No clipping, missing accent or new wording fix found. Native battle banner fixtures remain distinct from natural attacks.",
+  "all_natural_attack_branches_validated": false,
+  "cases": [
+    {
+      "id": "B019-S001",
+      "string_id": 1,
+      "text": "Morsure",
+      "bytes": 7,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7683",
+      "capture_sha256": "03db7c2708103c32cb974830c119fb4a20c1d356b449491d0b9f483b0b39e571",
+      "log_sha256": "4dfe68163afb7b6b2f9014eaa708d81b9cca38b86a7bce933e6023ce7d52f865",
+      "crop_sha256": "d44b8774338f060ae2e1cd2da01a97732096a71a4cc113bdd65861a8769336a4",
+      "sheet": "banner_000.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S002",
+      "string_id": 2,
+      "text": "Brasier",
+      "bytes": 7,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c768b",
+      "capture_sha256": "9d03dec1e946c798f6aa2848d64e422409ffa228521c6dd739b5dab3f1ebcd82",
+      "log_sha256": "4e78ffd6bbe318ff18b94350c7d49d6d8542cbf8729d33523ee90c5c63bc1a02",
+      "crop_sha256": "8513207273ff71b93fa0dd0ae3e7efe6e8c1118179c724c5d82bc5eb40a62cf5",
+      "sheet": "banner_000.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S003",
+      "string_id": 3,
+      "text": "Écho terrestre",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c769a",
+      "capture_sha256": "3edda76f039e4f125774be77a8ad584c8f89a35507257a33690ee8eb73b514a9",
+      "log_sha256": "80eb9e8c17cf81f5ade6f796a865ebe54feb6e9cfd9ab7e4f9b599d222e6c2f2",
+      "crop_sha256": "0370b7f6e396c779122d47a0562944fd697ea2fc8efae57028aa18f59964d32d",
+      "sheet": "banner_000.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S004",
+      "string_id": 4,
+      "text": "Meuh !",
+      "bytes": 6,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76a1",
+      "capture_sha256": "91631c6b968e1722e63cf2863b7909293a19495237e586ba92b475ffb63f8af8",
+      "log_sha256": "49d8aab5b668e2ca4f14cdf9271fe051cc1726379f1f452d05f5052155a4e178",
+      "crop_sha256": "ea15054ddd39d56d38d07d2f30160d1b800da4be35d43295d8cf95c6487af816",
+      "sheet": "banner_000.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S005",
+      "string_id": 5,
+      "text": "Attaque empoisonnée",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76b5",
+      "capture_sha256": "c9a2a5632d0d6558d2fd4db14e1cbd3be3fdc51e2d14da7829ab0abcc3ba8de0",
+      "log_sha256": "a968c19c5dc8f5c8c38cfe5e73a2e7cdbc93856129dcf1746a7b07563ffd1954",
+      "crop_sha256": "782bcf35a852b9e8bff843e44c95d5a87ca536fd7e63705abd04aef665e25f86",
+      "sheet": "banner_000.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S006",
+      "string_id": 6,
+      "text": "Faux tournoyantes",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76c7",
+      "capture_sha256": "71c054c30bd1bdfadb931cacb432dc5d91d3d7a5c1792b6fb17ae9b50e684074",
+      "log_sha256": "517b444febfc756ceb11654f4aac39d468e33e1b5e6d84da65ef3ed98a58ec70",
+      "crop_sha256": "eda1b8049a7e56a9b52dbcda68a06ecf67f9c25dccaffb562e2d501545dedd3a",
+      "sheet": "banner_000.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S007",
+      "string_id": 7,
+      "text": "Jet de stalactites !",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76dc",
+      "capture_sha256": "de0e804350354f0d0efbfe111b7de75a8472e780111c2cfbe83968188cc1cb21",
+      "log_sha256": "329d0ee5d466d7fd1cf4378cc1b4c2a481bfcd9032d8c67ed544e8b899be0661",
+      "crop_sha256": "814700826e13e0b8b94658d745b164498b4a70019c8dff5ca1e4256ed9003af9",
+      "sheet": "banner_000.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S008",
+      "string_id": 8,
+      "text": "Crocs bleus",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76e8",
+      "capture_sha256": "fc4160391bdfc069006ef3cee06375a1f4e715071907b28c7dd40d972aaccb7f",
+      "log_sha256": "abec0ac239862216f52bcd8d4a14696bf5a8b0cb5f60a61134c2d911abcea673",
+      "crop_sha256": "a12bcd3b7bb457db84cc4b0fd6d114e26a9b49c234024eabd734ed7dcf8f1dcb",
+      "sheet": "banner_000.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S009",
+      "string_id": 9,
+      "text": "Prélude au blizzard",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c76fc",
+      "capture_sha256": "b43a9a27413989bc576acae0d941925c3c5e973060b80c663a238cf08943566a",
+      "log_sha256": "c4670828dddcf79edad5979b87aed7be7878209e03e27aa0f12bca98e5b9007d",
+      "crop_sha256": "329b6d843e972b0b6ea4b0a0be051a7c1c6238353b433ec8cadf5d03cfb9d184",
+      "sheet": "banner_000.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S010",
+      "string_id": 10,
+      "text": "À l’aide !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7707",
+      "capture_sha256": "ca530891b48a0ad15ef108d99b1287da2e532d2fe5e88d174d922b5892ecbeb9",
+      "log_sha256": "62c37c5d06c63d0f3c91bb90357177f0efe2ed3a0ba8debe3c07ffd20bc7021f",
+      "crop_sha256": "300ccedc4b043706c50f79680807faf6ed4ee39003c398d0ea5e2cda6d86d0b6",
+      "sheet": "banner_000.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S011",
+      "string_id": 11,
+      "text": "Tu me le paieras !",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c771a",
+      "capture_sha256": "bc1d93935081e20ca3d734db6689e7a819e7af64c46d0f8d03868a55d42e846a",
+      "log_sha256": "4b786223db1bd06761e5afe14c0b5193be585d54821a3f5d7ac67d3339a2097d",
+      "crop_sha256": "bd8426156369250d4f905006425a43ec053045fccd48f5b1b48b4a65311b9b28",
+      "sheet": "banner_000.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S012",
+      "string_id": 12,
+      "text": "Division",
+      "bytes": 8,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7723",
+      "capture_sha256": "9e81663c2fcffc997e593ff9456391bac6f8c74ed951b189418e37356310e9c2",
+      "log_sha256": "b1640111c20a85830bd8bc49eb104d3c2b5b6f41d9d5c292f0344f56ca547fde",
+      "crop_sha256": "27d3e35630e265b79119aae32199c6346a888bbb233bfeb15cc7c9168deaf041",
+      "sheet": "banner_000.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S013",
+      "string_id": 13,
+      "text": "Éclaboussure",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7730",
+      "capture_sha256": "d0b21fec3745bb59a900bec7dcef1cc21f7fe1b85676fce27c4cb984f38ddcfe",
+      "log_sha256": "a806f460adca81bc46dcfa273c8677dd3ffbb5999f9c4a7d517209dfbe6c71aa",
+      "crop_sha256": "b600dca1e9e9644a81ec0c86c48661217497f3d6fd97a04318c2c35d58706bbf",
+      "sheet": "banner_000.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S014",
+      "string_id": 14,
+      "text": "Yeux de glace",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c773e",
+      "capture_sha256": "ae2ce573c4f705bf232c1c82bc89f2e813907dd9a5b53e6239c3f18b7d100aad",
+      "log_sha256": "4545055f3de7cc73001a36252e4cec835a2b0d1ed7d10dedd7e74acfa20fcd46",
+      "crop_sha256": "0a29a3ee59af1a24428ff2908139e31ed3faf30556fa622065f3ca9fc68b8096",
+      "sheet": "banner_000.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S015",
+      "string_id": 15,
+      "text": "Guérison !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7749",
+      "capture_sha256": "80178a5889b8b6885fa4a2ede619999317c6caa7963a480b6f794be617567405",
+      "log_sha256": "b76512330cba834ea6ea4bee8220eaf32f6610c0ae5c912b115fa9b4bdfd1560",
+      "crop_sha256": "b8fa09fc83dc1afb797d6a1e5ffe1479cb4682a9dbdd8a346d47807bf11bd178",
+      "sheet": "banner_000.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S016",
+      "string_id": 16,
+      "text": "Soupir glacial",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7758",
+      "capture_sha256": "963ddce6b7123cfdad266285634f58484b51d5e27999bc9caceac719e8a33f72",
+      "log_sha256": "77484c2eb396ec6f8c8a16b67a80ba1f6c5edb15963352edf1bb76e879c62a1e",
+      "crop_sha256": "6a708d654abd06073b6caf2832e6e8e0385bb374dbcf95b18debf0b8c3af68ac",
+      "sheet": "banner_000.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S017",
+      "string_id": 17,
+      "text": "Attaque soporifique",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c776c",
+      "capture_sha256": "5cce2709d755b144f62e5f73045fb0234726eb20587537832fe753baa330a893",
+      "log_sha256": "3883740f7b87de4bdd658adbe0af65e20e88d8e611889d1f938736c9c61f7447",
+      "crop_sha256": "d0c9745e6436cab25069f3efb30c46975b9bf5a4947b6166e54f4814e610f93f",
+      "sheet": "banner_001.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S018",
+      "string_id": 18,
+      "text": "Saut épineux",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7779",
+      "capture_sha256": "6c601e92eb07cb90718cb561a9bc8e23e660a766ff47c10f38a52b45fbc05d89",
+      "log_sha256": "8b87657478ee3a84f1b01f001eb4955b2b9cc333b7ac6633aa4a4ca72de31065",
+      "crop_sha256": "80179d54811783524de48129088da86bc18c73fda1a5f8430ab1e781ab405143",
+      "sheet": "banner_001.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S019",
+      "string_id": 19,
+      "text": "Drain de force",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7788",
+      "capture_sha256": "c796aa9ec48a6f0647e13ecf90f15b5260b03f10c3cb05f547de6a9a23cafc7a",
+      "log_sha256": "d8abd26de896b694f7a5e8d2743c27e5271c19f4c83791f39161651b946755ff",
+      "crop_sha256": "601238711e7518642abb6d20e784a0ecb085ec201ecc64029d7415dd6f0d82c6",
+      "sheet": "banner_001.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S020",
+      "string_id": 20,
+      "text": "Sceau des parchemins",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c779d",
+      "capture_sha256": "1dffb826edbcb1e8cac31a78fed2b93f02b10cd3d96591704f03cb62e6a84464",
+      "log_sha256": "eb1b0c9695ea732478e7952054bd88bf6727336e81d4d4ddaa4466db50a24f43",
+      "crop_sha256": "75c9b8e608bc568be72e9595ee1f71f91209270e3d2221fcb084bc0cc5077a31",
+      "sheet": "banner_001.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S021",
+      "string_id": 21,
+      "text": "Baisse de précision",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c77b1",
+      "capture_sha256": "f55b9eb48209c63a40876e0f58286a2b8f7649309e3562dd44893d29a8ce2840",
+      "log_sha256": "fcd003dd085636c0a657efb1d3a13c3ee45424dcd0b6aa6e6cd4aea05b218fd4",
+      "crop_sha256": "c7221e5b94c42327f6eac7e73eecd428d3415da11e415c2ea53d54aa14dbf651",
+      "sheet": "banner_001.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S022",
+      "string_id": 22,
+      "text": "Larmes de la Loutre renarde",
+      "bytes": 27,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c77cd",
+      "capture_sha256": "fedf4df124f81d7aea606927e8b463b84b65d778694001b367ca83ea1348937f",
+      "log_sha256": "69892180ebd520721dfbd596bee600b153a7a084d78b334fe8296f198120a30d",
+      "crop_sha256": "429aecc5d251ef9ce32e1ac7cbc8364e1d987a1ca2ac47656dc510259d15043e",
+      "sheet": "banner_001.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S023",
+      "string_id": 23,
+      "text": "Approchez !",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c77d9",
+      "capture_sha256": "f54caef46abaa4910786d455c394696056f579c93424df9f8f85b376560bf022",
+      "log_sha256": "b76d1e916d058a2798313d929edf6d1fa670fc8f07a196275a0591ed51bbcd48",
+      "crop_sha256": "c189f4ec1e1d38bb6a19896158b12afea4bb8bc5ac6c67133c394e4609251d48",
+      "sheet": "banner_001.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S024",
+      "string_id": 24,
+      "text": "À la prochaine !",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c77ea",
+      "capture_sha256": "fecb793dde07c9500e9182ee69505562120b7d4792cb24ed12e5c15c72eca2d2",
+      "log_sha256": "4e3774458df3eb68e94adffd57b1b27fab5f400673dbd1a053c63759f10ae9eb",
+      "crop_sha256": "a07d0e6bca29e14400a0d8fa2b4d7d360f4e2310ac6beef6776a5bd26da3e7bb",
+      "sheet": "banner_001.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S025",
+      "string_id": 25,
+      "text": "Laser électromagnétique suprême",
+      "bytes": 31,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c780a",
+      "capture_sha256": "6fe82eef0743097747ee2f0a33ebb3aa5fbc9468d485cf50e4ddca92d664bbea",
+      "log_sha256": "a604b320ef269577b30830c484ab3bc1a02668d2990805754e2c16f50aa2981b",
+      "crop_sha256": "8b106d9337a37808ad36e283181db5b9553dc51f73aea7c8d3cc4ae82c40837d",
+      "sheet": "banner_001.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S026",
+      "string_id": 26,
+      "text": "Attaque de Lu Xia",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c781c",
+      "capture_sha256": "ae646d01c0a0be3702e8fdce5569c666af9bfe2603b06bde96a61646e01567a9",
+      "log_sha256": "52dd8d38430d77d9bd7de0bdf21534971ba5af7d6166015849254292f498bdba",
+      "crop_sha256": "83150936c42831af21cd7509026e2a75b84f50528ad382dc769327fd431407b6",
+      "sheet": "banner_001.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S027",
+      "string_id": 27,
+      "text": "Ouh-ik !",
+      "bytes": 8,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7825",
+      "capture_sha256": "f7fd4be1a29809898655742fd52e9ee0ed5aa1575bb059d41eb8924cdd7e9a42",
+      "log_sha256": "b51a5406a301cbddfaeb9fbb320c95632beac9b6a008e929abef6064f3f9d8f1",
+      "crop_sha256": "23fc52ed2107099d1be6072c60ea6cf1734e917384dbf67c0149c214bff46d7c",
+      "sheet": "banner_001.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S028",
+      "string_id": 28,
+      "text": "Ouh-ik-ik !",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7831",
+      "capture_sha256": "a9796ea50223f2cf63018e2b3528b2b8fb94ad94ef49cfa46084f681f6a2bd39",
+      "log_sha256": "57051010964b4d0e8486357eefca87c395088bd43697a657223d527c86f58f21",
+      "crop_sha256": "ad7a17bbc45c0d8cfded828281bba530e38acf976c4b1a5da3cab0d45e6b978e",
+      "sheet": "banner_001.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S029",
+      "string_id": 29,
+      "text": "Ouh-ik-ik-ik !",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7840",
+      "capture_sha256": "275d28cbf6bbcaff453f82b1a399ee65310ece8af81b17ccb812a88eb645706d",
+      "log_sha256": "9e7eb3f5a603bb1735978b4fd55016eeac4bd797affc1c74e295d72ea4fdd54f",
+      "crop_sha256": "685731bfbc4b9dc6ba204dd95d8f4a84cf0bf51e7798fd038fdab4d8365e12d8",
+      "sheet": "banner_001.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S030",
+      "string_id": 30,
+      "text": "Foudre de nounours",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7853",
+      "capture_sha256": "bc6dd672bd6d768349d3f4bcd9e06a8c62d7aa1ae4e240eeb4a4e98727c9d28d",
+      "log_sha256": "29901c8fcfd1dd5782f7b9ad7cb2c9c46316c8a42d0fc4de248532b8d6b22058",
+      "crop_sha256": "cd819126da11a83f33598c4b82fdd77cd4e6839aeaa6e02a1c4d2c46ae24aaeb",
+      "sheet": "banner_001.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S031",
+      "string_id": 31,
+      "text": "Bzzz, zap, crac !",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7865",
+      "capture_sha256": "2361e879074d83f568175aa39630475c3102e32ea97c113b58365d80127e7d84",
+      "log_sha256": "9b240123fb9b8f286c9dcde0099c9cc0392f6b16850e4fc1df08a27000e160b7",
+      "crop_sha256": "ab7d06362f9041aaf29ce135ad32fbf7f66e81c4d79c6aa97390fdcc77954b9b",
+      "sheet": "banner_001.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S032",
+      "string_id": 32,
+      "text": "Nous nous reverrons !",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c787b",
+      "capture_sha256": "20a35ad646ee2cb62036d1a74e07502573f340648685b34271656f9e1031bfc6",
+      "log_sha256": "0ccf444df8e07019bbe9cb67a44ff84f6cb82e52d17e4b875eb5de95e893ecb7",
+      "crop_sha256": "c1e07d601e79ad63f153ba238839940d7d4582d0d2fd1d37513f5f43b0e55aa9",
+      "sheet": "banner_001.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S033",
+      "string_id": 33,
+      "text": "L’aumône aux pauvres",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7890",
+      "capture_sha256": "30cfb6e48b05d9f7e723842b11833c6602379e56b1809395f72e9e97cd0470e3",
+      "log_sha256": "c1908b11f5c15130540aa58543b163f1708f3154737a3a7fe8c6a39705e47677",
+      "crop_sha256": "6b27c102c404757515331440144329d5a228f30abbc9ef0bb6c43b35698ea9ed",
+      "sheet": "banner_002.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S034",
+      "string_id": 34,
+      "text": "Enfer incandescent",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78a3",
+      "capture_sha256": "c07883974bb13cda932e0457ff703d8254b9951edbe9dc0a9b9843d8b623cc5e",
+      "log_sha256": "21d2b381745d62a5543b82884f22c0d53248d969514dda47f8134a2abde9abb9",
+      "crop_sha256": "531dba6bd2ceb3f86f3f654d3a5d8abe5bb087b9a86ffdede6a116c422a2233c",
+      "sheet": "banner_002.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S035",
+      "string_id": 35,
+      "text": "Tornade",
+      "bytes": 7,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78ab",
+      "capture_sha256": "46796075a313fb2769cd2a6931f488c4e48866020783aae3a7106e7142d816fe",
+      "log_sha256": "fdb6cf478e1e88b757c38d56366521f2c1f59de8507fefcc91919448e35c5011",
+      "crop_sha256": "36ab9f844ccfcb7f6bf5d0bb0d03c22ed20601e2b07efb7876118750006711fd",
+      "sheet": "banner_002.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S036",
+      "string_id": 36,
+      "text": "Rassemblement !",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78bb",
+      "capture_sha256": "80c0ba065013fad0fdde8893f2f5ba4b9ea55ddac60bc0335c4b487ba87fae25",
+      "log_sha256": "3d441455750f92639b7f487c78a5ab70d1e6c78349d350b2220cd47430e9dca0",
+      "crop_sha256": "db6bf43d06af8e3c0eec37804ad6a37910c72605a8d2c054a90e8a717635c1a3",
+      "sheet": "banner_002.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S037",
+      "string_id": 37,
+      "text": "Attaque troublante",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78ce",
+      "capture_sha256": "24735ebcbc422ed3e920862d432968954e56a80b5d981f783584667799b14d78",
+      "log_sha256": "d861737f52ac51b75a61168718f34068d41cd55b7e907555b9bd2fa36d23435d",
+      "crop_sha256": "d7710cec7c0265316a305a3267683744126b3a8b5b6b33ce08e15906853fa7cd",
+      "sheet": "banner_002.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S038",
+      "string_id": 38,
+      "text": "Réflexion !",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78da",
+      "capture_sha256": "ce7d6b4aceac4801eae3fa6eb1d2871d501ac9d9cc662d68e62097dbf2ea2d83",
+      "log_sha256": "d19e4ed08e7834d153547906a8eac4cb7373996e44f035e2c9f20e9f5f0e0038",
+      "crop_sha256": "f39eadfec908caf9d6da89ef1c9e052c9a04c404939007621f004301735477fb",
+      "sheet": "banner_002.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S039",
+      "string_id": 39,
+      "text": "Prière pour les défunts",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c78f2",
+      "capture_sha256": "ff56122503b37a700d12c1915f1e69889284635f7b3338d20a1b73d1d78b9a56",
+      "log_sha256": "e4b6654129f21cf4d0533c0340a61fb4234c088d49d8095593ba107bff0fc2ce",
+      "crop_sha256": "a5a1222dffaf6b3954c9d77bce6af2ebaa9086fb01f7d2592b821abc079dd149",
+      "sheet": "banner_002.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S040",
+      "string_id": 40,
+      "text": "Symphonie <11>Prince de Yamato<11>",
+      "bytes": 28,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c790f",
+      "capture_sha256": "7da9bfe1d0d3709ae5678e510cda7c8c9ab7c796eaff523079ccb93e1952a68a",
+      "log_sha256": "7289ccda0fd1a98e303651084c7d967d90b5698b40395e8e5525439e709fb685",
+      "crop_sha256": "e6dcbed687ad963191cde07cd4c69220f1d123379625e1f42403e9cb925a8054",
+      "sheet": "banner_002.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S041",
+      "string_id": 41,
+      "text": "Vents déchaînés",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c791f",
+      "capture_sha256": "cf2e7f8bdffdafa3d347dd84ad116dea598c6bf06b24863465723d6f4dca92d1",
+      "log_sha256": "86f4127418d5955950a48404f8a1b113def20f1da31e909af8e91b1dfe7cb13e",
+      "crop_sha256": "5060c994011870b3bccfdd9a66643dd5c93ed2ae41ee41827b1fb6e28e58a7e6",
+      "sheet": "banner_002.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S042",
+      "string_id": 42,
+      "text": "Je garde tes affaires !",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7937",
+      "capture_sha256": "55cbe448b2bff5209c7a5714f761b6246969f18a7af99b9d59eec89bafe75934",
+      "log_sha256": "e828090615697ea3d09577d341ee92482642147e55194eb0ff7112177119ce38",
+      "crop_sha256": "9c672cd8bc50a1e0d01ec871d6222c095ddb3e67d038d0b0f6b5fbaa0d5b9bf6",
+      "sheet": "banner_002.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S043",
+      "string_id": 43,
+      "text": "Frou, frou...",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7945",
+      "capture_sha256": "d15bb7fd62e7f97273d2671bf8b18a8582c8a4fcbf2c57495c54fe64119c7fb0",
+      "log_sha256": "d7ba04ef68bc432167258d00f02b7b2530a32fad18d49c5c0fe446623a1bde45",
+      "crop_sha256": "450fe5a4c57e9f8f5e3e74ce2f573262cf1a23c717de09220eae49ff76dc3a8c",
+      "sheet": "banner_002.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S044",
+      "string_id": 44,
+      "text": "Il est temps de filer !",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c795d",
+      "capture_sha256": "57fbf59d072eb35205d5161758cd69d4f9aca5586e3c5b68c519f785bb3c9a5d",
+      "log_sha256": "fb267a681218b61126a8d41110b47e0c8419904096bb8b289751b53ace279b0f",
+      "crop_sha256": "cbb5c65c84e6cc539a4d92f459ee58c1978f51abdc38da642836432c68b58ebf",
+      "sheet": "banner_002.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S045",
+      "string_id": 45,
+      "text": "Je vais me servir !",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7971",
+      "capture_sha256": "01c99f618b95b08de865f7c80e1fefe67dca7e6021fd5cb2b5df8decc7a7eb4f",
+      "log_sha256": "b5d3d6c7abea546ee4d411a6c9d56c7e5fb19ec17883b4ee19ed0e5dbb81b792",
+      "crop_sha256": "3062d7584bcb8bee6931d2bc42573eabf8b8d4d178b9e5f44e1b71068f569d1c",
+      "sheet": "banner_002.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S046",
+      "string_id": 46,
+      "text": "Hé hé hé !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c797c",
+      "capture_sha256": "ae5ce18db348e26b4798c297a17166877523f6a31e1018b2643cf5c5c12d29b4",
+      "log_sha256": "57e78e7ed7d724b55039c83b80c1de988f32940cb5f9ad23cd91cce98a479796",
+      "crop_sha256": "ca565a033d1709ee68da59b6114c0fb1062cdad69a66daa117fd483c5d752a3d",
+      "sheet": "banner_002.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S047",
+      "string_id": 47,
+      "text": "Instinct de survie",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c798f",
+      "capture_sha256": "e2ee41ca5b02bc49a042a913f7258685eae07bc292ad1e4cc49ca6fba0f001e2",
+      "log_sha256": "d48383fa89c3181e2c71d1b75e53762211a228823a53dd28c20995028d9609dd",
+      "crop_sha256": "d46fba9c67cdb3e192ed2ca376ed4de774f094e9535526fd52fd20b68fa69b2a",
+      "sheet": "banner_002.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S048",
+      "string_id": 48,
+      "text": "Aberration !",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c799c",
+      "capture_sha256": "90baf2b9eda601ecce8e579c2999ccb8fb05852b95703d7f731407df7ef750c4",
+      "log_sha256": "be8fa6152c245ca81284284d2bebaa337a96f68233741e0da64ea523e1480110",
+      "crop_sha256": "7f012de761849d06f30da548740315088f7148df5fd5e4f8375db9514e0852fd",
+      "sheet": "banner_002.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S049",
+      "string_id": 49,
+      "text": "Attaque paralysante",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c79b0",
+      "capture_sha256": "27acb8b412c7451e0d3ab94b791284d4b14498c1f274abafb61a3374c1cad156",
+      "log_sha256": "55334edfc6831823d8760885dfdc11f38ceadd3bd19cf685f01bb7cc8500302f",
+      "crop_sha256": "d0d07edd6cf558ee76d1062087962e59fc1f6af11db754f6cd73ae61ba5ef7cd",
+      "sheet": "banner_003.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S050",
+      "string_id": 50,
+      "text": "Boum !",
+      "bytes": 6,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c79b7",
+      "capture_sha256": "5a91955f984dbe0e2434f5c5afc251f2e79df2f852f98c5b533a9fc4fea27b02",
+      "log_sha256": "daa31ea02a835d51ba330b6e08ea48d5b7e23c1b535be1e74ae78f47098ec406",
+      "crop_sha256": "3f4e87d551b81fa81e97c496530fc20cc9f8d727fe24892a06f6d9f1d940ebb3",
+      "sheet": "banner_003.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S051",
+      "string_id": 51,
+      "text": "Prière pour la pêche",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c79cc",
+      "capture_sha256": "312202dcf7516475a0f9e641f55473e91ba01b217b2d6efe3d7d8ca30d05dcea",
+      "log_sha256": "57cb5646c6c66b4cff23be4cccda12d1b9dadc64c02a06c5986161cf046356fd",
+      "crop_sha256": "c3d604945b1499bf52783dc726d83add8daaf9c1afef098522b85733049f5257",
+      "sheet": "banner_003.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S052",
+      "string_id": 52,
+      "text": "Onde de choc",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c79d9",
+      "capture_sha256": "a82b2de31079bf1bf73aa8ff5acacae85fd433a49624cdb3380414f701868ada",
+      "log_sha256": "6c89cdc64dc4cc7666729273d6d88b701ec6c753eb9f90f624a6b9e456df8f70",
+      "crop_sha256": "c115a1c4db02967a8b4fc597d3059f63d117b8f237dd1fa8a52965a3cd8ec8f6",
+      "sheet": "banner_003.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S053",
+      "string_id": 53,
+      "text": "Splortch !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c79e4",
+      "capture_sha256": "f0560e09b5e7ac3cd55e9bf31dda856e7252834499911a0f0c21b6805f3aa1ac",
+      "log_sha256": "a196cf66e9ec1cd411c3ec57cbbf51b43f6fd02a8899e15523044f21483d2315",
+      "crop_sha256": "0f72786d2d7da9d42de772e94486a88db6bf726dc08f0c63194e22996dec2615",
+      "sheet": "banner_003.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S054",
+      "string_id": 54,
+      "text": "Je te fais perdre un niveau !",
+      "bytes": 29,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a02",
+      "capture_sha256": "0f71ccb93fcdc2446b197044c55ea14cc0c6c5f2b8da9b4fba4ff516a62e1bcf",
+      "log_sha256": "e1252c388c70db85e69c6e565b90c6a5279b4763e47c611fef8fd5c0650bf1a8",
+      "crop_sha256": "75ca98f9ce4e0e0ff00c46b29c1eb105a5bae85cebf811575aac68c94716f0fc",
+      "sheet": "banner_003.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S055",
+      "string_id": 55,
+      "text": "Guitare du rivage",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a14",
+      "capture_sha256": "c1fa68bdd98a6446251bf659ad014b20c4e1b0dabe0ecda621ea755b94f8e823",
+      "log_sha256": "da53abd1e3167086662febceff86be880f5a367b707d1e2b39117d5bf049e1e5",
+      "crop_sha256": "0a2a6da521b317eaf5530e6356e9cbb516b952c27e0939dbc88e3d418eb02e9d",
+      "sheet": "banner_003.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S056",
+      "string_id": 56,
+      "text": "Sifflet hautain",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a24",
+      "capture_sha256": "076b69440c2c06afbe7cba67b0df4bf08ca6343e3986873cf643576f7b20413d",
+      "log_sha256": "e0a4c7a0d95f862f44574f09f29026ede2b3487390c997e76b0b999ed44ead44",
+      "crop_sha256": "15bfa4a9aef33357fba58377b6168b6976f2283ab1cd6e129cee67b3c98b0661",
+      "sheet": "banner_003.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S057",
+      "string_id": 57,
+      "text": "Tous les coups sont permis !",
+      "bytes": 28,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a41",
+      "capture_sha256": "61b01b5730d8d0db768ab45cd53d60058ee29b8a3ded6ecbb73966e81bcf875b",
+      "log_sha256": "c527a5995a15353b9b460ee3264cf1a53ec6a512d98da33a89ae3603b1a5c8a6",
+      "crop_sha256": "5a90b0b26cc840dec0d3f7f111bb29ac241b8a0914568de208b5d290a03c4a69",
+      "sheet": "banner_003.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S058",
+      "string_id": 58,
+      "text": "Balancement du corail",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a57",
+      "capture_sha256": "a56c66ca64bb8e08b3443d66ad1aa28ff2631d605d1cea1fb5a372eb3e08bab9",
+      "log_sha256": "b360c2ba4f6e4f89ece16b2ca6c9af1dbdfbb1c950af1d83ff003f6f597a6bde",
+      "crop_sha256": "7a0d7e35b0901c4ee511cd781754cd901605f5ea57538ec59acc43babc054e90",
+      "sheet": "banner_003.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S059",
+      "string_id": 59,
+      "text": "Les genoux de la Liane",
+      "bytes": 22,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a6e",
+      "capture_sha256": "6ba7e9caa251e3d828a98dac4deb9c3c0a34d8b0899fe43fe584ea0703e125b0",
+      "log_sha256": "8bba960535812fbd20643111001f654f7590b9e2a49ddfae32c01e72ff747180",
+      "crop_sha256": "30e3d972cde50710a017977ffab5eac4f3ca1159894c98077d37d0464fac77e7",
+      "sheet": "banner_003.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S060",
+      "string_id": 60,
+      "text": "Ivresse du Parfum d’été",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7a86",
+      "capture_sha256": "7847e87fa147f9e488bc6d03eb6502c5ae5a47b949a42ae76d5a62e268b8e620",
+      "log_sha256": "dc42a5f7b6f8df1ad72d0c5636f521fd8475369c88d92c484f401be45718aa3f",
+      "crop_sha256": "e0abc545cabdca7257e1d163e742bdd5f53ae412d3d3a7bd3eea586008f0b4cc",
+      "sheet": "banner_003.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S061",
+      "string_id": 61,
+      "text": "Esclave du Parfum d’hiver",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7aa0",
+      "capture_sha256": "882c39e9cc32f20b14113e2a22f04c83e6304a3d0a69401b47682697b76b12fe",
+      "log_sha256": "25a876d6e07840546a8e9fcfe0675604d1277f13f662764f86dd412e17d8b9ef",
+      "crop_sha256": "d508830d040c5d3c2d50a9b3c71aa727784310a2aad75921d57271f74c8bf2fc",
+      "sheet": "banner_003.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S062",
+      "string_id": 62,
+      "text": "Eau douce",
+      "bytes": 9,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7aaa",
+      "capture_sha256": "f6ef41ad1507291aad92c6f2d4475f0e677a07fc92174ec4e2af7a7dbf49d732",
+      "log_sha256": "9442b87addb59c99884f691f3620092aedba4710505b9055d68c3a251628277b",
+      "crop_sha256": "601d5a850cea3bb586a4a4dc7fc761f305515e036c0fe9be5576adba7e59fe94",
+      "sheet": "banner_003.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S063",
+      "string_id": 63,
+      "text": "Appel de la forêt",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7abc",
+      "capture_sha256": "a1f8d5f6b55f311b5cfa4a5b72775c70a3f509e9e22280a77db21a4282c277b1",
+      "log_sha256": "1eb505bd6b8c88937d685e345f1d92daaae35a113f07eb80548f7666ecf394a2",
+      "crop_sha256": "f49066863d2cc42ec5fce86b92d164aeb711ee05fd6b34870385866d8dfa05dd",
+      "sheet": "banner_003.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S064",
+      "string_id": 64,
+      "text": "Rage de la forêt",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7acd",
+      "capture_sha256": "2b43b692beab82cd9756543b73797281e7128be24291e08f0fffadb0d29397f5",
+      "log_sha256": "6fb7633735d57ed96a6e9d725145fe5d8e9cc7e154f2b0ed5b29d2925b9d0d72",
+      "crop_sha256": "a808e5fe4eb363229833a1b7a38a5a1c99365a5642fb70622508be604bdede42",
+      "sheet": "banner_003.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S065",
+      "string_id": 65,
+      "text": "Incendie naturel !",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ae0",
+      "capture_sha256": "f3a1b8898be6298e586f696d21bce34ab2abf1153418f6fd660c058c1046b293",
+      "log_sha256": "066812e51e6c9500aa961c1de5bbb719774b782385f8d363dd2ea32e2659d79d",
+      "crop_sha256": "60ad8eb65c6eced3ebe3e25849645c0141cc365f88bbf665ba5f11d31266477b",
+      "sheet": "banner_004.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S066",
+      "string_id": 66,
+      "text": "Petit somme...",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7aef",
+      "capture_sha256": "9ea5b1df25eb2f52ef69713919427e54d875cbad1e13539c23feecb59cae1138",
+      "log_sha256": "0cc31a1fc66e13c1bfe1a8c244bd18a9398fc3627569bbc8999b037f53ca5bcb",
+      "crop_sha256": "922183e96fff63239effbdca8bdecefb874fae00c3b5621c81b4ac549b2e14f0",
+      "sheet": "banner_004.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S067",
+      "string_id": 67,
+      "text": "Zéphyr du crépuscule",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b04",
+      "capture_sha256": "865b630c33e6e2ae48756c4f4a3dfe6457e93cecdcfbf71d46490ef1b04e3f63",
+      "log_sha256": "5e4e25eed7340bacd4b639760a5919c39f1acc024d030fdcdbdf9f9db2256b47",
+      "crop_sha256": "d863d3884ec9f6b2d3880d3a03c8edd643eb7e71942ba285896cd885c61dc512",
+      "sheet": "banner_004.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S068",
+      "string_id": 68,
+      "text": "Que de fleurs épanouies !",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b1e",
+      "capture_sha256": "c17fec37dbe9eb7fd24c083d8e118d17d67831607e5ea55fb24138932aad81fa",
+      "log_sha256": "08860ad0b2eccbc2939c30267cb3fb94cc888d3c5d1778c7f2ea83bf763ecd04",
+      "crop_sha256": "ed7d51ff3de0c205bc267298fce5967d9f08168ae101831a328b3de33f2beffb",
+      "sheet": "banner_004.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S069",
+      "string_id": 69,
+      "text": "Pfffouah !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b29",
+      "capture_sha256": "25ad62587b91bb570da415e7ecbe3f18707f0577da3bd607d6cf0e6b2573c1ee",
+      "log_sha256": "1fbc4638e66f56e5dc5ad0bd1b242890023ad7ccedd6bb3182bd3399ee312723",
+      "crop_sha256": "178cca0615abb7e01af3705eae8f1329b3bee2051ec76c10a4e8fca4c312e52d",
+      "sheet": "banner_004.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S070",
+      "string_id": 70,
+      "text": "Explosion suicide",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b3b",
+      "capture_sha256": "be15eece1abb1ed0e9c9951ee8ed221fc549ef47f8ca3103ace1781ba6ee6084",
+      "log_sha256": "753afd230daefb84696e72dbf8471469faa61a76414b83f2bef30cfde96e6854",
+      "crop_sha256": "0590265c1e41eeb6f68e9dc291ad6b9a4ba2eec57e0a22173dc200e9f99a5216",
+      "sheet": "banner_004.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S071",
+      "string_id": 71,
+      "text": "Absorption de technique",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b53",
+      "capture_sha256": "458d205676312c6b0a9b868fdd940689c7ccfa1a5390d84a1f9f196b8d8ed06f",
+      "log_sha256": "d3758231fbb2725d101cb27c142519abd8104fd5a4a057cbbfeea0bd97347db5",
+      "crop_sha256": "052eda3b0ed66ecc0558e2adfaa6e1660a6666298f954ef622cfa496805317b6",
+      "sheet": "banner_004.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S072",
+      "string_id": 72,
+      "text": "Enfer ardent",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b60",
+      "capture_sha256": "a7327c046d9c3c089c9f26de0401bb78d82050ef020c1ab79336653e049bf977",
+      "log_sha256": "a99228af42c2fabb593a15475055565a1dc3c073a7f7a1bbc64f1856c395c0c3",
+      "crop_sha256": "3ca34a8ba962c2ccc2858d26254bfd37778a9215e959426cbd2627df5e56beaa",
+      "sheet": "banner_004.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S073",
+      "string_id": 73,
+      "text": "Brève vie d’une cigale",
+      "bytes": 22,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b77",
+      "capture_sha256": "b5398d87cdd16471a829410be3eaf068ad1b13729facb44ab1549bd88dd63b7f",
+      "log_sha256": "0f9aa8d3acbfe3790e9daf7c47bacba4e5f4ce18b12417ab304c58e006d6546e",
+      "crop_sha256": "5b9bda6b7f5e9685c7ffac10414b55d46542120d51fe465dd17fd0761409d9c6",
+      "sheet": "banner_004.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S074",
+      "string_id": 74,
+      "text": "Tout le monde !",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7b87",
+      "capture_sha256": "2a2409f135dbd0fb5da1cc37e4c495485014ed35d697a19bf221f911611fc972",
+      "log_sha256": "70d9c8ef2262596f7044c834ee7f94f1e7eba777d33b0fffc623422c88ae9265",
+      "crop_sha256": "d74318b1202ba2b0ae07b3dcc025977eb9c8358a6663ce9f50efe230d588275f",
+      "sheet": "banner_004.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S075",
+      "string_id": 75,
+      "text": "Battement d’ailes d’ange",
+      "bytes": 24,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ba0",
+      "capture_sha256": "905915572ae2352dde8cf75bf73f5a6c6c00f325b95bd1a60a16c44f9ddc57e3",
+      "log_sha256": "5944d36e91c259b44cb317baf5483252814d425b5eefcab538d12e958efec1d7",
+      "crop_sha256": "f9e96a7c08173b0b97b7386b71bc36cf4cd435896084125bda638e74ee321791",
+      "sheet": "banner_004.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S076",
+      "string_id": 76,
+      "text": "Éclat doré",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7bab",
+      "capture_sha256": "75d24edd72abc39c98bb05ed5c93eae7bdf2194fc026cbdb590acfdcd33079bf",
+      "log_sha256": "7c83c46f456c91abb79d5b23c380d99222b184f7a22d966bc90050a6cc249c5a",
+      "crop_sha256": "d9a666ce95e1ccf39dccab92685cba2fcf588a6e1d06ee432732d78c04100987",
+      "sheet": "banner_004.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S077",
+      "string_id": 77,
+      "text": "Le monde n’est PAS si simple !",
+      "bytes": 30,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7bca",
+      "capture_sha256": "757f74907685f9c788904d3388b8c3836957d30f7e6b306d9ddc9f518854eaad",
+      "log_sha256": "bbeee2b987b86e163ba2bddf2a85078ed62893a2e6d80269df68f900c752c169",
+      "crop_sha256": "ded88943e88e189d4b4e88ef58df018bb777876b5787bc3fad79e007eab3f6dc",
+      "sheet": "banner_004.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S078",
+      "string_id": 78,
+      "text": "Grêle de pierres",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7bdb",
+      "capture_sha256": "dd0dab3af81273c486a58d36cc70760eb790807c657e3c3760e99170194e1b57",
+      "log_sha256": "db5a587ae146e85e28334964ed0ecf070653f832a3683fde4bfec1f953da67b3",
+      "crop_sha256": "9ed6732ac8ebccccfe5051522442c5833164a2ef40442b8451b316e4835e4fc7",
+      "sheet": "banner_004.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S079",
+      "string_id": 79,
+      "text": "Cœur endurci",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7be8",
+      "capture_sha256": "ddd55c883aa970b56a8befd949eb93fbc83b50e5230cb2ffc8fe0628abc73218",
+      "log_sha256": "31de3a9dca1353832f6e85d1f1d888ebc5803d01d1f61d4b596a8eee19186932",
+      "crop_sha256": "85383c631fa00d6ef12e7c57e36d0ceaef6ab0565a9af6856f21e8772c17b414",
+      "sheet": "banner_004.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S080",
+      "string_id": 80,
+      "text": "Yeux étincelants",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7bf9",
+      "capture_sha256": "649fe5bfde2e0878a0ea674988f66fa186713b741807af683bc259e16165ba7c",
+      "log_sha256": "6e21de33f0ddcb2b0889dc43a04f51e416866f94ccd636c0e3bec1c5b47cd648",
+      "crop_sha256": "2b4fd194df54d87d5e7dc1f25fd4fea3481ebb19a077a37fe291d109d52d7602",
+      "sheet": "banner_004.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S081",
+      "string_id": 81,
+      "text": "Larmes de Garnetta",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c0c",
+      "capture_sha256": "bb7dad4412a5fe6aa5018d42beeee5fdaad827b58acac52c239af1ea1868ec71",
+      "log_sha256": "b791eedf029b1ded9c718074a23d0ef9188844a30cc7bbf86c97c7fa25bc78b6",
+      "crop_sha256": "48eda9a5bc4cfb4b512d942e4b4f208bb3b1e074eb245487c06da606fb3df2b4",
+      "sheet": "banner_005.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S082",
+      "string_id": 82,
+      "text": "Ciseaux, papier, pierre !",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c26",
+      "capture_sha256": "502055ff670c3cdd390c4745fb50cbd6dc88448773298bf5d015113ab453a274",
+      "log_sha256": "2132e63607c7ab0e37d0585539a9296d8ecdcb03efb42fa0dc4626b062076b00",
+      "crop_sha256": "1f12710b03beb5388a6ace792c094bd129b9879404f4d5b6a93d010cdc477b03",
+      "sheet": "banner_005.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S083",
+      "string_id": 83,
+      "text": "La main de Papi",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c36",
+      "capture_sha256": "1a55551291c0e7e110505ef1122a77f6673694e68d47486941366560fbb404c2",
+      "log_sha256": "ee15132ddf23fb299a49f6e7242d496d4e4d1dc52ce061fa056365d462b1a59d",
+      "crop_sha256": "271e2a3ae1e68273a943b058db57291d557e3494c603b0ae49d3b2104c676a14",
+      "sheet": "banner_005.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S084",
+      "string_id": 84,
+      "text": "Pierre, ciseaux, papier !",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c50",
+      "capture_sha256": "4f7c20ef35384accfd81a7bc048e182227680c24ee69676264768f253dcb4d3a",
+      "log_sha256": "40333d8da289c2eb1b293bb8f526cb83370d7cfa02bd1ec5b14998c17d0ddfca",
+      "crop_sha256": "2ca807d772f4b8ae927ba79ab3f896d18cc8c3275e736daf51abc5f6ad331096",
+      "sheet": "banner_005.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S085",
+      "string_id": 85,
+      "text": "Pierre, papier, ciseaux !",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c6a",
+      "capture_sha256": "c482e3f2e485098314c6175a8cd3ef5b956913bc87778194545c6aafea7f4f32",
+      "log_sha256": "edc765cb71777ce03dc88b789f440c9d80a5ddfdd5243c29bd27a803c5964812",
+      "crop_sha256": "b07453e395e031d0b0e61f1c8ad828bc72f1729c9b3e53170669269ce7e33390",
+      "sheet": "banner_005.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S086",
+      "string_id": 86,
+      "text": "Vernis écaillé",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c79",
+      "capture_sha256": "dc71a9fbfaaf3c319944d9cc9638990a9796e14e47489ab480f00752ebc864aa",
+      "log_sha256": "70fe567c9ac21bc895095aedffc73ae430400aa7af99d44449edee0a2a465f71",
+      "crop_sha256": "c57712e795143fdeb56f5919bfffb5e6e009141cf26224e8e02d1ad57db7b56b",
+      "sheet": "banner_005.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S087",
+      "string_id": 87,
+      "text": "Vernis brillant",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c89",
+      "capture_sha256": "4127665c75a64d9b034fd82b1297b6c826d000043ef784fbadc03d895bef4fc1",
+      "log_sha256": "7b287a38bfa0a547e6fb4f5e29b84c2dcf7048d9af6c21b454a49ded1580cb22",
+      "crop_sha256": "81b99982f3424305eefcebfb59f8cef50e8b0a07b1775fa1f282157bb8b9c7a9",
+      "sheet": "banner_005.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S088",
+      "string_id": 88,
+      "text": "Pierres dispersées",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7c9c",
+      "capture_sha256": "7a8006c677e27adc505d6a551e3b180d891757edbf1b022db933ac4475f54117",
+      "log_sha256": "d37d61ae0046f1d26c2f60583556e9a898d568a040ffea6da06d21e2a81591eb",
+      "crop_sha256": "60d493da647104227bc154204cee055e8fc58e1186b7ef5477b52644647bcca1",
+      "sheet": "banner_005.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S089",
+      "string_id": 89,
+      "text": "Une femme de feu",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7cad",
+      "capture_sha256": "a7dfa6552744b5638e0fb3c972a26a2a22ba8a0e0a9fde5572b7a03344ffd1f1",
+      "log_sha256": "0539bce1399ac8e149f952a18a8e44e95f08d3294e6d1f3f48dbaa8a9cd38b71",
+      "crop_sha256": "3c4da813c9ee53b363c7f667fd1d70a49bbfb15fe241cc89daf59a47d3c43d9b",
+      "sheet": "banner_005.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S090",
+      "string_id": 90,
+      "text": "Une femme dangereuse",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7cc2",
+      "capture_sha256": "9147a5d3673c4b85fd1e9b6a92aed2debb21541c197c44184aceeb5fc6b37719",
+      "log_sha256": "56984d92055ab3d2add46291a3370d7b6f3fb5678149f61b0f5caab4692edc2b",
+      "crop_sha256": "baab0de8eaa29b1eec2b2e75f645d5f233e0ee4d01a365aab0e047d009d4955b",
+      "sheet": "banner_005.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S091",
+      "string_id": 91,
+      "text": "Une seule rose",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7cd1",
+      "capture_sha256": "8341dea73428ebbaa011deb34dc2b830db30d4c137368bbe9bc0da0413c821b9",
+      "log_sha256": "1466e8b2ac6dcb101240a319e2a19818352ec4579712efdc938c44aab9c2f802",
+      "crop_sha256": "406f4260c02516062e4f5bc3ceaf438be26182cb91451476fa69840f1174919f",
+      "sheet": "banner_005.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S092",
+      "string_id": 92,
+      "text": "Alumen le fervent",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ce3",
+      "capture_sha256": "334797192a20727a3e66868a95005002df0ab3c395d1d7d681a7125d82c48e1b",
+      "log_sha256": "3d7bdb50eb6da89e11f5753bd96baf6a279784ab3017cccd6a7a9fa983aafc66",
+      "crop_sha256": "7a21b84f1c6939f5e1a90f92f04b9e3e27f102ca1e17d0e57fd6762f21bd5ee2",
+      "sheet": "banner_005.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S093",
+      "string_id": 93,
+      "text": "Bras gauche des flammes",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7cfb",
+      "capture_sha256": "f06302de8816e72484e2123ed69bc4d08d36338785663c755b74ef3df94fafd8",
+      "log_sha256": "03197b3e710fbb48e7338ce23ca0d6a208adb08e5f5ebaff44f117ff9a8deb9f",
+      "crop_sha256": "619f1ee9bd884b675316e04b52c6e97fef264aaa8dc5e6f33e27b430580b791b",
+      "sheet": "banner_005.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S094",
+      "string_id": 94,
+      "text": "Bras droit des tempêtes",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d13",
+      "capture_sha256": "8dd0117a0bb337d5200ef2b49774b7752160da99d5a32f6a907b831c3c77b127",
+      "log_sha256": "81e5e179c58b1910cd7f04a9ff332deb0c155649d60b19da62ce7628fd617abe",
+      "crop_sha256": "134fccbec96c9534ac8988b2e2b99220fdfe2d25f2b9c3b867a2e1c35216d4e9",
+      "sheet": "banner_005.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S095",
+      "string_id": 95,
+      "text": "Puissance intérieure",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d28",
+      "capture_sha256": "eeead10e7a4e5915c7fab25b1c18f493c12c8f022152e899c67039391ea43080",
+      "log_sha256": "dff751a1d8afc8241f93234e4cb848b7df95a36db01584778893fb026c39a54f",
+      "crop_sha256": "51c385836877833484817559a129ea2bd9fdce727b1cc4319f3479df62ea82ce",
+      "sheet": "banner_005.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S096",
+      "string_id": 96,
+      "text": "Je vais t’écraser !",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d3c",
+      "capture_sha256": "57c5d00cf8c6f28caf1a47fc6fcf12aeb499ba062303e3f6b86c2b0f9cbd3457",
+      "log_sha256": "f475bf6b5b013a962d9559a75fecd8f9e88bc526a2f8745fdb719ad4b6e7d90e",
+      "crop_sha256": "99507ce5cb306671b0154397f0ff7fed4d54b4897520373703f1af6d96195f0a",
+      "sheet": "banner_005.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S097",
+      "string_id": 97,
+      "text": "Ça suffit...",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d49",
+      "capture_sha256": "5b9030abdccad5381f2e33fbe86e708f1295cf25834b5efcd00d1739b86fa5a9",
+      "log_sha256": "3c1dc3ca3be7dfa61a3c4c43ec5fa48529ef68ab3790bed032fc34818d4915ec",
+      "crop_sha256": "4687248517354372b4f2dfe6b8731d4fdb3a99e8e13c7770e0bb8e69324738a5",
+      "sheet": "banner_006.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S098",
+      "string_id": 98,
+      "text": "Comment est-ce possible !?",
+      "bytes": 26,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d64",
+      "capture_sha256": "7ad4075f609cbc141575c1cfb42b2f05d8739d62435b54b0c56bfc7730e0c215",
+      "log_sha256": "842c74f67f5ed921b9af95691193d2fc17972e52ffb622a3fdf3868100cc0d98",
+      "crop_sha256": "3bb00868bab011404ad047efb35b8cb8099f6f4e21722e2ebeb737ed0a060ab7",
+      "sheet": "banner_006.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S099",
+      "string_id": 99,
+      "text": "Flammes vacillantes",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d78",
+      "capture_sha256": "8b797a8a52831fb27a530585839e3ede5e917478d29ff574109533b9b7ce542e",
+      "log_sha256": "c08b4ceaca7949168846050ddf66ab4a09a3eecbb796cc558edf5da40e685666",
+      "crop_sha256": "0e05266170ec9ea860d149965e4d1a1005db4e0acd7ead94719bb25e948455fd",
+      "sheet": "banner_006.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S100",
+      "string_id": 100,
+      "text": "Trois, deux, un...",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d8b",
+      "capture_sha256": "42c46140629a2746d49181cc145e8c84e23886690f021a2967662c3d289dd7ae",
+      "log_sha256": "86b86f02273d40de9150ab268dee0117d5a53f2375a99aad783c5f962d1d9838",
+      "crop_sha256": "1a2a23b384f10b06ef3987b2562062c591b36983aaee3857304a95c80ad17a60",
+      "sheet": "banner_006.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S101",
+      "string_id": 101,
+      "text": "Consumation...",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7d9a",
+      "capture_sha256": "83e2dbadcf376ba0585dcc743375f87a025021b97b4d49ba45723ab792c3db68",
+      "log_sha256": "27219f0f9a4cdfdce7a0052ae49f63645f7761af4361a4a69b48cfdcca908128",
+      "crop_sha256": "5cb96c1a9b91e9e97808a9b6146c220ac40cf175d62c829ad07e9b72c2bba6b7",
+      "sheet": "banner_006.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S102",
+      "string_id": 102,
+      "text": "Baisse d’attaque",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7dab",
+      "capture_sha256": "ae658a704760d97431d08eb5888c3bf170d025a0a13a0ef8e90d7c5b007eafc4",
+      "log_sha256": "13ca209ba010904befb29a90f70026395ae6e74f86336c3804f77703454a1c19",
+      "crop_sha256": "8f042d7fcc78e6ae719da8688167fad68e3266c9daa88693538dfbd9e95e1d92",
+      "sheet": "banner_006.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S103",
+      "string_id": 103,
+      "text": "Nuit de pleine lune",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7dbf",
+      "capture_sha256": "df3ac30c261c87ecd1f7c293d8c7672228d6027af72b7a06fc8aeb91df71794a",
+      "log_sha256": "4a631b19d9ac2c7acddd0af3c8565a996fa19cb360f0e1d446b59e256e09db5b",
+      "crop_sha256": "b1cde377680a1bfd93a1c0a6847450f47ac98b5248ecec4abff4b704021d6966",
+      "sheet": "banner_006.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S104",
+      "string_id": 104,
+      "text": "Résurrection !",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7dce",
+      "capture_sha256": "16e7a461c1ec554783e4a99176caacb45aa1ddf6b0589ed2e6c146a70fd3207f",
+      "log_sha256": "c931e91f75521321a1311ed0671cfbcfe976d0f467c64dce52e3276ff3ab1546",
+      "crop_sha256": "50802cd79e05a39529a1a84ebbb23f3bdc7803466c0bfae57fa85191b9f8a3b1",
+      "sheet": "banner_006.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S105",
+      "string_id": 105,
+      "text": "Croissant de lune",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7de0",
+      "capture_sha256": "2ed93ff5e9ae47b9cf63174e34f0776dd0b02461fa02437d74e57c015866b3f6",
+      "log_sha256": "5d0c4fa5e560e15405bffaee9dd07e2d1d5e76e7c47409f1cab7e2d489e481b2",
+      "crop_sha256": "85cd89ca234fe035affa0a3c48a2c99821b2f45d679ba0dbf3f3e48e91bd2f78",
+      "sheet": "banner_006.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S106",
+      "string_id": 106,
+      "text": "Médication",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7deb",
+      "capture_sha256": "6b887626b126c7a3bfab06982f8919c7ecd78d9f1352940969354225574be106",
+      "log_sha256": "d0e78220f06e4d9c0eb4305c26419777aa6ec04c3a247f9cfa4a4573c6650e48",
+      "crop_sha256": "a1bd601ccbb9642547900ef4f90427227a3ab6c1edda15bb6cbdb78ad47f03f8",
+      "sheet": "banner_006.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S107",
+      "string_id": 107,
+      "text": "Nutriments",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7df6",
+      "capture_sha256": "457225d13150c449261d5d5a8784b7974db5ee3b8888dd7d3413e30ece23ff0c",
+      "log_sha256": "946627c811bb3308f3ef7d4e0ee1c86eea8b32ba39a7638a882a484acbeec2c7",
+      "crop_sha256": "75c9a7b6e209307cbd6c4cf878139786929a1119172b5dc863ddde711f8f18d3",
+      "sheet": "banner_006.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S108",
+      "string_id": 108,
+      "text": "Catastrophe naturelle",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e0c",
+      "capture_sha256": "885d8af0384804513f3803e18fa3fd1a9a339357c18123e41cd42a07ad8dd4e5",
+      "log_sha256": "7018fed05e17160bf5f8f318b18129c8a8957db879b47cb2c68685b983df6d39",
+      "crop_sha256": "6f93da7c7f4249e7c389e2882b721ffe06ed143364bd0934ab358980fbd0eda8",
+      "sheet": "banner_006.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S109",
+      "string_id": 109,
+      "text": "Vrouuum !",
+      "bytes": 9,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e16",
+      "capture_sha256": "9190a830cb9339697b59b20c4e57fcaedebc3bebf7ac968244ab4a64cbb96b3c",
+      "log_sha256": "048801c12fc8bd5aaf37e18585937888be64d21af6f24d1797562d7c8e495c2e",
+      "crop_sha256": "76ef0efb928125d586791f559c714f5af2a97adb00036be238cbc514f689679f",
+      "sheet": "banner_006.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S110",
+      "string_id": 110,
+      "text": "Hi hi hi... Hihihihi !",
+      "bytes": 22,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e2d",
+      "capture_sha256": "3f57eefc2e6a2db88f88e2218b63c7a2dac4421f11f1236a043127d56cd1b425",
+      "log_sha256": "5231e3cf120bef883a3aa86c957eeb55054bd34bfb4f5c786fa80c5ac7251e47",
+      "crop_sha256": "e52343771eabecb520567ab7b7e439209afddf449098160fc1306440415d9eab",
+      "sheet": "banner_006.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S111",
+      "string_id": 111,
+      "text": "Rairara... Rai, rai, rai !",
+      "bytes": 26,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e48",
+      "capture_sha256": "04f36f2ff34f094f0f4bc45c23f338129b612c9638a8a2056536fa95fc230f6a",
+      "log_sha256": "1a75b4feb85c2f1400a8dbd840014331d3cbd1601acfdb4a5ceac530c0133a4e",
+      "crop_sha256": "0e998d82c4ef5285eaab69cf931402aace8f4427a4cc544fab9870530bfb035e",
+      "sheet": "banner_006.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S112",
+      "string_id": 112,
+      "text": "Cieux étincelants",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e5a",
+      "capture_sha256": "ed3d36a7838992c35bac0c8d367300c5d742bd60312543f9f5cac38ad853c941",
+      "log_sha256": "34260d7c302024ed7593eb8e0377a80cc2d8759e9b7a71c2046d05ed8b0e9b3c",
+      "crop_sha256": "6efa43a5d323a614be10843e7f7464a5623daa53b8836c71f84f4e9839ec6c9a",
+      "sheet": "banner_006.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S113",
+      "string_id": 113,
+      "text": "Cieux déchaînés",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e6a",
+      "capture_sha256": "d23dd572cd7ac7517cb9eb83cdf46d134ffe68ae0b21e4d0eb4fec54e3b80b23",
+      "log_sha256": "a0a798b4896416b627a7292ed94976d1635ca07751dfab03091d9135f429112f",
+      "crop_sha256": "17b4c4a2d36b076721806417be6aff848560b290a9e9c19a7da1a594465c0ab0",
+      "sheet": "banner_007.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S114",
+      "string_id": 114,
+      "text": "Hiii, hiii !",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e77",
+      "capture_sha256": "dbe65a8618c0c73d0faa117ffea1c0a7ac34f4f1d48204eb1a10fd238ca072f3",
+      "log_sha256": "ae70708b94436ec5b1f6c474ebd4c7c5c4fb0fa44f1f135d79ed9d5fa77c0846",
+      "crop_sha256": "5a4dfbedb385d9021cb8b55764e14f740ae531af4389b4ac13ebdfda8fc6ffd7",
+      "sheet": "banner_007.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S115",
+      "string_id": 115,
+      "text": "Hospitalité du Don",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e8a",
+      "capture_sha256": "31688e4d9b331d8e654c962e8d1cfd0fd5f14e31e32535abfd37aac932dc91f0",
+      "log_sha256": "2e688783c3ac0b7611a86a470b5aa102cfafa42d32d4a0834e34a5ab2ab43e50",
+      "crop_sha256": "d224896243d2759b89081401206ba0294fd52f53ce36355848a8dd4aa0474c74",
+      "sheet": "banner_007.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S116",
+      "string_id": 116,
+      "text": "Désignation du Don",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7e9d",
+      "capture_sha256": "b2ffd606594296a4510e0e2121342324fc7c023ac49144865dec93243aefb504",
+      "log_sha256": "ad86ae915262b9362a7c7f668414c801c9ad2989b755d192e5b8e12071395ecf",
+      "crop_sha256": "2d9a15d4e928011c282949fe9fd224e279c354fbb4f6f74d82b75212c16536d0",
+      "sheet": "banner_007.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S117",
+      "string_id": 117,
+      "text": "Bonté du Don",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7eaa",
+      "capture_sha256": "f6ce0eb1b8ae5dd7f3b3b3fcb72d1712cd4c96c36df891968078c8ce57cc3c3a",
+      "log_sha256": "4b125e33096067de3f4912c6d092fd5009e5849f3a0208b3ebf5c5c4e4f64f57",
+      "crop_sha256": "30833d777036d52e3991eb701fd5da990311f280a7a5afc9c8a59f825e929fe9",
+      "sheet": "banner_007.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S118",
+      "string_id": 118,
+      "text": "Brume sombre",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7eb7",
+      "capture_sha256": "a8831afb824fea34ccb954961da92ab64970421a4eb7c0c2b993deda54ed45cf",
+      "log_sha256": "08671d1b6c133995f561159b98d3c92e8b08923c2bb7f171de78907a8a44b802",
+      "crop_sha256": "4c204d65ce054835e433a424bab10ef9bf6bff80f14bb9677fc3df5f7bd4338e",
+      "sheet": "banner_007.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S119",
+      "string_id": 119,
+      "text": "J’ai tant de rancœur...",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ecf",
+      "capture_sha256": "f98fa9aee30a202515c6601a6fd51efd06ae11ebb0b14412b067e55aa655a593",
+      "log_sha256": "b923d0acf9c199b26b7af4e1770aa93e6c82e48d8e6d886cacb8376385336570",
+      "crop_sha256": "c59289c555c803d4dbd4ca9d1c2933b8cfe8777c6b419669562955aca2aff36c",
+      "sheet": "banner_007.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S120",
+      "string_id": 120,
+      "text": "Ça fait si mal...",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ee1",
+      "capture_sha256": "8b7ed5e699129aaf733a476459837e23c357865ad898dabb2fe4907dd5bd83cf",
+      "log_sha256": "9069935fa5e555ee50f3206ccaa47ead9a3fae447c93db8156bf5b1b803d7c4a",
+      "crop_sha256": "94f5d1c73ba4bb2e57718f328179fd3e8bae2367133453ec74376ad32a41b0d7",
+      "sheet": "banner_007.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S121",
+      "string_id": 121,
+      "text": "L’heure de la sieste",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ef6",
+      "capture_sha256": "13b3feb49d4ad4f3571d86cff5b3bd0fc49b5c953aebf85d04b0e6c4bcf801eb",
+      "log_sha256": "088ad56f922f329191fa7c2feb31cbb6de329a895902c75d8b2cab57eb25e3d4",
+      "crop_sha256": "09b487d0a78dc38a83a0903d2b654d3ece52feb1043be19da4fc9bb214762529",
+      "sheet": "banner_007.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S122",
+      "string_id": 122,
+      "text": "Grand bâillement",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f07",
+      "capture_sha256": "296a75cdfd7a7469e63fa8c3f3d299abbc99e8b5d030d9a87f39acc4a38d66dc",
+      "log_sha256": "555fe66ccadef94a7c8248fc2281ee477d59589d1909d7b8c53ff81f363b362c",
+      "crop_sha256": "d1cc39bd05cd1d82d8a97d03abb7ff8a5f3aa7ed73b4478898e1c9006190ba7e",
+      "sheet": "banner_007.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S123",
+      "string_id": 123,
+      "text": "Glissade gluante",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f18",
+      "capture_sha256": "deac08d545fa72de3bd7d69ba091a26a9695945b437c561789027ad81e522753",
+      "log_sha256": "41ce93b5811d21eba2231c0fc250f47a606f00c5c129fda9c5bc68f49579a486",
+      "crop_sha256": "ad8862c6a45f117f6243b43bb35c6d89e312c2f92932506efd395fd30436bef2",
+      "sheet": "banner_007.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S124",
+      "string_id": 124,
+      "text": "Nompf !",
+      "bytes": 7,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f20",
+      "capture_sha256": "9730fc5a428d9bee26ba02cbae61b1fabbcc4f59f297cf3c2acc1f0fa8f44327",
+      "log_sha256": "907cd4c689fb0d059cb9050ced9dc8a6e3428d453bd46dd95527185c336e4862",
+      "crop_sha256": "34d7158a3166689694b84b3976e9a4092834fd565b1010a635c20071264f1915",
+      "sheet": "banner_007.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S125",
+      "string_id": 125,
+      "text": "Pieds bandés",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f2d",
+      "capture_sha256": "35c1f2cf97c4046fbe92aa2f771e534c738cfe36ce5c863702695c704c0b92c4",
+      "log_sha256": "d54f4ea7fce8656c9b5067e0a7a8612e8943d1ed7a01db42677bba3fcdde1eb1",
+      "crop_sha256": "72c3b96374d25b7df667f4cb42a947f254df0e70d892039db55985b6f6b3bb3d",
+      "sheet": "banner_007.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S126",
+      "string_id": 126,
+      "text": "Bavardage",
+      "bytes": 9,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f37",
+      "capture_sha256": "7445ffe4534f5ee79860843388a019ab0151686d88ca1a5699c49abaec85b2dc",
+      "log_sha256": "c2ff5c3d211f99ad27e9c0639ce58033b86a2c05e3f1f0477065bcae706f501e",
+      "crop_sha256": "5eda8b37a990c40a75946c732876b5bbd6a765f652bff2a4efeef6f58cfc407b",
+      "sheet": "banner_007.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S127",
+      "string_id": 127,
+      "text": "Baptême des ténèbres",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f4c",
+      "capture_sha256": "61b87edb67d230efb3378b3b6ecfe35940462449a891bff0f05b19450961a051",
+      "log_sha256": "3d8f473a41c4cc665b7a50dd2f0c77c01d6afde29233792a1a7e150255c9be93",
+      "crop_sha256": "de83d1f2596770fcb63c80b5a862baa9bd26c03ace448dbeec51c643273f7a29",
+      "sheet": "banner_007.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S128",
+      "string_id": 128,
+      "text": "Gouttes de ténèbres",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f60",
+      "capture_sha256": "796d247dd9e4706210c73e0c8a8926ca23ae4f94d4f2df90f4dd0072aabb911f",
+      "log_sha256": "b8f63ca8e3febc25681f144d709280469dd84ae46de8ce9fa5df071188bd3ca1",
+      "crop_sha256": "71e13bf5a1b542e76665217a54ee86456e328f8617650d8c2ea3c7ff3a6dafa1",
+      "sheet": "banner_007.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S129",
+      "string_id": 129,
+      "text": "Propagation",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f6c",
+      "capture_sha256": "2e610163f20f7e46cf4103fbd06b4a3f977fcef4a2967fafe1e734edf14b7603",
+      "log_sha256": "2dfa0abeae26c140bc8fae72f5dbfa1228224b2e115d3d5dbeea5a5d05089444",
+      "crop_sha256": "5ce27fc5022f35d753dd18d75d5170900b9b6d2fcc962696a0b228cc7708e546",
+      "sheet": "banner_008.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S130",
+      "string_id": 130,
+      "text": "Je vais te dévorer !",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f81",
+      "capture_sha256": "cc17aafb4484638c604118b8a85418049b31f199bde2344ec464df23484888a8",
+      "log_sha256": "aa95b2291b36939d0f2363e3ed70e9bf8540d23715b009030c9a800038c3fadf",
+      "crop_sha256": "b5f1f6fa20d19abb94bd14f0ddc59537576ed8f21714797a12e3aa7e0a40b007",
+      "sheet": "banner_008.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S131",
+      "string_id": 131,
+      "text": "Poupée vaudou",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7f8f",
+      "capture_sha256": "378411f19a0035b79965c264c6a46839bfaf0efd3c92b9c374c8df1a63bb3b51",
+      "log_sha256": "b1a5454de05ea02d40d04bb866e7589bbf41c7f0cb497de9c7dec1a6aa3cf7c6",
+      "crop_sha256": "dbbdecb2e74d7cc65bee5dc6034e2da66b35197fca7d136f3f2572be7a6387b8",
+      "sheet": "banner_008.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S132",
+      "string_id": 132,
+      "text": "Communion avec les morts",
+      "bytes": 24,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7fa8",
+      "capture_sha256": "870d4317de208bd4046ce395864716a8aaa0a78be9993e56069529a6c5b3d02c",
+      "log_sha256": "7990c05d20584ffe154cf81daf440b1b2b64f3b3dfc1a96758bf86e26921adc2",
+      "crop_sha256": "3560ba9befa72df46dc8e34fb9cd72638915df23aac3d6071898ea4bbe17e24b",
+      "sheet": "banner_008.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S133",
+      "string_id": 133,
+      "text": "Beelze le paisible",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7fbb",
+      "capture_sha256": "fc3908cf4e861f040c2cd4aa524dcce0b4af221c60d3278baea57e251370b20f",
+      "log_sha256": "ca881b6d2991241ee2bd9f7b498efa87af1908315b2951adbf79379d51cab525",
+      "crop_sha256": "6b295cd9034ccfc81b6145cb60392100029e3d6488a910198d4540368e8f3e0a",
+      "sheet": "banner_008.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S134",
+      "string_id": 134,
+      "text": "Soupir de Beelze",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7fcc",
+      "capture_sha256": "3ecde96909091825dc55ce90d0118fc94ea26e6a6eb705190ac3d273829b151a",
+      "log_sha256": "85cbadbfb447b1d11e81c117d47e87d5df77f067b014f03657d9f3aca758c549",
+      "crop_sha256": "a6ef025c1b0fd644194e754950c297ebcd175bd8447b46b16508081f5b9bc50c",
+      "sheet": "banner_008.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S135",
+      "string_id": 135,
+      "text": "Frisson d’effroi",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7fdd",
+      "capture_sha256": "8fa6f836a6c9647d6664a4cbcb1b774601307f9d26793fb4d53dfc4e8ef93238",
+      "log_sha256": "5b6eab8b2e3cd5330a3b4037bbb3af0c901080ea8864ca19de64feffb2be78fa",
+      "crop_sha256": "969f9e6fb640f47f61ea6af35681a2082d8defd155038d00dd326da8ac5eb1ee",
+      "sheet": "banner_008.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S136",
+      "string_id": 136,
+      "text": "Don de Beelze",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7feb",
+      "capture_sha256": "5b659ffbbacf60627a065449356f646b5bd65f33735a09d974ebb18f06b46957",
+      "log_sha256": "cb65ed2db28ff2da4ef0052588e81e626d6b422fee67ed22e01b3e0bd96b979f",
+      "crop_sha256": "032cbcbdd2e6c215a98dcdad94396096d359501a4b5014c7302092578bde66fb",
+      "sheet": "banner_008.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S137",
+      "string_id": 137,
+      "text": "Ash l’intrépide",
+      "bytes": 15,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c7ffb",
+      "capture_sha256": "050c88efff54a7ebb27611ced996ea853cd7d276a25a049abc15f828684b61ed",
+      "log_sha256": "761196ee88869c469bbfbc780f17a38aa01bef7c2641f144e0e914ab8569f6c4",
+      "crop_sha256": "2ec0eeb225667fc9f0208f8f41dc438fd36f43a4e72d285dd545e53bdfbfe365",
+      "sheet": "banner_008.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S138",
+      "string_id": 138,
+      "text": "Rage d’Ash",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8006",
+      "capture_sha256": "c087a35f1c53e84b26537be2bdbd07e394c6f979e5f6e2ef1eba11dcf2a2993a",
+      "log_sha256": "86713d1024fe028d9032d51efc45b9ebeb9b4d6294931bc69f1f4bf5af5e4642",
+      "crop_sha256": "233fa7d4bf12f10ac2b1432265f27260102601ac2ccb39ef32a954e28ce83a16",
+      "sheet": "banner_008.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S139",
+      "string_id": 139,
+      "text": "Libeza l’indomptable",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c801b",
+      "capture_sha256": "c9b94817ecf475f11265857a456283ec1c19d61553e9f7464f0970c12460b66b",
+      "log_sha256": "21c746b83257df117cd136f80277a0128b69f59ed2689d9bcb09773704dcd50f",
+      "crop_sha256": "edfc1eab04edb94a9657a729c1e026ebf5d3ad610884e57135e596f861926b15",
+      "sheet": "banner_008.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S140",
+      "string_id": 140,
+      "text": "L’instant de la peur",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8030",
+      "capture_sha256": "872573df920bcc14952f6d85d94495e5e24119afe65233d1eff343f2ca05b938",
+      "log_sha256": "19dbe49c8befaf84e6f2a73731429dbbcddfe225b913f3c9f7903c043013f5f2",
+      "crop_sha256": "d1c3b258c638b3af65a446a1ef470f5a814f130c6581226a8b6924846013a3f8",
+      "sheet": "banner_008.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S141",
+      "string_id": 141,
+      "text": "Jugement de Libeza",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8043",
+      "capture_sha256": "25c7a64050d810fd1403333263dae7fa9bc82447de70bb85084ae424ea9ac370",
+      "log_sha256": "07a4271cb5e0d6ad9bcecd2f9fbf994c471a8ef32c5a95a8fb66c47043440351",
+      "crop_sha256": "066718fb758ea8e8087d0f5747e8ef36285b497eed817e913e4f71b578def96a",
+      "sheet": "banner_008.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S142",
+      "string_id": 142,
+      "text": "Dusa la railleuse",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8055",
+      "capture_sha256": "2b7a793bde3b26dc328a39244a68cffeb8bfbd379377f92bcfa480f64b129b31",
+      "log_sha256": "7a47cdc895d97e07fe663c0a8a76f2fb8c1bcee59632f8a9f8fcd55c135e3dda",
+      "crop_sha256": "a91db39490c01b38293a99889e5ec53b22d0221d036e9aa5d846bce97f39261d",
+      "sheet": "banner_008.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S143",
+      "string_id": 143,
+      "text": "Regard terrifiant",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8067",
+      "capture_sha256": "ffc24e7d1867cf05069893f61e8cfa4c2deb33650d91f798a6bc7dd1e9281890",
+      "log_sha256": "2afdead11c1e9df922c85952516de70f570a8c1868e79b124f515590331c0112",
+      "crop_sha256": "4e9141c2336f5a17e0b5c960b06ef37f76f5688f8aab45c6ee87869dece5b489",
+      "sheet": "banner_008.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S144",
+      "string_id": 144,
+      "text": "Larmes de Dusa",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8076",
+      "capture_sha256": "7610bd3ff11f89a4ee86b894e41dd588d76fde175f7cf8671f1c0f9348f79553",
+      "log_sha256": "298b983f4f7b63ec2f41eded4989a30e2b98fd40054262287679dc54248bacea",
+      "crop_sha256": "a8c1552724cb13a7958e52f839eac8a98e0a86ef6ce8d8be6aea9a39c1ea9640",
+      "sheet": "banner_008.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S145",
+      "string_id": 145,
+      "text": "Lucifel le silencieux",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c808c",
+      "capture_sha256": "78b057e3780c0aef0cb498f33cca5f99b87344f1eab025cc46107dc0fb0619bb",
+      "log_sha256": "fe312370091a25f7115d54f572f0ac8eb67614ad3665056ce32f3b7a95119a01",
+      "crop_sha256": "8afe87750efe441c1f47220d4acef5d04ceb823b80f11cf8698ad9f81326d3c4",
+      "sheet": "banner_009.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S146",
+      "string_id": 146,
+      "text": "Doigt de l’effroi",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c809e",
+      "capture_sha256": "2d5dcb4f73125bdc5b6ca29c3a25050628f33c857f6ac4fb8b4ac2fbed31db2d",
+      "log_sha256": "6ff45f4f4580262bebca8615e1d6c80feea6e39d9149157da4113cd700822f43",
+      "crop_sha256": "997bceedf865faba7a4505cd807d5f4141979343e5aae84926fe62144d9c5865",
+      "sheet": "banner_009.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S147",
+      "string_id": 147,
+      "text": "Carnage de Lucifel",
+      "bytes": 18,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80b1",
+      "capture_sha256": "b49e583b7ace36126e0aa6733d40406fa6c28b132ea8a5814cacaba5308e92e4",
+      "log_sha256": "58181ae1643568de0832558fffa5fbfe6d79215bafb506dd1286fabec8cc5ed7",
+      "crop_sha256": "023f1d7522657db7278ee7a614b9ed17771ecee3fbcd3049e1eb9284cdb31451",
+      "sheet": "banner_009.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S148",
+      "string_id": 148,
+      "text": "Entaille ardente",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80c2",
+      "capture_sha256": "a770ab20b0e258c73b8f1d18f304c2a701a4038837020ff0b6b64fdd5200f78c",
+      "log_sha256": "4b6664b3fa351abf6a9698cb6d0d3fcf7f88cc32869ac1737a4a289eccabf70e",
+      "crop_sha256": "d610125cb0aecfe8973e0d5c00fca39d319e406f65e2500fb60538acee99f9e7",
+      "sheet": "banner_009.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S149",
+      "string_id": 149,
+      "text": "Lame du tonnerre",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80d3",
+      "capture_sha256": "213164b49075f35087c651ed4bd56b50b62750348a9ba043288ee4fdda4013e0",
+      "log_sha256": "f0db97fa22892048097e8e6f08bfefe0702ff51e732d7b2b1cfd7350509ea416",
+      "crop_sha256": "da17e26fc107c05bda6b63bdc60817881024aaefe8eb749b2db588c9710b47f0",
+      "sheet": "banner_009.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S150",
+      "string_id": 150,
+      "text": "Lame tonitruante",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80e4",
+      "capture_sha256": "940988d85409d5e4e78a5d9defbddfb39b24d1419451433ad84fa9fe84d7fd52",
+      "log_sha256": "30d873131a0b9cb7620b0fb88c6c9a1788cc9aebfe67b89114ded03f1ac901c9",
+      "crop_sha256": "81fbbce737cfbe3f0f5e45004e31309745241b95da9824066e16be5146b50e34",
+      "sheet": "banner_009.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S151",
+      "string_id": 151,
+      "text": "Lame de Basara",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80f3",
+      "capture_sha256": "04a92503a87ffc93d777726b81684184c26102c18e1bdb8d4b45630fc6d6cf38",
+      "log_sha256": "2be6ba0dc4f56f048404c44322d036a3ec4a25950a299efa3dd99c6d6317c4ad",
+      "crop_sha256": "fa23887862fb2ab31cc926f8bc3ac31d72c9bddfc4fe2cf4763bc777001cd811",
+      "sheet": "banner_009.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S152",
+      "string_id": 152,
+      "text": "Blizzard",
+      "bytes": 8,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c80fc",
+      "capture_sha256": "8db3fbd99dfbdf570dd3a90946c180197ea24cf0f081d72c0904bdb3ad003de5",
+      "log_sha256": "6ba92b954a870bb3709ce6856cd36a09a16bc5f4a8a8ee36ffdccafc204124d9",
+      "crop_sha256": "d0c175988630a15e365516b3f9d044f6f41f63ab4ea84fdc529b5ffd04f78d63",
+      "sheet": "banner_009.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S153",
+      "string_id": 153,
+      "text": "Pointes",
+      "bytes": 7,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8104",
+      "capture_sha256": "5a23669144b7da257608b9419bc9500b91fb4fcd32dd71ebefab614cd0dd7e25",
+      "log_sha256": "a9c83bd87c695bb6abac76022c7db2df2bd191312a7e8bf17450ee86d3b651bd",
+      "crop_sha256": "1996909f54fd821e40d36629a36d66a2c38d567f1107c9910e998e80e678677f",
+      "sheet": "banner_009.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S154",
+      "string_id": 154,
+      "text": "Mur de glace",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8111",
+      "capture_sha256": "ec91fc8a92f6be4058af4130d98f2247a8272e2101c2f9458811b6eb09d8c6f9",
+      "log_sha256": "99d28218b40c106f6c6a334176906e3eeb9c49c2ed87ba1d2b6f10e8fa688d6f",
+      "crop_sha256": "1d055d2a2ea2ef2686f3fc7c365144fbd0ea6281de963808eeefd83ebcff4807",
+      "sheet": "banner_009.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S155",
+      "string_id": 155,
+      "text": "Gouttes de Reido",
+      "bytes": 16,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8122",
+      "capture_sha256": "eae799aa2ab0cd29a5dbba8c9a6584c697475de7b926003d5a0baaf57df1eba2",
+      "log_sha256": "630a17bf3a4faf2c8efc60648b38dd18d1139e660be4a78eb1fa0ab9edcb4d35",
+      "crop_sha256": "2c23dbf3da7fd288403d3dfbef1265e058f1c16db5f39331c650052d92af3dbe",
+      "sheet": "banner_009.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S156",
+      "string_id": 156,
+      "text": "Flammes de l’au-delà",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8137",
+      "capture_sha256": "99ebb3648cde6ce13a297a72cb8e0911b563d82c891898890d71a4ffb269bdf7",
+      "log_sha256": "5a905337b52ea230369a1774a8f13408d4c85d8af7aa26a8e09d48f653d1b6b1",
+      "crop_sha256": "d327da66ff7456c13563feef0100ed875bea5cb5fb5d812e1120eb6468ad7661",
+      "sheet": "banner_009.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S157",
+      "string_id": 157,
+      "text": "Jet d’aiguilles empoisonnées",
+      "bytes": 28,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8154",
+      "capture_sha256": "9986dd413792a63233aa54e62be0c16e762ebbe31a1fef96a0be255334b3bfa2",
+      "log_sha256": "fad546dfc0a9416b7086c803029740802e9f6a4bb261d66aa0b32eacb76c4fbc",
+      "crop_sha256": "eebf0d20de277f35acf22ddbffaab27cb0c69a163d0b100235ee47fb770d3eea",
+      "sheet": "banner_009.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S158",
+      "string_id": 158,
+      "text": "Coups de pied enchaînés",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c816c",
+      "capture_sha256": "0074e9556c6c35abcc667bce24dc65165c8e483739a99ff1aeb4b68ecab165cd",
+      "log_sha256": "bb574662a3b60d2dda6a0241dfdb8360da81feef5460ad9538a95cebb734a53d",
+      "crop_sha256": "8c39d4f65e18574d0f9710b3ee94ca4d448e1de5e4ab3a79e1c77ba8839bb187",
+      "sheet": "banner_009.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S159",
+      "string_id": 159,
+      "text": "Serpent d’Akamaru",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c817e",
+      "capture_sha256": "351558ff3e091fe93ba1e51f85a0d7ca82c5ee4a0fd1b33c65e1c93c1661c622",
+      "log_sha256": "6dd2fe19c17be75550cb5d5cc031b19aba33d303ac40e604770d15a92c778b6d",
+      "crop_sha256": "fffa107bf80895bfe771001d72f610951d85fadcfa1735bccd2cc6c6a1e95de0",
+      "sheet": "banner_009.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S160",
+      "string_id": 160,
+      "text": "Eau noire",
+      "bytes": 9,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8188",
+      "capture_sha256": "cb468f05381c10636b3d5ab70958df2dc01f9490562e445c8edbd881dc280f0b",
+      "log_sha256": "ffa859059ce805ee7d4cf608e2b6e0bfe1691488ea7ffa91ca757ae18345fba0",
+      "crop_sha256": "c2ad711fc6cadae3c14652bec7483a77bb508d7b3a892cc6ca38d4414f5ab6fa",
+      "sheet": "banner_009.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S161",
+      "string_id": 161,
+      "text": "Courant d’eau missile",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c819e",
+      "capture_sha256": "d556866129318c3123db9e5e5ee0fa7cf5f594aaed011cfd491dd1b2c5b998aa",
+      "log_sha256": "6df27913c6250cc7fe8921001911d869385e1860d6a25aff30153981d3c7f431",
+      "crop_sha256": "33ecaefffe03c18a1a4f339aea1a0fd29d535f4274b43fe772dce3ab34e14ae2",
+      "sheet": "banner_010.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S162",
+      "string_id": 162,
+      "text": "Savon du Sara",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c81ac",
+      "capture_sha256": "6c93e5011b0c96496271e9c3b4b4b579008be71664e16c1d5912892a594eda02",
+      "log_sha256": "9219722f564c6548eaff9c7659a5cb8b4d645c1a1fb727203fbde31d31a99baf",
+      "crop_sha256": "f8068ee2c3badbb62794465e492b2d712fb82ab1c7f6db90e32b04ca1af26414",
+      "sheet": "banner_010.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S163",
+      "string_id": 163,
+      "text": "Les stats, quelle laideur !",
+      "bytes": 27,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c81c8",
+      "capture_sha256": "104f47d5a6eff0d31c53b13f1aa04c04be9877866887f5e614ead8fa2e48a666",
+      "log_sha256": "8fb4104b3cff4e712ca940ae7700ab4c780401e24c61e827afcd7f362e7be894",
+      "crop_sha256": "96c40ab701eedacc0fb19455f2784ecd075b389197ee51dbcb1c05e4ac99166b",
+      "sheet": "banner_010.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S164",
+      "string_id": 164,
+      "text": "Je suis un gourmet !",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c81dd",
+      "capture_sha256": "faeda89fb47ee6c0154e0827b3378dce895dd2774df2c807aefc487749c13e87",
+      "log_sha256": "57f0e50082a6798bae54c432c47c022448fa84a035355839d236db51653d17d3",
+      "crop_sha256": "6814176443b1846690216be4651b27c45b0b59218584ec0ad8e19babcc7cfa75",
+      "sheet": "banner_010.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S165",
+      "string_id": 165,
+      "text": "Danse des arts magiques",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c81f5",
+      "capture_sha256": "aa7cd91aa977b82717e56c7794c31e9310060e38aa32f43126d1f89960445831",
+      "log_sha256": "bdc1962730d62b6a72ca9993afc1725928c73bbac1f83b95c2858c518015167e",
+      "crop_sha256": "b645d0c44368441a7ad4fb3f851f4707fa811a520a2f550d72d63ed91ef48883",
+      "sheet": "banner_010.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S166",
+      "string_id": 166,
+      "text": "Tu devrais le savoir !",
+      "bytes": 22,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c820c",
+      "capture_sha256": "a937015e2a310a86c8303606093aee5c87c521536dd48cb12858696ac327162c",
+      "log_sha256": "11ceda8108c6085baef7d1c3fb7c6e5093f7d7c1c4d1622240cab25bbb4e870a",
+      "crop_sha256": "febfc6125085601db9a699dff07f131ca9066b68c59fef3f76dbc81f330a64f6",
+      "sheet": "banner_010.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S167",
+      "string_id": 167,
+      "text": "Bruit dénué de sens",
+      "bytes": 19,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8220",
+      "capture_sha256": "e905085b8672901ff186edf2f5d1dd5603aa5e035f28cb1150e4c1f13ee8e1e0",
+      "log_sha256": "f92714f173266472e9d599e351cc31bae444c94ec8a306c1a752a0b3acaa7409",
+      "crop_sha256": "fb0a349b338a26291508adbe614f145fec604fdae84eadedf7fc6c23d70534c8",
+      "sheet": "banner_010.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S168",
+      "string_id": 168,
+      "text": "Flûte Mandala",
+      "bytes": 13,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c822e",
+      "capture_sha256": "1ecc8d4530d285ba7c0df7a502cc531e1e5426b5ee5db030d297f952266a2824",
+      "log_sha256": "dba564e353a244098fb5085de69c3d21da17243cedb67845f2c380834e7e70f7",
+      "crop_sha256": "6e6c87e427f9b173ae101042187769f0ce1f62ee994ab9faa05fc01677a77529",
+      "sheet": "banner_010.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S169",
+      "string_id": 169,
+      "text": "Triangle",
+      "bytes": 8,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8237",
+      "capture_sha256": "6871a514a71b7e8d2d4dd35b10a684edb4123abb40a3dfd2d55153cc62b8af07",
+      "log_sha256": "c996c6f61f4268a74c2e3d80e2d5f4add1018a2e08f7d47f0f09460edbfba21e",
+      "crop_sha256": "7c7d7bea1f78530800f24d8f6f925950415713ce78341dc33d13e31739095113",
+      "sheet": "banner_010.png",
+      "tile": 8
+    },
+    {
+      "id": "B019-S170",
+      "string_id": 170,
+      "text": "Savon rose",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8242",
+      "capture_sha256": "33a9d144b1c9c86fef7504184fe53034a2ad616e471cfb6c0d52c2cd248b072c",
+      "log_sha256": "0131c4410a4f913e9c40bb0a8ab5dd6820352177813cdbdd72fab7e02b8b9c57",
+      "crop_sha256": "f943e0584776b9d09699005e7c4a313046d8273d4f0dddc138eb70b2a1218b8b",
+      "sheet": "banner_010.png",
+      "tile": 9
+    },
+    {
+      "id": "B019-S171",
+      "string_id": 171,
+      "text": "Savon violet",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c824f",
+      "capture_sha256": "e6681d7994e00d4f0244f76052dc606b56af8b7a610556991f8e3a54690b72b2",
+      "log_sha256": "c15e6b0735bbde149f5ccce78bff5410b342f041fd865e78625135e1c6f487fa",
+      "crop_sha256": "aafe12a533ce77029bb1ed3c36dd6af0025cf2c28e478b9c6f27ef55f5c81b59",
+      "sheet": "banner_010.png",
+      "tile": 10
+    },
+    {
+      "id": "B019-S172",
+      "string_id": 172,
+      "text": "Savon noir",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c825a",
+      "capture_sha256": "e2f4d4c21bd6621b9c2eb50940cc8de6172d5d43eb2f51df290a7657497c5c15",
+      "log_sha256": "974df679f478fcbbd4b95426d1b8642aa6126781c9c0213093f2ce2620945736",
+      "crop_sha256": "9845b1f42c2e0386bb83c114a38e750c3c15b5e6a333427ce11bb0054050e6cd",
+      "sheet": "banner_010.png",
+      "tile": 11
+    },
+    {
+      "id": "B019-S173",
+      "string_id": 173,
+      "text": "Mine étoilée",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8267",
+      "capture_sha256": "2f1b71037f56ad3edce4f58ceed842bb45b5e669affc283b38bd461ac3c7017d",
+      "log_sha256": "fc1dc1273acbd76215802fc5ae0ccfe6bc5b1e2bacf3def7ad617dbca7d4abbb",
+      "crop_sha256": "3f000b5350f3a5b4dc2b2d40d2eff8ac812aa4facdba2b15b1c8e459e8627168",
+      "sheet": "banner_010.png",
+      "tile": 12
+    },
+    {
+      "id": "B019-S174",
+      "string_id": 174,
+      "text": "Feux rouges",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8273",
+      "capture_sha256": "eb9dedbb61dba27eba7b27f204cd665c9765e83a4d18d584963ce0890f93470f",
+      "log_sha256": "4e99d01f57946a00b777a37f55de30bc2325766c51fee44040f016d7c426fcfe",
+      "crop_sha256": "a21fcfb0c9c7f3d33ee0588c6b00dd4ec1fb1560f11b4a83bd839ad0170ac317",
+      "sheet": "banner_010.png",
+      "tile": 13
+    },
+    {
+      "id": "B019-S175",
+      "string_id": 175,
+      "text": "Feux jaunes",
+      "bytes": 11,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c827f",
+      "capture_sha256": "813a8cf207bbcb40d683af6756adc9cc493ef8f236fa0be509fd7c92fbe004bd",
+      "log_sha256": "17461d858b6e7bb8d59e0886ea8c1189b37f32d52bc8335a2615a8c181fe8a5a",
+      "crop_sha256": "af77c55ab8215e3b779b089d5029f4fc243aac8bb77af40ffd7e7c4179f3823b",
+      "sheet": "banner_010.png",
+      "tile": 14
+    },
+    {
+      "id": "B019-S176",
+      "string_id": 176,
+      "text": "Tonnerre",
+      "bytes": 8,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8288",
+      "capture_sha256": "7369915537478af08d55b6b680b8fa88d5b2d3e3312ac7d6e0791a009f379430",
+      "log_sha256": "34464800172c436d7a3e179667605ce9c6432f91dd77cc316eeecea92a204e30",
+      "crop_sha256": "cb5cb32452683b0a649769d54c16b203755673a2edc36accd8e8c246cb080ae9",
+      "sheet": "banner_010.png",
+      "tile": 15
+    },
+    {
+      "id": "B019-S177",
+      "string_id": 177,
+      "text": "Laser",
+      "bytes": 5,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c828e",
+      "capture_sha256": "b8a02ce7a8545b6e2838dfb64971b0888382189820848cfb4cd07910a8a8b3e0",
+      "log_sha256": "ff7f6c4c936fe03c0d7da41140cd48ee3f7226b0b6271c0127fa4a9a20ac794f",
+      "crop_sha256": "19fef3c4f9d50ee2b265f33347213469ca2a7aa44a22d56219ba9b3f7beea5ce",
+      "sheet": "banner_011.png",
+      "tile": 0
+    },
+    {
+      "id": "B019-S178",
+      "string_id": 178,
+      "text": "Coup de main droite !",
+      "bytes": 21,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c82a4",
+      "capture_sha256": "bc6e5ea1e8931fc5eeea1792a181f2e474f01eb92d7baab89a334b18534ac2bb",
+      "log_sha256": "a21aa4d02bb44a62fa2ca8b387f3d44ae581d4d07bcad5c24b0cb6e13ae1880f",
+      "crop_sha256": "95df3d9ee7166dceb5a325c4bf16d84a43778f1c018343fe83005a62fe59801b",
+      "sheet": "banner_011.png",
+      "tile": 1
+    },
+    {
+      "id": "B019-S179",
+      "string_id": 179,
+      "text": "Lame qui scelle l’Enfer",
+      "bytes": 23,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c82bc",
+      "capture_sha256": "5ba51abaafdaa50a5d30db987cf8dd1ccdb8e7dc0fa5b7a427d675ed99a31b01",
+      "log_sha256": "1b0a14f74779fdee91d127a14f190eaaf554bef27088ed247863f7a46b0d6d7e",
+      "crop_sha256": "6f0d4b30d4fcc0bf4cbbab1f57a5095162ae33492c69ef77a59dcf0a731e1c06",
+      "sheet": "banner_011.png",
+      "tile": 2
+    },
+    {
+      "id": "B019-S180",
+      "string_id": 180,
+      "text": "Lame qui déchaîne l’Enfer",
+      "bytes": 25,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c82d6",
+      "capture_sha256": "7084f226f48d2d8bbc40e204f09b7017e7f2b88b1b0121c3e973d7f7cd45e52c",
+      "log_sha256": "018474ec902a2e6bb0a10533c207ab3879b164a1f5d20724cb7409d7289f5d6f",
+      "crop_sha256": "176e5982b420408f9e37c8f8b60c9a1632eda4063d5110e7bb3a667db1f6a7d8",
+      "sheet": "banner_011.png",
+      "tile": 3
+    },
+    {
+      "id": "B019-S181",
+      "string_id": 181,
+      "text": "Express des ténèbres",
+      "bytes": 20,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c82eb",
+      "capture_sha256": "fd44ec37c82aed916168be4a2c83b71d73e837b7d45348b4dec1a41f27fb9ec8",
+      "log_sha256": "12e532f67ee99854e864bac0bd7a6f66c5811fcb11226259ea3758a6c26bef27",
+      "crop_sha256": "c2db931d78e021799d3dc94d435d3daaa90dd629bcc7567937da438777e4ce6e",
+      "sheet": "banner_011.png",
+      "tile": 4
+    },
+    {
+      "id": "B019-S182",
+      "string_id": 182,
+      "text": "Double de l’ombre",
+      "bytes": 17,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c82fd",
+      "capture_sha256": "b710935a2294446ff435950c7c8634124b15f21de815892cfd6a2b59ad8b6e21",
+      "log_sha256": "0345b46688546d46afb25e1c9a243df3a5f6c26a0661796d15deb6c00423b4af",
+      "crop_sha256": "16fe6a7dcb51d97a30e72f4c451c6a178ee7d35f7f69faafb5d4238c01a254d7",
+      "sheet": "banner_011.png",
+      "tile": 5
+    },
+    {
+      "id": "B019-S183",
+      "string_id": 183,
+      "text": "Lame du vide",
+      "bytes": 12,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c830a",
+      "capture_sha256": "3f8f2be83a5cd3c3e87b9d90567521a90ee52a2b1888ae57abb93eafb31a0958",
+      "log_sha256": "51e7b2432d5134386369876c8c24f6a3d6d69218975e3aed88dbd722cfebc73b",
+      "crop_sha256": "c487db1ab61fe79b65b56711ecd9bc054ffbd3de189f185a2fdb0a1834ad9f19",
+      "sheet": "banner_011.png",
+      "tile": 6
+    },
+    {
+      "id": "B019-S187",
+      "string_id": 187,
+      "text": "Ha ha ha !",
+      "bytes": 10,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8346",
+      "capture_sha256": "bc0e585025f47c24e081800afe05879d30f449d875d6e6ef965b6b770967569d",
+      "log_sha256": "9539f95285707474496925da6428c5a4ab20140d1628b7990dac2c6c70330f94",
+      "crop_sha256": "74356aa453343d9f2dfaf8008412c2be77c8b221af7f1436827a88970a53c089",
+      "sheet": "banner_011.png",
+      "tile": 7
+    },
+    {
+      "id": "B019-S204",
+      "string_id": 204,
+      "text": "Résurrection !",
+      "bytes": 14,
+      "native_reader": "C0:2C6E",
+      "terminator": "4c8443",
+      "capture_sha256": "16e7a461c1ec554783e4a99176caacb45aa1ddf6b0589ed2e6c146a70fd3207f",
+      "log_sha256": "ae29dee8c49f172cac981cce3686d2e309726c0c2d527644421c3bb6ce7a8f1d",
+      "crop_sha256": "50802cd79e05a39529a1a84ebbb23f3bdc7803466c0bfae57fa85191b9f8a3b1",
+      "sheet": "banner_006.png",
+      "tile": 7
+    }
+  ],
+  "unique_banner_captures": 184,
+  "sheets": [
+    {
+      "file": "banner_000.png",
+      "sha256": "0354f8d1eb7d828ea8eafa66f690457a4c109e6e5292e76afedb4fd97c1bbc72",
+      "captures": [
+        {
+          "id": "B019-S001",
+          "crop_sha256": "d44b8774338f060ae2e1cd2da01a97732096a71a4cc113bdd65861a8769336a4",
+          "source_capture_sha256": "03db7c2708103c32cb974830c119fb4a20c1d356b449491d0b9f483b0b39e571",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S002",
+          "crop_sha256": "8513207273ff71b93fa0dd0ae3e7efe6e8c1118179c724c5d82bc5eb40a62cf5",
+          "source_capture_sha256": "9d03dec1e946c798f6aa2848d64e422409ffa228521c6dd739b5dab3f1ebcd82",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S003",
+          "crop_sha256": "0370b7f6e396c779122d47a0562944fd697ea2fc8efae57028aa18f59964d32d",
+          "source_capture_sha256": "3edda76f039e4f125774be77a8ad584c8f89a35507257a33690ee8eb73b514a9",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S004",
+          "crop_sha256": "ea15054ddd39d56d38d07d2f30160d1b800da4be35d43295d8cf95c6487af816",
+          "source_capture_sha256": "91631c6b968e1722e63cf2863b7909293a19495237e586ba92b475ffb63f8af8",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S005",
+          "crop_sha256": "782bcf35a852b9e8bff843e44c95d5a87ca536fd7e63705abd04aef665e25f86",
+          "source_capture_sha256": "c9a2a5632d0d6558d2fd4db14e1cbd3be3fdc51e2d14da7829ab0abcc3ba8de0",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S006",
+          "crop_sha256": "eda1b8049a7e56a9b52dbcda68a06ecf67f9c25dccaffb562e2d501545dedd3a",
+          "source_capture_sha256": "71c054c30bd1bdfadb931cacb432dc5d91d3d7a5c1792b6fb17ae9b50e684074",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S007",
+          "crop_sha256": "814700826e13e0b8b94658d745b164498b4a70019c8dff5ca1e4256ed9003af9",
+          "source_capture_sha256": "de0e804350354f0d0efbfe111b7de75a8472e780111c2cfbe83968188cc1cb21",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S008",
+          "crop_sha256": "a12bcd3b7bb457db84cc4b0fd6d114e26a9b49c234024eabd734ed7dcf8f1dcb",
+          "source_capture_sha256": "fc4160391bdfc069006ef3cee06375a1f4e715071907b28c7dd40d972aaccb7f",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S009",
+          "crop_sha256": "329b6d843e972b0b6ea4b0a0be051a7c1c6238353b433ec8cadf5d03cfb9d184",
+          "source_capture_sha256": "b43a9a27413989bc576acae0d941925c3c5e973060b80c663a238cf08943566a",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S010",
+          "crop_sha256": "300ccedc4b043706c50f79680807faf6ed4ee39003c398d0ea5e2cda6d86d0b6",
+          "source_capture_sha256": "ca530891b48a0ad15ef108d99b1287da2e532d2fe5e88d174d922b5892ecbeb9",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S011",
+          "crop_sha256": "bd8426156369250d4f905006425a43ec053045fccd48f5b1b48b4a65311b9b28",
+          "source_capture_sha256": "bc1d93935081e20ca3d734db6689e7a819e7af64c46d0f8d03868a55d42e846a",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S012",
+          "crop_sha256": "27d3e35630e265b79119aae32199c6346a888bbb233bfeb15cc7c9168deaf041",
+          "source_capture_sha256": "9e81663c2fcffc997e593ff9456391bac6f8c74ed951b189418e37356310e9c2",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S013",
+          "crop_sha256": "b600dca1e9e9644a81ec0c86c48661217497f3d6fd97a04318c2c35d58706bbf",
+          "source_capture_sha256": "d0b21fec3745bb59a900bec7dcef1cc21f7fe1b85676fce27c4cb984f38ddcfe",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S014",
+          "crop_sha256": "0a29a3ee59af1a24428ff2908139e31ed3faf30556fa622065f3ca9fc68b8096",
+          "source_capture_sha256": "ae2ce573c4f705bf232c1c82bc89f2e813907dd9a5b53e6239c3f18b7d100aad",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S015",
+          "crop_sha256": "b8fa09fc83dc1afb797d6a1e5ffe1479cb4682a9dbdd8a346d47807bf11bd178",
+          "source_capture_sha256": "80178a5889b8b6885fa4a2ede619999317c6caa7963a480b6f794be617567405",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S016",
+          "crop_sha256": "6a708d654abd06073b6caf2832e6e8e0385bb374dbcf95b18debf0b8c3af68ac",
+          "source_capture_sha256": "963ddce6b7123cfdad266285634f58484b51d5e27999bc9caceac719e8a33f72",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_001.png",
+      "sha256": "cde931630dc8f384952c60767be805cc8a569638b746098b4d4474e4787e8590",
+      "captures": [
+        {
+          "id": "B019-S017",
+          "crop_sha256": "d0c9745e6436cab25069f3efb30c46975b9bf5a4947b6166e54f4814e610f93f",
+          "source_capture_sha256": "5cce2709d755b144f62e5f73045fb0234726eb20587537832fe753baa330a893",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S018",
+          "crop_sha256": "80179d54811783524de48129088da86bc18c73fda1a5f8430ab1e781ab405143",
+          "source_capture_sha256": "6c601e92eb07cb90718cb561a9bc8e23e660a766ff47c10f38a52b45fbc05d89",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S019",
+          "crop_sha256": "601238711e7518642abb6d20e784a0ecb085ec201ecc64029d7415dd6f0d82c6",
+          "source_capture_sha256": "c796aa9ec48a6f0647e13ecf90f15b5260b03f10c3cb05f547de6a9a23cafc7a",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S020",
+          "crop_sha256": "75c9b8e608bc568be72e9595ee1f71f91209270e3d2221fcb084bc0cc5077a31",
+          "source_capture_sha256": "1dffb826edbcb1e8cac31a78fed2b93f02b10cd3d96591704f03cb62e6a84464",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S021",
+          "crop_sha256": "c7221e5b94c42327f6eac7e73eecd428d3415da11e415c2ea53d54aa14dbf651",
+          "source_capture_sha256": "f55b9eb48209c63a40876e0f58286a2b8f7649309e3562dd44893d29a8ce2840",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S022",
+          "crop_sha256": "429aecc5d251ef9ce32e1ac7cbc8364e1d987a1ca2ac47656dc510259d15043e",
+          "source_capture_sha256": "fedf4df124f81d7aea606927e8b463b84b65d778694001b367ca83ea1348937f",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S023",
+          "crop_sha256": "c189f4ec1e1d38bb6a19896158b12afea4bb8bc5ac6c67133c394e4609251d48",
+          "source_capture_sha256": "f54caef46abaa4910786d455c394696056f579c93424df9f8f85b376560bf022",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S024",
+          "crop_sha256": "a07d0e6bca29e14400a0d8fa2b4d7d360f4e2310ac6beef6776a5bd26da3e7bb",
+          "source_capture_sha256": "fecb793dde07c9500e9182ee69505562120b7d4792cb24ed12e5c15c72eca2d2",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S025",
+          "crop_sha256": "8b106d9337a37808ad36e283181db5b9553dc51f73aea7c8d3cc4ae82c40837d",
+          "source_capture_sha256": "6fe82eef0743097747ee2f0a33ebb3aa5fbc9468d485cf50e4ddca92d664bbea",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S026",
+          "crop_sha256": "83150936c42831af21cd7509026e2a75b84f50528ad382dc769327fd431407b6",
+          "source_capture_sha256": "ae646d01c0a0be3702e8fdce5569c666af9bfe2603b06bde96a61646e01567a9",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S027",
+          "crop_sha256": "23fc52ed2107099d1be6072c60ea6cf1734e917384dbf67c0149c214bff46d7c",
+          "source_capture_sha256": "f7fd4be1a29809898655742fd52e9ee0ed5aa1575bb059d41eb8924cdd7e9a42",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S028",
+          "crop_sha256": "ad7a17bbc45c0d8cfded828281bba530e38acf976c4b1a5da3cab0d45e6b978e",
+          "source_capture_sha256": "a9796ea50223f2cf63018e2b3528b2b8fb94ad94ef49cfa46084f681f6a2bd39",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S029",
+          "crop_sha256": "685731bfbc4b9dc6ba204dd95d8f4a84cf0bf51e7798fd038fdab4d8365e12d8",
+          "source_capture_sha256": "275d28cbf6bbcaff453f82b1a399ee65310ece8af81b17ccb812a88eb645706d",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S030",
+          "crop_sha256": "cd819126da11a83f33598c4b82fdd77cd4e6839aeaa6e02a1c4d2c46ae24aaeb",
+          "source_capture_sha256": "bc6dd672bd6d768349d3f4bcd9e06a8c62d7aa1ae4e240eeb4a4e98727c9d28d",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S031",
+          "crop_sha256": "ab7d06362f9041aaf29ce135ad32fbf7f66e81c4d79c6aa97390fdcc77954b9b",
+          "source_capture_sha256": "2361e879074d83f568175aa39630475c3102e32ea97c113b58365d80127e7d84",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S032",
+          "crop_sha256": "c1e07d601e79ad63f153ba238839940d7d4582d0d2fd1d37513f5f43b0e55aa9",
+          "source_capture_sha256": "20a35ad646ee2cb62036d1a74e07502573f340648685b34271656f9e1031bfc6",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_002.png",
+      "sha256": "00b7547d66c8e0364beaa779c6ec06e7fe0315186dbd0edad90056774ac552e6",
+      "captures": [
+        {
+          "id": "B019-S033",
+          "crop_sha256": "6b27c102c404757515331440144329d5a228f30abbc9ef0bb6c43b35698ea9ed",
+          "source_capture_sha256": "30cfb6e48b05d9f7e723842b11833c6602379e56b1809395f72e9e97cd0470e3",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S034",
+          "crop_sha256": "531dba6bd2ceb3f86f3f654d3a5d8abe5bb087b9a86ffdede6a116c422a2233c",
+          "source_capture_sha256": "c07883974bb13cda932e0457ff703d8254b9951edbe9dc0a9b9843d8b623cc5e",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S035",
+          "crop_sha256": "36ab9f844ccfcb7f6bf5d0bb0d03c22ed20601e2b07efb7876118750006711fd",
+          "source_capture_sha256": "46796075a313fb2769cd2a6931f488c4e48866020783aae3a7106e7142d816fe",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S036",
+          "crop_sha256": "db6bf43d06af8e3c0eec37804ad6a37910c72605a8d2c054a90e8a717635c1a3",
+          "source_capture_sha256": "80c0ba065013fad0fdde8893f2f5ba4b9ea55ddac60bc0335c4b487ba87fae25",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S037",
+          "crop_sha256": "d7710cec7c0265316a305a3267683744126b3a8b5b6b33ce08e15906853fa7cd",
+          "source_capture_sha256": "24735ebcbc422ed3e920862d432968954e56a80b5d981f783584667799b14d78",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S038",
+          "crop_sha256": "f39eadfec908caf9d6da89ef1c9e052c9a04c404939007621f004301735477fb",
+          "source_capture_sha256": "ce7d6b4aceac4801eae3fa6eb1d2871d501ac9d9cc662d68e62097dbf2ea2d83",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S039",
+          "crop_sha256": "a5a1222dffaf6b3954c9d77bce6af2ebaa9086fb01f7d2592b821abc079dd149",
+          "source_capture_sha256": "ff56122503b37a700d12c1915f1e69889284635f7b3338d20a1b73d1d78b9a56",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S040",
+          "crop_sha256": "e6dcbed687ad963191cde07cd4c69220f1d123379625e1f42403e9cb925a8054",
+          "source_capture_sha256": "7da9bfe1d0d3709ae5678e510cda7c8c9ab7c796eaff523079ccb93e1952a68a",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S041",
+          "crop_sha256": "5060c994011870b3bccfdd9a66643dd5c93ed2ae41ee41827b1fb6e28e58a7e6",
+          "source_capture_sha256": "cf2e7f8bdffdafa3d347dd84ad116dea598c6bf06b24863465723d6f4dca92d1",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S042",
+          "crop_sha256": "9c672cd8bc50a1e0d01ec871d6222c095ddb3e67d038d0b0f6b5fbaa0d5b9bf6",
+          "source_capture_sha256": "55cbe448b2bff5209c7a5714f761b6246969f18a7af99b9d59eec89bafe75934",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S043",
+          "crop_sha256": "450fe5a4c57e9f8f5e3e74ce2f573262cf1a23c717de09220eae49ff76dc3a8c",
+          "source_capture_sha256": "d15bb7fd62e7f97273d2671bf8b18a8582c8a4fcbf2c57495c54fe64119c7fb0",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S044",
+          "crop_sha256": "cbb5c65c84e6cc539a4d92f459ee58c1978f51abdc38da642836432c68b58ebf",
+          "source_capture_sha256": "57fbf59d072eb35205d5161758cd69d4f9aca5586e3c5b68c519f785bb3c9a5d",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S045",
+          "crop_sha256": "3062d7584bcb8bee6931d2bc42573eabf8b8d4d178b9e5f44e1b71068f569d1c",
+          "source_capture_sha256": "01c99f618b95b08de865f7c80e1fefe67dca7e6021fd5cb2b5df8decc7a7eb4f",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S046",
+          "crop_sha256": "ca565a033d1709ee68da59b6114c0fb1062cdad69a66daa117fd483c5d752a3d",
+          "source_capture_sha256": "ae5ce18db348e26b4798c297a17166877523f6a31e1018b2643cf5c5c12d29b4",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S047",
+          "crop_sha256": "d46fba9c67cdb3e192ed2ca376ed4de774f094e9535526fd52fd20b68fa69b2a",
+          "source_capture_sha256": "e2ee41ca5b02bc49a042a913f7258685eae07bc292ad1e4cc49ca6fba0f001e2",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S048",
+          "crop_sha256": "7f012de761849d06f30da548740315088f7148df5fd5e4f8375db9514e0852fd",
+          "source_capture_sha256": "90baf2b9eda601ecce8e579c2999ccb8fb05852b95703d7f731407df7ef750c4",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_003.png",
+      "sha256": "66e5e3ddcf71c748263383875eae3e0aae88264ccac519c490e39d24b23e487a",
+      "captures": [
+        {
+          "id": "B019-S049",
+          "crop_sha256": "d0d07edd6cf558ee76d1062087962e59fc1f6af11db754f6cd73ae61ba5ef7cd",
+          "source_capture_sha256": "27acb8b412c7451e0d3ab94b791284d4b14498c1f274abafb61a3374c1cad156",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S050",
+          "crop_sha256": "3f4e87d551b81fa81e97c496530fc20cc9f8d727fe24892a06f6d9f1d940ebb3",
+          "source_capture_sha256": "5a91955f984dbe0e2434f5c5afc251f2e79df2f852f98c5b533a9fc4fea27b02",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S051",
+          "crop_sha256": "c3d604945b1499bf52783dc726d83add8daaf9c1afef098522b85733049f5257",
+          "source_capture_sha256": "312202dcf7516475a0f9e641f55473e91ba01b217b2d6efe3d7d8ca30d05dcea",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S052",
+          "crop_sha256": "c115a1c4db02967a8b4fc597d3059f63d117b8f237dd1fa8a52965a3cd8ec8f6",
+          "source_capture_sha256": "a82b2de31079bf1bf73aa8ff5acacae85fd433a49624cdb3380414f701868ada",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S053",
+          "crop_sha256": "0f72786d2d7da9d42de772e94486a88db6bf726dc08f0c63194e22996dec2615",
+          "source_capture_sha256": "f0560e09b5e7ac3cd55e9bf31dda856e7252834499911a0f0c21b6805f3aa1ac",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S054",
+          "crop_sha256": "75ca98f9ce4e0e0ff00c46b29c1eb105a5bae85cebf811575aac68c94716f0fc",
+          "source_capture_sha256": "0f71ccb93fcdc2446b197044c55ea14cc0c6c5f2b8da9b4fba4ff516a62e1bcf",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S055",
+          "crop_sha256": "0a2a6da521b317eaf5530e6356e9cbb516b952c27e0939dbc88e3d418eb02e9d",
+          "source_capture_sha256": "c1fa68bdd98a6446251bf659ad014b20c4e1b0dabe0ecda621ea755b94f8e823",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S056",
+          "crop_sha256": "15bfa4a9aef33357fba58377b6168b6976f2283ab1cd6e129cee67b3c98b0661",
+          "source_capture_sha256": "076b69440c2c06afbe7cba67b0df4bf08ca6343e3986873cf643576f7b20413d",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S057",
+          "crop_sha256": "5a90b0b26cc840dec0d3f7f111bb29ac241b8a0914568de208b5d290a03c4a69",
+          "source_capture_sha256": "61b01b5730d8d0db768ab45cd53d60058ee29b8a3ded6ecbb73966e81bcf875b",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S058",
+          "crop_sha256": "7a0d7e35b0901c4ee511cd781754cd901605f5ea57538ec59acc43babc054e90",
+          "source_capture_sha256": "a56c66ca64bb8e08b3443d66ad1aa28ff2631d605d1cea1fb5a372eb3e08bab9",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S059",
+          "crop_sha256": "30e3d972cde50710a017977ffab5eac4f3ca1159894c98077d37d0464fac77e7",
+          "source_capture_sha256": "6ba7e9caa251e3d828a98dac4deb9c3c0a34d8b0899fe43fe584ea0703e125b0",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S060",
+          "crop_sha256": "e0abc545cabdca7257e1d163e742bdd5f53ae412d3d3a7bd3eea586008f0b4cc",
+          "source_capture_sha256": "7847e87fa147f9e488bc6d03eb6502c5ae5a47b949a42ae76d5a62e268b8e620",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S061",
+          "crop_sha256": "d508830d040c5d3c2d50a9b3c71aa727784310a2aad75921d57271f74c8bf2fc",
+          "source_capture_sha256": "882c39e9cc32f20b14113e2a22f04c83e6304a3d0a69401b47682697b76b12fe",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S062",
+          "crop_sha256": "601d5a850cea3bb586a4a4dc7fc761f305515e036c0fe9be5576adba7e59fe94",
+          "source_capture_sha256": "f6ef41ad1507291aad92c6f2d4475f0e677a07fc92174ec4e2af7a7dbf49d732",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S063",
+          "crop_sha256": "f49066863d2cc42ec5fce86b92d164aeb711ee05fd6b34870385866d8dfa05dd",
+          "source_capture_sha256": "a1f8d5f6b55f311b5cfa4a5b72775c70a3f509e9e22280a77db21a4282c277b1",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S064",
+          "crop_sha256": "a808e5fe4eb363229833a1b7a38a5a1c99365a5642fb70622508be604bdede42",
+          "source_capture_sha256": "2b43b692beab82cd9756543b73797281e7128be24291e08f0fffadb0d29397f5",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_004.png",
+      "sha256": "ee95ddf29557e62e1754f743dcbb1168804f05b0fb85cb959a08d436e3322a36",
+      "captures": [
+        {
+          "id": "B019-S065",
+          "crop_sha256": "60ad8eb65c6eced3ebe3e25849645c0141cc365f88bbf665ba5f11d31266477b",
+          "source_capture_sha256": "f3a1b8898be6298e586f696d21bce34ab2abf1153418f6fd660c058c1046b293",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S066",
+          "crop_sha256": "922183e96fff63239effbdca8bdecefb874fae00c3b5621c81b4ac549b2e14f0",
+          "source_capture_sha256": "9ea5b1df25eb2f52ef69713919427e54d875cbad1e13539c23feecb59cae1138",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S067",
+          "crop_sha256": "d863d3884ec9f6b2d3880d3a03c8edd643eb7e71942ba285896cd885c61dc512",
+          "source_capture_sha256": "865b630c33e6e2ae48756c4f4a3dfe6457e93cecdcfbf71d46490ef1b04e3f63",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S068",
+          "crop_sha256": "ed7d51ff3de0c205bc267298fce5967d9f08168ae101831a328b3de33f2beffb",
+          "source_capture_sha256": "c17fec37dbe9eb7fd24c083d8e118d17d67831607e5ea55fb24138932aad81fa",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S069",
+          "crop_sha256": "178cca0615abb7e01af3705eae8f1329b3bee2051ec76c10a4e8fca4c312e52d",
+          "source_capture_sha256": "25ad62587b91bb570da415e7ecbe3f18707f0577da3bd607d6cf0e6b2573c1ee",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S070",
+          "crop_sha256": "0590265c1e41eeb6f68e9dc291ad6b9a4ba2eec57e0a22173dc200e9f99a5216",
+          "source_capture_sha256": "be15eece1abb1ed0e9c9951ee8ed221fc549ef47f8ca3103ace1781ba6ee6084",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S071",
+          "crop_sha256": "052eda3b0ed66ecc0558e2adfaa6e1660a6666298f954ef622cfa496805317b6",
+          "source_capture_sha256": "458d205676312c6b0a9b868fdd940689c7ccfa1a5390d84a1f9f196b8d8ed06f",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S072",
+          "crop_sha256": "3ca34a8ba962c2ccc2858d26254bfd37778a9215e959426cbd2627df5e56beaa",
+          "source_capture_sha256": "a7327c046d9c3c089c9f26de0401bb78d82050ef020c1ab79336653e049bf977",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S073",
+          "crop_sha256": "5b9bda6b7f5e9685c7ffac10414b55d46542120d51fe465dd17fd0761409d9c6",
+          "source_capture_sha256": "b5398d87cdd16471a829410be3eaf068ad1b13729facb44ab1549bd88dd63b7f",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S074",
+          "crop_sha256": "d74318b1202ba2b0ae07b3dcc025977eb9c8358a6663ce9f50efe230d588275f",
+          "source_capture_sha256": "2a2409f135dbd0fb5da1cc37e4c495485014ed35d697a19bf221f911611fc972",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S075",
+          "crop_sha256": "f9e96a7c08173b0b97b7386b71bc36cf4cd435896084125bda638e74ee321791",
+          "source_capture_sha256": "905915572ae2352dde8cf75bf73f5a6c6c00f325b95bd1a60a16c44f9ddc57e3",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S076",
+          "crop_sha256": "d9a666ce95e1ccf39dccab92685cba2fcf588a6e1d06ee432732d78c04100987",
+          "source_capture_sha256": "75d24edd72abc39c98bb05ed5c93eae7bdf2194fc026cbdb590acfdcd33079bf",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S077",
+          "crop_sha256": "ded88943e88e189d4b4e88ef58df018bb777876b5787bc3fad79e007eab3f6dc",
+          "source_capture_sha256": "757f74907685f9c788904d3388b8c3836957d30f7e6b306d9ddc9f518854eaad",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S078",
+          "crop_sha256": "9ed6732ac8ebccccfe5051522442c5833164a2ef40442b8451b316e4835e4fc7",
+          "source_capture_sha256": "dd0dab3af81273c486a58d36cc70760eb790807c657e3c3760e99170194e1b57",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S079",
+          "crop_sha256": "85383c631fa00d6ef12e7c57e36d0ceaef6ab0565a9af6856f21e8772c17b414",
+          "source_capture_sha256": "ddd55c883aa970b56a8befd949eb93fbc83b50e5230cb2ffc8fe0628abc73218",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S080",
+          "crop_sha256": "2b4fd194df54d87d5e7dc1f25fd4fea3481ebb19a077a37fe291d109d52d7602",
+          "source_capture_sha256": "649fe5bfde2e0878a0ea674988f66fa186713b741807af683bc259e16165ba7c",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_005.png",
+      "sha256": "30a07cb8130e2e6b512781d8e52b527a4b8fff5662bb1ac583e43696a359d373",
+      "captures": [
+        {
+          "id": "B019-S081",
+          "crop_sha256": "48eda9a5bc4cfb4b512d942e4b4f208bb3b1e074eb245487c06da606fb3df2b4",
+          "source_capture_sha256": "bb7dad4412a5fe6aa5018d42beeee5fdaad827b58acac52c239af1ea1868ec71",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S082",
+          "crop_sha256": "1f12710b03beb5388a6ace792c094bd129b9879404f4d5b6a93d010cdc477b03",
+          "source_capture_sha256": "502055ff670c3cdd390c4745fb50cbd6dc88448773298bf5d015113ab453a274",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S083",
+          "crop_sha256": "271e2a3ae1e68273a943b058db57291d557e3494c603b0ae49d3b2104c676a14",
+          "source_capture_sha256": "1a55551291c0e7e110505ef1122a77f6673694e68d47486941366560fbb404c2",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S084",
+          "crop_sha256": "2ca807d772f4b8ae927ba79ab3f896d18cc8c3275e736daf51abc5f6ad331096",
+          "source_capture_sha256": "4f7c20ef35384accfd81a7bc048e182227680c24ee69676264768f253dcb4d3a",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S085",
+          "crop_sha256": "b07453e395e031d0b0e61f1c8ad828bc72f1729c9b3e53170669269ce7e33390",
+          "source_capture_sha256": "c482e3f2e485098314c6175a8cd3ef5b956913bc87778194545c6aafea7f4f32",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S086",
+          "crop_sha256": "c57712e795143fdeb56f5919bfffb5e6e009141cf26224e8e02d1ad57db7b56b",
+          "source_capture_sha256": "dc71a9fbfaaf3c319944d9cc9638990a9796e14e47489ab480f00752ebc864aa",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S087",
+          "crop_sha256": "81b99982f3424305eefcebfb59f8cef50e8b0a07b1775fa1f282157bb8b9c7a9",
+          "source_capture_sha256": "4127665c75a64d9b034fd82b1297b6c826d000043ef784fbadc03d895bef4fc1",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S088",
+          "crop_sha256": "60d493da647104227bc154204cee055e8fc58e1186b7ef5477b52644647bcca1",
+          "source_capture_sha256": "7a8006c677e27adc505d6a551e3b180d891757edbf1b022db933ac4475f54117",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S089",
+          "crop_sha256": "3c4da813c9ee53b363c7f667fd1d70a49bbfb15fe241cc89daf59a47d3c43d9b",
+          "source_capture_sha256": "a7dfa6552744b5638e0fb3c972a26a2a22ba8a0e0a9fde5572b7a03344ffd1f1",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S090",
+          "crop_sha256": "baab0de8eaa29b1eec2b2e75f645d5f233e0ee4d01a365aab0e047d009d4955b",
+          "source_capture_sha256": "9147a5d3673c4b85fd1e9b6a92aed2debb21541c197c44184aceeb5fc6b37719",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S091",
+          "crop_sha256": "406f4260c02516062e4f5bc3ceaf438be26182cb91451476fa69840f1174919f",
+          "source_capture_sha256": "8341dea73428ebbaa011deb34dc2b830db30d4c137368bbe9bc0da0413c821b9",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S092",
+          "crop_sha256": "7a21b84f1c6939f5e1a90f92f04b9e3e27f102ca1e17d0e57fd6762f21bd5ee2",
+          "source_capture_sha256": "334797192a20727a3e66868a95005002df0ab3c395d1d7d681a7125d82c48e1b",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S093",
+          "crop_sha256": "619f1ee9bd884b675316e04b52c6e97fef264aaa8dc5e6f33e27b430580b791b",
+          "source_capture_sha256": "f06302de8816e72484e2123ed69bc4d08d36338785663c755b74ef3df94fafd8",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S094",
+          "crop_sha256": "134fccbec96c9534ac8988b2e2b99220fdfe2d25f2b9c3b867a2e1c35216d4e9",
+          "source_capture_sha256": "8dd0117a0bb337d5200ef2b49774b7752160da99d5a32f6a907b831c3c77b127",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S095",
+          "crop_sha256": "51c385836877833484817559a129ea2bd9fdce727b1cc4319f3479df62ea82ce",
+          "source_capture_sha256": "eeead10e7a4e5915c7fab25b1c18f493c12c8f022152e899c67039391ea43080",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S096",
+          "crop_sha256": "99507ce5cb306671b0154397f0ff7fed4d54b4897520373703f1af6d96195f0a",
+          "source_capture_sha256": "57c5d00cf8c6f28caf1a47fc6fcf12aeb499ba062303e3f6b86c2b0f9cbd3457",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_006.png",
+      "sha256": "9b4528a21dfe0f12ddfb69a2af00a22a2e3ec1bbeb52e1b35b5826fe8bfc8243",
+      "captures": [
+        {
+          "id": "B019-S097",
+          "crop_sha256": "4687248517354372b4f2dfe6b8731d4fdb3a99e8e13c7770e0bb8e69324738a5",
+          "source_capture_sha256": "5b9030abdccad5381f2e33fbe86e708f1295cf25834b5efcd00d1739b86fa5a9",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S098",
+          "crop_sha256": "3bb00868bab011404ad047efb35b8cb8099f6f4e21722e2ebeb737ed0a060ab7",
+          "source_capture_sha256": "7ad4075f609cbc141575c1cfb42b2f05d8739d62435b54b0c56bfc7730e0c215",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S099",
+          "crop_sha256": "0e05266170ec9ea860d149965e4d1a1005db4e0acd7ead94719bb25e948455fd",
+          "source_capture_sha256": "8b797a8a52831fb27a530585839e3ede5e917478d29ff574109533b9b7ce542e",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S100",
+          "crop_sha256": "1a2a23b384f10b06ef3987b2562062c591b36983aaee3857304a95c80ad17a60",
+          "source_capture_sha256": "42c46140629a2746d49181cc145e8c84e23886690f021a2967662c3d289dd7ae",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S101",
+          "crop_sha256": "5cb96c1a9b91e9e97808a9b6146c220ac40cf175d62c829ad07e9b72c2bba6b7",
+          "source_capture_sha256": "83e2dbadcf376ba0585dcc743375f87a025021b97b4d49ba45723ab792c3db68",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S102",
+          "crop_sha256": "8f042d7fcc78e6ae719da8688167fad68e3266c9daa88693538dfbd9e95e1d92",
+          "source_capture_sha256": "ae658a704760d97431d08eb5888c3bf170d025a0a13a0ef8e90d7c5b007eafc4",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S103",
+          "crop_sha256": "b1cde377680a1bfd93a1c0a6847450f47ac98b5248ecec4abff4b704021d6966",
+          "source_capture_sha256": "df3ac30c261c87ecd1f7c293d8c7672228d6027af72b7a06fc8aeb91df71794a",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S104",
+          "crop_sha256": "50802cd79e05a39529a1a84ebbb23f3bdc7803466c0bfae57fa85191b9f8a3b1",
+          "source_capture_sha256": "16e7a461c1ec554783e4a99176caacb45aa1ddf6b0589ed2e6c146a70fd3207f",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S105",
+          "crop_sha256": "85cd89ca234fe035affa0a3c48a2c99821b2f45d679ba0dbf3f3e48e91bd2f78",
+          "source_capture_sha256": "2ed93ff5e9ae47b9cf63174e34f0776dd0b02461fa02437d74e57c015866b3f6",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S106",
+          "crop_sha256": "a1bd601ccbb9642547900ef4f90427227a3ab6c1edda15bb6cbdb78ad47f03f8",
+          "source_capture_sha256": "6b887626b126c7a3bfab06982f8919c7ecd78d9f1352940969354225574be106",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S107",
+          "crop_sha256": "75c9a7b6e209307cbd6c4cf878139786929a1119172b5dc863ddde711f8f18d3",
+          "source_capture_sha256": "457225d13150c449261d5d5a8784b7974db5ee3b8888dd7d3413e30ece23ff0c",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S108",
+          "crop_sha256": "6f93da7c7f4249e7c389e2882b721ffe06ed143364bd0934ab358980fbd0eda8",
+          "source_capture_sha256": "885d8af0384804513f3803e18fa3fd1a9a339357c18123e41cd42a07ad8dd4e5",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S109",
+          "crop_sha256": "76ef0efb928125d586791f559c714f5af2a97adb00036be238cbc514f689679f",
+          "source_capture_sha256": "9190a830cb9339697b59b20c4e57fcaedebc3bebf7ac968244ab4a64cbb96b3c",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S110",
+          "crop_sha256": "e52343771eabecb520567ab7b7e439209afddf449098160fc1306440415d9eab",
+          "source_capture_sha256": "3f57eefc2e6a2db88f88e2218b63c7a2dac4421f11f1236a043127d56cd1b425",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S111",
+          "crop_sha256": "0e998d82c4ef5285eaab69cf931402aace8f4427a4cc544fab9870530bfb035e",
+          "source_capture_sha256": "04f36f2ff34f094f0f4bc45c23f338129b612c9638a8a2056536fa95fc230f6a",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S112",
+          "crop_sha256": "6efa43a5d323a614be10843e7f7464a5623daa53b8836c71f84f4e9839ec6c9a",
+          "source_capture_sha256": "ed3d36a7838992c35bac0c8d367300c5d742bd60312543f9f5cac38ad853c941",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_007.png",
+      "sha256": "b79cf71774e7dfab7e6528f51391a3b82d871668dba03742cf696d3788a79eb3",
+      "captures": [
+        {
+          "id": "B019-S113",
+          "crop_sha256": "17b4c4a2d36b076721806417be6aff848560b290a9e9c19a7da1a594465c0ab0",
+          "source_capture_sha256": "d23dd572cd7ac7517cb9eb83cdf46d134ffe68ae0b21e4d0eb4fec54e3b80b23",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S114",
+          "crop_sha256": "5a4dfbedb385d9021cb8b55764e14f740ae531af4389b4ac13ebdfda8fc6ffd7",
+          "source_capture_sha256": "dbe65a8618c0c73d0faa117ffea1c0a7ac34f4f1d48204eb1a10fd238ca072f3",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S115",
+          "crop_sha256": "d224896243d2759b89081401206ba0294fd52f53ce36355848a8dd4aa0474c74",
+          "source_capture_sha256": "31688e4d9b331d8e654c962e8d1cfd0fd5f14e31e32535abfd37aac932dc91f0",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S116",
+          "crop_sha256": "2d9a15d4e928011c282949fe9fd224e279c354fbb4f6f74d82b75212c16536d0",
+          "source_capture_sha256": "b2ffd606594296a4510e0e2121342324fc7c023ac49144865dec93243aefb504",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S117",
+          "crop_sha256": "30833d777036d52e3991eb701fd5da990311f280a7a5afc9c8a59f825e929fe9",
+          "source_capture_sha256": "f6ce0eb1b8ae5dd7f3b3b3fcb72d1712cd4c96c36df891968078c8ce57cc3c3a",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S118",
+          "crop_sha256": "4c204d65ce054835e433a424bab10ef9bf6bff80f14bb9677fc3df5f7bd4338e",
+          "source_capture_sha256": "a8831afb824fea34ccb954961da92ab64970421a4eb7c0c2b993deda54ed45cf",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S119",
+          "crop_sha256": "c59289c555c803d4dbd4ca9d1c2933b8cfe8777c6b419669562955aca2aff36c",
+          "source_capture_sha256": "f98fa9aee30a202515c6601a6fd51efd06ae11ebb0b14412b067e55aa655a593",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S120",
+          "crop_sha256": "94f5d1c73ba4bb2e57718f328179fd3e8bae2367133453ec74376ad32a41b0d7",
+          "source_capture_sha256": "8b7ed5e699129aaf733a476459837e23c357865ad898dabb2fe4907dd5bd83cf",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S121",
+          "crop_sha256": "09b487d0a78dc38a83a0903d2b654d3ece52feb1043be19da4fc9bb214762529",
+          "source_capture_sha256": "13b3feb49d4ad4f3571d86cff5b3bd0fc49b5c953aebf85d04b0e6c4bcf801eb",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S122",
+          "crop_sha256": "d1cc39bd05cd1d82d8a97d03abb7ff8a5f3aa7ed73b4478898e1c9006190ba7e",
+          "source_capture_sha256": "296a75cdfd7a7469e63fa8c3f3d299abbc99e8b5d030d9a87f39acc4a38d66dc",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S123",
+          "crop_sha256": "ad8862c6a45f117f6243b43bb35c6d89e312c2f92932506efd395fd30436bef2",
+          "source_capture_sha256": "deac08d545fa72de3bd7d69ba091a26a9695945b437c561789027ad81e522753",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S124",
+          "crop_sha256": "34d7158a3166689694b84b3976e9a4092834fd565b1010a635c20071264f1915",
+          "source_capture_sha256": "9730fc5a428d9bee26ba02cbae61b1fabbcc4f59f297cf3c2acc1f0fa8f44327",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S125",
+          "crop_sha256": "72c3b96374d25b7df667f4cb42a947f254df0e70d892039db55985b6f6b3bb3d",
+          "source_capture_sha256": "35c1f2cf97c4046fbe92aa2f771e534c738cfe36ce5c863702695c704c0b92c4",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S126",
+          "crop_sha256": "5eda8b37a990c40a75946c732876b5bbd6a765f652bff2a4efeef6f58cfc407b",
+          "source_capture_sha256": "7445ffe4534f5ee79860843388a019ab0151686d88ca1a5699c49abaec85b2dc",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S127",
+          "crop_sha256": "de83d1f2596770fcb63c80b5a862baa9bd26c03ace448dbeec51c643273f7a29",
+          "source_capture_sha256": "61b87edb67d230efb3378b3b6ecfe35940462449a891bff0f05b19450961a051",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S128",
+          "crop_sha256": "71e13bf5a1b542e76665217a54ee86456e328f8617650d8c2ea3c7ff3a6dafa1",
+          "source_capture_sha256": "796d247dd9e4706210c73e0c8a8926ca23ae4f94d4f2df90f4dd0072aabb911f",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_008.png",
+      "sha256": "46d3599d2dcb7e64bc33892d648a0851baa45b1db8368a6f20a086c8d9edb94c",
+      "captures": [
+        {
+          "id": "B019-S129",
+          "crop_sha256": "5ce27fc5022f35d753dd18d75d5170900b9b6d2fcc962696a0b228cc7708e546",
+          "source_capture_sha256": "2e610163f20f7e46cf4103fbd06b4a3f977fcef4a2967fafe1e734edf14b7603",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S130",
+          "crop_sha256": "b5f1f6fa20d19abb94bd14f0ddc59537576ed8f21714797a12e3aa7e0a40b007",
+          "source_capture_sha256": "cc17aafb4484638c604118b8a85418049b31f199bde2344ec464df23484888a8",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S131",
+          "crop_sha256": "dbbdecb2e74d7cc65bee5dc6034e2da66b35197fca7d136f3f2572be7a6387b8",
+          "source_capture_sha256": "378411f19a0035b79965c264c6a46839bfaf0efd3c92b9c374c8df1a63bb3b51",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S132",
+          "crop_sha256": "3560ba9befa72df46dc8e34fb9cd72638915df23aac3d6071898ea4bbe17e24b",
+          "source_capture_sha256": "870d4317de208bd4046ce395864716a8aaa0a78be9993e56069529a6c5b3d02c",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S133",
+          "crop_sha256": "6b295cd9034ccfc81b6145cb60392100029e3d6488a910198d4540368e8f3e0a",
+          "source_capture_sha256": "fc3908cf4e861f040c2cd4aa524dcce0b4af221c60d3278baea57e251370b20f",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S134",
+          "crop_sha256": "a6ef025c1b0fd644194e754950c297ebcd175bd8447b46b16508081f5b9bc50c",
+          "source_capture_sha256": "3ecde96909091825dc55ce90d0118fc94ea26e6a6eb705190ac3d273829b151a",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S135",
+          "crop_sha256": "969f9e6fb640f47f61ea6af35681a2082d8defd155038d00dd326da8ac5eb1ee",
+          "source_capture_sha256": "8fa6f836a6c9647d6664a4cbcb1b774601307f9d26793fb4d53dfc4e8ef93238",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S136",
+          "crop_sha256": "032cbcbdd2e6c215a98dcdad94396096d359501a4b5014c7302092578bde66fb",
+          "source_capture_sha256": "5b659ffbbacf60627a065449356f646b5bd65f33735a09d974ebb18f06b46957",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S137",
+          "crop_sha256": "2ec0eeb225667fc9f0208f8f41dc438fd36f43a4e72d285dd545e53bdfbfe365",
+          "source_capture_sha256": "050c88efff54a7ebb27611ced996ea853cd7d276a25a049abc15f828684b61ed",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S138",
+          "crop_sha256": "233fa7d4bf12f10ac2b1432265f27260102601ac2ccb39ef32a954e28ce83a16",
+          "source_capture_sha256": "c087a35f1c53e84b26537be2bdbd07e394c6f979e5f6e2ef1eba11dcf2a2993a",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S139",
+          "crop_sha256": "edfc1eab04edb94a9657a729c1e026ebf5d3ad610884e57135e596f861926b15",
+          "source_capture_sha256": "c9b94817ecf475f11265857a456283ec1c19d61553e9f7464f0970c12460b66b",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S140",
+          "crop_sha256": "d1c3b258c638b3af65a446a1ef470f5a814f130c6581226a8b6924846013a3f8",
+          "source_capture_sha256": "872573df920bcc14952f6d85d94495e5e24119afe65233d1eff343f2ca05b938",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S141",
+          "crop_sha256": "066718fb758ea8e8087d0f5747e8ef36285b497eed817e913e4f71b578def96a",
+          "source_capture_sha256": "25c7a64050d810fd1403333263dae7fa9bc82447de70bb85084ae424ea9ac370",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S142",
+          "crop_sha256": "a91db39490c01b38293a99889e5ec53b22d0221d036e9aa5d846bce97f39261d",
+          "source_capture_sha256": "2b7a793bde3b26dc328a39244a68cffeb8bfbd379377f92bcfa480f64b129b31",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S143",
+          "crop_sha256": "4e9141c2336f5a17e0b5c960b06ef37f76f5688f8aab45c6ee87869dece5b489",
+          "source_capture_sha256": "ffc24e7d1867cf05069893f61e8cfa4c2deb33650d91f798a6bc7dd1e9281890",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S144",
+          "crop_sha256": "a8c1552724cb13a7958e52f839eac8a98e0a86ef6ce8d8be6aea9a39c1ea9640",
+          "source_capture_sha256": "7610bd3ff11f89a4ee86b894e41dd588d76fde175f7cf8671f1c0f9348f79553",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_009.png",
+      "sha256": "d78977979fee2d7bbdbe4887cc3077e22236c60e927fe315a1f6e0f4abb8a620",
+      "captures": [
+        {
+          "id": "B019-S145",
+          "crop_sha256": "8afe87750efe441c1f47220d4acef5d04ceb823b80f11cf8698ad9f81326d3c4",
+          "source_capture_sha256": "78b057e3780c0aef0cb498f33cca5f99b87344f1eab025cc46107dc0fb0619bb",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S146",
+          "crop_sha256": "997bceedf865faba7a4505cd807d5f4141979343e5aae84926fe62144d9c5865",
+          "source_capture_sha256": "2d5dcb4f73125bdc5b6ca29c3a25050628f33c857f6ac4fb8b4ac2fbed31db2d",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S147",
+          "crop_sha256": "023f1d7522657db7278ee7a614b9ed17771ecee3fbcd3049e1eb9284cdb31451",
+          "source_capture_sha256": "b49e583b7ace36126e0aa6733d40406fa6c28b132ea8a5814cacaba5308e92e4",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S148",
+          "crop_sha256": "d610125cb0aecfe8973e0d5c00fca39d319e406f65e2500fb60538acee99f9e7",
+          "source_capture_sha256": "a770ab20b0e258c73b8f1d18f304c2a701a4038837020ff0b6b64fdd5200f78c",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S149",
+          "crop_sha256": "da17e26fc107c05bda6b63bdc60817881024aaefe8eb749b2db588c9710b47f0",
+          "source_capture_sha256": "213164b49075f35087c651ed4bd56b50b62750348a9ba043288ee4fdda4013e0",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S150",
+          "crop_sha256": "81fbbce737cfbe3f0f5e45004e31309745241b95da9824066e16be5146b50e34",
+          "source_capture_sha256": "940988d85409d5e4e78a5d9defbddfb39b24d1419451433ad84fa9fe84d7fd52",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S151",
+          "crop_sha256": "fa23887862fb2ab31cc926f8bc3ac31d72c9bddfc4fe2cf4763bc777001cd811",
+          "source_capture_sha256": "04a92503a87ffc93d777726b81684184c26102c18e1bdb8d4b45630fc6d6cf38",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S152",
+          "crop_sha256": "d0c175988630a15e365516b3f9d044f6f41f63ab4ea84fdc529b5ffd04f78d63",
+          "source_capture_sha256": "8db3fbd99dfbdf570dd3a90946c180197ea24cf0f081d72c0904bdb3ad003de5",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S153",
+          "crop_sha256": "1996909f54fd821e40d36629a36d66a2c38d567f1107c9910e998e80e678677f",
+          "source_capture_sha256": "5a23669144b7da257608b9419bc9500b91fb4fcd32dd71ebefab614cd0dd7e25",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S154",
+          "crop_sha256": "1d055d2a2ea2ef2686f3fc7c365144fbd0ea6281de963808eeefd83ebcff4807",
+          "source_capture_sha256": "ec91fc8a92f6be4058af4130d98f2247a8272e2101c2f9458811b6eb09d8c6f9",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S155",
+          "crop_sha256": "2c23dbf3da7fd288403d3dfbef1265e058f1c16db5f39331c650052d92af3dbe",
+          "source_capture_sha256": "eae799aa2ab0cd29a5dbba8c9a6584c697475de7b926003d5a0baaf57df1eba2",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S156",
+          "crop_sha256": "d327da66ff7456c13563feef0100ed875bea5cb5fb5d812e1120eb6468ad7661",
+          "source_capture_sha256": "99ebb3648cde6ce13a297a72cb8e0911b563d82c891898890d71a4ffb269bdf7",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S157",
+          "crop_sha256": "eebf0d20de277f35acf22ddbffaab27cb0c69a163d0b100235ee47fb770d3eea",
+          "source_capture_sha256": "9986dd413792a63233aa54e62be0c16e762ebbe31a1fef96a0be255334b3bfa2",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S158",
+          "crop_sha256": "8c39d4f65e18574d0f9710b3ee94ca4d448e1de5e4ab3a79e1c77ba8839bb187",
+          "source_capture_sha256": "0074e9556c6c35abcc667bce24dc65165c8e483739a99ff1aeb4b68ecab165cd",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S159",
+          "crop_sha256": "fffa107bf80895bfe771001d72f610951d85fadcfa1735bccd2cc6c6a1e95de0",
+          "source_capture_sha256": "351558ff3e091fe93ba1e51f85a0d7ca82c5ee4a0fd1b33c65e1c93c1661c622",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S160",
+          "crop_sha256": "c2ad711fc6cadae3c14652bec7483a77bb508d7b3a892cc6ca38d4414f5ab6fa",
+          "source_capture_sha256": "cb468f05381c10636b3d5ab70958df2dc01f9490562e445c8edbd881dc280f0b",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_010.png",
+      "sha256": "49a6573e98f30bd6819e03fc7345ef60d8b85b9c1f20fc916d6019b287d4d7f0",
+      "captures": [
+        {
+          "id": "B019-S161",
+          "crop_sha256": "33ecaefffe03c18a1a4f339aea1a0fd29d535f4274b43fe772dce3ab34e14ae2",
+          "source_capture_sha256": "d556866129318c3123db9e5e5ee0fa7cf5f594aaed011cfd491dd1b2c5b998aa",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S162",
+          "crop_sha256": "f8068ee2c3badbb62794465e492b2d712fb82ab1c7f6db90e32b04ca1af26414",
+          "source_capture_sha256": "6c93e5011b0c96496271e9c3b4b4b579008be71664e16c1d5912892a594eda02",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S163",
+          "crop_sha256": "96c40ab701eedacc0fb19455f2784ecd075b389197ee51dbcb1c05e4ac99166b",
+          "source_capture_sha256": "104f47d5a6eff0d31c53b13f1aa04c04be9877866887f5e614ead8fa2e48a666",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S164",
+          "crop_sha256": "6814176443b1846690216be4651b27c45b0b59218584ec0ad8e19babcc7cfa75",
+          "source_capture_sha256": "faeda89fb47ee6c0154e0827b3378dce895dd2774df2c807aefc487749c13e87",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S165",
+          "crop_sha256": "b645d0c44368441a7ad4fb3f851f4707fa811a520a2f550d72d63ed91ef48883",
+          "source_capture_sha256": "aa7cd91aa977b82717e56c7794c31e9310060e38aa32f43126d1f89960445831",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S166",
+          "crop_sha256": "febfc6125085601db9a699dff07f131ca9066b68c59fef3f76dbc81f330a64f6",
+          "source_capture_sha256": "a937015e2a310a86c8303606093aee5c87c521536dd48cb12858696ac327162c",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S167",
+          "crop_sha256": "fb0a349b338a26291508adbe614f145fec604fdae84eadedf7fc6c23d70534c8",
+          "source_capture_sha256": "e905085b8672901ff186edf2f5d1dd5603aa5e035f28cb1150e4c1f13ee8e1e0",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S168",
+          "crop_sha256": "6e6c87e427f9b173ae101042187769f0ce1f62ee994ab9faa05fc01677a77529",
+          "source_capture_sha256": "1ecc8d4530d285ba7c0df7a502cc531e1e5426b5ee5db030d297f952266a2824",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        },
+        {
+          "id": "B019-S169",
+          "crop_sha256": "7c7d7bea1f78530800f24d8f6f925950415713ce78341dc33d13e31739095113",
+          "source_capture_sha256": "6871a514a71b7e8d2d4dd35b10a684edb4123abb40a3dfd2d55153cc62b8af07",
+          "bbox": [
+            0,
+            456,
+            512,
+            536
+          ]
+        },
+        {
+          "id": "B019-S170",
+          "crop_sha256": "f943e0584776b9d09699005e7c4a313046d8273d4f0dddc138eb70b2a1218b8b",
+          "source_capture_sha256": "33a9d144b1c9c86fef7504184fe53034a2ad616e471cfb6c0d52c2cd248b072c",
+          "bbox": [
+            512,
+            456,
+            1024,
+            536
+          ]
+        },
+        {
+          "id": "B019-S171",
+          "crop_sha256": "aafe12a533ce77029bb1ed3c36dd6af0025cf2c28e478b9c6f27ef55f5c81b59",
+          "source_capture_sha256": "e6681d7994e00d4f0244f76052dc606b56af8b7a610556991f8e3a54690b72b2",
+          "bbox": [
+            0,
+            564,
+            512,
+            644
+          ]
+        },
+        {
+          "id": "B019-S172",
+          "crop_sha256": "9845b1f42c2e0386bb83c114a38e750c3c15b5e6a333427ce11bb0054050e6cd",
+          "source_capture_sha256": "e2f4d4c21bd6621b9c2eb50940cc8de6172d5d43eb2f51df290a7657497c5c15",
+          "bbox": [
+            512,
+            564,
+            1024,
+            644
+          ]
+        },
+        {
+          "id": "B019-S173",
+          "crop_sha256": "3f000b5350f3a5b4dc2b2d40d2eff8ac812aa4facdba2b15b1c8e459e8627168",
+          "source_capture_sha256": "2f1b71037f56ad3edce4f58ceed842bb45b5e669affc283b38bd461ac3c7017d",
+          "bbox": [
+            0,
+            672,
+            512,
+            752
+          ]
+        },
+        {
+          "id": "B019-S174",
+          "crop_sha256": "a21fcfb0c9c7f3d33ee0588c6b00dd4ec1fb1560f11b4a83bd839ad0170ac317",
+          "source_capture_sha256": "eb9dedbb61dba27eba7b27f204cd665c9765e83a4d18d584963ce0890f93470f",
+          "bbox": [
+            512,
+            672,
+            1024,
+            752
+          ]
+        },
+        {
+          "id": "B019-S175",
+          "crop_sha256": "af77c55ab8215e3b779b089d5029f4fc243aac8bb77af40ffd7e7c4179f3823b",
+          "source_capture_sha256": "813a8cf207bbcb40d683af6756adc9cc493ef8f236fa0be509fd7c92fbe004bd",
+          "bbox": [
+            0,
+            780,
+            512,
+            860
+          ]
+        },
+        {
+          "id": "B019-S176",
+          "crop_sha256": "cb5cb32452683b0a649769d54c16b203755673a2edc36accd8e8c246cb080ae9",
+          "source_capture_sha256": "7369915537478af08d55b6b680b8fa88d5b2d3e3312ac7d6e0791a009f379430",
+          "bbox": [
+            512,
+            780,
+            1024,
+            860
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "banner_011.png",
+      "sha256": "77a736f3894ae3be33b2f8e32601a367cc3dc8a8f227de215632fc1ad93cf328",
+      "captures": [
+        {
+          "id": "B019-S177",
+          "crop_sha256": "19fef3c4f9d50ee2b265f33347213469ca2a7aa44a22d56219ba9b3f7beea5ce",
+          "source_capture_sha256": "b8a02ce7a8545b6e2838dfb64971b0888382189820848cfb4cd07910a8a8b3e0",
+          "bbox": [
+            0,
+            24,
+            512,
+            104
+          ]
+        },
+        {
+          "id": "B019-S178",
+          "crop_sha256": "95df3d9ee7166dceb5a325c4bf16d84a43778f1c018343fe83005a62fe59801b",
+          "source_capture_sha256": "bc6e5ea1e8931fc5eeea1792a181f2e474f01eb92d7baab89a334b18534ac2bb",
+          "bbox": [
+            512,
+            24,
+            1024,
+            104
+          ]
+        },
+        {
+          "id": "B019-S179",
+          "crop_sha256": "6f0d4b30d4fcc0bf4cbbab1f57a5095162ae33492c69ef77a59dcf0a731e1c06",
+          "source_capture_sha256": "5ba51abaafdaa50a5d30db987cf8dd1ccdb8e7dc0fa5b7a427d675ed99a31b01",
+          "bbox": [
+            0,
+            132,
+            512,
+            212
+          ]
+        },
+        {
+          "id": "B019-S180",
+          "crop_sha256": "176e5982b420408f9e37c8f8b60c9a1632eda4063d5110e7bb3a667db1f6a7d8",
+          "source_capture_sha256": "7084f226f48d2d8bbc40e204f09b7017e7f2b88b1b0121c3e973d7f7cd45e52c",
+          "bbox": [
+            512,
+            132,
+            1024,
+            212
+          ]
+        },
+        {
+          "id": "B019-S181",
+          "crop_sha256": "c2db931d78e021799d3dc94d435d3daaa90dd629bcc7567937da438777e4ce6e",
+          "source_capture_sha256": "fd44ec37c82aed916168be4a2c83b71d73e837b7d45348b4dec1a41f27fb9ec8",
+          "bbox": [
+            0,
+            240,
+            512,
+            320
+          ]
+        },
+        {
+          "id": "B019-S182",
+          "crop_sha256": "16fe6a7dcb51d97a30e72f4c451c6a178ee7d35f7f69faafb5d4238c01a254d7",
+          "source_capture_sha256": "b710935a2294446ff435950c7c8634124b15f21de815892cfd6a2b59ad8b6e21",
+          "bbox": [
+            512,
+            240,
+            1024,
+            320
+          ]
+        },
+        {
+          "id": "B019-S183",
+          "crop_sha256": "c487db1ab61fe79b65b56711ecd9bc054ffbd3de189f185a2fdb0a1834ad9f19",
+          "source_capture_sha256": "3f8f2be83a5cd3c3e87b9d90567521a90ee52a2b1888ae57abb93eafb31a0958",
+          "bbox": [
+            0,
+            348,
+            512,
+            428
+          ]
+        },
+        {
+          "id": "B019-S187",
+          "crop_sha256": "74356aa453343d9f2dfaf8008412c2be77c8b221af7f1436827a88970a53c089",
+          "source_capture_sha256": "bc0e585025f47c24e081800afe05879d30f449d875d6e6ef965b6b770967569d",
+          "bbox": [
+            512,
+            348,
+            1024,
+            428
+          ]
+        }
+      ],
+      "reviewed": true
+    }
+  ],
+  "packing": {
+    "crop": [
+      0,
+      0,
+      256,
+      40
+    ],
+    "scale": 2,
+    "interpolation": "nearest",
+    "all_crop_pixels_verified": true
+  }
+}

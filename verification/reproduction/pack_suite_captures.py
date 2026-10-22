@@ -13,7 +13,7 @@ for sheet in manifest['sheets']:
   source=a.images/bysha[item['sha256']];assert sha(source)==item['sha256'];crop=Image.open(source).convert('RGB').crop((0,144,256,224)).resize((512,160),Image.Resampling.NEAREST);x=j%2*512;y=j//2*186;draw.text((x+6,y+3),item['group']+' '+item['case'],fill='black');canvas.paste(crop,(x,y+22));tiles[bysha[item['sha256']]]={'sheet':sheet['file'],'tile':j,'bbox':[x,y+22,x+512,y+182],'sha256':item['sha256']}
   assert ImageChops.difference(canvas.crop((x,y+22,x+512,y+182)),crop).getbbox() is None
  target=a.images/sheet['file'];canvas.save(target);assert sha(target)==sheet['sha256'],'Reviewed sheet pixels/labels differ';sheets[sheet['file']]={'sha256':sha(target),'native_text_crops':len(sheet['captures'])}
-assert len(tiles)==report['unique_text_captures']==619
+assert len(tiles)==report['unique_text_captures']==sum(len(s['captures']) for s in manifest['sheets']);assert len(tiles)>0
 system={k:v for k,v in report['images'].items() if k not in tiles};assert set(system)=={'check_a.png','check_b.png','main_menu.png','settings.png','region_map.png'}
 for group in report['groups'].values():
  for case in group['cases']:

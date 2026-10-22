@@ -1,0 +1,32 @@
+{
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "candidate_sha256": "5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7",
+  "native_executions": 3,
+  "consumer": "C0993D catalog16 with save location7E2505 (or corrupt entry1),X27; C07880/C078A1 then4D3900",
+  "width_pixels": 216,
+  "maximum_bytes": 45,
+  "cases": [
+    {
+      "id": "B016-S001",
+      "bytes": 25,
+      "pixels": 114,
+      "padded_bytes": 37,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B016-S014",
+      "bytes": 23,
+      "pixels": 108,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    },
+    {
+      "id": "B016-S015",
+      "bytes": 23,
+      "pixels": 109,
+      "padded_bytes": 36,
+      "native_reader_passed": true
+    }
+  ],
+  "scope": "Exact fixed-line help copy and padding leaf; no natural save error, final location or load-slot UI traversal claim."
+}
