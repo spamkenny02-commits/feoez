@@ -860,3 +860,19 @@ points de technique. Les cris/variantes sans nouvelle traduction ne sont pas
 recomptés. Les marqueurs11 de citation restent dans les intitulés concernés.
 Aides, libellés de sauvegarde et bandeaux de combat ont trois contrats natifs
 différents ; les menus en petite police et graphismes anglais restent distincts.
+
+
+## V55 — lot49
+
+Woody#1/#2 → Boisé#1/#2 ;B020-S024 est une variante non recomptée.
+Noms ennemis :Djinn, Ermite du Charbon, Ermite du Tonnerre, Ermite Tonitruant,
+Ermite Basara, Sabreur des Ténèbres. Garder les noms propres inchangés
+Atramentous/Alabaster ;le générique source écrit Atrementous Alabaster,
+conservé, seul «Black White» devient «Noir Blanc».
+Menus :Parch., Équip., Horl., Tps jeu, Attaq., Chan., Manuel, Garder,
+Arts secrets, Signet. Les36 formes courtes de parchemins sont propres au
+cache24px ;ne pas raccourcir leurs noms complets dans les autres contextes.
+Les graphismes armes/arme, fragments de vertu et variantes ne sont pas
+plusieurs nouvelles traductions. Le sens contextuel de «Taking Hermit»
+reste à réexaminer pendant la relecture globale ;le choix «Ermite de la
+Victoire» est provisoire, aucune certitude sur le jeu de mots n’est revendiquée.

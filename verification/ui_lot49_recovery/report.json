@@ -1,0 +1,113 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "state_sha256": "eb3ea0a31bfb2aef3ccbb07c5dc2efa73b73fdbf047f9ab56bc96ef6034c4873",
+  "cases": [
+    {
+      "name": "main",
+      "image": "main.png",
+      "capture_sha256": "e8198bc05e6cc6358fecec7c30399de16d6d87ab5cee638d2a28dbd2711568c3",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "scrolls",
+      "image": "scrolls.png",
+      "capture_sha256": "25b220ec29a005e50371fa55912d8d40f2023e6b66d61889d7a61892965063de",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "settings",
+      "image": "settings.png",
+      "capture_sha256": "8c53e32a1dd25ebfc0346454d5a95f8c59d88b196e344651cb07a6c1c9cd15a1",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "inventory",
+      "image": "inventory.png",
+      "capture_sha256": "c3b0b8d35c66dad89a1bb352c2858064294ed00f1628af4a218c41660ac51dc8",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "inventory_actions",
+      "image": "inventory_actions.png",
+      "capture_sha256": "c3b0b8d35c66dad89a1bb352c2858064294ed00f1628af4a218c41660ac51dc8",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "status",
+      "image": "status.png",
+      "capture_sha256": "c49ebec6aa21ae0dcac7e974d0a062014e50312e570c0228b33e353430be9ffe",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "equip",
+      "image": "equip.png",
+      "capture_sha256": "d63558be9efe2142abbd146db8f2c7fc605e86be9dff75b86a516f698feabe67",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "clock",
+      "image": "clock.png",
+      "capture_sha256": "ac32cd724d6a6625446fa691ea3fe4020caa05b69a84d7ccd48617dc95563b4d",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "strategy",
+      "image": "strategy.png",
+      "capture_sha256": "5b6802ab51e53ed9c4c5b8c087cff22605e156dce7b0232ef152e815c4d7019d",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "actor",
+      "image": "actor.png",
+      "capture_sha256": "1b58c4c6911824b4250d0f926f5693f5a7939c455bd48b09a4531e7fcefa868c",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "guard_tactic",
+      "image": "guard_tactic.png",
+      "capture_sha256": "e1360eedc2803177a08a25965de674f3c802835f66524f85f8bd341c01deb463",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "attack_tactic",
+      "image": "attack_tactic.png",
+      "capture_sha256": "d83e19e8bbe612b750f9a5fe30a5045b7051caf1eb8bd1d8ba77cb2075667d03",
+      "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+      "fixture": false
+    },
+    {
+      "name": "grid_0",
+      "image": "grid_0.png",
+      "capture_sha256": "2acd80a49fc65da89a7d6174dcafef7fa0722da37bcd0bb83c1e473f2aedf364",
+      "core_sha256": "c2883ce68c69c6c93fe02c77930e70111155443806b85f1f2b88c1e018dccc70",
+      "fixture": true
+    },
+    {
+      "name": "grid_3",
+      "image": "grid_3.png",
+      "capture_sha256": "13868b05b45f254b4f1a302021716630f32dd5c960e5502e2718fca907377446",
+      "core_sha256": "c2883ce68c69c6c93fe02c77930e70111155443806b85f1f2b88c1e018dccc70",
+      "fixture": true
+    },
+    {
+      "name": "grid_6",
+      "image": "grid_6.png",
+      "capture_sha256": "13868b05b45f254b4f1a302021716630f32dd5c960e5502e2718fca907377446",
+      "core_sha256": "c2883ce68c69c6c93fe02c77930e70111155443806b85f1f2b88c1e018dccc70",
+      "fixture": true
+    }
+  ],
+  "visual_review": "reviewed actual listed captures on this exact ROM; scope limitations retained",
+  "scope": "12 controller menu paths;3 learned-scroll synthetic fixtures. No all-branch proof."
+}

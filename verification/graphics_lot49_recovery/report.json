@@ -1,0 +1,470 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "native_2bpp_strips": 64,
+  "sheets": [
+    {
+      "file": "graphics_000.png",
+      "sha256": "a3a294609958bec21296a9425f439eaa8b610fe42672d219282b69c500567bf8",
+      "strips": [
+        {
+          "id": "UI-6F0E00",
+          "offset": "0x6f0e00",
+          "tiles": 4,
+          "french": "Parch.",
+          "span_sha256": "b9a2881623c64e94dda0edeb55d3f9ad156eb3044d4b1e6c6ae8ac49aa4e17f3"
+        },
+        {
+          "id": "UI-6F0E40",
+          "offset": "0x6f0e40",
+          "tiles": 5,
+          "french": "Stratégie",
+          "span_sha256": "163d3f3250f60081fa6d8d58dd5ece58d78b55c1ccbb0fc7dcdf0340f769dca8"
+        },
+        {
+          "id": "UI-6F0E90",
+          "offset": "0x6f0e90",
+          "tiles": 6,
+          "french": "Inventaire",
+          "span_sha256": "9b05eb52a226d9e9341c52476012eeac4631c7ad512d35222c42f6f66f5bcf81"
+        },
+        {
+          "id": "UI-6F0EF0",
+          "offset": "0x6f0ef0",
+          "tiles": 5,
+          "french": "Réglages",
+          "span_sha256": "b02446844ca200025ba273bbdc8f7bb7e5a300441c587286a1fac4993e3c992a"
+        },
+        {
+          "id": "UI-6F0F40",
+          "offset": "0x6f0f40",
+          "tiles": 5,
+          "french": "Équip.",
+          "span_sha256": "982d63cc82757addefbffc82e084ebeb298f69d1bb12445f78fbdcc05dacf11d"
+        },
+        {
+          "id": "UI-6F0F90",
+          "offset": "0x6f0f90",
+          "tiles": 6,
+          "french": "Almanach",
+          "span_sha256": "2bc020895024f53ec4cd6c1301dfce3cc672062adf79030e6dc8e90bb09fa2f7"
+        },
+        {
+          "id": "UI-6F0FF0",
+          "offset": "0x6f0ff0",
+          "tiles": 5,
+          "french": "État",
+          "span_sha256": "10e7641dc9351be23016b2855163d855104a20f317bba7e05f365ece3af347a5"
+        },
+        {
+          "id": "UI-6F1040",
+          "offset": "0x6f1040",
+          "tiles": 3,
+          "french": "Horl.",
+          "span_sha256": "8a951662eb5eee08af36ab8d0ad128bb83c41f1db9623fde39a8b24e1cf25847"
+        },
+        {
+          "id": "UI-6F1070",
+          "offset": "0x6f1070",
+          "tiles": 7,
+          "french": "Date/heure",
+          "span_sha256": "ac4d9721d1eec8de8c0a958ec5eb513492d37ae8fe0f3f4b142e4445403f87bc"
+        },
+        {
+          "id": "UI-6F10E0",
+          "offset": "0x6f10e0",
+          "tiles": 5,
+          "french": "Tps jeu",
+          "span_sha256": "54a5d9252767d47b23b802be6bbe7c70c9f5acc4f4e4405279b977e1dc98e76d"
+        },
+        {
+          "id": "UI-6F1130",
+          "offset": "0x6f1130",
+          "tiles": 7,
+          "french": "Argent",
+          "span_sha256": "a1aa46996548a64057a9c711763ce02c028ca7e394b205515c970f46cf9ddad8"
+        },
+        {
+          "id": "UI-6F11A0",
+          "offset": "0x6f11a0",
+          "tiles": 3,
+          "french": "Rang",
+          "span_sha256": "5fdc0a6958ea4c2dd4c722b3a89e89f4203e9e6a772a4ef722c4f352dbdc25f1"
+        },
+        {
+          "id": "UI-6F11D0",
+          "offset": "0x6f11d0",
+          "tiles": 4,
+          "french": "Vie",
+          "span_sha256": "3cef358e90b4c133daaff851dd656f5c4eae2124f87d9ac9bb0f34dd0d947fa5"
+        },
+        {
+          "id": "UI-6F2200",
+          "offset": "0x6f2200",
+          "tiles": 2,
+          "french": "Util.",
+          "span_sha256": "9220dbc6b9c452b439aec8c301aa4ce83dace383b2cfc7f6de06a85d7d789c1c"
+        },
+        {
+          "id": "UI-6F2220",
+          "offset": "0x6f2220",
+          "tiles": 4,
+          "french": "Modif.",
+          "span_sha256": "33db047e2b135442211da51efcde7b39a6a9c2bde1a58e22716719574b2cfdac"
+        },
+        {
+          "id": "UI-6F2260",
+          "offset": "0x6f2260",
+          "tiles": 6,
+          "french": "Coût tech.",
+          "span_sha256": "d4daa3e426acdfed170337f05da7dc67a341e1a9c6dd3cdaaf7fc2548f48b053"
+        },
+        {
+          "id": "UI-6F1800",
+          "offset": "0x6f1800",
+          "tiles": 3,
+          "french": "Vite",
+          "span_sha256": "9b1fcf326667bc4fa65049b0dc507b24fece11d22ea85b5fd1d1677e168997b2"
+        },
+        {
+          "id": "UI-6F1830",
+          "offset": "0x6f1830",
+          "tiles": 3,
+          "french": "Lent",
+          "span_sha256": "a95e6f0396898f752edde5f45967b9683d28a2aea2a85abeb6521409d2f7f38a"
+        },
+        {
+          "id": "UI-6F1860",
+          "offset": "0x6f1860",
+          "tiles": 8,
+          "french": "Vitesse texte",
+          "span_sha256": "1f36d9ba281ee35a55680a6772e853e89f1d114bbf6a1ce2f8699db8f6d9151f"
+        },
+        {
+          "id": "UI-6F18E0",
+          "offset": "0x6f18e0",
+          "tiles": 11,
+          "french": "Texte de combat",
+          "span_sha256": "9fcf0df6fbf19267d297567e0091f48db730b0e69f87f0c731d1b4378cf64fa9"
+        },
+        {
+          "id": "UI-6F1990",
+          "offset": "0x6f1990",
+          "tiles": 8,
+          "french": "Vitesse pas",
+          "span_sha256": "250ec6c9e5560567c4fe17e8e4f04132b84501957eb6853f062027347642f465"
+        },
+        {
+          "id": "UI-6F1A50",
+          "offset": "0x6f1a50",
+          "tiles": 3,
+          "french": "Mus.",
+          "span_sha256": "80b29a931957db8b5ac0cd6efc9012a2ddf007a85aef912df0956468ad3e4579"
+        },
+        {
+          "id": "UI-6F1A80",
+          "offset": "0x6f1a80",
+          "tiles": 4,
+          "french": "Stéréo",
+          "span_sha256": "756e2def069bcf89b57c5102fade88aba5ab4fa581ab75d6be0eac3213bba52e"
+        },
+        {
+          "id": "UI-6F1AF0",
+          "offset": "0x6f1af0",
+          "tiles": 8,
+          "french": "Curseur mém.",
+          "span_sha256": "1b7c1a2915d0e1f77457f3468ae410af31f3f215bf5e2780c0bb2d07f6eeef0d"
+        },
+        {
+          "id": "UI-6F1B70",
+          "offset": "0x6f1b70",
+          "tiles": 2,
+          "french": "Oui",
+          "span_sha256": "e7ef28d6c00c88b749e86435ab9a9922964d6022f5d5a6aa7c8a542118abe81b"
+        },
+        {
+          "id": "UI-6F1B90",
+          "offset": "0x6f1b90",
+          "tiles": 2,
+          "french": "Non",
+          "span_sha256": "db0367a52702012438f48514c47fa2b9b56e4a5b28fc05ffe280f3c406757c34"
+        },
+        {
+          "id": "UI-6F1BB0",
+          "offset": "0x6f1bb0",
+          "tiles": 5,
+          "french": "Fond",
+          "span_sha256": "5c30560f602a4bcf857a2773d77fd17149934ceb05c29061e91c581ce549a1fb"
+        },
+        {
+          "id": "UI-6F1C00",
+          "offset": "0x6f1c00",
+          "tiles": 7,
+          "french": "Forme cadre",
+          "span_sha256": "efb1317d5fe7c791a539d2c74b2a735f98b8a720d5891e6c4d58861933faaec3"
+        },
+        {
+          "id": "UI-6F1C70",
+          "offset": "0x6f1c70",
+          "tiles": 7,
+          "french": "Coul. cadre",
+          "span_sha256": "57a25e578cc68775534ea5d5d919966e057755e589c96c9bfc785980f61d7732"
+        },
+        {
+          "id": "UI-6F3240",
+          "offset": "0x6f3240",
+          "tiles": 2,
+          "french": "Util.",
+          "span_sha256": "9220dbc6b9c452b439aec8c301aa4ce83dace383b2cfc7f6de06a85d7d789c1c"
+        },
+        {
+          "id": "UI-6F3260",
+          "offset": "0x6f3260",
+          "tiles": 3,
+          "french": "Trier",
+          "span_sha256": "7448069b65de8153cc18934ff8f8f77a58666e20da8e11d66a12097dec61a9b3"
+        },
+        {
+          "id": "UI-6F3290",
+          "offset": "0x6f3290",
+          "tiles": 4,
+          "french": "Rempl.",
+          "span_sha256": "9a3fe738b0026d1ef8a762acfff0417c026d5d6971fd953e2bef0709e5a135de"
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "graphics_001.png",
+      "sha256": "a6a182bf7b03ffe67b8a34e02924e7bac1c224ccc33e9c90f3870e961bcc0638",
+      "strips": [
+        {
+          "id": "UI-6F32D0",
+          "offset": "0x6f32d0",
+          "tiles": 4,
+          "french": "Jeter",
+          "span_sha256": "c40154746ce5c06ba6983359dc70c59f724e76007d82ba4290cdab3c8f2f5274"
+        },
+        {
+          "id": "UI-6F31B0",
+          "offset": "0x6f31b0",
+          "tiles": 5,
+          "french": "Signet",
+          "span_sha256": "be2d58921c03ae063e840c5371934f2453aa6d0450a53babc2e1959d9f6e9192"
+        },
+        {
+          "id": "UI-6F33E0",
+          "offset": "0x6f33e0",
+          "tiles": 5,
+          "french": "Armes",
+          "span_sha256": "181a8ef7a3a9365059232e736747b9ef3e43884cbc5bf917386e78a884bf41bb"
+        },
+        {
+          "id": "UI-6F36D0",
+          "offset": "0x6f36d0",
+          "tiles": 3,
+          "french": "Rang",
+          "span_sha256": "5fdc0a6958ea4c2dd4c722b3a89e89f4203e9e6a772a4ef722c4f352dbdc25f1"
+        },
+        {
+          "id": "UI-6F3700",
+          "offset": "0x6f3700",
+          "tiles": 4,
+          "french": "Attaq.",
+          "span_sha256": "270536a30b2ca9909b46ddf0b5db4bced0602ae3f9d5fa8dc5555d06298fa017"
+        },
+        {
+          "id": "UI-6F3740",
+          "offset": "0x6f3740",
+          "tiles": 5,
+          "french": "Défense",
+          "span_sha256": "ddcfc2fe3216d1936cd208a81b39e91c31c183bd8b832c36995acf60e80d1b64"
+        },
+        {
+          "id": "UI-6F3790",
+          "offset": "0x6f3790",
+          "tiles": 4,
+          "french": "Vitesse",
+          "span_sha256": "2224e827127ece12e0702852448e38047c31ce3087918e55af6640e2f6db4e52"
+        },
+        {
+          "id": "UI-6F37D0",
+          "offset": "0x6f37d0",
+          "tiles": 3,
+          "french": "Chan.",
+          "span_sha256": "187fcbfafaaa79995909fdd86cfd7b0f1fa6e4c418dab1906f868066aba916ec"
+        },
+        {
+          "id": "UI-6F3800",
+          "offset": "0x6f3800",
+          "tiles": 3,
+          "french": "Vertu",
+          "span_sha256": "d62d4006618b890054d01c1c03f471c36f9124a324a64a3afd5bf2f184977381"
+        },
+        {
+          "id": "UI-6F3980",
+          "offset": "0x6f3980",
+          "tiles": 7,
+          "french": "Assez cool.",
+          "span_sha256": "ffac45e71f7f5b678b8932824163af985871d3ba802bf4d7f2087d3dced77802"
+        },
+        {
+          "id": "UI-6F4300",
+          "offset": "0x6f4300",
+          "tiles": 6,
+          "french": "Équip.",
+          "span_sha256": "a602829d69a06a17e60bb27e34ab439eb8a075861e30b95695094e65a0889403"
+        },
+        {
+          "id": "UI-6F4360",
+          "offset": "0x6f4360",
+          "tiles": 6,
+          "french": "Équip. auto",
+          "span_sha256": "e8f4ecd09ca139f80b7958aaf77660cd154fe5519e0c5b8a93571bfb9d65fd32"
+        },
+        {
+          "id": "UI-6F43C0",
+          "offset": "0x6f43c0",
+          "tiles": 4,
+          "french": "Retirer",
+          "span_sha256": "144c04c78103d186cbad9553153f35446f6e937fa8b0ef67a295c08ec729abc8"
+        },
+        {
+          "id": "UI-6F4400",
+          "offset": "0x6f4400",
+          "tiles": 7,
+          "french": "Sans équip.",
+          "span_sha256": "c2b4e860a5b0205518491980c2f71ee8d6b32e3da1d202cd67377ed3f3fd0f22"
+        },
+        {
+          "id": "UI-6F4470",
+          "offset": "0x6f4470",
+          "tiles": 4,
+          "french": "Retour",
+          "span_sha256": "32c2df15aba1148ca698b19b174a2a2ccb64dd259e2f23037a7615d50defdc45"
+        },
+        {
+          "id": "UI-6F4200",
+          "offset": "0x6f4200",
+          "tiles": 4,
+          "french": "Attaq.",
+          "span_sha256": "270536a30b2ca9909b46ddf0b5db4bced0602ae3f9d5fa8dc5555d06298fa017"
+        },
+        {
+          "id": "UI-6F4240",
+          "offset": "0x6f4240",
+          "tiles": 5,
+          "french": "Défense",
+          "span_sha256": "ddcfc2fe3216d1936cd208a81b39e91c31c183bd8b832c36995acf60e80d1b64"
+        },
+        {
+          "id": "UI-6F4290",
+          "offset": "0x6f4290",
+          "tiles": 4,
+          "french": "Vitesse",
+          "span_sha256": "2224e827127ece12e0702852448e38047c31ce3087918e55af6640e2f6db4e52"
+        },
+        {
+          "id": "UI-6F42D0",
+          "offset": "0x6f42d0",
+          "tiles": 3,
+          "french": "Chan.",
+          "span_sha256": "187fcbfafaaa79995909fdd86cfd7b0f1fa6e4c418dab1906f868066aba916ec"
+        },
+        {
+          "id": "UI-6F44B0",
+          "offset": "0x6f44b0",
+          "tiles": 5,
+          "french": "Style",
+          "span_sha256": "d937af3ce9ae0342b0f0f0ca1cc6baa9a79324af41003244bdc361ce6bea4295"
+        },
+        {
+          "id": "UI-6F4500",
+          "offset": "0x6f4500",
+          "tiles": 4,
+          "french": "Arme",
+          "span_sha256": "a5c0ce3b8866583efa84089a75b1f1b0ac3e1c7700b2c62914a0b177b8d261ed"
+        },
+        {
+          "id": "UI-6F4540",
+          "offset": "0x6f4540",
+          "tiles": 4,
+          "french": "Armure",
+          "span_sha256": "8770945d21b1523e1858762e13f5691f0625f5717cd5f9fa355027f75e69d802"
+        },
+        {
+          "id": "UI-6F4580",
+          "offset": "0x6f4580",
+          "tiles": 6,
+          "french": "Accessoire",
+          "span_sha256": "b0af9e820168d109e3701ba6edac3b5e1c8880ea76abe799bc0583691c47532a"
+        },
+        {
+          "id": "UI-6F3840",
+          "offset": "0x6f3840",
+          "tiles": 5,
+          "french": " requise",
+          "span_sha256": "7387ccddccb19dff7354a14909fedfa1ef4cdf319b6904c17982d12fc865afcb"
+        },
+        {
+          "id": "UI-6F3890",
+          "offset": "0x6f3890",
+          "tiles": 6,
+          "french": "rang suiv.",
+          "span_sha256": "a98b7cb2f8dd5d9fd9cd79188b97cd2df5bc6872d446d524141b3b96704cd189"
+        },
+        {
+          "id": "UI-6F3900",
+          "offset": "0x6f3900",
+          "tiles": 8,
+          "french": "Style faible...",
+          "span_sha256": "e071033dcc2657ecb705db24f6d5c1feb7a929a16c7b9751afdb445a0e105541"
+        },
+        {
+          "id": "UI-6F39F0",
+          "offset": "0x6f39f0",
+          "tiles": 7,
+          "french": "Très cool !",
+          "span_sha256": "6b979d22498c8ba0c5099123506ac36e79c0fd619517df37637ccb5d89f4c20c"
+        },
+        {
+          "id": "UI-6F3A60",
+          "offset": "0x6f3a60",
+          "tiles": 7,
+          "french": "Super cool !",
+          "span_sha256": "d52d6a352b0cfb0f4fdc64a895d2891a500445338f83f55b000bc9a6117c082b"
+        },
+        {
+          "id": "UI-6F3AD0",
+          "offset": "0x6f3ad0",
+          "tiles": 12,
+          "french": "Au sommet du cool !",
+          "span_sha256": "8c39684d1bd6b879be6261ab67b33eb49511320189fceb1d6eb677d698bab740"
+        },
+        {
+          "id": "UI-6F3830",
+          "offset": "0x6f3830",
+          "tiles": 1,
+          "french": " ",
+          "span_sha256": "374708fff7719dd5979ec875d56cd2286f6d3cf7ec317a3b25632aab28ec37bb"
+        },
+        {
+          "id": "UI-6F33B0",
+          "offset": "0x6f33b0",
+          "tiles": 3,
+          "french": "Obj.",
+          "span_sha256": "700097ded0a21b5eb43f26a6fc58d38f684a086ce69e7c52535ac51333d4b04b"
+        },
+        {
+          "id": "UI-6F3340",
+          "offset": "0x6f3340",
+          "tiles": 7,
+          "french": "Combien ?",
+          "span_sha256": "0aac8423aef8a73e443bceb2bff6a28767e2f4a4ab5096a93acbcd6b82c42a30"
+        }
+      ],
+      "reviewed": true
+    }
+  ],
+  "scope": "Decoded native bitmap strips, not actual context/tilemap/availability proof. Live menu paths in UI report.",
+  "visual_review": "reviewed actual listed captures on this exact ROM; scope limitations retained"
+}

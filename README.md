@@ -1,58 +1,44 @@
-# Tengai Makyou Zero — Traduction française V54
+# Tengai Makyou Zero — Traduction française V55
 
-**Lot 48 complet : 400 nouveaux textes distincts, phase 1.**
-233 aides/libellés et 167 intitulés d’actions de combat, sur 573 occurrences.
-Les 5 961 entrées V53 sont préservées. Total : 6 534 occurrences bornées.
-Les variantes partagées, noms inchangés, vides et diagnostics ne sont pas
-recomptés. Six retouches du nouveau brouillon ne sont pas des ajouts.
+**Lot49 complet :400 nouveaux textes distincts, phase1.**
+231 sources bornées,114 du générique,51 graphiques et4 natives.
+Les6534 occurrences V54 sont préservées ;total6769 occurrences bornées.
+25 abréviations d’affichage corrigées, sans recompter les noms complets.
 
 ## Installation
 
-Appliquer **Tengai_Makyou_Zero_FR_V54.ips** directement à la ROM anglaise
-originale, sans cumuler les patches. Taille : 7 340 032 octets sans en-tête.
-SHA-256 source : `eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
-SHA-256 ROM V54 : `5b0a5430eab8b35ff8920952a8794a6e4828f0da8c5921d804aedf0f447c6ff7`.
-Le dépôt ne distribue ni ROM, ni noyau, ni état, ni dump mémoire.
+Appliquer **Tengai_Makyou_Zero_FR_V55.ips** directement à la ROM anglaise
+originale sans en-tête,7340032 octets, sans cumuler les patches.
+SHA256 source :`eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e`.
+SHA256 ROM V55 :`2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c`.
+Ni ROM, ni noyau, ni état, ni dump mémoire ne sont distribués.
 
-## Construction
+## Construction et essais
 
 ```bash
-python tools/build_v54.py /chemin/original.sfc --rom-out /chemin/emulator/fr_v54.sfc
-python tools/verify_storage.py /chemin/original.sfc --version V54 --built-rom /chemin/emulator/fr_v54.sfc --build-report verification/build_report.json
-python tools/audit_new_sources_lot48.py
+python tools/build_v55.py /chemin/original.sfc --rom-out /chemin/emulator/fr_v55.sfc
+python tools/verify_storage.py /chemin/original.sfc --version V55 --built-rom /chemin/emulator/fr_v55.sfc --build-report verification/build_report.json
+python tools/audit_new_sources_lot49.py
+python tools/audit_prior_sources_lot49.py
 ```
 
-Python 3 et Pillow. Le constructeur génère les bases précédentes si nécessaire,
-puis le JSON bilingue V54 et l’IPS autonome. Les commandes, pointeurs, alias,
-modifications initiales, marqueurs SPC7110 et données hors périmètre sont
-contrôlés. Aides, sauvegardes et bandeaux de combat ont des contrats natifs
-séparés ; aucune règle de dialogue n’est appliquée à tous ces formats.
+[Reproduction des essais](verification/reproduction/REPRODUIRE_V55.md).
+7602 lectures natives,235 copies/largeurs de bandeaux,629 copies du générique,
+24 cas du nettoyage de glyphes et36 paires de noms abrégés/complets.
+Démarrage A/reset/B et navigation ;235+235 rendus ciblés,466 captures relues
+sur30 planches. Générique complet en fixture :122 occurrences traduites
+comparées aux pixels natifs et relues sur8 planches. Menus réels, grilles
+synthétiques, premier combat naturel et Almanach22/12/1995 contrôlés.
 
-[Commandes de reproduction des essais](verification/reproduction/REPRODUIRE_V54.md).
+## Couverture et limites
 
-## Essais et limites
+**La traduction complète du jeu n’est pas achevée.** Phase1 reste ouverte ;
+recherche exhaustive des oublis et relecture globale restent à faire.
+Le compteur borné comprend menus, vides et debug ;il ne mesure pas le jeu.
+Des commandes de Stratégie et noms d’objets anglais restent visibles.
+Le bloc42 non borné, les autres graphismes, fins/branches/dates, sélecteurs et
+synchronisation des chansons restent à contrôler. Les fixtures n’établissent
+ni la fin naturelle ni tous les déclenchements de combat.
 
-7 363 lectures natives, 14 contrôles de stockage, encodage, allocation,
-checksum et aller-retour IPS. 573 copies et largeurs natives : 385 aides,
-3 libellés de sauvegarde et 185 bandeaux FD8B. 758 rendus ciblés au total,
-avec 694 captures distinctes réellement relues sur 44 planches compactes ;
-les pixels des fenêtres sont conservés exactement.
-
-Démarrage neuf, A/reset/B et navigation : 85 + 7 captures identiques à V53.
-Un parcours continu sur noyau standard, par la manette, atteint le mont Lointain,
-la jonction des amis, la mine, le premier combat et ses gains/butin. L’Almanach
-réel au 22/12/1995 et l’aide d’inventaire « Katana de bois » sont relus.
-
-Les rendus d’actions sont des fixtures dans le vrai bandeau de combat : ils
-ne prouvent pas le déclenchement naturel de chaque attaque. Les lieux de fin
-et erreurs réelles de sauvegarde, les autres dates et sélecteurs restent à
-parcourir. Menus fixes, graphismes anglais, noms d’ennemis, fins/générique,
-bloc 42 et relecture globale restent notamment à traiter. Phase 1 ouverte ;
-phases 2 et 3 à poursuivre.
-
-Voir [compte rendu](COMPTE_RENDU_V54.md),
-[preuves](verification/emulation_report_v54.json),
-[couverture](verification/coverage_v54.json) et
-[relecture](verification/relecture_v54.json).
-Le compteur borné inclut menus/debug et exclut notamment le bloc 42 non borné :
-il ne constitue pas un pourcentage de traduction du jeu.
+[Suivi](SUIVI_FEOE.md) · [Bilan V55](COMPTE_RENDU_V55.md) ·
+[Glossaire](glossaire_et_style.md) · [Couverture](verification/coverage_v55.json)

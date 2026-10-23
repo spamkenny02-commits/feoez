@@ -1,0 +1,54 @@
+{
+  "version": "V55",
+  "lot": 49,
+  "phase": 1,
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "ips_sha256": "fd364fe30fbad1433bef0c9c45beb5db07377bb64944efe3c5f9e8c1153e94e5",
+  "new_distinct_texts": 400,
+  "canonical_by_kind": {
+    "bounded": 231,
+    "credits": 114,
+    "graphics": 51,
+    "native_ui": 4
+  },
+  "new_bounded_occurrences": 235,
+  "bounded_occurrences_total": 6769,
+  "previous_v54_rows_preserved": 6534,
+  "credits_occurrences": 122,
+  "graphics_strips": 64,
+  "native_ui_groups": 7,
+  "display_corrections_not_new": 25,
+  "old_complete_french_text_corrections": 0,
+  "bounded_remaining": 2269,
+  "bounded_nonempty_remaining": 762,
+  "bounded_count_is_game_coverage": false,
+  "phases_complete": {
+    "1": false,
+    "2": false,
+    "3": false
+  },
+  "natural_coverage": [
+    "Fresh boot A/reset/B/navigation.",
+    "Real menu graphics, status/equipment, clock help, Manual/Defend/Attack assigned tactics.",
+    "Controller replay789 commands26953frames:Boisé#1 battle,6ryo,3vertu,kusa dango,field return.",
+    "Real Almanac22/12/1995 on exact V55."
+  ],
+  "staged_coverage": {
+    "field_cases": 235,
+    "field_unique_captures_reviewed": 233,
+    "battle_banner_cases": 235,
+    "battle_unique_crops_reviewed": 233,
+    "credits_records": 629,
+    "credits_translated_occurrences_native_pixels_reviewed": 122,
+    "scroll_grid_fixture_cases": 3,
+    "source_bitmap_strips_reviewed_separately": 64
+  },
+  "remaining": [
+    "Phase1 reste ouverte :formats/événements encore à parcourir, sélecteurs, autres dates et branches, synchronisation des chansons.",
+    "Stratégie :onglets/liste de commandes encore anglais, malgré les libellés de tactique Manuel/Garder/Attaq. français. Certains noms fixes d’objets et champs Rank/Health restent anglais.",
+    "Générique validé par flux séquentiel natif en contexte PPU diagnostique, pas par progression naturelle jusqu’à la fin.",
+    "Les235 bandeaux sont des fixtures FD8B, pas la preuve de chaque attaque/ennemi rencontré naturellement.",
+    "Bloc42 non borné, graphismes/accessions calculées hors inventaire et autres fins/épilogues restent à auditer.",
+    "Phase3 globale non achevée :zones/branches, harmonisation des ermites, sens contextuel de Taking Hermit et autres jeux de mots à réexaminer."
+  ]
+}

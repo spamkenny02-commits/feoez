@@ -1,0 +1,23 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "engine_checks": 7602,
+  "native_lookup_validation": "passed",
+  "input_files_sha256_at_execution": {
+    "traduction/lot49_fr.json": "a147cfa850b869b9dc2b9b5bef20985e36660ca51ff848953c3ab2c2f9fd1428",
+    "verification/aliases_lot49.json": "494e860abc4be4d498c8b1df2921a0a6f488e8d78b9a60fc292a76d3511b4326",
+    "verification/layout_contracts_lot49.json": "b4fb46a4f2a7b26c5183b34c7994cf85b0c003220554b957ff190abe873ae6d5",
+    "traduction/credits_lot49_fr.json": "70df0a9e059de98ac7490e7e938185b2be79da8965a1e55e4df3365a9b63c768",
+    "traduction/menu_graphics_lot49_fr.json": "4c2d1f4ccabf364cbff1316c2f9cbf25d0d5ac0e9dc62396409092fac8fae4d8",
+    "traduction/menu_native_lot49_fr.json": "fe83d44abcca256af2e99cf8325add2fc7558337cac24670c7ac332a8efb48d7",
+    "traduction/scroll_menu_short_lot49_fr.json": "7843367bc578e2f8a357ad87137d2e5218d238a9729f9e661124610e8c9c875d",
+    "verification/lot49_sources_manifest.json": "b45432695ce7a14bac06040f4c83a0543d87c86d935638fbd5afd1ec74942389",
+    "tools/credits_lot49.py": "6be21cb63fb070ed6605cd1d8dd76f93f3cb5f4855e97ce5139725cacb36cf27",
+    "tools/menu_graphics_lot49.py": "46ecb3e6a3e20233f0df14589b455204ad59c4779881ba39a75ab3bcb34bf981",
+    "tools/menu_native_lot49.py": "85808c8899fa2a804c860c5697a89427d8f1328fbf0e2a1ed72ee3cae64ced57",
+    "tools/scroll_menu_lot49.py": "dbdae61ae75cf8c1a1a19ee3c4fdfeb17b2cd8e604ae7781de8b5620c7d95eb9",
+    "tools/credits_line_start_lot49.py": "fee3838447dcf1ba1272fbffb308807e93815f45ab8cc4cd2d44d474606b38c3",
+    "tools/audit_new_sources_lot49.py": "84bb2d4131f574d3240e8f64b5e18d4bc2e6d729f9f92d1b35c18c8893bfa934",
+    "tools/build_lot49_checkpoint.py": "b6265be07cf048c3703726ac560c305e588bc3b1ab638dac0e84efae97497809"
+  },
+  "scope": "Fresh full native lookup pass before metadata-only credits cleanup. Independently rebuilt identical ROM confirmed afterward."
+}

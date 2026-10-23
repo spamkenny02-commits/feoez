@@ -1,0 +1,1656 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "native_executions": 235,
+  "consumer": "FD8B C07722; C077AF X0; C07880/C078A1;4D2C00 width;28tile banner",
+  "ordinary_action_script_offset": "0x653c1",
+  "selector": "RAM43BB",
+  "canaries_preserved": true,
+  "cases": [
+    {
+      "id": "B019-S184",
+      "native_bytes": 24,
+      "native_width_pixels": 116,
+      "native_width_tiles": 15,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S185",
+      "native_bytes": 11,
+      "native_width_pixels": 45,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S186",
+      "native_bytes": 7,
+      "native_width_pixels": 30,
+      "native_width_tiles": 4,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S188",
+      "native_bytes": 21,
+      "native_width_pixels": 97,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S189",
+      "native_bytes": 14,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S190",
+      "native_bytes": 23,
+      "native_width_pixels": 106,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S191",
+      "native_bytes": 10,
+      "native_width_pixels": 49,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S192",
+      "native_bytes": 15,
+      "native_width_pixels": 64,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S193",
+      "native_bytes": 16,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S194",
+      "native_bytes": 11,
+      "native_width_pixels": 51,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S195",
+      "native_bytes": 13,
+      "native_width_pixels": 58,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S196",
+      "native_bytes": 9,
+      "native_width_pixels": 42,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S197",
+      "native_bytes": 9,
+      "native_width_pixels": 44,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S198",
+      "native_bytes": 15,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S199",
+      "native_bytes": 6,
+      "native_width_pixels": 31,
+      "native_width_tiles": 4,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S200",
+      "native_bytes": 18,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S201",
+      "native_bytes": 23,
+      "native_width_pixels": 108,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S202",
+      "native_bytes": 17,
+      "native_width_pixels": 82,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S203",
+      "native_bytes": 17,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S205",
+      "native_bytes": 17,
+      "native_width_pixels": 73,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S206",
+      "native_bytes": 17,
+      "native_width_pixels": 82,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S207",
+      "native_bytes": 24,
+      "native_width_pixels": 103,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S208",
+      "native_bytes": 25,
+      "native_width_pixels": 109,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S209",
+      "native_bytes": 28,
+      "native_width_pixels": 118,
+      "native_width_tiles": 15,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S210",
+      "native_bytes": 27,
+      "native_width_pixels": 112,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S211",
+      "native_bytes": 12,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S212",
+      "native_bytes": 20,
+      "native_width_pixels": 79,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S213",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S214",
+      "native_bytes": 17,
+      "native_width_pixels": 71,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S215",
+      "native_bytes": 26,
+      "native_width_pixels": 115,
+      "native_width_tiles": 15,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S216",
+      "native_bytes": 23,
+      "native_width_pixels": 94,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S217",
+      "native_bytes": 17,
+      "native_width_pixels": 81,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S218",
+      "native_bytes": 16,
+      "native_width_pixels": 73,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S219",
+      "native_bytes": 26,
+      "native_width_pixels": 122,
+      "native_width_tiles": 16,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S220",
+      "native_bytes": 26,
+      "native_width_pixels": 123,
+      "native_width_tiles": 16,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S221",
+      "native_bytes": 23,
+      "native_width_pixels": 105,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B019-S222",
+      "native_bytes": 10,
+      "native_width_pixels": 44,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S001",
+      "native_bytes": 12,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S002",
+      "native_bytes": 17,
+      "native_width_pixels": 74,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S003",
+      "native_bytes": 7,
+      "native_width_pixels": 36,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S004",
+      "native_bytes": 12,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S005",
+      "native_bytes": 8,
+      "native_width_pixels": 40,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S006",
+      "native_bytes": 13,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S007",
+      "native_bytes": 18,
+      "native_width_pixels": 85,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S008",
+      "native_bytes": 14,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S009",
+      "native_bytes": 13,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S010",
+      "native_bytes": 17,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S011",
+      "native_bytes": 14,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S012",
+      "native_bytes": 15,
+      "native_width_pixels": 70,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S013",
+      "native_bytes": 17,
+      "native_width_pixels": 81,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S014",
+      "native_bytes": 10,
+      "native_width_pixels": 50,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S015",
+      "native_bytes": 17,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S016",
+      "native_bytes": 11,
+      "native_width_pixels": 51,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S017",
+      "native_bytes": 9,
+      "native_width_pixels": 43,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S018",
+      "native_bytes": 17,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S019",
+      "native_bytes": 12,
+      "native_width_pixels": 57,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S020",
+      "native_bytes": 15,
+      "native_width_pixels": 63,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S021",
+      "native_bytes": 19,
+      "native_width_pixels": 91,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S022",
+      "native_bytes": 17,
+      "native_width_pixels": 79,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S023",
+      "native_bytes": 8,
+      "native_width_pixels": 36,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S024",
+      "native_bytes": 8,
+      "native_width_pixels": 38,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S025",
+      "native_bytes": 14,
+      "native_width_pixels": 70,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S026",
+      "native_bytes": 17,
+      "native_width_pixels": 76,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S027",
+      "native_bytes": 16,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S028",
+      "native_bytes": 11,
+      "native_width_pixels": 53,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S029",
+      "native_bytes": 16,
+      "native_width_pixels": 78,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S030",
+      "native_bytes": 17,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S031",
+      "native_bytes": 16,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S032",
+      "native_bytes": 22,
+      "native_width_pixels": 105,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S033",
+      "native_bytes": 14,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S034",
+      "native_bytes": 20,
+      "native_width_pixels": 99,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S035",
+      "native_bytes": 16,
+      "native_width_pixels": 79,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S036",
+      "native_bytes": 12,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S037",
+      "native_bytes": 22,
+      "native_width_pixels": 97,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S038",
+      "native_bytes": 14,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S039",
+      "native_bytes": 14,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S040",
+      "native_bytes": 12,
+      "native_width_pixels": 53,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S044",
+      "native_bytes": 16,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S045",
+      "native_bytes": 16,
+      "native_width_pixels": 74,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S046",
+      "native_bytes": 14,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S047",
+      "native_bytes": 12,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S048",
+      "native_bytes": 15,
+      "native_width_pixels": 68,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S049",
+      "native_bytes": 11,
+      "native_width_pixels": 53,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S050",
+      "native_bytes": 15,
+      "native_width_pixels": 76,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S051",
+      "native_bytes": 12,
+      "native_width_pixels": 52,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S052",
+      "native_bytes": 19,
+      "native_width_pixels": 86,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S053",
+      "native_bytes": 19,
+      "native_width_pixels": 90,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S054",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S055",
+      "native_bytes": 19,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S056",
+      "native_bytes": 23,
+      "native_width_pixels": 112,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S057",
+      "native_bytes": 13,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S058",
+      "native_bytes": 20,
+      "native_width_pixels": 95,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S059",
+      "native_bytes": 27,
+      "native_width_pixels": 132,
+      "native_width_tiles": 17,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S060",
+      "native_bytes": 18,
+      "native_width_pixels": 78,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S062",
+      "native_bytes": 19,
+      "native_width_pixels": 84,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S063",
+      "native_bytes": 15,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S064",
+      "native_bytes": 16,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S065",
+      "native_bytes": 10,
+      "native_width_pixels": 49,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S066",
+      "native_bytes": 18,
+      "native_width_pixels": 86,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S068",
+      "native_bytes": 16,
+      "native_width_pixels": 76,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S069",
+      "native_bytes": 20,
+      "native_width_pixels": 91,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S070",
+      "native_bytes": 17,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S071",
+      "native_bytes": 18,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S073",
+      "native_bytes": 18,
+      "native_width_pixels": 84,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S074",
+      "native_bytes": 19,
+      "native_width_pixels": 88,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S075",
+      "native_bytes": 18,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S076",
+      "native_bytes": 10,
+      "native_width_pixels": 47,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S077",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S078",
+      "native_bytes": 6,
+      "native_width_pixels": 31,
+      "native_width_tiles": 4,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S079",
+      "native_bytes": 16,
+      "native_width_pixels": 73,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S080",
+      "native_bytes": 17,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S081",
+      "native_bytes": 17,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S082",
+      "native_bytes": 15,
+      "native_width_pixels": 68,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S083",
+      "native_bytes": 20,
+      "native_width_pixels": 89,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S084",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S085",
+      "native_bytes": 17,
+      "native_width_pixels": 78,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S086",
+      "native_bytes": 16,
+      "native_width_pixels": 76,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S087",
+      "native_bytes": 12,
+      "native_width_pixels": 61,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S088",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S089",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S090",
+      "native_bytes": 13,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S091",
+      "native_bytes": 24,
+      "native_width_pixels": 115,
+      "native_width_tiles": 15,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S092",
+      "native_bytes": 17,
+      "native_width_pixels": 83,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S093",
+      "native_bytes": 21,
+      "native_width_pixels": 100,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S094",
+      "native_bytes": 15,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S095",
+      "native_bytes": 15,
+      "native_width_pixels": 76,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S096",
+      "native_bytes": 19,
+      "native_width_pixels": 95,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S097",
+      "native_bytes": 8,
+      "native_width_pixels": 39,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S098",
+      "native_bytes": 12,
+      "native_width_pixels": 57,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S099",
+      "native_bytes": 14,
+      "native_width_pixels": 64,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S100",
+      "native_bytes": 16,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S101",
+      "native_bytes": 12,
+      "native_width_pixels": 57,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S102",
+      "native_bytes": 11,
+      "native_width_pixels": 50,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S103",
+      "native_bytes": 15,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S104",
+      "native_bytes": 11,
+      "native_width_pixels": 52,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S105",
+      "native_bytes": 17,
+      "native_width_pixels": 73,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S106",
+      "native_bytes": 14,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S107",
+      "native_bytes": 16,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S108",
+      "native_bytes": 8,
+      "native_width_pixels": 41,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S109",
+      "native_bytes": 27,
+      "native_width_pixels": 125,
+      "native_width_tiles": 16,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S110",
+      "native_bytes": 10,
+      "native_width_pixels": 46,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S111",
+      "native_bytes": 22,
+      "native_width_pixels": 99,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S112",
+      "native_bytes": 23,
+      "native_width_pixels": 110,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S114",
+      "native_bytes": 18,
+      "native_width_pixels": 85,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S115",
+      "native_bytes": 12,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S116",
+      "native_bytes": 17,
+      "native_width_pixels": 81,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S118",
+      "native_bytes": 16,
+      "native_width_pixels": 72,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S119",
+      "native_bytes": 10,
+      "native_width_pixels": 49,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S120",
+      "native_bytes": 13,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S121",
+      "native_bytes": 12,
+      "native_width_pixels": 55,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S122",
+      "native_bytes": 14,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S123",
+      "native_bytes": 15,
+      "native_width_pixels": 68,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S124",
+      "native_bytes": 18,
+      "native_width_pixels": 84,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S125",
+      "native_bytes": 17,
+      "native_width_pixels": 85,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S126",
+      "native_bytes": 14,
+      "native_width_pixels": 65,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S127",
+      "native_bytes": 16,
+      "native_width_pixels": 72,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S128",
+      "native_bytes": 7,
+      "native_width_pixels": 36,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S130",
+      "native_bytes": 8,
+      "native_width_pixels": 34,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S131",
+      "native_bytes": 6,
+      "native_width_pixels": 31,
+      "native_width_tiles": 4,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S132",
+      "native_bytes": 9,
+      "native_width_pixels": 45,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S133",
+      "native_bytes": 17,
+      "native_width_pixels": 78,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S134",
+      "native_bytes": 19,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S135",
+      "native_bytes": 16,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S137",
+      "native_bytes": 16,
+      "native_width_pixels": 74,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S138",
+      "native_bytes": 19,
+      "native_width_pixels": 89,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S140",
+      "native_bytes": 10,
+      "native_width_pixels": 48,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S141",
+      "native_bytes": 9,
+      "native_width_pixels": 40,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S142",
+      "native_bytes": 15,
+      "native_width_pixels": 72,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S143",
+      "native_bytes": 13,
+      "native_width_pixels": 64,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S144",
+      "native_bytes": 15,
+      "native_width_pixels": 71,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S146",
+      "native_bytes": 16,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S147",
+      "native_bytes": 23,
+      "native_width_pixels": 107,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S148",
+      "native_bytes": 20,
+      "native_width_pixels": 93,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S149",
+      "native_bytes": 16,
+      "native_width_pixels": 79,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S150",
+      "native_bytes": 17,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S151",
+      "native_bytes": 7,
+      "native_width_pixels": 37,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S152",
+      "native_bytes": 14,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S153",
+      "native_bytes": 8,
+      "native_width_pixels": 41,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S154",
+      "native_bytes": 13,
+      "native_width_pixels": 64,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S155",
+      "native_bytes": 19,
+      "native_width_pixels": 91,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S156",
+      "native_bytes": 17,
+      "native_width_pixels": 81,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S157",
+      "native_bytes": 23,
+      "native_width_pixels": 105,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S159",
+      "native_bytes": 17,
+      "native_width_pixels": 82,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S160",
+      "native_bytes": 18,
+      "native_width_pixels": 84,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S162",
+      "native_bytes": 11,
+      "native_width_pixels": 57,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S163",
+      "native_bytes": 20,
+      "native_width_pixels": 95,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S164",
+      "native_bytes": 9,
+      "native_width_pixels": 38,
+      "native_width_tiles": 5,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S165",
+      "native_bytes": 22,
+      "native_width_pixels": 102,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S166",
+      "native_bytes": 12,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S167",
+      "native_bytes": 17,
+      "native_width_pixels": 86,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S168",
+      "native_bytes": 11,
+      "native_width_pixels": 49,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S169",
+      "native_bytes": 11,
+      "native_width_pixels": 54,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S170",
+      "native_bytes": 15,
+      "native_width_pixels": 70,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S171",
+      "native_bytes": 16,
+      "native_width_pixels": 71,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S172",
+      "native_bytes": 15,
+      "native_width_pixels": 68,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S173",
+      "native_bytes": 14,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S174",
+      "native_bytes": 15,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S176",
+      "native_bytes": 13,
+      "native_width_pixels": 62,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S177",
+      "native_bytes": 18,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S179",
+      "native_bytes": 11,
+      "native_width_pixels": 54,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S180",
+      "native_bytes": 17,
+      "native_width_pixels": 71,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S181",
+      "native_bytes": 20,
+      "native_width_pixels": 89,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S183",
+      "native_bytes": 15,
+      "native_width_pixels": 75,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S185",
+      "native_bytes": 11,
+      "native_width_pixels": 56,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S186",
+      "native_bytes": 20,
+      "native_width_pixels": 91,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S187",
+      "native_bytes": 9,
+      "native_width_pixels": 43,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S188",
+      "native_bytes": 12,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S189",
+      "native_bytes": 15,
+      "native_width_pixels": 74,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S190",
+      "native_bytes": 10,
+      "native_width_pixels": 51,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S191",
+      "native_bytes": 9,
+      "native_width_pixels": 48,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S192",
+      "native_bytes": 16,
+      "native_width_pixels": 77,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S194",
+      "native_bytes": 12,
+      "native_width_pixels": 60,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S195",
+      "native_bytes": 18,
+      "native_width_pixels": 83,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S196",
+      "native_bytes": 18,
+      "native_width_pixels": 91,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S197",
+      "native_bytes": 11,
+      "native_width_pixels": 56,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S198",
+      "native_bytes": 26,
+      "native_width_pixels": 123,
+      "native_width_tiles": 16,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S199",
+      "native_bytes": 16,
+      "native_width_pixels": 70,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S200",
+      "native_bytes": 18,
+      "native_width_pixels": 82,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S201",
+      "native_bytes": 16,
+      "native_width_pixels": 67,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S202",
+      "native_bytes": 13,
+      "native_width_pixels": 54,
+      "native_width_tiles": 7,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S203",
+      "native_bytes": 16,
+      "native_width_pixels": 66,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S204",
+      "native_bytes": 14,
+      "native_width_pixels": 59,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S205",
+      "native_bytes": 17,
+      "native_width_pixels": 69,
+      "native_width_tiles": 9,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S206",
+      "native_bytes": 17,
+      "native_width_pixels": 80,
+      "native_width_tiles": 10,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S207",
+      "native_bytes": 18,
+      "native_width_pixels": 87,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S208",
+      "native_bytes": 17,
+      "native_width_pixels": 81,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S209",
+      "native_bytes": 13,
+      "native_width_pixels": 62,
+      "native_width_tiles": 8,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S212",
+      "native_bytes": 20,
+      "native_width_pixels": 86,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S213",
+      "native_bytes": 24,
+      "native_width_pixels": 109,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S214",
+      "native_bytes": 24,
+      "native_width_pixels": 109,
+      "native_width_tiles": 14,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S224",
+      "native_bytes": 20,
+      "native_width_pixels": 100,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S225",
+      "native_bytes": 20,
+      "native_width_pixels": 100,
+      "native_width_tiles": 13,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S235",
+      "native_bytes": 20,
+      "native_width_pixels": 93,
+      "native_width_tiles": 12,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S236",
+      "native_bytes": 19,
+      "native_width_pixels": 85,
+      "native_width_tiles": 11,
+      "field_dialogue_rules_used": false
+    },
+    {
+      "id": "B020-S237",
+      "native_bytes": 8,
+      "native_width_pixels": 42,
+      "native_width_tiles": 6,
+      "field_dialogue_rules_used": false
+    }
+  ],
+  "scope": "Exact native copied bytes and dynamic font width only. See staged battle PPU fixture and separate natural controller replay; not every attack branch traversed."
+}

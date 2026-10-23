@@ -1,0 +1,2529 @@
+{
+  "lot": 49,
+  "target": 400,
+  "canonical_new_sources": 400,
+  "sources": [
+    {
+      "id": "B019-S184",
+      "kind": "bounded",
+      "english": "Chamber of the Dark Arts",
+      "french": "Chambre des arts obscurs"
+    },
+    {
+      "id": "B019-S185",
+      "kind": "bounded",
+      "english": "Black Lightning",
+      "french": "Éclair noir"
+    },
+    {
+      "id": "B019-S188",
+      "kind": "bounded",
+      "english": "You're wasting your time...",
+      "french": "Tu perds ton temps..."
+    },
+    {
+      "id": "B019-S189",
+      "kind": "bounded",
+      "english": "Vacuous Beam",
+      "french": "Rayon du néant"
+    },
+    {
+      "id": "B019-S190",
+      "kind": "bounded",
+      "english": "Groans of Hell",
+      "french": "Gémissements de l’Enfer"
+    },
+    {
+      "id": "B019-S191",
+      "kind": "bounded",
+      "english": "Sea of Fire",
+      "french": "Mer de feu"
+    },
+    {
+      "id": "B019-S192",
+      "kind": "bounded",
+      "english": "Battle Cry!",
+      "french": "Cri de guerre !"
+    },
+    {
+      "id": "B019-S193",
+      "kind": "bounded",
+      "english": "Intense Earthquake!",
+      "french": "Violent séisme !"
+    },
+    {
+      "id": "B019-S194",
+      "kind": "bounded",
+      "english": "Yum-num!",
+      "french": "Miam-miam !"
+    },
+    {
+      "id": "B019-S195",
+      "kind": "bounded",
+      "english": "Slurpity-slurp!",
+      "french": "Slurp-slurp !"
+    },
+    {
+      "id": "B019-S196",
+      "kind": "bounded",
+      "english": "White Gas",
+      "french": "Gaz blanc"
+    },
+    {
+      "id": "B019-S197",
+      "kind": "bounded",
+      "english": "Red Gas",
+      "french": "Gaz rouge"
+    },
+    {
+      "id": "B019-S198",
+      "kind": "bounded",
+      "english": "Modified Body-slam",
+      "french": "Charge modifiée"
+    },
+    {
+      "id": "B019-S199",
+      "kind": "bounded",
+      "english": "Body-slam",
+      "french": "Charge"
+    },
+    {
+      "id": "B019-S200",
+      "kind": "bounded",
+      "english": "Hell's Breath",
+      "french": "Souffle de l’Enfer"
+    },
+    {
+      "id": "B019-S201",
+      "kind": "bounded",
+      "english": "Weakpoint Alteration",
+      "french": "Changement de faiblesse"
+    },
+    {
+      "id": "B019-S202",
+      "kind": "bounded",
+      "english": "Drill Attack",
+      "french": "Attaque de forage"
+    },
+    {
+      "id": "B019-S203",
+      "kind": "bounded",
+      "english": "Drag down to Hell",
+      "french": "Entraîne en Enfer"
+    },
+    {
+      "id": "B019-S205",
+      "kind": "bounded",
+      "english": "Dark Wink",
+      "french": "Clin d’œil sombre"
+    },
+    {
+      "id": "B019-S206",
+      "kind": "bounded",
+      "english": "Demonic Gaze",
+      "french": "Regard démoniaque"
+    },
+    {
+      "id": "B019-S207",
+      "kind": "bounded",
+      "english": "The Black Skill of the Left Eye",
+      "french": "Art noir de l’œil gauche"
+    },
+    {
+      "id": "B019-S208",
+      "kind": "bounded",
+      "english": "The White Skill of the Left Eye",
+      "french": "Art blanc de l’œil gauche"
+    },
+    {
+      "id": "B019-S209",
+      "kind": "bounded",
+      "english": "The White Power of the Right Eye",
+      "french": "Pouvoir blanc de l’œil droit"
+    },
+    {
+      "id": "B019-S210",
+      "kind": "bounded",
+      "english": "The Black Power of the Right Eye",
+      "french": "Pouvoir noir de l’œil droit"
+    },
+    {
+      "id": "B019-S211",
+      "kind": "bounded",
+      "english": "Blazing Cannon",
+      "french": "Canon ardent"
+    },
+    {
+      "id": "B019-S212",
+      "kind": "bounded",
+      "english": "Refueling now!",
+      "french": "Je refais le plein !"
+    },
+    {
+      "id": "B019-S213",
+      "kind": "bounded",
+      "english": "Plasma Cannon",
+      "french": "Canon à plasma"
+    },
+    {
+      "id": "B019-S214",
+      "kind": "bounded",
+      "english": "Shield On!",
+      "french": "Bouclier activé !"
+    },
+    {
+      "id": "B019-S215",
+      "kind": "bounded",
+      "english": "Twin Horns of Hell",
+      "french": "Cornes jumelles de l’Enfer"
+    },
+    {
+      "id": "B019-S216",
+      "kind": "bounded",
+      "english": "Hell's Illumination",
+      "french": "Illumination de l’Enfer"
+    },
+    {
+      "id": "B019-S217",
+      "kind": "bounded",
+      "english": "Black Heart Orb",
+      "french": "Orbe au cœur noir"
+    },
+    {
+      "id": "B019-S218",
+      "kind": "bounded",
+      "english": "Terrifying Eyes",
+      "french": "Yeux terrifiants"
+    },
+    {
+      "id": "B019-S219",
+      "kind": "bounded",
+      "english": "Dark Glint in the Eyes",
+      "french": "Lueur sombre dans les yeux"
+    },
+    {
+      "id": "B019-S220",
+      "kind": "bounded",
+      "english": "Horsies and Deerses Skill",
+      "french": "Art des Dadas et des Cerfs"
+    },
+    {
+      "id": "B019-S221",
+      "kind": "bounded",
+      "english": "Shit! Shit! Shit!",
+      "french": "Merde ! Merde ! Merde !"
+    },
+    {
+      "id": "B019-S222",
+      "kind": "bounded",
+      "english": "Damn it!",
+      "french": "Bon sang !"
+    },
+    {
+      "id": "B020-S001",
+      "kind": "bounded",
+      "english": "Red Cub",
+      "french": "Ourson rouge"
+    },
+    {
+      "id": "B020-S002",
+      "kind": "bounded",
+      "english": "Hare's Bane",
+      "french": "Fléau des lièvres"
+    },
+    {
+      "id": "B020-S003",
+      "kind": "bounded",
+      "english": "Thumper",
+      "french": "Cogneur"
+    },
+    {
+      "id": "B020-S004",
+      "kind": "bounded",
+      "english": "Ksetran Beast",
+      "french": "Bête Ksetran"
+    },
+    {
+      "id": "B020-S005",
+      "kind": "bounded",
+      "english": "Mower",
+      "french": "Faucheur"
+    },
+    {
+      "id": "B020-S006",
+      "kind": "bounded",
+      "english": "Deadie Bear",
+      "french": "Ours trépassé"
+    },
+    {
+      "id": "B020-S007",
+      "kind": "bounded",
+      "english": "Wheezle",
+      "french": "Belette essoufflée"
+    },
+    {
+      "id": "B020-S008",
+      "kind": "bounded",
+      "english": "Hairy Gator",
+      "french": "Alligator velu"
+    },
+    {
+      "id": "B020-S009",
+      "kind": "bounded",
+      "english": "Icicle Mouse",
+      "french": "Souris glaçon"
+    },
+    {
+      "id": "B020-S010",
+      "kind": "bounded",
+      "english": "Glacial Panther",
+      "french": "Panthère glaciale"
+    },
+    {
+      "id": "B020-S011",
+      "kind": "bounded",
+      "english": "Bald Butcher",
+      "french": "Boucher chauve"
+    },
+    {
+      "id": "B020-S012",
+      "kind": "bounded",
+      "english": "Snow Lady",
+      "french": "Dame des neiges"
+    },
+    {
+      "id": "B020-S013",
+      "kind": "bounded",
+      "english": "Snow Man",
+      "french": "Bonhomme de neige"
+    },
+    {
+      "id": "B020-S014",
+      "kind": "bounded",
+      "english": "Ylf Fly",
+      "french": "Mouche Ylf"
+    },
+    {
+      "id": "B020-S015",
+      "kind": "bounded",
+      "english": "Snow Dharma'n",
+      "french": "Dharma des neiges"
+    },
+    {
+      "id": "B020-S016",
+      "kind": "bounded",
+      "english": "Northern Frost",
+      "french": "Gel du Nord"
+    },
+    {
+      "id": "B020-S017",
+      "kind": "bounded",
+      "english": "Crackler",
+      "french": "Crépiteur"
+    },
+    {
+      "id": "B020-S018",
+      "kind": "bounded",
+      "english": "Snow Spirit",
+      "french": "Esprit des neiges"
+    },
+    {
+      "id": "B020-S019",
+      "kind": "bounded",
+      "english": "Icy Gazer",
+      "french": "Regard glacé"
+    },
+    {
+      "id": "B020-S020",
+      "kind": "bounded",
+      "english": "Invisa Bully",
+      "french": "Brute invisible"
+    },
+    {
+      "id": "B020-S021",
+      "kind": "bounded",
+      "english": "Heretic Plower",
+      "french": "Laboureur hérétique"
+    },
+    {
+      "id": "B020-S022",
+      "kind": "bounded",
+      "english": "Snow Priest",
+      "french": "Prêtre des neiges"
+    },
+    {
+      "id": "B020-S023",
+      "kind": "bounded",
+      "english": "Woody <12>1",
+      "french": "Boisé <12>1"
+    },
+    {
+      "id": "B020-S025",
+      "kind": "bounded",
+      "english": "Path Puller",
+      "french": "Arrache-chemin"
+    },
+    {
+      "id": "B020-S026",
+      "kind": "bounded",
+      "english": "Forest Dweller",
+      "french": "Habitant des bois"
+    },
+    {
+      "id": "B020-S027",
+      "kind": "bounded",
+      "english": "Frog Licker",
+      "french": "Lèche-grenouille"
+    },
+    {
+      "id": "B020-S028",
+      "kind": "bounded",
+      "english": "Black Sheep",
+      "french": "Mouton noir"
+    },
+    {
+      "id": "B020-S029",
+      "kind": "bounded",
+      "english": "Sleepy Piggy",
+      "french": "Cochon somnolent"
+    },
+    {
+      "id": "B020-S030",
+      "kind": "bounded",
+      "english": "Bloodthirsty Hound",
+      "french": "Chien sanguinaire"
+    },
+    {
+      "id": "B020-S031",
+      "kind": "bounded",
+      "english": "Prickly Tails",
+      "french": "Queues épineuses"
+    },
+    {
+      "id": "B020-S032",
+      "kind": "bounded",
+      "english": "Anemic Bat",
+      "french": "Chauve-souris anémique"
+    },
+    {
+      "id": "B020-S033",
+      "kind": "bounded",
+      "english": "Bull Soldier",
+      "french": "Soldat taureau"
+    },
+    {
+      "id": "B020-S034",
+      "kind": "bounded",
+      "english": "Jinx Fox",
+      "french": "Renard porte-malheur"
+    },
+    {
+      "id": "B020-S035",
+      "kind": "bounded",
+      "english": "Spotted Spitter",
+      "french": "Cracheur tacheté"
+    },
+    {
+      "id": "B020-S036",
+      "kind": "bounded",
+      "english": "Dark Plume",
+      "french": "Plume sombre"
+    },
+    {
+      "id": "B020-S037",
+      "kind": "bounded",
+      "english": "Cursed Petauristini",
+      "french": "Écureuil volant maudit"
+    },
+    {
+      "id": "B020-S038",
+      "kind": "bounded",
+      "english": "Otter Vixen",
+      "french": "Loutre renarde"
+    },
+    {
+      "id": "B020-S039",
+      "kind": "bounded",
+      "english": "Giant Weasel",
+      "french": "Belette géante"
+    },
+    {
+      "id": "B020-S040",
+      "kind": "bounded",
+      "english": "Monkey Lu Xia",
+      "french": "Singe Lu Xia"
+    },
+    {
+      "id": "B020-S044",
+      "kind": "bounded",
+      "english": "Headless Horse",
+      "french": "Cheval sans tête"
+    },
+    {
+      "id": "B020-S045",
+      "kind": "bounded",
+      "english": "Two-headed Fox",
+      "french": "Renard bicéphale"
+    },
+    {
+      "id": "B020-S046",
+      "kind": "bounded",
+      "english": "Robo-Teddy",
+      "french": "Nounours robot"
+    },
+    {
+      "id": "B020-S047",
+      "kind": "bounded",
+      "english": "Bumble Bear",
+      "french": "Ours bourdon"
+    },
+    {
+      "id": "B020-S048",
+      "kind": "bounded",
+      "english": "Jack the Weasel",
+      "french": "Jack la Belette"
+    },
+    {
+      "id": "B020-S049",
+      "kind": "bounded",
+      "english": "Ratty Bear",
+      "french": "Ours miteux"
+    },
+    {
+      "id": "B020-S050",
+      "kind": "bounded",
+      "english": "General T. Ortoise",
+      "french": "Général Tor Tue"
+    },
+    {
+      "id": "B020-S051",
+      "kind": "bounded",
+      "english": "Afrhino",
+      "french": "Rhinofricain"
+    },
+    {
+      "id": "B020-S052",
+      "kind": "bounded",
+      "english": "Wormy Ballerina",
+      "french": "Ballerine vermoulue"
+    },
+    {
+      "id": "B020-S053",
+      "kind": "bounded",
+      "english": "Fireball Fly",
+      "french": "Mouche boule de feu"
+    },
+    {
+      "id": "B020-S054",
+      "kind": "bounded",
+      "english": "Red Hot Ant",
+      "french": "Fourmi ardente"
+    },
+    {
+      "id": "B020-S055",
+      "kind": "bounded",
+      "english": "Sand Spider",
+      "french": "Araignée des sables"
+    },
+    {
+      "id": "B020-S056",
+      "kind": "bounded",
+      "english": "Man-eating Larva",
+      "french": "Larve mangeuse d’hommes"
+    },
+    {
+      "id": "B020-S057",
+      "kind": "bounded",
+      "english": "Dark Avatar",
+      "french": "Avatar sombre"
+    },
+    {
+      "id": "B020-S058",
+      "kind": "bounded",
+      "english": "Zippy Longlegs",
+      "french": "Grandes Pattes vives"
+    },
+    {
+      "id": "B020-S059",
+      "kind": "bounded",
+      "english": "Envoy of the Dusty Winds",
+      "french": "Messager des vents poudreux"
+    },
+    {
+      "id": "B020-S060",
+      "kind": "bounded",
+      "english": "Army Ant",
+      "french": "Fourmi légionnaire"
+    },
+    {
+      "id": "B020-S062",
+      "kind": "bounded",
+      "english": "Lingering Moth",
+      "french": "Papillon persistant"
+    },
+    {
+      "id": "B020-S063",
+      "kind": "bounded",
+      "english": "Horned Knight",
+      "french": "Chevalier cornu"
+    },
+    {
+      "id": "B020-S064",
+      "kind": "bounded",
+      "english": "Poisonous Moth",
+      "french": "Papillon toxique"
+    },
+    {
+      "id": "B020-S065",
+      "kind": "bounded",
+      "english": "Pill Bugger",
+      "french": "Cloporteur"
+    },
+    {
+      "id": "B020-S066",
+      "kind": "bounded",
+      "english": "Desert Reaper",
+      "french": "Faucheur du désert"
+    },
+    {
+      "id": "B020-S068",
+      "kind": "bounded",
+      "english": "Prince of Yamato",
+      "french": "Prince de Yamato"
+    },
+    {
+      "id": "B020-S069",
+      "kind": "bounded",
+      "english": "Desert Damselfly",
+      "french": "Demoiselle du désert"
+    },
+    {
+      "id": "B020-S070",
+      "kind": "bounded",
+      "english": "Parched Butterfly",
+      "french": "Papillon desséché"
+    },
+    {
+      "id": "B020-S071",
+      "kind": "bounded",
+      "english": "Hell's Dancer",
+      "french": "Danseur des Enfers"
+    },
+    {
+      "id": "B020-S073",
+      "kind": "bounded",
+      "english": "Barefoot Grazer",
+      "french": "Brouteur pieds nus"
+    },
+    {
+      "id": "B020-S074",
+      "kind": "bounded",
+      "english": "Stealopede",
+      "french": "Mille-pattes voleur"
+    },
+    {
+      "id": "B020-S075",
+      "kind": "bounded",
+      "english": "Desert Hunter",
+      "french": "Chasseur du désert"
+    },
+    {
+      "id": "B020-S076",
+      "kind": "bounded",
+      "english": "Catapeeler",
+      "french": "Cheni-pèle"
+    },
+    {
+      "id": "B020-S077",
+      "kind": "bounded",
+      "english": "Skull Spider",
+      "french": "Araignée crâne"
+    },
+    {
+      "id": "B020-S078",
+      "kind": "bounded",
+      "english": "Flea-ra",
+      "french": "Pucéra"
+    },
+    {
+      "id": "B020-S079",
+      "kind": "bounded",
+      "english": "Sand Amoeba",
+      "french": "Amibe des sables"
+    },
+    {
+      "id": "B020-S080",
+      "kind": "bounded",
+      "english": "Mackerawler",
+      "french": "Maquereau rampant"
+    },
+    {
+      "id": "B020-S081",
+      "kind": "bounded",
+      "english": "Bushido Bonito",
+      "french": "Bonite du Bushido"
+    },
+    {
+      "id": "B020-S082",
+      "kind": "bounded",
+      "english": "Buttfish",
+      "french": "Poisson fessier"
+    },
+    {
+      "id": "B020-S083",
+      "kind": "bounded",
+      "english": "Three-eyed Fish",
+      "french": "Poisson à trois yeux"
+    },
+    {
+      "id": "B020-S084",
+      "kind": "bounded",
+      "english": "Boltfish",
+      "french": "Poisson foudre"
+    },
+    {
+      "id": "B020-S085",
+      "kind": "bounded",
+      "english": "Sea Lubber",
+      "french": "Marin d’eau douce"
+    },
+    {
+      "id": "B020-S086",
+      "kind": "bounded",
+      "english": "Sea Cucumber Man",
+      "french": "Homme holothurie"
+    },
+    {
+      "id": "B020-S087",
+      "kind": "bounded",
+      "english": "Abalone Woman",
+      "french": "Femme ormeau"
+    },
+    {
+      "id": "B020-S088",
+      "kind": "bounded",
+      "english": "Mon-Star",
+      "french": "Monstre étoile"
+    },
+    {
+      "id": "B020-S089",
+      "kind": "bounded",
+      "english": "Jimmy of the Sea",
+      "french": "Jimmy des mers"
+    },
+    {
+      "id": "B020-S090",
+      "kind": "bounded",
+      "english": "Goopy Seaweed",
+      "french": "Algue gluante"
+    },
+    {
+      "id": "B020-S091",
+      "kind": "bounded",
+      "english": "Man-eating Pond Snail",
+      "french": "Limnée mangeuse d’hommes"
+    },
+    {
+      "id": "B020-S092",
+      "kind": "bounded",
+      "english": "Snail Reaper",
+      "french": "Escargot faucheur"
+    },
+    {
+      "id": "B020-S093",
+      "kind": "bounded",
+      "english": "Clam Hunter",
+      "french": "Chasseur de palourdes"
+    },
+    {
+      "id": "B020-S094",
+      "kind": "bounded",
+      "english": "Daughter of the Coral",
+      "french": "Fille du corail"
+    },
+    {
+      "id": "B020-S095",
+      "kind": "bounded",
+      "english": "Sleeping Creeper",
+      "french": "Rampant dormeur"
+    },
+    {
+      "id": "B020-S096",
+      "kind": "bounded",
+      "english": "Chrysanthemum Doll",
+      "french": "Poupée chrysanthème"
+    },
+    {
+      "id": "B020-S097",
+      "kind": "bounded",
+      "english": "Ogre Lily",
+      "french": "Lys ogre"
+    },
+    {
+      "id": "B020-S098",
+      "kind": "bounded",
+      "english": "Summer Scent",
+      "french": "Parfum d’été"
+    },
+    {
+      "id": "B020-S099",
+      "kind": "bounded",
+      "english": "Winter Scent",
+      "french": "Parfum d’hiver"
+    },
+    {
+      "id": "B020-S100",
+      "kind": "bounded",
+      "english": "Princess Petal",
+      "french": "Princesse Pétale"
+    },
+    {
+      "id": "B020-S101",
+      "kind": "bounded",
+      "english": "Risen Rose",
+      "french": "Rose relevée"
+    },
+    {
+      "id": "B020-S102",
+      "kind": "bounded",
+      "english": "Honey Comber",
+      "french": "Peigne-miel"
+    },
+    {
+      "id": "B020-S103",
+      "kind": "bounded",
+      "english": "King of the Forest",
+      "french": "Roi de la forêt"
+    },
+    {
+      "id": "B020-S104",
+      "kind": "bounded",
+      "english": "Spear Cedar",
+      "french": "Cèdre lance"
+    },
+    {
+      "id": "B020-S105",
+      "kind": "bounded",
+      "english": "Unresting Vine",
+      "french": "Liane infatigable"
+    },
+    {
+      "id": "B020-S106",
+      "kind": "bounded",
+      "english": "Sleeping Widow",
+      "french": "Veuve endormie"
+    },
+    {
+      "id": "B020-S107",
+      "kind": "bounded",
+      "english": "Alluring Pampas",
+      "french": "Pampas séduisant"
+    },
+    {
+      "id": "B020-S108",
+      "kind": "bounded",
+      "english": "Bud",
+      "french": "Bourgeon"
+    },
+    {
+      "id": "B020-S109",
+      "kind": "bounded",
+      "english": "Monk of Eternal Spores",
+      "french": "Moine des spores éternelles"
+    },
+    {
+      "id": "B020-S110",
+      "kind": "bounded",
+      "english": "Baby's Breath",
+      "french": "Gypsophile"
+    },
+    {
+      "id": "B020-S111",
+      "kind": "bounded",
+      "english": "Flower Empress",
+      "french": "Impératrice des fleurs"
+    },
+    {
+      "id": "B020-S112",
+      "kind": "bounded",
+      "english": "Blood-sucking Leech",
+      "french": "Sangsue suceuse de sang"
+    },
+    {
+      "id": "B020-S114",
+      "kind": "bounded",
+      "english": "Hollow Centipede",
+      "french": "Mille-pattes creux"
+    },
+    {
+      "id": "B020-S115",
+      "kind": "bounded",
+      "english": "Grieving Molter",
+      "french": "Mueur éploré"
+    },
+    {
+      "id": "B020-S116",
+      "kind": "bounded",
+      "english": "Araboll Weevil",
+      "french": "Charançon Araboll"
+    },
+    {
+      "id": "B020-S118",
+      "kind": "bounded",
+      "english": "Tick Lish",
+      "french": "Tique Chatouille"
+    },
+    {
+      "id": "B020-S119",
+      "kind": "bounded",
+      "english": "Killer Angel",
+      "french": "Ange tueur"
+    },
+    {
+      "id": "B020-S120",
+      "kind": "bounded",
+      "english": "Yargo's Mother",
+      "french": "Mère de Yargo"
+    },
+    {
+      "id": "B020-S121",
+      "kind": "bounded",
+      "english": "Floral Lady",
+      "french": "Dame fleurie"
+    },
+    {
+      "id": "B020-S122",
+      "kind": "bounded",
+      "english": "Lotus Kappa",
+      "french": "Kappa du lotus"
+    },
+    {
+      "id": "B020-S123",
+      "kind": "bounded",
+      "english": "Vajra Knight",
+      "french": "Chevalier Vajra"
+    },
+    {
+      "id": "B020-S124",
+      "kind": "bounded",
+      "english": "Caster of Stones",
+      "french": "Lanceur de pierres"
+    },
+    {
+      "id": "B020-S125",
+      "kind": "bounded",
+      "english": "Hard Hearted Man",
+      "french": "Homme au cœur dur"
+    },
+    {
+      "id": "B020-S126",
+      "kind": "bounded",
+      "english": "Firecracker Jack",
+      "french": "Jack le Pétard"
+    },
+    {
+      "id": "B020-S127",
+      "kind": "bounded",
+      "english": "Copper Trooper",
+      "french": "Soldat de cuivre"
+    },
+    {
+      "id": "B020-S128",
+      "kind": "bounded",
+      "english": "Diggity",
+      "french": "Creusot"
+    },
+    {
+      "id": "B020-S130",
+      "kind": "bounded",
+      "english": "Rocky",
+      "french": "Rocaille"
+    },
+    {
+      "id": "B020-S131",
+      "kind": "bounded",
+      "english": "Pappy",
+      "french": "Pépère"
+    },
+    {
+      "id": "B020-S132",
+      "kind": "bounded",
+      "english": "Sissy",
+      "french": "Mauviette"
+    },
+    {
+      "id": "B020-S133",
+      "kind": "bounded",
+      "english": "Stone Splitter",
+      "french": "Fendeur de pierre"
+    },
+    {
+      "id": "B020-S134",
+      "kind": "bounded",
+      "english": "Veneer Warrior",
+      "french": "Guerrier de placage"
+    },
+    {
+      "id": "B020-S135",
+      "kind": "bounded",
+      "english": "Buckshot Stone",
+      "french": "Pierre mitraille"
+    },
+    {
+      "id": "B020-S137",
+      "kind": "bounded",
+      "english": "Festering Stone",
+      "french": "Pierre purulente"
+    },
+    {
+      "id": "B020-S138",
+      "kind": "bounded",
+      "english": "Mysterious Slate",
+      "french": "Ardoise mystérieuse"
+    },
+    {
+      "id": "B020-S140",
+      "kind": "bounded",
+      "english": "Left Iron",
+      "french": "Fer gauche"
+    },
+    {
+      "id": "B020-S141",
+      "kind": "bounded",
+      "english": "Right Iron",
+      "french": "Fer droit"
+    },
+    {
+      "id": "B020-S142",
+      "kind": "bounded",
+      "english": "Topper-Bot",
+      "french": "Robot à chapeau"
+    },
+    {
+      "id": "B020-S143",
+      "kind": "bounded",
+      "english": "Lazy Eye",
+      "french": "Œil paresseux"
+    },
+    {
+      "id": "B020-S144",
+      "kind": "bounded",
+      "english": "Possessed Stone",
+      "french": "Pierre possédée"
+    },
+    {
+      "id": "B020-S146",
+      "kind": "bounded",
+      "english": "Stone Pillar",
+      "french": "Pilier de pierre"
+    },
+    {
+      "id": "B020-S147",
+      "kind": "bounded",
+      "english": "Rickshaw Imp",
+      "french": "Diablotin pousse-pousse"
+    },
+    {
+      "id": "B020-S148",
+      "kind": "bounded",
+      "english": "Stone Eye-doll",
+      "french": "Poupée Œil de pierre"
+    },
+    {
+      "id": "B020-S149",
+      "kind": "bounded",
+      "english": "Mechanical Wench",
+      "french": "Mégère mécanique"
+    },
+    {
+      "id": "B020-S150",
+      "kind": "bounded",
+      "english": "Gravel May Cry",
+      "french": "Larmes de gravier"
+    },
+    {
+      "id": "B020-S151",
+      "kind": "bounded",
+      "english": "Mai Neck",
+      "french": "Mon Cou"
+    },
+    {
+      "id": "B020-S152",
+      "kind": "bounded",
+      "english": "Light in the Night",
+      "french": "Lueur nocturne"
+    },
+    {
+      "id": "B020-S153",
+      "kind": "bounded",
+      "english": "Ephemeropteran",
+      "french": "Éphémère"
+    },
+    {
+      "id": "B020-S154",
+      "kind": "bounded",
+      "english": "Good Lickin'",
+      "french": "Lèche-babines"
+    },
+    {
+      "id": "B020-S155",
+      "kind": "bounded",
+      "english": "Sword-wielding Temptress",
+      "french": "Tentatrice au sabre"
+    },
+    {
+      "id": "B020-S156",
+      "kind": "bounded",
+      "english": "Full Moon Tarou",
+      "french": "Tarou Pleine Lune"
+    },
+    {
+      "id": "B020-S157",
+      "kind": "bounded",
+      "english": "Crescent Moon Jirou",
+      "french": "Jirou Croissant de Lune"
+    },
+    {
+      "id": "B020-S159",
+      "kind": "bounded",
+      "english": "Anatomic Priest",
+      "french": "Prêtre anatomique"
+    },
+    {
+      "id": "B020-S160",
+      "kind": "bounded",
+      "english": "Mysterious Siren",
+      "french": "Sirène mystérieuse"
+    },
+    {
+      "id": "B020-S162",
+      "kind": "bounded",
+      "english": "Sucky-Sucker",
+      "french": "Suce-suceur"
+    },
+    {
+      "id": "B020-S163",
+      "kind": "bounded",
+      "english": "Darkspawn",
+      "french": "Rejeton des ténèbres"
+    },
+    {
+      "id": "B020-S164",
+      "kind": "bounded",
+      "english": "Sir Inge",
+      "french": "Sire Inge"
+    },
+    {
+      "id": "B020-S165",
+      "kind": "bounded",
+      "english": "Zuu, the Mighty Stranger",
+      "french": "Zuu, puissant étranger"
+    },
+    {
+      "id": "B020-S166",
+      "kind": "bounded",
+      "english": "Head Priest",
+      "french": "Grand prêtre"
+    },
+    {
+      "id": "B020-S167",
+      "kind": "bounded",
+      "english": "Bewildering Mage",
+      "french": "Mage déconcertant"
+    },
+    {
+      "id": "B020-S168",
+      "kind": "bounded",
+      "english": "Small Friar",
+      "french": "Petit moine"
+    },
+    {
+      "id": "B020-S169",
+      "kind": "bounded",
+      "english": "Guard Card",
+      "french": "Carte garde"
+    },
+    {
+      "id": "B020-S170",
+      "kind": "bounded",
+      "english": "Heavenly Light",
+      "french": "Lumière céleste"
+    },
+    {
+      "id": "B020-S171",
+      "kind": "bounded",
+      "english": "Corner Stone",
+      "french": "Pierre angulaire"
+    },
+    {
+      "id": "B020-S172",
+      "kind": "bounded",
+      "english": "Fighting Spirit",
+      "french": "Esprit combatif"
+    },
+    {
+      "id": "B020-S173",
+      "kind": "bounded",
+      "english": "Greater Angel",
+      "french": "Ange supérieur"
+    },
+    {
+      "id": "B020-S174",
+      "kind": "bounded",
+      "english": "Soldier of the Djinn",
+      "french": "Soldat du Djinn"
+    },
+    {
+      "id": "B020-S176",
+      "kind": "bounded",
+      "english": "Eye of Brambles",
+      "french": "Œil de ronces"
+    },
+    {
+      "id": "B020-S177",
+      "kind": "bounded",
+      "english": "Servant of the Djinn",
+      "french": "Serviteur du Djinn"
+    },
+    {
+      "id": "B020-S179",
+      "kind": "bounded",
+      "english": "Horned Beast",
+      "french": "Bête cornue"
+    },
+    {
+      "id": "B020-S180",
+      "kind": "bounded",
+      "english": "Djinn Moth",
+      "french": "Papillon du Djinn"
+    },
+    {
+      "id": "B020-S181",
+      "kind": "bounded",
+      "english": "Hell Imp",
+      "french": "Diablotin des Enfers"
+    },
+    {
+      "id": "B020-S183",
+      "kind": "bounded",
+      "english": "Dark Traveler",
+      "french": "Voyageur sombre"
+    },
+    {
+      "id": "B020-S185",
+      "kind": "bounded",
+      "english": "Narcisters",
+      "french": "Narcissœurs"
+    },
+    {
+      "id": "B020-S186",
+      "kind": "bounded",
+      "english": "Fowl Undead",
+      "french": "Volatile mort-vivant"
+    },
+    {
+      "id": "B020-S187",
+      "kind": "bounded",
+      "english": "Grudgin",
+      "french": "Rancunier"
+    },
+    {
+      "id": "B020-S188",
+      "kind": "bounded",
+      "english": "Resentin",
+      "french": "Ressentiment"
+    },
+    {
+      "id": "B020-S189",
+      "kind": "bounded",
+      "english": "Giant Sloth",
+      "french": "Paresseux géant"
+    },
+    {
+      "id": "B020-S190",
+      "kind": "bounded",
+      "english": "BIG Foot",
+      "french": "GRAND Pied"
+    },
+    {
+      "id": "B020-S191",
+      "kind": "bounded",
+      "english": "Darkling",
+      "french": "Ténébreux"
+    },
+    {
+      "id": "B020-S192",
+      "kind": "bounded",
+      "english": "Grinning Traitor",
+      "french": "Traître ricanant"
+    },
+    {
+      "id": "B020-S194",
+      "kind": "bounded",
+      "english": "Oratory Ogre",
+      "french": "Ogre orateur"
+    },
+    {
+      "id": "B020-S195",
+      "kind": "bounded",
+      "english": "Conniving Ksitigarbha",
+      "french": "Ksitigarbha fourbe"
+    },
+    {
+      "id": "B020-S196",
+      "kind": "bounded",
+      "english": "Dark Ambassador",
+      "french": "Ambassadeur sombre"
+    },
+    {
+      "id": "B020-S197",
+      "kind": "bounded",
+      "english": "Buzzy",
+      "french": "Bourdonnant"
+    },
+    {
+      "id": "B020-S198",
+      "kind": "bounded",
+      "english": "Puppet Puppeteer",
+      "french": "Marionnette marionnettiste"
+    },
+    {
+      "id": "B020-S199",
+      "kind": "bounded",
+      "english": "Vampire Lad",
+      "french": "Vampire juvénile"
+    },
+    {
+      "id": "B020-S200",
+      "kind": "bounded",
+      "english": "Veiled Necromancer",
+      "french": "Nécromancien voilé"
+    },
+    {
+      "id": "B020-S201",
+      "kind": "bounded",
+      "english": "Beelze, the Djinn",
+      "french": "Beelze, le Djinn"
+    },
+    {
+      "id": "B020-S202",
+      "kind": "bounded",
+      "english": "Ash, the Djinn",
+      "french": "Ash, le Djinn"
+    },
+    {
+      "id": "B020-S203",
+      "kind": "bounded",
+      "english": "Libeza, the Djinn",
+      "french": "Libeza, le Djinn"
+    },
+    {
+      "id": "B020-S204",
+      "kind": "bounded",
+      "english": "Dusa, the Djinn",
+      "french": "Dusa, le Djinn"
+    },
+    {
+      "id": "B020-S205",
+      "kind": "bounded",
+      "english": "Lucifel, the Djinn",
+      "french": "Lucifel, le Djinn"
+    },
+    {
+      "id": "B020-S206",
+      "kind": "bounded",
+      "english": "Coal Hermit",
+      "french": "Ermite du Charbon"
+    },
+    {
+      "id": "B020-S207",
+      "kind": "bounded",
+      "english": "Thunder Hermit",
+      "french": "Ermite du Tonnerre"
+    },
+    {
+      "id": "B020-S208",
+      "kind": "bounded",
+      "english": "Booming Hermit",
+      "french": "Ermite Tonitruant"
+    },
+    {
+      "id": "B020-S209",
+      "kind": "bounded",
+      "english": "Basara Hermit",
+      "french": "Ermite Basara"
+    },
+    {
+      "id": "B020-S212",
+      "kind": "bounded",
+      "english": "Doki, the Raging Ogre",
+      "french": "Doki, l’Ogre furieux"
+    },
+    {
+      "id": "B020-S213",
+      "kind": "bounded",
+      "english": "Akamaru, the Hellborn",
+      "french": "Akamaru, fils des Enfers"
+    },
+    {
+      "id": "B020-S224",
+      "kind": "bounded",
+      "english": "Swordsman of Darkness",
+      "french": "Sabreur des Ténèbres"
+    },
+    {
+      "id": "B020-S235",
+      "kind": "bounded",
+      "english": "Evil Left Eye",
+      "french": "Œil gauche maléfique"
+    },
+    {
+      "id": "B020-S236",
+      "kind": "bounded",
+      "english": "Evil Right Eye",
+      "french": "Œil droit maléfique"
+    },
+    {
+      "id": "B020-S237",
+      "kind": "bounded",
+      "english": "Goldsilver",
+      "french": "Orargent"
+    },
+    {
+      "id": "CRED-6D5000",
+      "kind": "credits",
+      "english": "Producer <1E> Lead Director",
+      "french": "Production <1E> Réalisation"
+    },
+    {
+      "id": "CRED-6D5033",
+      "kind": "credits",
+      "english": "Based on the original works of",
+      "french": "D’après les œuvres originales de"
+    },
+    {
+      "id": "CRED-6D506D",
+      "kind": "credits",
+      "english": "Planning and Supervision",
+      "french": "Conception et supervision"
+    },
+    {
+      "id": "CRED-6D50A0",
+      "kind": "credits",
+      "english": "Director",
+      "french": "Réalisation"
+    },
+    {
+      "id": "CRED-6D50EC",
+      "kind": "credits",
+      "english": "<17>D Team<18>",
+      "french": "<17>Équipe D<18>"
+    },
+    {
+      "id": "CRED-6D50FF",
+      "kind": "credits",
+      "english": "Artist",
+      "french": "Dessin"
+    },
+    {
+      "id": "CRED-6D5126",
+      "kind": "credits",
+      "english": "Art Director",
+      "french": "Direction artistique"
+    },
+    {
+      "id": "CRED-6D514F",
+      "kind": "credits",
+      "english": "Script Writer",
+      "french": "Scénario"
+    },
+    {
+      "id": "CRED-6D5177",
+      "kind": "credits",
+      "english": "Battle Planning",
+      "french": "Conception des combats"
+    },
+    {
+      "id": "CRED-6D51B2",
+      "kind": "credits",
+      "english": "Sub Event Planning",
+      "french": "Événements secondaires"
+    },
+    {
+      "id": "CRED-6D51E4",
+      "kind": "credits",
+      "english": "Music",
+      "french": "Musique"
+    },
+    {
+      "id": "CRED-6D520C",
+      "kind": "credits",
+      "english": "Background Composition",
+      "french": "Composition musicale"
+    },
+    {
+      "id": "CRED-6D523E",
+      "kind": "credits",
+      "english": "<17>Tenjin and Mizuki's Theme<18>",
+      "french": "<17>Thème de Tenjin et Mizuki<18>"
+    },
+    {
+      "id": "CRED-6D5268",
+      "kind": "credits",
+      "english": "Programming Unit",
+      "french": "Programmation"
+    },
+    {
+      "id": "CRED-6D529C",
+      "kind": "credits",
+      "english": "Assistant",
+      "french": "Assistance"
+    },
+    {
+      "id": "CRED-6D52C2",
+      "kind": "credits",
+      "english": "User Interface",
+      "french": "Interface"
+    },
+    {
+      "id": "CRED-6D52ED",
+      "kind": "credits",
+      "english": "Battles",
+      "french": "Combats"
+    },
+    {
+      "id": "CRED-6D5327",
+      "kind": "credits",
+      "english": "Robot Battle",
+      "french": "Combat de robots"
+    },
+    {
+      "id": "CRED-6D534E",
+      "kind": "credits",
+      "english": "Scenario",
+      "french": "Scénario"
+    },
+    {
+      "id": "CRED-6D53DA",
+      "kind": "credits",
+      "english": "Programming Coordinator",
+      "french": "Coordination du code"
+    },
+    {
+      "id": "CRED-6D5413",
+      "kind": "credits",
+      "english": "Graphics Unit",
+      "french": "Graphismes"
+    },
+    {
+      "id": "CRED-6D5425",
+      "kind": "credits",
+      "english": "Overworld Map",
+      "french": "Carte du monde"
+    },
+    {
+      "id": "CRED-6D547B",
+      "kind": "credits",
+      "english": "Dungeons",
+      "french": "Donjons"
+    },
+    {
+      "id": "CRED-6D551A",
+      "kind": "credits",
+      "english": "Interior Maps",
+      "french": "Cartes intérieures"
+    },
+    {
+      "id": "CRED-6D557C",
+      "kind": "credits",
+      "english": "Town Maps",
+      "french": "Cartes des villes"
+    },
+    {
+      "id": "CRED-6D5762",
+      "kind": "credits",
+      "english": "System",
+      "french": "Système"
+    },
+    {
+      "id": "CRED-6D5788",
+      "kind": "credits",
+      "english": "Original Art",
+      "french": "Dessins originaux"
+    },
+    {
+      "id": "CRED-6D57FA",
+      "kind": "credits",
+      "english": "Title Font",
+      "french": "Police du titre"
+    },
+    {
+      "id": "CRED-6D5816",
+      "kind": "credits",
+      "english": "Production Coordinators",
+      "french": "Coordination de production"
+    },
+    {
+      "id": "CRED-6D585B",
+      "kind": "credits",
+      "english": "Sound Unit",
+      "french": "Équipe sonore"
+    },
+    {
+      "id": "CRED-6D586A",
+      "kind": "credits",
+      "english": "Music Technical Director",
+      "french": "Direction musicale"
+    },
+    {
+      "id": "CRED-6D589D",
+      "kind": "credits",
+      "english": "Music Design",
+      "french": "Création musicale"
+    },
+    {
+      "id": "CRED-6D5902",
+      "kind": "credits",
+      "english": "Effects Design",
+      "french": "Effets sonores"
+    },
+    {
+      "id": "CRED-6D595B",
+      "kind": "credits",
+      "english": "System Program",
+      "french": "Code système"
+    },
+    {
+      "id": "CRED-6D59B0",
+      "kind": "credits",
+      "english": "Coordinator",
+      "french": "Coordination"
+    },
+    {
+      "id": "CRED-6D59D6",
+      "kind": "credits",
+      "english": "Karaoke Composer",
+      "french": "Composition du karaoké"
+    },
+    {
+      "id": "CRED-6D59FE",
+      "kind": "credits",
+      "english": "Engineering Support",
+      "french": "Assistance technique"
+    },
+    {
+      "id": "CRED-6D5A38",
+      "kind": "credits",
+      "english": "Technical Support",
+      "french": "Support technique"
+    },
+    {
+      "id": "CRED-6D5A4E",
+      "kind": "credits",
+      "english": "Programming",
+      "french": "Programmation"
+    },
+    {
+      "id": "CRED-6D5AA4",
+      "kind": "credits",
+      "english": "Scenario Tools",
+      "french": "Outils de scénario"
+    },
+    {
+      "id": "CRED-6D5B18",
+      "kind": "credits",
+      "english": "Development System",
+      "french": "Système de développement"
+    },
+    {
+      "id": "CRED-6D5B81",
+      "kind": "credits",
+      "english": "Compression System",
+      "french": "Système de compression"
+    },
+    {
+      "id": "CRED-6D5C29",
+      "kind": "credits",
+      "english": "Design Tools",
+      "french": "Outils de création"
+    },
+    {
+      "id": "CRED-6D5C87",
+      "kind": "credits",
+      "english": "Marketing Unit",
+      "french": "Service commercial"
+    },
+    {
+      "id": "CRED-6D5C9A",
+      "kind": "credits",
+      "english": "Marketing Producer",
+      "french": "Production commerciale"
+    },
+    {
+      "id": "CRED-6D5CC6",
+      "kind": "credits",
+      "english": "Marketing",
+      "french": "Commercial"
+    },
+    {
+      "id": "CRED-6D5D26",
+      "kind": "credits",
+      "english": "Specialist",
+      "french": "Spécialiste"
+    },
+    {
+      "id": "CRED-6D5D51",
+      "kind": "credits",
+      "english": "Production Unit",
+      "french": "Équipe de production"
+    },
+    {
+      "id": "CRED-6D5D8E",
+      "kind": "credits",
+      "english": "Producers",
+      "french": "Production"
+    },
+    {
+      "id": "CRED-6D5E46",
+      "kind": "credits",
+      "english": "<17>In Order<18>",
+      "french": "<17>Dans l’ordre<18>"
+    },
+    {
+      "id": "CRED-6D5E5F",
+      "kind": "credits",
+      "english": "Special Thanks",
+      "french": "Remerciements"
+    },
+    {
+      "id": "CRED-6D5FA8",
+      "kind": "credits",
+      "english": "Everyone at Hudson",
+      "french": "Tout le personnel de Hudson"
+    },
+    {
+      "id": "CRED-6D5FC6",
+      "kind": "credits",
+      "english": "Cast Members",
+      "french": "Personnages"
+    },
+    {
+      "id": "CRED-6D5FD9",
+      "kind": "credits",
+      "english": "Higan <17>Fire Eyes<18>",
+      "french": "Higan <17>Yeux de Feu<18>"
+    },
+    {
+      "id": "CRED-6D5FF0",
+      "kind": "credits",
+      "english": "Subaru <17>Pleiades<18>",
+      "french": "Subaru <17>Pléiades<18>"
+    },
+    {
+      "id": "CRED-6D6006",
+      "kind": "credits",
+      "english": "Tenjin <17>Sky God<18>",
+      "french": "Tenjin <17>Dieu du Ciel<18>"
+    },
+    {
+      "id": "CRED-6D601B",
+      "kind": "credits",
+      "english": "Mizuki <17>Water Dear<18>",
+      "french": "Mizuki <17>Chère à l’Eau<18>"
+    },
+    {
+      "id": "CRED-6D6045",
+      "kind": "credits",
+      "english": "Genkotsu <17>Fist<18>",
+      "french": "Genkotsu <17>Poing<18>"
+    },
+    {
+      "id": "CRED-6D605A",
+      "kind": "credits",
+      "english": "Binta <17>Slap<18>",
+      "french": "Binta <17>Gifle<18>"
+    },
+    {
+      "id": "CRED-6D606C",
+      "kind": "credits",
+      "english": "Zettai Reido <17>Absolute Zero<18>",
+      "french": "Zettai Reido <17>Zéro absolu<18>"
+    },
+    {
+      "id": "CRED-6D608F",
+      "kind": "credits",
+      "english": "Akamaru <17>Red Circle<18>",
+      "french": "Akamaru <17>Cercle rouge<18>"
+    },
+    {
+      "id": "CRED-6D60A8",
+      "kind": "credits",
+      "english": "Aomaru <17>Blue Circle<18>",
+      "french": "Aomaru <17>Cercle bleu<18>"
+    },
+    {
+      "id": "CRED-6D60C4",
+      "kind": "credits",
+      "english": "Kimaru <17>Yellow Circle<18>",
+      "french": "Kimaru <17>Cercle jaune<18>"
+    },
+    {
+      "id": "CRED-6D60DF",
+      "kind": "credits",
+      "english": "Sara <17>Sand Silk<18>",
+      "french": "Sara <17>Soie des sables<18>"
+    },
+    {
+      "id": "CRED-6D60F5",
+      "kind": "credits",
+      "english": "Juri <17>Tree Span<18>",
+      "french": "Juri <17>Envergure de l’arbre<18>"
+    },
+    {
+      "id": "CRED-6D610A",
+      "kind": "credits",
+      "english": "Kingin <17>Gold Silver<18>",
+      "french": "Kingin <17>Or Argent<18>"
+    },
+    {
+      "id": "CRED-6D6124",
+      "kind": "credits",
+      "english": "Doki <17>Raging Ogre<18>",
+      "french": "Doki <17>Ogre furieux<18>"
+    },
+    {
+      "id": "CRED-6D613D",
+      "kind": "credits",
+      "english": "Atrementous Alabaster <17>Black White<18>",
+      "french": "Atrementous Alabaster <17>Noir Blanc<18>"
+    },
+    {
+      "id": "CRED-6D6167",
+      "kind": "credits",
+      "english": "Gaen <17>Smoldering Bed<18>",
+      "french": "Gaen <17>Lit de braises<18>"
+    },
+    {
+      "id": "CRED-6D6182",
+      "kind": "credits",
+      "english": "Suima <17>Sleep Demon<18>",
+      "french": "Suima <17>Démon du sommeil<18>"
+    },
+    {
+      "id": "CRED-6D619A",
+      "kind": "credits",
+      "english": "Mugen <17>The Infinite<18>",
+      "french": "Mugen <17>L’Infini<18>"
+    },
+    {
+      "id": "CRED-6D61B6",
+      "kind": "credits",
+      "english": "The Divine Fire Bear",
+      "french": "L’Ours de Feu divin"
+    },
+    {
+      "id": "CRED-6D61D0",
+      "kind": "credits",
+      "english": "The Divine Peacock",
+      "french": "Le Paon divin"
+    },
+    {
+      "id": "CRED-6D61E7",
+      "kind": "credits",
+      "english": "The Divine Crane",
+      "french": "La Grue divine"
+    },
+    {
+      "id": "CRED-6D61FC",
+      "kind": "credits",
+      "english": "The Divine Turtle",
+      "french": "La Tortue divine"
+    },
+    {
+      "id": "CRED-6D6213",
+      "kind": "credits",
+      "english": "The Divine Canine God",
+      "french": "Le Chien divin"
+    },
+    {
+      "id": "CRED-6D622E",
+      "kind": "credits",
+      "english": "The Divine Dragon",
+      "french": "Le Dragon divin"
+    },
+    {
+      "id": "CRED-6D6259",
+      "kind": "credits",
+      "english": "Wind Hermit",
+      "french": "Ermite du Vent"
+    },
+    {
+      "id": "CRED-6D6269",
+      "kind": "credits",
+      "english": "Gush Hermit",
+      "french": "Ermite du Jet"
+    },
+    {
+      "id": "CRED-6D6279",
+      "kind": "credits",
+      "english": "Sight Hermit",
+      "french": "Ermite de la Vue"
+    },
+    {
+      "id": "CRED-6D629D",
+      "kind": "credits",
+      "english": "Nude Hermit",
+      "french": "Ermite Nu"
+    },
+    {
+      "id": "CRED-6D62B9",
+      "kind": "credits",
+      "english": "Okie-Dokie Hermit",
+      "french": "Ermite Ça-Roule"
+    },
+    {
+      "id": "CRED-6D62D3",
+      "kind": "credits",
+      "english": "Water Hermit",
+      "french": "Ermite de l’Eau"
+    },
+    {
+      "id": "CRED-6D62EB",
+      "kind": "credits",
+      "english": "Jolt Hermit",
+      "french": "Ermite Foudre"
+    },
+    {
+      "id": "CRED-6D62FB",
+      "kind": "credits",
+      "english": "Buddhist Hermit",
+      "french": "Ermite bouddhiste"
+    },
+    {
+      "id": "CRED-6D630F",
+      "kind": "credits",
+      "english": "Peppy Hermit",
+      "french": "Ermite Pétillant"
+    },
+    {
+      "id": "CRED-6D6320",
+      "kind": "credits",
+      "english": "Binan Hermit",
+      "french": "Ermite Binan"
+    },
+    {
+      "id": "CRED-6D6331",
+      "kind": "credits",
+      "english": "Karen Hermit",
+      "french": "Ermite Karen"
+    },
+    {
+      "id": "CRED-6D6342",
+      "kind": "credits",
+      "english": "Stubborn Hermit",
+      "french": "Ermite Têtu"
+    },
+    {
+      "id": "CRED-6D6356",
+      "kind": "credits",
+      "english": "Bucking Hermit",
+      "french": "Ermite Cabreur"
+    },
+    {
+      "id": "CRED-6D636D",
+      "kind": "credits",
+      "english": "Witch Hermit",
+      "french": "Ermite Sorcière"
+    },
+    {
+      "id": "CRED-6D63A6",
+      "kind": "credits",
+      "english": "Bolt Hermit",
+      "french": "Ermite Éclair"
+    },
+    {
+      "id": "CRED-6D63B6",
+      "kind": "credits",
+      "english": "Pig Hermit",
+      "french": "Ermite Cochon"
+    },
+    {
+      "id": "CRED-6D63C5",
+      "kind": "credits",
+      "english": "Swift Hermit",
+      "french": "Ermite Rapide"
+    },
+    {
+      "id": "CRED-6D63D6",
+      "kind": "credits",
+      "english": "Current Hermit",
+      "french": "Ermite Courant"
+    },
+    {
+      "id": "CRED-6D63E9",
+      "kind": "credits",
+      "english": "Badge Hermit",
+      "french": "Ermite des Insignes"
+    },
+    {
+      "id": "CRED-6D63FA",
+      "kind": "credits",
+      "english": "Poor Hermit",
+      "french": "Ermite Pauvre"
+    },
+    {
+      "id": "CRED-6D6418",
+      "kind": "credits",
+      "english": "Kamikaze Hermit",
+      "french": "Ermite Kamikaze"
+    },
+    {
+      "id": "CRED-6D6430",
+      "kind": "credits",
+      "english": "Taking Hermit",
+      "french": "Ermite de la Victoire"
+    },
+    {
+      "id": "CRED-6D6442",
+      "kind": "credits",
+      "english": "Frail Hermit",
+      "french": "Ermite Frêle"
+    },
+    {
+      "id": "CRED-6D6453",
+      "kind": "credits",
+      "english": "Batty Hermit",
+      "french": "Ermite Loufoque"
+    },
+    {
+      "id": "CRED-6D6464",
+      "kind": "credits",
+      "english": "Dozing Hermit",
+      "french": "Ermite Assoupi"
+    },
+    {
+      "id": "CRED-6D6476",
+      "kind": "credits",
+      "english": "Sennin Hermit",
+      "french": "Ermite Sennin"
+    },
+    {
+      "id": "CRED-6D649A",
+      "kind": "credits",
+      "english": "One-Shot Hermit",
+      "french": "Ermite du Coup unique"
+    },
+    {
+      "id": "CRED-6D64B0",
+      "kind": "credits",
+      "english": "Flame Hermit",
+      "french": "Ermite de la Flamme"
+    },
+    {
+      "id": "CRED-6D64C2",
+      "kind": "credits",
+      "english": "Sprightly Hermit",
+      "french": "Ermite Alerte"
+    },
+    {
+      "id": "CRED-6D64D7",
+      "kind": "credits",
+      "english": "Takamagahara Hermit",
+      "french": "Ermite de Takamagahara"
+    },
+    {
+      "id": "CRED-6D651D",
+      "kind": "credits",
+      "english": "Byakuen <17>Gramps<18>",
+      "french": "Byakuen <17>Papi<18>"
+    },
+    {
+      "id": "CRED-6D656B",
+      "kind": "credits",
+      "english": "Omine the Gracious",
+      "french": "Omine au grand cœur"
+    },
+    {
+      "id": "CRED-6D6592",
+      "kind": "credits",
+      "english": "Gen <17>the carpenter<18>",
+      "french": "Gen <17>le charpentier<18>"
+    },
+    {
+      "id": "CRED-6D65AA",
+      "kind": "credits",
+      "english": "Mankichi <17>the great treasure hunter<18>",
+      "french": "Mankichi <17>grand chasseur de trésors<18>"
+    },
+    {
+      "id": "CRED-6D65D3",
+      "kind": "credits",
+      "english": "Rokusuke <17>of the Great Weapon Shop<18>",
+      "french": "Rokusuke <17>de la grande armurerie<18>"
+    },
+    {
+      "id": "CRED-6D65FB",
+      "kind": "credits",
+      "english": "The Rat Man",
+      "french": "L’Homme-rat"
+    },
+    {
+      "id": "CRED-6D6643",
+      "kind": "credits",
+      "english": "Production and Script",
+      "french": "Production et scénario"
+    },
+    {
+      "id": "UI-6F0E00",
+      "kind": "graphics",
+      "english": "Scrolls",
+      "french": "Parch."
+    },
+    {
+      "id": "UI-6F0E40",
+      "kind": "graphics",
+      "english": "Strategy",
+      "french": "Stratégie"
+    },
+    {
+      "id": "UI-6F0E90",
+      "kind": "graphics",
+      "english": "Inventory",
+      "french": "Inventaire"
+    },
+    {
+      "id": "UI-6F0EF0",
+      "kind": "graphics",
+      "english": "Settings",
+      "french": "Réglages"
+    },
+    {
+      "id": "UI-6F0F40",
+      "kind": "graphics",
+      "english": "Equipment",
+      "french": "Équip."
+    },
+    {
+      "id": "UI-6F0F90",
+      "kind": "graphics",
+      "english": "Almanac",
+      "french": "Almanach"
+    },
+    {
+      "id": "UI-6F0FF0",
+      "kind": "graphics",
+      "english": "Status",
+      "french": "État"
+    },
+    {
+      "id": "UI-6F1040",
+      "kind": "graphics",
+      "english": "Clock",
+      "french": "Horl."
+    },
+    {
+      "id": "UI-6F1070",
+      "kind": "graphics",
+      "english": "Present Time",
+      "french": "Date/heure"
+    },
+    {
+      "id": "UI-6F10E0",
+      "kind": "graphics",
+      "english": "Playtime",
+      "french": "Tps jeu"
+    },
+    {
+      "id": "UI-6F1130",
+      "kind": "graphics",
+      "english": "Cash on Hand",
+      "french": "Argent"
+    },
+    {
+      "id": "UI-6F11A0",
+      "kind": "graphics",
+      "english": "Rank",
+      "french": "Rang"
+    },
+    {
+      "id": "UI-6F11D0",
+      "kind": "graphics",
+      "english": "Health",
+      "french": "Vie"
+    },
+    {
+      "id": "UI-6F2200",
+      "kind": "graphics",
+      "english": "Use",
+      "french": "Util."
+    },
+    {
+      "id": "UI-6F2220",
+      "kind": "graphics",
+      "english": "Change",
+      "french": "Modif."
+    },
+    {
+      "id": "UI-6F1800",
+      "kind": "graphics",
+      "english": "Fast",
+      "french": "Vite"
+    },
+    {
+      "id": "UI-6F1830",
+      "kind": "graphics",
+      "english": "Slow",
+      "french": "Lent"
+    },
+    {
+      "id": "UI-6F1860",
+      "kind": "graphics",
+      "english": "Message Speed",
+      "french": "Vitesse texte"
+    },
+    {
+      "id": "UI-6F18E0",
+      "kind": "graphics",
+      "english": "Battle Message Feed",
+      "french": "Texte de combat"
+    },
+    {
+      "id": "UI-6F1990",
+      "kind": "graphics",
+      "english": "Walking Speed",
+      "french": "Vitesse pas"
+    },
+    {
+      "id": "UI-6F1A80",
+      "kind": "graphics",
+      "english": "Stereo",
+      "french": "Stéréo"
+    },
+    {
+      "id": "UI-6F1AF0",
+      "kind": "graphics",
+      "english": "Cursor Memory",
+      "french": "Curseur mém."
+    },
+    {
+      "id": "UI-6F1B70",
+      "kind": "graphics",
+      "english": "On",
+      "french": "Oui"
+    },
+    {
+      "id": "UI-6F1B90",
+      "kind": "graphics",
+      "english": "Off",
+      "french": "Non"
+    },
+    {
+      "id": "UI-6F1BB0",
+      "kind": "graphics",
+      "english": "Wallpaper",
+      "french": "Fond"
+    },
+    {
+      "id": "UI-6F1C00",
+      "kind": "graphics",
+      "english": "Frame Shape",
+      "french": "Forme cadre"
+    },
+    {
+      "id": "UI-6F1C70",
+      "kind": "graphics",
+      "english": "Frame Color",
+      "french": "Coul. cadre"
+    },
+    {
+      "id": "UI-6F3260",
+      "kind": "graphics",
+      "english": "Sort",
+      "french": "Trier"
+    },
+    {
+      "id": "UI-6F3290",
+      "kind": "graphics",
+      "english": "Replace",
+      "french": "Rempl."
+    },
+    {
+      "id": "UI-6F32D0",
+      "kind": "graphics",
+      "english": "Discard",
+      "french": "Jeter"
+    },
+    {
+      "id": "UI-6F31B0",
+      "kind": "graphics",
+      "english": "Bookmark",
+      "french": "Signet"
+    },
+    {
+      "id": "UI-6F33E0",
+      "kind": "graphics",
+      "english": "Weapons",
+      "french": "Armes"
+    },
+    {
+      "id": "UI-6F3700",
+      "kind": "graphics",
+      "english": "Attack",
+      "french": "Attaq."
+    },
+    {
+      "id": "UI-6F3740",
+      "kind": "graphics",
+      "english": "Defense",
+      "french": "Défense"
+    },
+    {
+      "id": "UI-6F3790",
+      "kind": "graphics",
+      "english": "Speed",
+      "french": "Vitesse"
+    },
+    {
+      "id": "UI-6F37D0",
+      "kind": "graphics",
+      "english": "Luck",
+      "french": "Chan."
+    },
+    {
+      "id": "UI-6F3800",
+      "kind": "graphics",
+      "english": "Virtue",
+      "french": "Vertu"
+    },
+    {
+      "id": "UI-6F3980",
+      "kind": "graphics",
+      "english": "Cool enough.",
+      "french": "Assez cool."
+    },
+    {
+      "id": "UI-6F4360",
+      "kind": "graphics",
+      "english": "Auto-Equip",
+      "french": "Équip. auto"
+    },
+    {
+      "id": "UI-6F43C0",
+      "kind": "graphics",
+      "english": "Remove",
+      "french": "Retirer"
+    },
+    {
+      "id": "UI-6F4400",
+      "kind": "graphics",
+      "english": "No equipment",
+      "french": "Sans équip."
+    },
+    {
+      "id": "UI-6F4470",
+      "kind": "graphics",
+      "english": "Return",
+      "french": "Retour"
+    },
+    {
+      "id": "UI-6F44B0",
+      "kind": "graphics",
+      "english": "Coolness",
+      "french": "Style"
+    },
+    {
+      "id": "UI-6F4540",
+      "kind": "graphics",
+      "english": "Armor",
+      "french": "Armure"
+    },
+    {
+      "id": "UI-6F4580",
+      "kind": "graphics",
+      "english": "Accessory",
+      "french": "Accessoire"
+    },
+    {
+      "id": "UI-6F3900",
+      "kind": "graphics",
+      "english": "Sorely lacking...",
+      "french": "Style faible..."
+    },
+    {
+      "id": "UI-6F39F0",
+      "kind": "graphics",
+      "english": "Pretty cool!",
+      "french": "Très cool !"
+    },
+    {
+      "id": "UI-6F3A60",
+      "kind": "graphics",
+      "english": "Awfully cool!",
+      "french": "Super cool !"
+    },
+    {
+      "id": "UI-6F3AD0",
+      "kind": "graphics",
+      "english": "Rockin’ the coolness!",
+      "french": "Au sommet du cool !"
+    },
+    {
+      "id": "UI-6F33B0",
+      "kind": "graphics",
+      "english": "Items",
+      "french": "Obj."
+    },
+    {
+      "id": "UI-6F3340",
+      "kind": "graphics",
+      "english": "How many?",
+      "french": "Combien ?"
+    },
+    {
+      "id": "NUI-00E703",
+      "kind": "native_ui",
+      "english": "Manual",
+      "french": "Manuel"
+    },
+    {
+      "id": "NUI-00E70A",
+      "kind": "native_ui",
+      "english": "Defend",
+      "french": "Garder"
+    },
+    {
+      "id": "NUI-00EFA1",
+      "kind": "native_ui",
+      "english": "Secret Skills",
+      "french": "Arts secrets"
+    },
+    {
+      "id": "NUI-CLOCK-HELP",
+      "kind": "native_ui",
+      "english": "If you press the Start Button, you can adjust the clock to the nearest minute.",
+      "french": "Appuie sur Start pour régler l’horloge sur la minute la plus proche."
+    }
+  ],
+  "excluded": [
+    {
+      "id": "CRED-6D519F",
+      "canonical": "CRED-6D50EC",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D55DB",
+      "canonical": "CRED-6D52ED",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D5D65",
+      "canonical": "CRED-6D59B0",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D6248",
+      "canonical": "B020-S206",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D628A",
+      "canonical": "B020-S207",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D638D",
+      "canonical": "B020-S208",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D6488",
+      "canonical": "B020-S209",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "CRED-6D64F2",
+      "canonical": "B016-S013",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F2260",
+      "canonical": "B041-S142",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F1A50",
+      "canonical": "CRED-6D51E4",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F3240",
+      "canonical": "UI-6F2200",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F36D0",
+      "canonical": "UI-6F11A0",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F4300",
+      "canonical": "UI-6F0F40",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F4200",
+      "canonical": "UI-6F3700",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F4240",
+      "canonical": "UI-6F3740",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F4290",
+      "canonical": "UI-6F3790",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F42D0",
+      "canonical": "UI-6F37D0",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F4500",
+      "canonical": "UI-6F33E0",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "UI-6F3840",
+      "reason": "shared graphical fragment/variant"
+    },
+    {
+      "id": "UI-6F3890",
+      "reason": "shared graphical fragment/variant"
+    },
+    {
+      "id": "UI-6F3830",
+      "reason": "shared graphical fragment/variant"
+    },
+    {
+      "id": "NUI-00E6FC",
+      "canonical": "UI-6F3700",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "NUI-00EF92",
+      "canonical": "UI-6F0F40",
+      "reason": "shared/repeated/already French source"
+    },
+    {
+      "id": "NUI-0362C0",
+      "canonical": "UI-6F0EF0",
+      "reason": "shared/repeated/already French source"
+    }
+  ],
+  "status": "draft; tests/review pending",
+  "normalization": "case, whitespace, commands, variables, curly apostrophe; additional weapon plural/shared UI fragments explicitly excluded",
+  "debug_padding": false
+}

@@ -1,0 +1,128 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "passed": 24,
+  "clear_columns": 27,
+  "scope": "Actual cleanup/wrapper execution until font entry; no DMA/PPU emulation. Runtime credits proof separate.",
+  "cases": [
+    {
+      "base": "0x4000",
+      "pending_pixels": 0,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 1,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 2,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 3,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 4,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 5,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 6,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4000",
+      "pending_pixels": 7,
+      "snapshot": "0x4010"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 0,
+      "snapshot": "0x4810"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 1,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 2,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 3,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 4,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 5,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 6,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4810",
+      "pending_pixels": 7,
+      "snapshot": "0x4820"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 0,
+      "snapshot": "0x4ff0"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 1,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 2,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 3,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 4,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 5,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 6,
+      "snapshot": "0x4000"
+    },
+    {
+      "base": "0x4ff0",
+      "pending_pixels": 7,
+      "snapshot": "0x4000"
+    }
+  ]
+}

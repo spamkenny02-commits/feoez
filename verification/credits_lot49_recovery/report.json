@@ -1,0 +1,1775 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "matched_native_pixel_occurrences": 122,
+  "total_translated_occurrences": 122,
+  "missing": [],
+  "sheets": [
+    {
+      "file": "credits_000.png",
+      "sha256": "c51d79292910911a0852b9ba54e4061684d6603682af313f43e5c432a4e1c4b9",
+      "occurrences": [
+        {
+          "id": "CRED-6D5000",
+          "text": "Production <1E> Réalisation",
+          "image": "credits_000.png",
+          "capture_sha256": "1b587fd013bd034d911677129965b40bf7257732a3a59181fe8d265aecfef473",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            0,
+            18,
+            512,
+            50
+          ]
+        },
+        {
+          "id": "CRED-6D5033",
+          "text": "D’après les œuvres originales de",
+          "image": "credits_002.png",
+          "capture_sha256": "ccf198a526287c4128199d04b5b28a3b18b1546f7d46eef6b24bd0709030c0bf",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            512,
+            18,
+            1024,
+            54
+          ]
+        },
+        {
+          "id": "CRED-6D506D",
+          "text": "Conception et supervision",
+          "image": "credits_004.png",
+          "capture_sha256": "7741aa88ba5bc15438aae7e89bd6f9f8dd116a6419e0dd28c4fa038585fa3ee1",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            0,
+            98,
+            512,
+            130
+          ]
+        },
+        {
+          "id": "CRED-6D50A0",
+          "text": "Réalisation",
+          "image": "credits_007.png",
+          "capture_sha256": "55877efcaf4e3c5257853a8749a2c38de841a6850fd5417df34dafd2a88fa79e",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            512,
+            98,
+            1024,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D50EC",
+          "text": "<17>Équipe D<18>",
+          "image": "credits_009.png",
+          "capture_sha256": "384eb4f9135a98850eab662300469b37ea9dba0503e10b925d8b34e3f205015f",
+          "y0": 204,
+          "y1": 223,
+          "bbox": [
+            0,
+            178,
+            512,
+            216
+          ]
+        },
+        {
+          "id": "CRED-6D50FF",
+          "text": "Dessin",
+          "image": "credits_011.png",
+          "capture_sha256": "c04cc2e68b2e979bf2fd7220a75647d757d5b43f7e61272b02d0090018f9cdfa",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            178,
+            1024,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D5126",
+          "text": "Direction artistique",
+          "image": "credits_014.png",
+          "capture_sha256": "f5af25aa2ca86c85f6b86e1a9bb944e34270957e5d3ed054d74ba64a3cc2daa1",
+          "y0": 143,
+          "y1": 159,
+          "bbox": [
+            0,
+            258,
+            512,
+            290
+          ]
+        },
+        {
+          "id": "CRED-6D514F",
+          "text": "Scénario",
+          "image": "credits_016.png",
+          "capture_sha256": "ab0490d85f19ed0aa76ebaa6e7a695463217ec0eaff1ea60588a7e86899dbb7b",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            258,
+            1024,
+            288
+          ]
+        },
+        {
+          "id": "CRED-6D5177",
+          "text": "Conception des combats",
+          "image": "credits_018.png",
+          "capture_sha256": "0b38894bab6e42c16fcab21503bd86c6ab4427f9657e007442eed96fedc7b7d4",
+          "y0": 175,
+          "y1": 191,
+          "bbox": [
+            0,
+            338,
+            512,
+            370
+          ]
+        },
+        {
+          "id": "CRED-6D519F",
+          "text": "<17>Équipe D<18>",
+          "image": "credits_009.png",
+          "capture_sha256": "384eb4f9135a98850eab662300469b37ea9dba0503e10b925d8b34e3f205015f",
+          "y0": 204,
+          "y1": 223,
+          "bbox": [
+            512,
+            338,
+            1024,
+            376
+          ]
+        },
+        {
+          "id": "CRED-6D51B2",
+          "text": "Événements secondaires",
+          "image": "credits_021.png",
+          "capture_sha256": "380fe8adca7844eee1d6d2ed17c94d1ae3ffd9802142fe5758ff5cf77f0b81aa",
+          "y0": 140,
+          "y1": 158,
+          "bbox": [
+            0,
+            418,
+            512,
+            454
+          ]
+        },
+        {
+          "id": "CRED-6D51E4",
+          "text": "Musique",
+          "image": "credits_023.png",
+          "capture_sha256": "60645b83d4707089e37bde42dde4f47f7c2e8fac32ecf39123ff9e538985674c",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            512,
+            418,
+            1024,
+            450
+          ]
+        },
+        {
+          "id": "CRED-6D520C",
+          "text": "Composition musicale",
+          "image": "credits_025.png",
+          "capture_sha256": "5aee6bc4f7ad8bb8c189792904187aa1de010abeff9b594e0b23ccccc02493c2",
+          "y0": 175,
+          "y1": 191,
+          "bbox": [
+            0,
+            498,
+            512,
+            530
+          ]
+        },
+        {
+          "id": "CRED-6D523E",
+          "text": "<17>Thème de Tenjin et Mizuki<18>",
+          "image": "credits_026.png",
+          "capture_sha256": "21d8633487e034e0256021b08af305f3dba4823b6002272e654f3742a1908b1e",
+          "y0": 159,
+          "y1": 177,
+          "bbox": [
+            512,
+            498,
+            1024,
+            534
+          ]
+        },
+        {
+          "id": "CRED-6D5268",
+          "text": "Programmation",
+          "image": "credits_029.png",
+          "capture_sha256": "70deee35a5393d5100a31649ffea7f56c96e5c00e40a4a274b769adaefa200ae",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            0,
+            578,
+            512,
+            614
+          ]
+        },
+        {
+          "id": "CRED-6D529C",
+          "text": "Assistance",
+          "image": "credits_030.png",
+          "capture_sha256": "7bf5f2af8852bc36b3896d0a1bad462ea0681c2493377a9cca00a3775fb30ed7",
+          "y0": 207,
+          "y1": 224,
+          "bbox": [
+            512,
+            578,
+            1024,
+            612
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_001.png",
+      "sha256": "bb499761e37b74a6764b08a8731bf0c38ea5cb344cc3f6e4b2077912ffb570fe",
+      "occurrences": [
+        {
+          "id": "CRED-6D52C2",
+          "text": "Interface",
+          "image": "credits_032.png",
+          "capture_sha256": "0f64cc34e8a448032a13c3a952b4d3f624f17f50a3e78c54435d2906ec93e24b",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            18,
+            512,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D52ED",
+          "text": "Combats",
+          "image": "credits_033.png",
+          "capture_sha256": "9d6035b11cb244a8baee3b94f79918ba0282b6727b4f895345a46366f7badfa0",
+          "y0": 207,
+          "y1": 222,
+          "bbox": [
+            512,
+            18,
+            1024,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D5327",
+          "text": "Combat de robots",
+          "image": "credits_036.png",
+          "capture_sha256": "ee107606b694a4a99c1ff1787fb77a1869575c3f862fcf00a80d1130a061c6f8",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            98,
+            512,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D534E",
+          "text": "Scénario",
+          "image": "credits_016.png",
+          "capture_sha256": "ab0490d85f19ed0aa76ebaa6e7a695463217ec0eaff1ea60588a7e86899dbb7b",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            98,
+            1024,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D53DA",
+          "text": "Coordination du code",
+          "image": "credits_041.png",
+          "capture_sha256": "3341e67d4abb463288e757e025ea5fa2378e7e450641cfae46927457a780fe26",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            178,
+            512,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D5413",
+          "text": "Graphismes",
+          "image": "credits_044.png",
+          "capture_sha256": "83ddf1313c02ab6bc80d7a1bfc19b0fe177f66f943c0534d0c9aa6ffe93b17cc",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            512,
+            178,
+            1024,
+            210
+          ]
+        },
+        {
+          "id": "CRED-6D5425",
+          "text": "Carte du monde",
+          "image": "credits_045.png",
+          "capture_sha256": "e1fe4f3814124838135e5a69b99ae113d236a000cf83d39207e27ecd3b3df661",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            0,
+            258,
+            512,
+            288
+          ]
+        },
+        {
+          "id": "CRED-6D547B",
+          "text": "Donjons",
+          "image": "credits_047.png",
+          "capture_sha256": "b9bc768e50ce6ec95fd48e782b6134679e14314cc5582501c2dbd34e2fbafd6e",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            512,
+            258,
+            1024,
+            294
+          ]
+        },
+        {
+          "id": "CRED-6D551A",
+          "text": "Cartes intérieures",
+          "image": "credits_050.png",
+          "capture_sha256": "428cc601055e9fe2aa6639339590031c7369bb63dc569c4b7f108474cbc435b5",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            0,
+            338,
+            512,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D557C",
+          "text": "Cartes des villes",
+          "image": "credits_053.png",
+          "capture_sha256": "bcc6f64a62020e5ce718882fede078e619fa9451c2996c47b2c82c427c808df6",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            338,
+            1024,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D55DB",
+          "text": "Combats",
+          "image": "credits_033.png",
+          "capture_sha256": "9d6035b11cb244a8baee3b94f79918ba0282b6727b4f895345a46366f7badfa0",
+          "y0": 207,
+          "y1": 222,
+          "bbox": [
+            0,
+            418,
+            512,
+            448
+          ]
+        },
+        {
+          "id": "CRED-6D5762",
+          "text": "Système",
+          "image": "credits_063.png",
+          "capture_sha256": "8be24f287e5f984b7328952e28a5a85d5428229ed88a5de0cc52f848d8ce1523",
+          "y0": 159,
+          "y1": 176,
+          "bbox": [
+            512,
+            418,
+            1024,
+            452
+          ]
+        },
+        {
+          "id": "CRED-6D5788",
+          "text": "Dessins originaux",
+          "image": "credits_064.png",
+          "capture_sha256": "becd671e398cac1241b5de4fef601a5165932e4e007304e3e371ae2c0d2ccbd0",
+          "y0": 191,
+          "y1": 209,
+          "bbox": [
+            0,
+            498,
+            512,
+            534
+          ]
+        },
+        {
+          "id": "CRED-6D57FA",
+          "text": "Police du titre",
+          "image": "credits_067.png",
+          "capture_sha256": "1b8a860d927324ceb86f2fc72ea75790074a40d8ef4f6a39536231aee4eeae0b",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            512,
+            498,
+            1024,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D5816",
+          "text": "Coordination de production",
+          "image": "credits_068.png",
+          "capture_sha256": "e5b5d3ca2fbfb99b8e0d84de7117c448a0a4164f1824edf79cf97734ac8af0eb",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            0,
+            578,
+            512,
+            610
+          ]
+        },
+        {
+          "id": "CRED-6D585B",
+          "text": "Équipe sonore",
+          "image": "credits_072.png",
+          "capture_sha256": "36525542a000ca8d112009e72ace625f909e028a5b52d7bd7b6c234c16847c06",
+          "y0": 156,
+          "y1": 175,
+          "bbox": [
+            512,
+            578,
+            1024,
+            616
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_002.png",
+      "sha256": "e53b5606784ecb6c8e6b4ebcc28b5e3581a31249403ccddaddfa9a8cbcb38e25",
+      "occurrences": [
+        {
+          "id": "CRED-6D586A",
+          "text": "Direction musicale",
+          "image": "credits_072.png",
+          "capture_sha256": "36525542a000ca8d112009e72ace625f909e028a5b52d7bd7b6c234c16847c06",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            0,
+            18,
+            512,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D589D",
+          "text": "Création musicale",
+          "image": "credits_074.png",
+          "capture_sha256": "d6e1b21f88dcf8971e275c59b754e5b44918e3baf4428720b4dcea7d870550cb",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            18,
+            1024,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D5902",
+          "text": "Effets sonores",
+          "image": "credits_076.png",
+          "capture_sha256": "8e89f5738995b3938681eee48fe8fb5d3546f3349ce7ff269b30fb30bbe7382e",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            98,
+            512,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D595B",
+          "text": "Code système",
+          "image": "credits_078.png",
+          "capture_sha256": "fe77545570f1beef4cf2d3819c0a1307a56e3ade16b8a735738537162107db33",
+          "y0": 175,
+          "y1": 192,
+          "bbox": [
+            512,
+            98,
+            1024,
+            132
+          ]
+        },
+        {
+          "id": "CRED-6D59B0",
+          "text": "Coordination",
+          "image": "credits_080.png",
+          "capture_sha256": "fb1d405007009d338dd2b4098a6568cf860a8674a692f60f8569cc13c89539e3",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            178,
+            512,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D59D6",
+          "text": "Composition du karaoké",
+          "image": "credits_082.png",
+          "capture_sha256": "c5266c6e912ecfcea1f66edc097b4d7be069bd856871ffca5788be8e61a483ee",
+          "y0": 143,
+          "y1": 159,
+          "bbox": [
+            512,
+            178,
+            1024,
+            210
+          ]
+        },
+        {
+          "id": "CRED-6D59FE",
+          "text": "Assistance technique",
+          "image": "credits_083.png",
+          "capture_sha256": "509ccf9a920b9780c88f157fdd43c926bc4755f8f2c88da0235abaac7e048443",
+          "y0": 175,
+          "y1": 192,
+          "bbox": [
+            0,
+            258,
+            512,
+            292
+          ]
+        },
+        {
+          "id": "CRED-6D5A38",
+          "text": "Support technique",
+          "image": "credits_086.png",
+          "capture_sha256": "775b0c2c3c739ae8f68d2c129786cd7e7e6240281c608c61b452b4896355b994",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            512,
+            258,
+            1024,
+            290
+          ]
+        },
+        {
+          "id": "CRED-6D5A4E",
+          "text": "Programmation",
+          "image": "credits_029.png",
+          "capture_sha256": "70deee35a5393d5100a31649ffea7f56c96e5c00e40a4a274b769adaefa200ae",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            0,
+            338,
+            512,
+            374
+          ]
+        },
+        {
+          "id": "CRED-6D5AA4",
+          "text": "Outils de scénario",
+          "image": "credits_089.png",
+          "capture_sha256": "d5c9cccc34ca80681df8f6571ff8ebf6b63b383633c72c8ffb511952b4fddf51",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            512,
+            338,
+            1024,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D5B18",
+          "text": "Système de développement",
+          "image": "credits_092.png",
+          "capture_sha256": "0ace8cc778c68ac6e00e7031859fa57f9052cb4e288774dd15159441ef90916f",
+          "y0": 143,
+          "y1": 160,
+          "bbox": [
+            0,
+            418,
+            512,
+            452
+          ]
+        },
+        {
+          "id": "CRED-6D5B81",
+          "text": "Système de compression",
+          "image": "credits_094.png",
+          "capture_sha256": "1b74db8b3c5cdfa481278716689c7454267a847e6a32f6afaa377fc69dad0595",
+          "y0": 175,
+          "y1": 192,
+          "bbox": [
+            512,
+            418,
+            1024,
+            452
+          ]
+        },
+        {
+          "id": "CRED-6D5C29",
+          "text": "Outils de création",
+          "image": "credits_097.png",
+          "capture_sha256": "6e70db042dda081539daa60d268860a0dd5c4b37a1fcdea63746490df488c82e",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            498,
+            512,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D5C87",
+          "text": "Service commercial",
+          "image": "credits_101.png",
+          "capture_sha256": "a3e661482010eb0944c60a4e7c3d9a8a83e7672a4aaa18e26d57155ded409b39",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            512,
+            498,
+            1024,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D5C9A",
+          "text": "Production commerciale",
+          "image": "credits_101.png",
+          "capture_sha256": "a3e661482010eb0944c60a4e7c3d9a8a83e7672a4aaa18e26d57155ded409b39",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            578,
+            512,
+            608
+          ]
+        },
+        {
+          "id": "CRED-6D5CC6",
+          "text": "Commercial",
+          "image": "credits_102.png",
+          "capture_sha256": "b80eeb9a40225cda8d8fec49f3aff5e4727d97407b6896742c17b25a76f278f8",
+          "y0": 207,
+          "y1": 222,
+          "bbox": [
+            512,
+            578,
+            1024,
+            608
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_003.png",
+      "sha256": "f996023ff7eb319e964190f19b2306c3fbcfecef17ded8478fd9f0654b424547",
+      "occurrences": [
+        {
+          "id": "CRED-6D5D26",
+          "text": "Spécialiste",
+          "image": "credits_105.png",
+          "capture_sha256": "62d472f5877bdfd3e3a7bf764d5b30bd331cc1548fd2492fdd3c37f30fc22f81",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            0,
+            18,
+            512,
+            50
+          ]
+        },
+        {
+          "id": "CRED-6D5D51",
+          "text": "Équipe de production",
+          "image": "credits_108.png",
+          "capture_sha256": "f78427a3aa15e768770f547a4bc5f2a55befe2553fbcf91f494598dc4e8d2fb9",
+          "y0": 172,
+          "y1": 191,
+          "bbox": [
+            512,
+            18,
+            1024,
+            56
+          ]
+        },
+        {
+          "id": "CRED-6D5D65",
+          "text": "Coordination",
+          "image": "credits_080.png",
+          "capture_sha256": "fb1d405007009d338dd2b4098a6568cf860a8674a692f60f8569cc13c89539e3",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            98,
+            512,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D5D8E",
+          "text": "Production",
+          "image": "credits_009.png",
+          "capture_sha256": "384eb4f9135a98850eab662300469b37ea9dba0503e10b925d8b34e3f205015f",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            98,
+            1024,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D5E46",
+          "text": "<17>Dans l’ordre<18>",
+          "image": "credits_115.png",
+          "capture_sha256": "cc048f644425eb74a2053f4cc93efe67615e7a0233d6b17fdf142be1293e8247",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            0,
+            178,
+            512,
+            210
+          ]
+        },
+        {
+          "id": "CRED-6D5E5F",
+          "text": "Remerciements",
+          "image": "credits_118.png",
+          "capture_sha256": "a6f621213db413ed976ac63d5d9c9f6bff09fd2e73cb60ac97d056179f38dc0d",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            512,
+            178,
+            1024,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D5FA8",
+          "text": "Tout le personnel de Hudson",
+          "image": "credits_123.png",
+          "capture_sha256": "b379c21980f81ab8ed251d1ab01e5849b325c43d89548e7cf76c2d24d9e3f68c",
+          "y0": 143,
+          "y1": 159,
+          "bbox": [
+            0,
+            258,
+            512,
+            290
+          ]
+        },
+        {
+          "id": "CRED-6D5FC6",
+          "text": "Personnages",
+          "image": "credits_125.png",
+          "capture_sha256": "58efcb6f93417fd698e124425b8c5fee2f9f6e3ff3ee50fccde6ba25204d57ab",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            512,
+            258,
+            1024,
+            294
+          ]
+        },
+        {
+          "id": "CRED-6D5FD9",
+          "text": "Higan <17>Yeux de Feu<18>",
+          "image": "credits_126.png",
+          "capture_sha256": "d8b052e3ac8b2c20af913538605bdb645f71845594df1c593a3898c48b7be84c",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            0,
+            338,
+            512,
+            374
+          ]
+        },
+        {
+          "id": "CRED-6D5FF0",
+          "text": "Subaru <17>Pléiades<18>",
+          "image": "credits_126.png",
+          "capture_sha256": "d8b052e3ac8b2c20af913538605bdb645f71845594df1c593a3898c48b7be84c",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            512,
+            338,
+            1024,
+            370
+          ]
+        },
+        {
+          "id": "CRED-6D6006",
+          "text": "Tenjin <17>Dieu du Ciel<18>",
+          "image": "credits_126.png",
+          "capture_sha256": "d8b052e3ac8b2c20af913538605bdb645f71845594df1c593a3898c48b7be84c",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            0,
+            418,
+            512,
+            454
+          ]
+        },
+        {
+          "id": "CRED-6D601B",
+          "text": "Mizuki <17>Chère à l’Eau<18>",
+          "image": "credits_126.png",
+          "capture_sha256": "d8b052e3ac8b2c20af913538605bdb645f71845594df1c593a3898c48b7be84c",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            512,
+            418,
+            1024,
+            450
+          ]
+        },
+        {
+          "id": "CRED-6D6045",
+          "text": "Genkotsu <17>Poing<18>",
+          "image": "credits_127.png",
+          "capture_sha256": "b66e9c34205785949be0a17b11e6856a9a060a00668354deb65917d1b9fb22ce",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            0,
+            498,
+            512,
+            534
+          ]
+        },
+        {
+          "id": "CRED-6D605A",
+          "text": "Binta <17>Gifle<18>",
+          "image": "credits_127.png",
+          "capture_sha256": "b66e9c34205785949be0a17b11e6856a9a060a00668354deb65917d1b9fb22ce",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            512,
+            498,
+            1024,
+            530
+          ]
+        },
+        {
+          "id": "CRED-6D606C",
+          "text": "Zettai Reido <17>Zéro absolu<18>",
+          "image": "credits_128.png",
+          "capture_sha256": "5b3b4812b0a924c03d083ce6fcb5bc6ddd31f9f376d87150162a8cd3c0d67bc1",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            0,
+            578,
+            512,
+            610
+          ]
+        },
+        {
+          "id": "CRED-6D608F",
+          "text": "Akamaru <17>Cercle rouge<18>",
+          "image": "credits_128.png",
+          "capture_sha256": "5b3b4812b0a924c03d083ce6fcb5bc6ddd31f9f376d87150162a8cd3c0d67bc1",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            512,
+            578,
+            1024,
+            614
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_004.png",
+      "sha256": "d09f9bb4bb1849cb3ec3d3d8f887a2e8d1c1c67a5a46899dcb8081c153ddf2de",
+      "occurrences": [
+        {
+          "id": "CRED-6D60A8",
+          "text": "Aomaru <17>Cercle bleu<18>",
+          "image": "credits_128.png",
+          "capture_sha256": "5b3b4812b0a924c03d083ce6fcb5bc6ddd31f9f376d87150162a8cd3c0d67bc1",
+          "y0": 191,
+          "y1": 208,
+          "bbox": [
+            0,
+            18,
+            512,
+            52
+          ]
+        },
+        {
+          "id": "CRED-6D60C4",
+          "text": "Kimaru <17>Cercle jaune<18>",
+          "image": "credits_129.png",
+          "capture_sha256": "267bf8910635596828eb672a400a657efd4df0a31ac008ed1bccbc761c2964eb",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            512,
+            18,
+            1024,
+            54
+          ]
+        },
+        {
+          "id": "CRED-6D60DF",
+          "text": "Sara <17>Soie des sables<18>",
+          "image": "credits_129.png",
+          "capture_sha256": "267bf8910635596828eb672a400a657efd4df0a31ac008ed1bccbc761c2964eb",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            0,
+            98,
+            512,
+            130
+          ]
+        },
+        {
+          "id": "CRED-6D60F5",
+          "text": "Juri <17>Envergure de l’arbre<18>",
+          "image": "credits_129.png",
+          "capture_sha256": "267bf8910635596828eb672a400a657efd4df0a31ac008ed1bccbc761c2964eb",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            512,
+            98,
+            1024,
+            134
+          ]
+        },
+        {
+          "id": "CRED-6D610A",
+          "text": "Kingin <17>Or Argent<18>",
+          "image": "credits_129.png",
+          "capture_sha256": "267bf8910635596828eb672a400a657efd4df0a31ac008ed1bccbc761c2964eb",
+          "y0": 191,
+          "y1": 209,
+          "bbox": [
+            0,
+            178,
+            512,
+            214
+          ]
+        },
+        {
+          "id": "CRED-6D6124",
+          "text": "Doki <17>Ogre furieux<18>",
+          "image": "credits_130.png",
+          "capture_sha256": "9df26809ba49e4be25eb6c7a329ef3fd0ca9085549a8cb71cb9553833cdf57a1",
+          "y0": 159,
+          "y1": 177,
+          "bbox": [
+            512,
+            178,
+            1024,
+            214
+          ]
+        },
+        {
+          "id": "CRED-6D613D",
+          "text": "Atrementous Alabaster <17>Noir Blanc<18>",
+          "image": "credits_130.png",
+          "capture_sha256": "9df26809ba49e4be25eb6c7a329ef3fd0ca9085549a8cb71cb9553833cdf57a1",
+          "y0": 191,
+          "y1": 208,
+          "bbox": [
+            0,
+            258,
+            512,
+            292
+          ]
+        },
+        {
+          "id": "CRED-6D6167",
+          "text": "Gaen <17>Lit de braises<18>",
+          "image": "credits_131.png",
+          "capture_sha256": "d0098fe9cdd2c5858ac62ebecc95a4227ff1501b12c8ed6090d0e2a9778076ff",
+          "y0": 159,
+          "y1": 175,
+          "bbox": [
+            512,
+            258,
+            1024,
+            290
+          ]
+        },
+        {
+          "id": "CRED-6D6182",
+          "text": "Suima <17>Démon du sommeil<18>",
+          "image": "credits_131.png",
+          "capture_sha256": "d0098fe9cdd2c5858ac62ebecc95a4227ff1501b12c8ed6090d0e2a9778076ff",
+          "y0": 175,
+          "y1": 191,
+          "bbox": [
+            0,
+            338,
+            512,
+            370
+          ]
+        },
+        {
+          "id": "CRED-6D619A",
+          "text": "Mugen <17>L’Infini<18>",
+          "image": "credits_131.png",
+          "capture_sha256": "d0098fe9cdd2c5858ac62ebecc95a4227ff1501b12c8ed6090d0e2a9778076ff",
+          "y0": 191,
+          "y1": 209,
+          "bbox": [
+            512,
+            338,
+            1024,
+            374
+          ]
+        },
+        {
+          "id": "CRED-6D61B6",
+          "text": "L’Ours de Feu divin",
+          "image": "credits_132.png",
+          "capture_sha256": "62b7749786d11119c397b30b8b9e0291b63a9d9189f812860153fd58d661c65f",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            0,
+            418,
+            512,
+            448
+          ]
+        },
+        {
+          "id": "CRED-6D61D0",
+          "text": "Le Paon divin",
+          "image": "credits_133.png",
+          "capture_sha256": "a8f8829905bb9e7c7f9aaa27736b802cde7d3293645a603836d4136d2875bb66",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            512,
+            418,
+            1024,
+            448
+          ]
+        },
+        {
+          "id": "CRED-6D61E7",
+          "text": "La Grue divine",
+          "image": "credits_133.png",
+          "capture_sha256": "a8f8829905bb9e7c7f9aaa27736b802cde7d3293645a603836d4136d2875bb66",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            0,
+            498,
+            512,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D61FC",
+          "text": "La Tortue divine",
+          "image": "credits_133.png",
+          "capture_sha256": "a8f8829905bb9e7c7f9aaa27736b802cde7d3293645a603836d4136d2875bb66",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            512,
+            498,
+            1024,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D6213",
+          "text": "Le Chien divin",
+          "image": "credits_133.png",
+          "capture_sha256": "a8f8829905bb9e7c7f9aaa27736b802cde7d3293645a603836d4136d2875bb66",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            0,
+            578,
+            512,
+            608
+          ]
+        },
+        {
+          "id": "CRED-6D622E",
+          "text": "Le Dragon divin",
+          "image": "credits_134.png",
+          "capture_sha256": "55114384b6ae3329f3443518a4e4129ac001e5f59c53b58276609d8b0401d54d",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            512,
+            578,
+            1024,
+            614
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_005.png",
+      "sha256": "e7810b5052a5d623e74060cd62a6fb4bc0ff5655cc9a08e3e5bfaa955952f85a",
+      "occurrences": [
+        {
+          "id": "CRED-6D6248",
+          "text": "Ermite du Charbon",
+          "image": "credits_135.png",
+          "capture_sha256": "5dc0a0c926034cb47c3aaf2cbf88c8cc1b3ad52d99484b018de661924a44891f",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            18,
+            512,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D6259",
+          "text": "Ermite du Vent",
+          "image": "credits_135.png",
+          "capture_sha256": "5dc0a0c926034cb47c3aaf2cbf88c8cc1b3ad52d99484b018de661924a44891f",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            18,
+            1024,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D6269",
+          "text": "Ermite du Jet",
+          "image": "credits_135.png",
+          "capture_sha256": "5dc0a0c926034cb47c3aaf2cbf88c8cc1b3ad52d99484b018de661924a44891f",
+          "y0": 175,
+          "y1": 192,
+          "bbox": [
+            0,
+            98,
+            512,
+            132
+          ]
+        },
+        {
+          "id": "CRED-6D6279",
+          "text": "Ermite de la Vue",
+          "image": "credits_135.png",
+          "capture_sha256": "5dc0a0c926034cb47c3aaf2cbf88c8cc1b3ad52d99484b018de661924a44891f",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            98,
+            1024,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D628A",
+          "text": "Ermite du Tonnerre",
+          "image": "credits_136.png",
+          "capture_sha256": "2fa33f36cdf8247b7ca18bb05fd46a2c33f490d6c72e9ea6f94dc2b85a2acbe6",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            178,
+            512,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D629D",
+          "text": "Ermite Nu",
+          "image": "credits_136.png",
+          "capture_sha256": "2fa33f36cdf8247b7ca18bb05fd46a2c33f490d6c72e9ea6f94dc2b85a2acbe6",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            178,
+            1024,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D62B9",
+          "text": "Ermite Ça-Roule",
+          "image": "credits_136.png",
+          "capture_sha256": "2fa33f36cdf8247b7ca18bb05fd46a2c33f490d6c72e9ea6f94dc2b85a2acbe6",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            0,
+            258,
+            512,
+            294
+          ]
+        },
+        {
+          "id": "CRED-6D62D3",
+          "text": "Ermite de l’Eau",
+          "image": "credits_136.png",
+          "capture_sha256": "2fa33f36cdf8247b7ca18bb05fd46a2c33f490d6c72e9ea6f94dc2b85a2acbe6",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            258,
+            1024,
+            288
+          ]
+        },
+        {
+          "id": "CRED-6D62EB",
+          "text": "Ermite Foudre",
+          "image": "credits_137.png",
+          "capture_sha256": "9f1189ad8f0bb14e266edb62b6f606646b3ad0630ead8756a2ce75d704784030",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            338,
+            512,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D62FB",
+          "text": "Ermite bouddhiste",
+          "image": "credits_137.png",
+          "capture_sha256": "9f1189ad8f0bb14e266edb62b6f606646b3ad0630ead8756a2ce75d704784030",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            338,
+            1024,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D630F",
+          "text": "Ermite Pétillant",
+          "image": "credits_137.png",
+          "capture_sha256": "9f1189ad8f0bb14e266edb62b6f606646b3ad0630ead8756a2ce75d704784030",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            418,
+            512,
+            448
+          ]
+        },
+        {
+          "id": "CRED-6D6320",
+          "text": "Ermite Binan",
+          "image": "credits_137.png",
+          "capture_sha256": "9f1189ad8f0bb14e266edb62b6f606646b3ad0630ead8756a2ce75d704784030",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            418,
+            1024,
+            448
+          ]
+        },
+        {
+          "id": "CRED-6D6331",
+          "text": "Ermite Karen",
+          "image": "credits_138.png",
+          "capture_sha256": "e9835ae8a5f1d2b2a7a76d1c0d779a13a2e920127f856b19bb6f3ca75896e49d",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            498,
+            512,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D6342",
+          "text": "Ermite Têtu",
+          "image": "credits_138.png",
+          "capture_sha256": "e9835ae8a5f1d2b2a7a76d1c0d779a13a2e920127f856b19bb6f3ca75896e49d",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            498,
+            1024,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D6356",
+          "text": "Ermite Cabreur",
+          "image": "credits_138.png",
+          "capture_sha256": "e9835ae8a5f1d2b2a7a76d1c0d779a13a2e920127f856b19bb6f3ca75896e49d",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            578,
+            512,
+            608
+          ]
+        },
+        {
+          "id": "CRED-6D636D",
+          "text": "Ermite Sorcière",
+          "image": "credits_138.png",
+          "capture_sha256": "e9835ae8a5f1d2b2a7a76d1c0d779a13a2e920127f856b19bb6f3ca75896e49d",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            578,
+            1024,
+            608
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_006.png",
+      "sha256": "7a4ee8a60a2a0431110ada825ea047ebcdfa3270cd0833d5ddbe2bd2c3b7f621",
+      "occurrences": [
+        {
+          "id": "CRED-6D638D",
+          "text": "Ermite Tonitruant",
+          "image": "credits_139.png",
+          "capture_sha256": "796f0e73ae781f3c94738709ca04068d721abac166457727a8df71ea89632143",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            18,
+            512,
+            48
+          ]
+        },
+        {
+          "id": "CRED-6D63A6",
+          "text": "Ermite Éclair",
+          "image": "credits_139.png",
+          "capture_sha256": "796f0e73ae781f3c94738709ca04068d721abac166457727a8df71ea89632143",
+          "y0": 156,
+          "y1": 174,
+          "bbox": [
+            512,
+            18,
+            1024,
+            54
+          ]
+        },
+        {
+          "id": "CRED-6D63B6",
+          "text": "Ermite Cochon",
+          "image": "credits_139.png",
+          "capture_sha256": "796f0e73ae781f3c94738709ca04068d721abac166457727a8df71ea89632143",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            98,
+            512,
+            128
+          ]
+        },
+        {
+          "id": "CRED-6D63C5",
+          "text": "Ermite Rapide",
+          "image": "credits_139.png",
+          "capture_sha256": "796f0e73ae781f3c94738709ca04068d721abac166457727a8df71ea89632143",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            512,
+            98,
+            1024,
+            130
+          ]
+        },
+        {
+          "id": "CRED-6D63D6",
+          "text": "Ermite Courant",
+          "image": "credits_140.png",
+          "capture_sha256": "8ba84774bc4e3e00fae75ecc6855adc8712f9a9aded2fceca05094a29382e8f2",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            178,
+            512,
+            208
+          ]
+        },
+        {
+          "id": "CRED-6D63E9",
+          "text": "Ermite des Insignes",
+          "image": "credits_140.png",
+          "capture_sha256": "8ba84774bc4e3e00fae75ecc6855adc8712f9a9aded2fceca05094a29382e8f2",
+          "y0": 159,
+          "y1": 177,
+          "bbox": [
+            512,
+            178,
+            1024,
+            214
+          ]
+        },
+        {
+          "id": "CRED-6D63FA",
+          "text": "Ermite Pauvre",
+          "image": "credits_140.png",
+          "capture_sha256": "8ba84774bc4e3e00fae75ecc6855adc8712f9a9aded2fceca05094a29382e8f2",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            0,
+            258,
+            512,
+            288
+          ]
+        },
+        {
+          "id": "CRED-6D6418",
+          "text": "Ermite Kamikaze",
+          "image": "credits_140.png",
+          "capture_sha256": "8ba84774bc4e3e00fae75ecc6855adc8712f9a9aded2fceca05094a29382e8f2",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            258,
+            1024,
+            288
+          ]
+        },
+        {
+          "id": "CRED-6D6430",
+          "text": "Ermite de la Victoire",
+          "image": "credits_141.png",
+          "capture_sha256": "449613ecfbb9813de2fdb1bd080297f6acec2300463b048fc6ca6e28c2ac5bae",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            338,
+            512,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D6442",
+          "text": "Ermite Frêle",
+          "image": "credits_141.png",
+          "capture_sha256": "449613ecfbb9813de2fdb1bd080297f6acec2300463b048fc6ca6e28c2ac5bae",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            338,
+            1024,
+            368
+          ]
+        },
+        {
+          "id": "CRED-6D6453",
+          "text": "Ermite Loufoque",
+          "image": "credits_141.png",
+          "capture_sha256": "449613ecfbb9813de2fdb1bd080297f6acec2300463b048fc6ca6e28c2ac5bae",
+          "y0": 175,
+          "y1": 191,
+          "bbox": [
+            0,
+            418,
+            512,
+            450
+          ]
+        },
+        {
+          "id": "CRED-6D6464",
+          "text": "Ermite Assoupi",
+          "image": "credits_141.png",
+          "capture_sha256": "449613ecfbb9813de2fdb1bd080297f6acec2300463b048fc6ca6e28c2ac5bae",
+          "y0": 191,
+          "y1": 208,
+          "bbox": [
+            512,
+            418,
+            1024,
+            452
+          ]
+        },
+        {
+          "id": "CRED-6D6476",
+          "text": "Ermite Sennin",
+          "image": "credits_142.png",
+          "capture_sha256": "786d6072559f7fc37e4e7ca961a977132a15eec95a678823ac7c6d787c3dfa8f",
+          "y0": 143,
+          "y1": 158,
+          "bbox": [
+            0,
+            498,
+            512,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D6488",
+          "text": "Ermite Basara",
+          "image": "credits_142.png",
+          "capture_sha256": "786d6072559f7fc37e4e7ca961a977132a15eec95a678823ac7c6d787c3dfa8f",
+          "y0": 159,
+          "y1": 174,
+          "bbox": [
+            512,
+            498,
+            1024,
+            528
+          ]
+        },
+        {
+          "id": "CRED-6D649A",
+          "text": "Ermite du Coup unique",
+          "image": "credits_142.png",
+          "capture_sha256": "786d6072559f7fc37e4e7ca961a977132a15eec95a678823ac7c6d787c3dfa8f",
+          "y0": 175,
+          "y1": 191,
+          "bbox": [
+            0,
+            578,
+            512,
+            610
+          ]
+        },
+        {
+          "id": "CRED-6D64B0",
+          "text": "Ermite de la Flamme",
+          "image": "credits_142.png",
+          "capture_sha256": "786d6072559f7fc37e4e7ca961a977132a15eec95a678823ac7c6d787c3dfa8f",
+          "y0": 191,
+          "y1": 206,
+          "bbox": [
+            512,
+            578,
+            1024,
+            608
+          ]
+        }
+      ],
+      "reviewed": true
+    },
+    {
+      "file": "credits_007.png",
+      "sha256": "1475b13e3e0f37004b919167ba53c3e659e9f4e9069b51a7412a5ee6c51a38af",
+      "occurrences": [
+        {
+          "id": "CRED-6D64C2",
+          "text": "Ermite Alerte",
+          "image": "credits_143.png",
+          "capture_sha256": "8afd17322698e0f5ab4eee581e1e65a56fbfc65642717b9bc4d920bf06ac7216",
+          "y0": 143,
+          "y1": 160,
+          "bbox": [
+            0,
+            18,
+            512,
+            52
+          ]
+        },
+        {
+          "id": "CRED-6D64D7",
+          "text": "Ermite de Takamagahara",
+          "image": "credits_143.png",
+          "capture_sha256": "8afd17322698e0f5ab4eee581e1e65a56fbfc65642717b9bc4d920bf06ac7216",
+          "y0": 159,
+          "y1": 177,
+          "bbox": [
+            512,
+            18,
+            1024,
+            54
+          ]
+        },
+        {
+          "id": "CRED-6D64F2",
+          "text": "Shiranui, le sabreur des ténèbres",
+          "image": "credits_144.png",
+          "capture_sha256": "b4bc34c668ae8f7d8021a52ad01900acdb47a57001dfe5e328b111abffd5a114",
+          "y0": 143,
+          "y1": 160,
+          "bbox": [
+            0,
+            98,
+            512,
+            132
+          ]
+        },
+        {
+          "id": "CRED-6D651D",
+          "text": "Byakuen <17>Papi<18>",
+          "image": "credits_144.png",
+          "capture_sha256": "b4bc34c668ae8f7d8021a52ad01900acdb47a57001dfe5e328b111abffd5a114",
+          "y0": 191,
+          "y1": 208,
+          "bbox": [
+            512,
+            98,
+            1024,
+            132
+          ]
+        },
+        {
+          "id": "CRED-6D656B",
+          "text": "Omine au grand cœur",
+          "image": "credits_148.png",
+          "capture_sha256": "cee180abda6bc8ecd21da16f74e5c7a42aec096a3a0b97cb831438cdfb3095bc",
+          "y0": 143,
+          "y1": 161,
+          "bbox": [
+            0,
+            178,
+            512,
+            214
+          ]
+        },
+        {
+          "id": "CRED-6D6592",
+          "text": "Gen <17>le charpentier<18>",
+          "image": "credits_149.png",
+          "capture_sha256": "642f2d0387fa402c778c05728ec5ab25baafd7bc26d58c07fd0a1f4da5afe106",
+          "y0": 143,
+          "y1": 159,
+          "bbox": [
+            512,
+            178,
+            1024,
+            210
+          ]
+        },
+        {
+          "id": "CRED-6D65AA",
+          "text": "Mankichi <17>grand chasseur de trésors<18>",
+          "image": "credits_149.png",
+          "capture_sha256": "642f2d0387fa402c778c05728ec5ab25baafd7bc26d58c07fd0a1f4da5afe106",
+          "y0": 159,
+          "y1": 177,
+          "bbox": [
+            0,
+            258,
+            512,
+            294
+          ]
+        },
+        {
+          "id": "CRED-6D65D3",
+          "text": "Rokusuke <17>de la grande armurerie<18>",
+          "image": "credits_149.png",
+          "capture_sha256": "642f2d0387fa402c778c05728ec5ab25baafd7bc26d58c07fd0a1f4da5afe106",
+          "y0": 175,
+          "y1": 193,
+          "bbox": [
+            512,
+            258,
+            1024,
+            294
+          ]
+        },
+        {
+          "id": "CRED-6D65FB",
+          "text": "L’Homme-rat",
+          "image": "credits_149.png",
+          "capture_sha256": "642f2d0387fa402c778c05728ec5ab25baafd7bc26d58c07fd0a1f4da5afe106",
+          "y0": 191,
+          "y1": 207,
+          "bbox": [
+            0,
+            338,
+            512,
+            370
+          ]
+        },
+        {
+          "id": "CRED-6D6643",
+          "text": "Production et scénario",
+          "image": "credits_156.png",
+          "capture_sha256": "628e1f503fb5ce5a5c05e95399f8010fc92c8bfde91b628a9c9a9b6f5ad626bc",
+          "y0": 175,
+          "y1": 190,
+          "bbox": [
+            512,
+            338,
+            1024,
+            368
+          ]
+        }
+      ],
+      "reviewed": true
+    }
+  ],
+  "pixel_comparison": "Complete trimmed native-font ink masks match captured PPU lines exactly; full-width captures packed at2x nearest.",
+  "visual_review": "reviewed actual listed captures on this exact ROM; scope limitations retained",
+  "scope": "Staged full sequential native credits flow, not natural ending."
+}

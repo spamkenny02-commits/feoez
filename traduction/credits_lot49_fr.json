@@ -4,1219 +4,853 @@
     "offset": "0x6d5000",
     "english": "Producer <1E> Lead Director",
     "french": "Production <1E> Réalisation",
-    "source_hex": "dfdfdf3f615e5364525461201e203b545053203358615452635e61",
-    "replacement_hex": "dfdfdf3f615e53645263585e5d201e2041a9505b58625063585e5d",
-    "bytes": 27,
-    "pixels": 132
+    "source_hex": "dfdfdf3f615e5364525461201e203b545053203358615452635e61"
   },
   {
     "id": "CRED-6D5033",
     "offset": "0x6d5033",
     "english": "Based on the original works of",
     "french": "D’après les œuvres originales de",
-    "source_hex": "dfdfdf3150625453205e5d20635754205e615856585d505b20665e615a62205e55",
-    "replacement_hex": "df3316505f61aa62205b546220af6465615462205e615856585d505b5462205354",
-    "bytes": 33,
-    "pixels": 151
+    "source_hex": "dfdfdf3150625453205e5d20635754205e615856585d505b20665e615a62205e55"
   },
   {
     "id": "CRED-6D506D",
     "offset": "0x6d506d",
     "english": "Planning and Supervision",
     "french": "Conception et supervision",
-    "source_hex": "dfdfdf3f5b505d5d585d5620505d532042645f5461655862585e5d",
-    "replacement_hex": "dfdf325e5d52545f63585e5d2054632062645f5461655862585e5d",
-    "bytes": 27,
-    "pixels": 129
+    "source_hex": "dfdfdf3f5b505d5d585d5620505d532042645f5461655862585e5d"
   },
   {
     "id": "CRED-6D50A0",
     "offset": "0x6d50a0",
     "english": "Director",
     "french": "Réalisation",
-    "source_hex": "dfdfdf3358615452635e61",
-    "replacement_hex": "41a9505b58625063585e5d",
-    "bytes": 11,
-    "pixels": 48
+    "source_hex": "dfdfdf3358615452635e61"
   },
   {
     "id": "CRED-6D50EC",
     "offset": "0x6d50ec",
     "english": "<17>D Team<18>",
     "french": "<17>Équipe D<18>",
-    "source_hex": "dfdfdf1733204354505c18df",
-    "replacement_hex": "dfdf17996064585f54203318",
-    "bytes": 12,
-    "pixels": 60
+    "source_hex": "dfdfdf1733204354505c18df"
   },
   {
     "id": "CRED-6D50FF",
     "offset": "0x6d50ff",
     "english": "Artist",
     "french": "Dessin",
-    "source_hex": "dfdfdf306163586263",
-    "replacement_hex": "dfdfdf33546262585d",
-    "bytes": 9,
-    "pixels": 52
+    "source_hex": "dfdfdf306163586263"
   },
   {
     "id": "CRED-6D5126",
     "offset": "0x6d5126",
     "english": "Art Director",
     "french": "Direction artistique",
-    "source_hex": "dfdfdf306163203358615452635e61",
-    "replacement_hex": "335861545263585e5d2050616358626358606454",
-    "bytes": 20,
-    "pixels": 87
+    "source_hex": "dfdfdf306163203358615452635e61"
   },
   {
     "id": "CRED-6D514F",
     "offset": "0x6d514f",
     "english": "Script Writer",
     "french": "Scénario",
-    "source_hex": "dfdfdf425261585f6320466158635461",
-    "replacement_hex": "dfdfdf4252a95d5061585e2020202020",
-    "bytes": 16,
-    "pixels": 77
+    "source_hex": "dfdfdf425261585f6320466158635461"
   },
   {
     "id": "CRED-6D5177",
     "offset": "0x6d5177",
     "english": "Battle Planning",
     "french": "Conception des combats",
-    "source_hex": "dfdfdf315063635b54203f5b505d5d585d56",
-    "replacement_hex": "325e5d52545f63585e5d2053546220525e5c51506362",
-    "bytes": 22,
-    "pixels": 105
+    "source_hex": "dfdfdf315063635b54203f5b505d5d585d56"
   },
   {
     "id": "CRED-6D519F",
     "offset": "0x6d519f",
     "english": "<17>D Team<18>",
     "french": "<17>Équipe D<18>",
-    "source_hex": "dfdfdf1733204354505c18df",
-    "replacement_hex": "dfdf17996064585f54203318",
-    "bytes": 12,
-    "pixels": 60
+    "source_hex": "dfdfdf1733204354505c18df"
   },
   {
     "id": "CRED-6D51B2",
     "offset": "0x6d51b2",
     "english": "Sub Event Planning",
     "french": "Événements secondaires",
-    "source_hex": "dfdfdf426451203465545d63203f5b505d5d585d56",
-    "replacement_hex": "9965a95d545c545d6362206254525e5d535058615462",
-    "bytes": 22,
-    "pixels": 106
+    "source_hex": "dfdfdf426451203465545d63203f5b505d5d585d56"
   },
   {
     "id": "CRED-6D51E4",
     "offset": "0x6d51e4",
     "english": "Music",
     "french": "Musique",
-    "source_hex": "dfdfdf3c64625852",
-    "replacement_hex": "df3c646258606454",
-    "bytes": 8,
-    "pixels": 43
+    "source_hex": "dfdfdf3c64625852"
   },
   {
     "id": "CRED-6D520C",
     "offset": "0x6d520c",
     "english": "Background Composition",
     "french": "Composition musicale",
-    "source_hex": "dfdfdf3150525a56615e645d5320325e5c5f5e625863585e5ddfdfdf",
-    "replacement_hex": "dfdfdf325e5c5f5e625863585e5d205c64625852505b542020202020",
-    "bytes": 28,
-    "pixels": 129
+    "source_hex": "dfdfdf3150525a56615e645d5320325e5c5f5e625863585e5ddfdfdf"
   },
   {
     "id": "CRED-6D523E",
     "offset": "0x6d523e",
     "english": "<17>Tenjin and Mizuki's Theme<18>",
     "french": "<17>Thème de Tenjin et Mizuki<18>",
-    "source_hex": "dfdfdf1743545d59585d20505d53203c5869645a581662204357545c5418df",
-    "replacement_hex": "dfdfdf174357aa5c542053542043545d59585d205463203c5869645a581820",
-    "bytes": 31,
-    "pixels": 151
+    "source_hex": "dfdfdf1743545d59585d20505d53203c5869645a581662204357545c5418df"
   },
   {
     "id": "CRED-6D5268",
     "offset": "0x6d5268",
     "english": "Programming Unit",
     "french": "Programmation",
-    "source_hex": "dfdfdf3f615e5661505c5c585d5620445d5863",
-    "replacement_hex": "dfdfdf3f615e5661505c5c5063585e5d202020",
-    "bytes": 19,
-    "pixels": 98
+    "source_hex": "dfdfdf3f615e5661505c5c585d5620445d5863"
   },
   {
     "id": "CRED-6D529C",
     "offset": "0x6d529c",
     "english": "Assistant",
     "french": "Assistance",
-    "source_hex": "dfdfdf306262586263505d63",
-    "replacement_hex": "dfdf306262586263505d5254",
-    "bytes": 12,
-    "pixels": 64
+    "source_hex": "dfdfdf306262586263505d63"
   },
   {
     "id": "CRED-6D52C2",
     "offset": "0x6d52c2",
     "english": "User Interface",
     "french": "Interface",
-    "source_hex": "dfdfdf4462546120385d63546155505254",
-    "replacement_hex": "dfdfdf385d635461555052542020202020",
-    "bytes": 17,
-    "pixels": 81
+    "source_hex": "dfdfdf4462546120385d63546155505254"
   },
   {
     "id": "CRED-6D52ED",
     "offset": "0x6d52ed",
     "english": "Battles",
     "french": "Combats",
-    "source_hex": "dfdfdf315063635b5462",
-    "replacement_hex": "dfdfdf325e5c51506362",
-    "bytes": 10,
-    "pixels": 61
+    "source_hex": "dfdfdf315063635b5462"
   },
   {
     "id": "CRED-6D5327",
     "offset": "0x6d5327",
     "english": "Robot Battle",
     "french": "Combat de robots",
-    "source_hex": "dfdfdf415e515e6320315063635b54",
-    "replacement_hex": "325e5c51506320535420615e515e6362",
-    "bytes": 16,
-    "pixels": 78
+    "source_hex": "dfdfdf415e515e6320315063635b54"
   },
   {
     "id": "CRED-6D534E",
     "offset": "0x6d534e",
     "english": "Scenario",
     "french": "Scénario",
-    "source_hex": "dfdfdf4252545d5061585e",
-    "replacement_hex": "dfdfdf4252a95d5061585e",
-    "bytes": 11,
-    "pixels": 62
+    "source_hex": "dfdfdf4252545d5061585e"
   },
   {
     "id": "CRED-6D53DA",
     "offset": "0x6d53da",
     "english": "Programming Coordinator",
     "french": "Coordination du code",
-    "source_hex": "dfdfdf3f615e5661505c5c585d5620325e5e6153585d50635e61",
-    "replacement_hex": "dfdfdf325e5e6153585d5063585e5d20536420525e5354202020",
-    "bytes": 26,
-    "pixels": 124
+    "source_hex": "dfdfdf3f615e5661505c5c585d5620325e5e6153585d50635e61"
   },
   {
     "id": "CRED-6D5413",
     "offset": "0x6d5413",
     "english": "Graphics Unit",
     "french": "Graphismes",
-    "source_hex": "dfdfdf3661505f5758526220445d5863",
-    "replacement_hex": "dfdfdf3661505f5758625c5462202020",
-    "bytes": 16,
-    "pixels": 82
+    "source_hex": "dfdfdf3661505f5758526220445d5863"
   },
   {
     "id": "CRED-6D5425",
     "offset": "0x6d5425",
     "english": "Overworld Map",
     "french": "Carte du monde",
-    "source_hex": "dfdfdf3e655461665e615b53203c505f",
-    "replacement_hex": "dfdf3250616354205364205c5e5d5354",
-    "bytes": 16,
-    "pixels": 84
+    "source_hex": "dfdfdf3e655461665e615b53203c505f"
   },
   {
     "id": "CRED-6D547B",
     "offset": "0x6d547b",
     "english": "Dungeons",
     "french": "Donjons",
-    "source_hex": "dfdfdf33645d56545e5d62",
-    "replacement_hex": "dfdfdf335e5d595e5d6220",
-    "bytes": 11,
-    "pixels": 61
+    "source_hex": "dfdfdf33645d56545e5d62"
   },
   {
     "id": "CRED-6D551A",
     "offset": "0x6d551a",
     "english": "Interior Maps",
     "french": "Cartes intérieures",
-    "source_hex": "dfdfdf385d635461585e61203c505f62",
-    "replacement_hex": "32506163546220585d63a961585464615462",
-    "bytes": 18,
-    "pixels": 83
+    "source_hex": "dfdfdf385d635461585e61203c505f62"
   },
   {
     "id": "CRED-6D557C",
     "offset": "0x6d557c",
     "english": "Town Maps",
     "french": "Cartes des villes",
-    "source_hex": "dfdfdf435e665d203c505f62",
-    "replacement_hex": "325061635462205354622065585b5b5462",
-    "bytes": 17,
-    "pixels": 75
+    "source_hex": "dfdfdf435e665d203c505f62"
   },
   {
     "id": "CRED-6D55DB",
     "offset": "0x6d55db",
     "english": "Battles",
     "french": "Combats",
-    "source_hex": "dfdfdf315063635b5462",
-    "replacement_hex": "dfdfdf325e5c51506362",
-    "bytes": 10,
-    "pixels": 61
+    "source_hex": "dfdfdf315063635b5462"
   },
   {
     "id": "CRED-6D5762",
     "offset": "0x6d5762",
     "english": "System",
     "french": "Système",
-    "source_hex": "dfdfdf42686263545c20",
-    "replacement_hex": "dfdfdf42686263aa5c54",
-    "bytes": 10,
-    "pixels": 61
+    "source_hex": "dfdfdf42686263545c20"
   },
   {
     "id": "CRED-6D5788",
     "offset": "0x6d5788",
     "english": "Original Art",
     "french": "Dessins originaux",
-    "source_hex": "dfdfdf3e615856585d505b20306163",
-    "replacement_hex": "33546262585d62205e615856585d506467",
-    "bytes": 17,
-    "pixels": 75
+    "source_hex": "dfdfdf3e615856585d505b20306163"
   },
   {
     "id": "CRED-6D57FA",
     "offset": "0x6d57fa",
     "english": "Title Font",
     "french": "Police du titre",
-    "source_hex": "dfdfdf4358635b5420355e5d63",
-    "replacement_hex": "3f5e5b585254205364206358636154",
-    "bytes": 15,
-    "pixels": 64
+    "source_hex": "dfdfdf4358635b5420355e5d63"
   },
   {
     "id": "CRED-6D5816",
     "offset": "0x6d5816",
     "english": "Production Coordinators",
     "french": "Coordination de production",
-    "source_hex": "dfdfdf3f615e53645263585e5d20325e5e6153585d50635e6162",
-    "replacement_hex": "325e5e6153585d5063585e5d205354205f615e53645263585e5d",
-    "bytes": 26,
-    "pixels": 118
+    "source_hex": "dfdfdf3f615e53645263585e5d20325e5e6153585d50635e6162"
   },
   {
     "id": "CRED-6D585B",
     "offset": "0x6d585b",
     "english": "Sound Unit",
     "french": "Équipe sonore",
-    "source_hex": "dfdfdf425e645d5320445d5863",
-    "replacement_hex": "996064585f5420625e5d5e6154",
-    "bytes": 13,
-    "pixels": 60
+    "source_hex": "dfdfdf425e645d5320445d5863"
   },
   {
     "id": "CRED-6D586A",
     "offset": "0x6d586a",
     "english": "Music Technical Director",
     "french": "Direction musicale",
-    "source_hex": "dfdfdf3c6462585220435452575d5852505b203358615452635e6120",
-    "replacement_hex": "dfdfdf335861545263585e5d205c64625852505b5420202020202020",
-    "bytes": 28,
-    "pixels": 124
+    "source_hex": "dfdfdf3c6462585220435452575d5852505b203358615452635e6120"
   },
   {
     "id": "CRED-6D589D",
     "offset": "0x6d589d",
     "english": "Music Design",
     "french": "Création musicale",
-    "source_hex": "dfdfdf3c646258522033546258565d20",
-    "replacement_hex": "3261a95063585e5d205c64625852505b54",
-    "bytes": 17,
-    "pixels": 77
+    "source_hex": "dfdfdf3c646258522033546258565d20"
   },
   {
     "id": "CRED-6D5902",
     "offset": "0x6d5902",
     "english": "Effects Design",
     "french": "Effets sonores",
-    "source_hex": "dfdfdf345555545263622033546258565d",
-    "replacement_hex": "dfdfdf34555554636220625e5d5e615462",
-    "bytes": 17,
-    "pixels": 92
+    "source_hex": "dfdfdf345555545263622033546258565d"
   },
   {
     "id": "CRED-6D595B",
     "offset": "0x6d595b",
     "english": "System Program",
     "french": "Code système",
-    "source_hex": "dfdfdf42686263545c203f615e5661505c20",
-    "replacement_hex": "dfdfdf325e53542062686263aa5c54202020",
-    "bytes": 18,
-    "pixels": 93
+    "source_hex": "dfdfdf42686263545c203f615e5661505c20"
   },
   {
     "id": "CRED-6D59B0",
     "offset": "0x6d59b0",
     "english": "Coordinator",
     "french": "Coordination",
-    "source_hex": "dfdfdf325e5e6153585d50635e61",
-    "replacement_hex": "dfdf325e5e6153585d5063585e5d",
-    "bytes": 14,
-    "pixels": 71
+    "source_hex": "dfdfdf325e5e6153585d50635e61"
   },
   {
     "id": "CRED-6D59D6",
     "offset": "0x6d59d6",
     "english": "Karaoke Composer",
     "french": "Composition du karaoké",
-    "source_hex": "dfdfdf3a5061505e5a5420325e5c5f5e625461",
-    "replacement_hex": "325e5c5f5e625863585e5d205364205a5061505e5aa9",
-    "bytes": 22,
-    "pixels": 102
+    "source_hex": "dfdfdf3a5061505e5a5420325e5c5f5e625461"
   },
   {
     "id": "CRED-6D59FE",
     "offset": "0x6d59fe",
     "english": "Engineering Support",
     "french": "Assistance technique",
-    "source_hex": "dfdfdf345d56585d545461585d562042645f5f5e616320",
-    "replacement_hex": "dfdfdf306262586263505d525420635452575d58606454",
-    "bytes": 23,
-    "pixels": 117
+    "source_hex": "dfdfdf345d56585d545461585d562042645f5f5e616320"
   },
   {
     "id": "CRED-6D5A38",
     "offset": "0x6d5a38",
     "english": "Technical Support",
     "french": "Support technique",
-    "source_hex": "dfdfdf435452575d5852505b2042645f5f5e6163",
-    "replacement_hex": "dfdfdf42645f5f5e616320635452575d58606454",
-    "bytes": 20,
-    "pixels": 105
+    "source_hex": "dfdfdf435452575d5852505b2042645f5f5e6163"
   },
   {
     "id": "CRED-6D5A4E",
     "offset": "0x6d5a4e",
     "english": "Programming",
     "french": "Programmation",
-    "source_hex": "dfdfdf3f615e5661505c5c585d56",
-    "replacement_hex": "df3f615e5661505c5c5063585e5d",
-    "bytes": 14,
-    "pixels": 73
+    "source_hex": "dfdfdf3f615e5661505c5c585d56"
   },
   {
     "id": "CRED-6D5AA4",
     "offset": "0x6d5aa4",
     "english": "Scenario Tools",
     "french": "Outils de scénario",
-    "source_hex": "dfdfdf4252545d5061585e20435e5e5b62",
-    "replacement_hex": "3e6463585b62205354206252a95d5061585e",
-    "bytes": 18,
-    "pixels": 80
+    "source_hex": "dfdfdf4252545d5061585e20435e5e5b62"
   },
   {
     "id": "CRED-6D5B18",
     "offset": "0x6d5b18",
     "english": "Development System",
     "french": "Système de développement",
-    "source_hex": "dfdfdf335465545b5e5f5c545d632042686263545c",
-    "replacement_hex": "42686263aa5c542053542053a965545b5e5f5f545c545d63",
-    "bytes": 24,
-    "pixels": 117
+    "source_hex": "dfdfdf335465545b5e5f5c545d632042686263545c"
   },
   {
     "id": "CRED-6D5B81",
     "offset": "0x6d5b81",
     "english": "Compression System",
     "french": "Système de compression",
-    "source_hex": "dfdfdf325e5c5f61546262585e5d2042686263545cdfdfdf",
-    "replacement_hex": "dfdf42686263aa5c5420535420525e5c5f61546262585e5d",
-    "bytes": 24,
-    "pixels": 122
+    "source_hex": "dfdfdf325e5c5f61546262585e5d2042686263545cdfdfdf"
   },
   {
     "id": "CRED-6D5C29",
     "offset": "0x6d5c29",
     "english": "Design Tools",
     "french": "Outils de création",
-    "source_hex": "dfdfdf33546258565d20435e5e5b62",
-    "replacement_hex": "3e6463585b62205354205261a95063585e5d",
-    "bytes": 18,
-    "pixels": 80
+    "source_hex": "dfdfdf33546258565d20435e5e5b62"
   },
   {
     "id": "CRED-6D5C87",
     "offset": "0x6d5c87",
     "english": "Marketing Unit",
     "french": "Service commercial",
-    "source_hex": "dfdfdf3c50615a5463585d5620445d5863",
-    "replacement_hex": "4254616558525420525e5c5c54615258505b",
-    "bytes": 18,
-    "pixels": 83
+    "source_hex": "dfdfdf3c50615a5463585d5620445d5863"
   },
   {
     "id": "CRED-6D5C9A",
     "offset": "0x6d5c9a",
     "english": "Marketing Producer",
     "french": "Production commerciale",
-    "source_hex": "dfdfdf3c50615a5463585d56203f615e5364525461",
-    "replacement_hex": "3f615e53645263585e5d20525e5c5c54615258505b54",
-    "bytes": 22,
-    "pixels": 103
+    "source_hex": "dfdfdf3c50615a5463585d56203f615e5364525461"
   },
   {
     "id": "CRED-6D5CC6",
     "offset": "0x6d5cc6",
     "english": "Marketing",
     "french": "Commercial",
-    "source_hex": "dfdfdf3c50615a5463585d56",
-    "replacement_hex": "dfdf325e5c5c54615258505b",
-    "bytes": 12,
-    "pixels": 64
+    "source_hex": "dfdfdf3c50615a5463585d56"
   },
   {
     "id": "CRED-6D5D26",
     "offset": "0x6d5d26",
     "english": "Specialist",
     "french": "Spécialiste",
-    "source_hex": "dfdfdf425f545258505b586263",
-    "replacement_hex": "dfdf425fa95258505b58626354",
-    "bytes": 13,
-    "pixels": 64
+    "source_hex": "dfdfdf425f545258505b586263"
   },
   {
     "id": "CRED-6D5D51",
     "offset": "0x6d5d51",
     "english": "Production Unit",
     "french": "Équipe de production",
-    "source_hex": "dfdfdf3f615e53645263585e5d20445d5863",
-    "replacement_hex": "996064585f54205354205f615e53645263585e5d",
-    "bytes": 20,
-    "pixels": 90
+    "source_hex": "dfdfdf3f615e53645263585e5d20445d5863"
   },
   {
     "id": "CRED-6D5D65",
     "offset": "0x6d5d65",
     "english": "Coordinator",
     "french": "Coordination",
-    "source_hex": "dfdfdf325e5e6153585d50635e61",
-    "replacement_hex": "dfdf325e5e6153585d5063585e5d",
-    "bytes": 14,
-    "pixels": 71
+    "source_hex": "dfdfdf325e5e6153585d50635e61"
   },
   {
     "id": "CRED-6D5D8E",
     "offset": "0x6d5d8e",
     "english": "Producers",
     "french": "Production",
-    "source_hex": "dfdfdf3f615e536452546162",
-    "replacement_hex": "dfdf3f615e53645263585e5d",
-    "bytes": 12,
-    "pixels": 64
+    "source_hex": "dfdfdf3f615e536452546162"
   },
   {
     "id": "CRED-6D5E46",
     "offset": "0x6d5e46",
     "english": "<17>In Order<18>",
     "french": "<17>Dans l’ordre<18>",
-    "source_hex": "dfdfdf17385d203e6153546118df",
-    "replacement_hex": "1733505d62205b165e6153615418",
-    "bytes": 14,
-    "pixels": 62
+    "source_hex": "dfdfdf17385d203e6153546118df"
   },
   {
     "id": "CRED-6D5E5F",
     "offset": "0x6d5e5f",
     "english": "Special Thanks",
     "french": "Remerciements",
-    "source_hex": "dfdfdf425f545258505b204357505d5a62",
-    "replacement_hex": "dfdfdf41545c54615258545c545d636220",
-    "bytes": 17,
-    "pixels": 92
+    "source_hex": "dfdfdf425f545258505b204357505d5a62"
   },
   {
     "id": "CRED-6D5FA8",
     "offset": "0x6d5fa8",
     "english": "Everyone at Hudson",
     "french": "Tout le personnel de Hudson",
-    "source_hex": "dfdfdf34655461685e5d5420506320376453625e5ddf",
-    "replacement_hex": "435e6463205b54205f5461625e5d5d545b20535420376453625e5d",
-    "bytes": 27,
-    "pixels": 127
+    "source_hex": "dfdfdf34655461685e5d5420506320376453625e5ddf"
   },
   {
     "id": "CRED-6D5FC6",
     "offset": "0x6d5fc6",
     "english": "Cast Members",
     "french": "Personnages",
-    "source_hex": "dfdfdf32506263203c545c51546162",
-    "replacement_hex": "dfdfdf3f5461625e5d5d5056546220",
-    "bytes": 15,
-    "pixels": 83
+    "source_hex": "dfdfdf32506263203c545c51546162"
   },
   {
     "id": "CRED-6D5FD9",
     "offset": "0x6d5fd9",
     "english": "Higan <17>Fire Eyes<18>",
     "french": "Higan <17>Yeux de Feu<18>",
-    "source_hex": "dfdfdfdf375856505d201735586154203468546218df",
-    "replacement_hex": "dfdfdf375856505d2017485464672053542035546418",
-    "bytes": 22,
-    "pixels": 110
+    "source_hex": "dfdfdfdf375856505d201735586154203468546218df"
   },
   {
     "id": "CRED-6D5FF0",
     "offset": "0x6d5ff0",
     "english": "Subaru <17>Pleiades<18>",
     "french": "Subaru <17>Pléiades<18>",
-    "source_hex": "dfdfdf42645150616420173f5b54585053546218df",
-    "replacement_hex": "dfdfdf42645150616420173f5ba958505354621820",
-    "bytes": 21,
-    "pixels": 105
+    "source_hex": "dfdfdf42645150616420173f5b54585053546218df"
   },
   {
     "id": "CRED-6D6006",
     "offset": "0x6d6006",
     "english": "Tenjin <17>Sky God<18>",
     "french": "Tenjin <17>Dieu du Ciel<18>",
-    "source_hex": "dfdfdf43545d59585d2017425a6820365e5318df",
-    "replacement_hex": "43545d59585d201733585464205364203258545b18",
-    "bytes": 21,
-    "pixels": 89
+    "source_hex": "dfdfdf43545d59585d2017425a6820365e5318df"
   },
   {
     "id": "CRED-6D601B",
     "offset": "0x6d601b",
     "english": "Mizuki <17>Water Dear<18>",
     "french": "Mizuki <17>Chère à l’Eau<18>",
-    "source_hex": "dfdfdf3c5869645a5820174650635461203354506118df",
-    "replacement_hex": "df3c5869645a5820173257aa61542082205b1634506418",
-    "bytes": 23,
-    "pixels": 103
+    "source_hex": "dfdfdf3c5869645a5820174650635461203354506118df"
   },
   {
     "id": "CRED-6D6045",
     "offset": "0x6d6045",
     "english": "Genkotsu <17>Fist<18>",
     "french": "Genkotsu <17>Poing<18>",
-    "source_hex": "dfdfdfdf36545d5a5e63626420173558626318df",
-    "replacement_hex": "dfdfdfdf36545d5a5e63626420173f5e585d5618",
-    "bytes": 20,
-    "pixels": 107
+    "source_hex": "dfdfdfdf36545d5a5e63626420173558626318df"
   },
   {
     "id": "CRED-6D605A",
     "offset": "0x6d605a",
     "english": "Binta <17>Slap<18>",
     "french": "Binta <17>Gifle<18>",
-    "source_hex": "dfdfdf31585d63502017425b505f18df",
-    "replacement_hex": "dfdfdf31585d635020173658555b5418",
-    "bytes": 16,
-    "pixels": 79
+    "source_hex": "dfdfdf31585d63502017425b505f18df"
   },
   {
     "id": "CRED-6D606C",
     "offset": "0x6d606c",
     "english": "Zettai Reido <17>Absolute Zero<18>",
     "french": "Zettai Reido <17>Zéro absolu<18>",
-    "source_hex": "dfdfdfdf49546363505820415458535e20173051625e5b646354204954615e1820df",
-    "replacement_hex": "dfdfdfdf49546363505820415458535e201749a9615e205051625e5b641820202020",
-    "bytes": 34,
-    "pixels": 161
+    "source_hex": "dfdfdfdf49546363505820415458535e20173051625e5b646354204954615e1820df"
   },
   {
     "id": "CRED-6D608F",
     "offset": "0x6d608f",
     "english": "Akamaru <17>Red Circle<18>",
     "french": "Akamaru <17>Cercle rouge<18>",
-    "source_hex": "dfdfdf305a505c506164201741545320325861525b5418df",
-    "replacement_hex": "dfdf305a505c5061642017325461525b5420615e64565418",
-    "bytes": 24,
-    "pixels": 121
+    "source_hex": "dfdfdf305a505c506164201741545320325861525b5418df"
   },
   {
     "id": "CRED-6D60A8",
     "offset": "0x6d60a8",
     "english": "Aomaru <17>Blue Circle<18>",
     "french": "Aomaru <17>Cercle bleu<18>",
-    "source_hex": "dfdfdf305e5c5061642017315b645420325861525b5418dfdfdfdf",
-    "replacement_hex": "dfdfdf305e5c5061642017325461525b5420515b54641820202020",
-    "bytes": 27,
-    "pixels": 129
+    "source_hex": "dfdfdf305e5c5061642017315b645420325861525b5418dfdfdfdf"
   },
   {
     "id": "CRED-6D60C4",
     "offset": "0x6d60c4",
     "english": "Kimaru <17>Yellow Circle<18>",
     "french": "Kimaru <17>Cercle jaune<18>",
-    "source_hex": "dfdfdf3a585c506164201748545b5b5e6620325861525b5418df",
-    "replacement_hex": "dfdfdf3a585c5061642017325461525b54205950645d54182020",
-    "bytes": 26,
-    "pixels": 125
+    "source_hex": "dfdfdf3a585c506164201748545b5b5e6620325861525b5418df"
   },
   {
     "id": "CRED-6D60DF",
     "offset": "0x6d60df",
     "english": "Sara <17>Sand Silk<18>",
     "french": "Sara <17>Soie des sables<18>",
-    "source_hex": "dfdfdf42506150201742505d532042585b5a1820df",
-    "replacement_hex": "425061502017425e585420535462206250515b546218",
-    "bytes": 22,
-    "pixels": 99
+    "source_hex": "dfdfdf42506150201742505d532042585b5a1820df"
   },
   {
     "id": "CRED-6D60F5",
     "offset": "0x6d60f5",
     "english": "Juri <17>Tree Span<18>",
     "french": "Juri <17>Envergure de l’arbre<18>",
-    "source_hex": "dfdfdf3964615820174361545420425f505d18df",
-    "replacement_hex": "396461582017345d65546156646154205354205b16506151615418",
-    "bytes": 27,
-    "pixels": 119
+    "source_hex": "dfdfdf3964615820174361545420425f505d18df"
   },
   {
     "id": "CRED-6D610A",
     "offset": "0x6d610a",
     "english": "Kingin <17>Gold Silver<18>",
     "french": "Kingin <17>Or Argent<18>",
-    "source_hex": "dfdfdf3a585d56585d2017365e5b532042585b65546118df",
-    "replacement_hex": "dfdfdf3a585d56585d20173e6120306156545d6318202020",
-    "bytes": 24,
-    "pixels": 115
+    "source_hex": "dfdfdf3a585d56585d2017365e5b532042585b65546118df"
   },
   {
     "id": "CRED-6D6124",
     "offset": "0x6d6124",
     "english": "Doki <17>Raging Ogre<18>",
     "french": "Doki <17>Ogre furieux<18>",
-    "source_hex": "dfdfdfdf335e5a582017415056585d56203e56615418df",
-    "replacement_hex": "dfdfdfdf335e5a5820173e566154205564615854646718",
-    "bytes": 23,
-    "pixels": 118
+    "source_hex": "dfdfdfdf335e5a582017415056585d56203e56615418df"
   },
   {
     "id": "CRED-6D613D",
     "offset": "0x6d613d",
     "english": "Atrementous Alabaster <17>Black White<18>",
     "french": "Atrementous Alabaster <17>Noir Blanc<18>",
-    "source_hex": "dfdfdfdf306361545c545d635e646220305b505150626354612017315b50525a20465758635418df",
-    "replacement_hex": "dfdfdfdf306361545c545d635e646220305b5051506263546120173d5e586120315b505d52182020",
-    "bytes": 40,
-    "pixels": 198
+    "source_hex": "dfdfdfdf306361545c545d635e646220305b505150626354612017315b50525a20465758635418df"
   },
   {
     "id": "CRED-6D6167",
     "offset": "0x6d6167",
     "english": "Gaen <17>Smoldering Bed<18>",
     "french": "Gaen <17>Lit de braises<18>",
-    "source_hex": "dfdfdfdf3650545d2017425c5e5b535461585d562031545318df",
-    "replacement_hex": "dfdfdfdf3650545d20173b586320535420516150586254621820",
-    "bytes": 26,
-    "pixels": 128
+    "source_hex": "dfdfdfdf3650545d2017425c5e5b535461585d562031545318df"
   },
   {
     "id": "CRED-6D6182",
     "offset": "0x6d6182",
     "english": "Suima <17>Sleep Demon<18>",
     "french": "Suima <17>Démon du sommeil<18>",
-    "source_hex": "dfdfdf4264585c502017425b54545f2033545c5e5d18df",
-    "replacement_hex": "4264585c50201733a95c5e5d20536420625e5c5c54585b18",
-    "bytes": 24,
-    "pixels": 110
+    "source_hex": "dfdfdf4264585c502017425b54545f2033545c5e5d18df"
   },
   {
     "id": "CRED-6D619A",
     "offset": "0x6d619a",
     "english": "Mugen <17>The Infinite<18>",
     "french": "Mugen <17>L’Infini<18>",
-    "source_hex": "dfdfdf3c6456545d201743575420385d55585d58635418df",
-    "replacement_hex": "dfdfdf3c6456545d20173b16385d55585d58182020202020",
-    "bytes": 24,
-    "pixels": 107
+    "source_hex": "dfdfdf3c6456545d201743575420385d55585d58635418df"
   },
   {
     "id": "CRED-6D61B6",
     "offset": "0x6d61b6",
     "english": "The Divine Fire Bear",
     "french": "L’Ours de Feu divin",
-    "source_hex": "dfdfdfdf43575420335865585d5420355861542031545061df",
-    "replacement_hex": "dfdfdfdf3b163e6461622053542035546420535865585d2020",
-    "bytes": 25,
-    "pixels": 121
+    "source_hex": "dfdfdfdf43575420335865585d5420355861542031545061df"
   },
   {
     "id": "CRED-6D61D0",
     "offset": "0x6d61d0",
     "english": "The Divine Peacock",
     "french": "Le Paon divin",
-    "source_hex": "dfdfdf43575420335865585d54203f5450525e525adf",
-    "replacement_hex": "dfdfdf3b54203f505e5d20535865585d202020202020",
-    "bytes": 22,
-    "pixels": 99
+    "source_hex": "dfdfdf43575420335865585d54203f5450525e525adf"
   },
   {
     "id": "CRED-6D61E7",
     "offset": "0x6d61e7",
     "english": "The Divine Crane",
     "french": "La Grue divine",
-    "source_hex": "dfdfdf43575420335865585d54203261505d54df",
-    "replacement_hex": "dfdfdf3b50203661645420535865585d54202020",
-    "bytes": 20,
-    "pixels": 95
+    "source_hex": "dfdfdf43575420335865585d54203261505d54df"
   },
   {
     "id": "CRED-6D61FC",
     "offset": "0x6d61fc",
     "english": "The Divine Turtle",
     "french": "La Tortue divine",
-    "source_hex": "dfdfdf43575420335865585d5420436461635b5420df",
-    "replacement_hex": "dfdfdf3b5020435e6163645420535865585d54202020",
-    "bytes": 22,
-    "pixels": 107
+    "source_hex": "dfdfdf43575420335865585d5420436461635b5420df"
   },
   {
     "id": "CRED-6D6213",
     "offset": "0x6d6213",
     "english": "The Divine Canine God",
     "french": "Le Chien divin",
-    "source_hex": "dfdfdf43575420335865585d542032505d585d5420365e5320df",
-    "replacement_hex": "dfdfdf3b5420325758545d20535865585d202020202020202020",
-    "bytes": 26,
-    "pixels": 110
+    "source_hex": "dfdfdf43575420335865585d542032505d585d5420365e5320df"
   },
   {
     "id": "CRED-6D622E",
     "offset": "0x6d622e",
     "english": "The Divine Dragon",
     "french": "Le Dragon divin",
-    "source_hex": "dfdfdf43575420335865585d5420336150565e5d20df",
-    "replacement_hex": "dfdfdf3b5420336150565e5d20535865585d20202020",
-    "bytes": 22,
-    "pixels": 103
+    "source_hex": "dfdfdf43575420335865585d5420336150565e5d20df"
   },
   {
     "id": "CRED-6D6248",
     "offset": "0x6d6248",
     "english": "Coal Hermit",
     "french": "Ermite du Charbon",
-    "source_hex": "dfdfdfdf325e505b203754615c5863df",
-    "replacement_hex": "34615c5863542053642032575061515e5d",
-    "bytes": 17,
-    "pixels": 80
+    "source_hex": "dfdfdfdf325e505b203754615c5863df"
   },
   {
     "id": "CRED-6D6259",
     "offset": "0x6d6259",
     "english": "Wind Hermit",
     "french": "Ermite du Vent",
-    "source_hex": "dfdfdf46585d53203754615c5863df",
-    "replacement_hex": "df34615c5863542053642045545d63",
-    "bytes": 15,
-    "pixels": 73
+    "source_hex": "dfdfdf46585d53203754615c5863df"
   },
   {
     "id": "CRED-6D6269",
     "offset": "0x6d6269",
     "english": "Gush Hermit",
     "french": "Ermite du Jet",
-    "source_hex": "dfdfdf36646257203754615c5863df",
-    "replacement_hex": "dfdf34615c58635420536420395463",
-    "bytes": 15,
-    "pixels": 75
+    "source_hex": "dfdfdf36646257203754615c5863df"
   },
   {
     "id": "CRED-6D6279",
     "offset": "0x6d6279",
     "english": "Sight Hermit",
     "french": "Ermite de la Vue",
-    "source_hex": "dfdfdf4258565763203754615c5863df",
-    "replacement_hex": "34615c586354205354205b5020456454",
-    "bytes": 16,
-    "pixels": 71
+    "source_hex": "dfdfdf4258565763203754615c5863df"
   },
   {
     "id": "CRED-6D628A",
     "offset": "0x6d628a",
     "english": "Thunder Hermit",
     "french": "Ermite du Tonnerre",
-    "source_hex": "dfdfdf4357645d535461203754615c5863df",
-    "replacement_hex": "34615c58635420536420435e5d5d54616154",
-    "bytes": 18,
-    "pixels": 87
+    "source_hex": "dfdfdf4357645d535461203754615c5863df"
   },
   {
     "id": "CRED-6D629D",
     "offset": "0x6d629d",
     "english": "Nude Hermit",
     "french": "Ermite Nu",
-    "source_hex": "dfdfdf3d645354203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c586354203d64202020202020202020202020202020",
-    "bytes": 27,
-    "pixels": 111
+    "source_hex": "dfdfdf3d645354203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D62B9",
     "offset": "0x6d62b9",
     "english": "Okie-Dokie Hermit",
     "french": "Ermite Ça-Roule",
-    "source_hex": "dfdfdf3e5a58541c335e5a5854203754615c586320dfdfdfdf",
-    "replacement_hex": "dfdfdf34615c58635420c3501c415e645b5420202020202020",
-    "bytes": 25,
-    "pixels": 117
+    "source_hex": "dfdfdf3e5a58541c335e5a5854203754615c586320dfdfdfdf"
   },
   {
     "id": "CRED-6D62D3",
     "offset": "0x6d62d3",
     "english": "Water Hermit",
     "french": "Ermite de l’Eau",
-    "source_hex": "dfdfdf4650635461203754615c5863dfdfdfdfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c586354205354205b163450642020202020",
-    "bytes": 23,
-    "pixels": 103
+    "source_hex": "dfdfdf4650635461203754615c5863dfdfdfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D62EB",
     "offset": "0x6d62eb",
     "english": "Jolt Hermit",
     "french": "Ermite Foudre",
-    "source_hex": "dfdfdf395e5b63203754615c5863df",
-    "replacement_hex": "dfdf34615c58635420355e64536154",
-    "bytes": 15,
-    "pixels": 77
+    "source_hex": "dfdfdf395e5b63203754615c5863df"
   },
   {
     "id": "CRED-6D62FB",
     "offset": "0x6d62fb",
     "english": "Buddhist Hermit",
     "french": "Ermite bouddhiste",
-    "source_hex": "dfdfdf3164535357586263203754615c5863df",
-    "replacement_hex": "dfdf34615c58635420515e6453535758626354",
-    "bytes": 19,
-    "pixels": 94
+    "source_hex": "dfdfdf3164535357586263203754615c5863df"
   },
   {
     "id": "CRED-6D630F",
     "offset": "0x6d630f",
     "english": "Peppy Hermit",
     "french": "Ermite Pétillant",
-    "source_hex": "dfdfdf3f545f5f68203754615c5863df",
-    "replacement_hex": "34615c586354203fa963585b5b505d63",
-    "bytes": 16,
-    "pixels": 70
+    "source_hex": "dfdfdf3f545f5f68203754615c5863df"
   },
   {
     "id": "CRED-6D6320",
     "offset": "0x6d6320",
     "english": "Binan Hermit",
     "french": "Ermite Binan",
-    "source_hex": "dfdfdf31585d505d203754615c5863df",
-    "replacement_hex": "dfdfdf34615c5863542031585d505d20",
-    "bytes": 16,
-    "pixels": 81
+    "source_hex": "dfdfdf31585d505d203754615c5863df"
   },
   {
     "id": "CRED-6D6331",
     "offset": "0x6d6331",
     "english": "Karen Hermit",
     "french": "Ermite Karen",
-    "source_hex": "dfdfdf3a5061545d203754615c5863df",
-    "replacement_hex": "dfdfdf34615c586354203a5061545d20",
-    "bytes": 16,
-    "pixels": 84
+    "source_hex": "dfdfdf3a5061545d203754615c5863df"
   },
   {
     "id": "CRED-6D6342",
     "offset": "0x6d6342",
     "english": "Stubborn Hermit",
     "french": "Ermite Têtu",
-    "source_hex": "dfdfdf42636451515e615d203754615c5863df",
-    "replacement_hex": "dfdfdf34615c5863542043ab63642020202020",
-    "bytes": 19,
-    "pixels": 93
+    "source_hex": "dfdfdf42636451515e615d203754615c5863df"
   },
   {
     "id": "CRED-6D6356",
     "offset": "0x6d6356",
     "english": "Bucking Hermit",
     "french": "Ermite Cabreur",
-    "source_hex": "dfdfdf3164525a585d56203754615c5863dfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c58635420325051615464612020202020",
-    "bytes": 22,
-    "pixels": 106
+    "source_hex": "dfdfdf3164525a585d56203754615c5863dfdfdfdfdf"
   },
   {
     "id": "CRED-6D636D",
     "offset": "0x6d636d",
     "english": "Witch Hermit",
     "french": "Ermite Sorcière",
-    "source_hex": "dfdfdf4658635257203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c58635420425e615258aa615420202020202020202020202020",
-    "bytes": 31,
-    "pixels": 132
+    "source_hex": "dfdfdf4658635257203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D638D",
     "offset": "0x6d638d",
     "english": "Booming Hermit",
     "french": "Ermite Tonitruant",
-    "source_hex": "dfdfdf315e5e5c585d56203754615c5863dfdfdfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c58635420435e5d58636164505d6320202020",
-    "bytes": 24,
-    "pixels": 117
+    "source_hex": "dfdfdf315e5e5c585d56203754615c5863dfdfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D63A6",
     "offset": "0x6d63a6",
     "english": "Bolt Hermit",
     "french": "Ermite Éclair",
-    "source_hex": "dfdfdf315e5b63203754615c5863df",
-    "replacement_hex": "dfdf34615c5863542099525b505861",
-    "bytes": 15,
-    "pixels": 72
+    "source_hex": "dfdfdf315e5b63203754615c5863df"
   },
   {
     "id": "CRED-6D63B6",
     "offset": "0x6d63b6",
     "english": "Pig Hermit",
     "french": "Ermite Cochon",
-    "source_hex": "dfdfdf3f5856203754615c5863df",
-    "replacement_hex": "df34615c58635420325e52575e5d",
-    "bytes": 14,
-    "pixels": 70
+    "source_hex": "dfdfdf3f5856203754615c5863df"
   },
   {
     "id": "CRED-6D63C5",
     "offset": "0x6d63c5",
     "english": "Swift Hermit",
     "french": "Ermite Rapide",
-    "source_hex": "dfdfdf4266585563203754615c5863df",
-    "replacement_hex": "dfdfdf34615c5863542041505f585354",
-    "bytes": 16,
-    "pixels": 83
+    "source_hex": "dfdfdf4266585563203754615c5863df"
   },
   {
     "id": "CRED-6D63D6",
     "offset": "0x6d63d6",
     "english": "Current Hermit",
     "french": "Ermite Courant",
-    "source_hex": "dfdfdf32646161545d63203754615c5863df",
-    "replacement_hex": "dfdfdf34615c58635420325e6461505d6320",
-    "bytes": 18,
-    "pixels": 94
+    "source_hex": "dfdfdf32646161545d63203754615c5863df"
   },
   {
     "id": "CRED-6D63E9",
     "offset": "0x6d63e9",
     "english": "Badge Hermit",
     "french": "Ermite des Insignes",
-    "source_hex": "dfdfdf3150535654203754615c5863df",
-    "replacement_hex": "34615c5863542053546220385d6258565d5462",
-    "bytes": 19,
-    "pixels": 83
+    "source_hex": "dfdfdf3150535654203754615c5863df"
   },
   {
     "id": "CRED-6D63FA",
     "offset": "0x6d63fa",
     "english": "Poor Hermit",
     "french": "Ermite Pauvre",
-    "source_hex": "dfdfdf3f5e5e61203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c586354203f506465615420202020202020202020202020",
-    "bytes": 29,
-    "pixels": 125
+    "source_hex": "dfdfdf3f5e5e61203754615c5863dfdfdfdfdfdfdfdfdfdfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D6418",
     "offset": "0x6d6418",
     "english": "Kamikaze Hermit",
     "french": "Ermite Kamikaze",
-    "source_hex": "dfdfdf3a505c585a506954203754615c5863dfdfdfdfdf",
-    "replacement_hex": "dfdfdf34615c586354203a505c585a5069542020202020",
-    "bytes": 23,
-    "pixels": 109
+    "source_hex": "dfdfdf3a505c585a506954203754615c5863dfdfdfdfdf"
   },
   {
     "id": "CRED-6D6430",
     "offset": "0x6d6430",
     "english": "Taking Hermit",
     "french": "Ermite de la Victoire",
-    "source_hex": "dfdfdf43505a585d56203754615c5863df",
-    "replacement_hex": "34615c586354205354205b5020455852635e586154",
-    "bytes": 21,
-    "pixels": 90
+    "source_hex": "dfdfdf43505a585d56203754615c5863df"
   },
   {
     "id": "CRED-6D6442",
     "offset": "0x6d6442",
     "english": "Frail Hermit",
     "french": "Ermite Frêle",
-    "source_hex": "dfdfdf356150585b203754615c5863df",
-    "replacement_hex": "dfdfdf34615c586354203561ab5b5420",
-    "bytes": 16,
-    "pixels": 81
+    "source_hex": "dfdfdf356150585b203754615c5863df"
   },
   {
     "id": "CRED-6D6453",
     "offset": "0x6d6453",
     "english": "Batty Hermit",
     "french": "Ermite Loufoque",
-    "source_hex": "dfdfdf3150636368203754615c5863df",
-    "replacement_hex": "df34615c586354203b5e64555e606454",
-    "bytes": 16,
-    "pixels": 80
+    "source_hex": "dfdfdf3150636368203754615c5863df"
   },
   {
     "id": "CRED-6D6464",
     "offset": "0x6d6464",
     "english": "Dozing Hermit",
     "french": "Ermite Assoupi",
-    "source_hex": "dfdfdf335e69585d56203754615c5863df",
-    "replacement_hex": "dfdfdf34615c586354203062625e645f58",
-    "bytes": 17,
-    "pixels": 88
+    "source_hex": "dfdfdf335e69585d56203754615c5863df"
   },
   {
     "id": "CRED-6D6476",
     "offset": "0x6d6476",
     "english": "Sennin Hermit",
     "french": "Ermite Sennin",
-    "source_hex": "dfdfdf42545d5d585d203754615c5863df",
-    "replacement_hex": "dfdfdf34615c5863542042545d5d585d20",
-    "bytes": 17,
-    "pixels": 86
+    "source_hex": "dfdfdf42545d5d585d203754615c5863df"
   },
   {
     "id": "CRED-6D6488",
     "offset": "0x6d6488",
     "english": "Basara Hermit",
     "french": "Ermite Basara",
-    "source_hex": "dfdfdf315062506150203754615c5863df",
-    "replacement_hex": "dfdfdf34615c5863542031506250615020",
-    "bytes": 17,
-    "pixels": 89
+    "source_hex": "dfdfdf315062506150203754615c5863df"
   },
   {
     "id": "CRED-6D649A",
     "offset": "0x6d649a",
     "english": "One-Shot Hermit",
     "french": "Ermite du Coup unique",
-    "source_hex": "dfdfdf3e5d541c42575e63203754615c5863dfdfdf",
-    "replacement_hex": "34615c58635420536420325e645f20645d58606454",
-    "bytes": 21,
-    "pixels": 95
+    "source_hex": "dfdfdf3e5d541c42575e63203754615c5863dfdfdf"
   },
   {
     "id": "CRED-6D64B0",
     "offset": "0x6d64b0",
     "english": "Flame Hermit",
     "french": "Ermite de la Flamme",
-    "source_hex": "dfdfdf355b505c54203754615c586320df",
-    "replacement_hex": "34615c586354205354205b5020355b505c5c54",
-    "bytes": 19,
-    "pixels": 85
+    "source_hex": "dfdfdf355b505c54203754615c586320df"
   },
   {
     "id": "CRED-6D64C2",
     "offset": "0x6d64c2",
     "english": "Sprightly Hermit",
     "french": "Ermite Alerte",
-    "source_hex": "dfdfdf425f61585657635b68203754615c5863df",
-    "replacement_hex": "dfdfdf34615c58635420305b5461635420202020",
-    "bytes": 20,
-    "pixels": 96
+    "source_hex": "dfdfdf425f61585657635b68203754615c5863df"
   },
   {
     "id": "CRED-6D64D7",
     "offset": "0x6d64d7",
     "english": "Takamagahara Hermit",
     "french": "Ermite de Takamagahara",
-    "source_hex": "dfdfdf43505a505c50565057506150203754615c586320df",
-    "replacement_hex": "dfdf34615c5863542053542043505a505c50565057506150",
-    "bytes": 24,
-    "pixels": 124
+    "source_hex": "dfdfdf43505a505c50565057506150203754615c586320df"
   },
   {
     "id": "CRED-6D64F2",
     "offset": "0x6d64f2",
     "english": "Shiranui, the Swordsman of Darkness",
     "french": "Shiranui, le sabreur des ténèbres",
-    "source_hex": "dfdfdfdf42575861505d64581b206357542042665e6153625c505d205e55203350615a5d546262df",
-    "replacement_hex": "dfdfdfdf42575861505d64581b205b542062505161546461205354622063a95daa51615462202020",
-    "bytes": 40,
-    "pixels": 189
+    "source_hex": "dfdfdfdf42575861505d64581b206357542042665e6153625c505d205e55203350615a5d546262df"
   },
   {
     "id": "CRED-6D651D",
     "offset": "0x6d651d",
     "english": "Byakuen <17>Gramps<18>",
     "french": "Byakuen <17>Papi<18>",
-    "source_hex": "dfdfdfdf3168505a64545d20173661505c5f6218dfdfdfdfdfdf",
-    "replacement_hex": "dfdfdfdf3168505a64545d20173f505f58182020202020202020",
-    "bytes": 26,
-    "pixels": 121
+    "source_hex": "dfdfdfdf3168505a64545d20173661505c5f6218dfdfdfdfdfdf"
   },
   {
     "id": "CRED-6D656B",
     "offset": "0x6d656b",
     "english": "Omine the Gracious",
     "french": "Omine au grand cœur",
-    "source_hex": "dfdfdfdf3e5c585d54206357542036615052585e6462df",
-    "replacement_hex": "dfdfdfdf3e5c585d54205064205661505d532052af6461",
-    "bytes": 23,
-    "pixels": 124
+    "source_hex": "dfdfdfdf3e5c585d54206357542036615052585e6462df"
   },
   {
     "id": "CRED-6D6592",
     "offset": "0x6d6592",
     "english": "Gen <17>the carpenter<18>",
     "french": "Gen <17>le charpentier<18>",
-    "source_hex": "dfdfdf36545d2017635754205250615f545d63546118df",
-    "replacement_hex": "dfdfdf36545d20175b5420525750615f545d6358546118",
-    "bytes": 23,
-    "pixels": 114
+    "source_hex": "dfdfdf36545d2017635754205250615f545d63546118df"
   },
   {
     "id": "CRED-6D65AA",
     "offset": "0x6d65aa",
     "english": "Mankichi <17>the great treasure hunter<18>",
     "french": "Mankichi <17>grand chasseur de trésors<18>",
-    "source_hex": "dfdfdf3c505d5a5852575820176357542056615450632063615450626461542057645d63546118df",
-    "replacement_hex": "dfdfdf3c505d5a5852575820175661505d53205257506262546461205354206361a9625e61621820",
-    "bytes": 40,
-    "pixels": 194
+    "source_hex": "dfdfdf3c505d5a5852575820176357542056615450632063615450626461542057645d63546118df"
   },
   {
     "id": "CRED-6D65D3",
     "offset": "0x6d65d3",
     "english": "Rokusuke <17>of the Great Weapon Shop<18>",
     "french": "Rokusuke <17>de la grande armurerie<18>",
-    "source_hex": "dfdfdf415e5a6462645a5420175e5520635754203661545063204654505f5e5d2042575e5f18df",
-    "replacement_hex": "dfdfdf415e5a6462645a5420175354205b50205661505d53542050615c64615461585418202020",
-    "bytes": 39,
-    "pixels": 185
+    "source_hex": "dfdfdf415e5a6462645a5420175e5520635754203661545063204654505f5e5d2042575e5f18df"
   },
   {
     "id": "CRED-6D65FB",
     "offset": "0x6d65fb",
     "english": "The Rat Man",
     "french": "L’Homme-rat",
-    "source_hex": "dfdfdf43575420415063203c505ddf",
-    "replacement_hex": "dfdfdf3b16375e5c5c541c61506320",
-    "bytes": 15,
-    "pixels": 84
+    "source_hex": "dfdfdf43575420415063203c505ddf"
   },
   {
     "id": "CRED-6D6643",
     "offset": "0x6d6643",
     "english": "Production and Script",
     "french": "Production et scénario",
-    "source_hex": "dfdfdf3f615e53645263585e5d20505d5320425261585f63",
-    "replacement_hex": "dfdf3f615e53645263585e5d205463206252a95d5061585e",
-    "bytes": 24,
-    "pixels": 117
+    "source_hex": "dfdfdf3f615e53645263585e5d20505d5320425261585f63"
   }
 ]
