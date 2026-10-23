@@ -1,0 +1,81 @@
+{
+  "version": "V55",
+  "lot": 49,
+  "phase": 1,
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "ips_sha256": "fd364fe30fbad1433bef0c9c45beb5db07377bb64944efe3c5f9e8c1153e94e5",
+  "new_distinct_texts": 400,
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "tag": "recoveryf",
+  "native_lookup_checks": 7602,
+  "native_consumer_checks": {
+    "battle_copy_and_width": 235,
+    "sequential_credits_copy": 629,
+    "credits_line_base_cases": 24,
+    "scroll_compact_full_pairs": 36
+  },
+  "storage_checks": 14,
+  "ips_roundtrip": true,
+  "old_french_full_text_corrections": 0,
+  "display_corrections": 25,
+  "fresh_runtime": {
+    "standard_boot_reset_A_B": "passed",
+    "navigation": "passed",
+    "field_fixture_cases": 235,
+    "field_captures_reviewed": 233,
+    "field_sheets": 15,
+    "battle_fixture_cases": 235,
+    "battle_captures_reviewed": 233,
+    "battle_sheets": 15,
+    "credits_native_records": 629,
+    "credits_ppu_translated_occurrences_matching_full_native_pixels": 122,
+    "credits_sheets_reviewed": 8,
+    "ui_cases_reviewed": 15,
+    "native_2bpp_strips_reviewed": 64,
+    "natural_controller_replay": "789commands26953frames; first Boisé#1,6ryo/3vertu/kusa dango,return field; representative captures read",
+    "real_almanac": "1995-12-22; same-ROM real controller navigation"
+  },
+  "regression_v54": {
+    "startup_frames_compared": 85,
+    "startup_identical": 80,
+    "navigation_frames_compared": 7,
+    "navigation_identical": 5,
+    "changed_menu_frames_reviewed": 7,
+    "scope": "Only listed captures. Differences are translated menus; no complete pixel identity claim."
+  },
+  "cores": {
+    "standard": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+    "diagnostic_lot49_styles": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394",
+    "diagnostic_lot49_battle": "ee68469a9f9c3def4e138b3cdde41e1e9b85f4645fce2ffb214a7adc910fa658",
+    "diagnostic_lot49_context": "c2883ce68c69c6c93fe02c77930e70111155443806b85f1f2b88c1e018dccc70"
+  },
+  "proof_reports": [
+    "native_banners_lot49_recovery.json",
+    "native_credits_lot49_recovery.json",
+    "native_scroll_lot49_recovery.json",
+    "native_credits_line_start_lot49_recovery.json",
+    "storage_checks_v55.json",
+    "scenes_v55/render_report.json",
+    "banners_lot49_recovery/report.json",
+    "credits_lot49_recovery/report.json",
+    "ui_lot49_recovery/report.json",
+    "graphics_lot49_recovery/report.json",
+    "natural_lot49_recovery/report.json"
+  ],
+  "publication": "Complete lot49 validated. Remote main commit and tree are publication proof.",
+  "limitations": [
+    "Phase1 reste ouverte :formats/événements encore à parcourir, sélecteurs, autres dates et branches, synchronisation des chansons.",
+    "Stratégie :onglets/liste de commandes encore anglais, malgré les libellés de tactique Manuel/Garder/Attaq. français. Certains noms fixes d’objets et champs Rank/Health restent anglais.",
+    "Générique validé par flux séquentiel natif en contexte PPU diagnostique, pas par progression naturelle jusqu’à la fin.",
+    "Les235 bandeaux sont des fixtures FD8B, pas la preuve de chaque attaque/ennemi rencontré naturellement.",
+    "Bloc42 non borné, graphismes/accessions calculées hors inventaire et autres fins/épilogues restent à auditer.",
+    "Phase3 globale non achevée :zones/branches, harmonisation des ermites, sens contextuel de Taking Hermit et autres jeux de mots à réexaminer."
+  ],
+  "post_build_strict_audit": {
+    "tool": "tools/audit_prior_sources_lot49.py",
+    "sha256": "f5f5a71f19d188e70e745dd16cd5477d7379972bf4ae00181cca882cf5a2fc9a",
+    "passed": 400,
+    "scope": "Explicit prior-source exclusion, executed separately; ROM unchanged."
+  },
+  "independent_build_exact_same_rom": true
+}

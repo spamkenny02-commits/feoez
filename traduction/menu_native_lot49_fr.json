@@ -1,0 +1,105 @@
+[
+  {
+    "id": "NUI-00E6FC",
+    "english": "Attack",
+    "french": "Attaq.",
+    "lines": [
+      {
+        "offset": "0xe6fc",
+        "english": "Attack",
+        "french": "Attaq.",
+        "width_pixels": 64
+      }
+    ]
+  },
+  {
+    "id": "NUI-00E703",
+    "english": "Manual",
+    "french": "Manuel",
+    "lines": [
+      {
+        "offset": "0xe703",
+        "english": "Manual",
+        "french": "Manuel",
+        "width_pixels": 64
+      }
+    ]
+  },
+  {
+    "id": "NUI-00E70A",
+    "english": "Defend",
+    "french": "Garder",
+    "lines": [
+      {
+        "offset": "0xe70a",
+        "english": "Defend",
+        "french": "Garder",
+        "width_pixels": 64
+      }
+    ]
+  },
+  {
+    "id": "NUI-00EF92",
+    "english": "Equipment",
+    "french": "Équip.",
+    "lines": [
+      {
+        "offset": "0xef92",
+        "english": " Equipment",
+        "french": " Équip.",
+        "width_pixels": 104
+      }
+    ]
+  },
+  {
+    "id": "NUI-00EFA1",
+    "english": "Secret Skills",
+    "french": "Arts secrets",
+    "lines": [
+      {
+        "offset": "0xefa1",
+        "english": " Secret Skills",
+        "french": " Arts secrets",
+        "width_pixels": 104
+      }
+    ]
+  },
+  {
+    "id": "NUI-0362C0",
+    "english": "Settings",
+    "french": "Réglages",
+    "lines": [
+      {
+        "offset": "0x362c0",
+        "english": "Settings",
+        "french": "Réglages",
+        "width_pixels": 128
+      }
+    ]
+  },
+  {
+    "id": "NUI-CLOCK-HELP",
+    "english": "If you press the Start Button, you can adjust the clock to the nearest minute.",
+    "french": "Appuie sur Start pour régler l’horloge sur la minute la plus proche.",
+    "lines": [
+      {
+        "offset": "0xedb9",
+        "english": "If you press the Start Button,",
+        "french": "Appuie sur Start pour régler",
+        "width_pixels": 216
+      },
+      {
+        "offset": "0xeddc",
+        "english": "you can adjust the clock to the",
+        "french": "l’horloge sur la minute",
+        "width_pixels": 216
+      },
+      {
+        "offset": "0xee00",
+        "english": "nearest minute.",
+        "french": "la plus proche.",
+        "width_pixels": 216
+      }
+    ]
+  }
+]

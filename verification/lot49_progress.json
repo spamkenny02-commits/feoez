@@ -1,0 +1,27 @@
+{
+  "lot": 49,
+  "target": 400,
+  "canonical_sources_prepared": 400,
+  "baseline_commit": "85e5e80decbfb39dfb85e645664ca54b036e83e4",
+  "phase": 1,
+  "status": "complete_400_validated_single_publication_payload",
+  "counts": {
+    "bounded_distinct": 231,
+    "bounded_occurrences": 235,
+    "credits_distinct": 114,
+    "credits_occurrences": 122,
+    "graphical_distinct": 51,
+    "graphical_strips": 64,
+    "native_ui_distinct": 4,
+    "scroll_display_corrections_not_new": 25
+  },
+  "recovery_candidate_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "pre_loss_candidate_sha256": "01be583639bf0744077dc56d388544ef92606ce0570f5ee9f56316758b6fedd4",
+  "remaining": [
+    "Expected-parent publication and remote commit/tree verification"
+  ],
+  "candidate_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "canonical_sources_integrated": 400,
+  "runtime_tests": "passed on exact ROM; final7602 native rebuild and storage equality passed",
+  "publication_proof": "Remote main commit/tree; do not restart this lot based on an older prompt."
+}

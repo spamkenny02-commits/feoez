@@ -1,0 +1,13 @@
+{
+  "lot": 49,
+  "scope": "Bounded dialogue-window fixtures only; actual native banners/UI/credits separate.",
+  "groups": [
+    {
+      "name": "bounded",
+      "cases": "cases_v55.json",
+      "core_filename": "snes9x_libretro_diagnostic_lot49_styles.so",
+      "core_sha256": "d4aef73ad947c6eb201708d1104f762e7b3374fc45a1de7001db9fdfbc74a394"
+    }
+  ],
+  "case_count": 235
+}

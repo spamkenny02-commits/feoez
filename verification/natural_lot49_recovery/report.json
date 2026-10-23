@@ -1,0 +1,198 @@
+{
+  "rom_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "selected_captures": [
+    {
+      "label": "system check_a.png",
+      "source_sha256": "1662b5d05b3de398aa308b1835cea736d021cbd18dc57bfe52900fae1ed814a2",
+      "sheet": "misc_000.png",
+      "tile": 0
+    },
+    {
+      "label": "system check_b.png",
+      "source_sha256": "ad6cb3eac4b8bb913805edbbc328e91431bd5e7d8d00ba9ef0ec191856b47a51",
+      "sheet": "misc_000.png",
+      "tile": 1
+    },
+    {
+      "label": "system main_menu.png",
+      "source_sha256": "1d4a01fad5baa7356bb919b7e11fd991c58e529836b3910a82870dc720374504",
+      "sheet": "misc_000.png",
+      "tile": 2
+    },
+    {
+      "label": "system settings.png",
+      "source_sha256": "8c53e32a1dd25ebfc0346454d5a95f8c59d88b196e344651cb07a6c1c9cd15a1",
+      "sheet": "misc_000.png",
+      "tile": 3
+    },
+    {
+      "label": "system region_map.png",
+      "source_sha256": "042d6f0678f71c46f38481a0a6884bc39b2e9b410b444847be979ee123fa99a9",
+      "sheet": "misc_000.png",
+      "tile": 4
+    },
+    {
+      "label": "changed field_menu_x.png",
+      "source_sha256": "0734d1487fc304a2ca3da93ad5b18b96b3a891ac8d1756917378ff1f10389d96",
+      "sheet": "misc_000.png",
+      "tile": 5
+    },
+    {
+      "label": "changed menu_settings_start.png",
+      "source_sha256": "0734d1487fc304a2ca3da93ad5b18b96b3a891ac8d1756917378ff1f10389d96",
+      "sheet": "misc_000.png",
+      "tile": 6
+    },
+    {
+      "label": "changed settings_lower.png",
+      "source_sha256": "6016e81257769f8af7827bf82329c5b4f8c06326953ae8cc6ac35f00489cdb65",
+      "sheet": "misc_000.png",
+      "tile": 7
+    },
+    {
+      "label": "changed settings_open.png",
+      "source_sha256": "9071d987e7c743866c9ed7b37b73f023c78d849f46450fef9220f01f12af77c4",
+      "sheet": "misc_000.png",
+      "tile": 8
+    },
+    {
+      "label": "changed settings_selected.png",
+      "source_sha256": "6a029ae46f3b9a9aecf433ad8dbf4e3820660febc6dd3aff720f633a9ef44e08",
+      "sheet": "misc_000.png",
+      "tile": 9
+    },
+    {
+      "label": "real Almanac",
+      "source_sha256": "f7bcb4824a6a4bbe6c69c50e2a398044902a380ff52ab2193341671bd4a7063f",
+      "sheet": "misc_000.png",
+      "tile": 10
+    },
+    {
+      "label": "natural battle_round_b00_0",
+      "source_sha256": "8c5da0f7e98a08a2b5bdd5d6c29f1e132e41ccabfd56b8f4a188b5997c42547a",
+      "sheet": "misc_000.png",
+      "tile": 11
+    },
+    {
+      "label": "natural battle_round_b02_2",
+      "source_sha256": "6bc54b2d1c3a69113c14a86bdb1acf867f0a946e3b9b4dab67ff40f7eb69e6d9",
+      "sheet": "misc_000.png",
+      "tile": 12
+    },
+    {
+      "label": "natural battle_round_b04_4",
+      "source_sha256": "140a9056e86396a23bc405392eecac2ac28329442d93e5d466d44caa604a6507",
+      "sheet": "misc_000.png",
+      "tile": 13
+    },
+    {
+      "label": "natural battle_round_b07_1",
+      "source_sha256": "028dbb5f914c5785e3fcda302aad0d9f9591a5c943656b3ba3d8c3da8d0702b5",
+      "sheet": "misc_000.png",
+      "tile": 14
+    },
+    {
+      "label": "natural battle_round_b09_3",
+      "source_sha256": "58fe2460bdfa856c6b0c44d31b2d27c18bb2b0a996554ca1e41bc051ab3bdd27",
+      "sheet": "misc_000.png",
+      "tile": 15
+    },
+    {
+      "label": "natural battle_round_b12_0",
+      "source_sha256": "a1979da1d73c6656d7afa46990caad8e5b80d3aaa3d2c7fcba8c61b38a1734d7",
+      "sheet": "misc_001.png",
+      "tile": 0
+    },
+    {
+      "label": "natural battle_round_b14_2",
+      "source_sha256": "d6d201f5f5e6db01dbefa5cc6e4e8e722c1ad5cef9dbe91bc50f383b78174fae",
+      "sheet": "misc_001.png",
+      "tile": 1
+    },
+    {
+      "label": "natural battle_round_b16_4",
+      "source_sha256": "58fe2460bdfa856c6b0c44d31b2d27c18bb2b0a996554ca1e41bc051ab3bdd27",
+      "sheet": "misc_001.png",
+      "tile": 2
+    },
+    {
+      "label": "natural battle_round_b19_1",
+      "source_sha256": "a1979da1d73c6656d7afa46990caad8e5b80d3aaa3d2c7fcba8c61b38a1734d7",
+      "sheet": "misc_001.png",
+      "tile": 3
+    },
+    {
+      "label": "natural battle_round_b21_3",
+      "source_sha256": "d6d201f5f5e6db01dbefa5cc6e4e8e722c1ad5cef9dbe91bc50f383b78174fae",
+      "sheet": "misc_001.png",
+      "tile": 4
+    },
+    {
+      "label": "natural battle_round_b24_0",
+      "source_sha256": "a1979da1d73c6656d7afa46990caad8e5b80d3aaa3d2c7fcba8c61b38a1734d7",
+      "sheet": "misc_001.png",
+      "tile": 5
+    },
+    {
+      "label": "natural battle_round_b26_2",
+      "source_sha256": "58fe2460bdfa856c6b0c44d31b2d27c18bb2b0a996554ca1e41bc051ab3bdd27",
+      "sheet": "misc_001.png",
+      "tile": 6
+    },
+    {
+      "label": "natural battle_round_b28_4",
+      "source_sha256": "d6d201f5f5e6db01dbefa5cc6e4e8e722c1ad5cef9dbe91bc50f383b78174fae",
+      "sheet": "misc_001.png",
+      "tile": 7
+    },
+    {
+      "label": "natural yonder_scene_talk00",
+      "source_sha256": "92d73d11e055814bb85d0f02baf737df4d83274f1d1a50627185d58390ac73c7",
+      "sheet": "misc_001.png",
+      "tile": 8
+    },
+    {
+      "label": "natural yonder_scene_talk05",
+      "source_sha256": "c243689b307ee6dea5d34b82fe508087b766037d8d48ce111b894516b943528f",
+      "sheet": "misc_001.png",
+      "tile": 9
+    },
+    {
+      "label": "natural yonder_scene_talk10",
+      "source_sha256": "1869d932ba89004ed9a9d56c532a1c5c88feec0024016f3e95c700eedb3cece7",
+      "sheet": "misc_001.png",
+      "tile": 10
+    },
+    {
+      "label": "natural yonder_scene_talk15",
+      "source_sha256": "6d236b936d4c710355177e6fad4873b75407aaaaa2535e9e3057f34ab0533a9d",
+      "sheet": "misc_001.png",
+      "tile": 11
+    },
+    {
+      "label": "natural natural_replay_final",
+      "source_sha256": "58fe2460bdfa856c6b0c44d31b2d27c18bb2b0a996554ca1e41bc051ab3bdd27",
+      "sheet": "misc_001.png",
+      "tile": 12
+    }
+  ],
+  "scope": "Full controller replay completed; only listed representative screens visually reread. Not all natural branches.",
+  "visual_review": "reviewed actual listed captures on this exact ROM; scope limitations retained",
+  "rewards": [
+    {
+      "file": "battle_round_b04_4.png",
+      "sha256": "140a9056e86396a23bc405392eecac2ac28329442d93e5d466d44caa604a6507",
+      "reviewed": true
+    },
+    {
+      "file": "battle_round_b05_2.png",
+      "sha256": "bf8459e9d66098ae17949b6b79286d4bce7373cdc1e3801022dda6b090b3b124",
+      "reviewed": true
+    },
+    {
+      "file": "battle_round_b06_2.png",
+      "sha256": "44cee9c9ac0a898e4337a890f0464e82ed84320f65a69b921f53a30e9b9a43c1",
+      "reviewed": true
+    }
+  ]
+}

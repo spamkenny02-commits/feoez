@@ -1,3 +1,42 @@
+# État actuel — V55, lot49 complet
+
+400 nouveaux textes distincts :231 sources bornées (235 occurrences),
+114 sources du générique (122 occurrences),51 textes graphiques (64 bandes),
+4 textes natifs (7 groupes). Variantes et fragments exclus ;aucun debug ajouté.
+Les6534 anciennes occurrences V54 sont préservées, total6769 occurrences.
+25 corrections d’abréviations d’affichage des parchemins ;aucune modification
+des formes françaises complètes B004/B006. Deux correctifs du moteur du
+générique ne sont pas comptés comme traductions.
+ROM :2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c.
+
+7602 lectures natives ;235 copies/largeurs de bandeaux ;629 copies de lignes
+du générique ;24 cas de nettoyage/limite du tampon ;36 paires abrégé/complet.
+235 fixtures de dialogue,235 de bandeau :233 captures distinctes par contexte,
+relues sur15+15 planches. Générique séquentiel :122 occurrences traduites avec
+correspondance intégrale des pixels de glyphes, relues sur8 planches.
+64 bandes2bpp relues, séparées des vues PPU réellement parcourues.
+Démarrage A/reset/B/navigation frais ;80/85 captures de démarrage et5/7 de
+navigation identiques àV54. Les7 différences de menus traduits sont relues.
+Parcours naturel789 commandes26953 frames :Boisé#1, gains6ryo/3vertu,
+kusa dango et retour terrain ;Almanach22/12/1995 rouvert sur cette ROM.
+
+Le cache des36 parchemins est limité à24px et possède un wrapper propre au
+seul appelC06F58 ;les autres lecteurs conservent les noms complets. Le
+flux629 du générique conserve les positions vides, contributeurs etFF4D668C.
+Le wrapper du générique appelle le nettoyage natif avant le snapshot1C91 ;
+la largeur de nettoyage passe de15 à27 colonnes. Aucun changement des délais.
+
+Phase1 reste ouverte. Phase2 :objets/commandes/Stratégie/graphismes anglais,
+accès calculés et bloc42 non borné à auditer. Phase3 :relecture complète des
+zones/branches, cohérence, sélecteurs/dates et synchronisation des chansons.
+Le générique est éprouvé en contexte d’écran diagnostique, pas par une fin
+naturelle. Les fixtures de combat ne valident pas tous les déclenchements.
+Restent2269 entrées bornées dont762 non vides, menus/debug compris ;ce n’est
+pas un pourcentage de couverture. Voir coverage_v55.json/relecture_v55.json.
+Le HEAD distant et son arbre restent la preuve de publication.
+
+---
+
 # État actuel — V54, lot48 complet
 
 400 nouveaux textes distincts sur573 occurrences :233 aides/libellés et167

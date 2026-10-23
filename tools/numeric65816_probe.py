@@ -129,6 +129,10 @@ class NumericCPU:
             elif op==0x8a:self.set_a(self.X)
             elif op==0x65:self.adc(self.read(self.fetch(),mw))
             elif op==0x69:self.adc(self.fetch(mw))
+            elif op==0x6d:self.adc(self.read(self.fetch(2),mw))
+            elif op==0xed:self.adc(self.read(self.fetch(2),mw)^((1<<(8*mw))-1))
+            elif op==0xee:
+                addr=self.fetch(2);v=(self.read(addr,mw)+1)&((1<<(8*mw))-1);self.write(addr,v,mw);self.nz(v,mw)
             elif op==0x77:self.adc(self.read((self.read(self.fetch(),3)+self.Y)&0xffffff,mw))
             elif op==0xa9:self.set_a(self.fetch(mw))
             elif op==0xa5:self.set_a(self.read(self.fetch(),mw))

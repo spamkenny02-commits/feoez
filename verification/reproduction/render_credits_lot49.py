@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+"""Full629-line native credits flow in explicit staged PPU context, not ending."""
+import argparse,subprocess,os,json,hashlib,sys
+from pathlib import Path
+p=argparse.ArgumentParser();p.add_argument('--rom',type=Path,required=True);p.add_argument('--core',type=Path,required=True);p.add_argument('--state',type=Path,required=True);p.add_argument('--out',type=Path,required=True);p.add_argument('--verify-existing',action='store_true');a=p.parse_args();assert a.verify_existing or not a.out.exists();a.out.mkdir(parents=True,exist_ok=a.verify_existing)
+cmd=[{'load':str(a.state.resolve()),'frames':0},{'frames':1}]+[{'frames':128,'screenshot':f'credits_{i:03}'} for i in range(164)]+[{'ram':{'offset':'0xe6','length':3}},{'quit':True}];env=dict(os.environ,FEOE_LOT49_CREDITS='1');sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+if not a.verify_existing:
+ with (a.out/'console.log').open('w') as f:subprocess.run([sys.executable,str(Path(__file__).parent/'libretro_runner.py'),'--core',str(a.core.resolve()),'--rom',str(a.rom.resolve()),'--out',str(a.out.resolve())],input=''.join(json.dumps(x)+'\n' for x in cmd),text=True,stdout=f,stderr=subprocess.STDOUT,env=env,check=True)
+log=(a.out/'console.log').read_text();assert any(json.loads(l).get('source_sha256')==sha(a.rom) for l in log.splitlines() if l.startswith('{'));assert 'FEOE_LOT49 credits_fixture_dispatch' in log;copies=[x for x in log.splitlines() if 'FEOE_LOT49 credits_copy cursor=' in x];assert len(copies)>=629 and 'cursor=4d5000' in copies[0];assert any(json.loads(l).get('ram_hex')=='8c 66 4d' for l in log.splitlines() if l.startswith('{'))
+(a.out/'report.json').write_text(json.dumps({'rom_sha256':sha(a.rom),'core_sha256':sha(a.core),'entry_state_sha256':sha(a.state),'native_copies_logged':len(copies),'scope':'Explicit FD-A2 screen-context fixture. Native sequential copy/font/tilemap/DMA/scroll. No natural final boss or ending progression.','captures':164,'visual_review':'pending'},indent=2)+'\n');print('PASS full credits flow; visual review pending')
