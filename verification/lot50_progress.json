@@ -3,7 +3,7 @@
   "target_distinct_new_texts": 400,
   "new_distinct_sources_prepared": 14,
   "historical_integrated_sources_before_loss": 8,
-  "current_combined_candidate": null,
+  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery14c.sfc",
   "published": false,
   "phase": 1,
   "phase_end_proven": false,
@@ -14,5 +14,8 @@
     "Restore diagnostic tools and fresh same-ROM proof",
     "Continue real remaining menus/branches and source classification;no debug padding",
     "Reach400 or prove actual phase remainder before one main publication"
-  ]
+  ],
+  "latest_candidate_rom_sha256": "0266d0e3b5ea14c26a937bcca181a6aad1cfe33bcd09ee75b60cef24584a4727",
+  "new_distinct_sources_integrated_in_recovery": 14,
+  "partial_runtime_evidence": "Fresh boot and diagnostic shop entry;6 shop sources have exact VRAM/tilemap checks and9 full captures actually read. Weakness expansion/PPU,303 item variants,full AB/navigation/natural regression still pending."
 }

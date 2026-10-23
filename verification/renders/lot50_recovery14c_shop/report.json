@@ -1,0 +1,141 @@
+{
+  "rom_sha256": "0266d0e3b5ea14c26a937bcca181a6aad1cfe33bcd09ee75b60cef24584a4727",
+  "native_vram_checks": [
+    {
+      "id": "SHOP-BUY",
+      "view": "main",
+      "vram": "0x7200",
+      "source": "0x6f4700",
+      "bytes": 32,
+      "tiles": [
+        288,
+        289
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-SELL",
+      "view": "main",
+      "vram": "0x7220",
+      "source": "0x6f4720",
+      "bytes": 32,
+      "tiles": [
+        290,
+        291
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-GREETING",
+      "view": "main",
+      "vram": "0x7240",
+      "source": "0x6f4740",
+      "bytes": 80,
+      "tiles": [
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-OWNED",
+      "view": "buy",
+      "vram": "0x7830",
+      "source": "0x6f4d30",
+      "bytes": 64,
+      "tiles": [
+        387,
+        388,
+        389,
+        390
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-SELL-QUESTION",
+      "view": "sell",
+      "vram": "0x7290",
+      "source": "0x6d3090",
+      "bytes": 176,
+      "tiles": [
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-PHARMACIST",
+      "view": "main",
+      "vram": "0x7d00",
+      "source": "0x6d1300",
+      "bytes": 160,
+      "tiles": [
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473
+      ],
+      "exact": true
+    }
+  ],
+  "help_line_exact": true,
+  "sell_cash_variant_exact": true,
+  "full_captures": [
+    {
+      "id": "back",
+      "pixels_sha256": "43c96f0e82ccbb75dc07c9bf78209039cc2a4de8eead31f11ca22d850f86893e"
+    },
+    {
+      "id": "buy",
+      "pixels_sha256": "b0567f724991bf2c6d3b8caa67860e49d51a35b94c2b89c66230367d9d97601c"
+    },
+    {
+      "id": "cancel_sell",
+      "pixels_sha256": "6d24559b719f0ad3830a214344ea883500b5e2ed2147e2a1ea67e38835223c89"
+    },
+    {
+      "id": "choice",
+      "pixels_sha256": "28c76ad98e61e20423019b36d0e22d37e16d6fcf00a81da79d505707d9bbed11"
+    },
+    {
+      "id": "greeting",
+      "pixels_sha256": "24c16a6c6b64630989af24546f3411094d59ea88ece2b69d5c023ccaa9b9b60a"
+    },
+    {
+      "id": "leave",
+      "pixels_sha256": "eeef5aceb25676bf0f3001d9149e687fee18daa596b8258351ea7b41d1d4b484"
+    },
+    {
+      "id": "main",
+      "pixels_sha256": "6d24559b719f0ad3830a214344ea883500b5e2ed2147e2a1ea67e38835223c89"
+    },
+    {
+      "id": "sell",
+      "pixels_sha256": "103f931a739e02c8a2fe5920e48b5a38acc60e37f46e25d58ac80dbe9c743794"
+    },
+    {
+      "id": "sell_choice",
+      "pixels_sha256": "43c96f0e82ccbb75dc07c9bf78209039cc2a4de8eead31f11ca22d850f86893e"
+    }
+  ],
+  "all_capture_pixels_preserved": true,
+  "visual_review": "Entire9 full screenshots actually read on one sheet;no text overflow observed;English item bitmap names/bookmark labels remain",
+  "scope": "Not natural shop visit or successful transaction proof"
+}
