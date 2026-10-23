@@ -1,0 +1,144 @@
+[
+  {
+    "id": "SHOP-BUY",
+    "english": "Buy",
+    "french": "Acheter",
+    "french_in_game": "Ach",
+    "strips": [
+      {
+        "offset": "0x6f4700",
+        "tiles": 2,
+        "french": "Ach",
+        "pixels": 16,
+        "source_hex": "10e048904a9412e44a944a9410e300000000000052a452a452a4429c42840418"
+      },
+      {
+        "offset": "0x6d3000",
+        "tiles": 2,
+        "french": "Ach",
+        "pixels": 16,
+        "source_hex": "10e048904a9412e44a944a9410e300000000000052a452a452a4429c42840418",
+        "usage": "Exact work-bank copy;not a new source"
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  },
+  {
+    "id": "SHOP-SELL",
+    "english": "Sell",
+    "french": "Vendre",
+    "french_in_game": "Vte",
+    "strips": [
+      {
+        "offset": "0x6f4720",
+        "tiles": 2,
+        "french": "Vte",
+        "pixels": 14,
+        "source_hex": "106048904083126408174a941063000014281428942854a854a8142854a80000"
+      },
+      {
+        "offset": "0x6d3020",
+        "tiles": 2,
+        "french": "Vte",
+        "pixels": 14,
+        "source_hex": "106048904083126408174a941063000014281428942854a854a8142854a80000",
+        "usage": "Exact work-bank copy;not a new source"
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  },
+  {
+    "id": "SHOP-GREETING",
+    "english": "Welcome! How can I help you?",
+    "french": "Bonjour ! Que désirez-vous ?",
+    "french_in_game": "Bonjour ! / Votre choix ?",
+    "strips": [
+      {
+        "offset": "0x6f4740",
+        "tiles": 5,
+        "french": "Bonjour !",
+        "pixels": 39,
+        "source_hex": "448844884489458a54ab25da448900000810081048932a542ad40a1428d3000000000000841952a5122552a5841900000000000010e3aa54a857aa54a853000010201020902050a050a0000050a00000"
+      },
+      {
+        "offset": "0x6d3040",
+        "tiles": 5,
+        "french": "Bonjour !",
+        "pixels": 39,
+        "source_hex": "448844884489458a54ab25da448900000810081048932a542ad40a1428d3000000000000841952a5122552a5841900000000000010e3aa54a857aa54a853000010201020902050a050a0000050a00000",
+        "usage": "Exact work-bank copy;not a new source"
+      },
+      {
+        "offset": "0x6f4790",
+        "tiles": 11,
+        "french": "Votre choix ?",
+        "pixels": 61,
+        "source_hex": "4890489048930af44a944a944893000000000000912251a251a255aa8a140000000000000418122510211225041800000000000011ee94299429942914e90000021c04080408840884088408821c0000204020400871254a244b254a244900000810081048972a542ad408172ad4020400000000840944894489800700010106000000008932a54aa54aa54a88310000010e0811285121422244204022c4000000008000800000000000000000000000"
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  },
+  {
+    "id": "SHOP-OWNED",
+    "english": "Owned",
+    "french": "Possédé",
+    "french_in_game": "Stock",
+    "strips": [
+      {
+        "offset": "0x6f4d30",
+        "tiles": 4,
+        "french": "Stock",
+        "pixels": 24,
+        "source_hex": "08704488458a458a458a458a0871000000000000112e1429142954a9a4490000000000000831a54a857aa142843900002040204020c020402040204020c00000"
+      },
+      {
+        "offset": "0x6d3630",
+        "tiles": 4,
+        "french": "Stock",
+        "pixels": 24,
+        "source_hex": "08704488458a458a458a458a0871000000000000112e1429142954a9a4490000000000000831a54a857aa142843900002040204020c020402040204020c00000",
+        "usage": "Exact work-bank copy;not a new source"
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  },
+  {
+    "id": "SHOP-SELL-QUESTION",
+    "english": "What will you sell?",
+    "french": "Que vendez-vous ?",
+    "french_in_game": "Que vendre ?",
+    "strips": [
+      {
+        "offset": "0x6d3090",
+        "tiles": 11,
+        "french": "Que vendre ?",
+        "pixels": 59,
+        "source_hex": "458a458a448b458a55aa25da458a000000000000418e295229522952214e00002040204011e221422142214220410000050a0102152a152a152a55aaa54a000040804080448944894489408740810106000000008932a54aa54aa54a8831000000000000204322442043204020c700000001000144991225823d50a1821d0000a14ea851a851a142a244a040a24400000000800080000000000000000000000000000000000000000000000000000000",
+        "native_visible_tiles": 10
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  },
+  {
+    "id": "SHOP-PHARMACIST",
+    "english": "Pharmacist",
+    "french": "Pharmacien",
+    "french_in_game": "Pharmacien",
+    "strips": [
+      {
+        "offset": "0x6d1300",
+        "tiles": 10,
+        "french": "Pharmacien",
+        "pixels": 48,
+        "source_hex": "12e44a94489712e4428442844284000000000000821d52a552a552a5429d00000000000020cf952a850a850a850a000000000000821c52a552a552a5429c00000408000024c9952a8409942824cb00000408040822dc0408448824484488000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "new_distinct_source": true,
+    "status": "Recovered draft;not validated on a current combined ROM"
+  }
+]

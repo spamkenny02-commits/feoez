@@ -1,0 +1,18 @@
+{
+  "lot": 50,
+  "target_distinct_new_texts": 400,
+  "new_distinct_sources_prepared": 14,
+  "historical_integrated_sources_before_loss": 8,
+  "current_combined_candidate": null,
+  "published": false,
+  "phase": 1,
+  "phase_end_proven": false,
+  "baseline_commit": "2ef515fa05055f11a3675ff026f915972d2c733a",
+  "pending": [
+    "Rebuild and retest known8 plus6 shop drafts;do not recount sources",
+    "Recover303 prior item bitmap variants and17 additional prior bitmap copies;zero new",
+    "Restore diagnostic tools and fresh same-ROM proof",
+    "Continue real remaining menus/branches and source classification;no debug padding",
+    "Reach400 or prove actual phase remainder before one main publication"
+  ]
+}

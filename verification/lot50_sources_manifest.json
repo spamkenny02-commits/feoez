@@ -1,0 +1,131 @@
+{
+  "lot": 50,
+  "target": 400,
+  "incomplete": true,
+  "published": false,
+  "phase_end_proven": false,
+  "new_distinct_sources_prepared": 14,
+  "historical_integrated_sources_before_workspace_loss": 8,
+  "new": [
+    {
+      "id": "B044-S001",
+      "english": "Physical",
+      "french": "Physique",
+      "french_in_game": "Physique",
+      "kind": "bounded",
+      "count": 1
+    },
+    {
+      "id": "B044-S007",
+      "english": "No weaknesses",
+      "french": "Aucune faiblesse",
+      "french_in_game": "Aucune faiblesse",
+      "kind": "bounded",
+      "count": 1
+    },
+    {
+      "id": "B044-S008",
+      "english": "<04>-<05>-<06>-<07> extreme weakness",
+      "french": "<04>-<05>-<06>-<07> : faiblesse extrême",
+      "french_in_game": "<04>-<05>-<06>-<07> : faib. extrême",
+      "kind": "bounded",
+      "count": 1
+    },
+    {
+      "id": "B044-S009",
+      "english": "<04>-<05>-<06>-<07> weakness",
+      "french": "<04>-<05>-<06>-<07> : faiblesse",
+      "french_in_game": "<04>-<05>-<06>-<07> : faiblesse",
+      "kind": "bounded",
+      "count": 1
+    },
+    {
+      "id": "B043-S007",
+      "english": "All",
+      "french": "Tous",
+      "kind": "bounded",
+      "count": 1
+    },
+    {
+      "id": "42G-BAG",
+      "english": "In bag:",
+      "french": "En sac:",
+      "french_in_game": "En sac:",
+      "kind": "native2bpp",
+      "count": 1
+    },
+    {
+      "id": "42G-EQUIPPED",
+      "english": "Equipped by:",
+      "french": "Porté par :",
+      "french_in_game": "Porté par :",
+      "kind": "native2bpp",
+      "count": 1
+    },
+    {
+      "id": "42G-USE-WHOM",
+      "english": "Use it on whom?",
+      "french": "Utiliser sur qui ?",
+      "french_in_game": "Sur qui ?",
+      "kind": "native2bpp",
+      "count": 1
+    },
+    {
+      "id": "SHOP-BUY",
+      "english": "Buy",
+      "french": "Acheter",
+      "french_in_game": "Ach",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOP-SELL",
+      "english": "Sell",
+      "french": "Vendre",
+      "french_in_game": "Vte",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOP-GREETING",
+      "english": "Welcome! How can I help you?",
+      "french": "Bonjour ! Que désirez-vous ?",
+      "french_in_game": "Bonjour ! / Votre choix ?",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOP-OWNED",
+      "english": "Owned",
+      "french": "Possédé",
+      "french_in_game": "Stock",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOP-SELL-QUESTION",
+      "english": "What will you sell?",
+      "french": "Que vendez-vous ?",
+      "french_in_game": "Que vendre ?",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOP-PHARMACIST",
+      "english": "Pharmacist",
+      "french": "Pharmacien",
+      "french_in_game": "Pharmacien",
+      "kind": "native2bpp",
+      "count": 1,
+      "status": "Prepared draft;combined native/PPU pending"
+    }
+  ],
+  "prior_item_variants_not_new": 303,
+  "prior_label_variants_not_new": 10,
+  "recovery_note": "Known source text and fixed offsets recovered from conversation;historical P8b binary,cores,states,dumps and proofs were removed by workspace maintenance. No current ROM is certified by historical tests."
+}

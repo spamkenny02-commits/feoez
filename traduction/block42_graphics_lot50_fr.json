@@ -1,0 +1,101 @@
+[
+  {
+    "id": "42G-BAG",
+    "offset": "0x6d2890",
+    "tiles": 4,
+    "english": "In bag:",
+    "french": "En sac:",
+    "french_full": "En sac:",
+    "pixels": 31,
+    "source_hex": "10e02040214e24492449244914e9000008100810021c891289128912821c00000000000008734a944a944893087000030000102050a0408050a050a040808000",
+    "new_distinct_source": true
+  },
+  {
+    "id": "42G-EQUIPPED",
+    "offset": "0x6d28e0",
+    "tiles": 7,
+    "english": "Equipped by:",
+    "french": "Porté par :",
+    "french_full": "Porté par :",
+    "pixels": 49,
+    "source_hex": "08f04080408312e44284408308f000000001000052a552a552a552a5429d4080800000008873a54aa54a8873a142214200000000428c2952215e4890010e0000081108110871489148914891087100008000800024c994299429902720c1010600002040a0408000a040a04080000000",
+    "new_distinct_source": true
+  },
+  {
+    "id": "42G-USE-WHOM",
+    "offset": "0x6d2800",
+    "tiles": 9,
+    "english": "Use it on whom?",
+    "french": "Sur qui ?",
+    "french_full": "Utiliser sur qui ?",
+    "pixels": 41,
+    "source_hex": "4890489048934a9448934890106700000000000044981224823c50a0821c000024480408225c24482448244824480000000000000833254a254a254a093200000000000042842244224422452142000008100810225c29522952a952499200000000000010674a954a954a9512650000010e08114891a142a244a040a244000000008000800000000000000000000000",
+    "new_distinct_source": true
+  },
+  {
+    "id": "42G-TECH",
+    "offset": "0x6d2950",
+    "tiles": 6,
+    "english": "Tech Used",
+    "french": "Coût tech.",
+    "french_full": "Coût tech.",
+    "pixels": 44,
+    "source_hex": "04f8102010211122102311221021000000000000428c295228d0091222cc00004080408010e0489048904890489000004890489048934a9448934890106700000000000044981225823d50a1821c00001020102010e090209020902010e00000",
+    "new_distinct_source": false
+  },
+  {
+    "id": "42G-ITEM",
+    "offset": "0x6d29b0",
+    "tiles": 3,
+    "english": "Item",
+    "french": "Objet",
+    "french_full": "Objet",
+    "pixels": 23,
+    "source_hex": "12e42244214e22442244224412e400000000000010674a950af542850a750000000000004080a040a040a040a0400000",
+    "new_distinct_source": false
+  },
+  {
+    "id": "42G-SCROLL",
+    "offset": "0x6d29f0",
+    "tiles": 3,
+    "english": "Scroll",
+    "french": "Parc.",
+    "french_full": "Parchemin",
+    "pixels": 22,
+    "source_hex": "10604890408312640a144a941063000000000000843852a5102150a190200000050a050a25ca952a952a952a25ca0000",
+    "new_distinct_source": false
+  },
+  {
+    "id": "42G-EQUIPMENT",
+    "offset": "0x6d2a20",
+    "tiles": 6,
+    "english": "Equipment",
+    "french": "Équipement",
+    "french_full": "Équipement",
+    "pixels": 47,
+    "source_hex": "08f04080408312e44284408308f000000001000052a552a552a552a5429d4080800000008873a54aa54a8972a14220400000000021c654a950af54a850a70000000100010873a449a4492449a449000080008000408080008000800080000000",
+    "new_distinct_source": false
+  },
+  {
+    "id": "INV-ACCESSORIES",
+    "offset": "0x6f3430",
+    "tiles": 6,
+    "english": "Accessories",
+    "french": "Access.",
+    "french_full": "Accessoires",
+    "pixels": 33,
+    "source_hex": "01020102020502050007040804080000000000008811952a912255aa4891000000000000881155aa043950a0841b000000000000449911228912458a8831000000000102883055aa51a251a29122000000000000214654a812e44182126c0000",
+    "new_distinct_source": false
+  },
+  {
+    "id": "INV-ARMOR",
+    "offset": "0x6f3490",
+    "tiles": 4,
+    "english": "Armor",
+    "french": "Armure",
+    "french_full": "Armure",
+    "pixels": 32,
+    "source_hex": "0001000101020102000302040204000080008000429c499248902850285000000000000008f155aa55aa55aa54a9000000000000429c29522850285048900000",
+    "new_distinct_source": false
+  }
+]

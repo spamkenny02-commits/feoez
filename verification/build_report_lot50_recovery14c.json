@@ -1,0 +1,431 @@
+{
+  "status": "Recovery research candidate;not a completed lot or validated release",
+  "source_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+  "baseline_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "output_sha256": "0266d0e3b5ea14c26a937bcca181a6aad1cfe33bcd09ee75b60cef24584a4727",
+  "ips_sha256": "1e5bf4a60fc52e0f22676ba036720d8587bfe282a7779811a3f21e667ac1b959",
+  "prior_stored_bounded_occurrences_byte_preserved": 6769,
+  "prior_block43_native_reads": 6,
+  "new_bounded_native_reads": 9,
+  "prior_element_variant_native_reads": 4,
+  "block42_glyph_lists_native_preserved": 7,
+  "graphics_bounds": [
+    {
+      "id": "42G-BAG",
+      "offset": "0x6d2890",
+      "tiles": 4,
+      "pixels": 31
+    },
+    {
+      "id": "42G-EQUIPPED",
+      "offset": "0x6d28e0",
+      "tiles": 7,
+      "pixels": 49
+    },
+    {
+      "id": "42G-USE-WHOM",
+      "offset": "0x6d2800",
+      "tiles": 9,
+      "pixels": 41
+    },
+    {
+      "id": "42G-TECH",
+      "offset": "0x6d2950",
+      "tiles": 6,
+      "pixels": 44
+    },
+    {
+      "id": "42G-ITEM",
+      "offset": "0x6d29b0",
+      "tiles": 3,
+      "pixels": 23
+    },
+    {
+      "id": "42G-SCROLL",
+      "offset": "0x6d29f0",
+      "tiles": 3,
+      "pixels": 22
+    },
+    {
+      "id": "42G-EQUIPMENT",
+      "offset": "0x6d2a20",
+      "tiles": 6,
+      "pixels": 47
+    },
+    {
+      "id": "INV-ACCESSORIES",
+      "offset": "0x6f3430",
+      "tiles": 6,
+      "pixels": 33
+    },
+    {
+      "id": "INV-ARMOR",
+      "offset": "0x6f3490",
+      "tiles": 4,
+      "pixels": 32
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F2CC0",
+      "offset": "0x6f2cc0",
+      "tiles": 4,
+      "pixels": 27
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F0A30",
+      "offset": "0x6f0a30",
+      "tiles": 7,
+      "pixels": 30
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4C30",
+      "offset": "0x6f4c30",
+      "tiles": 7,
+      "pixels": 30
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F22C0",
+      "offset": "0x6f22c0",
+      "tiles": 3,
+      "pixels": 20
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F41D0",
+      "offset": "0x6f41d0",
+      "tiles": 3,
+      "pixels": 20
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F2300",
+      "offset": "0x6f2300",
+      "tiles": 4,
+      "pixels": 12
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F2760",
+      "offset": "0x6f2760",
+      "tiles": 4,
+      "pixels": 12
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F2D00",
+      "offset": "0x6f2d00",
+      "tiles": 4,
+      "pixels": 12
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F2C60",
+      "offset": "0x6f2c60",
+      "tiles": 6,
+      "pixels": 44
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4AE0",
+      "offset": "0x6f4ae0",
+      "tiles": 5,
+      "pixels": 27
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4900",
+      "offset": "0x6f4900",
+      "tiles": 4,
+      "pixels": 26
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4940",
+      "offset": "0x6f4940",
+      "tiles": 5,
+      "pixels": 34
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4990",
+      "offset": "0x6f4990",
+      "tiles": 4,
+      "pixels": 31
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F49D0",
+      "offset": "0x6f49d0",
+      "tiles": 3,
+      "pixels": 22
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6F4AB0",
+      "offset": "0x6f4ab0",
+      "tiles": 3,
+      "pixels": 16
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6D33E0",
+      "offset": "0x6d33e0",
+      "tiles": 5,
+      "pixels": 27
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6D33B0",
+      "offset": "0x6d33b0",
+      "tiles": 3,
+      "pixels": 16
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6D3240",
+      "offset": "0x6d3240",
+      "tiles": 7,
+      "pixels": 30
+    },
+    {
+      "id": "PRIOR-GRAPHIC-6D2000",
+      "offset": "0x6d2000",
+      "tiles": 3,
+      "pixels": 20
+    },
+    {
+      "id": "SHOP-BUY",
+      "offset": "0x6f4700",
+      "tiles": 2,
+      "pixels": 16
+    },
+    {
+      "id": "SHOP-BUY",
+      "offset": "0x6d3000",
+      "tiles": 2,
+      "pixels": 16
+    },
+    {
+      "id": "SHOP-SELL",
+      "offset": "0x6f4720",
+      "tiles": 2,
+      "pixels": 14
+    },
+    {
+      "id": "SHOP-SELL",
+      "offset": "0x6d3020",
+      "tiles": 2,
+      "pixels": 14
+    },
+    {
+      "id": "SHOP-GREETING",
+      "offset": "0x6f4740",
+      "tiles": 5,
+      "pixels": 39
+    },
+    {
+      "id": "SHOP-GREETING",
+      "offset": "0x6d3040",
+      "tiles": 5,
+      "pixels": 39
+    },
+    {
+      "id": "SHOP-GREETING",
+      "offset": "0x6f4790",
+      "tiles": 11,
+      "pixels": 61
+    },
+    {
+      "id": "SHOP-OWNED",
+      "offset": "0x6f4d30",
+      "tiles": 4,
+      "pixels": 24
+    },
+    {
+      "id": "SHOP-OWNED",
+      "offset": "0x6d3630",
+      "tiles": 4,
+      "pixels": 24
+    },
+    {
+      "id": "SHOP-SELL-QUESTION",
+      "offset": "0x6d3090",
+      "tiles": 11,
+      "pixels": 59
+    },
+    {
+      "id": "SHOP-PHARMACIST",
+      "offset": "0x6d1300",
+      "tiles": 10,
+      "pixels": 48
+    }
+  ],
+  "authorized_spans": [
+    [
+      7116048,
+      7116141
+    ],
+    [
+      825473,
+      825476
+    ],
+    [
+      7116176,
+      7116264
+    ],
+    [
+      825470,
+      825473
+    ],
+    [
+      7153808,
+      7153872
+    ],
+    [
+      7153888,
+      7154000
+    ],
+    [
+      7153664,
+      7153808
+    ],
+    [
+      7154000,
+      7154096
+    ],
+    [
+      7154096,
+      7154144
+    ],
+    [
+      7154160,
+      7154208
+    ],
+    [
+      7154208,
+      7154304
+    ],
+    [
+      7287856,
+      7287952
+    ],
+    [
+      7287952,
+      7288016
+    ],
+    [
+      7285952,
+      7286016
+    ],
+    [
+      7277104,
+      7277216
+    ],
+    [
+      7294000,
+      7294112
+    ],
+    [
+      7283392,
+      7283440
+    ],
+    [
+      7291344,
+      7291392
+    ],
+    [
+      7283456,
+      7283520
+    ],
+    [
+      7284576,
+      7284640
+    ],
+    [
+      7286016,
+      7286080
+    ],
+    [
+      7285856,
+      7285952
+    ],
+    [
+      7293664,
+      7293744
+    ],
+    [
+      7293184,
+      7293248
+    ],
+    [
+      7293248,
+      7293328
+    ],
+    [
+      7293328,
+      7293392
+    ],
+    [
+      7293392,
+      7293440
+    ],
+    [
+      7293616,
+      7293664
+    ],
+    [
+      7156704,
+      7156784
+    ],
+    [
+      7156656,
+      7156704
+    ],
+    [
+      7156288,
+      7156400
+    ],
+    [
+      7151616,
+      7151664
+    ],
+    [
+      7292672,
+      7292704
+    ],
+    [
+      7155712,
+      7155744
+    ],
+    [
+      7292704,
+      7292736
+    ],
+    [
+      7155744,
+      7155776
+    ],
+    [
+      7292736,
+      7292816
+    ],
+    [
+      7155776,
+      7155856
+    ],
+    [
+      7292816,
+      7292992
+    ],
+    [
+      7294256,
+      7294320
+    ],
+    [
+      7157296,
+      7157360
+    ],
+    [
+      7155856,
+      7156032
+    ],
+    [
+      7148288,
+      7148448
+    ],
+    [
+      65500,
+      65504
+    ]
+  ],
+  "ips_roundtrip": true,
+  "new_distinct_sources_prepared": 14,
+  "former303_item_variants": "Pending recovery;not included in this candidate",
+  "runtime_validation": "pending",
+  "visual_review": "pending"
+}

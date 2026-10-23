@@ -1,0 +1,28 @@
+{
+ "status":"Recovery after workspace maintenance;incomplete lot50;no main publication",
+ "baseline_commit":"2ef515fa05055f11a3675ff026f915972d2c733a",
+ "baseline_tree":"ee456d7213406fcbcd6f5fa00c1ad1883b26d806",
+ "lost_local_checkpoint":"d7791a639512011e2a084cf9051a97c273777b75",
+ "lost_checkpoint_remote_fetch":"not our ref;branch absent on remote",
+ "source_recovered_sha256":"eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
+ "standard_core_rebuilt_sha256":"f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+ "historical8_sources_counter_preserved":true,
+ "new_distinct_sources_prepared":14,
+ "current_candidate":"../emulator/fr_v56_lot50_recovery14.sfc",
+ "current_candidate_sha256":"3bd3564828e8835ea8fb5efb1f4a9fcf6138cd09a596eb5b23ec516263db6001",
+ "historical_P8b_sha256":"e5cdbdfc5a1ab33d29f98e5082e0184523d98b0e13dde18867f455666b099d85",
+ "historical_P8b_evidence":"Files lost;historical test claims do not validate recovery ROM",
+ "former303_item_variants":"Not present in recovery candidate;pending recovery and fresh validation;zero new sources",
+ "recovered17_prior_bitmaps":"Derived from published V55 French and known bounds;zero new sources;fresh PPU pending",
+ "shop_consumer":{
+  "fixture_gate":"catalog48,argument cursorC76339",
+  "persisted_vm_cursor":"0796+thread/07CA+thread/07FE+thread;exact oldPC C7633A;thread18 observed before loss",
+  "replacement":"catalog37,source52,PC C5DEEA;one thread required",
+  "ordinary_source":"C5DEE8 greeting52,FD15 atC5DEEA,FD80 67 atC5DEEE",
+  "handler":"FD80 C12AB1;callsC229A2/C0A60E",
+  "prior_v1_v2_v3":"Rejected;v4 reached real shop UI before pruning",
+  "native_graphics":"4F4700 DMA1792 ->VRAM7200;shop2bpp fields use tile120 onward;name6D1300->7D00;work-bank prompts6D3090 copied into tile129 onward",
+  "limits":"One diagnostic NPC continuation;not natural shop access,stock availability,ownership or completed transaction proof"
+ },
+ "remaining":"Continue shop/scroll UI,field fallback classification and full coverage.608 labels inB21..27 look debug but absence of event roots is not a non-usage proof.762 remaining nonempty bounded rows afterV55 is not coverage.Three phases remain open."
+}

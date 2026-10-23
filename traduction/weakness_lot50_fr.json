@@ -1,0 +1,47 @@
+[
+  {
+    "id": "B044-S001",
+    "french": "Physique",
+    "new_distinct_source": true
+  },
+  {
+    "id": "B044-S002",
+    "french": "Feu",
+    "new_distinct_source": false
+  },
+  {
+    "id": "B044-S003",
+    "french": "Eau",
+    "new_distinct_source": false
+  },
+  {
+    "id": "B044-S004",
+    "french": "Vent",
+    "new_distinct_source": false
+  },
+  {
+    "id": "B044-S005",
+    "french": "Foudre",
+    "new_distinct_source": false
+  },
+  {
+    "id": "B044-S006",
+    "french": "",
+    "new_distinct_source": false
+  },
+  {
+    "id": "B044-S007",
+    "french": "Aucune faiblesse",
+    "new_distinct_source": true
+  },
+  {
+    "id": "B044-S008",
+    "french": "<04>-<05>-<06>-<07> : faib. extrême",
+    "new_distinct_source": true
+  },
+  {
+    "id": "B044-S009",
+    "french": "<04>-<05>-<06>-<07> : faiblesse",
+    "new_distinct_source": true
+  }
+]
