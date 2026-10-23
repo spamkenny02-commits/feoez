@@ -1,0 +1,30 @@
+{
+  "lot": 49,
+  "target": 400,
+  "canonical_sources_prepared": 400,
+  "published": false,
+  "baseline_commit": "85e5e80decbfb39dfb85e645664ca54b036e83e4",
+  "phase": 1,
+  "status": "Recovery after workspace loss; new candidate requires fresh native and PPU validation. No prior visual evidence carried over.",
+  "counts": {
+    "bounded_distinct": 231,
+    "bounded_occurrences": 235,
+    "credits_distinct": 114,
+    "credits_occurrences": 122,
+    "graphical_distinct": 51,
+    "graphical_strips": 64,
+    "native_ui_distinct": 4,
+    "scroll_display_corrections_not_new": 25
+  },
+  "recovery_candidate_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+  "pre_loss_candidate_sha256": "01be583639bf0744077dc56d388544ef92606ce0570f5ee9f56316758b6fedd4",
+  "remaining": [
+    "Fresh build native lookups",
+    "Native banner/credits/cache probes",
+    "Rebuild diagnostic cores",
+    "Fresh same-ROM startup A/reset/B/navigation",
+    "Fresh field/battle/UI/credits PPU captures and actual review",
+    "Coverage/relecture/report release documentation",
+    "Publish one complete validated lot to main with expected parent"
+  ]
+}

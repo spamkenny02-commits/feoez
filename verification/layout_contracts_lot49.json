@@ -1,0 +1,1650 @@
+{
+  "status": "native/runtime validation pending",
+  "entries": {
+    "B019-S184": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 116,
+      "bytes": 24
+    },
+    "B019-S185": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 45,
+      "bytes": 11
+    },
+    "B019-S186": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 30,
+      "bytes": 7
+    },
+    "B019-S188": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 97,
+      "bytes": 21
+    },
+    "B019-S189": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 14
+    },
+    "B019-S190": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 106,
+      "bytes": 23
+    },
+    "B019-S191": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 49,
+      "bytes": 10
+    },
+    "B019-S192": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 64,
+      "bytes": 15
+    },
+    "B019-S193": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 16
+    },
+    "B019-S194": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 51,
+      "bytes": 11
+    },
+    "B019-S195": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 58,
+      "bytes": 13
+    },
+    "B019-S196": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 42,
+      "bytes": 9
+    },
+    "B019-S197": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 44,
+      "bytes": 9
+    },
+    "B019-S198": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 15
+    },
+    "B019-S199": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 31,
+      "bytes": 6
+    },
+    "B019-S200": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 18
+    },
+    "B019-S201": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 108,
+      "bytes": 23
+    },
+    "B019-S202": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 82,
+      "bytes": 17
+    },
+    "B019-S203": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 17
+    },
+    "B019-S205": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 73,
+      "bytes": 17
+    },
+    "B019-S206": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 82,
+      "bytes": 17
+    },
+    "B019-S207": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 103,
+      "bytes": 24
+    },
+    "B019-S208": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 109,
+      "bytes": 25
+    },
+    "B019-S209": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 118,
+      "bytes": 28
+    },
+    "B019-S210": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 112,
+      "bytes": 27
+    },
+    "B019-S211": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 12
+    },
+    "B019-S212": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 79,
+      "bytes": 20
+    },
+    "B019-S213": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B019-S214": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 71,
+      "bytes": 17
+    },
+    "B019-S215": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 115,
+      "bytes": 26
+    },
+    "B019-S216": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 94,
+      "bytes": 23
+    },
+    "B019-S217": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 81,
+      "bytes": 17
+    },
+    "B019-S218": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 73,
+      "bytes": 16
+    },
+    "B019-S219": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 122,
+      "bytes": 26
+    },
+    "B019-S220": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 123,
+      "bytes": 26
+    },
+    "B019-S221": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 105,
+      "bytes": 23
+    },
+    "B019-S222": {
+      "consumer": "FD8B action banner X0 224px",
+      "max_bytes": 45,
+      "max_pixels": 192,
+      "pixels": 44,
+      "bytes": 10
+    },
+    "B020-S001": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 12
+    },
+    "B020-S002": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 74,
+      "bytes": 17
+    },
+    "B020-S003": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 36,
+      "bytes": 7
+    },
+    "B020-S004": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 12
+    },
+    "B020-S005": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 40,
+      "bytes": 8
+    },
+    "B020-S006": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 13
+    },
+    "B020-S007": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 85,
+      "bytes": 18
+    },
+    "B020-S008": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 14
+    },
+    "B020-S009": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 13
+    },
+    "B020-S010": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 17
+    },
+    "B020-S011": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 14
+    },
+    "B020-S012": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 70,
+      "bytes": 15
+    },
+    "B020-S013": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 81,
+      "bytes": 17
+    },
+    "B020-S014": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 50,
+      "bytes": 10
+    },
+    "B020-S015": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 17
+    },
+    "B020-S016": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 51,
+      "bytes": 11
+    },
+    "B020-S017": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 43,
+      "bytes": 9
+    },
+    "B020-S018": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 17
+    },
+    "B020-S019": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 57,
+      "bytes": 12
+    },
+    "B020-S020": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 63,
+      "bytes": 15
+    },
+    "B020-S021": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 91,
+      "bytes": 19
+    },
+    "B020-S022": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 79,
+      "bytes": 17
+    },
+    "B020-S023": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 36,
+      "bytes": 8
+    },
+    "B020-S024": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 38,
+      "bytes": 8
+    },
+    "B020-S025": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 70,
+      "bytes": 14
+    },
+    "B020-S026": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 76,
+      "bytes": 17
+    },
+    "B020-S027": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 16
+    },
+    "B020-S028": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 53,
+      "bytes": 11
+    },
+    "B020-S029": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 78,
+      "bytes": 16
+    },
+    "B020-S030": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 17
+    },
+    "B020-S031": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 16
+    },
+    "B020-S032": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 105,
+      "bytes": 22
+    },
+    "B020-S033": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 14
+    },
+    "B020-S034": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 99,
+      "bytes": 20
+    },
+    "B020-S035": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 79,
+      "bytes": 16
+    },
+    "B020-S036": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 12
+    },
+    "B020-S037": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 97,
+      "bytes": 22
+    },
+    "B020-S038": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 14
+    },
+    "B020-S039": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 14
+    },
+    "B020-S040": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 53,
+      "bytes": 12
+    },
+    "B020-S044": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 16
+    },
+    "B020-S045": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 74,
+      "bytes": 16
+    },
+    "B020-S046": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 14
+    },
+    "B020-S047": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 12
+    },
+    "B020-S048": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 68,
+      "bytes": 15
+    },
+    "B020-S049": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 53,
+      "bytes": 11
+    },
+    "B020-S050": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 76,
+      "bytes": 15
+    },
+    "B020-S051": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 52,
+      "bytes": 12
+    },
+    "B020-S052": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 86,
+      "bytes": 19
+    },
+    "B020-S053": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 90,
+      "bytes": 19
+    },
+    "B020-S054": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S055": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 19
+    },
+    "B020-S056": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 112,
+      "bytes": 23
+    },
+    "B020-S057": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 13
+    },
+    "B020-S058": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 95,
+      "bytes": 20
+    },
+    "B020-S059": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 132,
+      "bytes": 27
+    },
+    "B020-S060": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 78,
+      "bytes": 18
+    },
+    "B020-S062": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 84,
+      "bytes": 19
+    },
+    "B020-S063": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 15
+    },
+    "B020-S064": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 16
+    },
+    "B020-S065": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 49,
+      "bytes": 10
+    },
+    "B020-S066": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 86,
+      "bytes": 18
+    },
+    "B020-S068": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 76,
+      "bytes": 16
+    },
+    "B020-S069": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 91,
+      "bytes": 20
+    },
+    "B020-S070": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 17
+    },
+    "B020-S071": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 18
+    },
+    "B020-S073": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 84,
+      "bytes": 18
+    },
+    "B020-S074": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 88,
+      "bytes": 19
+    },
+    "B020-S075": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 18
+    },
+    "B020-S076": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 47,
+      "bytes": 10
+    },
+    "B020-S077": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S078": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 31,
+      "bytes": 6
+    },
+    "B020-S079": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 73,
+      "bytes": 16
+    },
+    "B020-S080": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 17
+    },
+    "B020-S081": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 17
+    },
+    "B020-S082": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 68,
+      "bytes": 15
+    },
+    "B020-S083": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 89,
+      "bytes": 20
+    },
+    "B020-S084": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S085": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 78,
+      "bytes": 17
+    },
+    "B020-S086": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 76,
+      "bytes": 16
+    },
+    "B020-S087": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 61,
+      "bytes": 12
+    },
+    "B020-S088": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S089": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S090": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 13
+    },
+    "B020-S091": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 115,
+      "bytes": 24
+    },
+    "B020-S092": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 83,
+      "bytes": 17
+    },
+    "B020-S093": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 100,
+      "bytes": 21
+    },
+    "B020-S094": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 15
+    },
+    "B020-S095": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 76,
+      "bytes": 15
+    },
+    "B020-S096": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 95,
+      "bytes": 19
+    },
+    "B020-S097": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 39,
+      "bytes": 8
+    },
+    "B020-S098": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 57,
+      "bytes": 12
+    },
+    "B020-S099": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 64,
+      "bytes": 14
+    },
+    "B020-S100": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 16
+    },
+    "B020-S101": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 57,
+      "bytes": 12
+    },
+    "B020-S102": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 50,
+      "bytes": 11
+    },
+    "B020-S103": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 15
+    },
+    "B020-S104": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 52,
+      "bytes": 11
+    },
+    "B020-S105": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 73,
+      "bytes": 17
+    },
+    "B020-S106": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 14
+    },
+    "B020-S107": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 16
+    },
+    "B020-S108": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 41,
+      "bytes": 8
+    },
+    "B020-S109": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 125,
+      "bytes": 27
+    },
+    "B020-S110": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 46,
+      "bytes": 10
+    },
+    "B020-S111": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 99,
+      "bytes": 22
+    },
+    "B020-S112": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 110,
+      "bytes": 23
+    },
+    "B020-S114": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 85,
+      "bytes": 18
+    },
+    "B020-S115": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 12
+    },
+    "B020-S116": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 81,
+      "bytes": 17
+    },
+    "B020-S118": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 72,
+      "bytes": 16
+    },
+    "B020-S119": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 49,
+      "bytes": 10
+    },
+    "B020-S120": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 13
+    },
+    "B020-S121": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 55,
+      "bytes": 12
+    },
+    "B020-S122": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 14
+    },
+    "B020-S123": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 68,
+      "bytes": 15
+    },
+    "B020-S124": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 84,
+      "bytes": 18
+    },
+    "B020-S125": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 85,
+      "bytes": 17
+    },
+    "B020-S126": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 65,
+      "bytes": 14
+    },
+    "B020-S127": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 72,
+      "bytes": 16
+    },
+    "B020-S128": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 36,
+      "bytes": 7
+    },
+    "B020-S130": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 34,
+      "bytes": 8
+    },
+    "B020-S131": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 31,
+      "bytes": 6
+    },
+    "B020-S132": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 45,
+      "bytes": 9
+    },
+    "B020-S133": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 78,
+      "bytes": 17
+    },
+    "B020-S134": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 19
+    },
+    "B020-S135": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 16
+    },
+    "B020-S137": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 74,
+      "bytes": 16
+    },
+    "B020-S138": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 89,
+      "bytes": 19
+    },
+    "B020-S140": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 48,
+      "bytes": 10
+    },
+    "B020-S141": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 40,
+      "bytes": 9
+    },
+    "B020-S142": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 72,
+      "bytes": 15
+    },
+    "B020-S143": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 64,
+      "bytes": 13
+    },
+    "B020-S144": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 71,
+      "bytes": 15
+    },
+    "B020-S146": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 16
+    },
+    "B020-S147": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 107,
+      "bytes": 23
+    },
+    "B020-S148": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 93,
+      "bytes": 20
+    },
+    "B020-S149": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 79,
+      "bytes": 16
+    },
+    "B020-S150": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 17
+    },
+    "B020-S151": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 37,
+      "bytes": 7
+    },
+    "B020-S152": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 14
+    },
+    "B020-S153": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 41,
+      "bytes": 8
+    },
+    "B020-S154": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 64,
+      "bytes": 13
+    },
+    "B020-S155": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 91,
+      "bytes": 19
+    },
+    "B020-S156": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 81,
+      "bytes": 17
+    },
+    "B020-S157": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 105,
+      "bytes": 23
+    },
+    "B020-S159": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 82,
+      "bytes": 17
+    },
+    "B020-S160": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 84,
+      "bytes": 18
+    },
+    "B020-S162": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 57,
+      "bytes": 11
+    },
+    "B020-S163": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 95,
+      "bytes": 20
+    },
+    "B020-S164": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 38,
+      "bytes": 9
+    },
+    "B020-S165": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 102,
+      "bytes": 22
+    },
+    "B020-S166": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 12
+    },
+    "B020-S167": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 86,
+      "bytes": 17
+    },
+    "B020-S168": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 49,
+      "bytes": 11
+    },
+    "B020-S169": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 54,
+      "bytes": 11
+    },
+    "B020-S170": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 70,
+      "bytes": 15
+    },
+    "B020-S171": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 71,
+      "bytes": 16
+    },
+    "B020-S172": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 68,
+      "bytes": 15
+    },
+    "B020-S173": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 14
+    },
+    "B020-S174": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 15
+    },
+    "B020-S176": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 62,
+      "bytes": 13
+    },
+    "B020-S177": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 18
+    },
+    "B020-S179": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 54,
+      "bytes": 11
+    },
+    "B020-S180": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 71,
+      "bytes": 17
+    },
+    "B020-S181": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 89,
+      "bytes": 20
+    },
+    "B020-S183": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 75,
+      "bytes": 15
+    },
+    "B020-S185": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 56,
+      "bytes": 11
+    },
+    "B020-S186": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 91,
+      "bytes": 20
+    },
+    "B020-S187": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 43,
+      "bytes": 9
+    },
+    "B020-S188": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 12
+    },
+    "B020-S189": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 74,
+      "bytes": 15
+    },
+    "B020-S190": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 51,
+      "bytes": 10
+    },
+    "B020-S191": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 48,
+      "bytes": 9
+    },
+    "B020-S192": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 77,
+      "bytes": 16
+    },
+    "B020-S194": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 60,
+      "bytes": 12
+    },
+    "B020-S195": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 83,
+      "bytes": 18
+    },
+    "B020-S196": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 91,
+      "bytes": 18
+    },
+    "B020-S197": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 56,
+      "bytes": 11
+    },
+    "B020-S198": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 123,
+      "bytes": 26
+    },
+    "B020-S199": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 70,
+      "bytes": 16
+    },
+    "B020-S200": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 82,
+      "bytes": 18
+    },
+    "B020-S201": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 67,
+      "bytes": 16
+    },
+    "B020-S202": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 54,
+      "bytes": 13
+    },
+    "B020-S203": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 66,
+      "bytes": 16
+    },
+    "B020-S204": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 59,
+      "bytes": 14
+    },
+    "B020-S205": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 69,
+      "bytes": 17
+    },
+    "B020-S206": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 80,
+      "bytes": 17
+    },
+    "B020-S207": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 87,
+      "bytes": 18
+    },
+    "B020-S208": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 81,
+      "bytes": 17
+    },
+    "B020-S209": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 62,
+      "bytes": 13
+    },
+    "B020-S212": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 86,
+      "bytes": 20
+    },
+    "B020-S213": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 109,
+      "bytes": 24
+    },
+    "B020-S214": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 109,
+      "bytes": 24
+    },
+    "B020-S224": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 100,
+      "bytes": 20
+    },
+    "B020-S225": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 100,
+      "bytes": 20
+    },
+    "B020-S235": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 93,
+      "bytes": 20
+    },
+    "B020-S236": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 85,
+      "bytes": 19
+    },
+    "B020-S237": {
+      "consumer": "FD8B battle banner X0 224px; enemy slots to verify",
+      "max_bytes": 31,
+      "max_pixels": 192,
+      "pixels": 42,
+      "bytes": 8
+    }
+  }
+}

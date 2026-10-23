@@ -4,7 +4,7 @@ import argparse,copy,hashlib,json
 from pathlib import Path
 from block_storage import store_blocks
 from pointers import analyze,FREE_START,file_to_cpu
-p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20','V21','V22','V23','V24','V25','V26','V27','V28','V29','V30','V31','V32','V33','V34','V35','V36','V37','V38','V39','V40','V41','V42','V43','V44','V45','V46','V47','V48','V49','V50','V51','V52','V53','V54'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('rom',type=Path);p.add_argument('--version',choices=['V14','V15','V16','V17','V18','V19','V20','V21','V22','V23','V24','V25','V26','V27','V28','V29','V30','V31','V32','V33','V34','V35','V36','V37','V38','V39','V40','V41','V42','V43','V44','V45','V46','V47','V48','V49','V50','V51','V52','V53','V54','V55'],default='V14');p.add_argument('--built-rom',type=Path);p.add_argument('--build-report',type=Path);a=p.parse_args()
 if bool(a.built_rom)!=bool(a.build_report):p.error('Provide both --built-rom and --build-report')
 rom=a.rom.read_bytes();before=hashlib.sha256(rom).hexdigest();audit=analyze(rom);checks=[]
 def item(bid,payload):
@@ -46,7 +46,7 @@ if a.built_rom:
                       'relative':entry['new_relative_offsets']})
     rebuilt,allocation=store_blocks(rom,items)
     rebuilt=patch_font(rebuilt)[0]
-    if a.version in ('V35','V36','V37','V38','V39','V40','V41','V42','V43','V44','V45','V46','V47','V48','V49','V50','V51','V52','V53','V54'):
+    if a.version in ('V35','V36','V37','V38','V39','V40','V41','V42','V43','V44','V45','V46','V47','V48','V49','V50','V51','V52','V53','V54','V55'):
         from startup_text import patch_startup
         rebuilt=patch_startup(rebuilt)[0]
     if build.get("calendar_ui"):
@@ -55,6 +55,17 @@ if a.built_rom:
     if build.get("calendar_formats"):
         from calendar_formats_lot47 import patch_calendar_formats
         rebuilt=patch_calendar_formats(rebuilt)[0]
+    if build.get('credits'):
+        from credits_lot49 import patch_credits
+        rebuilt=patch_credits(rebuilt)[0]
+        from menu_graphics_lot49 import patch_menu_graphics
+        rebuilt=patch_menu_graphics(rebuilt)[0]
+        from menu_native_lot49 import patch_native_menu
+        rebuilt=patch_native_menu(rebuilt)[0]
+        from scroll_menu_lot49 import patch_scroll_menu
+        rebuilt=patch_scroll_menu(rebuilt,allocation['allocation_end'])[0]
+        from credits_line_start_lot49 import patch_credits_line_start
+        rebuilt=patch_credits_line_start(rebuilt,build['scroll_menu']['allocation_end'])[0]
     assert checksum(rebuilt)==actual
     assert all(allocation[k]==build[k] for k in allocation)
     checks.append('All actual rebuilt blocks reproduce the tested ROM byte for byte with current allocator')

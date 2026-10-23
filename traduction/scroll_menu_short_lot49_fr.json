@@ -1,0 +1,290 @@
+[
+  {
+    "id": "B004-S001",
+    "english": "Singe",
+    "french_full": "Brûlure",
+    "french_short": "Brûl.",
+    "pixels": 22,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S002",
+    "english": "Sear",
+    "french_full": "Fournaise",
+    "french_short": "Four.",
+    "pixels": 23,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S003",
+    "english": "Gush",
+    "french_full": "Jet",
+    "french_short": "Jet",
+    "pixels": 15,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S004",
+    "english": "Spout",
+    "french_full": "Jaillissement",
+    "french_short": "Jaill.",
+    "pixels": 21,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S005",
+    "english": "Gust",
+    "french_full": "Bourrasque",
+    "french_short": "Bour.",
+    "pixels": 24,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S006",
+    "english": "Blast",
+    "french_full": "Rafale",
+    "french_short": "Raf.",
+    "pixels": 19,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S007",
+    "english": "Jolt",
+    "french_full": "Foudre",
+    "french_short": "Foud.",
+    "pixels": 23,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S008",
+    "english": "Watt",
+    "french_full": "Watt",
+    "french_short": "Watt",
+    "pixels": 23,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S009",
+    "english": "Buck",
+    "french_full": "Ruade",
+    "french_short": "Ruad.",
+    "pixels": 24,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S010",
+    "english": "Rock",
+    "french_full": "Roc",
+    "french_short": "Roc",
+    "pixels": 16,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S011",
+    "english": "Swift",
+    "french_full": "Rapidité",
+    "french_short": "Rap.",
+    "pixels": 19,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S012",
+    "english": "Tone",
+    "french_full": "Ton",
+    "french_short": "Ton",
+    "pixels": 18,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S013",
+    "english": "Steel",
+    "french_full": "Acier",
+    "french_short": "Acier",
+    "pixels": 23,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S014",
+    "english": "Fleet",
+    "french_full": "Vif",
+    "french_short": "Vif",
+    "pixels": 13,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S015",
+    "english": "Frail",
+    "french_full": "Frêle",
+    "french_short": "Frêle",
+    "pixels": 23,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S016",
+    "english": "Nude",
+    "french_full": "Nudité",
+    "french_short": "Nu",
+    "pixels": 11,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S017",
+    "english": "Goof",
+    "french_full": "Balourdise",
+    "french_short": "Bal.",
+    "pixels": 17,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S018",
+    "english": "Vigor",
+    "french_full": "Vigueur",
+    "french_short": "Vig.",
+    "pixels": 16,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S019",
+    "english": "Zest",
+    "french_full": "Vitalité",
+    "french_short": "Vit.",
+    "pixels": 16,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S020",
+    "english": "Spirit",
+    "french_full": "Esprit",
+    "french_short": "Espr.",
+    "pixels": 23,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S021",
+    "english": "Allay",
+    "french_full": "Apaisement",
+    "french_short": "Apai.",
+    "pixels": 21,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S022",
+    "english": "Pure",
+    "french_full": "Pureté",
+    "french_short": "Pur.",
+    "pixels": 19,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S023",
+    "english": "Soar",
+    "french_full": "Envol",
+    "french_short": "Envol",
+    "pixels": 23,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S024",
+    "english": "Split",
+    "french_full": "Scission",
+    "french_short": "Scis.",
+    "pixels": 21,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S025",
+    "english": "Soul",
+    "french_full": "Âme",
+    "french_short": "Âme",
+    "pixels": 17,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S026",
+    "english": "Seal",
+    "french_full": "Sceau",
+    "french_short": "Sce.",
+    "pixels": 19,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S027",
+    "english": "Loon",
+    "french_full": "Folie",
+    "french_short": "Folie",
+    "pixels": 20,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S028",
+    "english": "Sight",
+    "french_full": "Vue",
+    "french_short": "Vue",
+    "pixels": 16,
+    "correction_not_new": false
+  },
+  {
+    "id": "B004-S029",
+    "english": "Gulp",
+    "french_full": "Siphon",
+    "french_short": "Siph.",
+    "pixels": 21,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S030",
+    "english": "Soak",
+    "french_full": "Absorption",
+    "french_short": "Abs.",
+    "pixels": 19,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S031",
+    "english": "Float",
+    "french_full": "Flottaison",
+    "french_short": "Flot.",
+    "pixels": 21,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S032",
+    "english": "Sting",
+    "french_full": "Piqûre",
+    "french_short": "Piq.",
+    "pixels": 16,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S033",
+    "english": "Snort",
+    "french_full": "Grognement",
+    "french_short": "Grog.",
+    "pixels": 24,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S034",
+    "english": "Filter",
+    "french_full": "Filtre",
+    "french_short": "Filt.",
+    "pixels": 18,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S035",
+    "english": "Doze",
+    "french_full": "Somnolence",
+    "french_short": "Som.",
+    "pixels": 20,
+    "correction_not_new": true
+  },
+  {
+    "id": "B004-S036",
+    "english": "Spry",
+    "french_full": "Vivacité",
+    "french_short": "Viv.",
+    "pixels": 16,
+    "correction_not_new": true
+  }
+]

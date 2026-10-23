@@ -1,0 +1,18 @@
+{
+  "B019-S186": {
+    "canonical": "B140-S044",
+    "reason": "shared source/format variant already counted"
+  },
+  "B020-S024": {
+    "canonical": "B020-S023",
+    "reason": "shared source/format variant already counted"
+  },
+  "B020-S214": {
+    "canonical": "B020-S213",
+    "reason": "shared source/format variant already counted"
+  },
+  "B020-S225": {
+    "canonical": "B020-S224",
+    "reason": "shared source/format variant already counted"
+  }
+}
