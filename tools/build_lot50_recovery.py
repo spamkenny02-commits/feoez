@@ -23,7 +23,7 @@ def main():
  for i in range(1,8):c.select(i);prior.append(c.string())
  assert prior[-1]==encode_fr('All');payload=b'\x02\x00'+b''.join(s+b'\0'for s in prior[:6])+encode_fr('Tous')+b'\0';assert len(payload)==88;assert baseline[0x6c9590:0x6c9600]==bytes(112);put(0x6c9590,payload);put(0xc987e,(0x4c9590).to_bytes(3,'little'))
  item_rom,item_report=patch_items(baseline);put(0x6f6000,item_rom[0x6f6000:0x6ff780])
- for file in ['block42_graphics_lot50_fr.json','native_prior_variants_lot50_fr.json','shop_graphics_lot50_fr.json','shop_names_lot50_fr.json','weekday_graphics_lot50_fr.json']:
+ for file in ['block42_graphics_lot50_fr.json','native_prior_variants_lot50_fr.json','shop_graphics_lot50_fr.json','shop_names_lot50_fr.json','weekday_graphics_lot50_fr.json','strategy_graphics_lot50_fr.json']:
   for e in json.loads((ROOT/'traduction'/file).read_text()):
    for part in e.get('strips',[e]):
     st=int(part['offset'],16);n=part['tiles']*16;assert baseline[st:st+n].hex()==part['source_hex'],e['id'];data,px=raster(baseline,part['french'],part['tiles']);assert px<=part['tiles']*8

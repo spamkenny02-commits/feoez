@@ -1,0 +1,141 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "native_vram_checks": [
+    {
+      "id": "SHOP-BUY",
+      "view": "main",
+      "vram": "0x7200",
+      "source": "0x6f4700",
+      "bytes": 32,
+      "tiles": [
+        288,
+        289
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-SELL",
+      "view": "main",
+      "vram": "0x7220",
+      "source": "0x6f4720",
+      "bytes": 32,
+      "tiles": [
+        290,
+        291
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-GREETING",
+      "view": "main",
+      "vram": "0x7240",
+      "source": "0x6f4740",
+      "bytes": 80,
+      "tiles": [
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-OWNED",
+      "view": "buy",
+      "vram": "0x7830",
+      "source": "0x6f4d30",
+      "bytes": 64,
+      "tiles": [
+        387,
+        388,
+        389,
+        390
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-SELL-QUESTION",
+      "view": "sell",
+      "vram": "0x7290",
+      "source": "0x6d3090",
+      "bytes": 176,
+      "tiles": [
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "exact": true
+    },
+    {
+      "id": "SHOP-PHARMACIST",
+      "view": "main",
+      "vram": "0x7d00",
+      "source": "0x6d1300",
+      "bytes": 160,
+      "tiles": [
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473
+      ],
+      "exact": true
+    }
+  ],
+  "help_line_exact": true,
+  "sell_cash_variant_exact": true,
+  "full_captures": [
+    {
+      "id": "back",
+      "pixels_sha256": "d9a5ab5d00cf46e00ff9dcb77a516ef6d6dac1585a80b1a8a1216df83404d2b6"
+    },
+    {
+      "id": "buy",
+      "pixels_sha256": "1220c163cd911d8d34cc71f7fad7996f435bde963fd798e82c5ca8d44b47db5a"
+    },
+    {
+      "id": "cancel_sell",
+      "pixels_sha256": "81a2e02405fadcd11e52dcb2b51c86c46f3bec457fd36a6320d35f2788558e17"
+    },
+    {
+      "id": "choice",
+      "pixels_sha256": "28c76ad98e61e20423019b36d0e22d37e16d6fcf00a81da79d505707d9bbed11"
+    },
+    {
+      "id": "greeting",
+      "pixels_sha256": "24c16a6c6b64630989af24546f3411094d59ea88ece2b69d5c023ccaa9b9b60a"
+    },
+    {
+      "id": "leave",
+      "pixels_sha256": "eeef5aceb25676bf0f3001d9149e687fee18daa596b8258351ea7b41d1d4b484"
+    },
+    {
+      "id": "main",
+      "pixels_sha256": "81a2e02405fadcd11e52dcb2b51c86c46f3bec457fd36a6320d35f2788558e17"
+    },
+    {
+      "id": "sell",
+      "pixels_sha256": "4ee15f378ba561ff25ce7be4e46bbff524400b5dc87fa027336c8cdc3ae3374d"
+    },
+    {
+      "id": "sell_choice",
+      "pixels_sha256": "d9a5ab5d00cf46e00ff9dcb77a516ef6d6dac1585a80b1a8a1216df83404d2b6"
+    }
+  ],
+  "all_capture_pixels_preserved": true,
+  "visual_review": "All9 complete captures actually read;French labels fit,including10visible-tile sell question;no transaction claimed",
+  "scope": "Not natural shop visit or successful transaction proof"
+}

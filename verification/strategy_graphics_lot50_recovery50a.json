@@ -1,0 +1,168 @@
+{
+  "rom_sha256": "a8dca9dd92481883aeb559ad7d4895060d48a40f317579c13c740fdfe6a58e13",
+  "native_dma_source": "4D4000",
+  "native_dma_length": 528,
+  "native_vram_word": "3D00",
+  "all_source_vram_bytes_exact": true,
+  "fields": [
+    {
+      "id": "STRATEGY-ATTACK",
+      "field": {
+        "column": 2,
+        "row": 19
+      },
+      "tiles": [
+        416,
+        417,
+        418,
+        419
+      ],
+      "source": "0x6d4000",
+      "width_limit": 32,
+      "pixels": 26,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-ITEMS",
+      "field": {
+        "column": 10,
+        "row": 19
+      },
+      "tiles": [
+        420,
+        421,
+        422
+      ],
+      "source": "0x6d4040",
+      "width_limit": 24,
+      "pixels": 16,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-SCROLLS",
+      "field": {
+        "column": 2,
+        "row": 21
+      },
+      "tiles": [
+        423,
+        424,
+        425,
+        426
+      ],
+      "source": "0x6d4070",
+      "width_limit": 32,
+      "pixels": 27,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-MANUAL",
+      "field": {
+        "column": 10,
+        "row": 21
+      },
+      "tiles": [
+        427,
+        428,
+        429,
+        430
+      ],
+      "source": "0x6d40b0",
+      "width_limit": 32,
+      "pixels": 28,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-SECRET",
+      "field": {
+        "column": 2,
+        "row": 23
+      },
+      "tiles": [
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437
+      ],
+      "source": "0x6d40f0",
+      "width_limit": 56,
+      "pixels": 46,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-DEFEND",
+      "field": {
+        "column": 10,
+        "row": 23
+      },
+      "tiles": [
+        438,
+        439,
+        440,
+        441
+      ],
+      "source": "0x6d4160",
+      "width_limit": 32,
+      "pixels": 30,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-TITLE",
+      "field": {
+        "column": 2,
+        "row": 3
+      },
+      "tiles": [
+        444,
+        445,
+        446,
+        447,
+        448
+      ],
+      "source": "0x6d41c0",
+      "width_limit": 40,
+      "pixels": 40,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-TITLE",
+      "field": {
+        "column": 13,
+        "row": 3
+      },
+      "tiles": [
+        444,
+        445,
+        446,
+        447,
+        448
+      ],
+      "source": "0x6d41c0",
+      "width_limit": 40,
+      "pixels": 40,
+      "exact": true
+    },
+    {
+      "id": "STRATEGY-SET",
+      "field": {
+        "column": 11,
+        "row": 3
+      },
+      "tiles": [
+        442,
+        443
+      ],
+      "source": "0x6d41a0",
+      "width_limit": 16,
+      "pixels": 15,
+      "exact": true
+    }
+  ],
+  "new_canonical_source_count": 1,
+  "prior_source_variants": 7,
+  "visual_review": "All11 complete captures actually read:French fixed strategy title/prefix and6command labels fit. Plan A/B/C/D retained French notation,not counted;no combat behavior proof",
+  "scope": "Ordinary menu from fresh same-ROM field;not proof of saved strategy changes or combat execution"
+}

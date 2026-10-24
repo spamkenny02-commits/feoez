@@ -518,3 +518,17 @@ ultérieures peuvent changer de phase ; ne pas annoncer une identité globale.
 
 Pagination V36 : B167-S029, un saut de paragraphe retiré après relecture
 pour regrouper une fin de réplique isolée. Balises et texte conservés.
+
+
+Lot50 recherche50a (aucune livraison) : menu Stratégie ordinaire ouvert.
+Set Strategy est une nouvelle source ; Définir la stratégie s’affiche
+Fix. Stratégie avec suffixe Stratégie partagé au titre, 2+5tuiles/56px.
+Sept variantes de commandes/titre déjà français sont localisées sans
+recomptage. Plan A/B/C/D reste la notation française inchangée.
+Sur50a exacte a8dca9dd...a58e13 : 11vues ordinaires réellement relues,
+DMA4D4000 de528octets et9champs visibles exacts. Tests globaux50a en cours.
+Sur49b c0639c4c...f8421 : 6769lectures natives,303objets/71faiblesses/32titres
+PPU frais et identiques aux régions42a précédemment relues ;9boutique,
+14inventaire,6jours et4écarts de régression complets réellement relus.
+Régression49b/42a :508/512identiques ;3passagesF→V et1passageF→V+horloge
+ont été relus. Ces résultats49b ne valident pas50a.

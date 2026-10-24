@@ -1,0 +1,74 @@
+{
+  "rom_sha256": "a8dca9dd92481883aeb559ad7d4895060d48a40f317579c13c740fdfe6a58e13",
+  "captures": [
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_00",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4fac54aceaef45110c6641c85525086fd4defc4bd6a12b1cd44ace6a295ea7ab",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_01",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4fac54aceaef45110c6641c85525086fd4defc4bd6a12b1cd44ace6a295ea7ab",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_02",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e167d9d0c11d58bf2b82033432af01ff70cda9a04f0758e6aa437867be0057af",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_03",
+      "sheet": "context_01.png",
+      "pixels_sha256": "fc5f968f62a0b604ed789cb16f9f6d3329fc5716d03b65cf4607a9ffb13c9a1a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_04",
+      "sheet": "context_01.png",
+      "pixels_sha256": "fc5f968f62a0b604ed789cb16f9f6d3329fc5716d03b65cf4607a9ffb13c9a1a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_05",
+      "sheet": "context_01.png",
+      "pixels_sha256": "028a01337a4c7459386ba07162b4cce71dfec1e92a5776066fed02a1522de5e4",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_06",
+      "sheet": "context_01.png",
+      "pixels_sha256": "fc5f968f62a0b604ed789cb16f9f6d3329fc5716d03b65cf4607a9ffb13c9a1a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_07",
+      "sheet": "context_01.png",
+      "pixels_sha256": "1f7e3b64745629f10eed63c84a0911403b602203909c5dfa2bc4ae5f19d4a7ee",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_08",
+      "sheet": "context_01.png",
+      "pixels_sha256": "b484ac7eced58750caaca41d6432433d01d4d070dcfedc553c91baa8d75c1533",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_09",
+      "sheet": "context_01.png",
+      "pixels_sha256": "1f7e3b64745629f10eed63c84a0911403b602203909c5dfa2bc4ae5f19d4a7ee",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery50a_strategy_repro/strategy_10",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e167d9d0c11d58bf2b82033432af01ff70cda9a04f0758e6aa437867be0057af",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 1,
+  "visual_review": "All11 complete captures actually read:French fixed strategy title/prefix and6command labels fit. Plan A/B/C/D retained French notation,not counted;no combat behavior proof",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

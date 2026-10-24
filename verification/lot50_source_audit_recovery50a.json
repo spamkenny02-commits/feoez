@@ -1,0 +1,14 @@
+{
+  "lot": 50,
+  "target": 400,
+  "current_prepared_distinct_sources": 50,
+  "prior_bounded_rows_checked": 6769,
+  "normalized_prior_overlap": 0,
+  "normalized_new_duplicates": 0,
+  "shop_name_fields": 29,
+  "shop_name_new_sources": 28,
+  "shop_name_semantic_aliases_excluded": 1,
+  "prior_item_display_variants_excluded": 303,
+  "prior_bitmap_copies_excluded": 20,
+  "scope": "Audit current new-source counter,previous-source overlap and explicit aliases.\nDoes not establish game coverage or completion of a phase/lot.\n"
+}

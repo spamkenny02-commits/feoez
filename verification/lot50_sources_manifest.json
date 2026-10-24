@@ -4,7 +4,7 @@
   "incomplete": true,
   "published": false,
   "phase_end_proven": false,
-  "new_distinct_sources_prepared": 49,
+  "new_distinct_sources_prepared": 50,
   "historical_integrated_sources_before_workspace_loss": 8,
   "new": [
     {
@@ -410,6 +410,14 @@
       "french_in_game": "S",
       "kind": "graphics",
       "count": 1
+    },
+    {
+      "id": "STRATEGY-SET",
+      "english": "Set Strategy",
+      "french": "Définir la stratégie",
+      "french_in_game": "Fix. Stratégie",
+      "kind": "graphics",
+      "count": 1
     }
   ],
   "prior_item_variants_not_new": 303,
@@ -424,5 +432,6 @@
     "SHOPNAME-19": "Pharmacist already among14 sources;not counted again"
   },
   "weekday_copies_counting": "7distinct English day abbreviation sources,14physical tile copies;menu/chart uses are variants,not14newtexts;French Tuesday/Wednesday share M by conventional calendar initials,source identities differ.",
-  "weekday_native_text_variants": "7fixed2byte native date-header slots additionally localized;zero extra source identities.Weekday code/date calculation unchanged."
+  "weekday_native_text_variants": "7fixed2byte native date-header slots additionally localized;zero extra source identities.Weekday code/date calculation unchanged.",
+  "strategy_variants_not_new": "7 old French source variants including sharedStrategy suffix;PlanA/B/C/D retained unchanged French notation,notnew"
 }

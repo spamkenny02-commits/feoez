@@ -1,0 +1,92 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "captures": [
+    {
+      "id": "lot50_recovery49b_inventory/cancel",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/equipment_close",
+      "sheet": "context_01.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/equipment_fiche",
+      "sheet": "context_01.png",
+      "pixels_sha256": "f1d2194a934a8bab831ce2aa84cfc609353abde820420ee236210e5d61c4ce79",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/equipment_selected",
+      "sheet": "context_01.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/inventory",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4d1516d3aa50ad37c61dcbe1b56580c7d619b62a15a4c4b84a7758c62bfcb547",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/kusa_selected",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/main",
+      "sheet": "context_01.png",
+      "pixels_sha256": "797a2e07fb6d67c3eea58e015334d8fc89ddcdc718a8f1e70977d621b060de6b",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/objects",
+      "sheet": "context_01.png",
+      "pixels_sha256": "797a2e07fb6d67c3eea58e015334d8fc89ddcdc718a8f1e70977d621b060de6b",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/party_bookmark",
+      "sheet": "context_01.png",
+      "pixels_sha256": "b189fc7e9e55caaea8d82fb8881ad253fafa542fede1e90a86d131ec7a11d065",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/party_inventory",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e3b0097ff8af5a1c4372318738bc05eb02854141b2996f55dbf88aeaa10f5abe",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/party_main",
+      "sheet": "context_01.png",
+      "pixels_sha256": "d4a01e98394b130239332cc1d64493a25caa9f8925c90553e49c2627266e69ed",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/party_objects",
+      "sheet": "context_01.png",
+      "pixels_sha256": "d4a01e98394b130239332cc1d64493a25caa9f8925c90553e49c2627266e69ed",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/sandals",
+      "sheet": "context_02.png",
+      "pixels_sha256": "ab4c7f216103772b930f298ee553dd0750afc67931e5b9e6b27f183d6c838157",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_inventory/target",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4c3a29fb48c85902e77624c3cc1891994888bca9520d3b0d4e69cf28b5ee5ffd",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 2,
+  "visual_review": "All14 complete screens actually read;Porté par/En sac/Sur qui and native item variants fit;cancel preserves quantity1. No healing effect or cost proof",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

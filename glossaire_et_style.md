@@ -897,3 +897,8 @@ initiales D L M M J V S dans les champs natifs de8px. L’ordre dimanche-premier
 reste celui du calcul original ;Mardi/Mercredi partagent M. Les deux copies
 graphiques et la table à2octets de l’en-tête sont des variantes des mêmes
 sept sources,comptées une fois. Le format12heures AM/PM reste inchangé.
+
+Menu Stratégie : Set Strategy → Définir la stratégie (Fix. Stratégie,
+préfixe16px et suffixe partagé40px). Arts secrets → Arts secr. dans56px.
+Attaq., Obj., Parch., Manuel et Garder reprennent les formes précédentes.
+Plan A à D restent inchangés et ne sont pas de nouvelles traductions.

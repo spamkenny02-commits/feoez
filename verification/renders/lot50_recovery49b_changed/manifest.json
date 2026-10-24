@@ -1,0 +1,32 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "captures": [
+    {
+      "id": "lot50_recovery49b_boot/field_menu_x",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e3d371032a3e8c44b736ff25be15978f68049eb2f83c7a34d0238f7be27849c7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_boot/menu_settings_start",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e3d371032a3e8c44b736ff25be15978f68049eb2f83c7a34d0238f7be27849c7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_boot/settings_selected",
+      "sheet": "context_01.png",
+      "pixels_sha256": "71f1850425bfaa02d948d3343e3303f76ae1e3cddc9eb21f3752cec9caffe839",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "lot50_recovery49b_navigation/main_menu",
+      "sheet": "context_01.png",
+      "pixels_sha256": "9a6d5c8e77de7753c68e1544e4e496ba9ca20ae8c14a57f5974ab33ee2fb4ea9",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 1,
+  "visual_review": "All4 complete changed screens actually read:FridayF->V;navigation clock00->07 additionally",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "STRATEGY-ATTACK",
+    "english": "Attack",
+    "french": "Attaq.",
+    "french_full": "Attaq.",
+    "offset": "0x6d4000",
+    "tiles": 4,
+    "pixels": 26,
+    "source_hex": "102110212853285108714489448900008810881044b9891289128912881100000000000022cc29522850295222cc000040804080489050a020c050a048900000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "UI-6F3700",
+    "visible_fields": [
+      {
+        "column": 2,
+        "row": 19
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-ITEMS",
+    "english": "Items",
+    "french": "Obj.",
+    "french_full": "Obj.",
+    "offset": "0x6d4040",
+    "tiles": 3,
+    "pixels": 16,
+    "source_hex": "12e42244214e22442244224412e400000000000010674a950af542850a75000000000000418ea850a24ca142a25c0000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "UI-6F33B0",
+    "visible_fields": [
+      {
+        "column": 10,
+        "row": 19
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-SCROLLS",
+    "english": "Scrolls",
+    "french": "Parch.",
+    "french_full": "Parch.",
+    "offset": "0x6d4070",
+    "tiles": 4,
+    "pixels": 27,
+    "source_hex": "10604890408312640a144a941063000000000000843852a5102150a190200000050a050a25ca952a952a952a25ca000000000000087040801060081010e00000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "UI-6F0E00",
+    "visible_fields": [
+      {
+        "column": 2,
+        "row": 21
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-MANUAL",
+    "english": "Manual",
+    "french": "Manuel",
+    "french_full": "Manuel",
+    "offset": "0x6d40b0",
+    "tiles": 4,
+    "pixels": 28,
+    "source_hex": "448824d854a9458a458a458a448900000000000022dc29522952295229d200000000000048934a944a944a94087300001020102050a050a050a050a050a00000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "NUI-00E703",
+    "visible_fields": [
+      {
+        "column": 10,
+        "row": 21
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-SECRET",
+    "english": "Secret Skills",
+    "french": "Arts secr.",
+    "french_full": "Arts secrets",
+    "offset": "0x6d40f0",
+    "tiles": 7,
+    "pixels": 46,
+    "source_hex": "106048904083126408174a941063000000000000841952a550a11225449900000000000021c69429800f8408800700001020102108719020902010219020000024c89428840925ca122c952a24c900002a540a14aa542a552a542a54aa5500000000000010e0800020c0102020c00000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "NUI-00EFA1",
+    "visible_fields": [
+      {
+        "column": 2,
+        "row": 23
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-DEFEND",
+    "english": "Defend",
+    "french": "Garder",
+    "french_full": "Garder",
+    "offset": "0x6d4160",
+    "tiles": 4,
+    "pixels": 30,
+    "source_hex": "10e0489048934a9448974a9410e300000408081084394992489309124891000000000000429c295229d2091229d2000008100810087048904890489008700000",
+    "new_distinct_source": false,
+    "canonical_prior_source": "NUI-00E70A",
+    "visible_fields": [
+      {
+        "column": 10,
+        "row": 23
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-TITLE",
+    "english": "Strategy",
+    "french": "Stratégie",
+    "french_full": "Stratégie",
+    "offset": "0x6d41c0",
+    "tiles": 5,
+    "pixels": 40,
+    "source_hex": "11624992408711620912499211620000000000008871254a21422142204100000408040822dc24492449244924c800000000000020c7942914e9800710e1010600000000a448a448a448843884080830",
+    "new_distinct_source": false,
+    "canonical_prior_source": "UI-6F0E40",
+    "visible_fields": [
+      {
+        "column": 2,
+        "row": 3
+      },
+      {
+        "column": 13,
+        "row": 3
+      }
+    ]
+  },
+  {
+    "id": "STRATEGY-SET",
+    "english": "Set Strategy",
+    "french": "Fix.",
+    "french_full": "Définir la stratégie",
+    "french_in_game": "Fix. Stratégie",
+    "offset": "0x6d41a0",
+    "tiles": 2,
+    "pixels": 15,
+    "source_hex": "106048904083126408174a941063000008100810843848904890081048900000",
+    "new_distinct_source": true,
+    "visible_fields": [
+      {
+        "column": 11,
+        "row": 3
+      }
+    ],
+    "shared_suffix": "STRATEGY-TITLE:5tiles at column13,row3;also title at column2,row3;one source counted,8distinct bitmap slots"
+  }
+]

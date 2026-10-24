@@ -8,8 +8,8 @@
   "standard_core_rebuilt_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
   "historical8_sources_counter_preserved": true,
   "new_distinct_sources_prepared": 49,
-  "current_candidate": "../emulator/fr_v56_lot50_recovery49b.sfc",
-  "current_candidate_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "current_candidate": "../emulator/fr_v56_lot50_recovery50a.sfc",
+  "current_candidate_sha256": "a8dca9dd92481883aeb559ad7d4895060d48a40f317579c13c740fdfe6a58e13",
   "historical_P8b_sha256": "e5cdbdfc5a1ab33d29f98e5082e0184523d98b0e13dde18867f455666b099d85",
   "historical_P8b_evidence": "Files lost;historical test claims do not validate recovery ROM",
   "former303_item_variants": "Reconstructed canonical short forms in traduction/item_graphics_lot50_fr.json;not byte-identical to lostP8b;zero new sources;all46 original icon suffixes pixel-preserved",
@@ -44,7 +44,7 @@
     "116": "Orbe Tortue",
     "211": "Robe Grue"
   },
-  "current_runtime_status": "49b exact native checks completed;ordinary weekday menu/chart/dynamic header French actually read6views. Fresh49b303item/71weakness fixtures and boot/AB/navigation/natural regression are still in progress.42a proofs historical only.",
+  "current_runtime_status": "50a exact:6769fresh complete native prior strings;source/V55IPS preservation/bounds/checksum/IPS passed.85boot+21AB+7navigation+399natural fresh:511/512 identical49b,oneclockdigit-only navigation difference actually read. Ordinary Strategy11fullimages read,528byteDMA/9tilemapfields exact.49b303item/71weakness/32shopname/fiches/weekday targeted tests remain scoped49b;not claimed rerun50a.",
   "private_cores": {
     "item_shop": "../emulator/snes9x_libretro_lot50_recovery_items.so",
     "weakness": "../emulator/snes9x_libretro_lot50_recovery_weakness.so"
@@ -58,5 +58,8 @@
   "weekday_sources": "7sources added once,49total.14bitmap copies6F0900/1600 and7fixed2byte slots6F1740..174E. Conventional French D L M M J V S,Sunday-first unchanged. Header variant repair adds0sources.49a e9a76...1ed6 still had header(F);49b c063...8421 corrects it to(V).",
   "weekday_native_consumer": "Ordinary C0B73E->4F1750 inputA5/P10/cursor13;returnP30/cursor19. Reader4F1750..17A2 and date calculations unchanged;7values x5cursors x2ROMs=70native executions with canaries and unchanged date bytes;max glyph8px vs old13 in dynamic header,bitmap max6px in8px slots.",
   "native_reader_resilience": "recover_v55_catalog_lot50.py now supports4isolated workers,private atomic100-row checkpoints bound to exact ROM/baseline/IDset and --catalog-out.49b6769completed;resume test executes0duplicate reads;cross-ROM49a reuse rejected. Private checkpoints are not distributed.",
-  "environment_interruption": "Temporary environment unavailability occurred;local changes/resources survived,source/49a/core hashes rechecked and lot lock reacquired. No counter reset or arbitrary rebuild."
+  "environment_interruption": "Temporary environment unavailability occurred;local changes/resources survived,source/49a/core hashes rechecked and lot lock reacquired. No counter reset or arbitrary rebuild.",
+  "remote_backup": "ad5d27f4e48f7a4ed9727e22d576fba318b89d5e/tree7e78a4eec1e860b30e07027c1d535168419dabb2 verified;newruntime reports pendingnextbackup",
+  "scroll_research": "Ordinary Higan owned Brûl. scroll Use/Modify menus opened on49b,11+11views actually read. No fusion/separate dialog reached with single owned scroll;unproven6F2500/2A00banks not modified/count. Read-onlyDMA actual scroll basic4F2000/928bytes->VRAM3900.",
+  "strategy_research": "Ordinary X/Right/A opens strategy. DMA4D4000/528bytes->VRAMword3D00 gives7prior label variants and1newsource SetStrategy->Définir la stratégie(Fix.Stratégie);sharedStrategy suffix5tiles40px at6D41C0 used as title and action,not counted twice. Prefix2tiles16px Fix.15px at6D41A0;Arts secrets58px full displayedArts secr. in7tiles56px. All9visiblefields checked;11fullviews read50a. PlanA/B/C/D retained French notation and notcounted. Native7canonical variants0new. OtherUI/scrollbanks unresolved."
 }

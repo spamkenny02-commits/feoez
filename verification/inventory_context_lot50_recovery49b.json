@@ -1,0 +1,105 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+  "boot_field_state_sha256": "10dba960ba6badea0181f99c388652b8dfeeaa9248232fd03fc98f91df8d14b8",
+  "natural_field_state_sha256": "dadac7261fb045505718f02394525d01e3a3ac54cf23bcf2643749657b7eea03",
+  "controller_only": true,
+  "diagnostic_environment_disabled": true,
+  "native_vram_tilemap_checks": [
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d2890",
+      "vram": "0x7490",
+      "tiles": [
+        329,
+        330,
+        331,
+        332
+      ],
+      "column": 2,
+      "row": 13,
+      "exact": true
+    },
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d28e0",
+      "vram": "0x74e0",
+      "tiles": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340
+      ],
+      "column": 2,
+      "row": 3,
+      "exact": true
+    },
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d2a20",
+      "vram": "0x7620",
+      "tiles": [
+        354,
+        355,
+        356,
+        357,
+        358,
+        359
+      ],
+      "column": 2,
+      "row": 7,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d2800",
+      "vram": "0x7400",
+      "tiles": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328
+      ],
+      "column": 2,
+      "row": 3,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d2890",
+      "vram": "0x7490",
+      "tiles": [
+        329,
+        330,
+        331,
+        332
+      ],
+      "column": 2,
+      "row": 13,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d29b0",
+      "vram": "0x75b0",
+      "tiles": [
+        347,
+        348,
+        349
+      ],
+      "column": 2,
+      "row": 7,
+      "exact": true
+    }
+  ],
+  "visual_review": "All14 complete images read in2context sheets",
+  "scope": "Ordinary held-equipment fiche and naturally won consumable target/cancel.\nLoads only fresh same-ROM controller states;no diagnostic environment.\nNo healing effect,cost deduction or unvisited category is claimed.\n"
+}
