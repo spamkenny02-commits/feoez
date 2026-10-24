@@ -4,7 +4,7 @@
   "incomplete": true,
   "published": false,
   "phase_end_proven": false,
-  "new_distinct_sources_prepared": 42,
+  "new_distinct_sources_prepared": 49,
   "historical_integrated_sources_before_workspace_loss": 8,
   "new": [
     {
@@ -347,6 +347,69 @@
       "french_in_game": "Chez Imoda",
       "kind": "graphics",
       "count": 1
+    },
+    {
+      "id": "WEEKDAY-0",
+      "english": "Su",
+      "english_expanded": "Sunday",
+      "french": "Dimanche",
+      "french_in_game": "D",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-1",
+      "english": "M",
+      "english_expanded": "Monday",
+      "french": "Lundi",
+      "french_in_game": "L",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-2",
+      "english": "Tu",
+      "english_expanded": "Tuesday",
+      "french": "Mardi",
+      "french_in_game": "M",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-3",
+      "english": "W",
+      "english_expanded": "Wednesday",
+      "french": "Mercredi",
+      "french_in_game": "M",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-4",
+      "english": "Th",
+      "english_expanded": "Thursday",
+      "french": "Jeudi",
+      "french_in_game": "J",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-5",
+      "english": "F",
+      "english_expanded": "Friday",
+      "french": "Vendredi",
+      "french_in_game": "V",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "WEEKDAY-6",
+      "english": "Sa",
+      "english_expanded": "Saturday",
+      "french": "Samedi",
+      "french_in_game": "S",
+      "kind": "graphics",
+      "count": 1
     }
   ],
   "prior_item_variants_not_new": 303,
@@ -359,5 +422,7 @@
     "SHOPNAME-03": "Singles Tea House lacks proven FD80 consumer;not integrated or counted",
     "SHOPNAME-13": "Ring & Ring proper business name,unchanged;not new",
     "SHOPNAME-19": "Pharmacist already among14 sources;not counted again"
-  }
+  },
+  "weekday_copies_counting": "7distinct English day abbreviation sources,14physical tile copies;menu/chart uses are variants,not14newtexts;French Tuesday/Wednesday share M by conventional calendar initials,source identities differ.",
+  "weekday_native_text_variants": "7fixed2byte native date-header slots additionally localized;zero extra source identities.Weekday code/date calculation unchanged."
 }

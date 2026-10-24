@@ -1,0 +1,380 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "canonical_new_sources": 7,
+  "physical_tile_copies": 14,
+  "tile_bytes": 16,
+  "max_pixels": 6,
+  "native_alphabet_unchanged": true,
+  "weekday_order": "Sunday-first,unchanged",
+  "French_calendar_initials": "D L M M J V S",
+  "checks": [
+    {
+      "id": "WEEKDAY-0",
+      "english": "Su",
+      "expanded_english": "Sunday",
+      "french": "Dimanche",
+      "display": "D",
+      "pixels": 5,
+      "left_pad": 2,
+      "width_contract": 8,
+      "bitmap_sha256": "93140d96cd6a0c9bb71d1049a66d1d17948f68726f3f1921aa63467328b1eb3b",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-1",
+      "english": "M",
+      "expanded_english": "Monday",
+      "french": "Lundi",
+      "display": "L",
+      "pixels": 5,
+      "left_pad": 2,
+      "width_contract": 8,
+      "bitmap_sha256": "cf5ed6892afbda75ade556273b5c804f3ce3776adf02e918e8e98146df4fc6c4",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-2",
+      "english": "Tu",
+      "expanded_english": "Tuesday",
+      "french": "Mardi",
+      "display": "M",
+      "pixels": 6,
+      "left_pad": 1,
+      "width_contract": 8,
+      "bitmap_sha256": "14519fdb1ca7efa51f0fc9a56fea238146e6d8533df379f9035a26dea0a1c20e",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-3",
+      "english": "W",
+      "expanded_english": "Wednesday",
+      "french": "Mercredi",
+      "display": "M",
+      "pixels": 6,
+      "left_pad": 1,
+      "width_contract": 8,
+      "bitmap_sha256": "14519fdb1ca7efa51f0fc9a56fea238146e6d8533df379f9035a26dea0a1c20e",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-4",
+      "english": "Th",
+      "expanded_english": "Thursday",
+      "french": "Jeudi",
+      "display": "J",
+      "pixels": 4,
+      "left_pad": 2,
+      "width_contract": 8,
+      "bitmap_sha256": "ac9050252b7863d92456bc793728c00c6ec66d4fe24f23aa48f609d0060a7c18",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-5",
+      "english": "F",
+      "expanded_english": "Friday",
+      "french": "Vendredi",
+      "display": "V",
+      "pixels": 5,
+      "left_pad": 2,
+      "width_contract": 8,
+      "bitmap_sha256": "291876329556c99375c17eecbdbfc23d715e565d91b9385ef92ba92f83ba7eb1",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "WEEKDAY-6",
+      "english": "Sa",
+      "expanded_english": "Saturday",
+      "french": "Samedi",
+      "display": "S",
+      "pixels": 5,
+      "left_pad": 2,
+      "width_contract": 8,
+      "bitmap_sha256": "63defbe07febd7486695a2538dd271d703e959ac5067ea8cb3874b03a445efab",
+      "native_palette_values": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "native_header_cases": [
+    {
+      "day": 0,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 0,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 0,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 0,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 0,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 1,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 1,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 1,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 1,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 1,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 2,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 2,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 2,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 2,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 2,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 3,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 3,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 3,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 3,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 3,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 4,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 4,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 4,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 4,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 4,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 5,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 5,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 5,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 5,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 5,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 6,
+      "input_cursor": 10,
+      "candidate_result_cursor": 16,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 6,
+      "input_cursor": 11,
+      "candidate_result_cursor": 17,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 6,
+      "input_cursor": 13,
+      "candidate_result_cursor": 19,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 6,
+      "input_cursor": 16,
+      "candidate_result_cursor": 22,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    },
+    {
+      "day": 6,
+      "input_cursor": 24,
+      "candidate_result_cursor": 30,
+      "canaries": true,
+      "date_prefix_native_reordered": true
+    }
+  ],
+  "native_header_executions": 70,
+  "header_source_slot_bytes": 2,
+  "header_tested_canary_window_bytes": 32,
+  "maximum_header_weekday_pixels": 8,
+  "old_maximum_header_weekday_pixels": 13,
+  "header_code_unchanged": true,
+  "header_abi": "A16/X8/D=DBR0;observed Friday A5,cursor13->19 on ordinary Almanac",
+  "header_scope": "Synthetic copy/append/date-byte reorder cases;only22/12/1995 is naturally opened,not other date branches",
+  "scope": "Native8x8 weekday graphics,exact duplicate banks and unchanged alphabets.\nNo date calculation or weekday-order change;runtime PPU validation is separate.\n"
+}

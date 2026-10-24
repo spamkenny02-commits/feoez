@@ -1,0 +1,254 @@
+[
+  {
+    "id": "WEEKDAY-0",
+    "english": "Su",
+    "english_expanded": "Sunday",
+    "french": "Dimanche",
+    "french_in_game": "D",
+    "weekday_sunday_zero": 0,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0900",
+        "tiles": 1,
+        "french": "D",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "106040804080254a152a152a21ce0000"
+      },
+      {
+        "offset": "0x6f1600",
+        "tiles": 1,
+        "french": "D",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "106040804080254a152a152a21ce0000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f1740",
+        "bytes": 2,
+        "french": "D",
+        "source_hex": "4264"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-1",
+    "english": "M",
+    "english_expanded": "Monday",
+    "french": "Lundi",
+    "french_in_game": "L",
+    "weekday_sunday_zero": 1,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0910",
+        "tiles": 1,
+        "french": "L",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "2244126c2a5422442244224422440000"
+      },
+      {
+        "offset": "0x6f1610",
+        "tiles": 1,
+        "french": "L",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "2244126c2a5422442244224422440000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f1742",
+        "bytes": 2,
+        "french": "L",
+        "source_hex": "3c00"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-2",
+    "english": "Tu",
+    "english_expanded": "Tuesday",
+    "french": "Mardi",
+    "french_in_game": "M",
+    "weekday_sunday_zero": 2,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0920",
+        "tiles": 1,
+        "french": "M",
+        "align": "center",
+        "pixels": 6,
+        "source_hex": "04f810201020152a152a152a112e0000"
+      },
+      {
+        "offset": "0x6f1620",
+        "tiles": 1,
+        "french": "M",
+        "align": "center",
+        "pixels": 6,
+        "source_hex": "04f810201020152a152a152a112e0000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f1744",
+        "bytes": 2,
+        "french": "M",
+        "source_hex": "4364"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-3",
+    "english": "W",
+    "english_expanded": "Wednesday",
+    "french": "Mercredi",
+    "french_in_game": "M",
+    "weekday_sunday_zero": 3,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0930",
+        "tiles": 1,
+        "french": "M",
+        "align": "center",
+        "pixels": 6,
+        "source_hex": "22442244224422442a54126c22440000"
+      },
+      {
+        "offset": "0x6f1630",
+        "tiles": 1,
+        "french": "M",
+        "align": "center",
+        "pixels": 6,
+        "source_hex": "22442244224422442a54126c22440000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f1746",
+        "bytes": 2,
+        "french": "M",
+        "source_hex": "4600"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-4",
+    "english": "Th",
+    "english_expanded": "Thursday",
+    "french": "Jeudi",
+    "french_in_game": "J",
+    "weekday_sunday_zero": 4,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0940",
+        "tiles": 1,
+        "french": "J",
+        "align": "center",
+        "pixels": 4,
+        "source_hex": "04f8102014281428112e152a152a0000"
+      },
+      {
+        "offset": "0x6f1640",
+        "tiles": 1,
+        "french": "J",
+        "align": "center",
+        "pixels": 4,
+        "source_hex": "04f8102014281428112e152a152a0000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f1748",
+        "bytes": 2,
+        "french": "J",
+        "source_hex": "4357"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-5",
+    "english": "F",
+    "english_expanded": "Friday",
+    "french": "Vendredi",
+    "french_in_game": "V",
+    "weekday_sunday_zero": 5,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0950",
+        "tiles": 1,
+        "french": "V",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "023c1020102004381020102010200000"
+      },
+      {
+        "offset": "0x6f1650",
+        "tiles": 1,
+        "french": "V",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "023c1020102004381020102010200000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f174a",
+        "bytes": 2,
+        "french": "V",
+        "source_hex": "3500"
+      }
+    ]
+  },
+  {
+    "id": "WEEKDAY-6",
+    "english": "Sa",
+    "english_expanded": "Saturday",
+    "french": "Samedi",
+    "french_in_game": "S",
+    "weekday_sunday_zero": 6,
+    "new_distinct_source": true,
+    "strips": [
+      {
+        "offset": "0x6f0960",
+        "tiles": 1,
+        "french": "S",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "10604080428421421126152a21c60000"
+      },
+      {
+        "offset": "0x6f1660",
+        "tiles": 1,
+        "french": "S",
+        "align": "center",
+        "pixels": 5,
+        "source_hex": "10604080428421421126152a21c60000"
+      }
+    ],
+    "status": "Two bitmap copies plus fixed2byte header string slot;native date calculation/code unchanged;combined49b validation pending",
+    "native_string_slots": [
+      {
+        "offset": "0x6f174c",
+        "bytes": 2,
+        "french": "S",
+        "source_hex": "4250"
+      }
+    ]
+  }
+]

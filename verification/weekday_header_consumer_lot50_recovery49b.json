@@ -1,0 +1,15 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "core_sha256": "e87005c7f7a7fc6abc250e67aa4a3b7219478ff50093f6c371cc24496a1e6436",
+  "read_only_observer": true,
+  "ordinary_almanac_context": "22/12/1995",
+  "source_weekday_table": "4F1740..4F174E,7fixed2byte strings",
+  "native_reader": "4F1750..4F17A2,unchanged",
+  "native_caller": "C0B73E,JSL4F1750;weekday producerC21245",
+  "trace": [
+    "FEOE50_WEEKDAY pc=c0b73e A=0005 P=10 X=000c cursor=000d",
+    "FEOE50_WEEKDAY pc=4f1750 A=0005 P=10 X=000c cursor=000d",
+    "FEOE50_WEEKDAY pc=c0b742 A=dc1c P=30 X=0013 cursor=0013"
+  ],
+  "scope": "Actual Friday getter/reader ABI and cursor observation;not all natural dates or branches"
+}

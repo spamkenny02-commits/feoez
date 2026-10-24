@@ -7,9 +7,9 @@
   "source_recovered_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
   "standard_core_rebuilt_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
   "historical8_sources_counter_preserved": true,
-  "new_distinct_sources_prepared": 42,
-  "current_candidate": "../emulator/fr_v56_lot50_recovery42a.sfc",
-  "current_candidate_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "new_distinct_sources_prepared": 49,
+  "current_candidate": "../emulator/fr_v56_lot50_recovery49b.sfc",
+  "current_candidate_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
   "historical_P8b_sha256": "e5cdbdfc5a1ab33d29f98e5082e0184523d98b0e13dde18867f455666b099d85",
   "historical_P8b_evidence": "Files lost;historical test claims do not validate recovery ROM",
   "former303_item_variants": "Reconstructed canonical short forms in traduction/item_graphics_lot50_fr.json;not byte-identical to lostP8b;zero new sources;all46 original icon suffixes pixel-preserved",
@@ -36,14 +36,15 @@
     "max_pixels": 190,
     "scroll_pairs": 36,
     "shop_name_dispatch_dma": 32,
-    "prior_full_native_strings": 6769
+    "prior_full_native_strings": 6769,
+    "weekday_header_executions": 70
   },
   "draft_retouches_not_new": {
     "22": "Pil. Tortue",
     "116": "Orbe Tortue",
     "211": "Robe Grue"
   },
-  "current_runtime_status": "Exact42a fresh6769native reads,303item/71weak PPU fresh and pixel-identical to previously read14e,32name views freshly read4sheets,9shop views read;85boot+21AB+7navigation+399natural fresh captures identical to freshV55.122context screens read11sheets plus28selected natural/inventory/calendar screens read3sheets. Ordinary equipment and consumable selector/cancel verified6VRAM/tilemap contracts. No healing/transaction/all-branch claim.",
+  "current_runtime_status": "49b exact native checks completed;ordinary weekday menu/chart/dynamic header French actually read6views. Fresh49b303item/71weakness fixtures and boot/AB/navigation/natural regression are still in progress.42a proofs historical only.",
   "private_cores": {
     "item_shop": "../emulator/snes9x_libretro_lot50_recovery_items.so",
     "weakness": "../emulator/snes9x_libretro_lot50_recovery_weakness.so"
@@ -52,6 +53,10 @@
   "weakness_core_sha256": "ff83d0336b7f49a2efde52816e433288d28e0b4456e18f45a6c8235db01169d2",
   "shop_name_research": "Runtime14e observer C0AF35:A8=C5DEF0;byte67 is consumed by shop loader,not a separate VM opcode on this path. DC=DE6C62;C0AFA7 reads13;RAM1DCF=13;1F7C=14;4FF8C0 DMA uses(A-1)*256 bank4D->VRAM7D00,160bytes. D-window mapping gives ROM2E6C62 for descriptor. Keep distinction from naturally visited merchant.",
   "shop_name_new_sources": "28 new canonical source identities on29fields;Weapon Store alias of Weapon Shop excluded;Ring & Ring unchanged proper name;Pharmacist already counted;Singles Tea House unresolved/unmodified. Verified native32DMA,static FD80 stock consumers andfresh32PPU windows.",
-  "new_remaining_graphics": "Actual Almanac22/12/1995 shows English chart weekday initials;native source/layout unresolved. Other dates/branches/song sync/full review remain open.",
-  "new_private_core": "../emulator/snes9x_libretro_lot50_names.so SHA727132f625502c5323d9864c345047a75af06bbf5d639728f2e8dec1eccf8175;name-index override explicit only withFEOE_LOT50_SHOP_NAME_INDEX;no environment means no mutation"
+  "new_remaining_graphics": "Weekday forms resolved in49b;otherUI/scrolls,computed accesses,Singles Tea House,fallback classifications,otherdates/branches/song sync and full French review remain open.",
+  "new_private_core": "../emulator/snes9x_libretro_lot50_names.so SHA727132f625502c5323d9864c345047a75af06bbf5d639728f2e8dec1eccf8175;name-index override explicit only withFEOE_LOT50_SHOP_NAME_INDEX;no environment means no mutation",
+  "weekday_sources": "7sources added once,49total.14bitmap copies6F0900/1600 and7fixed2byte slots6F1740..174E. Conventional French D L M M J V S,Sunday-first unchanged. Header variant repair adds0sources.49a e9a76...1ed6 still had header(F);49b c063...8421 corrects it to(V).",
+  "weekday_native_consumer": "Ordinary C0B73E->4F1750 inputA5/P10/cursor13;returnP30/cursor19. Reader4F1750..17A2 and date calculations unchanged;7values x5cursors x2ROMs=70native executions with canaries and unchanged date bytes;max glyph8px vs old13 in dynamic header,bitmap max6px in8px slots.",
+  "native_reader_resilience": "recover_v55_catalog_lot50.py now supports4isolated workers,private atomic100-row checkpoints bound to exact ROM/baseline/IDset and --catalog-out.49b6769completed;resume test executes0duplicate reads;cross-ROM49a reuse rejected. Private checkpoints are not distributed.",
+  "environment_interruption": "Temporary environment unavailability occurred;local changes/resources survived,source/49a/core hashes rechecked and lot lock reacquired. No counter reset or arbitrary rebuild."
 }

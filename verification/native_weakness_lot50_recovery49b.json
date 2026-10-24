@@ -1,0 +1,12035 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "expansions": 1002,
+  "maximum_bytes": 44,
+  "maximum_pixels": 190,
+  "four_inserted_03_markers": true,
+  "canaries_preserved": true,
+  "cases": [
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 23,
+      "pixels": 86,
+      "tiles": 11
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 19,
+      "pixels": 67,
+      "tiles": 9
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 124,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 105,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 107,
+      "tiles": 14
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 23,
+      "pixels": 88,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 124,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 105,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 107,
+      "tiles": 14
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 23,
+      "pixels": 88,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 124,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 105,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 27,
+      "pixels": 107,
+      "tiles": 14
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 23,
+      "pixels": 88,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 31,
+      "pixels": 124,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 27,
+      "pixels": 105,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 26,
+      "pixels": 101,
+      "tiles": 13
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 22,
+      "pixels": 82,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 27,
+      "pixels": 107,
+      "tiles": 14
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 23,
+      "pixels": 88,
+      "tiles": 11
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "",
+        "Foudre"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Feu"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Eau"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 139,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 30,
+      "pixels": 120,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 116,
+      "tiles": 15
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 25,
+      "pixels": 97,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 35,
+      "pixels": 145,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 31,
+      "pixels": 126,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 30,
+      "pixels": 122,
+      "tiles": 16
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 26,
+      "pixels": 103,
+      "tiles": 13
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 131,
+      "tiles": 17
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 28,
+      "pixels": 112,
+      "tiles": 14
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        ""
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        ""
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        ""
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 154,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 33,
+      "pixels": 135,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 38,
+      "pixels": 160,
+      "tiles": 20
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 34,
+      "pixels": 141,
+      "tiles": 18
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 33,
+      "pixels": 137,
+      "tiles": 18
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 29,
+      "pixels": 118,
+      "tiles": 15
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 169,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 36,
+      "pixels": 150,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 146,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 31,
+      "pixels": 127,
+      "tiles": 16
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 36,
+      "pixels": 152,
+      "tiles": 19
+    },
+    {
+      "source": 9,
+      "slots": [
+        "",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 32,
+      "pixels": 133,
+      "tiles": 17
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Physique",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Eau",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Vent",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Feu",
+        "Foudre",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Physique",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Vent",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Feu",
+        "Foudre",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Vent",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Eau",
+        "Foudre",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Physique",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Eau",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Feu",
+        "Foudre",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Physique",
+        "Foudre"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 41,
+      "pixels": 175,
+      "tiles": 22
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 37,
+      "pixels": 156,
+      "tiles": 20
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Feu",
+        "Foudre"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Eau",
+        "Foudre",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Vent",
+        "Foudre",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Physique",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Eau",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Feu",
+        "Vent",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Physique",
+        "Vent"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 43,
+      "pixels": 184,
+      "tiles": 23
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 39,
+      "pixels": 165,
+      "tiles": 21
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Feu",
+        "Vent"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Eau",
+        "Vent",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        "Feu"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Physique",
+        "Eau"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Feu",
+        "Eau"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 44,
+      "pixels": 190,
+      "tiles": 24
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        "Physique"
+      ],
+      "bytes": 40,
+      "pixels": 171,
+      "tiles": 22
+    },
+    {
+      "source": 8,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 39,
+      "pixels": 167,
+      "tiles": 21
+    },
+    {
+      "source": 9,
+      "slots": [
+        "Foudre",
+        "Vent",
+        "Eau",
+        "Feu"
+      ],
+      "bytes": 35,
+      "pixels": 148,
+      "tiles": 19
+    }
+  ],
+  "scope": "Finite four-slot weakness expansions through the native FD8B copier.\nNo event selection,PPU or naturally triggered View action is established.\n"
+}

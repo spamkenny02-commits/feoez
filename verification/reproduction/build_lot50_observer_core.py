@@ -18,6 +18,9 @@ code=r'''
                 int index=atoi(getenv("FEOE_LOT50_SHOP_NAME_INDEX"));if(index<0||index>=32)abort();
                 fprintf(stderr,"FEOE50_SHOP_NAME fixture original=%u target=%u\n",Registers.AL-1,index);Registers.AL=index+1;
             }
+            if(getenv("FEOE_LOT50_WEEKDAY_TRACE") && ((Registers.PB==0xc0 && (Registers.PCw==0xb73e || Registers.PCw==0xb742)) || (Registers.PB==0x4f && Registers.PCw==0x1750))) {
+                fprintf(stderr,"FEOE50_WEEKDAY pc=%02x%04x A=%04x P=%02x X=%04x cursor=%02x%02x\n",Registers.PB,Registers.PCw,Registers.A.W,Registers.PL,Registers.X.W,Memory.RAM[0x1e16],Memory.RAM[0x1e15]);
+            }
             static bool feoeShopDone=false,feoeShopText=false;
             if(getenv("FEOE_LOT50_SHOP_ENTRY") && !feoeShopDone && Registers.PB==0xc3 && Registers.PCw==0x29b6 && Registers.AL==48 && Memory.RAM[0xa8]==0x39 && Memory.RAM[0xa9]==0x63 && Memory.RAM[0xaa]==0xc7) {
                 int matches=0;
@@ -34,6 +37,9 @@ code=r'''
             }
 '''
 dma_code=r'''
+    if(getenv("FEOE_LOT50_GRAPHICS_TRACE") && !d->ReverseTransfer && (d->ABank==0x4f || d->ABank==0x4d)) {
+        fprintf(stderr,"FEOE50_DMA bank=%02x source=%04x bytes=%u vram_word=%04x pc=%02x%04x\n",d->ABank,d->AAddress,d->TransferBytes,PPU.VMA.Address,Registers.PB,Registers.PCw);
+    }
     static bool feoeItemDone=false;
     const char *feoeItem=getenv("FEOE_LOT50_ITEM_INDEX");
     if(feoeItem && !feoeItemDone && d->ABank==0x4f && d->AAddress>=0x6000 && d->TransferBytes==128 && !d->ReverseTransfer) {

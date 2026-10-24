@@ -1,0 +1,267 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "allocated_titles": 32,
+  "translated_fields": 29,
+  "new_distinct_sources": 28,
+  "semantic_aliases_excluded": 1,
+  "real_stock_descriptors": 122,
+  "results": [
+    {
+      "name_index": 0,
+      "source": "0x4d0000",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 1,
+      "source": "0x4d0100",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 2,
+      "source": "0x4d0200",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 3,
+      "source": "0x4d0300",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 4,
+      "source": "0x4d0400",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 5,
+      "source": "0x4d0500",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 6,
+      "source": "0x4d0600",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 7,
+      "source": "0x4d0700",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 8,
+      "source": "0x4d0800",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 9,
+      "source": "0x4d0900",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 10,
+      "source": "0x4d0a00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 11,
+      "source": "0x4d0b00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 12,
+      "source": "0x4d0c00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 13,
+      "source": "0x4d0d00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 14,
+      "source": "0x4d0e00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 15,
+      "source": "0x4d0f00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 16,
+      "source": "0x4d1000",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 17,
+      "source": "0x4d1100",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 18,
+      "source": "0x4d1200",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 19,
+      "source": "0x4d1300",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 20,
+      "source": "0x4d1400",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 21,
+      "source": "0x4d1500",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 22,
+      "source": "0x4d1600",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 23,
+      "source": "0x4d1700",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 24,
+      "source": "0x4d1800",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 25,
+      "source": "0x4d1900",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 26,
+      "source": "0x4d1a00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 27,
+      "source": "0x4d1b00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 28,
+      "source": "0x4d1c00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 29,
+      "source": "0x4d1d00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 30,
+      "source": "0x4d1e00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    },
+    {
+      "name_index": 31,
+      "source": "0x4d1f00",
+      "bytes": 160,
+      "vram": "0x7d00",
+      "pending_native_dispatch": true,
+      "dma_registers_native": true
+    }
+  ],
+  "scope": "Native pending-name dispatch and DMA registers for32 allocated shop headers.\nReal stock descriptors and source FD80 operands establish static consumers.\nDMA transfer copies from programmed registers;actual PPU and natural visits separate.\n"
+}

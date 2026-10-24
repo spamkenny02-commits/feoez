@@ -1,0 +1,56 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "date_context": "22/12/1995 Friday index5",
+  "both_weekday_banks_vram_exact": true,
+  "friday_menu_tile": "1C5 at(2,15)",
+  "chart_21_tiles_exact": true,
+  "chart_21_tile_pixels_exact": true,
+  "menu_friday_pixels_exact": true,
+  "ppu_chart_rectangle": [
+    80,
+    111,
+    248,
+    119
+  ],
+  "ppu_menu_weekday_rectangle": [
+    16,
+    119,
+    24,
+    127
+  ],
+  "date_header": "Dynamic2byte string table checked separately by native header probe;complete V header needs actual visual reading",
+  "cases": [
+    {
+      "id": "almanac",
+      "pixels_sha256": "d82b05bf28624507d17be4d0da48a4a0f12df34a7e130dd185428058dc35ae67",
+      "all_pixels_preserved": true
+    },
+    {
+      "id": "almanac_selected",
+      "pixels_sha256": "f4218c48587f34be308c9e59b6008b4b03cfd15ac97b8cbd52b9871452423ce9",
+      "all_pixels_preserved": true
+    },
+    {
+      "id": "main",
+      "pixels_sha256": "f4218c48587f34be308c9e59b6008b4b03cfd15ac97b8cbd52b9871452423ce9",
+      "all_pixels_preserved": true
+    },
+    {
+      "id": "return",
+      "pixels_sha256": "77f6aad13bffe199454432842739f1fbacd300e238134b3c0ce7c5d77159da69",
+      "all_pixels_preserved": true
+    },
+    {
+      "id": "row1",
+      "pixels_sha256": "f4218c48587f34be308c9e59b6008b4b03cfd15ac97b8cbd52b9871452423ce9",
+      "all_pixels_preserved": true
+    },
+    {
+      "id": "row2",
+      "pixels_sha256": "f4218c48587f34be308c9e59b6008b4b03cfd15ac97b8cbd52b9871452423ce9",
+      "all_pixels_preserved": true
+    }
+  ],
+  "visual_review": "All6complete ordinary menu/Almanac views actually read;weekday chart D L M M J V S and both Friday V prefixes correct,including dynamic header.22/12/1995 only,other dates not claimed.",
+  "scope": "Exact ordinary weekday VRAM/tilemap/PPU contracts plus complete windows.\nOnly the original22/12/1995 clock state is opened;not other date branches.\n"
+}

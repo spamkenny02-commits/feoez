@@ -1,34 +1,29 @@
 {
   "lot": 50,
   "target_distinct_new_texts": 400,
-  "new_distinct_sources_prepared": 42,
+  "new_distinct_sources_prepared": 49,
   "historical_integrated_sources_before_loss": 8,
-  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery42a.sfc",
+  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery49b.sfc",
   "published": false,
   "phase": 1,
   "phase_end_proven": false,
   "baseline_commit": "2ef515fa05055f11a3675ff026f915972d2c733a",
   "pending": [
-    "Continue native UI/scrolls and remaining source consumer classification",
-    "Almanac chart weekday initials still English;source/native layout unresolved;not counted",
-    "Singles Tea House source has stock descriptors but no direct FD80 call found;do not assume unused or count it",
-    "Other dates/branches,all natural actions,song synchronization and full French review still open",
+    "Finish49a native/full prior reader,fresh PPU/ordinary calendar/menu,regression and visual review",
+    "Continue native UI/scrolls and source consumer classification;Singles Tea House unresolved",
+    "Other dates/branches,all natural actions,song synchronization and full French review open",
     "Reach400 or prove true final phase remainder;no main delivery before criterion"
   ],
-  "latest_candidate_rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
-  "new_distinct_sources_integrated_in_recovery": 42,
-  "partial_runtime_evidence": "Exact42a:303fresh item+71weakness PPU captures match previously actually read14e complete text pixels;32shop name fields freshly read4sheets;9fresh shop windows read;122context screens read11sheets;28natural/inventory/calendar screens read3sheets.6769native prior strings and512fresh V55 regression comparisons passed. Ordinary Katana fiche and naturally won kusa dango target/cancel reopened,6VRAM/tilemap contracts passed.",
+  "latest_candidate_rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "new_distinct_sources_integrated_in_recovery": 49,
+  "partial_runtime_evidence": "49b exact:6769native prior reads completed;native weekday14bitmap/7text slots,70header executions passed;ordinaryFriday main/chart/header French observed. Full49b PPU/regression verification still in progress. Seven weekday sources counted once,header string variants0extra.",
   "restored_prior_item_variants": 303,
   "original_item_icons_preserved": 46,
-  "latest_build_report": "verification/build_report_lot50_recovery42a.json",
+  "latest_build_report": "verification/build_report_lot50_recovery49b.json",
   "current_native_checks": {
     "prior_full_string_reads": 6769,
-    "item_producer_dma_pairs": 303,
-    "weakness_getters": 65,
-    "weakness_expansions": 1002,
-    "maximum_weakness_bytes": 44,
-    "maximum_weakness_pixels": 190,
-    "scroll_compact_full_pairs": 36,
-    "shop_pending_name_dma_cases": 32
+    "weekday_header_executions": 70,
+    "weekday_bitmap_copies": 14,
+    "weekday_native_string_slots": 7
   }
 }

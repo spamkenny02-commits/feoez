@@ -891,3 +891,9 @@ un nom propre inchangé. Singles Tea House reste à relier à son consommateur.
 Les titres graphiques sont chargés sur10tuiles/80px ;les formes complètes
 restent au JSON source. Acheter/Vendre utilisent Ach/Vte sur16px.
 La copie Bookmark de la vente reprend Signet, sans nouveau texte compté.
+
+Jours des menus/calendrier :Dimanche,Lundi,Mardi,Mercredi,Jeudi,Vendredi,Samedi ;
+initiales D L M M J V S dans les champs natifs de8px. L’ordre dimanche-premier
+reste celui du calcul original ;Mardi/Mercredi partagent M. Les deux copies
+graphiques et la table à2octets de l’en-tête sont des variantes des mêmes
+sept sources,comptées une fois. Le format12heures AM/PM reste inchangé.

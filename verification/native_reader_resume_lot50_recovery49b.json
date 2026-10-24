@@ -1,0 +1,9 @@
+{
+  "rom_sha256": "c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421",
+  "completed_exact_rom_checkpoint_rows": 6769,
+  "ordered_read_sha256": "33614fa3f6f2814a525d08fdebd35d6424810831ee3316f9ad5f8cc5c70213fe",
+  "resumed_without_duplicate_native_reads": true,
+  "cross_rom_checkpoint_rejected": true,
+  "rejected_rom_sha256": "e9a76ddedf27140d6d138d10bf276a565f9a02d7c00d6bc7bb9921c11eaa1ed6",
+  "scope": "Tests checkpoint integrity/resumption after successful native reads;not another6769new native executions"
+}

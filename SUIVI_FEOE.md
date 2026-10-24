@@ -1,11 +1,13 @@
 # État actuel — V55, lot49 complet
 
-Reprise technique du lot50 (non livré) :42 sources nouvelles dans le candidat
-privé recovery42a, SHA256 0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6.
-Compteur conservé14+28titres de boutique ;Weapon Store est un alias exclu.
+Reprise technique du lot50 (non livré) :49 sources nouvelles dans le candidat
+privé recovery49b, SHA256 c0639c4c24783982ba2c80e092d5a2aed8149a5d88c2e140cdbed6b8f1df8421.
+Compteur conservé14+28titres de boutique+7jours ;Weapon Store est un alias exclu.
 303variantes d’objets,20copies graphiques anciennes et4éléments restent0nouveau.
 Les6769 anciennes chaînes ont été relues nativement sur ce candidat. Voir
-verification/lot50_progress.json et emulation_lot50_recovery42a_research.json.
+verification/lot50_progress.json ;les preuves42a sont historiques et ne valident
+pas49b. Les contrôles natifs49b et le rendu ordinaire des jours sont terminés,
+les nouvelles suites PPU/régressions sont en cours.
 La phase1 reste ouverte :aucune fin de phase ou couverture globale n’est prouvée.
 
 
