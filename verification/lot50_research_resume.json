@@ -26,7 +26,7 @@
   },
   "remaining": "Continue shop/scroll UI,field fallback classification and full coverage.608 labels inB21..27 look debug but absence of event roots is not a non-usage proof.762 remaining nonempty bounded rows afterV55 is not coverage.Three phases remain open.",
   "recovered_prior_bitmaps": 19,
-  "shop_runtime_proof": "verification/renders/lot50_recovery14c_shop/report.json",
+  "shop_runtime_proof": "verification/renders/lot50_recovery14e_shop/report.json",
   "shop_sell_question": "Visible10 tiles80px,not stored11 tiles88px;display Que vendre ?,full Que vendez-vous ?",
   "current_native_checks": {
     "item_routine_calls": 606,
@@ -41,11 +41,12 @@
     "116": "Orbe Tortue",
     "211": "Robe Grue"
   },
-  "current_runtime_status": "Fresh boot14e complete;item303 retry/weakness71/natural replay in progress;failed initial renders were launched before final boot state existed,keep logs and use retry dirs",
+  "current_runtime_status": "Exact14e native6769 prior string reads passed;303 fresh item PPU full-strip and outside pixels checked,300 unchanged from prior reviewed14d and3 changed read;71weakness windows read9sheets;9shop views read. Boot/natural789 replay complete,review/regression pending.",
   "private_cores": {
     "item_shop": "../emulator/snes9x_libretro_lot50_recovery_items.so",
     "weakness": "../emulator/snes9x_libretro_lot50_recovery_weakness.so"
   },
   "item_core_sha256": "7db64e163a8cf963ca15b895be547d48f21d4fff05d2525edca626ec296bdd68",
-  "weakness_core_sha256": "ff83d0336b7f49a2efde52816e433288d28e0b4456e18f45a6c8235db01169d2"
+  "weakness_core_sha256": "ff83d0336b7f49a2efde52816e433288d28e0b4456e18f45a6c8235db01169d2",
+  "shop_name_research": "Runtime14e observer C0AF35:A8=C5DEF0;byte67 is consumed by shop loader,not a separate VM opcode on this path. DC=DE6C62;C0AFA7 reads13;RAM1DCF=13;1F7C=14;4FF8C0 DMA uses(A-1)*256 bank4D->VRAM7D00,160bytes. D-window mapping gives ROM2E6C62 for descriptor. Keep distinction from naturally visited merchant."
 }

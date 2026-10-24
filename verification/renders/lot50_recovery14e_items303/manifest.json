@@ -1,0 +1,2772 @@
+{
+  "rom_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
+  "cases": [
+    {
+      "index": 0,
+      "id": "B002-S001",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "75b9e3974150387962075849e6b97baec7fc4c30e9d643f0d18715fbd530e48a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 1,
+      "id": "B002-S002",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "88b4f2de75f04d57a75dde20e65c47e13f0be9dbeeceb9ad8f51a6f70086a766",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 2,
+      "id": "B002-S003",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "5e33f016637f58f980148bdeb1f2d5ab01fe2c70165bc8ec03a76905248d5a0c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 3,
+      "id": "B002-S004",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "ad378e0c7adfa474aadc3ebea1781981c42bfa7eedd74805368bd47162cf9694",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 4,
+      "id": "B002-S005",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "c6b08d84687b38da24e557ad53a05a621102d3ed72235e163c59be9ed0b8f88d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 5,
+      "id": "B002-S006",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "65fb1b64f547866a402f491489b445debfe82db4d1bcb00d05723bca68cee503",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 6,
+      "id": "B002-S007",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "25457e3e152d56b4d6415ffe2d0d6cf60ebb8bc3ee5e42c5f0d9d364568c1363",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 7,
+      "id": "B002-S008",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "24c669ef0c2406ecca11b8ec9d944d978648af531ae1dbf7cce5cdaa28db290d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 8,
+      "id": "B002-S009",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "8b8a9667c9181948049d0d46ee1f69a89bb26b1fa1a8db45c62251459f554eb6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 9,
+      "id": "B002-S010",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "ac216ab179206fa9b380cef0d5f0c111246ca66439e4e7d8e86826bd183a455d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 10,
+      "id": "B002-S011",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "e5b52c0d45eded32435e8c952c2597a411fd8fbcdbed2b85a94d6ce1032b3fe7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 11,
+      "id": "B002-S012",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "a47e1a9826ad3b79c0ba9315ed4bc91aefb53b3b829dcb2227840e994a55df9a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 12,
+      "id": "B002-S013",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "cb718755dae066e9ee0e2249436ce4ce03cd04e8dad68d034f66dcd0705c594e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 13,
+      "id": "B002-S014",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "003ff0750a289196f360e0117d934704acfcecb6629892cb40b8c0cdd647e278",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 14,
+      "id": "B002-S015",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "90a1c8966815bc2c6d9db00987afee39b2d9ccd874c1fea87931c63bdfdc5565",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 15,
+      "id": "B002-S016",
+      "sheet": "items_01.png",
+      "full_strip_pixels_sha256": "9afd90fa694149c9483641a707cd1b5590443a5570ad7181367587f77e29d903",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 16,
+      "id": "B002-S017",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "fd6eedfc41c2a0e53a80bc6cf6bec3a7b58ad86338f13523a841dedf36284006",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 17,
+      "id": "B002-S018",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "b2a81468071b1ef590492685eeaee20c599c33d5164a68674ea366b4f82aad97",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 18,
+      "id": "B002-S019",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "62c8128195817b5ebcfac0bdc9c85f1361279211af139a0731019d146f0b4981",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 19,
+      "id": "B002-S020",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "398ccbd4d7bf54d33c5a4095f28983b20df8757db4e901bb50e87bffbebeb98a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 20,
+      "id": "B002-S021",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "79a7f611c689ecb2833e6b87d26b87d34c80e31d2ea2971fc9336282481c89cd",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 21,
+      "id": "B002-S022",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "3149f6a1f30909b102af66ab2ba9252ecff317241dc4392d6bf10f88966e4b3e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 22,
+      "id": "B002-S023",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "ede97db72296ab17bbdda6a98b7869716db9c540e128bd2040bef01e412baf48",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 23,
+      "id": "B002-S024",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "99b12fa2b1d13d4b40d4930e49a4456d995ccecfbfde90d2bde20274d1ccc687",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 24,
+      "id": "B002-S025",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "ab7a482b8b0d7c3cd587179cd65e457e3b9994f3a386d8f3a871ba30da3b88c4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 25,
+      "id": "B002-S026",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "d3f0c70e8bcb0a669fb4640ea39ba10924fa727cede8d8b62cca8e7c7ceb09fe",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 26,
+      "id": "B002-S027",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "9a8f8a12e35e397ed996e11e1d3c65a1febc2c1b201ef62732eb04751468a180",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 27,
+      "id": "B002-S028",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "93cc8d10897a8ae6e5e95856ac39c22aa9ded1f21ca1d3e41cd32e463702b91d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 28,
+      "id": "B002-S029",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "e47d50a4dcdd24731452e126840a8d3a8f1fdc10ea172b96e9d687b369d48b7c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 29,
+      "id": "B002-S030",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "13bcc888ad49251b03b756a05ccdde7e1a4828d46fc0cda7a9e718a0fbebb223",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 30,
+      "id": "B002-S031",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "c9c92ab58a35e13e9962415c5012cb964837c2514bf233e462382b34f171fb19",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 31,
+      "id": "B002-S032",
+      "sheet": "items_02.png",
+      "full_strip_pixels_sha256": "e1f5afaea0df1cfc88846e8357cb047797fd3a56a8693663ed5564059b6f724e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 32,
+      "id": "B002-S033",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "62c50abd1c8e840e2d17edd55ac02ce5fc76727831394407ec2e8dc7880fd948",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 33,
+      "id": "B002-S034",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "a0fde280f037bb5cf44f46fbec5a8db9ea028b52a397575d3fdb140b150377c2",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 34,
+      "id": "B002-S035",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "5159fce401dd898c871dcf35728cd7cff1dc7b69f6f6665601e1533b6be583e0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 35,
+      "id": "B002-S036",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "b7bf83a671e64492a3d3724d83ccbc5ba1025efac9ee78994d9bf7089d2b692c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 36,
+      "id": "B002-S037",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "e99f7a378fb5bb4dc499a8519255cf9fc7405527c7d1f8e3f3d0402e1c587dbf",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 37,
+      "id": "B002-S038",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "b5b35a2c520913e7511c6f39333acacc0923aa08e282081bb08b894f2e92b317",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 38,
+      "id": "B002-S039",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "443966d8074306782db8d78cf5aea124370ddb9770910ae133abb36515449659",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 39,
+      "id": "B002-S040",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "b4ea61070d92758ea86809939873cdd3956d088d13dce4c77776ce525b97c6c8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 40,
+      "id": "B002-S041",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "e7962ed19cb31ac9b886eafe97ae2f37f94e50c9c1781336eec847f9c80910a5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 41,
+      "id": "B002-S042",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "4def5a1482720da0b1a84199a4bcfcd8a7fdb767a9db9698a6f2a496ea740779",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 42,
+      "id": "B002-S043",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "88bd05d5d6cd78558d5cc9361b4c6e9193b68b47abcdc6805ffd8d1d8b10d65b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 43,
+      "id": "B002-S044",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "ce940d781aa031f104589cbc12c9cb6a7c6857b95f2abb4c362bc0004ce55ba4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 44,
+      "id": "B002-S045",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "ff22b281f87c7530b6e00c51cd2730aa2a0c5e4a3477e80940494e9c46e4e9e7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 45,
+      "id": "B002-S046",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "9b287772a8f0d2d389c3cde9a8765695048d7e2e2ed732c61ceff861beaeb8a8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 46,
+      "id": "B002-S047",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "6107b692a511319ce2c49eaac41423d5254960d13387dcb343b55036c00f90f1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 47,
+      "id": "B002-S048",
+      "sheet": "items_03.png",
+      "full_strip_pixels_sha256": "998fa8699c5bb6647b0194799d38a91fe6fa4be3c12f875e9cefe68094cb6227",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 48,
+      "id": "B002-S049",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "bb6d2106d8ae3380753e97541922709601d29d7b2dfa63432fe5104943e6eca3",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 49,
+      "id": "B002-S050",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "7949e460e99264647bb25d93e8c7775156676177d2cf8d3155d835ff674edfb6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 50,
+      "id": "B002-S051",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "7c7fe5a3c9291bcb96aec64b39a37be76c1f033639d18ca04a6b3f1686b2aa6f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 51,
+      "id": "B002-S052",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "065446b090a3efbedfad982fca260c8e7bed9d994e94d5e9b0ccb607e9b603a0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 52,
+      "id": "B002-S053",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "719cc23659e5c7d93ccbffc1aa25b2d847d132703bca53aedbcfe73aee667d56",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 53,
+      "id": "B002-S054",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "ee17ef35c3f19e4defb8a0afc26a4ad6a299b9aad2b5a35ebb50d397b65d1b6a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 54,
+      "id": "B002-S055",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "13f34487470b7b0a097260be4f637677e8581387a9a08d8b6da20f97297c8d86",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 55,
+      "id": "B002-S056",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "4ef946eef53dc0b1136f79a20d005b958b8cb7f334158145fb21564213030969",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 56,
+      "id": "B002-S057",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "17e87b6cf7d33f7718a734be530abbb7159664f249f057eb92afe6dc03678cf9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 57,
+      "id": "B002-S058",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "dfe59f6dede8d67b4df057abb2b2001120fd0f4669df045a1f1ace0740c6f9f9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 58,
+      "id": "B002-S059",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "da0ede2f1143cf537da357490bb9470964f950c2e8ca1c76226aad57132990f7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 59,
+      "id": "B002-S060",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "b52e85d65ede26956b9403ebd011bd784a39ec8897fa4b0c002b69650cf02134",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 60,
+      "id": "B002-S061",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "f4a21af630bcf3dc0c7a5143bc412cc0b0cca80e8a22ca9c3475682b5433349f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 61,
+      "id": "B002-S062",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "5c4244485ba7e263686853229c4c42193b4891b536d568260d88d584e4c829dc",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 62,
+      "id": "B002-S063",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "3cf6f2af006a4ea691b7c3e9a9141fd703e30dd942498675fee0d3fb06d7797f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 63,
+      "id": "B002-S064",
+      "sheet": "items_04.png",
+      "full_strip_pixels_sha256": "b586da582c288980390eb6a68c9227ea9f6a38a174b0c82ba890bc87d544d992",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 64,
+      "id": "B002-S065",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "6729f453aec2a878d85883a8a6afd2cc32b0d9c51d5d1d44e0b8d76f2a908cdb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 65,
+      "id": "B002-S066",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "4860a07dcac2cbff9fe872893b74bbea2ab0885a9bb3958204e8c64b61075781",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 66,
+      "id": "B002-S067",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "38f7d4fe1771ff19a582ca6fe4b3fda4c64c552a832c7d8fc8627ae580260bdc",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 67,
+      "id": "B002-S068",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "e98d6498ccfdb14a81b1d68a02fa5edc2c7819e649576920fe041a47abbcd5c7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 68,
+      "id": "B002-S069",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "0db11b86c6f1047dbc0263caddba7875647fa119b872d7792254b071906ebb5b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 69,
+      "id": "B002-S070",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "66a0984aa3b48dce98a89311f9845f76a1da7af8296625b7719d566357a502c2",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 70,
+      "id": "B002-S071",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "42c34d51edd5658ed20a2b9f9e79d6ed21fb79ec0deaa1cdd215b8b519fe08ab",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 71,
+      "id": "B002-S072",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "4ff2ed405892fee654b5d26707903eb221ebffb975e8b9ca2187f4516d302889",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 72,
+      "id": "B002-S073",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "07f1413bb439236c43689b17e26888864ffaa5b4b03551ed0589ccd72e983a37",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 73,
+      "id": "B002-S074",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "07f1413bb439236c43689b17e26888864ffaa5b4b03551ed0589ccd72e983a37",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 74,
+      "id": "B002-S075",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "2702bca6e79818fb253c72e6738d2c84b494a731341ae3ad0b03e589af81b5b4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 75,
+      "id": "B002-S076",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "ed68d141e3c34266851104925a0e983a10ce78d25cc3f4eb5c710f5643e45337",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 76,
+      "id": "B002-S077",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "ce8a8314ba0b0cc4e08a43795bd76e4545eca956956200c2d18dc651867efc7b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 77,
+      "id": "B002-S078",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "fa27deea5b702045ab346287a2394164cfaed36828f1c487b3bedfd2e1262509",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 78,
+      "id": "B002-S079",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "ff03a95139c6c7048a62a7e93cefc5eed705586d79905dc51b54314b58cd3905",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 79,
+      "id": "B002-S080",
+      "sheet": "items_05.png",
+      "full_strip_pixels_sha256": "9f4b2de3675104d4852a701b2764c215d9ef1da06c5e70a40c2897891582d4e4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 80,
+      "id": "B002-S081",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "08b3d75e62624b901e2da5197090000f86f97d91b834c152b0cb6757745c65b3",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 81,
+      "id": "B002-S082",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "d59d1333819368d0ebacded76b0d2f6e9aa7ceb1902caff1d39a379a3626d9d6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 82,
+      "id": "B002-S083",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "391a112c8c324f8956259af14bd677d1419049c795b9bd4ad222bda99e9f7acb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 83,
+      "id": "B002-S084",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "9cdc6bbd411b493364518cfe9ac79bc551dd3d560d477a629add52065c9b60b7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 84,
+      "id": "B002-S085",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "791d9ae1e7695ef171c53825616e33ef1ee86224f251b4c6aa6772ce06775fa0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 85,
+      "id": "B002-S086",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "3997f5bab067371d5afc4d564191db0e13acb595b6e812b7cf29a9ad0ac775ee",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 86,
+      "id": "B002-S087",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "eaafce28e77d0aad54c32776bdcf01df99147218a571ad6d682022ddc001f4a1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 87,
+      "id": "B002-S088",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "86f22c3e85357593111d5fc5e2fdfd03e4a345530eabc621ea2071d12d131a71",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 88,
+      "id": "B002-S089",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "769408f50ed4a978c2e7f4f7f26af8b4c52b5c022f9ef130f9f06fbce5b75f5f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 89,
+      "id": "B002-S090",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "18b88424e02a12745e0a86deb9ce31ccf0c0cf066e51572553af307ec324028b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 90,
+      "id": "B002-S091",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "3acfafa806f4c5a0ec2708b455a1b7848f37d2a2d25bfae03aee294fdca4515a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 91,
+      "id": "B002-S092",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "0196fb02069e92d81351a9969e07e653f0735adb3cc55c9acc6283e3981c88cd",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 92,
+      "id": "B002-S093",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "ac8518937b3e1f7b0a7f3a4ef1f16652011266985554aecf51001fdaae1ef7df",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 93,
+      "id": "B002-S094",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "6598ac78b265172db1bcdce48d661f01ab0ffd1d53046e9a4a042b4eec6d2ac4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 94,
+      "id": "B002-S095",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "d99b4c162fb7961af8a0e0f114f638c4de99dfb2f49d308e52a50f7d21cc6ad7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 95,
+      "id": "B002-S096",
+      "sheet": "items_06.png",
+      "full_strip_pixels_sha256": "8c151e3093a3ae2f983df5165b6eebdd2217a42132ae6863dc197464bd3e529d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 96,
+      "id": "B002-S097",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "ef1a1f6659e482d567207c62f579d35e25a5c6ca33696fd143ab22435fd93cca",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 97,
+      "id": "B002-S098",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "404c11481c222afd928961d468f2aabb9f620160c2e32d3779f4a69863d787e5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 98,
+      "id": "B002-S099",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "bb91b64679e37ddccdac65d7182cbf83d6e52761c67583bb45bada883f77d3c5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 99,
+      "id": "B002-S100",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "526b6ebce33abca1b03fd80c042214310d7577faebb6163e356296e5dd800535",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 100,
+      "id": "B002-S101",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "d133fbcd0610cf2d6a31ef4b29d3e517ae4249f10f4b5db3ab8657fa756f6ebf",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 101,
+      "id": "B002-S102",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "44fba08632218fb15daa44b3bfe47dd45520c64bf551fa3c72605c3695470388",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 102,
+      "id": "B002-S103",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "f142bb90309f90092ba7d2b21773fe5ebecd75bc8e5b5ad6a9f128edb10b348e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 103,
+      "id": "B002-S104",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "ef1a2a5043cd0e969a128b11b81a98744baf084afbda1c49107e12bfc67ce585",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 104,
+      "id": "B002-S105",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "3111f79ff0de289f951ebbc6fbb7ad135ba436b586aacffecd45ea0e1104b284",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 105,
+      "id": "B002-S106",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "473b2bca67fd4578f92577235215cf174a2742f9582d4d05db456f2f7e6d4a20",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 106,
+      "id": "B002-S107",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "4d9fc3a11e8ecce492735925078e2de55e23ffc43cc70c4e6cbed796e33d679d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 107,
+      "id": "B002-S108",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "737a17367803cfbc6a32fefd51efe2f4a0139d83a14f2a79227ffc9aadcb27e4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 108,
+      "id": "B002-S109",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "b1c44045f7215262aca1fd6a0d1e275d1b8971349284d8e2eb812a87b971ffe6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 109,
+      "id": "B003-S001",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "a32bd4a8baf371b9cc5c14dcfa7db89eb51446da21263adb2ed65266fdea280a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 110,
+      "id": "B003-S002",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "ebd1bda3229a69354b7a59e25d4f9a07eca55a53cfa49c7e3c66cc386644e582",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 111,
+      "id": "B003-S003",
+      "sheet": "items_07.png",
+      "full_strip_pixels_sha256": "97daf9702f66a23a56c1fc10bc3dedf46ab91df963c178fba2246c71c37aa2ee",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 112,
+      "id": "B003-S004",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "8e63ca5435c7dd36a7da8b7da7518b4710cd2bf1a367a0c5ba0dbc1a850eb4c5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 113,
+      "id": "B003-S005",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "5d716cf60dee4aba379ea600ceca59bb03b22cb9e46cde61001b1542d781bbda",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 114,
+      "id": "B003-S006",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "d547e407f1374f3758fa8a2e76cdc728572052e3b54130f0c537a98066b060df",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 115,
+      "id": "B003-S007",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "2ed54fed1a731b3c006d007e06145b6149f14054705cb1badf950b1f73d9160f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 116,
+      "id": "B003-S008",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "27cfbc95c815bc374cb888a1b7caca692a42d411318515b75cb33d655b7752a7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 117,
+      "id": "B003-S009",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "793b686a4a9660de316da0e130213c6afa2805b475a77f4bf928a37a152185c4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 118,
+      "id": "B003-S010",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "752ae018822bb63663cb09368966267d4a49c0e30a6c74b93a1ac4d57d44c8b3",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 119,
+      "id": "B003-S011",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "f980f1c2166f7dce92d1d544e33f11155bd7475bafde1b80c5c29f37a372b97a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 120,
+      "id": "B003-S012",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "37b2246bcd64f8a63ad13e5fb681e49e99fd597de3f73b5988a83eba88cfa93b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 121,
+      "id": "B003-S013",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "0ab6a11b6e047cad5a431008ba168db31640fd932b5e3bbb563fb4a235de767e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 122,
+      "id": "B003-S014",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "d93d9c58629a29df294e825dc86ccb4927fcf3a6daf8a155a4e96aaa19a7ae4e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 123,
+      "id": "B003-S015",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "aeb31abf56af7509a46d137b1bdc36ec107cc27af9888ce796e11579e2311646",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 124,
+      "id": "B003-S016",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "b6a2ed67c01147d84d8adf7e442f831d1db4ef0efbe5a0990abf75b88e7582a0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 125,
+      "id": "B003-S017",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "2eaaeb42cd586813875b0d05bdee29a4bad1cdcdec0607d91551be0978935eed",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 126,
+      "id": "B003-S018",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "db2f5aac9de17fffe474ce98d27382c3933d3282e00a6fd0bbc56d9585fc85a9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 127,
+      "id": "B003-S019",
+      "sheet": "items_08.png",
+      "full_strip_pixels_sha256": "98de5b90101eb8ea381279beb620d52198a6f92fa4d7ccb774fc137f4daf899a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 128,
+      "id": "B003-S020",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "4df3855b3cba5c5773b7626d3156258c275c932d830aa687628e235c489aa649",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 129,
+      "id": "B003-S021",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "f55f99f7fa23c7b2cb9b7798d87573097f44c33e82938f7f4def0c306c55d1d6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 130,
+      "id": "B003-S022",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "54dbc56ace19be8526571ab871e3044f2863b5b6e63733768427b786b642e77e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 131,
+      "id": "B003-S023",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "6d0a3c56006e9d3723b98c21b938ee94d392c8ae568475528ea5c8ef2de5a3ed",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 132,
+      "id": "B003-S024",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "b9094e40c18a1db38caef9b85100208cd11a943100c2852f5a835424ee1fab12",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 133,
+      "id": "B003-S025",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "8430e18f60abdfad3094b95c9ac15536d6307d1b50a5e50084b63b75fea03125",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 134,
+      "id": "B003-S026",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "51e14a174f2932a210a1ac293b224ec201f3f7b81f8b7bd6ba334d31e33da03a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 135,
+      "id": "B003-S027",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "e22dcd632ccee5ca173057df59931dd9d29bdbce42f955c62a06536ab27d94c9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 136,
+      "id": "B003-S028",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "e725cf9fce7b9f8e318b8465c1412bdaf1cac1492d2b6ac330c565ce3c14d5fa",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 137,
+      "id": "B003-S029",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "8102400228c8757634060ef4529b6636a81274304d0cdcb47f195518e9d58ff9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 138,
+      "id": "B003-S030",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "08e6ff2ed9c239c5ea65a18749114510039bf55df53ce1b5f4e60ffb908d24aa",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 139,
+      "id": "B003-S031",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "2d150e7007c5dd5bfec453bcbe88afcc6cbd4e4a0342b45c1c6488ed9a937aba",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 140,
+      "id": "B003-S032",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "0e40505fb2d01dfe08e0d7f1fb36e76bf758eace5fefe050cd2d21b8ba7bab77",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 141,
+      "id": "B003-S033",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "452cfe0ad0731ed726469f9d5579cc80fcabd95e79109675ca6211cb52b1282e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 142,
+      "id": "B003-S034",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "5c9614326dceda6cbe4474d9d38412356b5d7e8e0f4e666c4ea8cdb0ba54eb6e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 143,
+      "id": "B003-S035",
+      "sheet": "items_09.png",
+      "full_strip_pixels_sha256": "399345742a1a128a9a6d1d2801c3881d13d09ed2b3284549ef98d3885b5c0075",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 144,
+      "id": "B003-S036",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "9518c20405184320f7c20cd29840823b018f23338420490025e7da4c4b6294a7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 145,
+      "id": "B003-S037",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "fb60d7bc06ed41a8ae2ddcfeb51aeee3a5922513ffdff105506ed898cd76ac3a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 146,
+      "id": "B003-S038",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "2a256c4f88595561cdaa3ab32f837cbe6f361c33a6004bb3b7f7c2eff7f13c0a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 147,
+      "id": "B003-S039",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "dd0f4dbd529de913c41b002f471077c8ece1c816f150ebfa6e5f5bb4fac00480",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 148,
+      "id": "B003-S040",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "47709285c81f1570ac45cb007cb26cadff7bf24d0a6a1d627531eae578fa8bfa",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 149,
+      "id": "B003-S041",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "c7a116500529fa50a09f27e14e3405ece0bed0c07ffc8a03304b140acb1de193",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 150,
+      "id": "B003-S042",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "bbd343199e6eab7d61d98daf442026471697345383764b06e4d106324aff8389",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 151,
+      "id": "B003-S043",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "c795e1bd5d86f20db5809337dffb9e2857ce3ef1256c48006e1d621d6fa072cf",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 152,
+      "id": "B003-S044",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "fdc0b61126e5abb1c650ab8a8b7e8dc960551066a19dd8c908dc103236c8ef5f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 153,
+      "id": "B003-S045",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "63ab05c494407ae46ac0702e5ee8a5bda9173a0a8df446d77dfa11792f110520",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 154,
+      "id": "B003-S046",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "5eebc367e9e0db90763d6633a14fafa458351b4a54bf92470e01452dade15cdf",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 155,
+      "id": "B003-S047",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "45229e3e4c7aa21097d516395bfd21b2c5a6c6b0279212b4afe416a65ffa2e36",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 156,
+      "id": "B003-S048",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "ba3c930036179173edee5a85eec139f716d96d71c39fcbeb6f2ce88cb887e068",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 157,
+      "id": "B003-S049",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "ac973bb3d41ac4d2aa96c098945dc9c410f86c06f2e8bd95c04cc700caa8bb8a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 158,
+      "id": "B003-S050",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "169c54ff3774456cb737e95f37ef4d85780625057c7d604e4519620ce70b1bd6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 159,
+      "id": "B003-S051",
+      "sheet": "items_10.png",
+      "full_strip_pixels_sha256": "55b5af0d438cc3428f16401a718ada6bef4812cde2c20b9fb8c34250f452ab4e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 160,
+      "id": "B003-S052",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "fd7e8b099bea4acbb6ffc18bd5e6ff884c1f33ccd9be64a006d9b3d3998e8e1c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 161,
+      "id": "B003-S053",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "0ac9073ee073f4e642e65ab71d11286e1805557ba5dd940f546f1a63d4123516",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 162,
+      "id": "B003-S054",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "f56b9b1f62c863be41c8bd56e6874804672738980263aae9456dd49e6956e7d3",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 163,
+      "id": "B003-S055",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "85fa279fef2fbea78181d89feb709d3b67898ee2c754a939bb1253257ec6cc20",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 164,
+      "id": "B003-S056",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "1c79f69cd9fed20e20c74faf298924590536b45b30ae8d81eac6f392026baec1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 165,
+      "id": "B003-S057",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "3abab4612fb51d97733c15cf4f4d451df5e22bc481c4f4bba97fd139cc91dd69",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 166,
+      "id": "B003-S058",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "3123732e0c5a5d81256eac64c1939435af4fd6339c340105eb14e49aa5badc5d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 167,
+      "id": "B003-S059",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "fbc0567eb1e4fedf0ff43948497984026a94d8e43fcf400c43351dedd1095ca0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 168,
+      "id": "B003-S060",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "89b60f21da80dadb810a7af829670761d6a1858e9345d46abae55cb1c2131da9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 169,
+      "id": "B003-S061",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "b87e0f3d285f44528688152a152d94459990888de4fa320bca94cde16c29ad56",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 170,
+      "id": "B003-S062",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "28e2562c3646a0384ec10c97f7cb1ffd22fbabf1d3665037fde7c57d2b22bb8f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 171,
+      "id": "B003-S063",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "b40b4fed10ee6278efa1477e7c1c93b40156e5bd387889bd4d15eb60d5746357",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 172,
+      "id": "B003-S064",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "c52448e7d5a93600aa20d369bc55f22e7b463ae4baf9e9fd4789503fc00f1fe2",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 173,
+      "id": "B003-S065",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "f9a672ca13f6f15673540d6e8902546faddc6226b8155c03f32b732c5775ead8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 174,
+      "id": "B003-S066",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "7100db1eb8d9ab48df37ebebbaded66c6463d8c54ada4eb175b56ca0da7c2cf0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 175,
+      "id": "B003-S067",
+      "sheet": "items_11.png",
+      "full_strip_pixels_sha256": "e78520b527ba6433bb15f9b4991b1cb957e3636752557d8e36bfbd43f1381dc7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 176,
+      "id": "B003-S068",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "b46a18e5e580161e268903f4a0688cbec63c0075f926395a6f0acb9213a5a0c7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 177,
+      "id": "B003-S069",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "a0532ba9a9fefa168568d96eb5bdd4fd66f21e7b3c2a87a071fe2d80e224a664",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 178,
+      "id": "B003-S070",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "1d49efba8ab481ac3304fd7d06c7a3d30af4b934a913bb11c9b24620b90b167e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 179,
+      "id": "B003-S071",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "7832971ab8c513065c569508594c724bb121321c255d9f59f8c516f56c66ea76",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 180,
+      "id": "B003-S072",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "63b35421bf1ec2fd4575b877997245a1b4f097aa59487407ddf3f3fbc86c1ded",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 181,
+      "id": "B003-S073",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "56011bbaf51baa83aab68a44c88b747d5b480470547b039e8d3d85d7459af234",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 182,
+      "id": "B003-S074",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "d920308bc35074403428539b95337343e6fb48225f8ab12932ba51a874cd2333",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 183,
+      "id": "B003-S075",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "f0a190a874906d8ce9d172985276581d23c656ed17b9d047ee6a6ca8752d4bef",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 184,
+      "id": "B003-S076",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "4bb101eb2633f08d2ee87357dd507843a9b61f208d811892edaab4503bca72cb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 185,
+      "id": "B003-S077",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "665a5fb03a7d345ce9e4805614ee41fed6bc583e4b19ae1efa110ba7f8c05d0c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 186,
+      "id": "B003-S078",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "50ade5abc9bdc94fc39725d29a291029f3b6cb1e30e97a50fa49a5069fd138af",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 187,
+      "id": "B003-S079",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "cbe9fe557e5e7fd22204a77422a4058a178f2f54a42ed2d13bb2a393c39cdd5d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 188,
+      "id": "B003-S080",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "a25041d0db47a640069081a5a4cbb9f9949f8b7c7d4bd490c02cf4fd5fc08c73",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 189,
+      "id": "B003-S081",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "f0b875e22fcce7c032912fd64972e3cb44a1ae0879b3d463fc76c9a302a4c70f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 190,
+      "id": "B003-S082",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "cff061d8181320c2332a87fd97948c26475ad2af65e94a1e818a016e7af2a391",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 191,
+      "id": "B003-S083",
+      "sheet": "items_12.png",
+      "full_strip_pixels_sha256": "f9ca4e9b4df62af2a4d5f1c3d669a433e28b23d12e48aa645a8c4724e8efa8c7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 192,
+      "id": "B003-S084",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "9567ada6b684c3fb1c679cfc2ed2d2f0083750b838e4c23a220b9f2007051311",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 193,
+      "id": "B003-S085",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "41497b592d4d807bdfe75441fddbf76457ee5cc82c96a398638898244cf2b675",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 194,
+      "id": "B003-S086",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "a020b0673b62f7841b7ed51eec817dcf8e4e34e1ae00df7764c24f792661cd85",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 195,
+      "id": "B003-S087",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "315a88f6233d0c61a98514dafdcaa02495da00b9b5b9c0a930ce1537ec7f500d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 196,
+      "id": "B003-S088",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "fc65a1a95d092165fe51705e595131df1b76a35332e5391d32e239dbe539bb21",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 197,
+      "id": "B003-S089",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "1c4cac69f28d09f9d6034224dde568ec73f3fd0a287633cc31ca0c72de41d692",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 198,
+      "id": "B003-S090",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "20e15cdbd6e37ca20d22d8d43323eb88e747cfdfa80e53d35124a74b51d22e18",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 199,
+      "id": "B003-S091",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "6d1eb8c998ae1f6f31854f16359607c6e6cef0e9de56a959216ac3943779edbb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 200,
+      "id": "B003-S092",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "4eac4b3555dd70a7ded18f9cb843a9f606e0db946dadebe673d28af0b94f5388",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 201,
+      "id": "B003-S093",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "26ed78468b9fff713cdb07437cc84b7082a1dca8364f80609bed4509bdb077aa",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 202,
+      "id": "B003-S094",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "ee1277097f0fdb9e20e050cdb098f612a4af0a0a6da9cb0699655c833cc32b50",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 203,
+      "id": "B003-S095",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "e3e624ff8bbc64981b086c83efa7419ce6641c9715dc2e3a73b409a39ce1d934",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 204,
+      "id": "B003-S096",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "9c9918dc0b2f7939a2ea92fe51287f25ab32c29652cd8041ca9bf17a193a5c86",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 205,
+      "id": "B003-S097",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "0b941d9c1b22b09cd29504c536de7f13ad6cf5e58d2204d65d95e863704ff1a1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 206,
+      "id": "B003-S098",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "80d2d226f3c07d8b7da576c038fa77b7fd635f1cc800e48095cec5c3ae02b6cb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 207,
+      "id": "B003-S099",
+      "sheet": "items_13.png",
+      "full_strip_pixels_sha256": "f1d253f5aab68bf9b6285a2ccecdaf9e1d7e2c74b74c50a253f1e354f59ea543",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 208,
+      "id": "B003-S100",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "beed5505e3dd9bec8c4170e9a356f8cc08ff7ee381b10049656dcf53e9371c88",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 209,
+      "id": "B003-S101",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "ac404d4fcab80193551c4b1264439fc091cc842534cd52049a315971b179f5b4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 210,
+      "id": "B003-S102",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "6e70d8eedca644e182c0e726fc191bb90fd8bc0def555a2197170004271b4e9c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 211,
+      "id": "B003-S103",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "88b376030976eede1b7cc96432028b9f0e01be48bebb03704f60f6e5affcc546",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 212,
+      "id": "B003-S104",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "450cef18c55f07b0d9e30667ffbc163bc8f905318b30bb0965191a42a1d608d6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 213,
+      "id": "B003-S105",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "15f9232b38402cf3a992d51ff4fd3325e6eb1e54dd67a22cee6ef9ae75ada437",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 214,
+      "id": "B003-S106",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "689872a450eee43d21182a91a0915149d280810348e770eca3bdf1e1b8b82575",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 215,
+      "id": "B003-S107",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "6c881c1a83ee55fdb61de116250a53ce08cb934b0c765b55a543b3b914378720",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 216,
+      "id": "B003-S108",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "fad9ee1368739eac8fd599c10b1721bbbd5bdeb7a9cf4e8c187cc1d960fc4aea",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 217,
+      "id": "B003-S109",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "596cb7b53e6d2cd9e8d8ee14def6fb36fa0df5effe778eadd438652192c6d290",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 218,
+      "id": "B003-S110",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "d5935471bcd67c1bd8b8a414c9e74b8256b75e35820503a0d2155ee6f90010e4",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 219,
+      "id": "B003-S111",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "b4ede71b5874fcb4a309c371c2336328f84a79877ae4f7f430e1d2f7dbf16c25",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 220,
+      "id": "B003-S112",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "0ebe5eee7ac17529d669633e8f37127a151d4fc8f21edccda87acc2ddf960a66",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 221,
+      "id": "B003-S113",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "278e9a8a46010e610d54c488b97412687f4155ec6dc6d207cac6df269bccfb5d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 222,
+      "id": "B003-S114",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "58d1bf626b0c93cbe8b4600d8f6ed7a6febf77320fbf6f362ef8c1be7cbe7099",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 223,
+      "id": "B003-S115",
+      "sheet": "items_14.png",
+      "full_strip_pixels_sha256": "b84c38559d6b8660ef764042c1f1519607b9b007ce83de23357c5bee938fa71d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 224,
+      "id": "B003-S116",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "8163cae39d9f0c02c5252ddbd49b15c35dcf63ee0d26acc4aa3a48d4876de6e7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 225,
+      "id": "B003-S117",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "a99c4340159baf44cacd4dbb43b8be52762df57b914f1d30158f42cc51d1c66f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 226,
+      "id": "B003-S118",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "8066ffb14abf0ac53001034554bb72347cf14c4b84330e576cfc9b7e65ce4b00",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 227,
+      "id": "B003-S119",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "b27e9c7e152de286b6221bbcc74d99b7dc29e7452f0e6682d342d383e092c12e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 228,
+      "id": "B003-S120",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "f385ddda6fd07cf0d1859e9f926d0fd47c79fcbba1c30dd44abf6ea0d08b9220",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 229,
+      "id": "B003-S121",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "4a78c466c9b54aab12121ab6d431b7db5c2cc41663b42adf3011c35814a04d1e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 230,
+      "id": "B003-S122",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "d0a584efb28249553d05ac3b6dce8f7ad6d0daaee424f93e1ad5a83857c56177",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 231,
+      "id": "B003-S123",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "13a436cc7d30e0f05595832b3f9f6f19abf796695e1dc5ed7b126e2729bc1e46",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 232,
+      "id": "B003-S124",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "03d3fd5b791562a92ef22477e7a8d0a1468a1e70be55b0dd3d270394c5c59e96",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 233,
+      "id": "B003-S125",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "8f1fc0080a40f646ffda5284e79e78dfddfd8ff359e38fb18b8e86b03a228b6f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 234,
+      "id": "B003-S126",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "ee956e99484a0a655008e5c452ad5bb6b8156ad69e4839326d0b5b5624a1ff75",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 235,
+      "id": "B003-S127",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "b631a38944ce5146a1ded1f25cb13ab7aca170d5fee84ec3d73ff1b48e750b45",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 236,
+      "id": "B003-S128",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "18fd0e5aa696883568df49187bc6c2b34459a8e73bb42caf24526d22443d157b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 237,
+      "id": "B003-S129",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "bcaeecc1cf1eeae9b325432dacecf6f059b97c7e49f97ed35e7185f9ae5fc8e6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 238,
+      "id": "B003-S130",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "e630cd3adad8b84633fffdc01e8f067ee749fa4601b75b155786e1bbf7d9bafe",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 239,
+      "id": "B003-S131",
+      "sheet": "items_15.png",
+      "full_strip_pixels_sha256": "a10a992c197a8c033ac5fcdcdbcc8354c5374346b67fd460551e776b46e79c03",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 240,
+      "id": "B003-S132",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "a789aa483da6194b91f19b4375cc0af6deabc80aa1f58e8c610c83750b9256f6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 241,
+      "id": "B003-S133",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "c3c590e3ca47e84a130358cd7ceccf4152fe998147a1fffc6dff5567d2481563",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 242,
+      "id": "B003-S134",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "cb804aab21dd8266db679afae3946dd28ae1eabdcf773302adc1c30d8381d343",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 243,
+      "id": "B003-S135",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "485ff5caaf58e6e6607a87ef8160d8c42dd5164b9f56ef0175ad647518112e1c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 244,
+      "id": "B003-S136",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "0f1e68c7c7c57dcf76b8d8d6fcd1c81218b1ece5dfbb9c0e1c40faaeb6745ed8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 245,
+      "id": "B003-S137",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "6dbec39e7819b56b82b997620f11881dfcfebd528a57b4253a7c85b264ca48f1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 246,
+      "id": "B003-S138",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "2bc4efb164cdf9d050f7d0dc219a78b6429b98dff675b3ebe6a9c1dad127c8a9",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 247,
+      "id": "B003-S139",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "da9e04ae81b817f1d4b570608e4c36560f5698f77eaa31c2cfa6415faf632989",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 248,
+      "id": "B003-S140",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "d280c9846ff12a4c1a5ddaea4a2496c4141477cbc44e5182533296e0e7b284c8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 249,
+      "id": "B003-S141",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "06236d8c2cc6de2d953c8f48e871452d8747c8708ea5b325cd511fc12ef7a4ca",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 250,
+      "id": "B003-S142",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "e570a688a01dee368d35c019e7ddc0c10db066e2354b497b2832ad7473b7c45e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 251,
+      "id": "B003-S143",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "c57ef1eb57fe58d80f7fa879cce9683712da705400a6a94e50349b01f6930d91",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 252,
+      "id": "B003-S144",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "29106c09f84aedcc5ea0757af33969a159e96a836754354b9e545d18c5eb94e2",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 253,
+      "id": "B003-S145",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "9c478d53d5bf7a52aaed940f63892ed11409ece5324503a34423957cb7a4e339",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 254,
+      "id": "B003-S146",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "713d5bb48bc8f38e76e534872e324244af29f904b1b71972b2532ce4c82649a5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 255,
+      "id": "B003-S147",
+      "sheet": "items_16.png",
+      "full_strip_pixels_sha256": "9e8146ee5c8b0284c932bafa9050eb0f5c8650d9fb1da46faec8c95f1dab058d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 256,
+      "id": "B003-S148",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "387835fc5afef1f323b166af6ba23656eafd13c9bad396de854c620897cfc303",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 257,
+      "id": "B003-S149",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "711de2491ee69daa12c5e01c60bb96f67d398419ed7d54181d552cf29a0a0025",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 258,
+      "id": "B003-S150",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "1392f8edf08f9d521d19cedf583434dd3cc7462491f7091bb34aa95bf20f79ca",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 259,
+      "id": "B003-S151",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "35132c4131afb1d1b6a661e1c4bae7591f9695260bcdb4ff0a1b53b4191bb3b8",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 260,
+      "id": "B003-S152",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "5474138452b14faf9033c305d4e5c310b1478559b10d31803529f629ddaaae09",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 261,
+      "id": "B003-S153",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "f4d1faa16f2067fbcd6306e18e56f1f1bce91fcb451136a24619cc635f01ca77",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 262,
+      "id": "B003-S154",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "13bd81c1b5fa594d6c6823997bfbfb34e36f4f7ea05d1e8b8a416f1a17d5ab2e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 263,
+      "id": "B003-S155",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "073cf3a60fa78ba74b91f504278464e9ef27681e42d15ecb6984a21dd863dac6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 264,
+      "id": "B003-S156",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "4fd2363671a5525233f7f0af4e15fdc239164b2cf44e72a4a45b6f4e5f17e8bc",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 265,
+      "id": "B003-S157",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "9be798075574becc769178c32f10ad18b2f7718476a10d80d3554b5f2b9ff2eb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 266,
+      "id": "B003-S158",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "b791d5aeaa7249cbd45de1cec15da90cbea1f986ab48cd71641dd8f4aad07fdb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 267,
+      "id": "B003-S159",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "ccb79c64c92109cf7bb60135eb667097fac3af9c34d1bc330b29ec5cea36925e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": true
+    },
+    {
+      "index": 268,
+      "id": "B003-S160",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "e66360aee8a928dca9bed7a3df263b9b705208cb8484009d7beca63382667c62",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 269,
+      "id": "B003-S161",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "7295f793bd67a3ea35f32d42f3e1875903b80cbccbd94051dfcad96cfb0ad599",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 270,
+      "id": "B003-S162",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "1d8b9e9551734a158ef7610a8b2885eee1e4ac8420b29d22528ffe1ddb2faf09",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 271,
+      "id": "B003-S163",
+      "sheet": "items_17.png",
+      "full_strip_pixels_sha256": "cdf7fa585a7daf69457332854e4efd36053ba470da65a171bcf78f0d7b476fa1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 272,
+      "id": "B003-S164",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "009e389048db810b57207364ed404b16ec9da001a54379693553727d4ebbfaf0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 273,
+      "id": "B003-S165",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "b57b1ce19e8b9eb1d391601ca4fd0a7661f2b982cd8384ae5f7c5582f6c28c15",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 274,
+      "id": "B003-S166",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "87bb6087ed95c33103fbf20a1ae5c3af3bbd87e97633a32fe27853b258981f0e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 275,
+      "id": "B003-S167",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "94e1fa63e41760577255dbec3e1dd74300752b6f0a64c0cbaf6e4360f9144e5e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 276,
+      "id": "B003-S168",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "c94cc529cbcc05e5dca6528c51078009a6291cdf11ff67666bbad87a1cc0d335",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 277,
+      "id": "B003-S169",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "d289a36d9a7fdf79de9b21c8b0d41dfd48c38c2173403d0efbee5248b60cfde1",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 278,
+      "id": "B003-S170",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "a50fe12e084c52b67c1a0a040f782ae1cc4e78648e7d06eff77e9e8be748a34d",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 279,
+      "id": "B003-S171",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "4ddc5d97a260318fd0fdc8aac894c00b088668432bf4f89b0cf753e66283cf8c",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 280,
+      "id": "B003-S172",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "a5c1353d5b1ddcd704f01f2f35bdbb3deedd5ca6316bd3a161fee4a1d38830d3",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 281,
+      "id": "B003-S173",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "71eea48afdcd1a9b86b9ed9713148f31d0a00f9415fe166447e8d6f536c61bda",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 282,
+      "id": "B003-S174",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "15797df312a5c97da1acec319a9ce80d143bc427f005a591234323398a7d23ac",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 283,
+      "id": "B003-S175",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "ed06fc0415128371d27d436f9e8bb3302cabc335bb082563489d12aef23a996a",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 284,
+      "id": "B003-S176",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "3d65558a255a529bac528041cc9a72613c330490705efe01995d3f7500561937",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 285,
+      "id": "B003-S177",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "6530f10b9c612a787a2f02512007fcb3d9e1e548096042bde5f59efa10405f46",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 286,
+      "id": "B003-S178",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "c3824c3b205832721b7c20eb530f3592ffbf7a17a5520e64122e6b7e2276544e",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 287,
+      "id": "B003-S179",
+      "sheet": "items_18.png",
+      "full_strip_pixels_sha256": "c81dff8b2c0e7b587f556713b0a615a145f68590246d4f1f2ff0a3cf3e69371b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 288,
+      "id": "B003-S180",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "dec2a741f99552fee75e601bb61f28a737df927f6f5ff812a57a6ad62d583b5b",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 289,
+      "id": "B003-S181",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "89159a502355dd21923ccc065bbfbb0d484a59e92c742e04a27f4f314f3c7350",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 290,
+      "id": "B003-S182",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "7ff2418980fcf72a119eb4f08f2a188e7efe1518e29f3952b0eea3750465410f",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 291,
+      "id": "B003-S183",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "0dcc626d193f025f1d032ea0e372aebcd5ac69644512c2dcf80da90a0367b2f5",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 292,
+      "id": "B003-S184",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "a93ddc4bf4ede8c36013c57c91109a04b5180f126866056a17f50b067b272ce6",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 293,
+      "id": "B003-S185",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "74614d1c4e172a2b31dbb09597729fe9f1e73df24b02c24753e4c24b34c05356",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 294,
+      "id": "B003-S186",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "fbeefde7c86ed359b43b3234c9817b8bedb9ec489c515e48286bbfb852c19705",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 295,
+      "id": "B003-S187",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "0bb75fa30263375479ff5950b3b5c6c6e189fb261057b305cd9cbb456eea2509",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 296,
+      "id": "B003-S188",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "fd351633bde520ac76c9c21d844aaf5407e01ccbc165d0c4f53e410e61044230",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 297,
+      "id": "B003-S189",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "8f6189fee2c6437621915f73da1bf6637a4853ddf48e2e09cd1079b45a4f9b24",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 298,
+      "id": "B003-S190",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "830710022cb6b8b389bf000931d33876ce249d21ba5268d7369c4d0fef8d9580",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 299,
+      "id": "B003-S191",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "cb18c442878c06bad83cf2f90f26e771ab0fe31c5b5153ff000e14c6641c32c7",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 300,
+      "id": "B003-S192",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "3b09251b7b32624e08198a7d215beab4461c49b08529bd1e1f00482f110a48e0",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 301,
+      "id": "B003-S193",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "60fac89a1ee96fd1e423034e254d4671dae798de177d6c9b1830dd019d459f58",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    },
+    {
+      "index": 302,
+      "id": "B003-S194",
+      "sheet": "items_19.png",
+      "full_strip_pixels_sha256": "dae6159cc55ed2bd9a651444e3bfb6880f4b069b4042e3844441813bbdecc1cb",
+      "vram_bytes_exact": true,
+      "pixels_exact": true,
+      "icon_preserved": false
+    }
+  ],
+  "cases_count": 303,
+  "sheets": 19,
+  "palette": {
+    "2": [
+      255,
+      255,
+      255
+    ],
+    "1": [
+      0,
+      0,
+      0
+    ],
+    "0": [
+      0,
+      0,
+      57
+    ],
+    "3": [
+      164,
+      165,
+      164
+    ]
+  },
+  "outside_strip_sha256": "a42f657851cb1fec7dc2dce51301ee60bb1f21d509994edca589ad9d643eb83a",
+  "all_outside_strip_pixels_identical": true,
+  "native_vram_bytes_exact": true,
+  "full64x8_pixels_exact": true,
+  "visual_review": "303 fresh exact-ROM renders;300 full-strip images pixel-identical to the303 previously read on19 sheets;3 changed forms and complete sheets2/8/14 plus full context actually read on14e. All46 icons preserved.",
+  "scope": "303 independent first-item-DMA fixtures from a fresh same-ROM field state.\nDoes not claim natural ownership;the actual equipment and full-name fields\nremain the ordinary held Katana. Private states/dumps/core are not published.\n",
+  "comparison_to_reviewed14d": {
+    "prior_rom_sha256": "bc314798d7e9e1aeed2adb89c5bf08ee12e1da945b49be521ea8a33bd8e5c12d",
+    "identical_captures": 300,
+    "changed_indices": [
+      22,
+      116,
+      211
+    ],
+    "prior19_sheets_actually_read": true
+  }
+}

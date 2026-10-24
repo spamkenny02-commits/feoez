@@ -1,0 +1,26 @@
+{
+  "rom_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
+  "observer_core_sha256": "eae9d0e31c26c50b0f82c4d69530359f86413d404134201a9c048392ab081473",
+  "read_only_trace_enabled": true,
+  "shop_entry_fixture": true,
+  "trace_lines": [
+    "FEOE50_SHOP_DATA pc=c0af35 A=0180 cursor=c5def0 stockptr=80e137 name=00 pending=00",
+    "FEOE50_SHOP_DATA pc=c0afa7 A=0500 cursor=c5def0 stockptr=de6c62 name=00 pending=00",
+    "FEOE50_SHOP_DATA pc=c0afa9 A=0513 cursor=c5def0 stockptr=de6c62 name=00 pending=00",
+    "FEOE50_SHOP_DATA pc=4ff8c0 A=0214 cursor=c5def0 stockptr=de6c62 name=13 pending=14",
+    "FEOE50_SHOP_DATA pc=4ff8c0 A=0214 cursor=c5def0 stockptr=de6c62 name=13 pending=14",
+    "FEOE50_SHOP_DATA pc=c0af35 A=0180 cursor=c5def0 stockptr=de6c62 name=13 pending=00",
+    "FEOE50_SHOP_DATA pc=c0afa7 A=0500 cursor=c5def0 stockptr=de6c62 name=13 pending=00",
+    "FEOE50_SHOP_DATA pc=c0afa9 A=0513 cursor=c5def0 stockptr=de6c62 name=13 pending=00",
+    "FEOE50_SHOP_DATA pc=4ff8c0 A=0214 cursor=c5def0 stockptr=de6c62 name=13 pending=14"
+  ],
+  "stock": 103,
+  "stock_operand_cpu": "C5DEF0",
+  "descriptor_cpu": "DE6C62",
+  "descriptor_rom": "2E6C62",
+  "name_index": 19,
+  "name_source_rom": "6D1300",
+  "name_dma_bytes": 160,
+  "visible_name_tiles": 10,
+  "scope": "Proves fixture shop loader argument and native name dataflow;not natural visit,all-shop use or transaction proof"
+}

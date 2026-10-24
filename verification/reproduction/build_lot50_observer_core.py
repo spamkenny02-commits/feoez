@@ -7,6 +7,13 @@ from pathlib import Path
 p=argparse.ArgumentParser();p.add_argument('--source',type=Path,required=True);p.add_argument('--out',type=Path,required=True);a=p.parse_args();f=a.source/'cpuexec.cpp';original=f.read_bytes();df=a.source/'dma.cpp';dma_original=df.read_bytes();lib=a.source/'libretro/snes9x_libretro.so';normal=lib.read_bytes();objects={p:p.read_bytes()for p in a.source.rglob('*.o')}
 assert hashlib.sha256(original).hexdigest()=='37b2f4ece0ff797b616fbeee6084c42a6198d477a08eb1837b5445abacd2c56b'
 code=r'''
+            if(getenv("FEOE_LOT50_GRAPHICS_TRACE") && Registers.PB==0xc0 && (Registers.PCw==0x1605 || Registers.PCw==0x166b || Registers.PCw==0x2d00 || Registers.PCw==0x617a)) {
+                unsigned d=Registers.D.W;
+                fprintf(stderr,"FEOE50_GRAPHICS pc=%02x%04x A=%04x X=%04x Y=%04x D=%04x field=%02x%02x table=%02x%02x%02x desc=%02x%02x%02x skip=%02x%02x dest=%02x%02x len=%02x%02x name=%02x%02x\n",Registers.PB,Registers.PCw,Registers.A.W,Registers.X.W,Registers.Y.W,d,Memory.RAM[0xfee],Memory.RAM[0xfed],Memory.RAM[d+8],Memory.RAM[d+7],Memory.RAM[d+6],Memory.RAM[d+0x2c],Memory.RAM[d+0x2b],Memory.RAM[d+0x2a],Memory.RAM[0x2ec2],Memory.RAM[0x2ec1],Memory.RAM[d+0x10],Memory.RAM[d+0xf],Memory.RAM[d+0xd],Memory.RAM[d+0xc],Memory.RAM[0x518],Memory.RAM[0x519]);
+            }
+            if(getenv("FEOE_LOT50_GRAPHICS_TRACE") && ((Registers.PB==0xc0 && (Registers.PCw==0xaf35 || Registers.PCw==0xafa7 || Registers.PCw==0xafa9)) || (Registers.PB==0x4f && Registers.PCw==0xf8c0))) {
+                fprintf(stderr,"FEOE50_SHOP_DATA pc=%02x%04x A=%04x cursor=%02x%02x%02x stockptr=%02x%02x%02x name=%02x pending=%02x\n",Registers.PB,Registers.PCw,Registers.A.W,Memory.RAM[0xaa],Memory.RAM[0xa9],Memory.RAM[0xa8],Memory.RAM[0xde],Memory.RAM[0xdd],Memory.RAM[0xdc],Memory.RAM[0x1dcf],Memory.RAM[0x1f7c]);
+            }
             static bool feoeShopDone=false,feoeShopText=false;
             if(getenv("FEOE_LOT50_SHOP_ENTRY") && !feoeShopDone && Registers.PB==0xc3 && Registers.PCw==0x29b6 && Registers.AL==48 && Memory.RAM[0xa8]==0x39 && Memory.RAM[0xa9]==0x63 && Memory.RAM[0xaa]==0xc7) {
                 int matches=0;
