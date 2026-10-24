@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Recover known lot50 sources after workspace loss;not a release.
 
-The303 former item display variants are pending recovery and are not silently
-counted, replaced or claimed validated. Published V55 is the pinned baseline.
+The303 item display variants are reconstructed in the canonical JSON and
+never counted as new. Published V55 is the pinned baseline. Runtime proof is separate.
 """
 import argparse,hashlib,json
 from pathlib import Path
@@ -10,6 +10,7 @@ from cpu65816_probe import CPU
 from french_font import encode_fr
 from insert import apply_ips,make_ips
 from menu_graphics_lot49 import raster
+from item_graphics_lot50 import patch_items
 from build_lot46_checkpoint import checksum
 ROOT=Path(__file__).resolve().parents[1]
 def sha(b):return hashlib.sha256(b).hexdigest()
@@ -21,6 +22,7 @@ def main():
  c=CPU(baseline);c.load_block(43);prior=[]
  for i in range(1,8):c.select(i);prior.append(c.string())
  assert prior[-1]==encode_fr('All');payload=b'\x02\x00'+b''.join(s+b'\0'for s in prior[:6])+encode_fr('Tous')+b'\0';assert len(payload)==88;assert baseline[0x6c9590:0x6c9600]==bytes(112);put(0x6c9590,payload);put(0xc987e,(0x4c9590).to_bytes(3,'little'))
+ item_rom,item_report=patch_items(baseline);put(0x6f6000,item_rom[0x6f6000:0x6ff780])
  for file in ['block42_graphics_lot50_fr.json','native_prior_variants_lot50_fr.json','shop_graphics_lot50_fr.json']:
   for e in json.loads((ROOT/'traduction'/file).read_text()):
    for part in e.get('strips',[e]):
@@ -37,6 +39,6 @@ def main():
   st=int(b['destination'],16);n=b['new_size'];assert out[st:st+n]==baseline[st:st+n],b['block_ids'];preserved+=b['translated']
  assert preserved==6769,preserved
  patch=make_ips(source,out);assert apply_ips(source,patch)==out;a.rom_out.write_bytes(out);a.ips_out.write_bytes(patch)
- report=dict(status='Recovery research candidate;not a completed lot or validated release',source_sha256=sha(source),baseline_sha256=sha(baseline),output_sha256=sha(out),ips_sha256=sha(patch),prior_stored_bounded_occurrences_byte_preserved=preserved,prior_block43_native_reads=6,new_bounded_native_reads=9,prior_element_variant_native_reads=4,block42_glyph_lists_native_preserved=7,graphics_bounds=checks,authorized_spans=spans,ips_roundtrip=True,new_distinct_sources_prepared=14,former303_item_variants='Pending recovery;not included in this candidate',runtime_validation='pending',visual_review='pending')
+ report=dict(status='Recovery research candidate;not a completed lot or validated release',source_sha256=sha(source),baseline_sha256=sha(baseline),output_sha256=sha(out),ips_sha256=sha(patch),prior_stored_bounded_occurrences_byte_preserved=preserved,prior_block43_native_reads=6,new_bounded_native_reads=9,prior_element_variant_native_reads=4,block42_glyph_lists_native_preserved=7,graphics_bounds=checks,authorized_spans=spans,ips_roundtrip=True,new_distinct_sources_prepared=14,item_graphics=item_report,former303_item_variants='Reconstructed short forms included;not byte-identical to lostP8b;fresh native and PPU required',runtime_validation='pending',visual_review='pending')
  a.report.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print('Recovery candidate built;fresh runtime pending',sha(out))
 if __name__=='__main__':main()

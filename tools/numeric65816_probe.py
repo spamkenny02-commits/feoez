@@ -76,10 +76,10 @@ class NumericCPU:
             elif op==0x7a:self.Y=self.pop(xw);self.nz(self.Y,xw)
             elif op==0x68:self.set_a(self.pop(mw))
             elif op==0x29:self.set_a(self.A&self.fetch(mw))
-            elif op in (0xc9,0xc5,0xe0,0xc0):
-                n=xw if op in (0xe0,0xc0) else mw
-                v=self.read(self.fetch(),n) if op==0xc5 else self.fetch(n)
-                reg=self.X if op==0xe0 else self.Y if op==0xc0 else self.A
+            elif op in (0xc9,0xc5,0xcd,0xe0,0xec,0xc0):
+                n=xw if op in (0xe0,0xec,0xc0) else mw
+                v=self.read(self.fetch(),n) if op==0xc5 else self.read(self.fetch(2),n) if op in (0xcd,0xec) else self.fetch(n)
+                reg=self.X if op in (0xe0,0xec) else self.Y if op==0xc0 else self.A
                 r=(reg&((1<<(8*n))-1))-v;self.P=(self.P&~1)|(1 if r>=0 else 0);self.nz(r&((1<<(8*n))-1),n)
             elif op in (0xd0,0xf0,0x90,0xb0,0x80,0x30,0x10):
                 d=self.fetch();d=d if d<128 else d-256
@@ -97,6 +97,7 @@ class NumericCPU:
                 r=self.Y-self.read(self.fetch(2),xw);self.P=(self.P&~1)|(1 if r>=0 else 0);self.nz(r&((1<<(8*xw))-1),xw)
             elif op==0x0d:self.set_a(self.A|self.read(self.fetch(2),mw))
             elif op==0x8e:self.write(self.fetch(2),self.X,xw)
+            elif op==0x86:self.write(self.fetch(),self.X,xw)
             elif op==0x9e:self.write(self.fetch(2)+self.X,0,mw)
             elif op==0xeb:
                 self.A=((self.A&255)<<8)|(self.A>>8);self.nz(self.A&255,1)
@@ -115,6 +116,8 @@ class NumericCPU:
             elif op==0x9f:self.write(self.fetch(3)+self.X,self.A,mw)
             elif op==0x20:
                 target=self.fetch(2);self.push((self.PC-1)&65535,2);self.PC=(self.PC&0xff0000)|target;self.depth+=1
+            elif op==0xfc:
+                pointer=(self.fetch(2)+self.X)&65535;target=self.read((self.PC&0xff0000)|pointer,2);self.push((self.PC-1)&65535,2);self.PC=(self.PC&0xff0000)|target;self.depth+=1
             elif op==0x60:
                 if not self.depth:
                     if self.S!=start_stack:raise ProbeError('Stack imbalance')
@@ -137,11 +140,13 @@ class NumericCPU:
             elif op==0xa9:self.set_a(self.fetch(mw))
             elif op==0xa5:self.set_a(self.read(self.fetch(),mw))
             elif op==0xad:self.set_a(self.read(self.fetch(2),mw))
+            elif op==0xaf:self.set_a(self.read(self.fetch(3),mw))
             elif op==0xbf:self.set_a(self.read((self.fetch(3)+self.X)&0xffffff,mw))
             elif op==0xa7:self.set_a(self.read(self.read(self.fetch(),3),mw))
             elif op==0xb7:self.set_a(self.read((self.read(self.fetch(),3)+self.Y)&0xffffff,mw))
             elif op==0x85:self.write(self.fetch(),self.A,mw)
             elif op==0x8d:self.write(self.fetch(2),self.A,mw)
+            elif op==0x8f:self.write(self.fetch(3),self.A,mw)
             elif op==0x9c:self.write(self.fetch(2),0,mw)
             elif op in (0xe6,0xc6):
                 addr=self.fetch();v=(self.read(addr,mw)+(1 if op==0xe6 else -1))&((1<<(8*mw))-1);self.write(addr,v,mw);self.nz(v,mw)

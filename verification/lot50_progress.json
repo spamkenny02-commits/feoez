@@ -3,19 +3,29 @@
   "target_distinct_new_texts": 400,
   "new_distinct_sources_prepared": 14,
   "historical_integrated_sources_before_loss": 8,
-  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery14c.sfc",
+  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery14e.sfc",
   "published": false,
   "phase": 1,
   "phase_end_proven": false,
   "baseline_commit": "2ef515fa05055f11a3675ff026f915972d2c733a",
   "pending": [
-    "Rebuild and retest known8 plus6 shop drafts;do not recount sources",
-    "Recover303 prior item bitmap variants and17 additional prior bitmap copies;zero new",
-    "Restore diagnostic tools and fresh same-ROM proof",
-    "Continue real remaining menus/branches and source classification;no debug padding",
-    "Reach400 or prove actual phase remainder before one main publication"
+    "Finish fresh14e303 item renders and read3 changed forms;compare all fresh pixels",
+    "Finish71 weak banner fixtures and inspect captures;shop/B42/AB/navigation regression still pending",
+    "Continue native menus,branches,calendar/song coverage and remaining-source classification",
+    "Reach400 or prove real final remainder;no main delivery before criterion"
   ],
-  "latest_candidate_rom_sha256": "0266d0e3b5ea14c26a937bcca181a6aad1cfe33bcd09ee75b60cef24584a4727",
+  "latest_candidate_rom_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
   "new_distinct_sources_integrated_in_recovery": 14,
-  "partial_runtime_evidence": "Fresh boot and diagnostic shop entry;6 shop sources have exact VRAM/tilemap checks and9 full captures actually read. Weakness expansion/PPU,303 item variants,full AB/navigation/natural regression still pending."
+  "partial_runtime_evidence": "Fresh boot14e complete.303 item PPU retry,71 weakness banner fixtures and full natural replay in progress.14d303 old views read on19 sheets;three draft short forms revised for14e. No14d/P8b proof validates14e.",
+  "restored_prior_item_variants": 303,
+  "original_item_icons_preserved": 46,
+  "latest_build_report": "verification/build_report_lot50_recovery14e.json",
+  "current_native_checks": {
+    "item_producer_dma_pairs": 303,
+    "weakness_getters": 65,
+    "weakness_expansions": 1002,
+    "maximum_weakness_bytes": 44,
+    "maximum_weakness_pixels": 190,
+    "scroll_compact_full_pairs": 36
+  }
 }

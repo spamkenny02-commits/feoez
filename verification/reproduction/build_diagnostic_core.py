@@ -45,7 +45,7 @@ if a.enable_slot_fixtures:
                         const char *hex = getenv(key);
                         if (!hex) continue;
                         size_t len = strlen(hex);
-                        if (len == 0 || len > 62 || len % 2) abort();
+                        if (len > 62 || len % 2) abort();
                         memset(Memory.RAM + 0x32aa + 32*slot, 0, 32);
                         for (size_t n=0; n<len; n+=2) {
                             if (!isxdigit((unsigned char)hex[n]) || !isxdigit((unsigned char)hex[n+1])) abort();

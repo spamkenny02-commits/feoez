@@ -1,0 +1,2736 @@
+{
+  "rom_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
+  "cases": 303,
+  "native_routine_executions": 606,
+  "original_icons_preserved": 46,
+  "results": [
+    {
+      "id": "B002-S001",
+      "source": "0x4f6000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S002",
+      "source": "0x4f6080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S003",
+      "source": "0x4f6100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S004",
+      "source": "0x4f6180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S005",
+      "source": "0x4f6200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S006",
+      "source": "0x4f6280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S007",
+      "source": "0x4f6300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S008",
+      "source": "0x4f6380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S009",
+      "source": "0x4f6400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S010",
+      "source": "0x4f6480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S011",
+      "source": "0x4f6500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S012",
+      "source": "0x4f6580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S013",
+      "source": "0x4f6600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S014",
+      "source": "0x4f6680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S015",
+      "source": "0x4f6700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S016",
+      "source": "0x4f6780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S017",
+      "source": "0x4f6800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S018",
+      "source": "0x4f6880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S019",
+      "source": "0x4f6900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S020",
+      "source": "0x4f6980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S021",
+      "source": "0x4f6a00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S022",
+      "source": "0x4f6a80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S023",
+      "source": "0x4f6b00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S024",
+      "source": "0x4f6b80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S025",
+      "source": "0x4f6c00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S026",
+      "source": "0x4f6c80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S027",
+      "source": "0x4f6d00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S028",
+      "source": "0x4f6d80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S029",
+      "source": "0x4f6e00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S030",
+      "source": "0x4f6e80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S031",
+      "source": "0x4f6f00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S032",
+      "source": "0x4f6f80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S033",
+      "source": "0x4f7000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S034",
+      "source": "0x4f7080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S035",
+      "source": "0x4f7100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S036",
+      "source": "0x4f7180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S037",
+      "source": "0x4f7200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S038",
+      "source": "0x4f7280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S039",
+      "source": "0x4f7300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S040",
+      "source": "0x4f7380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S041",
+      "source": "0x4f7400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S042",
+      "source": "0x4f7480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S043",
+      "source": "0x4f7500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S044",
+      "source": "0x4f7580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S045",
+      "source": "0x4f7600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S046",
+      "source": "0x4f7680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S047",
+      "source": "0x4f7700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S048",
+      "source": "0x4f7780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S049",
+      "source": "0x4f7800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S050",
+      "source": "0x4f7880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S051",
+      "source": "0x4f7900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S052",
+      "source": "0x4f7980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S053",
+      "source": "0x4f7a00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S054",
+      "source": "0x4f7a80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S055",
+      "source": "0x4f7b00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S056",
+      "source": "0x4f7b80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S057",
+      "source": "0x4f7c00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S058",
+      "source": "0x4f7c80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S059",
+      "source": "0x4f7d00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S060",
+      "source": "0x4f7d80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S061",
+      "source": "0x4f7e00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S062",
+      "source": "0x4f7e80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S063",
+      "source": "0x4f7f00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S064",
+      "source": "0x4f7f80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S065",
+      "source": "0x4f8000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S066",
+      "source": "0x4f8080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S067",
+      "source": "0x4f8100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S068",
+      "source": "0x4f8180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S069",
+      "source": "0x4f8200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S070",
+      "source": "0x4f8280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S071",
+      "source": "0x4f8300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S072",
+      "source": "0x4f8380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S073",
+      "source": "0x4f8400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S074",
+      "source": "0x4f8480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S075",
+      "source": "0x4f8500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S076",
+      "source": "0x4f8580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S077",
+      "source": "0x4f8600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S078",
+      "source": "0x4f8680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S079",
+      "source": "0x4f8700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S080",
+      "source": "0x4f8780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S081",
+      "source": "0x4f8800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S082",
+      "source": "0x4f8880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S083",
+      "source": "0x4f8900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S084",
+      "source": "0x4f8980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S085",
+      "source": "0x4f8a00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S086",
+      "source": "0x4f8a80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S087",
+      "source": "0x4f8b00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S088",
+      "source": "0x4f8b80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S089",
+      "source": "0x4f8c00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S090",
+      "source": "0x4f8c80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S091",
+      "source": "0x4f8d00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S092",
+      "source": "0x4f8d80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S093",
+      "source": "0x4f8e00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S094",
+      "source": "0x4f8e80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S095",
+      "source": "0x4f8f00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S096",
+      "source": "0x4f8f80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S097",
+      "source": "0x4f9000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S098",
+      "source": "0x4f9080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S099",
+      "source": "0x4f9100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S100",
+      "source": "0x4f9180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S101",
+      "source": "0x4f9200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S102",
+      "source": "0x4f9280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B002-S103",
+      "source": "0x4f9300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S104",
+      "source": "0x4f9380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S105",
+      "source": "0x4f9400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S106",
+      "source": "0x4f9480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S107",
+      "source": "0x4f9500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S108",
+      "source": "0x4f9580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B002-S109",
+      "source": "0x4f9600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S001",
+      "source": "0x4f9680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S002",
+      "source": "0x4f9700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S003",
+      "source": "0x4f9780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S004",
+      "source": "0x4f9800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S005",
+      "source": "0x4f9880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S006",
+      "source": "0x4f9900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S007",
+      "source": "0x4f9980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S008",
+      "source": "0x4f9a00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S009",
+      "source": "0x4f9a80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S010",
+      "source": "0x4f9b00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S011",
+      "source": "0x4f9b80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S012",
+      "source": "0x4f9c00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S013",
+      "source": "0x4f9c80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S014",
+      "source": "0x4f9d00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S015",
+      "source": "0x4f9d80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S016",
+      "source": "0x4f9e00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S017",
+      "source": "0x4f9e80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S018",
+      "source": "0x4f9f00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S019",
+      "source": "0x4f9f80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S020",
+      "source": "0x4fa000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S021",
+      "source": "0x4fa080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S022",
+      "source": "0x4fa100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S023",
+      "source": "0x4fa180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S024",
+      "source": "0x4fa200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S025",
+      "source": "0x4fa280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S026",
+      "source": "0x4fa300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S027",
+      "source": "0x4fa380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S028",
+      "source": "0x4fa400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S029",
+      "source": "0x4fa480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S030",
+      "source": "0x4fa500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S031",
+      "source": "0x4fa580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S032",
+      "source": "0x4fa600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S033",
+      "source": "0x4fa680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S034",
+      "source": "0x4fa700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S035",
+      "source": "0x4fa780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S036",
+      "source": "0x4fa800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S037",
+      "source": "0x4fa880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S038",
+      "source": "0x4fa900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S039",
+      "source": "0x4fa980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S040",
+      "source": "0x4faa00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S041",
+      "source": "0x4faa80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S042",
+      "source": "0x4fab00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S043",
+      "source": "0x4fab80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S044",
+      "source": "0x4fac00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S045",
+      "source": "0x4fac80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S046",
+      "source": "0x4fad00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S047",
+      "source": "0x4fad80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S048",
+      "source": "0x4fae00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S049",
+      "source": "0x4fae80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S050",
+      "source": "0x4faf00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S051",
+      "source": "0x4faf80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S052",
+      "source": "0x4fb000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S053",
+      "source": "0x4fb080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S054",
+      "source": "0x4fb100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S055",
+      "source": "0x4fb180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S056",
+      "source": "0x4fb200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S057",
+      "source": "0x4fb280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S058",
+      "source": "0x4fb300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S059",
+      "source": "0x4fb380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S060",
+      "source": "0x4fb400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S061",
+      "source": "0x4fb480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S062",
+      "source": "0x4fb500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S063",
+      "source": "0x4fb580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S064",
+      "source": "0x4fb600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S065",
+      "source": "0x4fb680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S066",
+      "source": "0x4fb700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S067",
+      "source": "0x4fb780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S068",
+      "source": "0x4fb800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S069",
+      "source": "0x4fb880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S070",
+      "source": "0x4fb900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S071",
+      "source": "0x4fb980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S072",
+      "source": "0x4fba00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S073",
+      "source": "0x4fba80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S074",
+      "source": "0x4fbb00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S075",
+      "source": "0x4fbb80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S076",
+      "source": "0x4fbc00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S077",
+      "source": "0x4fbc80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S078",
+      "source": "0x4fbd00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S079",
+      "source": "0x4fbd80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S080",
+      "source": "0x4fbe00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S081",
+      "source": "0x4fbe80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S082",
+      "source": "0x4fbf00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S083",
+      "source": "0x4fbf80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S084",
+      "source": "0x4fc000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S085",
+      "source": "0x4fc080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S086",
+      "source": "0x4fc100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S087",
+      "source": "0x4fc180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S088",
+      "source": "0x4fc200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S089",
+      "source": "0x4fc280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S090",
+      "source": "0x4fc300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S091",
+      "source": "0x4fc380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S092",
+      "source": "0x4fc400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S093",
+      "source": "0x4fc480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S094",
+      "source": "0x4fc500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S095",
+      "source": "0x4fc580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S096",
+      "source": "0x4fc600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S097",
+      "source": "0x4fc680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S098",
+      "source": "0x4fc700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S099",
+      "source": "0x4fc780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S100",
+      "source": "0x4fc800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S101",
+      "source": "0x4fc880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S102",
+      "source": "0x4fc900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S103",
+      "source": "0x4fc980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S104",
+      "source": "0x4fca00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S105",
+      "source": "0x4fca80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S106",
+      "source": "0x4fcb00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S107",
+      "source": "0x4fcb80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S108",
+      "source": "0x4fcc00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S109",
+      "source": "0x4fcc80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S110",
+      "source": "0x4fcd00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S111",
+      "source": "0x4fcd80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S112",
+      "source": "0x4fce00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S113",
+      "source": "0x4fce80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S114",
+      "source": "0x4fcf00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S115",
+      "source": "0x4fcf80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S116",
+      "source": "0x4fd000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S117",
+      "source": "0x4fd080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S118",
+      "source": "0x4fd100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S119",
+      "source": "0x4fd180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S120",
+      "source": "0x4fd200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S121",
+      "source": "0x4fd280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S122",
+      "source": "0x4fd300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S123",
+      "source": "0x4fd380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S124",
+      "source": "0x4fd400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S125",
+      "source": "0x4fd480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S126",
+      "source": "0x4fd500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S127",
+      "source": "0x4fd580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S128",
+      "source": "0x4fd600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S129",
+      "source": "0x4fd680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S130",
+      "source": "0x4fd700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S131",
+      "source": "0x4fd780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S132",
+      "source": "0x4fd800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S133",
+      "source": "0x4fd880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S134",
+      "source": "0x4fd900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S135",
+      "source": "0x4fd980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S136",
+      "source": "0x4fda00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S137",
+      "source": "0x4fda80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S138",
+      "source": "0x4fdb00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S139",
+      "source": "0x4fdb80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S140",
+      "source": "0x4fdc00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S141",
+      "source": "0x4fdc80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S142",
+      "source": "0x4fdd00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S143",
+      "source": "0x4fdd80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S144",
+      "source": "0x4fde00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S145",
+      "source": "0x4fde80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S146",
+      "source": "0x4fdf00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S147",
+      "source": "0x4fdf80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S148",
+      "source": "0x4fe000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S149",
+      "source": "0x4fe080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S150",
+      "source": "0x4fe100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S151",
+      "source": "0x4fe180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S152",
+      "source": "0x4fe200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S153",
+      "source": "0x4fe280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S154",
+      "source": "0x4fe300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S155",
+      "source": "0x4fe380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S156",
+      "source": "0x4fe400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S157",
+      "source": "0x4fe480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S158",
+      "source": "0x4fe500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S159",
+      "source": "0x4fe580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": true
+    },
+    {
+      "id": "B003-S160",
+      "source": "0x4fe600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S161",
+      "source": "0x4fe680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S162",
+      "source": "0x4fe700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S163",
+      "source": "0x4fe780",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S164",
+      "source": "0x4fe800",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S165",
+      "source": "0x4fe880",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S166",
+      "source": "0x4fe900",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S167",
+      "source": "0x4fe980",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S168",
+      "source": "0x4fea00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S169",
+      "source": "0x4fea80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S170",
+      "source": "0x4feb00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S171",
+      "source": "0x4feb80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S172",
+      "source": "0x4fec00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S173",
+      "source": "0x4fec80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S174",
+      "source": "0x4fed00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S175",
+      "source": "0x4fed80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S176",
+      "source": "0x4fee00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S177",
+      "source": "0x4fee80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S178",
+      "source": "0x4fef00",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S179",
+      "source": "0x4fef80",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S180",
+      "source": "0x4ff000",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S181",
+      "source": "0x4ff080",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S182",
+      "source": "0x4ff100",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S183",
+      "source": "0x4ff180",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S184",
+      "source": "0x4ff200",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S185",
+      "source": "0x4ff280",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S186",
+      "source": "0x4ff300",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S187",
+      "source": "0x4ff380",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S188",
+      "source": "0x4ff400",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S189",
+      "source": "0x4ff480",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S190",
+      "source": "0x4ff500",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S191",
+      "source": "0x4ff580",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S192",
+      "source": "0x4ff600",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S193",
+      "source": "0x4ff680",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    },
+    {
+      "id": "B003-S194",
+      "source": "0x4ff700",
+      "vram": "0x8b80",
+      "bytes": 128,
+      "producer_native": true,
+      "dma_registers_native": true,
+      "icon_preserved": false
+    }
+  ],
+  "scope": "Execute native item queue producer and DMA register writer for303 variants.\nDMA bytes are copied mathematically from programmed registers,not PPU/timing.\nFresh emulator captures must independently establish the actual VRAM render.\n"
+}
