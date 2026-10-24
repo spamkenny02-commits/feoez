@@ -20,10 +20,14 @@
   "restored_prior_item_variants": 303,
   "original_item_icons_preserved": 46,
   "latest_build_report": "verification/build_report_lot50_recovery50a.json",
-  "current_native_checks": {
+  "workspace_recovery_status": "blocked_missing_private_source_after_workspace_loss",
+  "current_combined_candidate_available": false,
+  "current_native_checks_available": false,
+  "historical_current_native_checks": {
     "prior_full_string_reads": 6769,
     "weekday_header_executions": 70,
     "weekday_bitmap_copies": 14,
     "weekday_native_string_slots": 7
-  }
+  },
+  "blocking_report": "verification/lot50_workspace_loss_20261024.json"
 }

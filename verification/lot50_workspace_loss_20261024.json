@@ -1,0 +1,29 @@
+{
+  "status": "blocked_missing_private_source_after_workspace_loss",
+  "date": "2026-10-24",
+  "remote_recovery_commit": "adb734d8106317226b6cb78f2507607524ab0bc2",
+  "remote_recovery_tree": "9e098c8bc4a24291c4e1e69b431fa36aa0dc360a",
+  "main_unchanged": "2ef515fa05055f11a3675ff026f915972d2c733a",
+  "counter_preserved": 50,
+  "delivered": false,
+  "source_required": {
+    "filename": "Tengai Makyou Zero.sfc",
+    "size": 7340032,
+    "sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e"
+  },
+  "checks_this_recovery": [
+    "Remote main and WIP heads read",
+    "WIP Git clone restored successfully",
+    "Working tree initially clean",
+    "Required source/emulator directories absent",
+    "Two Library search passes found no recovery files",
+    "Local-only checkpoint unavailable via remote Git object lookup (404)"
+  ],
+  "lost_unpublished_checkpoint": {
+    "commit": "f864958e3c25d00d6c09baf114cf3f62180db0bb",
+    "tree": "9751f2d99aa13ea839afc188236a393dfb698fde",
+    "candidate_sha256": "eb0793fc36fc257a637be9e8deb1db76fdd44ee59cbde956747bddf8b23555dc",
+    "evidence_status": "Mentioned in prior conversation summary only; files not recovered. Do not claim reproducibility or use as current-ROM validation."
+  },
+  "next_required": "Restore privately supplied pinned English source before constructing or validating any ROM. Rebuild emulator tooling from pinned sources; regenerate every proof for reconstructed exact ROM. Preserve 50-source manifest and all previous exclusions."
+}
