@@ -23,7 +23,7 @@ def main():
  for i in range(1,8):c.select(i);prior.append(c.string())
  assert prior[-1]==encode_fr('All');payload=b'\x02\x00'+b''.join(s+b'\0'for s in prior[:6])+encode_fr('Tous')+b'\0';assert len(payload)==88;assert baseline[0x6c9590:0x6c9600]==bytes(112);put(0x6c9590,payload);put(0xc987e,(0x4c9590).to_bytes(3,'little'))
  item_rom,item_report=patch_items(baseline);put(0x6f6000,item_rom[0x6f6000:0x6ff780])
- for file in ['block42_graphics_lot50_fr.json','native_prior_variants_lot50_fr.json','shop_graphics_lot50_fr.json']:
+ for file in ['block42_graphics_lot50_fr.json','native_prior_variants_lot50_fr.json','shop_graphics_lot50_fr.json','shop_names_lot50_fr.json']:
   for e in json.loads((ROOT/'traduction'/file).read_text()):
    for part in e.get('strips',[e]):
     st=int(part['offset'],16);n=part['tiles']*16;assert baseline[st:st+n].hex()==part['source_hex'],e['id'];data,px=raster(baseline,part['french'],part['tiles']);assert px<=part['tiles']*8;put(st,data);checks.append(dict(id=e['id'],offset=hex(st),tiles=part['tiles'],pixels=px))
@@ -39,6 +39,6 @@ def main():
   st=int(b['destination'],16);n=b['new_size'];assert out[st:st+n]==baseline[st:st+n],b['block_ids'];preserved+=b['translated']
  assert preserved==6769,preserved
  patch=make_ips(source,out);assert apply_ips(source,patch)==out;a.rom_out.write_bytes(out);a.ips_out.write_bytes(patch)
- report=dict(status='Recovery research candidate;not a completed lot or validated release',source_sha256=sha(source),baseline_sha256=sha(baseline),output_sha256=sha(out),ips_sha256=sha(patch),prior_stored_bounded_occurrences_byte_preserved=preserved,prior_block43_native_reads=6,new_bounded_native_reads=9,prior_element_variant_native_reads=4,block42_glyph_lists_native_preserved=7,graphics_bounds=checks,authorized_spans=spans,ips_roundtrip=True,new_distinct_sources_prepared=14,item_graphics=item_report,former303_item_variants='Reconstructed short forms included;not byte-identical to lostP8b;fresh native and PPU required',runtime_validation='pending',visual_review='pending')
+ report=dict(status='Recovery research candidate;not a completed lot or validated release',source_sha256=sha(source),baseline_sha256=sha(baseline),output_sha256=sha(out),ips_sha256=sha(patch),prior_stored_bounded_occurrences_byte_preserved=preserved,prior_block43_native_reads=6,new_bounded_native_reads=9,prior_element_variant_native_reads=4,block42_glyph_lists_native_preserved=7,graphics_bounds=checks,authorized_spans=spans,ips_roundtrip=True,new_distinct_sources_prepared=json.loads((ROOT/'verification/lot50_sources_manifest.json').read_text())['new_distinct_sources_prepared'],item_graphics=item_report,former303_item_variants='Reconstructed short forms included;not byte-identical to lostP8b;fresh native and PPU required',runtime_validation='pending',visual_review='pending')
  a.report.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print('Recovery candidate built;fresh runtime pending',sha(out))
 if __name__=='__main__':main()

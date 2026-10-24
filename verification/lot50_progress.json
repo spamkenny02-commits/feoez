@@ -1,32 +1,34 @@
 {
   "lot": 50,
   "target_distinct_new_texts": 400,
-  "new_distinct_sources_prepared": 14,
+  "new_distinct_sources_prepared": 42,
   "historical_integrated_sources_before_loss": 8,
-  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery14e.sfc",
+  "current_combined_candidate": "../emulator/fr_v56_lot50_recovery42a.sfc",
   "published": false,
   "phase": 1,
   "phase_end_proven": false,
   "baseline_commit": "2ef515fa05055f11a3675ff026f915972d2c733a",
   "pending": [
-    "Finish fresh A/reset/B/navigation and natural replay visual/regression review",
-    "Reopen B42 equipment/item fiches and consumable selector from ordinary controls",
-    "Continue native shop/scroll consumer and remaining source classification",
+    "Continue native UI/scrolls and remaining source consumer classification",
+    "Almanac chart weekday initials still English;source/native layout unresolved;not counted",
+    "Singles Tea House source has stock descriptors but no direct FD80 call found;do not assume unused or count it",
+    "Other dates/branches,all natural actions,song synchronization and full French review still open",
     "Reach400 or prove true final phase remainder;no main delivery before criterion"
   ],
-  "latest_candidate_rom_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
-  "new_distinct_sources_integrated_in_recovery": 14,
-  "partial_runtime_evidence": "Exact14e:303 fresh item fixtures;300 identical to14d reviewed19 sheets,3 changed forms reviewed on14e sheets2/8/14 and full context.71 fresh weakness fixture windows read on9 complete sheets.9 fresh shop views read.6769 prior full strings read natively on14e. Fresh boot/natural789 replay executed;full review/regression pending.",
+  "latest_candidate_rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "new_distinct_sources_integrated_in_recovery": 42,
+  "partial_runtime_evidence": "Exact42a:303fresh item+71weakness PPU captures match previously actually read14e complete text pixels;32shop name fields freshly read4sheets;9fresh shop windows read;122context screens read11sheets;28natural/inventory/calendar screens read3sheets.6769native prior strings and512fresh V55 regression comparisons passed. Ordinary Katana fiche and naturally won kusa dango target/cancel reopened,6VRAM/tilemap contracts passed.",
   "restored_prior_item_variants": 303,
   "original_item_icons_preserved": 46,
-  "latest_build_report": "verification/build_report_lot50_recovery14e.json",
+  "latest_build_report": "verification/build_report_lot50_recovery42a.json",
   "current_native_checks": {
+    "prior_full_string_reads": 6769,
     "item_producer_dma_pairs": 303,
     "weakness_getters": 65,
     "weakness_expansions": 1002,
     "maximum_weakness_bytes": 44,
     "maximum_weakness_pixels": 190,
     "scroll_compact_full_pairs": 36,
-    "prior_full_string_reads": 6769
+    "shop_pending_name_dma_cases": 32
   }
 }

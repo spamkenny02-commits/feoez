@@ -228,5 +228,17 @@
     "new_distinct_source": false,
     "status": "Recovered from published French and known source bounds;new combined PPU pending",
     "usage": "Exact prior English bitmap copy;zero new;consumer coverage separately tracked"
+  },
+  {
+    "id": "PRIOR-GRAPHIC-6D31B0",
+    "offset": "0x6d31b0",
+    "tiles": 5,
+    "english": "Bookmark",
+    "french": "Signet",
+    "pixels": 26,
+    "canonical_prior_source": "UI-6F31B0",
+    "source_hex": "10e04890489312e44a944a9410e3000000010001841952a552a552a58419000080008000902fa54a458aa54a952a000000000000821d52a552a552a5429d00000408040824c9952a820c850a84090000",
+    "new_distinct_source": false,
+    "status": "Exact prior source copy observed in ordinary sell work-bank via shop fixture;combined fresh PPU pending"
   }
 ]

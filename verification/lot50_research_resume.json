@@ -7,9 +7,9 @@
   "source_recovered_sha256": "eb07eed483f8f79ab64309c50ad0ef19560946b8e28fbd695470552ba68e356e",
   "standard_core_rebuilt_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
   "historical8_sources_counter_preserved": true,
-  "new_distinct_sources_prepared": 14,
-  "current_candidate": "../emulator/fr_v56_lot50_recovery14e.sfc",
-  "current_candidate_sha256": "906da5154a8071b9ff0d9f3d58ae6558d619b9fd098f275bd0dd120d7d31ecc6",
+  "new_distinct_sources_prepared": 42,
+  "current_candidate": "../emulator/fr_v56_lot50_recovery42a.sfc",
+  "current_candidate_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
   "historical_P8b_sha256": "e5cdbdfc5a1ab33d29f98e5082e0184523d98b0e13dde18867f455666b099d85",
   "historical_P8b_evidence": "Files lost;historical test claims do not validate recovery ROM",
   "former303_item_variants": "Reconstructed canonical short forms in traduction/item_graphics_lot50_fr.json;not byte-identical to lostP8b;zero new sources;all46 original icon suffixes pixel-preserved",
@@ -25,8 +25,8 @@
     "limits": "One diagnostic NPC continuation;not natural shop access,stock availability,ownership or completed transaction proof"
   },
   "remaining": "Continue shop/scroll UI,field fallback classification and full coverage.608 labels inB21..27 look debug but absence of event roots is not a non-usage proof.762 remaining nonempty bounded rows afterV55 is not coverage.Three phases remain open.",
-  "recovered_prior_bitmaps": 19,
-  "shop_runtime_proof": "verification/renders/lot50_recovery14e_shop/report.json",
+  "recovered_prior_bitmaps": 20,
+  "shop_runtime_proof": "verification/renders/lot50_recovery42a_shop/report.json",
   "shop_sell_question": "Visible10 tiles80px,not stored11 tiles88px;display Que vendre ?,full Que vendez-vous ?",
   "current_native_checks": {
     "item_routine_calls": 606,
@@ -34,19 +34,24 @@
     "weakness_expansions": 1002,
     "max_bytes": 44,
     "max_pixels": 190,
-    "scroll_pairs": 36
+    "scroll_pairs": 36,
+    "shop_name_dispatch_dma": 32,
+    "prior_full_native_strings": 6769
   },
   "draft_retouches_not_new": {
     "22": "Pil. Tortue",
     "116": "Orbe Tortue",
     "211": "Robe Grue"
   },
-  "current_runtime_status": "Exact14e native6769 prior string reads passed;303 fresh item PPU full-strip and outside pixels checked,300 unchanged from prior reviewed14d and3 changed read;71weakness windows read9sheets;9shop views read. Boot/natural789 replay complete,review/regression pending.",
+  "current_runtime_status": "Exact42a fresh6769native reads,303item/71weak PPU fresh and pixel-identical to previously read14e,32name views freshly read4sheets,9shop views read;85boot+21AB+7navigation+399natural fresh captures identical to freshV55.122context screens read11sheets plus28selected natural/inventory/calendar screens read3sheets. Ordinary equipment and consumable selector/cancel verified6VRAM/tilemap contracts. No healing/transaction/all-branch claim.",
   "private_cores": {
     "item_shop": "../emulator/snes9x_libretro_lot50_recovery_items.so",
     "weakness": "../emulator/snes9x_libretro_lot50_recovery_weakness.so"
   },
   "item_core_sha256": "7db64e163a8cf963ca15b895be547d48f21d4fff05d2525edca626ec296bdd68",
   "weakness_core_sha256": "ff83d0336b7f49a2efde52816e433288d28e0b4456e18f45a6c8235db01169d2",
-  "shop_name_research": "Runtime14e observer C0AF35:A8=C5DEF0;byte67 is consumed by shop loader,not a separate VM opcode on this path. DC=DE6C62;C0AFA7 reads13;RAM1DCF=13;1F7C=14;4FF8C0 DMA uses(A-1)*256 bank4D->VRAM7D00,160bytes. D-window mapping gives ROM2E6C62 for descriptor. Keep distinction from naturally visited merchant."
+  "shop_name_research": "Runtime14e observer C0AF35:A8=C5DEF0;byte67 is consumed by shop loader,not a separate VM opcode on this path. DC=DE6C62;C0AFA7 reads13;RAM1DCF=13;1F7C=14;4FF8C0 DMA uses(A-1)*256 bank4D->VRAM7D00,160bytes. D-window mapping gives ROM2E6C62 for descriptor. Keep distinction from naturally visited merchant.",
+  "shop_name_new_sources": "28 new canonical source identities on29fields;Weapon Store alias of Weapon Shop excluded;Ring & Ring unchanged proper name;Pharmacist already counted;Singles Tea House unresolved/unmodified. Verified native32DMA,static FD80 stock consumers andfresh32PPU windows.",
+  "new_remaining_graphics": "Actual Almanac22/12/1995 shows English chart weekday initials;native source/layout unresolved. Other dates/branches/song sync/full review remain open.",
+  "new_private_core": "../emulator/snes9x_libretro_lot50_names.so SHA727132f625502c5323d9864c345047a75af06bbf5d639728f2e8dec1eccf8175;name-index override explicit only withFEOE_LOT50_SHOP_NAME_INDEX;no environment means no mutation"
 }

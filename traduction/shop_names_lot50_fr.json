@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "SHOPNAME-00",
+    "name_index": 0,
+    "english": "Item Shop",
+    "french": "Boutique d'objets",
+    "french_in_game": "Objets",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e034",
+        "stock": 101,
+        "descriptor_offset": "0x2e6c4c",
+        "context_hex": "0500014afd150807fd806501"
+      },
+      {
+        "script_offset": "0x5e060",
+        "stock": 102,
+        "descriptor_offset": "0x2e6c57",
+        "context_hex": "0500014dfd150807fd806601"
+      },
+      {
+        "script_offset": "0x5e106",
+        "stock": 100,
+        "descriptor_offset": "0x2e6c41",
+        "context_hex": "00000159fd150807fd806401"
+      },
+      {
+        "script_offset": "0x7d6f4",
+        "stock": 2,
+        "descriptor_offset": "0x2e680b",
+        "context_hex": "c7040460fad6c700fd800201"
+      },
+      {
+        "script_offset": "0x7d726",
+        "stock": 117,
+        "descriptor_offset": "0x2e6cfc",
+        "context_hex": "c70404602cd7c700fd807501"
+      },
+      {
+        "script_offset": "0x7d7c3",
+        "stock": 3,
+        "descriptor_offset": "0x2e6816",
+        "context_hex": "c7040460e3d7c700fd800301"
+      },
+      {
+        "script_offset": "0x7dd4d",
+        "stock": 8,
+        "descriptor_offset": "0x2e684d",
+        "context_hex": "00000112fd150807fd800801"
+      },
+      {
+        "script_offset": "0x7dd6d",
+        "stock": 118,
+        "descriptor_offset": "0x2e6d07",
+        "context_hex": "00000115fd150807fd807601"
+      },
+      {
+        "script_offset": "0x880f3",
+        "stock": 70,
+        "descriptor_offset": "0x2e6af7",
+        "context_hex": "00000112fd150807fd804601"
+      },
+      {
+        "script_offset": "0x88fc0",
+        "stock": 73,
+        "descriptor_offset": "0x2e6b18",
+        "context_hex": "0811010afd150807fd804901"
+      },
+      {
+        "script_offset": "0x88fd1",
+        "stock": 72,
+        "descriptor_offset": "0x2e6b0d",
+        "context_hex": "040f010dfd150807fd804801"
+      },
+      {
+        "script_offset": "0x8a21b",
+        "stock": 78,
+        "descriptor_offset": "0x2e6b4f",
+        "context_hex": "000001a5fd150807fd804e01"
+      },
+      {
+        "script_offset": "0x8a22b",
+        "stock": 78,
+        "descriptor_offset": "0x2e6b4f",
+        "context_hex": "a70001a8fd150807fd804e01"
+      },
+      {
+        "script_offset": "0x8a25f",
+        "stock": 79,
+        "descriptor_offset": "0x2e6b5a",
+        "context_hex": "010001acfd150807fd804f01"
+      },
+      {
+        "script_offset": "0x8b47a",
+        "stock": 83,
+        "descriptor_offset": "0x2e6b86",
+        "context_hex": "0000013cfd150807fd805301"
+      },
+      {
+        "script_offset": "0x8b48a",
+        "stock": 83,
+        "descriptor_offset": "0x2e6b86",
+        "context_hex": "3e00013ffd150807fd805301"
+      },
+      {
+        "script_offset": "0x8b4be",
+        "stock": 84,
+        "descriptor_offset": "0x2e6b91",
+        "context_hex": "01000143fd150807fd805401"
+      },
+      {
+        "script_offset": "0x93e1f",
+        "stock": 38,
+        "descriptor_offset": "0x2e6997",
+        "context_hex": "00000104fd150807fd802601"
+      },
+      {
+        "script_offset": "0x94913",
+        "stock": 120,
+        "descriptor_offset": "0x2e6d1d",
+        "context_hex": "00000110fd150807fd807801"
+      },
+      {
+        "script_offset": "0x94933",
+        "stock": 35,
+        "descriptor_offset": "0x2e6976",
+        "context_hex": "00000113fd150807fd802301"
+      },
+      {
+        "script_offset": "0x96de2",
+        "stock": 46,
+        "descriptor_offset": "0x2e69ef",
+        "context_hex": "c901780402017900fd802e00"
+      },
+      {
+        "script_offset": "0x98cb0",
+        "stock": 41,
+        "descriptor_offset": "0x2e69b8",
+        "context_hex": "c9000124fd150807fd802901"
+      },
+      {
+        "script_offset": "0x98cc0",
+        "stock": 42,
+        "descriptor_offset": "0x2e69c3",
+        "context_hex": "26000127fd150807fd802a01"
+      },
+      {
+        "script_offset": "0xa3b88",
+        "stock": 90,
+        "descriptor_offset": "0x2e6bd3",
+        "context_hex": "0200010bfd150807fd805a01"
+      },
+      {
+        "script_offset": "0xa3e18",
+        "stock": 94,
+        "descriptor_offset": "0x2e6bff",
+        "context_hex": "00000108fd150807fd805e01"
+      },
+      {
+        "script_offset": "0xa3e78",
+        "stock": 95,
+        "descriptor_offset": "0x2e6c0a",
+        "context_hex": "0200010cfd150807fd805f01"
+      },
+      {
+        "script_offset": "0xa41ca",
+        "stock": 96,
+        "descriptor_offset": "0x2e6c15",
+        "context_hex": "0000010dfd150807fd806001"
+      },
+      {
+        "script_offset": "0xa425d",
+        "stock": 121,
+        "descriptor_offset": "0x2e6d28",
+        "context_hex": "00000112fd150807fd807901"
+      },
+      {
+        "script_offset": "0xa4553",
+        "stock": 98,
+        "descriptor_offset": "0x2e6c2b",
+        "context_hex": "0000010bfd150807fd806201"
+      },
+      {
+        "script_offset": "0xb9784",
+        "stock": 54,
+        "descriptor_offset": "0x2e6a47",
+        "context_hex": "02000133fd150807fd803601"
+      },
+      {
+        "script_offset": "0xb9c99",
+        "stock": 62,
+        "descriptor_offset": "0x2e6a9f",
+        "context_hex": "15ffe44c05000807fd803e01"
+      },
+      {
+        "script_offset": "0xb9ca0",
+        "stock": 63,
+        "descriptor_offset": "0x2e6aaa",
+        "context_hex": "07fd803e01130405fd803f01"
+      },
+      {
+        "script_offset": "0xba19f",
+        "stock": 66,
+        "descriptor_offset": "0x2e6acb",
+        "context_hex": "00000118fd150807fd804201"
+      },
+      {
+        "script_offset": "0xbf241",
+        "stock": 16,
+        "descriptor_offset": "0x2e68a5",
+        "context_hex": "08110113fd150807fd801001"
+      },
+      {
+        "script_offset": "0xbf252",
+        "stock": 16,
+        "descriptor_offset": "0x2e68a5",
+        "context_hex": "04120116fd150807fd801001"
+      },
+      {
+        "script_offset": "0xbfb00",
+        "stock": 11,
+        "descriptor_offset": "0x2e686e",
+        "context_hex": "0811011efd150807fd800b01"
+      },
+      {
+        "script_offset": "0xbfb11",
+        "stock": 11,
+        "descriptor_offset": "0x2e686e",
+        "context_hex": "040f0121fd150807fd800b01"
+      },
+      {
+        "script_offset": "0xc21c9",
+        "stock": 18,
+        "descriptor_offset": "0x2e68bb",
+        "context_hex": "00000110fd150807fd801201"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0000",
+        "tiles": 10,
+        "french": "Objets",
+        "pixels": 28,
+        "source_hex": "12e42244214e22442244224412e400000000000010674a950af542850a750000000302044284a043a040a244a0430000902050a00438922552a552a5922400000000000021ce94299429912e24c804080000000000008000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-01",
+    "name_index": 1,
+    "english": "Weapon Shop",
+    "french": "Armurerie",
+    "french_in_game": "Armurerie",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x7d850",
+        "stock": 4,
+        "descriptor_offset": "0x2e6821",
+        "context_hex": "c704046056d8c700fd800401"
+      },
+      {
+        "script_offset": "0x7ddbb",
+        "stock": 9,
+        "descriptor_offset": "0x2e6858",
+        "context_hex": "00000118fd150807fd800901"
+      },
+      {
+        "script_offset": "0x888cb",
+        "stock": 74,
+        "descriptor_offset": "0x2e6b23",
+        "context_hex": "00000132fd150807fd804a01"
+      },
+      {
+        "script_offset": "0x8a35b",
+        "stock": 80,
+        "descriptor_offset": "0x2e6b65",
+        "context_hex": "000001bdfd150807fd805001"
+      },
+      {
+        "script_offset": "0x8a36b",
+        "stock": 80,
+        "descriptor_offset": "0x2e6b65",
+        "context_hex": "bf0001c0fd150807fd805001"
+      },
+      {
+        "script_offset": "0x8a39f",
+        "stock": 81,
+        "descriptor_offset": "0x2e6b70",
+        "context_hex": "010001c4fd150807fd805101"
+      },
+      {
+        "script_offset": "0x8b63e",
+        "stock": 85,
+        "descriptor_offset": "0x2e6b9c",
+        "context_hex": "00000151fd150807fd805501"
+      },
+      {
+        "script_offset": "0x8b64e",
+        "stock": 85,
+        "descriptor_offset": "0x2e6b9c",
+        "context_hex": "53000154fd150807fd805501"
+      },
+      {
+        "script_offset": "0x8b682",
+        "stock": 86,
+        "descriptor_offset": "0x2e6ba7",
+        "context_hex": "01000158fd150807fd805601"
+      },
+      {
+        "script_offset": "0x93691",
+        "stock": 33,
+        "descriptor_offset": "0x2e6960",
+        "context_hex": "00000111fd150807fd802101"
+      },
+      {
+        "script_offset": "0x94973",
+        "stock": 36,
+        "descriptor_offset": "0x2e6981",
+        "context_hex": "00000116fd150807fd802401"
+      },
+      {
+        "script_offset": "0x951ad",
+        "stock": 39,
+        "descriptor_offset": "0x2e69a2",
+        "context_hex": "00000108fd150807fd802701"
+      },
+      {
+        "script_offset": "0x96f91",
+        "stock": 47,
+        "descriptor_offset": "0x2e69fa",
+        "context_hex": "c9018b0402018c00fd802f00"
+      },
+      {
+        "script_offset": "0x98d46",
+        "stock": 43,
+        "descriptor_offset": "0x2e69ce",
+        "context_hex": "0000012bfd150807fd802b01"
+      },
+      {
+        "script_offset": "0xa3bd5",
+        "stock": 91,
+        "descriptor_offset": "0x2e6bde",
+        "context_hex": "0000010efd150807fd805b01"
+      },
+      {
+        "script_offset": "0xa45a6",
+        "stock": 99,
+        "descriptor_offset": "0x2e6c36",
+        "context_hex": "0100010ffd150807fd806301"
+      },
+      {
+        "script_offset": "0xb993e",
+        "stock": 55,
+        "descriptor_offset": "0x2e6a52",
+        "context_hex": "440805607199cb00fd803760"
+      },
+      {
+        "script_offset": "0xb9952",
+        "stock": 56,
+        "descriptor_offset": "0x2e6a5d",
+        "context_hex": "440805607199cb00fd803860"
+      },
+      {
+        "script_offset": "0xb9966",
+        "stock": 57,
+        "descriptor_offset": "0x2e6a68",
+        "context_hex": "440805607199cb00fd803960"
+      },
+      {
+        "script_offset": "0xba1f3",
+        "stock": 67,
+        "descriptor_offset": "0x2e6ad6",
+        "context_hex": "c100011bfd150807fd804301"
+      },
+      {
+        "script_offset": "0xba203",
+        "stock": 67,
+        "descriptor_offset": "0x2e6ad6",
+        "context_hex": "1d00011efd150807fd804301"
+      },
+      {
+        "script_offset": "0xbfb51",
+        "stock": 12,
+        "descriptor_offset": "0x2e6879",
+        "context_hex": "00000124fd150807fd800c01"
+      },
+      {
+        "script_offset": "0xc236b",
+        "stock": 19,
+        "descriptor_offset": "0x2e68c6",
+        "context_hex": "040f0123fd150807fd801301"
+      },
+      {
+        "script_offset": "0xc23cc",
+        "stock": 19,
+        "descriptor_offset": "0x2e68c6",
+        "context_hex": "08110126fd150807fd801301"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0100",
+        "tiles": 10,
+        "french": "Armurerie",
+        "pixels": 44,
+        "source_hex": "448844884489458a54ab25da4489000000000000418e295229d2091221ce00000000000010e34a944a9412e44083408000000000843852a452a452a4922400000932254a20430932050a254a0932000000000000428c295229522952224c00000000000010e04890489010e040804080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-02",
+    "name_index": 2,
+    "english": "Tea House",
+    "french": "Salon de thé",
+    "french_in_game": "Salon de thé",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x7dced",
+        "stock": 10,
+        "descriptor_offset": "0x2e6863",
+        "context_hex": "0200010efd150807fd800a01"
+      },
+      {
+        "script_offset": "0x875b9",
+        "stock": 89,
+        "descriptor_offset": "0x2e6bc8",
+        "context_hex": "00000101fd150807fd805901"
+      },
+      {
+        "script_offset": "0x8808b",
+        "stock": 71,
+        "descriptor_offset": "0x2e6b02",
+        "context_hex": "0200010dfd150807fd804701"
+      },
+      {
+        "script_offset": "0x8871b",
+        "stock": 75,
+        "descriptor_offset": "0x2e6b2e",
+        "context_hex": "0200011afd150807fd804b01"
+      },
+      {
+        "script_offset": "0x8876e",
+        "stock": 75,
+        "descriptor_offset": "0x2e6b2e",
+        "context_hex": "b300011ffd150807fd804b01"
+      },
+      {
+        "script_offset": "0x935b9",
+        "stock": 34,
+        "descriptor_offset": "0x2e696b",
+        "context_hex": "00000106fd150807fd802201"
+      },
+      {
+        "script_offset": "0x9489a",
+        "stock": 34,
+        "descriptor_offset": "0x2e696b",
+        "context_hex": "0200010afd150807fd802201"
+      },
+      {
+        "script_offset": "0x96d39",
+        "stock": 48,
+        "descriptor_offset": "0x2e6a05",
+        "context_hex": "c901710402017200fd803000"
+      },
+      {
+        "script_offset": "0x98c29",
+        "stock": 44,
+        "descriptor_offset": "0x2e69d9",
+        "context_hex": "c901200402012100fd802c00"
+      },
+      {
+        "script_offset": "0xb9710",
+        "stock": 58,
+        "descriptor_offset": "0x2e6a73",
+        "context_hex": "0200012cfd150807fd803a01"
+      },
+      {
+        "script_offset": "0xb9c0f",
+        "stock": 64,
+        "descriptor_offset": "0x2e6ab5",
+        "context_hex": "0200010bfd150807fd804001"
+      },
+      {
+        "script_offset": "0xba3d5",
+        "stock": 53,
+        "descriptor_offset": "0x2e6a3c",
+        "context_hex": "02000103fd150807fd803501"
+      },
+      {
+        "script_offset": "0xba456",
+        "stock": 68,
+        "descriptor_offset": "0x2e6ae1",
+        "context_hex": "02000101fd150807fd804401"
+      },
+      {
+        "script_offset": "0xbf1c2",
+        "stock": 17,
+        "descriptor_offset": "0x2e68b0",
+        "context_hex": "02000110fd150807fd801101"
+      },
+      {
+        "script_offset": "0xbfa66",
+        "stock": 13,
+        "descriptor_offset": "0x2e6884",
+        "context_hex": "0200011afd150807fd800d01"
+      },
+      {
+        "script_offset": "0xc44d2",
+        "stock": 119,
+        "descriptor_offset": "0x2e6d12",
+        "context_hex": "02000103fd150807fd807701"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0200",
+        "tiles": 10,
+        "french": "Salon de thé",
+        "pixels": 54,
+        "source_hex": "04f8102010211122102311221021000000000000418e295229d2091221ce0000122412241224023d12251225122400000000000024c994299429942920c70000000000008439a1428833850a88710000000000004080204020c0000020c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-04",
+    "name_index": 4,
+    "english": "Hatchery",
+    "french": "Couvoir",
+    "french_in_game": "Couvoir",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x62d8b",
+        "stock": 5,
+        "descriptor_offset": "0x2e682c",
+        "context_hex": "00000101fd150807fd800501"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0400",
+        "tiles": 10,
+        "french": "Couvoir",
+        "pixels": 32,
+        "source_hex": "4890489048930af44a944a94489300000810081044b94992499249924891000008100810429c295209122952499200000000000010674a940af442840a74000000000000922452a41224021c020404180000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-05",
+    "name_index": 5,
+    "english": "Shrine Office",
+    "french": "Bureau du temple",
+    "french_in_game": "Bureau temple",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x7ff0b",
+        "stock": 7,
+        "descriptor_offset": "0x2e6842",
+        "context_hex": "00000109fd150807fd800701"
+      },
+      {
+        "script_offset": "0x864ce",
+        "stock": 77,
+        "descriptor_offset": "0x2e6b44",
+        "context_hex": "0200010bfd150807fd804d01"
+      },
+      {
+        "script_offset": "0x88994",
+        "stock": 77,
+        "descriptor_offset": "0x2e6b44",
+        "context_hex": "44000138fd150807fd804d01"
+      },
+      {
+        "script_offset": "0x97d5f",
+        "stock": 51,
+        "descriptor_offset": "0x2e6a26",
+        "context_hex": "00000106fd150807fd803301"
+      },
+      {
+        "script_offset": "0x97f84",
+        "stock": 51,
+        "descriptor_offset": "0x2e6a26",
+        "context_hex": "00000106fd150807fd803301"
+      },
+      {
+        "script_offset": "0xb7971",
+        "stock": 60,
+        "descriptor_offset": "0x2e6a89",
+        "context_hex": "00000105fd150807fd803c01"
+      },
+      {
+        "script_offset": "0xb99c3",
+        "stock": 60,
+        "descriptor_offset": "0x2e6a89",
+        "context_hex": "00000151fd150807fd803c01"
+      },
+      {
+        "script_offset": "0xc43b1",
+        "stock": 23,
+        "descriptor_offset": "0x2e68f2",
+        "context_hex": "00000117fd150807fd801701"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0500",
+        "tiles": 10,
+        "french": "Bureau temple",
+        "pixels": 61,
+        "source_hex": "12644a94408712640a144a941264000000010000843952a550a150a150a10000800000008871a54aa44ba54aa4490000000302044284224422c4020420c3000042842448225d244824482448448800002850408028d34a944a944a944893000000000000841852a4023c50a0821c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-06",
+    "name_index": 6,
+    "english": "Pharmacy",
+    "french": "Pharmacie",
+    "french_in_game": "Pharmacie",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xa3caf",
+        "stock": 92,
+        "descriptor_offset": "0x2e6be9",
+        "context_hex": "00000115fd150807fd805c01"
+      },
+      {
+        "script_offset": "0xa4335",
+        "stock": 97,
+        "descriptor_offset": "0x2e6c20",
+        "context_hex": "0000011efd150807fd806101"
+      },
+      {
+        "script_offset": "0xbfcc5",
+        "stock": 14,
+        "descriptor_offset": "0x2e688f",
+        "context_hex": "00000130fd150807fd800e01"
+      },
+      {
+        "script_offset": "0xc2678",
+        "stock": 20,
+        "descriptor_offset": "0x2e68d1",
+        "context_hex": "0000013dfd150807fd801401"
+      },
+      {
+        "script_offset": "0xc26ef",
+        "stock": 21,
+        "descriptor_offset": "0x2e68dc",
+        "context_hex": "00000144fd150807fd801501"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0600",
+        "tiles": 10,
+        "french": "Pharmacie",
+        "pixels": 43,
+        "source_hex": "12e44a94489712e4428442844284000000000000821d52a552a552a5429d00000000000020cf952a850a850a850a000000000000821c52a552a552a5429c00000000000024c994298409902720c101060000000080008000800080008000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-07",
+    "name_index": 7,
+    "english": "Peddler",
+    "french": "Colporteur",
+    "french_in_game": "Colporteur",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x95807",
+        "stock": 52,
+        "descriptor_offset": "0x2e6a31",
+        "context_hex": "00000103fd150807fd803401"
+      },
+      {
+        "script_offset": "0xa3ac3",
+        "stock": 93,
+        "descriptor_offset": "0x2e6bf4",
+        "context_hex": "00000101fd150807fd805d01"
+      },
+      {
+        "script_offset": "0xb9a1f",
+        "stock": 61,
+        "descriptor_offset": "0x2e6a94",
+        "context_hex": "00000154fd150807fd803d01"
+      },
+      {
+        "script_offset": "0xb9b4a",
+        "stock": 65,
+        "descriptor_offset": "0x2e6ac0",
+        "context_hex": "00000102fd150807fd804101"
+      },
+      {
+        "script_offset": "0xba4a0",
+        "stock": 69,
+        "descriptor_offset": "0x2e6aec",
+        "context_hex": "00000106fd150807fd804501"
+      },
+      {
+        "script_offset": "0xbf8c6",
+        "stock": 15,
+        "descriptor_offset": "0x2e689a",
+        "context_hex": "00000101fd150807fd800f01"
+      },
+      {
+        "script_offset": "0xc2121",
+        "stock": 24,
+        "descriptor_offset": "0x2e68fd",
+        "context_hex": "0000010afd150807fd801801"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0700",
+        "tiles": 10,
+        "french": "Colporteur",
+        "pixels": 46,
+        "source_hex": "10e04890489312e4408742844083000002040204821c52a552a51225429c00001428142814e9952a942b952a14e9000000000000429c295228d0081028d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-08",
+    "name_index": 8,
+    "english": "Skedaddle!",
+    "french": "Déguerpis !",
+    "french_in_game": "Déguerpis !",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xc1811",
+        "stock": 25,
+        "descriptor_offset": "0x2e6908",
+        "context_hex": "00000114fd150807fd801901"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0800",
+        "tiles": 10,
+        "french": "Déguerpis !",
+        "pixels": 48,
+        "source_hex": "12644a944284126509164a95126400000000000044989225023d9021429c00001020102010e794299429942910e70000040804088439a54aa54aa54a843900002850285028d32a5428572a5428d3000010201020902050a050a0000050a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-09",
+    "name_index": 9,
+    "english": "Armor Store",
+    "french": "Boutique d'armures",
+    "french_in_game": "Armures",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xc170c",
+        "stock": 26,
+        "descriptor_offset": "0x2e6913",
+        "context_hex": "00000105fd150807fd801a01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0900",
+        "tiles": 10,
+        "french": "Armures",
+        "pixels": 37,
+        "source_hex": "10201020285329520972458a458a000000000000419e2a550a150a150a150000000000000833a54aa54aa54a89320000000302044284204300000204000300008810489004398912499249928811000000000000429c29522850285048900000000000001060489008f0408008700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-10",
+    "name_index": 10,
+    "english": "Weapon Store",
+    "french": "Armurerie",
+    "french_in_game": "Armurerie",
+    "new_distinct_source": false,
+    "canonical_alias": "SHOPNAME-01",
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5d965",
+        "stock": 27,
+        "descriptor_offset": "0x2e691e",
+        "context_hex": "0120001e12535d09fd801b01"
+      },
+      {
+        "script_offset": "0xc17be",
+        "stock": 27,
+        "descriptor_offset": "0x2e691e",
+        "context_hex": "00000110fd150807fd801b01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0a00",
+        "tiles": 10,
+        "french": "Armurerie",
+        "pixels": 44,
+        "source_hex": "448844884489458a54ab25da4489000000000000418e295229d2091221ce00000000000010e34a944a9412e44083408000000000843852a452a452a49224000008312449204308310409244908310000800080004499922592259225841900000000000021c69429800f840880070000000000000000800080000000800000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-11",
+    "name_index": 11,
+    "english": "Manju Shop",
+    "french": "Manjus",
+    "french_in_game": "Manjus",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xc1868",
+        "stock": 28,
+        "descriptor_offset": "0x2e6929",
+        "context_hex": "00000118fd150807fd801c01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0b00",
+        "tiles": 10,
+        "french": "Manjus",
+        "pixels": 29,
+        "source_hex": "448824d854a9458a458a458a448900000000000022dc29522952295229d20000204000002952295229522952214e4080041912251021041902051225041900008000800021c694299429942991260000000000000870a448a44888702040204000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-12",
+    "name_index": 12,
+    "english": "Chestnuttery",
+    "french": "Châtaignes",
+    "french_in_game": "Châtaignes",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xc1760",
+        "stock": 29,
+        "descriptor_offset": "0x2e6934",
+        "context_hex": "08110109fd150807fd801d01"
+      },
+      {
+        "script_offset": "0xc1771",
+        "stock": 30,
+        "descriptor_offset": "0x2e693f",
+        "context_hex": "040f010cfd150807fd801e01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0c00",
+        "tiles": 10,
+        "french": "Châtaignes",
+        "pixels": 46,
+        "source_hex": "12644a944087428442844a941264000000000000841852a542bc50a0429d00000204020411ee820422c4122422c400000000000012e44a944a944a94489300000811081144bb489148914891489100008000800044999225823d9021821d00000000000024c994298409800780010106000000008000800080008000800000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-14",
+    "name_index": 14,
+    "english": "General Store",
+    "french": "Magasin général",
+    "french_in_game": "Mag. général",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xc16b9",
+        "stock": 32,
+        "descriptor_offset": "0x2e6955",
+        "context_hex": "00000101fd150807fd802001"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0e00",
+        "tiles": 10,
+        "french": "Mag. général",
+        "pixels": 54,
+        "source_hex": "1060489040834ab448974a941063000000000000843852a552a5122552a400000000000021ce942914e8840814e8000001020102053aa54a254a254a053a0000041812241021041802041224041800004080408022cc499249924992428c00000000000010e34a944087428440830000000000008000408040800000408000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-15",
+    "name_index": 15,
+    "english": "Odds and Ends",
+    "french": "Bric-à-brac",
+    "french_in_game": "Bric-à-brac",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x77582",
+        "stock": 1,
+        "descriptor_offset": "0x2e6800",
+        "context_hex": "57000158fd150807fd800101"
+      },
+      {
+        "script_offset": "0x94cdc",
+        "stock": 40,
+        "descriptor_offset": "0x2e69ad",
+        "context_hex": "00000102fd150807fd802801"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d0f00",
+        "tiles": 10,
+        "french": "Bric-à-brac",
+        "pixels": 50,
+        "source_hex": "087044884489458a458a458a087100002142214221ce29522952295221ce000000000000087040811061081110e000000000000011ee94299429942914e90000040804080438a448a448a4488438000008f04080408712e4428442840af4000002040204821c52a552a452a4429d00000000000010e0800020c0102020c000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-16",
+    "name_index": 16,
+    "english": "Liquor Store",
+    "french": "Spiritueux",
+    "french_in_game": "Spiritueux",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5dfdc",
+        "stock": 116,
+        "descriptor_offset": "0x2e6cf1",
+        "context_hex": "05000144fd150807fd807401"
+      },
+      {
+        "script_offset": "0x98785",
+        "stock": 45,
+        "descriptor_offset": "0x2e69e4",
+        "context_hex": "03000104fd150807fd802d01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1000",
+        "tiles": 10,
+        "french": "Spiritueux",
+        "pixels": 44,
+        "source_hex": "4284408042844285428542840af400000000000014e99429942914e910271020000000008833a54aa54aa54a89320000000302044284204300000204000300008810489004398912499249928811000000000000429c29522850285048900000000000001060489008f0408008700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-17",
+    "name_index": 17,
+    "english": "Crab Store",
+    "french": "Crabes",
+    "french_in_game": "Crabes",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0xb8e9a",
+        "stock": 59,
+        "descriptor_offset": "0x2e6a7e",
+        "context_hex": "00000111fd150805fd803b04"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1100",
+        "tiles": 10,
+        "french": "Crabes",
+        "pixels": 30,
+        "source_hex": "106048904087428442844a941264000000010001821d52a512251225021d00008001810221c290219020912220c1000044882448021c448924492449448800000000000021ce94299428942824c80000000000000830a448047820400438000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-18",
+    "name_index": 18,
+    "english": "Souvenir Shop",
+    "french": "Souvenirs",
+    "french_in_game": "Souvenirs",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x8b3d8",
+        "stock": 87,
+        "descriptor_offset": "0x2e6bb2",
+        "context_hex": "00000130fd150807fd805701"
+      },
+      {
+        "script_offset": "0x8b3e8",
+        "stock": 87,
+        "descriptor_offset": "0x2e6bb2",
+        "context_hex": "32000133fd150807fd805701"
+      },
+      {
+        "script_offset": "0x8b41c",
+        "stock": 88,
+        "descriptor_offset": "0x2e6bbd",
+        "context_hex": "01000137fd150807fd805801"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1200",
+        "tiles": 10,
+        "french": "Souvenirs",
+        "pixels": 42,
+        "source_hex": "10604890408312640a144a941063000000000000922552a552a552a5821d00000000000091269429902fa44840870000010200000972a54aa54a254aa54a00000000000110e14890408040814080000024c89428810e24c91429942924c90000000000000833a54aa54aa44b89320102000000004080204020404080000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-20",
+    "name_index": 20,
+    "english": "Toy Store",
+    "french": "Jouets",
+    "french_in_game": "Jouets",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5dfb0",
+        "stock": 105,
+        "descriptor_offset": "0x2e6c78",
+        "context_hex": "05000141fd150807fd806901"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1400",
+        "tiles": 10,
+        "french": "Jouets",
+        "pixels": 28,
+        "source_hex": "04f8102010211122112211221021000000000000499229522952214e4182020c041812241021041802041224041800004080408022cc499249924992428c00000000000010e34a9440874284408300000000000080004080408000004080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-21",
+    "name_index": 21,
+    "english": "Talisman Shop",
+    "french": "Talismans",
+    "french_in_game": "Talismans",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e008",
+        "stock": 106,
+        "descriptor_offset": "0x2e6c83",
+        "context_hex": "05000147fd150807fd806a01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1500",
+        "tiles": 10,
+        "french": "Talismans",
+        "pixels": 41,
+        "source_hex": "04f810201021112211221122102100000a1408102ad42a552a542a542ad500000000000010ef850a25ca152a25ca000000000000821d52a552a552a5429d00000001010221c29021902091229021000048902850021c499229522952499200000000000010674a944a94489712640204000000008000408040808000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-22",
+    "name_index": 22,
+    "english": "Necklace Shop",
+    "french": "Colliers",
+    "french_in_game": "Colliers",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e128",
+        "stock": 107,
+        "descriptor_offset": "0x2e6c8e",
+        "context_hex": "0000015cfd150807fd806b01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1600",
+        "tiles": 10,
+        "french": "Colliers",
+        "pixels": 31,
+        "source_hex": "448824c854a9459a448b458a4489000000000000428c295228d0091222cc0000428442844a9452a522c552a54a9400000000000011e694299428942911e60000000000000830a4480478a0400438000012644a94408712640a144a941264000000000000841952a552a552a5449900010000000020c09020902020c0800080000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-23",
+    "name_index": 23,
+    "english": "Fan Shop",
+    "french": "Éventails",
+    "french_in_game": "Éventails",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e14a",
+        "stock": 108,
+        "descriptor_offset": "0x2e6c99",
+        "context_hex": "0000015ffd150807fd806c01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1700",
+        "tiles": 10,
+        "french": "Éventails",
+        "pixels": 38,
+        "source_hex": "08f04080408312e442844284408300000000000044b852a452a452a452a400000932254a20430932050a254a0932000000000000428c295229522952224c00000000000010e04890489010e0408040800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-24",
+    "name_index": 24,
+    "english": "Ring Shop",
+    "french": "Bagues",
+    "french_in_game": "Bagues",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e0b8",
+        "stock": 109,
+        "descriptor_offset": "0x2e6ca4",
+        "context_hex": "05000153fd150807fd806d01"
+      },
+      {
+        "script_offset": "0x5e0e4",
+        "stock": 109,
+        "descriptor_offset": "0x2e6ca4",
+        "context_hex": "05000156fd150807fd806d01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1800",
+        "tiles": 10,
+        "french": "Bagues",
+        "pixels": 30,
+        "source_hex": "12e448904a9512e54a954a954a9500000000000020c794299429902790210106020c09128810820c81028912820c00004080408010e34a944a944a944893000000000000843852a452a444b8902010200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-25",
+    "name_index": 25,
+    "english": "Shady Shop",
+    "french": "Boutique louche",
+    "french_in_game": "Bout. louche",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e16c",
+        "stock": 111,
+        "descriptor_offset": "0x2e6cba",
+        "context_hex": "00000162fd150807fd806f01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1900",
+        "tiles": 10,
+        "french": "Bout. louche",
+        "pixels": 52,
+        "source_hex": "12644a94408712640a144a941264000000000000821c52a552a552a5429c00001020102014e994299429902710e10106020c09128810820c81028912820c00004080408010e34a944a944a944893000000000000843852a452a444b89020102000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-26",
+    "name_index": 26,
+    "english": "Powder Shop",
+    "french": "Poudres",
+    "french_in_game": "Poudres",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5df84",
+        "stock": 112,
+        "descriptor_offset": "0x2e6cc5",
+        "context_hex": "0500013efd150807fd807001"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1a00",
+        "tiles": 10,
+        "french": "Poudres",
+        "pixels": 35,
+        "source_hex": "10e04890489312e4428442844083000000000000912251a251a255aa8a1400000810081008734a9448974a940873000000000000843852a450a0102050a000000932254a20430932050a254a0932000000000000428c295229522952224c00000000000010e04890489010e040804080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-27",
+    "name_index": 27,
+    "english": "Inlay Shop",
+    "french": "Incrustations",
+    "french_in_game": "Incrustations",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e192",
+        "stock": 113,
+        "descriptor_offset": "0x2e6cd0",
+        "context_hex": "00000165fd150807fd807101"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1b00",
+        "tiles": 10,
+        "french": "Incrustations",
+        "pixels": 59,
+        "source_hex": "448824d854a9458a458a458a448900000000000029d229522952214e21c2020c041912251021041902051225041900008000800021c694299429942991260000000000000870a448a4488870204020400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-28",
+    "name_index": 28,
+    "english": "Dango Shop",
+    "french": "Dangos",
+    "french_in_game": "Dangos",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5e08c",
+        "stock": 114,
+        "descriptor_offset": "0x2e6cdb",
+        "context_hex": "05000150fd150807fd807201"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1c00",
+        "tiles": 10,
+        "french": "Dangos",
+        "pixels": 30,
+        "source_hex": "10e0489048934a944a944a9410e300000000000044b852a552a552a452a400000000000011e69429942914e9112620c0020c09120810820c81028912020c00004080408010e34a944a944a944893000000000000843852a452a444b89020102000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-29",
+    "name_index": 29,
+    "english": "Bakuzan's Shop",
+    "french": "Chez Bakuzan",
+    "french_in_game": "Chez Bakuzan",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x5df48",
+        "stock": 115,
+        "descriptor_offset": "0x2e6ce6",
+        "context_hex": "081fffd64a212505fd8073ff"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1d00",
+        "tiles": 10,
+        "french": "Chez Bakuzan",
+        "pixels": 59,
+        "source_hex": "10e04890489312e44a944a9410e300001020102052a554a948b154a952a4000000000000902f91229224942810ef000000000000843b254a254a254a853a000008100810408322442043204020470000010604094488010680014489810600002040a0400871254aa54aa54a2449000000000000429c29522952225c489008100000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-30",
+    "name_index": 30,
+    "english": "Great Weapon Shop",
+    "french": "Grande armurerie",
+    "french_in_game": "Gde armurerie",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x95e05",
+        "stock": 49,
+        "descriptor_offset": "0x2e6a10",
+        "context_hex": "00000101fd150807fd803101"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1e00",
+        "tiles": 10,
+        "french": "Gde armurerie",
+        "pixels": 62,
+        "source_hex": "1060489040874ab44a944a941264000000000000841852a5023d1021021c00000204020411ee92249224922412e400001122112211221122152a0936112200000000000010634a940af44284087300000000000044b852a552a544b950a010200000000021ce94299429942924c90000020c09120810820c81028912820c00004080408010e34a944a944a944893000000000000843852a452a444b890201020"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  },
+  {
+    "id": "SHOPNAME-31",
+    "name_index": 31,
+    "english": "Imoda's Shop",
+    "french": "Chez Imoda",
+    "french_in_game": "Chez Imoda",
+    "new_distinct_source": true,
+    "canonical_alias": null,
+    "ordinary_stock_consumers": [
+      {
+        "script_offset": "0x57cad",
+        "stock": 122,
+        "descriptor_offset": "0x2e6d33",
+        "context_hex": "0a02010a00440807fd807a01"
+      }
+    ],
+    "strips": [
+      {
+        "offset": "0x6d1f00",
+        "tiles": 10,
+        "french": "Chez Imoda",
+        "pixels": 49,
+        "source_hex": "10e02040204f254a254a254a15ea000000000000821c52a552a552a5429c00001020102010e794299429942910e7000020402040810e8810820c8102821c0000041912251021041902051225041900008000800021c694299429942991260000000000000870a448a448887020402040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "status": "Prepared against pinned V55,combined build/native/PPU pending"
+  }
+]

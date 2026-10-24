@@ -1,0 +1,397 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "getter_executions": 65,
+  "cases": [
+    {
+      "actor": 0,
+      "attribute": 0,
+      "address": "0x1777",
+      "value": 37
+    },
+    {
+      "actor": 0,
+      "attribute": 1,
+      "address": "0x1778",
+      "value": 56
+    },
+    {
+      "actor": 0,
+      "attribute": 2,
+      "address": "0x1779",
+      "value": 75
+    },
+    {
+      "actor": 0,
+      "attribute": 3,
+      "address": "0x177a",
+      "value": 94
+    },
+    {
+      "actor": 0,
+      "attribute": 4,
+      "address": "0x177b",
+      "value": 113
+    },
+    {
+      "actor": 1,
+      "attribute": 0,
+      "address": "0x177e",
+      "value": 170
+    },
+    {
+      "actor": 1,
+      "attribute": 1,
+      "address": "0x177f",
+      "value": 189
+    },
+    {
+      "actor": 1,
+      "attribute": 2,
+      "address": "0x1780",
+      "value": 208
+    },
+    {
+      "actor": 1,
+      "attribute": 3,
+      "address": "0x1781",
+      "value": 227
+    },
+    {
+      "actor": 1,
+      "attribute": 4,
+      "address": "0x1782",
+      "value": 246
+    },
+    {
+      "actor": 2,
+      "attribute": 0,
+      "address": "0x1785",
+      "value": 47
+    },
+    {
+      "actor": 2,
+      "attribute": 1,
+      "address": "0x1786",
+      "value": 66
+    },
+    {
+      "actor": 2,
+      "attribute": 2,
+      "address": "0x1787",
+      "value": 85
+    },
+    {
+      "actor": 2,
+      "attribute": 3,
+      "address": "0x1788",
+      "value": 104
+    },
+    {
+      "actor": 2,
+      "attribute": 4,
+      "address": "0x1789",
+      "value": 123
+    },
+    {
+      "actor": 3,
+      "attribute": 0,
+      "address": "0x178c",
+      "value": 180
+    },
+    {
+      "actor": 3,
+      "attribute": 1,
+      "address": "0x178d",
+      "value": 199
+    },
+    {
+      "actor": 3,
+      "attribute": 2,
+      "address": "0x178e",
+      "value": 218
+    },
+    {
+      "actor": 3,
+      "attribute": 3,
+      "address": "0x178f",
+      "value": 237
+    },
+    {
+      "actor": 3,
+      "attribute": 4,
+      "address": "0x1790",
+      "value": 0
+    },
+    {
+      "actor": 4,
+      "attribute": 0,
+      "address": "0x1793",
+      "value": 57
+    },
+    {
+      "actor": 4,
+      "attribute": 1,
+      "address": "0x1794",
+      "value": 76
+    },
+    {
+      "actor": 4,
+      "attribute": 2,
+      "address": "0x1795",
+      "value": 95
+    },
+    {
+      "actor": 4,
+      "attribute": 3,
+      "address": "0x1796",
+      "value": 114
+    },
+    {
+      "actor": 4,
+      "attribute": 4,
+      "address": "0x1797",
+      "value": 133
+    },
+    {
+      "actor": 5,
+      "attribute": 0,
+      "address": "0x179a",
+      "value": 190
+    },
+    {
+      "actor": 5,
+      "attribute": 1,
+      "address": "0x179b",
+      "value": 209
+    },
+    {
+      "actor": 5,
+      "attribute": 2,
+      "address": "0x179c",
+      "value": 228
+    },
+    {
+      "actor": 5,
+      "attribute": 3,
+      "address": "0x179d",
+      "value": 247
+    },
+    {
+      "actor": 5,
+      "attribute": 4,
+      "address": "0x179e",
+      "value": 10
+    },
+    {
+      "actor": 6,
+      "attribute": 0,
+      "address": "0x17a1",
+      "value": 67
+    },
+    {
+      "actor": 6,
+      "attribute": 1,
+      "address": "0x17a2",
+      "value": 86
+    },
+    {
+      "actor": 6,
+      "attribute": 2,
+      "address": "0x17a3",
+      "value": 105
+    },
+    {
+      "actor": 6,
+      "attribute": 3,
+      "address": "0x17a4",
+      "value": 124
+    },
+    {
+      "actor": 6,
+      "attribute": 4,
+      "address": "0x17a5",
+      "value": 143
+    },
+    {
+      "actor": 7,
+      "attribute": 0,
+      "address": "0x17a8",
+      "value": 200
+    },
+    {
+      "actor": 7,
+      "attribute": 1,
+      "address": "0x17a9",
+      "value": 219
+    },
+    {
+      "actor": 7,
+      "attribute": 2,
+      "address": "0x17aa",
+      "value": 238
+    },
+    {
+      "actor": 7,
+      "attribute": 3,
+      "address": "0x17ab",
+      "value": 1
+    },
+    {
+      "actor": 7,
+      "attribute": 4,
+      "address": "0x17ac",
+      "value": 20
+    },
+    {
+      "actor": 8,
+      "attribute": 0,
+      "address": "0x17af",
+      "value": 77
+    },
+    {
+      "actor": 8,
+      "attribute": 1,
+      "address": "0x17b0",
+      "value": 96
+    },
+    {
+      "actor": 8,
+      "attribute": 2,
+      "address": "0x17b1",
+      "value": 115
+    },
+    {
+      "actor": 8,
+      "attribute": 3,
+      "address": "0x17b2",
+      "value": 134
+    },
+    {
+      "actor": 8,
+      "attribute": 4,
+      "address": "0x17b3",
+      "value": 153
+    },
+    {
+      "actor": 9,
+      "attribute": 0,
+      "address": "0x17b6",
+      "value": 210
+    },
+    {
+      "actor": 9,
+      "attribute": 1,
+      "address": "0x17b7",
+      "value": 229
+    },
+    {
+      "actor": 9,
+      "attribute": 2,
+      "address": "0x17b8",
+      "value": 248
+    },
+    {
+      "actor": 9,
+      "attribute": 3,
+      "address": "0x17b9",
+      "value": 11
+    },
+    {
+      "actor": 9,
+      "attribute": 4,
+      "address": "0x17ba",
+      "value": 30
+    },
+    {
+      "actor": 10,
+      "attribute": 0,
+      "address": "0x17bd",
+      "value": 87
+    },
+    {
+      "actor": 10,
+      "attribute": 1,
+      "address": "0x17be",
+      "value": 106
+    },
+    {
+      "actor": 10,
+      "attribute": 2,
+      "address": "0x17bf",
+      "value": 125
+    },
+    {
+      "actor": 10,
+      "attribute": 3,
+      "address": "0x17c0",
+      "value": 144
+    },
+    {
+      "actor": 10,
+      "attribute": 4,
+      "address": "0x17c1",
+      "value": 163
+    },
+    {
+      "actor": 11,
+      "attribute": 0,
+      "address": "0x17c4",
+      "value": 220
+    },
+    {
+      "actor": 11,
+      "attribute": 1,
+      "address": "0x17c5",
+      "value": 239
+    },
+    {
+      "actor": 11,
+      "attribute": 2,
+      "address": "0x17c6",
+      "value": 2
+    },
+    {
+      "actor": 11,
+      "attribute": 3,
+      "address": "0x17c7",
+      "value": 21
+    },
+    {
+      "actor": 11,
+      "attribute": 4,
+      "address": "0x17c8",
+      "value": 40
+    },
+    {
+      "actor": 12,
+      "attribute": 0,
+      "address": "0x17cb",
+      "value": 97
+    },
+    {
+      "actor": 12,
+      "attribute": 1,
+      "address": "0x17cc",
+      "value": 116
+    },
+    {
+      "actor": 12,
+      "attribute": 2,
+      "address": "0x17cd",
+      "value": 135
+    },
+    {
+      "actor": 12,
+      "attribute": 3,
+      "address": "0x17ce",
+      "value": 154
+    },
+    {
+      "actor": 12,
+      "attribute": 4,
+      "address": "0x17cf",
+      "value": 173
+    }
+  ],
+  "scope": "Execute FE-F4's native weakness-byte getter for13 actors and5 attributes.\nFinite address/value test only;does not execute full View event/PPU branches.\n"
+}

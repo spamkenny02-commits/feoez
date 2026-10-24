@@ -1,0 +1,740 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "captures": [
+    {
+      "id": "boot/after_a",
+      "sheet": "context_01.png",
+      "pixels_sha256": "2cbbeef1249170a43854962fa5b19fba628470c70beb9ce23e15a0f05cb891f2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_a_wait",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ec3fc4631b0009243700b78fac6f5effb3d7c75df9b9ba32a58dd879796c2656",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_birthday",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_checks",
+      "sheet": "context_01.png",
+      "pixels_sha256": "59f6b3ae56d5d3af63e73b1b8345c23ab995f86525617dc4bd19fc0ae8ff15d2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_confirm_yes",
+      "sheet": "context_01.png",
+      "pixels_sha256": "cdb17fb768242155b3280937d84f6faf3afaaae8a465e442bafcd82c4148b488",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_reset_a",
+      "sheet": "context_01.png",
+      "pixels_sha256": "01d0449663366898eb0ffebaeff467d0ee0d44f43703cd7468a53bcd0104adb9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/after_up_confirm",
+      "sheet": "context_01.png",
+      "pixels_sha256": "2aa15dcf1e966ed4a684a804187f57b638df1c507bad6d00a32f2895c82c1f2d",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birth_step1",
+      "sheet": "context_01.png",
+      "pixels_sha256": "e27a1306f03c41d1b1cfc4f8858cb8544fc077a8fd279ecb0965de4e5467c989",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birth_step2",
+      "sheet": "context_01.png",
+      "pixels_sha256": "9459538af30eddf7a33ae8e82b76f11356f36f2124563ff859bea0ba6a139f10",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birth_step3",
+      "sheet": "context_01.png",
+      "pixels_sha256": "cf0e7148a2a1dd857e060436ce65911b8164aad05f8bafc3bdee3439052806ce",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birth_step4",
+      "sheet": "context_01.png",
+      "pixels_sha256": "a3fd99614ec6dee6653bb4d1ece21b2b860d70262ad6fd839a1faaeb28b883be",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birth_step5",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ecd41e1c1cf02a3586a01ca9c519e915c22061e2db596e9b470a74612cdd7d60",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_choice_confirm",
+      "sheet": "context_02.png",
+      "pixels_sha256": "ef607358b5df68d16387322241804372b39bdfd112a95434e21be5cf2f2814f8",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_choice_up",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_confirm_result",
+      "sheet": "context_02.png",
+      "pixels_sha256": "8a606cdf72882655b621d6d414c95263938d58b87741fc6abe0c8c9c26dddafb",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_finished",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_question",
+      "sheet": "context_02.png",
+      "pixels_sha256": "81db77ffa5211fe4623b7540e102013975e2162b2b0eaec0687bb6483159f16a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_question_right",
+      "sheet": "context_02.png",
+      "pixels_sha256": "cf0e7148a2a1dd857e060436ce65911b8164aad05f8bafc3bdee3439052806ce",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_right_again",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_right_twice",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_yes_a",
+      "sheet": "context_02.png",
+      "pixels_sha256": "e27a1306f03c41d1b1cfc4f8858cb8544fc077a8fd279ecb0965de4e5467c989",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_yes_b",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4e4f5c2dec20c6b4e8257c75b3f6d258c10077c2ff88fa24363ff238d04b0493",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/birthday_yes_selected",
+      "sheet": "context_02.png",
+      "pixels_sha256": "ef607358b5df68d16387322241804372b39bdfd112a95434e21be5cf2f2814f8",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/boot",
+      "sheet": "context_02.png",
+      "pixels_sha256": "55d29552059e289c43be4aece8171a9673705f0bd19966e24c8ce733f68f6804",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/button_L",
+      "sheet": "context_03.png",
+      "pixels_sha256": "82ffa77a839944abd2922307415de1dfa3020d7706cd53a2329af6cb9369cfa1",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/button_R",
+      "sheet": "context_03.png",
+      "pixels_sha256": "82ffa77a839944abd2922307415de1dfa3020d7706cd53a2329af6cb9369cfa1",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/button_Select",
+      "sheet": "context_03.png",
+      "pixels_sha256": "2cbbeef1249170a43854962fa5b19fba628470c70beb9ce23e15a0f05cb891f2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/button_Start",
+      "sheet": "context_03.png",
+      "pixels_sha256": "811b4270b99ae725914a273fff7340216f6ca1b166a2e8dee2fc4d69683fe938",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/check_a",
+      "sheet": "context_03.png",
+      "pixels_sha256": "94da01ee411f6cc89150f0a0adf17086ac1ad63998d138f9eb83800ae6860d3a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/check_b",
+      "sheet": "context_03.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/choose_game",
+      "sheet": "context_03.png",
+      "pixels_sha256": "3f63336908b2513ac75557742bbc5b4dae65316b41b7825cd6cfa4afba04e2d9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/clock_b_result",
+      "sheet": "context_03.png",
+      "pixels_sha256": "81db77ffa5211fe4623b7540e102013975e2162b2b0eaec0687bb6483159f16a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/clock_done",
+      "sheet": "context_03.png",
+      "pixels_sha256": "460fa6260f6c9f1bcb98b908fc40edf8ecd410939d27526244396b63f03397a0",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/clock_start",
+      "sheet": "context_03.png",
+      "pixels_sha256": "2aa15dcf1e966ed4a684a804187f57b638df1c507bad6d00a32f2895c82c1f2d",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/clock_wait",
+      "sheet": "context_03.png",
+      "pixels_sha256": "a5316cf74634970b2941ef2cfa0e9ebd30cb1c131eb180c32514365d984f3241",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/close_field_menu",
+      "sheet": "context_03.png",
+      "pixels_sha256": "69357e3c085e620ec8b101b71510674cafb1e0068a137482ba83a3239728a9ae",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/confirm_left",
+      "sheet": "context_04.png",
+      "pixels_sha256": "3f63336908b2513ac75557742bbc5b4dae65316b41b7825cd6cfa4afba04e2d9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/context_menu_a",
+      "sheet": "context_04.png",
+      "pixels_sha256": "50f62eedb5429d6d5a65357d16a798c140314f984838ca4fd507678013acec41",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/context_menu_b",
+      "sheet": "context_04.png",
+      "pixels_sha256": "572d8fe2908eb328b5464e331069d6b0d55ace144e1daa9d65f4bf995c1e46b2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/date_confirmed",
+      "sheet": "context_04.png",
+      "pixels_sha256": "3f63336908b2513ac75557742bbc5b4dae65316b41b7825cd6cfa4afba04e2d9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/date_setup",
+      "sheet": "context_04.png",
+      "pixels_sha256": "be6bfedfd8c197d79c427a83bde803ffe2ee228236556bd1cb597c152c611325",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/dialogue_next",
+      "sheet": "context_04.png",
+      "pixels_sha256": "312d79440adba11ce12d6e494c588bc9f77ff57e1e1aee832277a9be7449348d",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/field_command_a",
+      "sheet": "context_04.png",
+      "pixels_sha256": "7561bfdd8aef0996c332064b27e9922c04f446087d45db2aa0b64947e8bdf979",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/field_command_b",
+      "sheet": "context_04.png",
+      "pixels_sha256": "713e1c6e2afc1f93ab8b9656f6def5d4b86342c6ac4e3e4ae4678d05f9bc91a6",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/field_command_y",
+      "sheet": "context_04.png",
+      "pixels_sha256": "d8d33263408d5095aafe6c512a6ef9342618f23172ac4aecb8a0337a985a6486",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/field_menu_x",
+      "sheet": "context_04.png",
+      "pixels_sha256": "532e6b8e92eb2f884968560310b7027300482dfad9e5c246beef4d41ae233293",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/field_menu_y",
+      "sheet": "context_04.png",
+      "pixels_sha256": "9e618612ab5655a94aa5006352f1be085e742c7acf14f11138dc885f7599e3cb",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/file_select",
+      "sheet": "context_04.png",
+      "pixels_sha256": "6cb1fc812808706ff37b2449b0a332d14f509998efa0f0681bf688cb762bc88e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/first_room",
+      "sheet": "context_05.png",
+      "pixels_sha256": "b73c36a5dbdc3f0df968cff2fbe270b49050a51bb12c94bb96380035ab6fb01b",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/game_menu",
+      "sheet": "context_05.png",
+      "pixels_sha256": "d44cfcff6714351b865ab34f00419f4408c14419080f580b504c0c936f8208c7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/map_full",
+      "sheet": "context_05.png",
+      "pixels_sha256": "7172da61b523eccdb5762a2dd0a69deb0c49cefd3ce17f4cd7ef5e12f6003ef8",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_a",
+      "sheet": "context_05.png",
+      "pixels_sha256": "2cbbeef1249170a43854962fa5b19fba628470c70beb9ce23e15a0f05cb891f2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_after_family",
+      "sheet": "context_05.png",
+      "pixels_sha256": "1ff2bb9cd6736b8aa1c0499d530e9784f114bb7e5f26992b58a9fd75138f8846",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_after_intro",
+      "sheet": "context_05.png",
+      "pixels_sha256": "50c1cc2bd0d05bf8cd9fff592c9bbb36f47dedab55c6b4f705f4fd1ffcfaf269",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_ready",
+      "sheet": "context_05.png",
+      "pixels_sha256": "a25b76acf22b9fade0d61a83d476004e3631186b8162ba6b2e4f8e80a1e2fdfd",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_settings_start",
+      "sheet": "context_05.png",
+      "pixels_sha256": "532e6b8e92eb2f884968560310b7027300482dfad9e5c246beef4d41ae233293",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_story_167",
+      "sheet": "context_05.png",
+      "pixels_sha256": "9f3c33a6cf9c65843ff54543118387296a75c0a9d5b40b9de8a68c6082be9a38",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/menu_x",
+      "sheet": "context_05.png",
+      "pixels_sha256": "47d0c48a1a8286184ead7c5988b67ae6d44279d958f68606ee7459b06a62b974",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/move_down",
+      "sheet": "context_05.png",
+      "pixels_sha256": "2cbbeef1249170a43854962fa5b19fba628470c70beb9ce23e15a0f05cb891f2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/new_game_menu",
+      "sheet": "context_05.png",
+      "pixels_sha256": "3f63336908b2513ac75557742bbc5b4dae65316b41b7825cd6cfa4afba04e2d9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/post_shrine",
+      "sheet": "context_06.png",
+      "pixels_sha256": "fd0bd663d2322a049d789b47420417543567af1d875f8261892a0c6052e1712e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/post_story_122",
+      "sheet": "context_06.png",
+      "pixels_sha256": "ac6a16aae1401e78918ea3a1d859c3de2d82f013cda6ece7990c77e7fc741be0",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/question_again",
+      "sheet": "context_06.png",
+      "pixels_sha256": "3f63336908b2513ac75557742bbc5b4dae65316b41b7825cd6cfa4afba04e2d9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/question_right",
+      "sheet": "context_06.png",
+      "pixels_sha256": "c78914eb1fc24820b00f592806f793591efe9b1fafe9c49ae4895ec28897505e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/question_up",
+      "sheet": "context_06.png",
+      "pixels_sha256": "c78914eb1fc24820b00f592806f793591efe9b1fafe9c49ae4895ec28897505e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/return_from_map",
+      "sheet": "context_06.png",
+      "pixels_sha256": "04bacc418262163b82523dfff9165fcc790e7bd9f434df5cfe1716a481aa90bb",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/right_confirm_result",
+      "sheet": "context_06.png",
+      "pixels_sha256": "a3e6618df5d6cff5dd78ac68f9780b977a1601bb5c5976ea4a54b3c41b092b2e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/room_dialogues_done",
+      "sheet": "context_06.png",
+      "pixels_sha256": "2d68b0e9ebe0144b900849f4124cb6b36855571933e07a73216a59056fc4ec62",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/select_screen",
+      "sheet": "context_06.png",
+      "pixels_sha256": "3e262e545bba0375f8c78017c08f8f9b6a7c16fd41f9d405c36fb31320e65ada",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/settings_lower",
+      "sheet": "context_06.png",
+      "pixels_sha256": "d1a9ae2966ff0f9983191db365984a2b72bd55b68f83d89aa9d16df8147089da",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/settings_open",
+      "sheet": "context_06.png",
+      "pixels_sha256": "fd70c52df17927dc4ae8caab1e05886717543abaf8f3ca28aeacb8ca189c5aea",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/settings_selected",
+      "sheet": "context_06.png",
+      "pixels_sha256": "a6439f99e77d38275c506e4951419bdcd0e63bb309d788f660ac1854f00abc5d",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/start_menu",
+      "sheet": "context_07.png",
+      "pixels_sha256": "29e0bc56bedd602cb1c3b3bf516666b021d1d910cfd587df0f7c593f4d7c2191",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/start_story",
+      "sheet": "context_07.png",
+      "pixels_sha256": "9f2feb6c6047290b164cbd7e48b04937b3184a420bbba3214a5d03260d057ee1",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_12",
+      "sheet": "context_07.png",
+      "pixels_sha256": "bc4e3564fb77ec3828c0d32aaf2224310aefeedae18d10110ba48c2a7060a789",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_122",
+      "sheet": "context_07.png",
+      "pixels_sha256": "da8212c35d1a0825bba44e3a5b6cb668318544f62e828eae2cca481e798a808c",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_167",
+      "sheet": "context_07.png",
+      "pixels_sha256": "92b30a737186021a3a7b87372d1784edbcf69d96c1aa972827562e8fef8cd85a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_32",
+      "sheet": "context_07.png",
+      "pixels_sha256": "2cbbeef1249170a43854962fa5b19fba628470c70beb9ce23e15a0f05cb891f2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_62",
+      "sheet": "context_07.png",
+      "pixels_sha256": "4171ca23ca3a377f2d983d6784dc4059369bf9ac72cae730bf6bb6b04b3f8aa5",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_87",
+      "sheet": "context_07.png",
+      "pixels_sha256": "cb5bc9d945517cb37b211c61afc1450767e85e1151c98e09722d8f86d72efc1c",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_or_menu",
+      "sheet": "context_07.png",
+      "pixels_sha256": "96d4fc2003a00fba589c964681467b9fe34638c08f4954f0e17a1284a5cb2626",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/story_transition",
+      "sheet": "context_07.png",
+      "pixels_sha256": "f319d5d1fa032a5d4f2544c6f2b773c164721b9ac9d3edd9884060408f09dcd7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/title_after_intro",
+      "sheet": "context_07.png",
+      "pixels_sha256": "3423df9efc2ca975e9f9a07b6e30c613ce43b4fdcebe90b04e0b5f46969fb622",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/title_idle",
+      "sheet": "context_07.png",
+      "pixels_sha256": "45bd5f3f1cd5e397cb210b36f88cc6d2ee1a3160549ad9817bd74147958e5556",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "boot/title_menu",
+      "sheet": "context_08.png",
+      "pixels_sha256": "95374aeafc4fe50717a2ed6717983a652784f7502fd826e0e391ee20cc2a5758",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_a",
+      "sheet": "context_08.png",
+      "pixels_sha256": "94da01ee411f6cc89150f0a0adf17086ac1ad63998d138f9eb83800ae6860d3a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_01",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_02",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_03",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_04",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_05",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_06",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_07",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_08",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_09",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_10",
+      "sheet": "context_08.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_11",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_12",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_13",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_14",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_15",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_16",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_17",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_18",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_19",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "ab/check_b_20",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9a6646efb4ad9019d688aab14e6f7972f0170a8bb8b6ee5968a15cf0ec7f05e7",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/command_menu",
+      "sheet": "context_09.png",
+      "pixels_sha256": "07389a1678b80a584090cd85be91b183392024f292ac8445690a468092be54f3",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/field_return",
+      "sheet": "context_09.png",
+      "pixels_sha256": "9b95a46ce99824cc64a0943083131450ba9a823d796da2bdc7b8c93e93f682e9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/field_start",
+      "sheet": "context_10.png",
+      "pixels_sha256": "0da3c2d9ef6fda25793518ce5dc7426f9a2a65ba2bb478192c88a70df43ff54e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/main_menu",
+      "sheet": "context_10.png",
+      "pixels_sha256": "f955ec1c9a90104eb7a1a3d1462d2cd4e06b94dcd909a4a3339cc2b2a2427b58",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/map_return",
+      "sheet": "context_10.png",
+      "pixels_sha256": "5ba694ccb13c2cb2dce966af35fe45dac71071aaeb2c3d25b01bffd09eacc78a",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/region_map",
+      "sheet": "context_10.png",
+      "pixels_sha256": "e3bcb127ffd59abbe0e763784fb3c5b89c7402aff85c537070165c576a4b3bb4",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "navigation/settings",
+      "sheet": "context_10.png",
+      "pixels_sha256": "74af96bbec439dbb932bae9cf479930ca2ed7ab4f9b70ddbf24157f70b3d6258",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/cancel",
+      "sheet": "context_10.png",
+      "pixels_sha256": "4d1516d3aa50ad37c61dcbe1b56580c7d619b62a15a4c4b84a7758c62bfcb547",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/choose_bookmark",
+      "sheet": "context_10.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/choose_item",
+      "sheet": "context_10.png",
+      "pixels_sha256": "f1d2194a934a8bab831ce2aa84cfc609353abde820420ee236210e5d61c4ce79",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/next_item",
+      "sheet": "context_10.png",
+      "pixels_sha256": "0445b306eaf0b178f5c8c738a57906e6aaebab0d5a2d966cea009b8499b49b1f",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/use_item",
+      "sheet": "context_10.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_use_retry/use_next",
+      "sheet": "context_10.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "consumable_target/cancel",
+      "sheet": "context_10.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "consumable_target/kusa_selected",
+      "sheet": "context_11.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "consumable_target/target",
+      "sheet": "context_11.png",
+      "pixels_sha256": "4c3a29fb48c85902e77624c3cc1891994888bca9520d3b0d4e69cf28b5ee5ffd",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 11,
+  "visual_review": "All complete context sheets actually read on42a;includes startup/A-reset-B/navigation and ordinary inventory/selector views. Natural selected scenes reviewed where present;not a complete branch/date/song review.",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

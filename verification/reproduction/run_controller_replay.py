@@ -13,7 +13,7 @@ assert ready and ready[0]['source_sha256']==sha(a.rom)
 commands=json.loads(a.commands.read_text());assert commands and commands[0].get('load')=='@FULL_RUN_DIR@/field_verified.state'
 for cmd in commands:
  if 'load' in cmd:cmd['load']=cmd['load'].replace('@FULL_RUN_DIR@',str(a.full_run.resolve()))
- assert set(cmd)<={'load','frames','buttons','screenshot','save','quit','frame','ram'},cmd
+ assert set(cmd)<={'load','frames','buttons','screenshot','save','quit','frame','ram','dump_vram'},cmd
 assert not any('FEOE_TEST_' in k for k in os.environ),'Synthetic text redirection must be disabled'
 a.out.mkdir(parents=True);env=dict(os.environ)
 if a.observe_lookups:env['FEOE_TRACE_LOOKUPS']='1'

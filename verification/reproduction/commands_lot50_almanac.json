@@ -1,0 +1,75 @@
+[
+  {
+    "load": "@FULL_RUN_DIR@/field_verified.state",
+    "frames": 0
+  },
+  {
+    "buttons": [
+      "X"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "main",
+    "dump_vram": "main"
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "row1",
+    "dump_vram": "row1"
+  },
+  {
+    "buttons": [
+      "Down"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "row2",
+    "dump_vram": "row2"
+  },
+  {
+    "buttons": [
+      "Right"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "almanac_selected",
+    "dump_vram": "almanac_selected"
+  },
+  {
+    "buttons": [
+      "A"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "almanac",
+    "dump_vram": "almanac"
+  },
+  {
+    "buttons": [
+      "B"
+    ],
+    "frames": 12
+  },
+  {
+    "frames": 90,
+    "screenshot": "return",
+    "dump_vram": "return"
+  },
+  {
+    "quit": true
+  }
+]

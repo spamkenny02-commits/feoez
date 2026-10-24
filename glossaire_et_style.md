@@ -876,3 +876,18 @@ Les graphismes armes/arme, fragments de vertu et variantes ne sont pas
 plusieurs nouvelles traductions. Le sens contextuel de «Taking Hermit»
 reste à réexaminer pendant la relecture globale ;le choix «Ermite de la
 Victoire» est provisoire, aucune certitude sur le jeu de mots n’est revendiquée.
+
+
+## Lot50 en préparation — boutiques et variantes (aucune livraison)
+
+Weapon Shop/Weapon Store : Armurerie, une seule source nouvelle ;
+Armor Store : Boutique d’armures (Armures) ;General Store : Magasin général
+(Mag. général) ;Shrine Office : Bureau du temple (Bureau temple) ;
+Great Weapon Shop : Grande armurerie (Gde armurerie). Hatchery : Couvoir ;
+Chestnuttery : Châtaignes ;Odds and Ends : Bric-à-brac ;Liquor Store : Spiritueux ;
+Shady Shop : Boutique louche (Bout. louche) ;Inlay Shop : Incrustations ;
+Bakuzan’s Shop/Imoda’s Shop : Chez Bakuzan/Chez Imoda. Ring & Ring reste
+un nom propre inchangé. Singles Tea House reste à relier à son consommateur.
+Les titres graphiques sont chargés sur10tuiles/80px ;les formes complètes
+restent au JSON source. Acheter/Vendre utilisent Ach/Vte sur16px.
+La copie Bookmark de la vente reprend Signet, sans nouveau texte compté.

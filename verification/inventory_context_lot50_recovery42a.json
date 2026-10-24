@@ -1,0 +1,105 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+  "boot_field_state_sha256": "d207ce317fb76c5808fb7adee8cd76cdcccbe355597811f328a0a3c16507d482",
+  "natural_field_state_sha256": "f34bc8b9901653a79fb5aac681e1ca1e4f0cd7f0a0d5372218d1992f0780b6e5",
+  "controller_only": true,
+  "diagnostic_environment_disabled": true,
+  "native_vram_tilemap_checks": [
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d2890",
+      "vram": "0x7490",
+      "tiles": [
+        329,
+        330,
+        331,
+        332
+      ],
+      "column": 2,
+      "row": 13,
+      "exact": true
+    },
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d28e0",
+      "vram": "0x74e0",
+      "tiles": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340
+      ],
+      "column": 2,
+      "row": 3,
+      "exact": true
+    },
+    {
+      "view": "equipment_fiche",
+      "source": "0x6d2a20",
+      "vram": "0x7620",
+      "tiles": [
+        354,
+        355,
+        356,
+        357,
+        358,
+        359
+      ],
+      "column": 2,
+      "row": 7,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d2800",
+      "vram": "0x7400",
+      "tiles": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328
+      ],
+      "column": 2,
+      "row": 3,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d2890",
+      "vram": "0x7490",
+      "tiles": [
+        329,
+        330,
+        331,
+        332
+      ],
+      "column": 2,
+      "row": 13,
+      "exact": true
+    },
+    {
+      "view": "target",
+      "source": "0x6d29b0",
+      "vram": "0x75b0",
+      "tiles": [
+        347,
+        348,
+        349
+      ],
+      "column": 2,
+      "row": 7,
+      "exact": true
+    }
+  ],
+  "visual_review": "14complete ordinary inventory/target/cancel captures actually read on3context sheets with natural/calendar screens;all6native VRAM/tilemap contracts passed. Kusa quantity remains1 after cancellation;no healing/cost proof.",
+  "scope": "Ordinary held-equipment fiche and naturally won consumable target/cancel.\nLoads only fresh same-ROM controller states;no diagnostic environment.\nNo healing effect,cost deduction or unvisited category is claimed.\n"
+}

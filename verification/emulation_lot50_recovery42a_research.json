@@ -1,0 +1,46 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "lot": 50,
+  "new_distinct_sources_prepared": 42,
+  "published": false,
+  "phase": 1,
+  "phase_end_proven": false,
+  "native_reports": [
+    "native_item_graphics_lot50_recovery42a.json",
+    "native_weakness_getters_lot50_recovery42a.json",
+    "native_weakness_lot50_recovery42a.json",
+    "native_scroll_probe_lot50_recovery42a.json",
+    "native_shop_names_lot50_recovery42a.json",
+    "prior55_native_reads_lot50_recovery42a.json"
+  ],
+  "targeted_ppu": {
+    "items": 303,
+    "weakness_banners": 71,
+    "allocated_shop_names": 32,
+    "shop_full_views": 9
+  },
+  "fresh_regression": {
+    "baseline_sha256": "2631d90bd0f2b0ed927055143117525517d06f15f29511439d6e76acdc371e4c",
+    "boot": 85,
+    "A_reset_B": 21,
+    "navigation": 7,
+    "natural": 399,
+    "all_pixel_identical": true
+  },
+  "ordinary_inventory": "Owned Katana fiche;natural kusa dango selector opened/cancelled;6VRAM/tilemap contracts",
+  "almanac": "Actual22/12/1995 opened;French headers/Jour faste/Solstice/notice;chart weekday initials still English",
+  "visual_evidence": [
+    "renders/lot50_recovery42a_items303/manifest.json",
+    "renders/lot50_recovery42a_weakness71/manifest.json",
+    "renders/lot50_recovery42a_names32/manifest.json",
+    "renders/lot50_recovery42a_shop/report.json",
+    "renders/lot50_recovery42a_context/manifest.json",
+    "renders/lot50_recovery42a_natural_inventory/manifest.json"
+  ],
+  "limits": [
+    "Targeted shop entries/name overrides are fixtures,not natural visits or transactions",
+    "Weakness fixtures are not naturally selected View/All",
+    "No claim of reading all399natural frames;selected8natural scenes read",
+    "Other dates,branches,song synchronization,computed accesses and complete French review remain open"
+  ]
+}

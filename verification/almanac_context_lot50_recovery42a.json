@@ -1,0 +1,15 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "core_sha256": "f15fbd2724a62c5f9df0327cb41f07a1b111dfe966c65b27e0f21c06ad3e05b6",
+  "commands_sha256": "2c96d97d9b171d2a96c75813727a9a8cc563c7de9e9d0a231a79759e769eb556",
+  "source_field_state_sha256": "d207ce317fb76c5808fb7adee8cd76cdcccbe355597811f328a0a3c16507d482",
+  "controller_only": true,
+  "observe_only_core": false,
+  "visual_review": "All6full images read on almanac_repro context sheet;actual22/12/1995 only. Chart weekday initials remain English;other dates not validated.",
+  "repeat_clock_difference_bbox": [
+    72,
+    119,
+    80,
+    127
+  ]
+}

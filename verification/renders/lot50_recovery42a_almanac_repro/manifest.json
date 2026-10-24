@@ -1,0 +1,44 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "captures": [
+    {
+      "id": "almanac_repro/almanac",
+      "sheet": "context_01.png",
+      "pixels_sha256": "bcf8ec240c174eee72311ae7e7d9587c5945883b378188a8ef8261cfe94ac40f",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac_repro/almanac_selected",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4f1195d64eec00443e6b8984b3d97aadfe81bf24f3084ab1e6030e3feea5cd8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac_repro/main",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4f1195d64eec00443e6b8984b3d97aadfe81bf24f3084ab1e6030e3feea5cd8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac_repro/return",
+      "sheet": "context_01.png",
+      "pixels_sha256": "2db4c9a46cd417c5e63f2c9cd372e2f82f483370965e1679e0b71dbc19140847",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac_repro/row1",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4f1195d64eec00443e6b8984b3d97aadfe81bf24f3084ab1e6030e3feea5cd8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac_repro/row2",
+      "sheet": "context_01.png",
+      "pixels_sha256": "4f1195d64eec00443e6b8984b3d97aadfe81bf24f3084ab1e6030e3feea5cd8e",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 1,
+  "visual_review": "All6 complete replay views actually read. Almanac image pixel-identical to the earlier actual22/12/1995 view;5menu screens differ only within clock digit rectangle72,119..80,127 and were read. Chart weekday initials remain English.",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

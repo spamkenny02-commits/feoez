@@ -14,6 +14,10 @@ code=r'''
             if(getenv("FEOE_LOT50_GRAPHICS_TRACE") && ((Registers.PB==0xc0 && (Registers.PCw==0xaf35 || Registers.PCw==0xafa7 || Registers.PCw==0xafa9)) || (Registers.PB==0x4f && Registers.PCw==0xf8c0))) {
                 fprintf(stderr,"FEOE50_SHOP_DATA pc=%02x%04x A=%04x cursor=%02x%02x%02x stockptr=%02x%02x%02x name=%02x pending=%02x\n",Registers.PB,Registers.PCw,Registers.A.W,Memory.RAM[0xaa],Memory.RAM[0xa9],Memory.RAM[0xa8],Memory.RAM[0xde],Memory.RAM[0xdd],Memory.RAM[0xdc],Memory.RAM[0x1dcf],Memory.RAM[0x1f7c]);
             }
+            if(getenv("FEOE_LOT50_SHOP_NAME_INDEX") && Registers.PB==0x4f && Registers.PCw==0xf8c0) {
+                int index=atoi(getenv("FEOE_LOT50_SHOP_NAME_INDEX"));if(index<0||index>=32)abort();
+                fprintf(stderr,"FEOE50_SHOP_NAME fixture original=%u target=%u\n",Registers.AL-1,index);Registers.AL=index+1;
+            }
             static bool feoeShopDone=false,feoeShopText=false;
             if(getenv("FEOE_LOT50_SHOP_ENTRY") && !feoeShopDone && Registers.PB==0xc3 && Registers.PCw==0x29b6 && Registers.AL==48 && Memory.RAM[0xa8]==0x39 && Memory.RAM[0xa9]==0x63 && Memory.RAM[0xaa]==0xc7) {
                 int matches=0;

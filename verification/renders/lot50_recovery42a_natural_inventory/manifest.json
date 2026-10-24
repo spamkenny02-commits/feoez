@@ -1,0 +1,176 @@
+{
+  "rom_sha256": "0de5c6b87a54efe8d106fe71d108188d2419879e1e7da17783312b2820906ab6",
+  "captures": [
+    {
+      "id": "natural/mountain_arrival",
+      "sheet": "context_01.png",
+      "pixels_sha256": "3cc0e9f344664cde45f71a93127bea41a1852635bd032a8f069e1cac43c0d070",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/yonder_scene_talk19",
+      "sheet": "context_01.png",
+      "pixels_sha256": "92a8dc776676bd16b38141480ee4789284b6f04419dc0800d0fed044f3a4f0e2",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/mine_guard_talk05",
+      "sheet": "context_01.png",
+      "pixels_sha256": "80d14a140af5f2636ed16e004591d6d317880ea40b290da6cef9c2565e5b3f94",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/battle_round_b00_2",
+      "sheet": "context_01.png",
+      "pixels_sha256": "1ce504549a2697eb949bb9bd0ddfee5e91f6b9a29ce42566e5e0aa1b3242e8f8",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/battle_round_b04_4",
+      "sheet": "context_01.png",
+      "pixels_sha256": "56b0c6feaeb7ea9a1f6aba5a07da65ee0c363d729798dbc3f3f72470551cbad9",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/battle_round_b05_2",
+      "sheet": "context_01.png",
+      "pixels_sha256": "150e25bbcfb7f5aee7ae318365034ed3eeae237b9689cd1138ad052b4c83392e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/battle_round_b06_2",
+      "sheet": "context_01.png",
+      "pixels_sha256": "1318460edf4b49433f9b79ddcb820e8e8b45105db79004c9443e4d973ee68c9f",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "natural/natural_replay_final",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ebc86d2703e4e8985c1df5e4ca1e479091280da10cda46495956b090a2383fae",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/cancel",
+      "sheet": "context_01.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/equipment_close",
+      "sheet": "context_01.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/equipment_fiche",
+      "sheet": "context_01.png",
+      "pixels_sha256": "f1d2194a934a8bab831ce2aa84cfc609353abde820420ee236210e5d61c4ce79",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/equipment_selected",
+      "sheet": "context_01.png",
+      "pixels_sha256": "997370277984b90fb4cd64849bc6f0d26190027c5f3d2d9b4a3cd625003f3e8e",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/inventory",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4d1516d3aa50ad37c61dcbe1b56580c7d619b62a15a4c4b84a7758c62bfcb547",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/kusa_selected",
+      "sheet": "context_02.png",
+      "pixels_sha256": "ee1d138ea35e6220a81c9d2477b059193484ace1c1e48daaef808d1a35480882",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/main",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4ef4563c1166345f86147485a59c05be2e9a8ac900b05ec41d9c1fe2a5dc08c1",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/objects",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4ef4563c1166345f86147485a59c05be2e9a8ac900b05ec41d9c1fe2a5dc08c1",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/party_bookmark",
+      "sheet": "context_02.png",
+      "pixels_sha256": "b189fc7e9e55caaea8d82fb8881ad253fafa542fede1e90a86d131ec7a11d065",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/party_inventory",
+      "sheet": "context_02.png",
+      "pixels_sha256": "e3b0097ff8af5a1c4372318738bc05eb02854141b2996f55dbf88aeaa10f5abe",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/party_main",
+      "sheet": "context_02.png",
+      "pixels_sha256": "47af8098b0f00bcccc2bb0edaae74f5b6e50ba1756b6512c0d551823c712a243",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/party_objects",
+      "sheet": "context_02.png",
+      "pixels_sha256": "47af8098b0f00bcccc2bb0edaae74f5b6e50ba1756b6512c0d551823c712a243",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/sandals",
+      "sheet": "context_02.png",
+      "pixels_sha256": "ab4c7f216103772b930f298ee553dd0750afc67931e5b9e6b27f183d6c838157",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "inventory_proof/target",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4c3a29fb48c85902e77624c3cc1891994888bca9520d3b0d4e69cf28b5ee5ffd",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/almanac",
+      "sheet": "context_02.png",
+      "pixels_sha256": "bcf8ec240c174eee72311ae7e7d9587c5945883b378188a8ef8261cfe94ac40f",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/almanac_selected",
+      "sheet": "context_02.png",
+      "pixels_sha256": "4ffd658ccb8062044fc093edbb4515d9e15e7249e57591b4fb40ff44903e1e43",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/main",
+      "sheet": "context_03.png",
+      "pixels_sha256": "4ffd658ccb8062044fc093edbb4515d9e15e7249e57591b4fb40ff44903e1e43",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/return",
+      "sheet": "context_03.png",
+      "pixels_sha256": "fd4aa2190a0229eee8ca6602389a13f8944ef8f2af4f681dae057a47e18fd237",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/row1",
+      "sheet": "context_03.png",
+      "pixels_sha256": "4ffd658ccb8062044fc093edbb4515d9e15e7249e57591b4fb40ff44903e1e43",
+      "full_pixels_preserved": true
+    },
+    {
+      "id": "almanac/row2",
+      "sheet": "context_03.png",
+      "pixels_sha256": "4ffd658ccb8062044fc093edbb4515d9e15e7249e57591b4fb40ff44903e1e43",
+      "full_pixels_preserved": true
+    }
+  ],
+  "sheets": 3,
+  "visual_review": "All complete context sheets actually read on42a;includes startup/A-reset-B/navigation and ordinary inventory/selector views. Natural selected scenes reviewed where present;not a complete branch/date/song review.",
+  "scope": "Complete selected context captures;not all branches,dynamic values,dates or events"
+}

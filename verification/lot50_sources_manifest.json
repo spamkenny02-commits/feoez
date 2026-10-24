@@ -4,7 +4,7 @@
   "incomplete": true,
   "published": false,
   "phase_end_proven": false,
-  "new_distinct_sources_prepared": 14,
+  "new_distinct_sources_prepared": 42,
   "historical_integrated_sources_before_workspace_loss": 8,
   "new": [
     {
@@ -123,9 +123,241 @@
       "kind": "native2bpp",
       "count": 1,
       "status": "Prepared draft;combined native/PPU pending"
+    },
+    {
+      "id": "SHOPNAME-00",
+      "english": "Item Shop",
+      "french": "Boutique d'objets",
+      "french_in_game": "Objets",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-01",
+      "english": "Weapon Shop",
+      "french": "Armurerie",
+      "french_in_game": "Armurerie",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-02",
+      "english": "Tea House",
+      "french": "Salon de thé",
+      "french_in_game": "Salon de thé",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-04",
+      "english": "Hatchery",
+      "french": "Couvoir",
+      "french_in_game": "Couvoir",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-05",
+      "english": "Shrine Office",
+      "french": "Bureau du temple",
+      "french_in_game": "Bureau temple",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-06",
+      "english": "Pharmacy",
+      "french": "Pharmacie",
+      "french_in_game": "Pharmacie",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-07",
+      "english": "Peddler",
+      "french": "Colporteur",
+      "french_in_game": "Colporteur",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-08",
+      "english": "Skedaddle!",
+      "french": "Déguerpis !",
+      "french_in_game": "Déguerpis !",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-09",
+      "english": "Armor Store",
+      "french": "Boutique d'armures",
+      "french_in_game": "Armures",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-11",
+      "english": "Manju Shop",
+      "french": "Manjus",
+      "french_in_game": "Manjus",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-12",
+      "english": "Chestnuttery",
+      "french": "Châtaignes",
+      "french_in_game": "Châtaignes",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-14",
+      "english": "General Store",
+      "french": "Magasin général",
+      "french_in_game": "Mag. général",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-15",
+      "english": "Odds and Ends",
+      "french": "Bric-à-brac",
+      "french_in_game": "Bric-à-brac",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-16",
+      "english": "Liquor Store",
+      "french": "Spiritueux",
+      "french_in_game": "Spiritueux",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-17",
+      "english": "Crab Store",
+      "french": "Crabes",
+      "french_in_game": "Crabes",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-18",
+      "english": "Souvenir Shop",
+      "french": "Souvenirs",
+      "french_in_game": "Souvenirs",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-20",
+      "english": "Toy Store",
+      "french": "Jouets",
+      "french_in_game": "Jouets",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-21",
+      "english": "Talisman Shop",
+      "french": "Talismans",
+      "french_in_game": "Talismans",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-22",
+      "english": "Necklace Shop",
+      "french": "Colliers",
+      "french_in_game": "Colliers",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-23",
+      "english": "Fan Shop",
+      "french": "Éventails",
+      "french_in_game": "Éventails",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-24",
+      "english": "Ring Shop",
+      "french": "Bagues",
+      "french_in_game": "Bagues",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-25",
+      "english": "Shady Shop",
+      "french": "Boutique louche",
+      "french_in_game": "Bout. louche",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-26",
+      "english": "Powder Shop",
+      "french": "Poudres",
+      "french_in_game": "Poudres",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-27",
+      "english": "Inlay Shop",
+      "french": "Incrustations",
+      "french_in_game": "Incrustations",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-28",
+      "english": "Dango Shop",
+      "french": "Dangos",
+      "french_in_game": "Dangos",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-29",
+      "english": "Bakuzan's Shop",
+      "french": "Chez Bakuzan",
+      "french_in_game": "Chez Bakuzan",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-30",
+      "english": "Great Weapon Shop",
+      "french": "Grande armurerie",
+      "french_in_game": "Gde armurerie",
+      "kind": "graphics",
+      "count": 1
+    },
+    {
+      "id": "SHOPNAME-31",
+      "english": "Imoda's Shop",
+      "french": "Chez Imoda",
+      "french_in_game": "Chez Imoda",
+      "kind": "graphics",
+      "count": 1
     }
   ],
   "prior_item_variants_not_new": 303,
   "prior_label_variants_not_new": 10,
-  "recovery_note": "Known source text and fixed offsets recovered from conversation;historical P8b binary,cores,states,dumps and proofs were removed by workspace maintenance. No current ROM is certified by historical tests."
+  "recovery_note": "Known source text and fixed offsets recovered from conversation;historical P8b binary,cores,states,dumps and proofs were removed by workspace maintenance. No current ROM is certified by historical tests.",
+  "shop_name_alias_excluded": {
+    "SHOPNAME-10": "Weapon Store is semantic variant of SHOPNAME-01 Weapon Shop;Armurerie;not another new source"
+  },
+  "shop_name_not_added": {
+    "SHOPNAME-03": "Singles Tea House lacks proven FD80 consumer;not integrated or counted",
+    "SHOPNAME-13": "Ring & Ring proper business name,unchanged;not new",
+    "SHOPNAME-19": "Pharmacist already among14 sources;not counted again"
+  }
 }
